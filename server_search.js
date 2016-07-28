@@ -1,5 +1,5 @@
 var express = require('express');
-var casedict = require('./casedict.json');
+var casedict = require('public/js/casedict.json');
 var keys = Object.keys(casedict);
 
 var app = express();
