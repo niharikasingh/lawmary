@@ -1,0 +1,437 @@
+Mine Workers v. Gibbs, 383 U.S. 715, 725-726 (1966),
+held:
+"Pendent jurisdiction, in the sense of judicial power, exists
+whenever there is a claim `arising under [the] Constitution, the
+Laws of the United States, and Treaties made, or which shall be
+made, under their Authority . . . ,' U. S. Const., Art. III, § 2, and the
+relationship between that claim and the state claim permits the
+conclusion that the entire action before the court comprises but one
+constitutional `case.' The federal claim must have substance
+sufficient to confer subject matter jurisdiction on the court. . . . The
+state and federal claims must derive from a common nucleus of
+operative fact. But if, considered without regard to their federal or
+state character, a plaintiff's claims are such that he would ordinarily
+be expected to try them all in one judicial proceeding, then,
+assuming substantiality of the federal issues, there is power in
+federal courts to hear the whole.
+"That power need not be exercised in every case in which it is
+found to exist. It has consistently been recognized that pendent
+jurisdiction is a doctrine of discretion, not of plaintiff's right. Its
+justification lies in considerations of judicial economy, convenience
+and fairness to litigants; if these are not present a federal court
+should hesitate to exercise [427 U.S. 20] jurisdiction over state
+claims, even though bound to apply state law to them." (Footnotes
+omitted.)
+I
+Gibbs concerned a state-law claim jurisdictionally
+pendent to one of federal law, but no reason appears
+why the identical principles should not equally apply to
+pendent state-law claims involving the joinder of
+additional parties. In either case the Art. III question
+concerns only the subject matter and not the in
+personam jurisdiction of the federal courts. In either
+case the question of Art. III power in the federal
+judiciary to exercise subject-matter jurisdiction concerns
+whether the claims asserted are such as "would
+ordinarily be expected to [be tried] in one judicial
+proceeding," and the question of discretion addresses
+"considerations of judicial economy, convenience and
+fairness to litigants."
+To recognize that the addition of parties under the
+pendent jurisdiction of the federal courts will sometimes
+alter the balance of "judicial economy, convenience and
+fairness," or sometimes threaten to embroil federal
+courts in the resolution of uncertain questions of state
+law, and thereby make the exercise of this discretionary
+jurisdiction inappropriate, is only to speak to the
+question [427 U.S. 21] of the proper exercise of judicial
+discretion in the circumstances and does not vitiate the
+Gibbs analysis or its application to the question of
+pendent-party jurisdiction. To fail to recognize the
+applicability of Gibbs to the situation of pendent parties
+as well as claims would often compel a result aptly
+described by the Court of Appeals for the Eighth Circuit:
+" `[I]t would be an unjustifiable waste of judicial and professional
+time—indeed, a travesty on sound judicial administration—to allow
+plaintiff to try his [federal and state claims against certain
+codefendants] in Federal court but to require him to prosecute a
+claim involving precisely the same facts against [a codefendant
+joined pursuant only to the pendent state-law claim] in a State
+court,' " Schulman v. Huck Finn, Inc., 472 F.2d 864, 866 (1973)
+(quoting 350 F.Supp. 853, 858 (Minn. 1972)).
+In upholding an exercise of pendent-party jurisdiction
+under Gibbs principles in that case, the Court of Appeals
+reaffirmed, 472 F. 2d, at 867, an earlier decision of that
+court by my Brother BLACKMUN, Hatridge v. Aetna
+Cas. & Surety Co., 415 F.2d 809 (1969). Therein my
+Brother BLACKMUN, applying Gibbs principles in
+finding appropriate the exercise of federal pendentparty
+jurisdiction, set forth an analysis with which I am
+in complete accord:
+"[In] appropriate cases [pendent-party jurisdiction] makes good
+sense; it avoids forum shopping and multiple actions; it tends to
+reduce costs for litigants; and it avoids the waste of already heavily
+burdened judicial time." Id., at 817.
+II
+The Court today does not disclaim the applicability of
+Gibbs to the question of federal pendent-party
+jurisdiction. [427 U.S. 22] Rather, recognizing sub
+silentio the absurd results it would create by a disclaimer
+of the possibility of federal pendent-party
+jurisdiction—whether under the label of "ancillary"
+jurisdiction or that of "pendent party," see Moor v.
+County of Alameda, 411 U.S. 693, 714-715 (1973)—in a
+variety of possible contexts under various jurisdictional
+statutes and the Federal Rules of Civil Procedure, the
+Court declines "to lay down any sweeping
+pronouncement upon the existence or exercise of such
+jurisdiction." Ante, at 18. The Court instead reaches its
+result—the proclamation of a per se rule forbidding
+pendent jurisdiction over claims arising under state law
+against local governmental units when joined with a §
+1983 claim even where such claims "derive from a
+common nucleus of operative fact"—by purporting to
+find that "in this case Congress has by implication"
+expressed its disapproval of federal pendent-party
+jurisdiction "over a party such as Spokane County."
+Ante, at 19. That result is demonstrably untenable.
+The Court seeks to justify its per se rule by analysis of
+the congressional will as expressed in the federal statutes
+involved—28 U. S. C. § 1343 (3) and 42 U. S. C. § 1983.4
+The test the Court announces is "whether by [427 U.S.
+23] virtue of the statutory grant of subject-matter
+jurisdiction, upon which petitioner's principal claim . . .
+rests, Congress has addressed itself to the party as to
+whom jurisdiction pendent to the principal claim is
+sought." Ante, at 16. At one level of analysis, this test is
+of course meaningless, being capable of application to all
+cases, because all instances of asserted pendent-party
+jurisdiction will by definition involve a party as to
+whom Congress has impliedly "addressed itself" by not
+expressly conferring subject-matter jurisdiction on the
+federal courts. But, the Court says, it is drawing
+"deductions . . . from [the] congressional statutes as to
+whether Congress wanted to grant this sort of
+jurisdiction to federal courts," ante, at 17, and it
+"conclude[s] that in this case Congress has by
+implication declined." Ante, at 19. It is apparent,
+however, that analysis of the statutory enactments
+involved, their legislative history, and the congressional
+policies embodied therein belies the Court's assertion
+that its purported test for determining the propriety of
+pendent-party jurisdiction yields the result reached
+today.
+A
+The purely jurisdictional statute involved in this case, 28
+U. S. C. § 1343 (3), in no way speaks to the issue of
+pendent-party jurisdiction in respect to joinder of
+defendants under pendent state-law claims. On its face
+that statute speaks only to jurisdiction over civil actions
+[427 U.S. 24] "authorized by law to be commenced by
+any person," and plainly does not address the question of
+what parties shall be joined as defendants. Accordingly,
+the Court necessarily argues its proposition from "the
+scope of the cause of action," ante, at 17, created by §
+1983. But the legislative history of that enactment
+plainly gives no support to the Court's argument that
+Congress by implication intended to preclude the
+exercise of federal jurisdiction over state-law claims
+against local governmental units where such jurisdiction
+would otherwise lie under application of standard
+principles.
+Our precedents, Monroe v. Pape, 365 U.S. 167 (1961),
+and Moor v. County of Alameda, supra, firmly establish
+that the sole rationale for construing the "persons"
+susceptible of liability under § 1983 as excluding local
+units of government lies in the legislative history of the
+so-called Sherman Amendment to the Act of April 20,
+1871, § 1 of which enacted into law the first version of
+the present § 1983.4 The Senate approved one version
+of the Amendment proposed by Senator Sherman which
+would have expressly provided for local governmental
+liability, and the House rejected it. The Conference
+Committee reported another version and the House
+rejected the Conference Report. Thereafter, the Senate
+acceded to the House rejection of the Sherman
+Amendment and both Houses substituted in its place § 6
+of the 1871 Act, the first version of the present 42 U. S.
+C. § 1986. The rejection of the Sherman Amendment,
+and nothing more, has been the basis upon which we
+have [427 U.S. 25] construed § 1983 liability as not
+encompassing local governmental units. Monroe v.
+Pape, supra, at 188-191; Moor v. County of Alameda,
+411 U. S., at 707-710. But as those cases recognize, the
+reason for the House rejection of the Amendment, as
+stated by Mr. Poland, House Manager of the Conference
+Committee Report, was that "the House had solemnly
+decided that in their judgment Congress had no
+constitutional power to impose any obligation upon
+county and town organizations, the mere
+instrumentality for the administration of State law."
+Cong. Globe, 42d Cong., 1st Sess., 804 (1871) (emphasis
+supplied). See Monroe v. Pape, supra, at 190; Moor v.
+County of Alameda, supra, at 708. This judgment of the
+House respecting its lack of constitutional power to
+"impose . . . liability" "as a matter of federal law," id., at
+710 n. 27 (emphasis in original), on local governmental
+units pervades the legislative history of the aborted
+Sherman Amendment.
+In marked contrast in the legislative history of that
+proposed Amendment, however, is the absence of
+expression of hostility to federal judicial forums
+entertaining claims arising under state law. The
+opponents of the Sherman Amendment were, as the
+legislative history reveals, fully aware of several existing
+state laws respecting local government tort liability.
+Moreover, the opponents of the proposed Amendment,
+who consistently objected to the imposition of liability
+upon local governmental units as a matter of substantive
+federal law, also consistently expressed their views
+respecting the entertainment [427 U.S. 26] in federal
+forums of state-law claims against local governmental
+units.
+"[M]y colleague on this committee says that it is a common practice
+for the courts of the United States, in the exercise of the judicial
+powers granted to them in the Constitution, to enforce the
+performance of judgments against municipalities of this kind, such
+as counties and cities. I answer him that he, as well as any other
+intelligent lawyer of this House, well knows that that proposition is
+true to this extent only, that the Federal courts in the exercise of
+this grant of judicial powers may, where they have the jurisdiction
+under the Constitution, compel these municipalities to execute
+their contracts, and that is all. To execute their contracts; but let it
+be remembered that no decree of a Federal court has gone to the
+extent of saying that any one of these divisions should execute its
+own contracts except in precise compliance with the law of the
+State, in precise accordance with its own contract and the law upon
+which it was based, and not in pursuance of any law dictated to it by
+Congress. In other words, the extent of judicial power hitherto
+exercised in that direction has been confined to the execution of
+civil contracts, such as the payment of corporation and municipal
+bonds issued under State authority, where the courts of the United
+States had jurisdiction, and then only according to the law of the
+State recognizing and enforcing fully and kindly, and in all respects
+within the precise letter of the Constitution, the right of the State to
+govern itself, to regulate its municipal interests, to say whether a
+county or State may subscribe to a railroad, may issue or put out
+bonds and securities in a particular way, how those securities may
+be made payable and their [427 U.S. 27] payment made certain. If
+any county or city fails to perform its obligations its contracts can
+be enforced." Cong. Globe, 42d Cong., 1st Sess., 789 (1871)
+(remarks of Mr. Kerr) (emphasis supplied).
+"The gentleman from Ohio [Mr. Shellabarger] said this morning
+that the Supreme Court has decided in favor of this power on the
+part of Congress. It has done no such thing. Where a State has
+authorized a city or county to make a contract, and when, under the
+law of the State, they have made a contract binding themselves, the
+Supreme Court of the United States has said that they were liable to
+be sued for the enforcement of that contract. That is all the
+Supreme Court of the United States have [sic] ever decided in
+regard to the liability of municipal corporations. When the State
+which created them has authorized them to bind themselves by a
+contract, and they have done so, the court has very properly said
+that the courts were open for the enforcement of such contracts, as
+for enforcing the contracts of other parties. I PRESUME, TOO,
+THAT WHERE A STATE HAD IMPOSED A DUTY UPON
+SUCH MUNICIPALITY, AND PROVIDED THEY SHOULD BE
+LIABLE FOR ANY DAMAGES CAUSED BY FAILURE TO
+PERFORM SUCH DUTY, THAT AN ACTION WOULD BE
+ALLOWED TO BE MAINTAINED AGAINST THEM IN THE
+COURTS OF THE UNITED STATES UNDER THE ORDINARY
+RESTRICTIONS AS TO JURISDICTION. But the enforcing a
+liability, existing by their own contract, or by a State law, in the
+courts, is a very widely different thing from devolving a new duty
+or liability upon them by the national Government, which has no
+power either to create or destroy them, [427 U.S. 28] and no power
+or control over them whatever." Id., at 794 (remarks of Mr. Poland)
+(emphasis supplied).
+"Congress has never asserted or attempted to assert, so far as I
+know, any such authority. That amendment claims the power in
+the General Government to go into the States of this Union and lay
+such obligations as it may please upon the municipalities, which are
+the creations of the States alone. Now, sir, that is an exceedingly
+wide and sweeping power. I am unable to find a proper foundation
+for it. Though I am not disposed here and now to discuss it very
+minutely, I wish to say that thus far I am unable to see where the
+authority can rest. I listened with the utmost respect, and with all
+the attention in my power, to the argument of the gentleman from
+Ohio, [Mr. Shellabarger,] the chairman of the committee of
+conference, to see if I could ascertain just where he placed it, and I
+think I shall do him no wrong when I say that he wholly failed to
+show the House where the power resides. He did undertake to find
+some parallel in other action of the judiciary of the United States
+toward these municipalities, growing out of contracts; but, sir,
+when a municipality, under the authority given by a State, makes a
+contract it thereby lays itself liable to every remedy upon that
+contract, and it is liable to be sued by its own consent, and with the
+consent of the State that created it, in any court having jurisdiction
+of the subject matter of that contract.
+"This we all understand very well; but here it is proposed, not to
+carry into effect an obligation which rests upon the municipality,
+but to create that obligation, and that is the provision I am unable
+[427 U.S. 29] to assent to." Id., at 795 (remarks of Mr. Blair)
+(emphasis supplied).
+". . . [I]n the first place, I wish to remark that the decisions that have
+been referred to, those of Knox vs. Lee county and the others, go to
+this extent only, if I understand rightly their scope: that where a
+State imposes a duty upon county officers or State municipal
+corporations, the exercise of which is necessary to give effect to
+judgments or decrees of the United States courts, the latter can
+enforce the performance of that duty. In other words, where by the
+laws of a State the board of supervisors of a county, or the common
+council of a city, are authorized to levy a tax and collect funds to pay
+a judgment, for the purpose of enforcing satisfaction of the
+judgment, the United States court, by mandamus can compel those
+State officers, those officers of a municipal corporation, to perform
+that duty.
+"But there is no duty imposed by the Constitution of the United
+States, or usually by State laws, upon a county to protect the people
+of that county against the commission of the offenses herein
+enumerated, such as the burning of buildings or any other injury to
+property or injury to person. Police powers are not conferred upon
+counties as corporations; they are conferred upon cities that have
+qualified legislative power. AND SO FAR AS CITIES ARE
+CONCERNED, WHERE THE EQUAL PROTECTION
+REQUIRED TO BE AFFORDED BY A STATE IS IMPOSED
+UPON A CITY BY STATE LAWS, PERHAPS THE UNITED
+STATES COURTS COULD ENFORCE ITS PERFORMANCE."
+Ibid. (remarks of Mr. Burchard) (emphasis supplied).
+[427 U.S. 30] It is difficult to imagine a clearer
+recognition by opponents of extension of liability under
+federal law to a "person" of the difference between the
+application of federal substantive law to a given party
+and the entertainment of state-law claims respecting
+that party in federal court, or an instance where the
+legislative action is more clearly premised upon that
+distinction. Although the Court purports to be
+"deduc[ing]" the expressed congressional will as
+manifested in statutes and their legislative history,
+today's result is wholly belied by these crystal-clear
+expressions.
+B
+Today's result not only is insupportable under the
+Court's purported test for ascertaining the propriety of
+pendent-party jurisdiction in the federal courts, but,
+[427 U.S. 31] more importantly, it wholly disregards the
+congressional intent and policy in enacting the various
+Civil Rights Acts including the present § 1983. For, to
+an extent perhaps unparalleled in our history, the postCivil
+War Civil Rights Acts had as a focal point the
+provision that claims brought under those Acts should
+be entertained in federal judicial forums. The Civil
+Rights Acts were enacted in an era of "national feeling
+born of the Civil War. Nationalism was triumphant; in
+national administration was sought its vindication." F.
+Frankfurter & J. Landis, The Business of the Supreme
+Court 64 (1928). Contemporaneous with the passage of
+the Civil Rights Acts was the Act of March 3, 1875,
+which, in conferring general federal-question
+jurisdiction upon the federal courts, thereby made those
+courts "the primary and powerful reliances for
+vindicating every right given by the Constitution, the
+laws, and treaties of the United States." Id., at 65;
+Zwickler v. Koota, 389 U.S. 241, 247 (1967). "In thus
+expanding federal judicial power, Congress imposed the
+duty upon all levels of the federal judiciary to give due
+respect to a suitor's choice of a federal forum for the
+hearing and decision of his federal constitutional
+claims." Id., at 248.
+Although there has been disagreement among us upon
+the question of the precise scope of § 1983, none of us
+has heretofore denied "the fact that a powerful impulse
+behind the creation of [§ 1983] was the purpose that it
+be available in, and be shaped through, original federal
+tribunals, " or has forgotten "how important providing a
+federal trial court was among the several purposes of the
+Ku Klux Act." Monroe v. Pape, 365 U. S., at 252, 251
+(Frankfurter, J., dissenting) (emphasis supplied).
+"The predecessor of § 1983 was . . . an important [427
+U.S. 32] part of the basic alteration in our federal system
+wrought in the Reconstruction era through federal
+legislation and constitutional amendment. As a [427 U.S.
+33] result of the new structure of law that emerged in
+the post-Civil War era—and especially of the
+Fourteenth Amendment, which was its centerpiece—the
+role of the Federal Government as a guarantor of basic
+federal rights against state power was clearly established.
+. . . Section 1983 opened the federal courts to private
+citizens, offering a uniquely federal remedy against
+incursions under the claimed authority of state law upon
+rights secured by the Constitution and laws of the
+Nation." Mitchum v. Foster, 407 U.S. 225, 238-239
+(1972) (footnotes omitted).
+An extensive review of the legislative history of § 1983
+in Monroe v. Pape, supra, at 173-180, led this Court to
+conclude:
+"It is abundantly clear that one reason the legislation was passed
+was to afford a federal right in federal courts because, by reason of
+prejudice, passion, neglect, intolerance or otherwise, state laws
+might not be enforced and the claims of citizens to the enjoyment
+of rights, privileges, and immunities guaranteed by the Fourteenth
+Amendment might be denied by the state agencies." 365 U. S., at
+180; id., at 193 (Harlan, J., concurring).
+Review of that same legislative history in Mitchum v.
+Foster, supra, at 238-242, led us to proclaim it
+[427 U.S. 34] "evident that Congress clearly conceived that it was
+altering the relationship between the States and the Nation with
+respect to the protection of federally created rights; it was
+concerned that state instrumentalities could not protect those
+rights; it realized that state officers might, in fact, be antipathetic to
+the vindication of those rights; and it believed that these failings
+extended to the state courts.
+.....
+"Section 1983 was thus a product of a vast transformation from the
+concepts of federalism that had prevailed in the late 18th century . .
+. . The very purpose of § 1983 was to interpose the federal courts
+between the States and the people, as guardians of the people's
+federal rights—to protect the people from unconstitutional action
+under color of state law, `whether that action be executive,
+legislative, or judicial.' " 407 U. S., at 242.
+But by the announcement of its per se rule today, the
+Court undermines past teachings that the availability of
+a federal forum for claims brought pursuant to § 1983 is
+crucially important, and in one fell swoop erases the
+legislative [427 U.S. 35] intent that those teachings
+reflect. After today, a suitor seeking redress in a federal
+forum under § 1983 and redress for the same wrongs
+under state law must split his case, and he is remitted to
+duplicative litigation no matter how expensive, wasteful,
+and needless. Regardless of the balance of the
+discretionary factors enunciated in Gibbs; regardless of
+the clarity of state law respecting the pendent claim
+against the local governmental unit, cf. Wechsler,
+Federal Jurisdiction and the Revision of the Judicial
+Code, 13 Law & Contemp. Prob. 216, 232-233 (1948);
+regardless of the absolute [427 U.S. 36] identity of factual
+issues between the two claims, see Kates & Kouba,
+Liability of Public Entities Under Section 1983 of the
+Civil Rights Act, 45 S. Cal. L. Rev. 131, 162-163 (1972);
+regardless of the monetary expense and other
+disadvantages of duplicate litigation, see Fortune,
+Pendent Jurisdiction—The Problem of "Pendenting
+Parties," 34 U. Pitt. L. Rev. 1, 8-9 (1972); regardless of
+the waste of judicial time and the "travesty on sound
+judicial administration," supra, at 21, the Court by its
+per se rule forces upon a litigant the indefensible choice
+of either suffering the costs of duplicate litigation or
+forgoing his right, a right emphatically emphasized in
+the congressional policy, to a federal forum in which to
+be heard on his federal claim. To say that the suitor has
+available a state forum in which conveniently to litigate
+both his claims, ante, at 15, is patently to ignore the
+real issue, for it is painfully obvious that this does not
+result in a neutral choice by the suitor among available
+forums; rather it imparts a fundamental bias against
+utilization of the federal forum owing to the deterrent
+effect imposed by the needless requirement of duplicate
+litigation if the federal forum is chosen. P. Bator, P.
+Mishkin, D. Shapiro & H. Wechsler, Hart and
+Wechsler's The Federal Courts and the Federal System
+922-923 (2d ed. 1973). Accordingly, rather than [427
+U.S. 37] paying "due respect to a suitor's choice of a
+federal forum for the hearing and decision of his federal
+constitutional claims," Zwickler v. Koota, 389 U. S., at
+248, the Court today rides roughshod over this
+congressionally imposed duty and reaches a result that
+flies in the face of the expressed congressional intent. I
+dissent.

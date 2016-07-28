@@ -1,0 +1,190 @@
+Lachonne Bell appeals the grant of summary judgment
+by the United States District Court for the Eastern
+District of Arkansas in this diversity case in which she
+sought payment under two accidental death insurance
+policies upon the death of her ex-husband. Bell also
+appeals the district court's denial of her motion to
+amend her complaint. We affirm.
+I.
+Lachonne Bell purchased two insurance policies from
+Allstate Life Insurance Company (Allstate) under master
+group policies. Sears Roebuck & Company (Sears) was
+the policyholder in each case. One policy was an
+Accidental Death and Dismemberment policy, effective
+January 11, 1994, and the other was an Accidental Death
+policy, effective March 17, 1994. Both policies listed
+Lachonne Bell as the primary insured and defined
+"insured person" to include "you" (defined as the
+primary insured) and "if covered, your spouse."
+Lachonne Bell married Earl Bell on July 31, 1983. They
+were divorced on December 8, 1994, and Earl Bell died
+on June 30, 1995. Lachonne Bell filed a claim under both
+policies but was denied coverage because she was not
+married to Earl at the time of his death and thus, he was
+not her spouse and not covered under the policies.
+On March 20, 1997, Bell filed this diversity action to
+recover on the policies. Defendants moved for summary
+judgment on October 24, 1997, the last day for filing
+motions under the court's scheduling order. Bell filed a
+motion to amend her original complaint on October 30,
+1997, four working days after the court's motion cutoff
+deadline, seeking to add allegations that Allstate had
+illegally marketed the policies and that the policies
+violated Arkansas law by not including a conversion
+privilege. The district court denied the motion to amend
+and granted summary judgment [160 F.3d 454] in favor
+of the defendants on November 26, 1997.
+II.
+A. Leave to Amend Complaint
+Bell argues that the district court abused its discretion by
+denying her motion to amend her complaint. A decision
+whether to allow a party to amend her complaint is left
+to the sound discretion of the district court and should
+be overruled only if there is an abuse of discretion. See
+Humphreys v. Roche Biomedical Labs., Inc., 990 F.2d
+1078, 1081 (8th Cir.1993); Buder v. Merrill Lynch,
+Pierce, Fenner & Smith, Inc., 644 F.2d 690, 694 (8th
+Cir.1981). After an answer has been filed in response to
+the plaintiff's complaint, the plaintiff "may amend the
+party's pleading only by leave of court ... and leave shall
+be freely given when justice so requires." Fed.R.Civ.P.
+15(a). Proper justification for denying such a motion
+includes: "undue delay, bad faith or dilatory motive on
+the part of the movant, ... undue prejudice to the
+opposing party by virtue of allowance of the
+amendment, [and] futility of amendment." Foman v.
+Davis, 371 U.S. 178, 182, 83 S.Ct. 227, 9 L.Ed.2d 222
+(1962). Delay alone is insufficient justification; prejudice
+to the nonmovant must also be shown. See Buder, 644
+F.2d at 694 (finding that delay coupled with a mere
+recitation of prejudice by the district court was
+insufficient to pass scrutiny); Mercantile Trust Co. Nat'l
+Ass'n v. Inland Marine Prods. Corp., 542 F.2d 1010,
+1012 (8th Cir.1976) (holding that delay alone is not
+enough to deny a motion to amend). Any prejudice to
+the nonmovant must be weighed against the prejudice
+to the moving party by not allowing the amendment.
+Buder, 644 F.2d at 694.
+Bell filed her motion four working days after the motion
+cutoff date, certainly not late enough alone to be
+prejudicial. However, it was also after the discovery
+deadline and five weeks before trial. While the original
+complaint sought payment on the policies, the
+amendment alleged illegal activity in the marketing of
+the policies as well as violations of Arkansas law
+regarding the content of the policies. Cases in which an
+abuse of discretion has been found generally involve
+amendments based on facts similar to the original
+complaint. See Sanders v. Clemco Indus., 823 F.2d 214,
+216-17 (8th Cir.1987) (finding abuse of discretion where
+a party was not allowed to amend his complaint to
+properly plead diversity as the basis for jurisdiction);
+Buder, 644 F.2d at 694-95 & n. 5 (finding abuse where a
+plaintiff was not allowed to amend his complaint to
+plead fraud based on facts substantially similar to his
+previously pled securities law claim). On the other hand,
+when late tendered amendments involve new theories
+of recovery and impose additional discovery
+requirements, courts are less likely to find an abuse of
+discretion due to the prejudice involved. See Dover
+Elevator Co. v. Arkansas State Univ., 64 F.3d 442, 448
+(8th Cir.1995) (finding no abuse of discretion where
+trial was less than a month away, the discovery deadline
+was within a week of the motion to amend, and the
+amendment, adding a new theory of recovery, would
+leave the opposing party inadequate time to prepare);
+Vitale v. Aetna Cas. & Sur. Co., 814 F.2d 1242, 1252 (8th
+Cir.1987) (finding no abuse where the motion was made
+less than two months before trial, no reason was given
+for the delay, and the amendment may have required
+additional discovery on the new factual allegations). The
+amendments sought in this case would require
+additional discovery by the parties. They would require
+a review of the marketing of the policies as well as an
+evaluation of specific provisions of the policies for
+compliance with Arkansas insurance law. The district
+court found that if it allowed the amendment, it would
+require an extension of the already expired deadline for
+motions. The issues raised by the proposed amendment
+involve different factual and legal issues than the
+allegations in the original complaint.
+The district court denied Bell's motion because of undue
+delay, prejudice to the defendants in having to reopen
+discovery on new substantive claims so close to the trial
+date, and because the only reason for the untimeliness of
+the motion was Bell's lack of due diligence. Bell argues
+that her new claims have merit and she will be greatly
+prejudiced if the amendment is denied because the new
+claims are her only hope for victory on the [160 F.3d
+455] merits. While this may or may not be true, the
+district court provided adequate justification for its
+ruling.
+Bell also argues the district court should have reopened
+discovery in lieu of denying the motion. It is within the
+district court's discretion to extend discovery, grant a
+continuance, or require the moving party to compensate
+the opposing party for any losses caused by allowing the
+amendment. See Buder, 644 F.2d at 694. But it is just
+that — the district court's discretion. We are unable to
+say on these facts that the district court abused its
+discretion in denying Bell's motion to amend her
+complaint.
+B. Summary Judgment
+Bell appeals the district court's grant of summary
+judgment on her claims as originally filed, arguing that
+the alleged illegal activities of the defendants in relation
+to the insurance policies raise a genuine issue of material
+fact regarding her recovery under the policies. We
+review a grant of summary judgment de novo, see
+Dupps v. Travelers Ins. Co., 80 F.3d 312, 313 (8th
+Cir.1996), viewing the record in the light most favorable
+to Bell, the nonmoving party. Summary judgment is
+appropriate if there are no genuine issues of material
+fact in the record and the moving party is entitled to
+judgment as a matter of law. Fed.R.Civ.P. 56(c); Celotex
+Corp. v. Catrett, 477 U.S. 317, 322-23, 106 S.Ct. 2548,
+91 L.Ed.2d 265 (1986).
+State law controls the construction of insurance policies
+when a federal court is exercising diversity jurisdiction.
+Langley v. Allstate Ins. Co., 995 F.2d 841, 844 (8th
+Cir.1993) (citations omitted). We review the district
+court's interpretation of Arkansas law de novo. Dupps,
+80 F.3d at 313. Arkansas courts follow a long-standing
+rule that the language of an insurance policy controls if
+the terms are clear and unambiguous. Courts refuse to
+rewrite the policy to make an insurer liable for a risk
+that is plainly excluded. See Vincent v. Prudential Ins.
+Brokerage, 333 Ark. 414, 970 S.W.2d 215, 216
+(Ark.1998); Smith v. Shelter Mut. Ins. Co., 327 Ark.
+208, 937 S.W.2d 180, 181-82 (1997). Words are to be
+construed in their "plain, ordinary, popular sense."
+Langley, 995 F.2d at 844-45 (internal quotations
+omitted).
+Both policies in question name Lachonne Bell as the
+"primary insured." The Certificate of Insurance defines
+"primary insured" to be "you, the individual named on
+the certificate," and defines "insured person" to be "you,
+and if covered, your spouse." There is nothing
+ambiguous about this language, taken in its ordinary
+sense. See WEBSTER'S THIRD NEW
+INTERNATIONAL DICTIONARY 2208 (1986)
+(defining "spouse" as a "man or woman joined in
+wedlock: married person: husband, wife"). Lachonne
+and Earl Bell were divorced December 8, 1994. Earl Bell
+died June 30, 1995. Earl Bell was not an "insured person"
+under either policy since he was neither the individual
+named on the certificate nor the spouse of that person at
+the time of his death. Because there is no genuine issue
+of material fact regarding the coverage of Earl Bell,
+summary judgment was appropriate.
+Bell argues that summary judgment was inappropriate
+because, as she alleges, the insurance policies were
+illegally marketed and violated various Arkansas
+statutes. Because the district court denied her request to
+amend the complaint, which we affirm, these claims are
+not part of the record, see Fed. R.Civ.P. 56(c), and are
+not considered when determining the summary
+judgment motion.
+III.
+For the reasons stated above, we affirm the judgment of
+the district court.

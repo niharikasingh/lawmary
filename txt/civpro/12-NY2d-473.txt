@@ -1,0 +1,356 @@
+On Friday, September 16, 1960, Miss Georgia Babcock
+and her friends, Mr. and Mrs. William Jackson, all
+residents of Rochester, left that city in Mr. Jackson's
+automobile, Miss Babcock as guest, for a week-end trip
+to Canada. Some hours later, as Mr. Jackson was driving
+in the Province of Ontario, he apparently lost control of
+the car; it went off the highway into an adjacent stone
+wall, and Miss Babcock was seriously injured. Upon her
+return to this State, she brought 
+[12 N.Y.2d 477]
+ the
+present action against William Jackson, alleging
+negligence on his part in operating his automobile.
+1
+At the time of the accident, there was in force in
+Ontario a statute providing that "the owner or driver of
+a motor vehicle, other than a vehicle operated in the
+business of carrying passengers for compensation, is not
+liable for any loss or damage resulting from bodily
+injury to, or the death of any person being carried in * *
+* the motor vehicle" (Highway Traffic Act of Province
+of Ontario [Ontario Rev. Stat. (1960), ch. 172], 
+§
+ 105,
+subd. [2]). Even though no such bar is recognized under
+this State's substantive law of torts (see, e.g., Higgins v.
+Mason, 255 N.Y. 104, 108; Nelson v. Nygren, 259 N.Y.
+71), the defendant moved to dismiss the complaint on
+the ground that the law of the place where the accident
+occurred governs and that Ontario's guest statute bars
+recovery. The court at Special Term, agreeing with the
+defendant, granted the motion and the Appellate
+Division, over a strong dissent by Justice HALPERN,
+affirmed the judgment of dismissal without opinion.
+The question presented is simply drawn. Shall the law of
+the place of the tort
+2 
+invariably govern the availability of
+relief for the tort or shall the applicable choice of law
+rule also reflect a consideration of other factors which
+are relevant to the purposes served by the enforcement
+or denial of the remedy?
+The traditional choice of law rule, embodied in the
+original Restatement of Conflict of Laws (
+§
+ 384), and
+until recently unquestioningly followed in this court
+(see, e.g., Poplar v. Bourjois, Inc., 298 N.Y. 62, 66;
+Kaufman v. American Youth Hostels, 5 N.Y.2d 1016,
+modfg. 6 A.D.2d 223), has been that the substantive
+rights and liabilities arising out of a tortious occurrence
+are determinable by the law of the place of the tort. (See
+Goodrich, Conflict of Laws [3d ed., 1949], p. 260; Leflar,
+The Law of Conflict of Laws [1959], p. 207; Stumberg,
+Principles of Conflict of Laws [2d ed., 1951], p. 182.) It
+had its conceptual foundation in the vested rights
+doctrine, namely, that a right to recover for a foreign
+tort owes its creation to the law of the 
+[12 N.Y.2d 478]
+jurisdiction where the injury occurred and depends for
+its existence and extent solely on such law. (See
+Hancock, Torts in the Conflict of Laws [1942], pp. 30-
+36; Reese, The Ever Changing Rules of Choice of Law,
+Nederlands Tijdschrift Voor Internationaal Recht
+[1962], 389.) Although espoused by such great figures as
+Justice HOLMES (see Slater v. Mexican Nat. R. R. Co.,
+194 U.S. 120) and Professor Beale (2 Conflict of Laws
+[1935], pp. 1286-1292), the vested rights doctrine has
+long since been discredited because it fails to take
+account of underlying policy considerations in
+evaluating the significance to be ascribed to the
+circumstance that an act had a foreign situs in
+determining the rights and liabilities which arise out of
+that act.
+3 
+ "The vice of the vested rights theory", it has
+been aptly stated, "is that it affects to decide concrete
+cases upon generalities which do not state the practical
+considerations involved". (Yntema, The Hornbook
+Method and the Conflict of Laws, 37 Yale L. J. 468, 482-
+483.) More particularly, as applied to torts, the theory
+ignores the interest which jurisdictions other than that
+where the tort occurred may have in the resolution of
+particular issues. It is for this very reason that, despite
+the advantages of certainty, ease of application and
+predictability which it affords (see Cheatham and Reese,
+Choice of the Applicable Law, 52 Col. L. Rev. 959, 976),
+there has in recent years been increasing criticism of the
+traditional rule by commentators
+4 
+ and a judicial trend
+towards its abandonment or modification.
+5
+[12 N.Y.2d 479]
+ Significantly, it was dissatisfaction with
+"the mechanical formulae of the conflicts of law"
+(Vanston Committee v. Green, 329 U.S. 156, 162) which
+led to judicial departure from similarly inflexible choice
+of law rules in the field of contracts, grounded, like the
+torts rule, on the vested rights doctrine. According to
+those traditional rules, matters bearing upon the
+execution, interpretation and validity of a contract were
+determinable by the internal law of the place where the
+contract was made, while matters connected with their
+performance were regulated by the internal law of the
+place where the contract was to be performed. (See
+Swift & Co. v. Bankers Trust Co., 280 N.Y. 135, 141;
+see, also, Restatement, Conflict of Laws, 
+§§
+ 332, 358;
+Goodrich, Conflict of Laws [3d ed., 1949], pp. 342-343.)
+In Auten v. Auten (308 N.Y. 155), however, this court
+abandoned such rules and applied what has been termed
+the "center of gravity" or "grouping of contacts" theory
+of the conflict of laws. "Under this theory," we declared
+in the Auten case, "the courts, instead of regarding as
+conclusive the parties' intention or the place of making
+or performance, lay emphasis rather upon the law of the
+place `which has the most significant contacts with the
+matter in dispute'" (308 N. Y., at p. 160). The "center of
+gravity" rule of Auten has not only been applied in other
+cases in this State,
+6 
+ as well as in other jurisdictions,
+7 
+ but
+has supplanted the prior rigid and set contract rules in
+the most current draft of the Restatement of Conflict of
+Laws. (See Restatement, Second, Conflict of Laws, 
+§
+332b [Tentative Draft No. 6, 1960].)
+Realization of the unjust and anomalous results which
+may ensue from application of the traditional rule in
+tort cases has also prompted judicial search for a more
+satisfactory alternative in that area. In the much
+discussed case of Kilberg v. Northeast Airlines (9 N.Y.2d
+34), this court declined to apply the law of the place of
+the tort as respects the issue of the quantum of the
+recovery in a death action arising out of an airplane
+crash, 
+[12 N.Y.2d 480]
+ where the decedent had been a
+New York resident and his relationship with the
+defendant airline had originated in this State. In his
+opinion for the court, Chief Judge DESMOND
+described, with force and logic, the shortcomings of the
+traditional rule (9 N Y 2d, at p. 39):
+"Modern conditions make it unjust and anomalous to subject the
+traveling citizen of this State to the varying laws of other States
+through and over which they move. * * * An air traveler from New
+York may in a flight of a few hours' duration pass through * * *
+commonwealths [limiting death damage awards]. His plane may
+meet with disaster in a State he never intended to cross but into
+which the plane has flown because of bad weather or other
+unexpected developments, or an airplane's catastrophic descent may
+begin in one State and end in another. The place of injury becomes
+entirely fortuitous. Our courts should if possible provide protection
+for our own State's people against unfair and anachronistic
+treatment of the lawsuits which result from these disasters."
+The emphasis in Kilberg was plainly that the merely
+fortuitous circumstance that the wrong and injury
+occurred in Massachusetts did not give that State a
+controlling concern or interest in the amount of the tort
+recovery as against the competing interest of New York
+in providing its residents or users of transportation
+facilities there originating with full compensation for
+wrongful death. Although the Kilberg case did not
+expressly adopt the "center of gravity" theory, its
+weighing of the contacts or interests of the respective
+jurisdictions to determine their bearing on the issue of
+the extent of the recovery is consistent with that
+approach. (See Leflar, Conflict of Laws, 1961 Ann. Sur.
+Amer. Law, 29, 45.)
+The same judicial disposition is also reflected in a variety
+of other decisions, some of recent date, others of earlier
+origin, relating to workmen's compensation,
+8 
+ tortious
+occurrences arising 
+[12 N.Y.2d 481]
+ out of a contract,
+9
+issues affecting the survival of a tort right of action
+10
+and intrafamilial immunity from tort
+11 
+ and situations
+involving a form of statutory liability.
+12 
+ These
+numerous cases differ in many ways but they are all
+similar in two important respects. First, by one rationale
+or another, they rejected the inexorable application of
+the law of the place of the tort where that place has no
+reasonable or relevant interest in the particular issue
+involved. And, second, in each of these cases the courts,
+after examining the particular circumstances presented,
+applied the law of some jurisdiction other than the place
+of the tort because it had a more compelling interest in
+the application of its law to the legal issue involved.
+The "center of gravity" or "grouping of contacts"
+doctrine adopted by this court in conflicts cases
+involving contracts impresses us as likewise affording
+the appropriate approach for accommodating the
+competing interests in tort cases with multi-State
+contacts. Justice, fairness and "the best practical result"
+(Swift & Co. v. Bankers Trust Co., 280 N.Y. 135, 141,
+supra) may best be achieved by giving controlling effect
+to the law of the jurisdiction which, because of its
+relationship or contact with the occurrence or the
+parties, has the greatest concern with the specific issue
+raised in the litigation. The merit of such a rule is that
+"it gives to the place `having the most interest in the
+problem' paramount control over the legal issues arising
+out of a particular factual context" and thereby allows
+the forum to apply "the policy of the jurisdiction `most
+[12 N.Y.2d 482]
+ intimately concerned with the outcome
+of [the] particular litigation.'" (Auten v. Auten, 308 N.Y.
+155, 161, supra.)
+Such, indeed, is the approach adopted in the most recent
+revision of the Conflict of Laws Restatement in the field
+of torts. According to the principles there set out, "The
+local law of the state which has the most significant
+relationship with the occurrence and with the parties
+determines their rights and liabilities in tort"
+(Restatement, Second, Conflict of Laws, 
+§
+ 379[1]; also
+Introductory Note to Topic 1 of Chapter 9, p. 3
+[Tentative Draft No. 8, 1963]), and the relative
+importance of the relationships or contacts of the
+respective jurisdictions is to be evaluated in the light of
+"the issues, the character of the tort and the relevant
+purposes of the tort rules involved" (
+§
+ 379[2], [3]).
+Comparison of the relative "contacts" and "interests" of
+New York and Ontario in this litigation, vis-a-vis the
+issue here presented, makes it clear that the concern of
+New York is unquestionably the greater and more direct
+and that the interest of Ontario is at best minimal. The
+present action involves injuries sustained by a New
+York guest as the result of the negligence of a New York
+host in the operation of an automobile, garaged, licensed
+and undoubtedly insured in New York, in the course of
+a week-end journey which began and was to end there.
+In sharp contrast, Ontario's sole relationship with the
+occurrence is the purely adventitious circumstance that
+the accident occurred there.
+New York's policy of requiring a tort-feasor to
+compensate his guest for injuries caused by his
+negligence cannot be doubted — as attested by the fact
+that the Legislature of this State has repeatedly refused
+to enact a statute denying or limiting recovery in such
+cases (see, e.g., 1930 Sen. Int. No. 339, Pr. No. 349; 1935
+Sen. Int. No. 168, Pr. No. 170; 1960 Sen. Int. No. 3662,
+Pr. No. 3967) — and our courts have neither reason nor
+warrant for departing from that policy simply because
+the accident, solely affecting New York residents and
+arising out of the operation of a New York based
+automobile, happened beyond its borders. Per contra,
+Ontario has no conceivable interest in denying a remedy
+to a New York guest against his New York host for
+injuries suffered in Ontario by reason of conduct which
+was tortious under Ontario law. The object of Ontario's
+guest statute, it has been said, is "to prevent the
+fraudulent assertion 
+[12 N.Y.2d 483]
+ of claims by
+passengers, in collusion with the drivers, against
+insurance companies" (Survey of Canadian Legislation,
+1 U. Toronto L. J. 358, 366) and, quite obviously, the
+fraudulent claims intended to be prevented by the
+statute are those asserted against Ontario defendants and
+their insurance carriers, not New York defendants and
+their insurance carriers. Whether New York defendants
+are imposed upon or their insurers defrauded by a New
+York plaintiff is scarcely a valid legislative concern of
+Ontario simply because the accident occurred there, any
+more so than if the accident had happened in some
+other jurisdiction.
+It is hardly necessary to say that Ontario's interest is
+quite different from what it would have been had the
+issue related to the manner in which the defendant had
+been driving his car at the time of the accident. Where
+the defendant's exercise of due care in the operation of
+his automobile is in issue, the jurisdiction in which the
+allegedly wrongful conduct occurred will usually have a
+predominant, if not exclusive, concern. In such a case, it
+is appropriate to look to the law of the place of the tort
+so as to give effect to that jurisdiction's interest in
+regulating conduct within its borders, and it would be
+almost unthinkable to seek the applicable rule in the law
+of some other place.
+The issue here, however, is not whether the defendant
+offended against a rule of the road prescribed by Ontario
+for motorists generally or whether he violated some
+standard of conduct imposed by that jurisdiction, but
+rather whether the plaintiff, because she was a guest in
+the defendant's automobile, is barred from recovering
+damages for a wrong concededly committed. As to that
+issue, it is New York, the place where the parties
+resided, where their guest-host relationship arose and
+where the trip began and was to end, rather than
+Ontario, the place of the fortuitous occurrence of the
+accident, which has the dominant contacts and the
+superior claim for application of its law. Although the
+rightness or wrongness of defendant's conduct may
+depend upon the law of the particular jurisdiction
+through which the automobile passes, the rights and
+liabilities of the parties which stem from their guest-
+host relationship should remain constant and not vary
+and shift as the automobile proceeds from place to place.
+Indeed, such a result, we note, 
+[12 N.Y.2d 484]
+ accords
+with "the interests of the host in procuring liability
+insurance adequate under the applicable law, and the
+interests of his insurer in reasonable calculability of the
+premium." (Ehrenzweig, Guest Statutes in the Conflict
+of Laws, 69 Yale L. J. 595, 603.)
+Although the traditional rule has in the past been
+applied by this court in giving controlling effect to the
+guest statute of the foreign jurisdiction in which the
+accident occurred (see, e.g., Smith v. Clute, 277 N.Y.
+407; Kerfoot v. Kelley, 294 N.Y. 288; Naphtali v.
+Lafazan, 8 N.Y.2d 1097, affg. 8 A.D.2d 22), it is not
+amiss to point out that the question here posed was
+neither raised nor considered in those cases and that the
+question has never been presented in so stark a manner
+as in the case before us with a statute so unique as
+Ontario's.
+13 
+ Be that as it may, however, reconsideration
+of the inflexible traditional rule persuades us, as already
+indicated, that, in failing to take into account essential
+policy considerations and objectives, its application may
+lead to unjust and anomalous results. This being so, the
+rule, formulated as it was by the courts, should be
+discarded. (Cf. Bing v. Thunig, 2 N.Y.2d 656, 667;
+Woods v. Lancet, 303 N.Y. 349, 355.)
+14
+In conclusion, then, there is no reason why all issues
+arising out of a tort claim must be resolved by reference
+to the law of the same jurisdiction. Where the issue
+involves standards of conduct, it is more than likely that
+it is the law of the place of the tort which will be
+controlling but the disposition of other issues must turn,
+as does the issue of the standard of conduct itself, on the
+law of the jurisdiction which has the strongest interest
+in the resolution of the particular issue presented.
+[12 N.Y.2d 485]
+ The judgment appealed from should be
+reversed, with costs, and the motion to dismiss the
+complaint denied.

@@ -1,0 +1,642 @@
+Appellants, employees of the City of Grenada,
+Mississippi's fire department, filed suit against the City,
+and against present and former city council members
+and management employees in their official and
+individual capacities, alleging that the City had violated
+overtime compensation provisions of the Fair Labor
+Standards Act, 29 U.S.C. § 201 et seq. (FLSA), by
+refusing to pay appellants for "sleep time" in accordance
+with 29 U.S.C. § 207(a) and (k) and 29 C.F.R. § 553.222.
+They additionally demanded overtime compensation for
+all fire personnel holding the rank of fire captain,
+contending that the City had wrongly classified fire
+captains as salaried employees under 29 C.F.R. § 541.1
+to avoid FLSA [988 F.2d 1428] overtime provisions.
+Appellants asserted, alternatively, that should they not
+be entitled to recover full sleep time pay, they were at
+least entitled under § 553.222 to payment for unpaid
+sleep interruptions.
+Upon a motion by appellees for partial summary
+judgment, the district court dismissed appellants' claims
+for sleep time compensation, holding that the claim was
+barred by the FLSA's three-year statute of limitations,
+and dismissed appellants' individual capacity claims
+against appellees, concluding that in their individual
+capacities, appellees were not FLSA employers. The
+court further granted summary judgment for the City
+on appellants' claim relating to the status of captains as
+exempt salaried employees. The court, however, refused
+to grant summary judgment for the City on appellants'
+claim for interrupted sleep time compensation.
+Following trial, that issue was submitted to the jury, as
+the sole issue for its consideration, which found in favor
+of appellees. The district court denied appellants'
+motion for a new trial and this appeal followed. For the
+reasons that follow, we affirm the district court's
+disposition of appellants' claims.
+BACKGROUND
+In 1985, the United States Supreme Court ruled in
+Garcia v. San Antonio Metropolitan Transit Authority,
+469 U.S. 528, 105 S.Ct. 1005, 83 L.Ed.2d 1016 (1985),
+that the FLSA, including its minimum wage and
+overtime provisions, applies to municipalities. The
+FLSA exempts from its overtime provisions employers
+of firefighters if certain conditions are satisfied, that is,
+such employers are required to pay overtime only if the
+hours worked in a 28-day work period exceed 212
+hours. Further, FLSA regulations specifically address
+the compensability of sleep time, providing at 29 C.F.R.
+§ 553.222(c) that a public employer may exclude sleep
+time of firefighters who are on a scheduled tour of duty
+of more than 24 hours, if, "but only if there is an
+expressed or implied agreement between the employer
+and the employees to exclude such time" from hours
+worked. 29 C.F.R. § 553.222(c). "In the absence of such
+an agreement, the sleep time is compensable." Id. See
+also Morehead v. Pearl, 763 F.Supp. 175, 176
+(S.D.Miss.1990); Harrison v. Clarksville, 732 F.Supp.
+804, 806 (M.D.Tenn.1989); Jacksonville Professional
+Fire Fighters Ass'n, Local 2961 v. Jacksonville, 685
+F.Supp. 513, 518-19 (E.D.N.C. 1987); International
+Ass'n of Firefighters, Local 349 v. Rome, 682 F.Supp.
+522, 529 (N.D.Ga.1988). While sleep time, therefore,
+can be excluded from compensable hours of work, the
+regulations require that sleep time which is interrupted
+by a call to duty must be counted as hours worked, and
+"[i]f the sleep time is interrupted to such an extent that
+the employee cannot get a reasonable night's sleep, ...
+the entire time must be counted as hours of work." 29
+U.S.C. § 553.222(c). Finally, as is pertinent here, the
+FLSA exempts from its overtime requirements salaried,
+executive employees, 29 U.S.C. § 213(a)(1), as that term
+is defined at 29 C.F.R. § 541.1.
+[988 F.2d 1429] In response to Garcia, the City of
+Grenada undertook to devise a new work schedule and
+pay system for its fire department personnel. Whereas
+fire department personnel had previously worked shifts
+of 24 hours on and 48 hours off, the system proposed by
+the City established a 28-day tour of duty with 25 hours
+on and 47 hours off. Additionally, under the new
+system, eight hours of a shift were designated as sleep
+time, so that employees were no longer to be paid for
+their entire shift, but rather were to be paid for 17 hours
+of a 25-hour shift. The new plan also designated fire
+captains as executive employees and changed them from
+hourly to salaried status.
+To implement the new system, James Turner, Grenada's
+city manager, met with fire department personnel in
+August 1985. Turner explained the system and
+distributed to each employee for his signature a
+document entitled "FLSA Agreement." The agreements
+recited that the signing employee "underst[oo]d and
+agree[d] to the changes made regarding [the Fair Labor
+Standards Act]," including, inter alia, that "[s]leeping
+time up to eight (8) hours will be deducted from the
+hours in a tour of duty." The agreements further
+provided that "interrupted sleep time will be paid[;] if
+interruption is over three (3) hours, the full eight (8)
+hours of sleep will be counted as hours worked." Each of
+the appellants signed a FLSA Agreement. The City's
+new work schedule and pay system became effective
+October 4, 1985 and the first paychecks under the
+system were issued October 25, 1985. Appellants
+worked and were paid in accordance with this system
+for nearly four years before filing suit against the City
+on July 6, 1989. In their complaint, appellants alleged
+that the City had illegally extracted from them waivers
+of their right to compensation for sleep time by coercing
+them to sign the FLSA Agreements under threat of
+termination and that consequently, the FLSA
+Agreements were void. And those individuals who held
+the position of fire captain charged that they were not,
+in fact, executive employees but rather had been
+pretextually classified as such by the City to avoid
+FLSA's overtime requirements. Thus, all appellants
+alleged they were entitled to receive overtime
+compensation for their sleep time.
+ANALYSIS
+I.
+Though the coercion alleged by appellants, and the
+implementation of the City's post-Garcia pay plan
+occurred more than three years prior to their filing suit,
+appellants contended that their suit was not barred by
+the FLSA's three-year statute of limitations, 29 U.S.C. §
+255(a), since they were not challenging the
+implementation of the pay system, but rather contended
+that each paycheck they received under the new pay
+system constituted a continuing violation of the FLSA
+and allowed them to recover for violations occurring
+during the [988 F.2d 1430] limitations period. Appellees
+contended, and the district court agreed, that appellants'
+claim for sleep time compensation was time-barred
+since appellants' claim was based on a singular, discrete
+act — the City's implementation of a pay system based
+on allegedly void waivers — which occurred more than
+three years prior to appellants' filing suit. The court
+likewise concluded that as to those employees who held
+the position of fire captain at the time the new pay plan
+was implemented, their claims that they were not
+properly classified and treated as exempt employees
+were time-barred. This court agrees, and finds that the
+district court properly rejected appellants' bid to avert
+application of the limitations bar on the basis of a
+continuing violation theory.
+The issue in a case such as this, where a claim is made
+that a continuing violation has occurred so as to, in
+effect, extend the time for filing suit, "is whether the
+reduction in pay was a single act of discrimination under
+the FLSA, hence barred by its three year statute of
+limitations, or whether the reduction effected in each
+subsequent paycheck constitutes a violation of the Act,
+thus making the complaint timely, at least in part."
+Hendrix v. Yazoo City, 911 F.2d 1102 (5th Cir.1990). As
+this court explained in Hendrix, the continuing violation
+theory encompasses two types of cases:
+The first includes cases in which the original violation occurred
+outside the statute of limitations, but is closely related to other
+violations that are not time-barred. In such cases, recovery may be
+had for all violations, on the theory that they are part of one,
+continuing violation.
+The second type of continuing violation is one in which an initial
+violation, outside the statute of limitations, is repeated later; in this
+case, each violation begins the limitations period anew, and
+recovery may be had for at least those violations that occurred
+within the period of limitations.
+Hendrix, 911 F.2d at 1103-04 (footnotes omitted). In
+contrast,
+if the discrimination alleged is solely the result of a single violation
+that occurred outside the statute of limitations, the later effect of
+this act does not constitute a continuing violation of the statute.
+Id. at 1104 (citing United Air Lines, Inc. v. Evans, 431
+U.S. 553, 97 S.Ct. 1885, 52 L.Ed.2d 571 (1977), and
+Lorance v. AT & T Technologies, 490 U.S. 900, 109
+S.Ct. 2261, 104 L.Ed.2d 961 (1989)).
+Appellants cite Halferty v. Pulse Drug Co., 821 F.2d 261,
+modified on other grounds, 826 F.2d 2 (5th Cir.1987),
+for the proposition that a challenge to a pay system
+under FLSA inherently charges a continuing violation.
+In Halferty, this court applied the doctrine of continuing
+violations to overtime and minimum wage violations
+under the FLSA, and allowed the plaintiff to recover for
+overtime hours worked dating back to the beginning of
+the statute of limitations period, even though the terms
+of her employment were entered into outside the statute
+of limitations. There, the court stated: "A cause of action
+(for the violation of the FLSA) accrues at each regular
+payday immediately following the work period during
+which the services were rendered for which the wage
+and overtime compensation is claimed." Halferty, 821
+F.2d at 271 (citing Hodgson v. Behrens Drug Co., 475
+F.2d 1041, 1050-51 (5th Cir.), cert. denied, 414 U.S. 822,
+94 S.Ct. 121, 38 L.Ed.2d 55 (1973)). The district court
+found Halferty inapposite, and resolved instead that this
+court's holding in Hendrix v. Yazoo City, 911 F.2d 1102
+(5th Cir.1990), was "logically applicable."
+In Hendrix, this court found that a city's unilateral
+reduction of the base salary of its firefighters following
+Garcia, in violation of an FLSA interim
+antidiscrimination measure, was a single violation of the
+FLSA which triggered the running of the statute of
+limitations. The court opined that while this pay
+reduction was reflected in subsequent pay packets
+received by the firefighters, the pay packets simply gave
+continuing effect to a past discriminatory act in a facially
+neutral manner and therefore did not constitute a
+continuing violation. Hendrix, 911 F.2d at 1105.
+Accordingly, the plaintiffs' claim was time-barred.
+[988 F.2d 1431] The district court properly concluded
+that Hendrix, rather than Halferty, provides the
+applicable analogy. While it often is not readily apparent
+whether a complaint alleges a true continuing violation
+of either variety described in Hendrix or whether it
+merely charges a single violation, as the district court
+correctly recognized, the distinction turns on "whether
+the practice at issue is part of, or a repetition of, a past
+discriminatory act, in which case there is a continuing
+violation, or whether it is facially neutral, simply giving
+effect to prior discrimination, in which case there is no
+continuing violation." Hendrix, 911 F.2d at 1104. This
+distinction was noted by the Supreme Court in Lorance
+v. AT & T Technologies, Inc., 490 U.S. 900, 109 S.Ct.
+2261, 104 L.Ed.2d 961 (1989), where the Court held that
+the adoption of a facially neutral seniority system was a
+single violation of Title VII triggering the statute of
+limitations, rather than a continuing violation renewed
+with each paycheck. The Lorance Court explained:
+With a facially neutral system the discriminatory act occurs only at
+the time of adoption, for each application is non-discriminatory....
+But a facially discriminatory system ... by definition discriminates
+each time it is applied.
+Lorance, 490 U.S. at 912 n. 5 109 S.Ct. at 2269 n. 5
+(emphasis in original). The Court reasoned that
+"[b]ecause the claimed invalidity of the facially
+nondiscriminatory and neutrally applied ... seniority
+system [was] wholly dependent on" the existence of a
+discriminatory intent in the adoption of the system,
+then the date of adoption governed the limitations
+period. Lorance, 490 U.S. at 911, 109 S.Ct. at 2268. See
+also Delaware State College v. Ricks, 449 U.S. 250, 101
+S.Ct. 498, 66 L.Ed.2d 431 (1980) (where the only alleged
+discrimination occurred at the time plaintiff was denied
+tenure, the statute of limitations commenced at the time
+of that decision, even though the effects of the denial of
+tenure did not occur until later); United Air Lines, Inc.
+v. Evans, 431 U.S. 553, 97 S.Ct. 1885, 52 L.Ed.2d 571
+(1977) ("challenge to a neutral system may not be
+predicated on the mere fact that a past event which has
+no present legal significance has affected the calculation
+of seniority credit, even if the past event might at one
+time have justified a valid claim against the employer.")
+This distinction provided the basis for this court's
+refusal in Hendrix to follow Halferty, see Hendrix, 911
+F.2d at 1104, and the cause for the district court's
+rejection of Halferty in the case at bar. As the district
+court aptly stated:
+[T]he types of violations are distinguishable as those where the
+employer moves from one facially valid system of pay to another
+valid system of pay in an improper manner or at a prohibited time,
+a single statutory violation, and those where an employer
+implements a facially invalid system and continues to pay
+compensation under the facially invalid system, a continuing
+violation.
+Applying this analysis, the district court concluded that
+the City had simply "move[d] to a facially valid postFLSA
+policy from the pre-FLSA facially valid policy...."
+While appellants acknowledge the significance of facial
+neutrality in determining whether application of a
+policy will be found to constitute a continuing violation,
+they contend that the district court erred in concluding
+that the City's post-Garcia pay policy was facially valid.
+Rather, according to appellants, the pay system which
+the City implemented is invalid on its face and can be
+saved only by resort to the waivers (FLSA Agreements)
+since, in the absence of those waivers, sleep time
+constitutes compensable hours of work. In the court's
+opinion, however, the district court properly construed
+the FLSA agreements or waivers as an integral part of
+the City's pay policy and concluded that the policy [988
+F.2d 1432] was facially valid. Under the applicable
+regulation, sleep time of firefighters can be excluded if
+two conditions are met: (1) a tour of duty of more than
+24 hours and (2) an agreement between the employer
+and employee to exclude such time. 29 C.F.R. §
+553.222(c). The agreement that sleep time will not be
+compensable is no less a part of the policy than is the 25-
+hour tour of duty.
+The sole basis for appellants' seeking to impose liability
+against the City for sleep time compensation is their
+claim that the City, in the course of devising the new
+pay policy, coerced them, in August 1985, to relinquish
+their FLSA rights under threat of termination and
+thereafter, in October 1985, implemented a pay system
+predicated on those waivers. That alleged act of coercion
+is the event giving rise to appellants' complaint and is
+patently a single violation of the FLSA. Even though the
+effect of this act was reflected in appellants' subsequent
+paychecks, that effect does not transform the act into a
+continuing violation.
+Applying the test established in Berry v. Board of
+Supervisors of L.S.U., 715 F.2d 971 (5th Cir.1983), cert.
+denied, 479 U.S. 868, 107 S.Ct. 232, 93 L.Ed.2d 158
+(1986), for defining precisely when the act or acts of
+discrimination occurred, the district court concluded,
+and properly so, that there was a single violation which
+took place at the time the City's post-Garcia pay plan
+was activated. The most important factor under the
+Berry test is the "degree of permanence:"
+Does the act have the degree of permanence which should trigger
+an employee's awareness of and duty to assert his or her rights, or
+which should indicate to the employee that the continued existence
+of the adverse consequences of the act is to be expected without
+being dependent on a continuing intent to discriminate?
+Berry, 715 F.2d at 981. The importance of this factor
+derives from the premise underlying the continuing
+violation doctrine, the equitable notion that the statute
+of limitations ought not to begin to run until facts
+supportive of the cause of action "`are or should be
+apparent to a reasonably prudent person similarly
+situated.'" Glass v. Petro-Tex Chem. Corp., 757 F.2d
+1554, 1560 (5th Cir.1985) (quoting Dumas v. Town of
+Mt. Vernon, 612 F.2d 974, 979 (5th Cir. 1978)).
+"`The focus is on what event in fairness and logic should have
+alerted the average lay person to act to protect his rights.'" Id. At the
+same time, "the mere perpetuation of the effects of time-barred
+discrimination does not constitute a violation ... in the absence of
+independent, actionable conduct occurring within the statutory
+period...." Trevino v. Celanese Corporation, 701 F.2d 397, 403 n. 7
+(5th Cir.1983) (emphasis in original). See generally 2A Larson,
+Employment Discrimination @ 48.54(c) (1984).
+Glass, 757 F.2d at 1560. Appellants do not deny that
+they understood the various facets of the City's new pay
+policy. They do not claim that they failed to
+comprehend the meaning or significance of the FLSA
+agreements which they claim that they were coerced
+into signing. And unequivocally, they were aware from
+the receipt of their first paychecks that they were not
+receiving compensation for sleep time. There is no
+question, then, but that this event would "in fairness and
+logic ... have alerted the average lay person to act to
+protect his rights." Id. Their claim, therefore, having
+been filed more than three years later, is time-barred.
+[988 F.2d 1433] Appellants maintain that the district
+court erred in failing to recognize their claim under state
+law for breach of their employment contracts, which
+they maintain would be governed by Mississippi's sixyear
+statute of limitations for causes of action predicated
+on contracts of employment. See Miss.Code Ann. § 15-
+1-29. Appellants' contention in this regard is manifestly
+without merit. While appellants did allege in their
+complaint that they were not "at will" employees, the
+complaint cannot reasonably be construed as alleging a
+state law cause of action for breach of contract. That
+these employees were not terminable at will was
+obviously recited in the complaint to demonstrate that
+the threat to terminate their employment was coercive
+since they were not lawfully subject to termination for
+failure to sign the FLSA Agreements. Appellants did not
+purport to allege a separate claim based on their status as
+other than "at will" employees. The allegation, in short,
+simply formed a part of the basis for their claim that the
+City violated FLSA, and therefore, the court's
+conclusion that the FLSA statute of limitations operates
+to bar appellants' claims relating to the City's
+implementation of the new pay policy necessarily
+disposes of any state law issues. See Aluminum, Brick
+and Glass-workers Int'l Union Local 674 v. A.P. Green
+Refractories, Inc., 895 F.2d 1053, 1054 (5th Cir.1990)
+(court will borrow state limitations period only where
+the federal statute provides no statute of limitations).
+II.
+Appellants next urge that the district court erred in
+ordering them to return to the City audio tapes and
+transcripts of executive sessions containing privileged
+communications which the City inadvertently produced
+during discovery. At a deposition during which the
+City learned that appellants possessed these materials,
+the City asserted the attorney client privilege and
+demanded a return of the materials. Upon a request by
+the parties for a ruling on the privilege issue, the
+magistrate judge ordered appellants to return the
+materials. In so ruling, the magistrate judge, noting the
+absence of Fifth Circuit authority addressing the issue of
+inadvertent disclosures of privileged materials, applied a
+five-part test gleaned from Hartford Fire Insurance Co.
+v. Garvey, 109 F.R.D. 323 (N.D.Cal.1985), under which
+consideration is given to all of the circumstances
+surrounding the disclosure, including: (1) the
+reasonableness of precautions taken to prevent
+disclosure; (2) the amount of time taken to remedy the
+error; (3) the scope of discovery; (4) the extent of the
+disclosure; and (5) the overriding issue of fairness. The
+magistrate judge concluded that the City had not taken
+reasonable and available precautions to protect the
+materials from disclosure, that the scope of the
+discovery was limited such that the City could
+reasonably have discovered any privileged materials
+and that the disclosure was complete since appellants
+had become aware of the full contents of the tapes.
+Nevertheless, the magistrate judge concluded that other
+considerations outweighed those factors and favored a
+finding that there had been no waiver. The City had
+immediately asserted the attorney client privilege upon
+learning of the disclosure and, in the magistrate [988
+F.2d 1434] judge's view, considerations of fairness
+counseled in favor of ordering the materials returned.
+The tapes were clearly privileged and would not have
+been discoverable absent a waiver and furthermore, the
+disclosure of the tapes was obviously inadvertent. The
+district judge affirmed the magistrate judge's ruling as
+neither clearly erroneous, contrary to law nor an abuse
+of discretion.
+Appellants argue on appeal that the district court failed
+to review the magistrate judge's ruling for "errors of
+law," as is required by Rule 72(a) of the Federal Rules of
+Civil Procedure, under which the court must set aside or
+modify orders "found to be clearly erroneous or
+contrary to law." Though this court reviews a district
+court's factual findings under a clearly erroneous
+standard, legal conclusions are reviewed de novo.
+Chance v. Rice Univ., 984 F.2d 151 (5th Cir.1993);
+Palmco Corp. v. American Airlines, Inc., 983 F.2d 681
+(5th Cir.1993). The first question presented, therefore,
+is whether the district court applied the proper legal
+analysis.
+Patently, a voluntary disclosure of information which is
+inconsistent with the confidential nature of the attorney
+client relationship waives the privilege. See Ward v.
+Succession of Freeman, 854 F.2d 780 (5th Cir.1988),
+cert. denied, 490 U.S. 1065, 109 S.Ct. 2064, 104 L.Ed.2d
+629 (1989); United States v. El Paso Co., 682 F.2d 530
+(5th Cir.1982), cert. denied, 466 U.S. 944, 104 S.Ct.
+1927, 80 L.Ed.2d 473 (1984). There is no consensus,
+however, as to the effect of inadvertent disclosures of
+confidential communications. A few courts hold that
+where there has been a disclosure of privileged
+communications to third parties, the privilege is lost,
+even if the disclosure is unintentional or inadvertent.
+See, e.g., In re Sealed Case, 877 F.2d 976, 980
+(D.C.Cir.1989); In re Grand Jury Proceedings, 727 F.2d
+1352, 1356 (4th Cir.1984). The courts subscribing to this
+view place the risk of inadvertent disclosure on the
+producing party, reasoning that "the amount of care
+taken to ensure confidentiality to the holder of the
+privilege reflects the importance of that confidentiality
+to the holder of the privilege." In re Sealed Case, 877
+F.2d at 980. The majority of courts, though, while
+recognizing that inadvertent disclosure may result in a
+waiver of the privilege, have declined to apply this
+"strict responsibility" rule of waiver and have opted
+instead for an approach which takes into account the
+facts surrounding a particular disclosure. See, e.g.,
+Transamerica Computer Co. v. International Bus. Mach.
+Corp., 573 F.2d 646, 650-52 (9th Cir.1978) (privilege
+waived only if privilege holder voluntarily discloses
+communication); Parkway Gallery Furniture, Inc. v.
+Kittinger/Pennsylvania House Group, Inc., 116 F.R.D.
+46, 50-52 (M.D.N.C.1987) (limited inadvertent
+disclosure will not necessarily result in waiver);
+Hartford, 109 F.R.D. at 329 (inadvertent disclosure of
+privileged communication may constitute waiver);
+Georgetown Manor, Inc. v. Ethan Allen, Inc., 753
+F.Supp. 936, 938-39 (S.D.Fla.1991) (inadvertent
+production is antithesis of concept of waiver so that
+mere inadvertent production by attorney does not waive
+client's privilege). In our view, an analysis which
+permits the court to consider the circumstances
+surrounding a disclosure on a case-by-case basis is
+preferable to a per se rule of waiver. This analysis serves
+the purpose of the attorney client privilege, the
+protection of communications which the client fully
+intended would remain confidential, yet at the same
+time will not relieve those claiming the privilege of the
+consequences of their carelessness if the circumstances
+surrounding the disclosure do not clearly demonstrate
+that continued protection is warranted. Accordingly, we
+conclude that the district court's decision to analyze the
+issue under the Hartford test was proper. The court's
+findings relating to the various factors identified in
+Hartford are essentially factual in nature and therefore
+are reviewed under a clearly erroneous standard. See
+Peavey Co. v. M/V ANPA, 971 F.2d 1168, 1174 (5th
+Cir.1992) (district court's factual findings will be deemed
+clearly erroneous only if the reviewing court is "left with
+a definite and firm conviction that a mistake has been
+made"). Cf. Rock v. Huffco Gas & Oil Co., 922 F.2d 272,
+281 (5th Cir.1991) [988 F.2d 1435] (district court's
+conclusion based on weighing of relevant factors under
+residual exception to hearsay rule will be reversed only
+if clearly erroneous); In re Sealed Case, 877 F.2d at 980-
+81 (determination of extent of waiver of privilege
+depends heavily on factual context in which privilege is
+asserted and will be reviewed for abuse of discretion).
+And though we believe that a close question was
+presented, we cannot say that the district court erred in
+finding that there was no waiver under the
+circumstances.
+III.
+Appellants maintain that the district court erred in
+granting a defense motion in limine to exclude the
+admission of testimony and reports of appellants'
+damages expert, Dan McClemore. The district judge
+excluded the expert's testimony based on his
+determination that appellants had not complied with
+Federal Rule of Civil Procedure Rule 26(e)(1)(B), which
+requires a party to supplement interrogatory responses
+with respect to "the identity of each person expected to
+be called as an expert witness at trial, the subject matter
+on which the person is expected to testify, and the
+substance of the person's testimony."
+The record reflects that appellants designated the
+proposed witness, an accountant, as an expert during
+discovery, and advised that his testimony would address
+damages for interrupted sleep time. Approximately two
+weeks prior to trial, the City moved in limine to exclude
+the expert's testimony. The City objected that appellants
+had not produced expert reports or source data during
+discovery and complained further that, though
+appellants did advise just prior to the pretrial conference
+that the expert used a "reverse projection" and "scatter
+plot" method of averaging to arrive at damage
+calculations based on later documents and personal
+interviews with the appellants and did produce to
+appellees an expert report and spread sheets, the
+appellants' explanation of their expert's methodology
+was of only marginal assistance and the documents
+produced were useless since they lacked sufficient
+information to permit analysis and verification. Finally,
+appellees contended that the appellants' extreme delay in
+providing any substantive information concerning the
+proposed testimony of the expert deprived them of the
+opportunity to pursue discovery on the damages issue
+before trial and thus caused them significant prejudice.
+Appellants argue that the district court was precluded
+from excluding the expert's testimony as a sanction for
+their having failed to respond to discovery requests,
+since they did provide responses to the City's expert
+interrogatories and the City never moved to compel any
+further response. Appellants maintain that they cannot
+be sanctioned for failure to fully respond to an
+interrogatory where there has been no motion to
+compel. Appellants' argument proceeds from Rule 37 of
+the Federal Rules of Civil Procedure, which relates to,
+inter alia, motions to compel for incomplete
+interrogatory responses and failure to fully respond to
+document production requests. See Broadcast Music,
+Inc. v. Xanthas, Inc., 855 F.2d 233, 238 (5th Cir.1988)
+("Sanctions such as estoppel may be imposed under Rule
+37(b) for failure to produce documents only when the
+court has entered an order compelling discovery.").
+However, the applicable rule in this context is not Rule
+37, relating to [988 F.2d 1436] incomplete responses, but
+Rule 26(e), which defines a party's duty to supplement
+expert interrogatory responses. Rule 26 imposes no
+requirement, express or implied, that a motion to
+compel precede a court's imposition of a sanction
+(which, the Advisory Comments note, may consist of
+exclusion of testimony) for failure to supplement expert
+interrogatory responses. The only issue, therefore, is
+whether the district court committed manifest error in
+excluding the witness' testimony. See Page v. Barko
+Hydraulics, 673 F.2d 134, 139 (5th Cir. 1982) ("trial
+court has wide discretion to admit or exclude expert
+testimony, and only if we determine that a ruling is
+manifestly erroneous may we find that discretion
+abused"); see also Branch-Hines v. Hebert, 939 F.2d
+1311, 1319 (5th Cir.1991) ("trial court is afforded much
+discretion in deciding whether to admit or deny
+testimony").
+This court is unable to conclude that the district court
+erred in finding that appellants failed in their duty to
+supplement their expert interrogatory responses.
+Information claimed by the City to be critical to its
+understanding of the expert's proposed testimony was
+first provided nine months after the close of discovery
+and only two weeks prior to trial. Moreover, contrary to
+appellants' assertion, it does not appear that the expert's
+proposed testimony was essential to appellants' case.
+Much, if not all of the relevant testimony which could
+have been elicited from this expert witness could have
+been provided by appellants themselves. During a
+period of time involved in this case, the City maintained
+records of duty calls occurring during sleep time. Those
+records, which provided the basis for the expert's
+damages computation for the period of time which they
+covered, were available to appellants. And, for the time
+period during which no records of sleep interruptions
+were maintained, appellants were in as good a position
+to arrive at a damages computation as was the expert.
+Based on these factors, the district court did not act
+improperly in excluding the testimony.
+IV.
+In addition to his excluding the expert accountant's
+testimony, the district judge granted a defense motion in
+limine to exclude the testimony of a labor department
+investigator offered by appellants. The witness,
+identified as an "expert" witness, was to testify
+concerning his findings following a Department of
+Labor investigation, conducted prior to the institution
+of the lawsuit, relating to sleep time and the exempt
+status of fire captains. The district court's decision to
+exclude the witness' testimony was not manifestly
+erroneous.
+Appellants advise that the witness would have testified
+concerning his investigation as to sleep interruptions
+and captains' exemptions and would have testified to his
+conclusion that there were unpaid sleep interruptions
+and that captains were not properly classified as exempt.
+He would further have testified that the City refused a
+Department of Labor request for compliance. The
+appellants themselves testified to the facts comprising
+their claims for relief and there has been no suggestion
+that the investigator's testimony regarding factual
+findings would have been other than cumulative.
+Regarding the conclusions of his investigation,
+appellants represented to the district judge that the
+witness had only been permitted to testify by the
+Department of Labor upon an assurance by appellants'
+counsel that he would not "give opinions, legal or
+otherwise," but would "simply outline his investigation,
+what he did, who he contacted at the City, what was
+communicated to those officials." Thus, the witness was
+not to give testimony concerning his conclusions. In any
+event, the conclusions which appellants represent the
+witness would have given would have been, in the
+court's view, inadmissible legal conclusions. See Owen
+v. Kerr-McGee Corp., 698 F.2d 236, 240 (5th Cir.1983)
+(Federal [988 F.2d 1437] Rule of Evidence 704 does not
+permit expert to state legal conclusions).
+V.
+Appellants have raised a number of additional issues: (1)
+whether the district court erred in granting a directed
+verdict on the issue of whether captains were properly
+classified as salaried, exempt employees; (2) whether the
+district court erred in granting a directed verdict on the
+issue of willfulness; and (3) whether the district court
+erred in dismissing appellants' claims against city
+officials in their individual capacities. These issues have
+been rendered moot by this court's conclusion that the
+district court properly dismissed the claims for sleep
+time pay, coupled with the jury's verdict for the City on
+appellants' claim for compensation for sleep interrupted
+time. Accordingly, the court will not reach those issues.
+The judgment of the district court is AFFIRMED.

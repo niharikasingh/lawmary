@@ -1,0 +1,49 @@
+I concur in the majority opinion, except to note that
+Owen Equipment & Erection Co. v. Kroger, 437 U.S.
+365, 98 S.Ct. 2396, 57 L.Ed.2d 274 (1978) does not
+entirely resolve the issue of the applicability of Finley v.
+United States, 490 U.S. 545, 109 S.Ct. 2003, 104 L.Ed.2d
+593 (1989) to this matter.
+In speaking with approval of ancillary jurisdiction in
+cases of third party actions, Owen was referring to
+impleader under Rule 14. Such third party actions, by
+their very nature, logically depend upon the underlying
+law suit. Owen, 437 U.S. at 376, 98 S.Ct. at 2404. The
+case at bar differs from the impleader described in Owen
+in that 417 Fifth's alleged liability to Towers, [920 F.2d
+1127] which is to be asserted pursuant to a Rule 13(h)
+joinder to a counterclaim, does not logically depend
+upon Towers' alleged liability to Associated.
+Nonetheless, if not a logical dependency, there is a
+logical relationship and an intertwining between
+Towers' proposed claim against 417 Fifth and the
+underlying action. That is, the claim against the landlord
+is logically related to and intertwined with claims based
+on the sublease because of the necessity to construe the
+landlord's consent to sublease. The consent to sublease
+was part of the Associated-Towers contractual
+arrangement, which is the essence of the dispute.
+One should not read Owen to establish a rigid test for
+ancillary jurisdiction based on logical dependence.
+Although it does not address joinder to a compulsory
+counterclaim, Owen has been viewed as representing a
+flexible approach to ancillary jurisdiction, at least in the
+area of defendant's joinder of additional claims. See King
+Fisher Marine Service v. 21st Phoenix Co., 893 F.2d
+1155, 1162-63 (10th Cir.) cert. denied, ___ U.S. ___, 110
+S.Ct. 2603, 110 L.Ed.2d 283 (1990) (logically related
+claim added against a non-diverse third party impleaded
+under Rule 14.)
+Neither Owen nor Finley address directly jurisdiction
+over new parties ancillary to a compulsory
+counterclaim. The pre-Finley Second Circuit decisions
+on this issue, however, do enable resolution of claims
+that are inextricably enmeshed in resolution of the
+dispute between the parties to the primary action. See
+Newburger Loeb & Co. v. Gross, 563 F.2d 1057, 1070
+(2d Cir.1977), cert. denied 434 U.S. 1035, 98 S.Ct. 769,
+54 L.Ed.2d 782 (1978); United Artists Corp. v.
+Masterpiece Prods. Inc., 221 F.2d 213 (2d Cir.1955).
+Finley should not be read so broadly as to upset a
+flexible approach to ancillary jurisdiction in a case such
+as the one at hand.

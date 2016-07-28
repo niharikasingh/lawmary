@@ -1,0 +1,477 @@
+This appeal concerns the availability of subject matter
+jurisdiction for permissive counterclaims. It also
+demonstrates the normal utility of early decision of a
+motion for class certification. Defendant-Appellant Ford
+Motor Credit Company ("Ford Credit") appeals from
+the June 14, 2002, judgment of the United States District
+Court for the Southern District of New York (Lawrence
+M. McKenna, District Judge) dismissing for lack of
+jurisdiction its permissive counterclaims against three of
+the four Plaintiffs-Appellees and its conditional
+counterclaims against members of the putative class that
+the Plaintiffs-Appellees seek to certify. Jones v. Ford
+Motor Credit Co., No. 00-CV-8330, 2002 WL 1334812
+(S.D.N.Y. June 17, 2002). We conclude that
+supplemental jurisdiction authorized by 28 U.S.C. §
+1367 may be available for the permissive counterclaims,
+but that the District Court's discretion under subsection
+1367(c) should not be exercised in this case until a ruling
+on the Plaintiffs' motion for class certification. We
+therefore vacate and remand.
+Background
+Plaintiffs-Appellees Joyce Jones, Martha L. Edwards,
+Lou Cooper, and Vincent E. Jackson ("Plaintiffs"),
+individually and as class representatives, sued Ford
+Credit alleging racial discrimination under the Equal
+Credit Opportunity Act ("ECOA"), 15 U.S.C. § 1691 et
+seq. (2003). They had purchased Ford vehicles under
+Ford Credit's financing plan. They alleged that the
+financing plan discriminated against African-Americans.
+Although the financing rate was primarily based on
+objective criteria, Ford Credit permitted its dealers to
+mark up the rate, using subjective criteria to assess nonrisk
+charges. The Plaintiffs alleged that the mark-up
+policy penalized African-American customers with
+higher rates than those imposed on similarly situated
+Caucasian customers.
+In its Answer, Ford Credit denied the charges of racial
+discrimination and also asserted state-law counterclaims
+against Jones, Edwards, and Cooper for the amounts of
+their unpaid car loans. Ford Credit alleged that Jones
+was in default on [358 F.3d 208] her obligations under
+her contract for the purchase of a 1995 Ford Windstar,
+and that Edwards and Cooper were in default on
+payments for their joint purchase of a 1995 Mercury
+Cougar. Additionally, in the event that a class was
+certified, Ford Credit asserted conditional counterclaims
+against any member of that class who was in default on a
+car loan from Ford Credit. The Plaintiffs moved to
+dismiss Ford Credit's counterclaims for lack of subject
+matter jurisdiction, Fed.R.Civ.P. 12(b)(1), lack of
+personal jurisdiction, Fed.R.Civ.P. 12(b)(2), improper
+venue, Fed.R.Civ.P. 12(b)(3), and failure to state a claim
+upon which relief could be granted, Fed.R.Civ.P.
+12(b)(6).
+The District Court granted the Plaintiffs' motion and
+dismissed Ford Credit's counterclaims, summarizing its
+reasons for doing so as follows: "[D]efendant's
+counterclaims do not meet the standard for compulsory
+counterclaims[, and] ... pursuant to § 1367(c)(4), ... there
+are compelling reasons to decline to exercise jurisdiction
+over the counterclaims." Jones, 2002 WL 1334812, at *3.
+In reaching these conclusions, Judge McKenna
+acknowledged some uncertainty. After determining that
+the counterclaims were permissive, he expressed doubt
+as to the jurisdictional consequence of that
+determination. On the one hand, he believed, as the
+Plaintiffs maintain, that permissive counterclaims must
+be dismissed if they lack an independent basis of federal
+jurisdiction. On the other hand, he acknowledged, citing
+Solow v. Jenkins, No. 98-CV-8726, 2000 WL 489667, at
+*2 (S.D.N.Y. Apr.25, 2000), that "there [was] some
+authority to suggest that ... the court should determine,
+based on the particular circumstances of the case,
+whether it ha[d] authority to exercise supplemental
+jurisdiction under § 1367(a)" over a counterclaim,
+regardless of whether it was compulsory or permissive.
+Jones, 2002 WL 1334812, at *2.
+To resolve his uncertainty, Judge McKenna initially
+ruled that the counterclaims, being permissive, "must be
+dismissed for lack of an independent basis of federal
+jurisdiction." Id. He then ruled that, if he was wrong and
+if supplemental jurisdiction under section 1367 was
+available, he would still dismiss the counterclaims in the
+exercise of the discretion subsection 1367(c) gives
+district courts. Id. Without explicitly stating on which of
+the four subdivisions of subsection 1367(c) he relied,
+Judge McKenna gave the following reasons for declining
+to exercise supplemental jurisdiction:
+[1] The claims and counterclaims arise out of the same occurrence
+only in the loosest terms.... There does not exist a logical
+relationship between the essential facts [to be proven] in the claim
+and those of the counterclaims.
+[2] [A]llowing defendant's counterclaims to proceed in this forum
+might undermine the ECOA enforcement scheme by discouraging
+plaintiffs from bringing ECOA claims due to the fear of
+counterclaims.
+[3] [T]he interests of judicial economy will not be served by joining
+the claim and counterclaims in one suit [because of] what would
+most likely be a tremendous number of separate collection actions,
+each based on facts specific to the individual plaintiffs involved.
+Id. at *2-*3. Judge McKenna stated his belief that it
+would be "unfair and inexpedient" to require absent
+class members who resided outside of New York to
+litigate their debt collection actions in the Southern
+District of New York and that there was no good reason
+to litigate the debt collection actions in a federal court.
+Id. at *3.
+[358 F.3d 209] On March 27, 2003, the District Court
+entered judgment pursuant to Fed.R.Civ.P. 54(b) in
+favor of the Plaintiffs, dismissing Ford Credit's
+counterclaims without prejudice. Ford Credit appeals
+from this decision.
+Discussion
+I. Are Ford Credit's Counterclaims Permissive?
+Fed.R.Civ.P. 13(a) defines a compulsory counterclaim as
+any claim which at the time of serving the pleading the pleader has
+against any opposing party, if it arises out of the transaction or
+occurrence that is the subject matter of the opposing party's claim
+and does not require for its adjudication the presence of third
+parties of whom the court cannot obtain jurisdiction.
+Such counterclaims are compulsory in the sense that if
+they are not raised, they are forfeited. See Critical-Vac
+Filtration Corp. v. Minuteman International, Inc., 233
+F.3d 697, 699 (2d Cir.2000). Fed.R.Civ.P. 13(b) defines a
+permissive counterclaim as "any claim against an
+opposing party not arising out of the transaction or
+occurrence that is the subject matter of the opposing
+party's claim."
+Whether a counterclaim is compulsory or permissive
+turns on whether the counterclaim "arises out of the
+transaction or occurrence that is the subject matter of
+the opposing party's claim," and this Circuit has long
+considered this standard met when there is a "logical
+relationship" between the counterclaim and the main
+claim. See United States v. Aquavella, 615 F.2d 12, 22
+(2d Cir.1979).1 Although the "logical relationship" test
+does not require "an absolute identity of factual
+backgrounds," id. (internal citation omitted), the
+"`essential facts of the claims [must be] so logically
+connected that considerations of judicial economy and
+fairness dictate that all the issues be resolved in one
+lawsuit.'" Critical-Vac, 233 F.3d at 699 (emphasis
+omitted) (quoting Adam v. Jacobs, 950 F.2d 89, 92 (2d
+Cir.1991)); see also Harris v. Steinem, 571 F.2d 119, 123
+(2d Cir.1978); United Artists Corp. v. Masterpiece
+Productions, Inc., 221 F.2d 213, 216 (2d Cir.1955).
+We agree with the District Court that the debt
+collection counterclaims were permissive rather than
+compulsory. The Plaintiffs' ECOA claim centers on Ford
+Credit's mark-up policy, based on subjective factors,
+which allegedly resulted in higher finance charges on
+their purchase contracts than on those of similarly
+situated White customers. Ford Credit's debt collection
+counterclaims are related to those purchase contracts,
+but not to any particular clause or rate. Rather, the debt
+collection counterclaims concern the individual
+Plaintiffs' non-payment after the contract price was set.
+Thus, the relationship between the counterclaims and
+the ECOA claim is "logical" only in the sense that the
+sale, allegedly on discriminatory credit terms, was the
+"but for" cause of the non-payment. That is not the sort
+of [358 F.3d 210] relationship contemplated by our case
+law on compulsory counterclaims. The essential facts for
+proving the counterclaims and the ECOA claim are not
+so closely related that resolving both sets of issues in one
+lawsuit would yield judicial efficiency. Indeed, Ford
+Credit does not even challenge the ruling that its
+counterclaims are permissive.
+II. Is There Jurisdiction over the Permissive
+Counterclaims?
+For several decades federal courts have asserted that
+permissive counterclaims require an independent basis
+of jurisdiction, i.e., that the counterclaim must be
+maintainable in a federal district court on some
+jurisdictional basis that would have sufficed had it been
+brought in a separate action. The origin of this
+proposition, the questioning of it before the statutory
+authorization of supplemental jurisdiction in section
+1367, and the impact of that provision upon the
+proposition all merit careful consideration.
+(A) Origin of the independent basis doctrine. The first
+suggestion of the requirement of an independent basis
+for permissive counterclaims is believed to have
+appeared in Marconi Wireless Telegraph Co. of
+America v. National Electric Signaling Co., 206 F. 295
+(E.D.N.Y.1913), a case involving former Equity Rule 30.
+See Thomas F. Green, Jr., Federal Jurisdiction over
+Counterclaims, 48 Nw. U.L.Rev. 271, 283 (1953). That
+rule distinguished in its two parts between what we
+would now call compulsory counterclaims "arising out
+of the transaction which is the subject matter of the suit"
+and what we would now call permissive counterclaims
+"which might be the subject of an independent suit in
+equity." Equity Rule 30, quoted in Moore v. New York
+Cotton Exchange, 270 U.S. 593, 609, 46 S.Ct. 367, 70
+L.Ed. 750 (1926). In Moore, the Supreme Court ruled
+that the counterclaim in that case bore a sufficient
+relation to the underlying transaction under the first
+part of the equity rule to be properly within federal
+jurisdiction and explicitly declined to "consider the point
+that, under the second branch [of the rule], federal
+jurisdiction independent of the original bill must
+appear." Id.
+By 1944, our Court somewhat tentatively observed that
+"[i]t seems to be accepted that a permissive counterclaim
+... is not ancillary and requires independent grounds of
+jurisdiction." Lesnik v. Public Industrials Corp., 144 F.2d
+968, 976 n. 10 (2d Cir.1944) (citations omitted). We
+stated the proposition more forcefully two years later in
+Libbey-Owens-Ford Glass Co. v. Sylvania Industrial
+Corp., 154 F.2d 814, 816 (2d Cir.1946), although our
+statement, like most of the language in the early cases
+concerning the proposition, was dictum.
+Our first holding that independent jurisdiction is
+required for a permissive counterclaim occurred in
+1968. See O'Connell v. Erie Lackawanna R.R., 391 F.2d
+156, 163 (2d Cir.1968). Six years later, the Supreme
+Court stated, "If a counterclaim is compulsory, the
+federal court will have ancillary jurisdiction over it even
+though ordinarily it would be a matter for a state court,"
+Baker v. Gold Seal Liquors, Inc., 417 U.S. 467, 469 n. 1,
+94 S.Ct. 2504, 41 L.Ed.2d 243 (1974) (emphasis added),
+apparently implying that ancillary jurisdiction is not
+available for a permissive counterclaim.
+Notably absent from this evolution of the case law is a
+reasoned explanation of why independent jurisdiction
+should be needed for permissive counterclaims. One
+early decision hinted at a reason by suggesting that the
+then restrictive rules concerning joinder of claims were
+applicable whether the claims were sought to be added
+[358 F.3d 211] by a plaintiff or a defendant. See Electric
+Boat Co. v. Lake Torpedo Boat Co., 215 F. 377, 381
+(D.N.J.1914). Likely also influencing the emergence of
+the doctrine was concern that, because under Rule 13 all
+counterclaims that are not compulsory are permissive,
+requiring independent jurisdiction was necessary to
+prevent federal court adjudication of every conceivable
+non-compulsory counterclaim that a defendant might
+happen to have against a plaintiff, some of which might
+be totally inappropriate for federal jurisdiction. A wife's
+federal law suit against her husband for a declaration of
+rights as a joint author, for example, ought not to be
+vehicle for his counterclaim seeking a divorce. Perhaps
+lurking beneath the surface of the casual statements
+about an independent jurisdiction requirement was
+apprehension that some counterclaims lacking such a
+basis would extend the lawsuit beyond Article III's
+limiting scope of "cases and controversies."
+(B) Questioning the doctrine prior to section 1367. The
+first challenge to the independent jurisdiction
+requirement appeared in Professor Green's article in
+1953. See Thomas F. Green, Jr., Federal Jurisdiction
+over Counterclaims, 48 Nw. U.L.Rev. 271, 283 (1953).
+He mounted a powerful argument against the doctrine,
+demonstrating how it emerged from unreasoned dicta
+into unexplained holdings and why it was an
+unwarranted deviation from the general principle that
+"[t]wo court actions should not be encouraged where
+one will do." Id. at 271 (footnote omitted). He
+particularly noted the incursion on the doctrine, well
+established even in 1953 when he wrote, that permitted
+some set-offs to be interposed against a plaintiff's claim
+in the absence of independent jurisdiction. Professor
+Green questioned why a defendant who can present
+evidence of a set-off that reduces a plaintiff's judgment
+to zero should not be able to obtain a counterclaim
+judgment to which his evidence would entitle him in a
+separate action. Id. at 287-88.
+In 1970, Judge Friendly, the acknowledged jurisdictional
+scholar of our Court, changed his mind about the
+independent jurisdiction doctrine and "reject[ed] the
+conventional learning, which [he] followed too readily
+in O'Connell." United States v. Heyward-Robinson Co.,
+430 F.2d 1077, 1088 (2d Cir.1970) (Friendly, J.,
+concurring).2 Judge Friendly noted Professor Green's
+persuasiveness: "The reasons why the conventional view
+is wrong are set out in detail in [Professor Green's
+article], and nothing would be gained by repetition." Id.
+In 1984, the Third Circuit, in a thoughtful opinion by
+Judge Becker, rejected the view that independent
+jurisdiction is required for all permissive counterclaims.
+See Ambromovage v. United Mine Workers, 726 F.2d
+972 (3d Cir.1984). Considering whether jurisdiction was
+available for a set-off, Judge Becker declined to uphold
+jurisdiction based on the previously recognized set-off
+exception to the independent jurisdiction requirement,3
+and instead argued [358 F.3d 212] broadly for ancillary
+jurisdiction, with some exceptions,4 over set-offs and
+permissive counterclaims that satisfy the test of sharing
+a "common nucleus of operative fact," United Mine
+Workers v. Gibbs, 383 U.S. 715, 725, 86 S.Ct. 1130, 16
+L.Ed.2d 218 (1966), with the plaintiff's underlying claim.
+Ambromovage, 726 F.2d at 988-89. "We conclude that
+the determination that a counterclaim is permissive
+within the meaning of Rule 13 is not dispositive of the
+constitutional question whether there is federal
+jurisdiction over the counterclaim." Id. at 990.
+(C) The impact of section 1367. The judge-made
+doctrine of ancillary jurisdiction, which had been
+invoked to provide a jurisdictional basis for compulsory
+counterclaims, was given statutory undergirding when
+Congress added section 1367 to Title 28 in 1990. See
+Judicial Improvements Act of 1990, Pub.L. No. 101-650,
+Title III, § 310(c), 104 Stat. 5114 (1990). The newly
+labeled "supplemental" jurisdiction explicitly extended
+federal courts' authority to "all other claims" in a civil
+action "so related to claims in the action within [the
+district court's] original jurisdiction that they form part
+of the same case or controversy under Article III of the
+United States Constitution." 28 U.S.C. § 1367(a) (2000).
+The explicit extension to the limit of Article III of a
+federal court's jurisdiction over "all other claims" sought
+to be litigated with an underlying claim within federal
+jurisdiction recast the jurisdictional basis of permissive
+counterclaims into constitutional terms.5 After section
+1367, it is no [358 F.3d 213] longer sufficient for courts
+to assert, without any reason other than dicta or even
+holdings from the era of judge-created ancillary
+jurisdiction, that permissive counterclaims require
+independent jurisdiction. Rising to the challenge, after
+enactment of section 1367, in a case strikingly similar to
+our pending case, the Seventh Circuit vacated the
+dismissal of a permissive counterclaim and remanded
+for exercise of the discretion contemplated by section
+1367. Channell v. Citicorp National Services, Inc., 89
+F.3d 379 (7th Cir.1996). Channell involved a creditor's
+counterclaims to collect debts in a class action alleging
+violations of the Consumer Leasing Act, 15 U.S.C. §§
+1667-1667e (2000). As Judge Easterbrook stated, "Now
+that Congress has codified the supplemental jurisdiction
+in § 1367(a), courts should use the language of the
+statute to define the extent of their powers." Id. at 385.
+He viewed section 1367's reach to the constitutional
+limits of Article III as requiring only "[a] loose factual
+connection between the claims," id. (internal quotation
+marks omitted), a standard that appears to be broader
+than the Gibbs test of "a common nucleus of operative
+facts," appropriate for permitting joinder of a plaintiff's
+non-federal claim. In Channell, he readily found the
+requisite "loose connection" to exist between the
+Consumer Leasing Act claim and the debt collection
+counterclaim. Id. at 385-86.
+We share the view that section 1367 has displaced,
+rather than codified, whatever validity inhered in the
+earlier view that a permissive counterclaim requires
+independent jurisdiction (in the sense of federal
+question or diversity jurisdiction). The issue in this case
+therefore becomes whether supplemental jurisdiction is
+available for Ford Credit's counterclaims.
+III. Application of Section 1367's Standards for
+Supplemental Jurisdiction
+Whether or not the Gibbs "common nucleus" standard
+provides the outer limit of an Article III "case,"6 and is
+therefore a requirement for entertaining a permissive
+counterclaim that otherwise lacks a jurisdictional basis,
+the facts of Ford Credit's counterclaims and those of the
+Plaintiffs' ECOA claims satisfy that standard, even
+though the relationship is not such as would make the
+counterclaims compulsory. See Channell, 89 F.3d at
+385-86.7 The [358 F.3d 214] counterclaims and the
+underlying claim bear a sufficient factual relationship (if
+one is necessary) to constitute the same "case" within the
+meaning of Article III and hence of section 1367. Both
+the ECOA claim and the debt collection claims originate
+from the Plaintiffs' decisions to purchase Ford cars.
+Satisfying the constitutional "case" standard of
+subsection 1367(a), however, does not end the inquiry a
+district court is obliged to make with respect to
+permissive counterclaims. A trial court must consider
+whether any of the four grounds set out in subsection
+1367(c) are present to an extent that would warrant the
+exercise of discretion to decline assertion of
+supplemental jurisdiction.8 Subsection 1367(c) provides:
+The district courts may decline to exercise supplemental
+jurisdiction over a claim under subsection (a) if —
+(1) the claim raises a novel or complex issue of State law,
+(2) the claim substantially predominates over the claim or claims
+over which the district court has original jurisdiction,
+(3) the district court has dismissed all claims over which it has
+original jurisdiction, or
+(4) in exceptional circumstances, there are other compelling reasons
+for declining jurisdiction.
+We have indicated that, where at least one of the
+subsection 1367(c) factors is applicable, a district court
+should not decline to exercise supplemental jurisdiction
+unless it also determines that doing so would not
+promote the values articulated in Gibbs, 383 U.S. at 726,
+86 S.Ct. 1130: economy, convenience, fairness, and
+comity. See Itar-Tass Russian News Agency v. Russian
+Kurier, Inc., 140 F.3d 442, 445-47 (2d Cir.1998)
+(rejecting approach of 1st, 3rd, 7th, and D.C. Circuits in
+favor of approach adhered to by 8th, 9th, and 11th
+Circuits).
+Clearly the exception set forth in subsection 1367(c)(1)
+does not apply since Ford Credit's counterclaims do not
+raise a novel or complex issue of state law, but merely a
+standard contract question. Nor does subsection
+1367(c)(3) apply since the District Court has not
+dismissed all claims over which it has original
+jurisdiction. That leaves subsections 1367(c)(2),
+permitting declination of supplemental jurisdiction
+where "the [counter]claim substantially predominates
+over the claim or claims over which the district court
+has original jurisdiction," and 1367(c)(4), permitting
+declination "in exceptional circumstances, [where] there
+are other compelling reasons for declining jurisdiction."
+The District Court apparently based its decision on
+subsection 1367(c)(4), since it cited only that subsection
+in its opinion, but some of the concerns it discussed
+implicate the substantial predomination analysis of
+subsection 1367(c)(2) as well.
+[358 F.3d 215] In Channell, Judge Easterbrook canvassed
+the competing considerations bearing on whether the
+subsection (c)(2) and (c)(4) factors might permit
+declination of supplemental jurisdiction over collection
+counterclaims interposed against a claim under a
+consumer protection statute. See Channell, 89 F.3d at
+386-87. Acknowledging a district court's discretion, the
+Seventh Circuit ultimately remanded because
+"[a]rguments under § 1367(c) are addressed to the
+district court's discretion." Id. at 387. In Channell,
+however, the class had been certified, class members had
+been notified, and some had opted out. Id. at 384. In our
+case, a ruling on the class motion has not yet been made.
+Whether Ford Credit's counterclaims "predominate[ ]"
+over the Plaintiffs' claims and whether there are
+"exceptional circumstances" for declining jurisdiction
+cannot properly be determined until a decision has been
+made on the Plaintiffs' motion for class certification.
+Both the applicability of subsections 1367(c)(2) and (4),
+and the exercise of a district court's discretion in the
+event either or both are ruled applicable will be
+significantly influenced by the existence of a large class
+as sought by the Plaintiffs. The District Court's
+conclusions that it would be "unfair and inexpedient" to
+require out-of-state class members to litigate Ford's
+state law debt claims in New York, and that allowing the
+counterclaims might dissuade potential plaintiffs from
+joining the class, were therefore premature.9
+Class certification is to be decided "at an early
+practicable time" after the commencement of a suit.
+Fed.R.Civ.P. 23(c)(1) (amended Dec. 1, 2003). See 5
+James Wm. Moore et al., Moore's Federal Practice-Civil
+§ 23.61 (3d ed.2003); cf. Cottone v. Blum, 571 F.Supp.
+437, 440-41 (W.D.N.Y.1983) (dismissing class action
+for, among other things, failure to move for class
+certification within 60 days of filing of complaint, as
+required by local rule). That course is especially
+important in this case. Accordingly, we remand this case
+with directions to rule on the class certification motion,
+and then, in light of that ruling, to proceed to determine
+whether to exercise or decline supplemental jurisdiction.
+On remand, the District Court should exercise its
+discretion pursuant to subsection 1367(c) in light of our
+decision in Itar-Tass, particularly the caution there
+expressed concerning use of subsection 1367(c)(4), 140
+F.3d at 448. In order to decline jurisdiction on this basis,
+the District Court should identify truly compelling
+circumstances that militate against exercising
+jurisdiction. Id. Moreover, if the Court certifies the class
+action, its substantial predomination analysis under
+subsection 1367(c)(2) should take into account the [358
+F.3d 216] methods by which the class action might be
+managed in order to prevent the state law counterclaims
+from predominating. By bifurcating the litigation,
+certifying a limited class (perhaps only in-state
+plaintiffs), or utilizing other management tools, the
+District Court might be able to structure the litigation in
+such a way as to prevent the state law claims from
+predominating over the federal basis of the action, while
+maintaining the advantages inherent in providing a
+forum in which all of the litigants' claims can be
+litigated.
+Conclusion
+The judgment dismissing Ford Credit's counterclaims is
+vacated, and the case is remanded for further
+proceedings consistent with this opinion.

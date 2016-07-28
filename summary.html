@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+  <!-- Basic Page Needs
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <meta charset="utf-8">
+  <title>Curt Summary</title>
+  <meta name="description" content="">
+  <meta name="author" content="">
+
+  <!-- Mobile Specific Metas
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- FONT
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+ <link href="https://fonts.googleapis.com/css?family=Berkshire+Swash|Droid+Sans" rel="stylesheet" type="text/css">
+
+  <!-- CSS
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <link rel="stylesheet" href="css/normalize.css">
+  <link rel="stylesheet" href="css/skeleton.css">
+
+  <!-- Favicon
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <link rel="icon" type="image/png" href="images/favicon.png">
+
+</head>
+<body>
+    
+  <!-- JavaScript
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+  <script src="js/summary.js"></script>
+    
+  <!-- Primary Page Layout
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <div class="u-full-width" id="main-title-bg">
+    <div class="container">
+      <div class="row">
+        <h1>CurtSummary</h1>
+        <p class="dark-text"><a href="index.html">Search</a> for summaries of court opinions.</p>
+      </div>
+    </div>
+  </div>
+    
+  <div class="u-full-width">
+    <div class="container">    
+      <div class="row">
+        <label><input class="button-primary" id="copyButton" type="button" value="COPY SUMMARY"> Click to copy to clipboard, then paste and edit in your preferred note-taking medium </label>
+          <label><input class="button-primary" id="examButton" type="button" value="EXAM MODE"> <div id="examButtonLabelText"> Click to only show facts (highlighted in yellow), so you can practice writing reasoned judgements </div></label><br/>
+          <table class="u-full-width">
+            <tbody id="summaryText">
+                
+            </tbody>
+          </table>
+      </div>
+    </div>
+  </div>
+
+<!-- End Document
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+</body>
+</html>

@@ -1,0 +1,516 @@
+Respondent Katherine Griffis brought suit against
+appellant Marianne Luban in Jefferson County,
+Alabama, alleging defamation and invasion of privacy
+arising out of statements made by Luban on the
+internet. Luban did not appear in the Alabama action,
+and the Alabama district court entered a default
+judgment for $25,000 in damages and issued an
+injunction prohibiting Luban from making certain
+statements in the future. Griffis filed the Alabama
+judgment in Ramsey County District Court, and Luban
+brought a motion to vacate, challenging the jurisdiction
+of the Alabama court. The Ramsey County District 
+[646
+N.W.2d 530]
+ Court upheld personal jurisdiction of the
+Alabama court over Luban, and the court of appeals
+affirmed. We reverse.
+Respondent Katherine Griffis, an Alabama resident, has
+taught noncredit courses in ancient Egyptian history and
+culture at the University of Alabama, Birmingham.
+Griffis also works as a self-employed consultant.
+Appellant Marianne Luban, a Minnesota resident,
+maintains a nonprofessional interest in the history and
+culture of ancient Egypt. Both Luban and Griffis have
+participated in an internet newsgroup on archeology,
+the sci.archaeology newsgroup, since at least 1996. A
+newsgroup is a forum for internet users that addresses a
+specific topic and allows participants to exchange
+information and engage in discussions or debate by
+"posting" messages on the website. The sci.archaeology
+newsgroup is public and so messages posted there can be
+accessed anywhere by any person with internet access.
+During the latter part of 1996 a disagreement arose
+between Luban and Griffis relating to the subject of
+Egypt and Egyptology. In December 1996 Luban posted
+a message challenging Griffis's credentials as an
+Egyptologist, and accusing Griffis of obtaining her
+degree from a "box of Cracker Jacks." Griffis states that
+she responded by citing her credentials in an electronic
+message sent directly to Luban. The disagreement
+continued into 1997, with both Luban and Griffis
+continuing to post messages relating to their
+disagreement on the sci.archaeology newsgroup. In May
+1997, Griffis's attorney sent a letter to Luban demanding
+that Luban refrain from attacking Griffis's character and
+professional reputation. The letter threatened legal
+action if Luban did not retract the prior statements and
+refrain from future attacks. Although Griffis asserts that
+Luban continued posting defamatory messages after
+receiving this letter, the record before us does not
+include any statements made by Luban, whether on the
+sci.archaeology newsgroup or elsewhere, after March,
+1997.
+In September 1997, Griffis brought a defamation action
+against Luban in Alabama state court. Griffis's
+complaint alleged that Luban posted statements on the
+newsgroup asserting that Griffis obtained membership
+in the International Association of Egyptologists and
+inclusion on other lists of Egyptologists by
+misrepresenting her qualifications, that Griffis was a
+liar, was not affiliated with the University of Alabama,
+did not have a juris doctor degree, and that Griffis's
+consulting business was not legitimate. Because Luban
+was advised by her attorney that the Alabama state court
+did not have personal jurisdiction over her, she did not
+answer the complaint or make any appearance in the
+Alabama action. On December 17, 1997, the Alabama
+court entered a default judgment against Luban. The
+court assessed damages in the amount of $25,000 and
+also issued an injunction specifically enjoining Luban
+from publishing certain statements in the future.
+1
+On May 5, 1998, Griffis filed the Alabama judgment in
+Ramsey County District Court in order to enforce its
+terms against Luban. Luban moved to vacate the
+judgment on the basis that the Alabama court lacked
+personal jurisdiction over her. A referee initially granted
+Luban's motion, 
+[646 N.W.2d 531]
+ but on
+reconsideration concluded that the Alabama court had
+personal jurisdiction over Luban and ordered entry of a
+Minnesota court judgment against Luban. On appeal,
+the court of appeals vacated the referee's order because it
+had not been confirmed or countersigned by a district
+court judge. In the interim, Luban petitioned for
+bankruptcy, and on March 15, 2000, the bankruptcy
+court discharged the $25,000 judgment from the
+Alabama court.
+In March 2000, Luban renewed her motion in district
+court to vacate the Alabama judgment, and Griffis filed a
+cross-motion to enforce the Alabama injunction. The
+court found that the Alabama district court had personal
+jurisdiction over Luban and therefore the judgment
+must be given full faith and credit. Judgment was
+entered on December 21, 2000. On Luban's appeal, the
+court of appeals affirmed, ruling that the district court
+did not err in its determination that the Alabama court
+properly exercised personal jurisdiction over Luban.
+Griffis v. Luban, 633 N.W.2d 548, 553
+(Minn.App.2001). The court of appeals concluded that
+Luban was subject to the Alabama court's jurisdiction
+because she made potentially defamatory statements that
+were being read in Alabama and had knowledge of the
+effect of those statements in Alabama. Id. Luban sought
+and was granted review in this court.
+The question presented is whether the Ramsey County
+District Court correctly determined that the Alabama
+district court had personal jurisdiction over Luban so
+that the Alabama judgment is entitled to full faith and
+credit in the Minnesota courts. This court recognizes
+the right of a defendant to contest an action brought on
+the basis of a foreign court's judgment by demonstrating
+that the foreign court rendered the judgment in the
+absence of personal jurisdiction over the defendant.
+David M. Rice, Inc. v. Intrex, Inc., 257 N.W.2d 370, 372
+(Minn. 1977). Such judgments are not entitled to full
+faith and credit in Minnesota. Uniform Enforcement of
+Foreign Judgments Acts, Minn.Stat. 
+§
+ 548.27 (2000);
+Hutson v. Christensen, 295 Minn. 112, 117, 203 N.W.2d
+535, 538 (1972). Minnesota courts will uphold a foreign
+court's exercise of personal jurisdiction over a
+nonresident defendant when two requirements are met:
+(1) compliance with the foreign state's law providing
+jurisdiction, and (2) the exercise of jurisdiction under
+circumstances that do not offend the Due Process Clause
+of the federal constitution. Intrex, 257 N.W.2d at 372.
+Whether personal jurisdiction exists is a question of law
+and therefore our review is de novo. See V.H. v. Estate
+of Birnbaum, 543 N.W.2d 649, 653 (Minn. 1996); see
+also Matson v. Matson, 310 N.W.2d 502, 506
+(Minn.1981) (applying de novo review to issue of
+whether foreign judgment entitled to full faith and
+credit).
+For the first requirement, Minnesota courts apply the
+law of the foreign state, as construed by that state's
+courts. See David M. Rice, Inc., 257 N.W.2d at 372.
+Alabama law extends personal jurisdiction over
+nonresident defendants to the full extent permitted by
+due process. Ala. R. Civ. P. 4.2(a)(1)(B); DeSotacho, Inc.
+v. Valnit Industries, Inc., 350 So.2d 447, 449-50
+(Ala.1977). Because Alabama provides jurisdiction as
+broad as due process will allow, the first requirement is
+subsumed by the second, and we need only determine
+whether Alabama's exercise of personal jurisdiction over
+Luban was consistent with due process.
+The Due Process Clause of the Fourteenth Amendment
+limits the power of a state court to exercise personal
+jurisdiction over a nonresident defendant to
+circumstances where the defendant has "minimum
+contacts" with the state so that "maintenance of the suit
+does not offend 
+[646 N.W.2d 532]
+ `traditional notions
+of fair play and substantial justice.'" International Shoe
+Co. v. Washington, 326 U.S. 310, 319, 66 S.Ct. 154, 90
+L.Ed. 95 (1945) (quoting Milliken v. Meyer, 311 U.S.
+457, 463, 61 S.Ct. 339, 85 L.Ed. 278 (1940)). Where the
+defendant had "continuous and systematic" contacts
+with the forum state, the court can exercise "general"
+jurisdiction over a nonresident defendant for all
+purposes, even for a claim that is not related to the
+defendant's contacts with the forum state. Helicopteros
+Nacionales de Colombia, S.A. v. Hall, 466 U.S. 408, 414-
+16, 104 S.Ct. 1868, 80 L.Ed.2d 404 (1984) (quoting
+Perkins v. Benguet Consol. Mining Co., 342 U.S. 437,
+445, 72 S.Ct. 413, 96 L.Ed. 485 (1952)). Griffis does not
+contend that the Alabama courts could exercise general
+jurisdiction over Luban. Where the nonresident
+defendant's contacts with the forum state are not
+sufficient for general jurisdiction, the defendant may
+nonetheless be subject to "specific" jurisdiction—that is,
+jurisdiction over a claim that allegedly arose out of the
+defendant's contacts with the forum. Valspar Corp. v.
+Lukken Color Corp., 495 N.W.2d 408, 411
+(Minn.1992). Griffis contends that Luban had sufficient
+contacts with Alabama, out of which her claims arose, to
+support the Alabama court's exercise of specific
+jurisdiction.
+In judging minimum contacts for purposes of assessing
+the validity of specific jurisdiction, a court focuses on
+the "relationship among the defendant, the forum, and
+the litigation." Helicopteros Nacionales de Colombia,
+S.A., 466 U.S. at 414-16, 104 S.Ct. 1868 (quoting Shaffer
+v. Heitner, 433 U.S. 186, 204, 97 S.Ct. 2569, 53 L.Ed.2d
+683 (1977)); West American Ins. Co. v. Westin, Inc.,
+337 N.W.2d 676, 679 (Minn.1983). For the minimum
+contacts requirement to be satisfied, the defendant must
+have "purposefully avail[ed]" herself of the privilege of
+conducting activities within the jurisdiction. Imo Indus.,
+Inc. v. Kiekert AG, 155 F.3d 254, 259 (3d Cir. 1998)
+(quoting and modifying Hanson v. Denckla, 357 U.S.
+235, 253, 78 S.Ct. 1228, 2 L.Ed.2d 1283 (1958)). The
+defendant's conduct and connections with the forum
+state must be such that the defendant "should reasonably
+anticipate being haled into court there." World-Wide
+Volkswagen Corp. v. Woodson, 444 U.S. 286, 297, 100
+S.Ct. 559, 62 L.Ed.2d 490 (1980). The Supreme Court
+has explained that specific jurisdiction may be found
+where the nonresident defendant has "`purposefully
+directed' his activities at residents of the forum and the
+litigation results from alleged injuries that `arise out of
+or relate to' those activities." Burger King Corp. v.
+Rudzewicz, 471 U.S. 462, 472, 105 S.Ct. 2174, 85
+L.Ed.2d 528 (1985) (quoting Keeton v. Hustler
+Magazine, Inc., 465 U.S. 770, 774, 104 S.Ct. 1473, 79
+L.Ed.2d 790 (1984), and Helicopteros Nacionales de
+Colombia, S.A., 466 U.S. at 414).
+In asserting that the Alabama district court had personal
+jurisdiction over Luban, Griffis relies in particular, as
+did the courts below, on Calder v. Jones, 465 U.S. 783,
+104 S.Ct. 1482, 79 L.Ed.2d 804 (1984). In Calder the
+Supreme Court approved a test that had been employed
+by the California courts in that case for determining
+personal jurisdiction over nonresident defendants who
+allegedly committed an intentional tort outside the
+forum. Id. at 787 & n. 6, 104 S.Ct. 1482. Rather than
+focusing only on the defendant's conduct within or
+contacts with the forum, the so-called "effects test"
+approved in Calder allowed long-arm jurisdiction to be
+based on the effects within the forum of tortious
+conduct outside the forum. Id.
+Calder involved an allegedly libelous National Enquirer
+article written and edited by the defendants in Florida,
+but concerning the California activities of a California
+[646 N.W.2d 533]
+ resident. Id. at 784-85, 104 S.Ct. 1482.
+Although the Enquirer was distributed nationally, it had
+its largest circulation in California. Id. at 784-85, 104
+S.Ct. 1482. Plaintiff was an entertainer whose
+profession, the Court pointed out, was centered in
+California. Id. at 788, 104 S.Ct. 1482. She brought suit in
+California against the Florida-based publication, its
+distributing company, and the reporter and editor of the
+article. Id. at 785-86, 104 S.Ct. 1482. The reporter and
+editor moved to quash service of process for lack of
+personal jurisdiction. Id. at 785-85, 104 S.Ct. 1482.
+Although the investigative contacts of one defendant
+with California, including a visit and several phone calls,
+were alleged as a basis for jurisdiction, the Court found
+it unnecessary to consider those direct contacts with the
+forum. Id. at 786-87 & n. 6, 104 S.Ct. 1482. Instead, the
+Court held that California had personal jurisdiction over
+the reporter and editor because their Florida conduct
+was "expressly aimed" at California, knowing that the
+harmful effects would be felt primarily there. Id. at 789,
+104 S.Ct. 1482. The Court emphasized that the alleged
+tort was not "mere untargeted negligence." Id. Under
+these circumstances, the Court found that defendants
+"must `reasonably anticipate being haled into court'" in
+California for their out-of-state actions. Id. at 790, 104
+S.Ct. 1482 (quoting World-Wide Volkswagen Corp.,
+444 U.S. at 297, 100 S.Ct. 559).
+Courts have come to varying conclusions about how
+broadly the "effects test" approved in Calder can be
+applied to find jurisdiction. The Seventh Circuit Court
+of Appeals has construed Calder very broadly,
+concluding that "the state in which the victim of a tort
+suffers the injury may entertain a suit against the
+accused tortfeasor." Janmark, Inc. v. Reidy, 132 F.3d
+1200, 1202 (7th Cir.1997). However, the other federal
+courts of appeals that have considered the issue have
+rejected this expansive view that Calder supports
+specific jurisdiction in a forum state merely because the
+harmful effects of an intentional tort committed in
+another jurisdiction are primarily felt in the forum. E.g.,
+Imo Indus., 155 F.3d at 265. Thus, courts have
+consistently refused to find jurisdiction based on Calder
+merely because the plaintiff was located in the forum
+state and therefore felt the effects of the alleged
+intentional tortious conduct there. E.g., id.; ESAB
+Group, Inc. v. Centricut, Inc., 126 F.3d 617, 625-26 (4th
+Cir.1997); Far West Capital, Inc. v. Towne, 46 F.3d
+1071, 1080 (10th Cir.1995); Southmark Corp. v. Life
+Investors Inc., 851 F.2d 763, 773 (5th Cir.1988). Instead,
+the courts have construed Calder as requiring more than
+mere effects in the forum state. For example, the Ninth
+Circuit reasoned that "`something more'" than mere
+effects is needed and found that something more in the
+"`express aiming'" language of Calder. Bancroft &
+Masters v. Augusta Nat'l, Inc. 223 F.3d 1082, 1087 (9th
+Cir.2000) (quoting Panavision Int'l, L.P. v. Toeppen,
+141 F.3d 1316, 1321 (9th Cir.1998); Calder, 465 U.S. at
+789, 104 S.Ct. 1482). But the court took a broad view of
+express aiming by concluding that the requirement is
+satisfied simply by "wrongful conduct [outside the
+forum] individually targeting a known forum resident."
+Id.
+The Eighth Circuit adopted a narrower interpretation of
+Calder, stating that it was more than "mere effects" that
+supported the Supreme Court's holding. Hicklin Eng'g,
+Inc. v. Aidco, Inc., 959 F.2d 738, 739 (8th Cir.1992). The
+court found that the Iowa court's jurisdiction did not
+extend over a Michigan company that sent allegedly
+defamatory letters to customers of the Iowa-based
+plaintiff company. Id. The customers to whom the
+letters were sent were all located outside of Iowa. Id.
+The 
+[646 N.W.2d 534]
+ court stated that while the
+defendant's statements to the non-Iowa customers were
+intended to promote the defendant's product to the
+detriment of the plaintiff's and therefore might have an
+adverse effect on the Iowa plaintiff, this effect alone was
+not sufficient to establish jurisdiction. Id.
+Within the spectrum of differing circuit court
+interpretations of Calder, we believe the most cogent
+analysis of the Calder effects test is that of the Third
+Circuit in Imo Industries. In Imo Industries, the circuit
+court expressed concern over the possible breadth of
+Calder, asking whether under Calder a court can
+automatically infer that an out-of-state defendant can
+anticipate being haled into the forum from the fact that
+the defendant knew that plaintiff resided in the forum.
+155 F.3d at 262-63. After examining how a number of
+other courts construed Calder, the Third Circuit
+concluded that the Calder effects test is not satisfied by
+the "mere allegation that the plaintiff feels the effect of
+the defendant's conduct in the forum because the
+plaintiff is located there." 155 F.3d at 263. Instead, the
+court stated that Calder's holding "cannot be severed
+from its facts." 155 F.3d at 261. The court explained that
+in Calder the Supreme Court relied on three principal
+findings in reaching its conclusion that the California
+court properly exercised jurisdiction over the
+nonresident defendants, and the circuit court
+incorporated those findings into a three-prong analysis
+for application of the Calder effects test. 155 F.3d at 261.
+The test requires the plaintiff to show that: (1) the
+defendant committed an intentional tort; (2) the
+plaintiff felt the brunt of the harm caused by that tort in
+the forum such that the forum state was the focal point
+of the plaintiff's injury; and (3) the defendant expressly
+aimed the tortious conduct at the forum such that the
+forum state was the focal point of the tortious activity.
+Id. at 265-66. Significantly, the court emphasized that to
+satisfy the third prong, the plaintiff must show that "the
+defendant knew that the plaintiff would suffer the brunt
+of the harm caused by the tortious conduct in the forum,
+and point to specific activity indicating that the
+defendant expressly aimed its tortious conduct at the
+forum." Id. at 266 (emphasis added).
+We, too, are cautious about applying Calder too
+broadly. Although the Supreme Court has engaged in
+little further discussion of Calder, in one post-Calder
+decision the Court did make it clear that foreseeability of
+effects in the forum is not itself enough to justify long-
+arm jurisdiction. The Court explained:
+[T]he constitutional touchstone remains whether the defendant
+purposefully established "minimum contacts" in the forum State.
+International Shoe Co. v. Washington, [326 U.S.] at 316, 66 S.Ct.
+154. Although it has been argued that foreseeability of causing
+injury in another State should be sufficient to establish such
+contacts there when policy considerations so require, the Court has
+consistently held that this kind of foreseeability is not a "sufficient
+benchmark" for exercising personal jurisdiction. World-Wide
+Volkswagen Corp. v. Woodson, 444 U.S., at 295, 100 S.Ct. 559.
+Instead, "the foreseeability that is critical to due process analysis ... is
+that the defendant's conduct and connection with the forum State
+are such that he should reasonably anticipate being haled into court
+there." Id., at 297, 100 S.Ct. 559.
+Burger King Corp., 471 U.S. at 474, 105 S.Ct. 2174
+(footnote omitted). If foreseeability of injury in the
+forum is not enough, it follows that something more
+than defendant's knowledge that the plaintiff is a
+resident of the forum and will feel the 
+[646 N.W.2d 535]
+effects of the tortious conduct there must be necessary
+to satisfy the effects test. We conclude that something
+more than mere effects in the forum state is required,
+and agree with the Third Circuit that the Supreme
+Court did not "carve out a special intentional torts
+exception to the traditional specific jurisdiction analysis,
+so that a plaintiff could always sue in his or her home
+state." Imo Indus., 155 F.3d at 265. Broad applications of
+the effects test, such as those of the Seventh and Ninth
+Circuits, cast too wide a net and incorrectly disregard
+the factual underpinnings of the Court's holding in
+Calder. We adopt the three-prong analysis articulated
+by the Third Circuit in Imo Industries, as it properly
+synthesizes the bases of the Court's decision in Calder
+without effecting an overly broad application.
+The critical question in this case turns on the third
+prong, whether the defendant expressly aimed the
+allegedly tortious conduct at the forum such that the
+forum was the focal point of the tortious activity.
+2 
+ As
+noted above, to satisfy the third prong, the plaintiff must
+show that "the defendant knew that the plaintiff would
+suffer the brunt of the harm caused by the tortious
+conduct in the forum, and point to specific activity
+indicating that the defendant expressly aimed its tortious
+conduct at the forum." Imo Indus., 155 F.3d at 266.
+Griffis argues that Luban directed the defamation at the
+Alabama forum because she targeted her messages at
+Griffis, whom she knew to be an Alabama resident, and
+because Luban knew that messages posted on the
+sci.archaeology newsgroup could be read anywhere in
+the world and in fact were read by Griffis in Alabama.
+Griffis further contends that Luban's defamatory
+statements had "deleterious effects" on Griffis's
+consulting business and her professional reputation in
+Alabama. The district court agreed with Griffis, stating
+that Luban "never denied that she knew Plaintiff was
+located in Alabama, and that her allegedly defamatory
+messages would have an `effect' on Plaintiff's
+professional career in Alabama."
+While the record supports the conclusion that Luban's
+statements were intentionally directed at Griffis, whom
+she knew to be an Alabama resident, we conclude that
+the evidence does not demonstrate that Luban's
+statements were "expressly aimed" at the state of
+Alabama.
+3 
+ The parties agree that Luban published the
+allegedly defamatory statements on an internet
+newsgroup accessible to the public, but nothing in the
+record indicates that the statements were targeted at the
+state of Alabama or at an Alabama audience beyond
+Griffis herself. The newsgroup on which Luban posted
+her statements was 
+[646 N.W.2d 536]
+ organized around
+the subjects of archeology and Egyptology, not Alabama
+or the University of Alabama academic community.
+According to Griffis, Luban's messages were widely read
+by her colleagues—the other amateur Egyptologists who
+participated in the sci.archaeology newsgroup. But
+Griffis has not presented evidence that any other person
+in Alabama read the statements. Nor has she asserted
+that Alabama has a unique relationship with the field of
+Egyptology, like the close relationship between the
+plaintiff's profession and the forum state that the
+Supreme Court found relevant in Calder. Therefore,
+even if we assume Luban's statements were widely read
+by followers of the sci.archaeology newsgroup, the
+readers most likely would be spread all around the
+country—maybe even around the world—and not
+necessarily in the Alabama forum. The fact that
+messages posted to the newsgroup could have been read
+in Alabama, just as they could have been read anywhere
+in the world, cannot suffice to establish Alabama as the
+focal point of the defendant's conduct.
+To support her assertion that Luban's statements
+affected her professional integrity in Alabama, Griffis
+relies on the message posted by a dean at the University
+of Alabama. But that message simply verified that Griffis
+had taught noncredit classes related to ancient Egypt at
+the University of Alabama's Department of Special
+Studies. The statement did not indicate an awareness of
+Luban's statements, nor did it indicate that Griffis's
+integrity or reputation had been impugned at the
+University. Significantly, the dean posted the message to
+another newsgroup because she did not have access to
+sci.archaeology newsgroup on which Luban made her
+postings. Griffis later copied the Dean's message onto
+the sci.archaeology newsgroup. Thus nothing in the
+factual record before us indicates that Luban's messages
+were read by any other person in Alabama, or by anyone
+in the academic community at the University of
+Alabama. Griffis also relies on a letter her attorney
+wrote to Luban threatening litigation to establish that
+Luban knew her postings would harm Griffis's
+consulting business in Alabama. But the letter states
+only that Luban's statements were "threatening" Griffis's
+business and did not specify any details about the
+business. Nor does anything in the record establish that
+Griffis's consulting business was focused in Alabama,
+beyond the fact that Griffis herself was located there.
+4
+Unlike the facts in Calder, where the defamatory article
+was focused on California activities of a California
+plaintiff whose professional industry was centralized in
+California and was carried by a national newspaper with
+its highest circulation in California, Luban did not
+"expressly aim" her statements at the state of Alabama
+such that Alabama was the focal point of the tortious
+activity.
+In sum, we conclude that the record does not
+demonstrate that Luban expressly aimed her allegedly
+tortious conduct at the Alabama forum so as to satisfy
+the third prong of the Imo Industries analysis. The mere
+fact that Luban knew that Griffis resided and worked in
+Alabama is not sufficient to extend personal jurisdiction
+over Luban in Alabama, because that knowledge does
+not demonstrate targeting of Alabama as the focal point
+of the allegedly defamatory statements. As a result, even
+if Luban knew or should have known that defamatory
+statements about Griffis 
+[646 N.W.2d 537]
+ would affect
+her in her home state of Alabama, that alone is not
+enough to demonstrate that Alabama was the focal point
+of Luban's tortious conduct. Failing this, Griffis cannot
+rely on Calder to confer personal jurisdiction based on
+Luban's allegedly intentional tortious conduct. Because
+Griffis does not claim any other basis on which the
+Alabama court could properly extend personal
+jurisdiction over Luban, the judgment of the Alabama
+court is not entitled to full faith and credit in Minnesota.
+The decisions of the courts below enforcing the
+Alabama judgment are therefore reversed, and the
+Alabama judgment filed in Ramsey County District
+Court on May 5, 1998, under the Uniform Enforcement
+of Foreign Judgments Acts, Minn.Stat. 
+§
+ 548.27, and the
+Ramsey County District Court judgment entered on
+December 21, 2000, based on the Alabama judgment,
+are vacated.
+Reversed and judgments vacated.
+GILBERT, J., took no part in the consideration or
+decision of this case.

@@ -1,0 +1,350 @@
+In 1936 the South Carolina Legislature passed an Act
+known as "The South Carolina Workmen's
+Compensation Law." S. C. Code, 1952, Tit. 72. It created
+a new, complete, detailed and exclusive plan for the
+compensation [356 U.S. 541] by an "employer" of his
+"employee"1 for bodily injuries sustained by the latter
+which arise "by accident out of and in the course of the
+employment," whether with or without fault of the
+employer. § 72-14. The Act also prescribes the measure
+and nature of the remedy,2 which "shall exclude all other
+rights and remedies of such employee . . . against his
+employer, at common law or otherwise, on account of
+such injury" (§ 72-121), and vests exclusive jurisdiction
+in the South Carolina Industrial Commission over all
+claims falling within the purview of the Act (§ 72-66),
+subject to review by appeal to the State's courts upon
+"errors of law." § 72-356.
+Section 72-111 expands the definition of the terms
+"employee" and "employer" (note 1) by providing, in
+substance, that when an " `owner' " of premises
+"undertakes to perform or execute any work which is a
+part of his trade, business or occupation and contracts
+with any other person [called "subcontractor"] for the
+execution or performance by or under such
+subcontractor of the whole or any part of the work
+undertaken by such owner, the owner shall be liable to
+pay to any workman employed in the work any
+compensation under this Title which he would have
+been liable to pay if the workman had been immediately
+employed by him." (Emphasis supplied.) Employees of
+such subcontractors are commonly called "statutory
+employees" of the "owner."
+Petitioner, a lineman employed by a "subcontractor"
+who had contracted to build more than 25 miles of new
+transmission lines and to convert from single-phase to
+double-phase more than 87 miles of existing
+transmission lines and to construct two substations and
+a breaker station for the "owner," was severely injured
+by an accident [356 U.S. 542] which arose out of and in
+the course of that employment. Subsequent to his injury
+he sought and received the full benefits provided by the
+South Carolina Workmen's Compensation Law.
+Diversity existing, petitioner then brought this
+common-law suit in a Federal District Court in South
+Carolina against the "owner," the respondent here, for
+damages for his bodily injury, which, he alleged, had
+resulted from the "owner's" negligence. The
+respondent-"owner" answered setting up, among other
+defenses, the affirmative claim that petitioner's injury
+arose by accident out of and in the course of his
+employment, as a lineman, by the subcontractor while
+executing the contracted work "which [was] a part of
+[the owner's] trade, business or occupation." It urged, in
+consequence, that petitioner was its "statutory
+employee" and that, therefore, his exclusive remedy was
+under the South Carolina Workmen's Compensation
+Law, and that exclusive jurisdiction of the subject matter
+of his claim was vested in the State's Industrial
+Commission and, hence, the federal court lacked
+jurisdiction over the subject matter of this common-law
+suit.
+At the trial petitioner adduced evidence upon the issue
+of negligence and rested his case in chief. Thereupon
+respondent, in support of its affirmative defense,
+adduced evidence tending to show (1) that its charter,
+issued under the Rural Electric Cooperative Act of
+South Carolina (S. C. Code, 1952, § 12-1025),
+authorized it to construct and operate electric
+generating plants and transmission lines essential to its
+business of generating and distributing electricity; (2)
+that it had (before the Second World War) constructed
+substations with its own direct employees and facilities,
+although the six substations which it was operating at
+the time petitioner was injured had been built by
+contractors, and that when [356 U.S. 543] petitioner was
+injured it did not have in its direct employ any person
+capable of constructing a substation;3 (3) that it
+regularly employed a crew of 16 men—8 linemen and 8
+groundmen—two-thirds of whose time was spent in
+constructing new transmission lines and extensions, and
+that such was "a part of [its] trade, business [and]
+occupation." This evidence stood undisputed when
+respondent rested its case.
+At the close of respondent's evidence petitioner moved
+to strike respondent's affirmative jurisdictional defense,
+and all evidence adduced in support of it. Respondent
+made known to the court that when petitioner had
+rested it wished to move for a directed verdict in its
+favor. Thereupon the colloquy between the court and
+counsel, which is set forth in substance in MR. JUSTICE
+FRANKFURTER'S dissenting opinion, occurred. The
+District Court sustained petitioner's motion and struck
+respondent's affirmative jurisdictional defense and its
+supporting evidence from the record. His declared basis
+for that action was that the phrase in § 72-111 "a part of
+his trade, business or occupation" related only to work
+being performed by the "owner" "for somebody else."
+Thereafter, [356 U.S. 544] the district judge heard
+arguments upon and overruled respondent's motion for
+a directed verdict,4 and submitted the case to the jury
+which returned a verdict for petitioner.
+On appeal, the Court of Appeals found that the district
+judge's construction of § 72-111 was not supportable
+under controlling South Carolina decisions. It further
+found that respondent's evidence disclosed that
+respondent "was not only in the business of supplying
+electricity to rural communities, but [was] also in the
+business of constructing the lines and substations
+necessary for the distribution of the product," and that
+the contracted work was of like nature and, hence, was
+"a part of [respondent's] trade, business or occupation,"
+within the meaning of § 72-111, and, therefore,
+petitioner was respondent's statutory employee, and,
+hence, the court was without jurisdiction over the
+subject matter of the claim. Upon this basis, it reversed
+the judgment of the District Court with directions to
+enter judgment for respondent. 238 F.2d 346.
+This Court now vacates the judgment of the Court of
+Appeals and remands the case to it for decision of
+questions not reached in its prior opinion, with
+directions, if not made unnecessary by its decision of
+such questions, to remand the case to the District Court
+for a new trial upon such issues as the Court of Appeals
+may direct.
+I agree with and join in that much of the Court's
+opinion. I do so because—although, as found by the [356
+U.S. 545] Court of Appeals, respondent's evidence was
+ample, prima facie, to sustain its affirmative
+jurisdictional defense— petitioner had not waived his
+right to adduce evidence in rebuttal upon that issue, in
+other words had not "rested," at the time the district
+judge erroneously struck respondent's jurisdictional
+defense and supporting evidence from the record. In
+these circumstances, I believe that the judgment of the
+Court of Appeals, insofar as it directed the District
+Court to enter judgment for respondent, would deprive
+petitioner of his legal right, which he had not waived, to
+adduce evidence which he claims to have and desires to
+offer in rebuttal of respondent's prima facie established
+jurisdictional defense. The procedural situation then
+existing was not legally different from a case in which a
+defendant, without resting, moves, at the close of the
+plaintiff's case, for a directed verdict in its favor which
+the court erroneously sustains, and, on appeal, is
+reversed for that error. It could not fairly be contended,
+in those circumstances, that the appellate court might
+properly direct the trial court to enter judgment for the
+plaintiff and thus deprive the defendant, who had not
+rested, of his right to offer evidence in defense of
+plaintiff's case. Rule 50, Fed. Rules Civ. Proc. It is urged
+by respondent that, from the colloquy between the
+district judge and counsel, which, as stated, is set forth in
+substance in MR. JUSTICE FRANKFURTER'S
+dissenting opinion, it appears that petitioner had
+"rested," and thus had waived his right to adduce
+rebuttal evidence upon the issue of respondent's
+jurisdictional defense, before the district judge sustained
+his motion to strike that defense and the supporting
+evidence. But my analysis of the record convinces me
+that petitioner, in fact, never did so. For this reason I
+believe that so much of the judgment of the Court of
+Appeals as directed the District Court to enter judgment
+for respondent deprives petitioner of his right to adduce
+rebuttal evidence upon the [356 U.S. 546] issue of
+respondent's prima facie established jurisdictional
+defense, and, therefore, cannot stand.
+But the Court's opinion proceeds to discuss and
+determine the question whether, upon remand to the
+District Court, if such becomes necessary, the
+jurisdictional issue is to be determined by the judge or
+by the jury—a question which, to my mind, is
+premature, not now properly before us, and is one we
+need not and should not now reach for or decide. The
+Court, although premising its conclusion "upon the
+assumption that the outcome of the litigation may be
+substantially affected by whether the issue of immunity5
+is decided by a judge or a jury." holds that the issue is to
+be determined by a jury—not by the judge. I cannot
+agree to this conclusion for the following reasons.
+As earlier shown, the South Carolina Workmen's
+Compensation Law creates a new, complete, detailed
+and exclusive bundle of rights respecting the
+compensation by an "employer" of his "employee" for
+bodily injuries sustained by the latter which arise by
+accident out of and in the course of the employment,
+regardless of fault, and vests exclusive jurisdiction in the
+State's Industrial Commission over all such claims,
+subject to review by appeal in the South Carolina courts
+only upon "errors of law." Consonant with § 72-66,
+which vests exclusive jurisdiction over such claims in
+the Commission, and with § 72-356, which allows
+judicial review only upon "errors of law," the Supreme
+Court of the State has uniformly held that the question,
+in cases like the present, whether [356 U.S. 547]
+jurisdiction over such claims is vested in the Industrial
+Commission or in the courts presents a question of law
+for determination by the court, not a jury. In Adams v.
+Davison-Paxon Co., 230 S.C. 532, 96 S.E.2d 566 (1957),
+which appears to be the last case by the Supreme Court
+of the State on the question, plaintiff, an employee of a
+concessionaire operating the millinery department in
+defendant's store, was injured, she claimed by
+negligence, while using a stairway in the store. She
+brought a common-law suit for damages against the
+owner of the store. The latter defended upon the
+ground, among others, that the operation of the
+millinery department, though under a contract with the
+concessionaire, plaintiff's employer, was "a part of [its]
+trade, business or occupation," that the plaintiff was
+therefore its statutory employee under § 72-111 and
+exclusive jurisdiction over the subject matter of
+plaintiff's claim was vested in the Industrial
+Commission, and that the court was without
+jurisdiction over the subject matter in her common-law
+suit. It seems that the trial court submitted this issue,
+along with others, to the jury which returned a verdict
+for plaintiff. On appeal the Supreme Court of the State
+reversed, saying:
+"It has been consistently held that whether the claim of an injured
+workman is within the jurisdiction of the Industrial Commission is
+a matter of law for decision by the Court, which includes the
+finding of the facts which relate to jurisdiction. Knight v. Shepherd,
+191 S.C. 452, 4 S.E.2d 906; Tedars v. Savannah River Veneer
+Company, 202 S.C. 363, 25 S.E.2d 235, 147 A. L. R. 914; McDowell
+v. Stilley Plywood Co., 210 S.C. 173, 41 S.E.2d 872; Miles v. West
+Virginia Pulp & Paper Co., 212 S.C. 424, 48 S.E.2d 26; Watson v.
+Wannamaker & Wells, Inc., 212 S.C. 506, 48 S.E.2d 447; Gordon v.
+Hollywood-Beaufort Package Corp., 213 S.C. 438, 49 S.E.2d
+718;[356 U.S. 548] Holland v. Georgia Hardwood Lbr. Co., 214 S.C.
+195, 51 S.E.2d 744; Younginer v. J. A. Jones Const. Co., 215 S.C.
+135, 54 S.E.2d 545; Horton v. Baruch, 217 S.C. 48, 59 S.E.2d 545.
+"Thus the trial court should have in this case resolved the conflicts
+in the evidence and determined the fact of whether Emporium [the
+concessionaire] was performing a part of the `trade, business or
+occupation' of the department store-appellant and, therefore,
+whether respondent's remedy is exclusively under the Workmen's
+Compensation Law." 230 S. C., at 543, 96 S. E. 2d, at 571.
+(Emphasis supplied.)
+It thus seems to be settled under the South Carolina
+Workmen's Compensation Law, and the decisions of
+the highest court of that State construing it, that the
+question whether exclusive jurisdiction, in cases like
+this, is vested in its Industrial Commission or in its
+courts of general jurisdiction is one for decision by the
+court, not by a jury. The Federal District Court, in this
+diversity case, is bound to follow the substantive South
+Carolina law that would be applied if the trial were to be
+held in a South Carolina court, in which State the
+Federal District Court sits. Erie R. Co. v. Tompkins, 304
+U.S. 64. A Federal District Court sitting in South
+Carolina may not legally reach a substantially different
+result than would have been reached upon a trial of the
+same case "in a State court a block away." Guaranty
+Trust Co. v. York, 326 U.S. 99, 109.
+The Court's opinion states: "Concededly the nature of
+the tribunal which tries issues may be important in the
+enforcement of the parcel of rights making up a cause of
+action or defense, and bear significantly upon
+achievement of uniform enforcement of the right. It
+may well be that in the instant personal-injury case the
+outcome [356 U.S. 549] would be substantially affected
+by whether the issue of immunity is decided by a judge
+or a jury." And the Court premises its conclusion "upon
+the assumption that the outcome of the litigation may be
+substantially affected by whether the issue of immunity
+is decided by a judge or a jury." Upon that premise, the
+Court's conclusion, to my mind, is contrary to our cases.
+"Here [as in Guaranty Trust Co. v. York, supra] we are
+dealing with a right to recover derived not from the
+United States but from one of the States. When, because
+the plaintiff happens to be a non-resident, such a right is
+enforceable in a federal as well as in a State court, the
+forms and mode of enforcing the right may at times,
+naturally enough, vary because the two judicial systems
+are not identic. But since a federal court adjudicating a
+State-created right solely because of the diversity of
+citizenship of the parties is for that purpose, in effect,
+only another court of the State, it cannot afford recovery
+if the right to recover is made unavailable by the State
+nor can it substantially affect the enforcement of the
+right as given by the State." Guaranty Trust Co. v. York,
+supra, at 108-109. (Emphasis supplied.)
+The words "substantive" and "procedural" are mere
+conceptual labels and in no sense talismanic. To call a
+legal question by one or the other of those terms does
+not resolve the question otherwise than as a purely
+authoritarian performance. When a question though
+denominated "procedural" is nevertheless so
+"substantive" as materially to affect the result of a trial,
+federal courts, in enforcing state-created rights, are not
+free to disregard it, on the ground that it is "procedural,"
+for such would be to allow, upon mere nomenclature, a
+different result in a state court from that allowable in a
+federal court though both are, in effect, courts of the
+State and "sitting side by side." Klaxon Co. v. Stentor
+Co., 313 U.S. 487, 496. "The federal court enforces the
+state-created right [356 U.S. 550] by rules of procedure
+which it has acquired from the Federal Government and
+which therefore are not identical with those of the state
+courts. Yet, in spite of that difference in procedure, the
+federal court enforcing a state-created right in a
+diversity case is, as we said in Guaranty Trust Co. v.
+York, 326 U.S. 99, 108, in substance `only another court
+of the State.' The federal court therefore may not
+`substantially affect the enforcement of the right as
+given by the State.' Id., 109." Bernhardt v. Polygraphic
+Co., 350 U.S. 198, 202-203. (Emphasis supplied.)
+"Where local law qualifies or abridges [the right], the
+federal court must follow suit. Otherwise there is a
+different measure of the cause of action in one court
+than in the other, and the principle of Erie R. Co. v.
+Tompkins is transgressed." Ragan v. Merchants
+Transfer Co., 337 U.S. 530, 533. "It is therefore
+immaterial whether [state-created rights] are
+characterized either as `substantive' or `procedural' in
+State court opinions in any use of those terms unrelated
+to the specific issue before us. Erie R. Co. v. Tompkins
+was not an endeavor to formulate scientific legal
+terminology. It expressed a policy that touches vitally
+the proper distribution of judicial power between State
+and federal courts. In essence, the intent of that decision
+was to insure that, in all cases where a federal court is
+exercising jurisdiction solely because of the diversity of
+citizenship of the parties, the outcome of the litigation
+in the federal court should be substantially the same, so
+far as legal rules determine the outcome of a litigation,
+as it would be if tried in a State court. The nub of the
+policy that underlies Erie R. Co. v. Tompkins is that for
+the same transaction the accident of a suit by a nonresident
+litigant in a federal court instead of in a State
+court a block away should not lead to a substantially
+different result. And so, putting to one side abstractions
+regarding `substance' and `procedure,' we have held that
+in diversity cases the federal [356 U.S. 551] courts must
+follow the law of the State . . . ." Guaranty Trust Co. v.
+York, supra, at 109. (Emphasis supplied.)
+Inasmuch as the law of South Carolina, as construed by
+its highest court, requires its courts—not juries—to
+determine whether jurisdiction over the subject matter
+of cases like this is vested in its Industrial Commission,
+and inasmuch as the Court's opinion concedes "that in
+the instant personal-injury case the outcome would be
+substantially affected by whether the issue of immunity
+is decided by a judge or a jury," it follows that in this
+diversity case the jurisdictional issue must be
+determined by the judge—not by the jury. Insofar as the
+Court holds that the question of jurisdiction should be
+determined by the jury, I think the Court departs from
+its past decisions. I therefore respectfully dissent from
+part II of the opinion of the Court.

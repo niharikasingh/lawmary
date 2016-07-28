@@ -1,0 +1,119 @@
+State prisoner Maiker Vazquez appeals from the district court’s denial of his
+petition for a writ of habeas corpus, filed pursuant to 28 U.S.C. § 2254. In his
+petition, Vazquez claimed that the state trial court erred by admitting hearsay
+evidence in violation of his rights under the Sixth Amendment’s Confrontation
+Clause. The district court found sua sponte that Vazquez was procedurally barred
+from bringing this claim because he had not exhausted available state court
+remedies. Because we find that the state waived exhaustion, we vacate the district
+court’s order and remand for a decision on the merits of Vazquez’s claim.
+I. Background
+In 2001, Vazquez was involved in a drug deal which resulted in the death of
+another participant. As a result, the State of Florida charged Vazquez with firstdegree
+murder, attempted first-degree murder, and attempted kidnaping with a
+firearm. During Vazquez’s jury trial, a detective testified for the state about the
+murder investigation. In response to a question on cross examination by
+Vazquez’s attorney, the detective indicated that Jackie Gonzalez, an acquaintance
+of Vazquez, told him about a plan between Vazquez and his co-defendant to
+kidnap the victim. Defense counsel objected to the detective’s answer and moved
+for a mistrial. The trial court denied the motion and directed the jury to “disregard
+that last comment . . . it was not responsive to the question.” Gonzalez did not
+testify at trial.
+Ultimately, the jury convicted Vazquez of second-degree murder and
+attempted kidnaping. On August 3, 2007, the trial court sentenced Vazquez to 38
+years in prison on the second-degree murder charge to be served concurrently with
+a term of 15 years in prison on the attempted kidnaping charge. Vazquez appealed
+his conviction to Florida’s Third District Court of Appeal. The state appellate
+court denied relief. Vazquez v. State, 8 So. 3d 432, 434 (Fla. Dist. Ct. App. 2009).
+Vazquez also sought and was denied state postconviction relief.
+Vazquez then filed the instant habeas corpus petition in the United States
+District Court for the Southern District of Florida on June 21, 2012. Vazquez
+alleged a number of issues, including ineffective assistance of counsel and a
+violation of his rights under the Sixth Amendment’s Confrontation Clause. In
+response, the state presented arguments as to the merits of Vazquez’s claims and
+expressly conceded that Vazquez had satisfied the exhaustion requirement.1
+ The
+district court, adopting a magistrate judge’s report and recommendation, concluded
+sua sponte that Vazquez had not exhausted his Confrontation Clause claim in the
+state courts. The district court, therefore, denied Vazquez’s habeas petition. The
+district court granted Vazquez a Certificate of Appealability as to his Confrontation
+Clause claim.
+On appeal, Vazquez makes two alternative arguments regarding exhaustion:
+(1) the state waived its exhaustion defense by conceding that Vazquez had
+exhausted his state remedies and addressing the claims on the merits; and (2)
+Vazquez exhausted his state remedies by identifying his Confrontation Clause
+claim in a state court brief.
+II. Discussion
+Generally, in order to bring a § 2254 habeas corpus petition in federal court,
+a petitioner must exhaust all state court remedies. Kelley v. Sec’y for Dep’t of
+Corr., 377 F.3d 1317, 1343 (11th Cir. 2004); 28 U.S.C. § 2254(b)(1)(A). The
+exhaustion requirement is satisfied when the petitioner “present[s] the state courts
+with the same claim he urges upon the federal courts.” McNair v. Campbell, 416
+F.3d 1291, 1302 (11th Cir. 2005) (quoting Picard v. Connor, 404 U.S. 270, 275
+(1971)). If a petitioner fails to exhaust his federal habeas claims in state court, the
+result is procedural default, which bars habeas relief. O’Sullivan v. Boerckel, 526
+U.S. 838, 848 (1999). Whether a claim has been properly exhausted is “a mixed
+question of law and fact that we review de novo.” Mauk v. Lanier, 484 F.3d 1352,
+1357 n.3 (11th Cir. 2007) (citing Fox v. Kelso, 911 F.2d 563, 568 (11th Cir.
+1990)).
+“[S]tates can waive procedural bar defenses in federal habeas proceedings,”
+including exhaustion. Hills v. Washington, 441 F.3d 1374, 1376 (11th Cir. 2006)
+(per curiam). However, a state’s mere “failure to raise exhaustion does not
+constitute a waiver under AEDPA, which mandates that ‘[a] State shall not be
+deemed to have waived the exhaustion requirement . . . unless the State, through
+counsel, expressly waives the requirement.’” McNair, 416 F.3d at 1304 (emphasis
+added) (quoting 28 U.S.C. § 2254(b)(3)). Where a state waives exhaustion, the
+district court may consider the procedural bar sua sponte if “requiring the
+petitioner to return to state court to exhaust his claims serves an important federal
+interest.” Esslinger v. Davis, 44 F.3d 1515, 1524 (11th Cir. 1995). In Thompson
+v. Wainwright, the Eleventh Circuit discussed several factors a district court may
+consider in exercising its discretion to accept or reject a state’s exhaustion waiver,
+including:
+whether extensive or minimal fact finding is involved or only
+questions of law on an already adequate record and, if fact finding is
+involved, whether it may be done as part of a federal hearing required
+on other issues[;] . . . how long since petitioner’s conviction and
+sentence were imposed, how long state exhaustion will require, and
+the comparative status of the dockets of federal and state courts[; and]
+. . . whether there are fundamental state policies at stake in the case or
+threshold issues of undecided state law.
+714 F.2d 1495, 1509 (11th Cir. 1983).
+The United States Supreme Court has examined whether waivers are
+effective in the habeas context with regard to the statute of limitations. In Day v.
+McDonough, the Court determined that a district court was permitted to raise sua
+sponte a statute-of-limitations defense because the state had inadvertently
+concluded the petition was timely and, thus, had not expressly waived the defense.
+547 U.S. 198, 211 (2006). The Court attributed the state’s failure to address the
+defense to “an inadvertent error, a miscalculation” of the statute-of-limitations
+period. Id. By contrast, in Wood v. Milyard, the Supreme Court found a court of
+appeals abused its discretion by sua sponte considering a timeliness issue when the
+state had “deliberately steered the District Court away from the question and
+towards the merits of [the] petition.” 132 S. Ct. 1826, 1835 (2012). In other
+words, “the State knew it had an ‘arguable’ statute of limitations defense,” but
+chose not to pursue it. Id.
+On appeal, the state now claims its statement as to exhaustion, supra note 1,
+was an inadvertent mistake of fact and was not intended to expressly waive the
+exhaustion requirement. Based on our review of the state’s district court brief, we
+presume that the state examined the state court record and, in doing so,
+affirmatively concluded it need not pursue an exhaustion defense. Unlike Day, the
+state’s conclusion in the present case that Vazquez had exhausted his remedies did
+not rely on a mistake of fact. If anything, the state’s understanding of the law
+relating to the exhaustion requirement led to the conclusion that, correctly or not,
+pursuing the exhaustion defense would be without merit.2
+ Therefore, we conclude
+the state was aware of the exhaustion arguments and communicated to the court its
+intention not to pursue them. See Wood, 132 S. Ct. at 1835. Thus, we conclude
+the state expressly waived exhaustion.
+Further, in considering the exhaustion issue sua sponte, the district court did
+not point to any “important federal interest” or Thompson factors that required a
+rejection of the state’s waiver. Instead, the district court purported to “correct” the
+state’s mistake of fact by dismissing Vazquez’s claim as procedurally barred. As
+we indicated above, to the extent a mistake may have occurred, the state’s
+exhaustion waiver is more accurately characterized as a mistake of law.
+Accordingly, the district court erred in rejecting the state’s express waiver and
+dismissing Vazquez’s petition.
+Because the district court did not make alternative findings regarding the
+merits of Vazquez’s claim, we vacate the district court’s order denying habeas
+relief and remand for consideration of the merits of Vazquez’s claim.
+III. Conclusion
+Based on the foregoing analysis, we vacate the judgment of the district court
+and remand for further proceedings consistent with this opinion.

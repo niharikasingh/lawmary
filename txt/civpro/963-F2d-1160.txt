@@ -1,0 +1,481 @@
+The panel has voted unanimously to amend the opinion
+previously issued in this case. The amended opinion is
+attached and is ordered filed.
+With that amendment, the panel has voted to deny the
+petition for rehearing and suggestion for rehearing en
+banc.
+The full court has been advised of the suggestion for
+rehearing en banc, and of the proposed amendment to
+the opinion, and no judge of the court has requested a
+vote to rehear the matter en banc.
+The petition for rehearing is hereby denied and the
+suggestion for rehearing en banc is rejected.
+OPINION
+CANBY, Circuit Judge:
+Appellant, Reverend Dusty Pruitt, appeals from the
+district court's dismissal, pursuant to Fed.R.Civ.P.
+12(b)(6), of her first and fifth amendment challenges to
+Army regulations requiring her discharge from the U.S.
+Army Reserve (USAR) because of her acknowledged
+homosexuality. We affirm in part and reverse in part.
+BACKGROUND
+The facts of this case are not in dispute. Reverend Pruitt
+served in the U.S. Army between January 1971 and July
+1975, ultimately rising to the rank of Captain. After
+leaving active service to seek ordination as a methodist
+minister, Pruitt remained an officer in the U.S. Army
+Reserve (USAR). On May 25, 1982, Pruitt was notified
+of her selection for promotion to the rank of Major
+effective February 6, 1983. Pruitt's outstanding record in
+both active and reserve service is undisputed.
+On January 27, 1983, the Los Angeles Times published
+an interview with Pruitt which revealed that she was a
+lesbian and had twice gone through ceremonies of
+marriage to other women. The article focused on
+Pruitt's struggle to resolve personal contradictions
+between her religion and military career, and her
+sexuality. Through this article the Army first learned of
+Pruitt's homosexuality. On the basis of this information,
+the Army suspended Pruitt's promotion to Major
+pending an investigation to determine whether Pruitt
+should be separated from the Army Reserve pursuant to
+AR 135-175, which mandates the discharge of
+homosexual service-members.
+On April 4, 1983, Pruitt filed this action in district court.
+In her complaint, Pruitt declared that she was
+homosexual. She alleged, however, that the Army was
+barred by the first amendment from discharging her
+solely on the basis of her admission of homosexuality.
+1
+The district court denied the Army's motion to dismiss
+without prejudice and stayed the action pending
+completion by the Army of its administrative
+investigation.
+On April 17, 1984, the Army advised Pruitt of its
+intention to revoke her security clearance on the ground
+that "substantial evidence of record [supports the
+conclusion] that you are a practicing homosexual
+(lesbian) as defined by paragraph 2-38, AR 135-175."
+2
+Pruitt responded on May 16, 1984 by letter to the Army
+contesting the 
+[963 F.2d 1162]
+ proposed revocation of
+her clearance. In the letter, Pruitt again admitted her
+homosexuality:
+I am a homosexual. I do not believe that as a homosexual woman, I
+am a security risk; therefore, I cannot see what the matter of my
+being a homosexual has to do with my security clearance....
+Although the record is clear that Pruitt is homosexual,
+there is no evidence in this case that she engaged in
+homosexual acts, or made any advance toward any
+active or reserve soldier that might be construed as
+homosexual conduct.
+An Army Administrative Board ("Board") convened on
+September 7, 1985 to determine whether sufficient
+evidence supported the conclusion that Pruitt was
+homosexual. The Board accepted into evidence the
+following: Pruitt's Complaint for Declaratory Relief filed
+April 4, 1983 (in which she declared she was
+homosexual); the Los Angeles Times article; the letter of
+May 16, 1984 in which Pruitt explicitly informed the
+Army of her homosexuality; and Pruitt's military record.
+Pruitt attended the proceeding and was represented by
+legal counsel, but she refused to testify before the board.
+She made no effort to challenge the veracity of the
+newspaper articles, or to explain what she meant when
+she identified herself as homosexual. The Board
+concluded that Pruitt was a homosexual within the
+meaning of AR 135-175, and recommended that she be
+honorably discharged.
+3 
+ The Board's recommendation
+was accepted by the review authority of the Department
+of the Army and Pruitt received an honorable discharge
+on July 9, 1986.
+Upon learning of the discharge, Pruitt renoticed her
+motion for summary judgment, and the Army
+responded by renewing its motion to dismiss. The
+district court denied Pruitt's motion for summary
+judgment, and granted the Army's motion to dismiss,
+stating that the Army's determination that homosexual
+personnel are incompatible with its military mission is
+entitled to substantial deference. This appeal followed.
+We withdrew this case from submission pending the en
+banc decision of this court in Watkins v. United States
+Army, 875 F.2d 699 (9th Cir.1989), cert. denied, ___
+U.S. ___, 111 S.Ct. 384, 112 L.Ed.2d 395 (1990), a case
+raising an equal protection challenge to regulations
+similar to those challenged by Pruitt. Watkins was
+decided on May 3, 1989. The Watkins en banc court,
+however, did not reach the equal protection issue,
+instead deciding the case on estoppel grounds. Because
+the facts of this case do not support an estoppel
+argument, the Watkins opinion has little impact on this
+decision. We resubmitted this case and now address
+Pruitt's constitutional claims. We have jurisdiction over
+this appeal under 28 U.S.C. 
+§
+ 1291.
+STANDARD OF REVIEW
+The district court's denial of Pruitt's motion for
+summary judgment and granting 
+[963 F.2d 1163]
+ of the
+Army's motion to dismiss present questions of law
+which we review de novo. See Darring v. Kincheloe,
+783 F.2d 874, 876 (9th Cir.1986) (summary judgment);
+Mack v. South Bay Beer Distribs., Inc., 798 F.2d 1279,
+1282 (9th Cir.1986) (dismissal).
+DISCUSSION
+I. First Amendment Claim
+Pruitt characterizes her involuntary discharge as a
+violation of her rights to free speech guaranteed by the
+first amendment. She concedes that the Army
+legitimately may proscribe homosexual conduct in the
+military context. Nevertheless, because there is no
+allegation that she engaged in homosexual activity while
+on duty or performed inadequately as an officer, she
+contends that her discharge was based on protected
+expression—her public assertions of her sexuality
+recorded in the Los Angeles Times article.
+Under the Army's regulation, a member may be
+discharged for stating that he or she is homosexual even
+absent proof of homosexual conduct, AR 135-175, 
+¶
+ 2-
+39. Pruitt argues that this regulation is facially invalid
+because it inhibits pure speech, infringes on the right to
+receive information, and is not necessary to promote the
+military's interests. Alternatively, Pruitt argues that AR
+135-175 is unconstitutional as applied in her case.
+Because the allegations of the complaint establish that
+Pruitt was not discharged for her speech, a threshold
+requirement for implicating the first amendment, we
+reject these arguments. See Johnson v. Orr, 617 F.Supp.
+170, 172, 174 (E.D.Cal.1985) (describing as "specious" a
+first amendment claim similar to that raised by Pruitt)
+aff'd mem., 787 F.2d 597 (9th Cir.1986). Pruitt argues
+that her statements about her sexual orientation
+constituted political speech, touching on a matter of
+public concern. It is true that the substance of the Los
+Angeles Times article was protected speech.
+Nevertheless, Pruitt was discharged not for the content
+of her speech, but for being a homosexual. Addressing
+this issue in a virtually identical case, the Seventh
+Circuit recently said:
+[Appellant] is free under the regulation to say anything she pleases
+about homosexuality and about the Army's policy toward
+homosexuality. She is free to advocate that the Army change its
+stance; she is free to know and talk to homosexuals if she wishes.
+What [appellant] cannot do, and remain in the Army, is to declare
+herself to be a homosexual. Although that is, in some sense speech,
+it is also an act of identification. And it is the identity that makes
+her ineligible for military service, not the speaking of it aloud.
+Ben-Shalom v. Marsh, 881 F.2d 454, 462 (7th Cir.1989)
+(emphasis in original), cert. denied, 494 U.S. 1004, 110
+S.Ct. 1296, 108 L.Ed.2d 473 (1990).
+This language applies equally well here. A central
+problem underlying Pruitt's first amendment argument
+is that it is based, understandably enough, on the
+classical dichotomy between the punishment of speech
+and the punishment of conduct. Because she was not
+discharged for her conduct, Pruitt concludes that she
+was discharged for her speech. The Army, however, is
+not discharging members just for homosexual conduct,
+or even primarily for homosexual conduct. It is
+discharging members because of their status as
+homosexuals. The pertinent portion of the regulation is
+entitled "Separation for Homosexuality." A homosexual
+is defined not only as a person who commits
+homosexual acts, but as one who "desires to engage" in
+them. AR 135-175, 
+¶
+ 2-38a. An officer who engages in a
+homosexual act may be spared from separation if several
+facts are found, including the fact that "[s]uch conduct is
+a departure from the member's usual and customary
+behavior," and that "[t]he member does not desire to
+engage in or intend to engage in homosexual acts." Id. at
+¶
+ 2-39a(1), (5). In short, an officer who commits a
+homosexual act can remain in the service if he or she is
+not a homosexual, but must be separated if he or she is
+homosexual. See Watkins, 875 F.2d at 712-716
+(concurring opinion) (Army's reenlistment ban based on
+homosexual orientation, not conduct).
+The Army did not discharge Pruitt because she spoke
+candidly about her sexuality to a newspaper. Nor did it
+discharge her for publicly expressing her views on a
+timely and controversial subject, or for demonstrating
+compassion for and association 
+[963 F.2d 1164]
+ with
+homosexuals. The Army discharged Pruitt because she
+admitted to being homosexual, and AR 135-175, 
+§§
+ 2-
+39 through 2-44, require separation of homosexual
+officers from the armed forces. That it was her
+homosexuality, and not her speech, that caused Pruitt to
+be discharged is apparent from the subsection of the
+regulation under which she was discharged. It provides
+for separation of a member who "has stated that he/she
+is a homosexual or bisexual unless there is a further
+finding that the member is not a homosexual or
+bisexual." AR 135-175, 
+¶
+ 2-39b (emphasis added).
+Pruitt's admission, like most admissions, was made in
+speech, but that does not mean that the first amendment
+precludes the use of the admission as evidence of the
+facts admitted. See High Tech Gays v. Defense Indus.
+Security Clearance Office, 895 F.2d 563, 578-80 (9th
+Cir.1990). Pruitt admitted homosexuality and was
+discharged for it. The question is not whether the Army
+is free to discharge her for her speech, because it did not
+do so. The question is whether the Army is entitled to
+discharge her for her homosexuality —an issue not
+encompassed by Pruitt's first amendment claim.
+II. Equal Protection Claim
+Although Pruitt's complaint contained general
+allegations that the regulation requiring her discharge
+was unconstitutional, she did not articulate an equal
+protection claim. Pruitt's complaint, however, and the
+entire action were dismissed under Fed. R.Civ.P.
+12(b)(6), for failure to state a claim. "[A] complaint
+should not be dismissed for failure to state a claim unless
+it appears beyond doubt that the plaintiff can prove no
+set of facts in support of his claim which would entitle
+him to relief." Conley v. Gibson, 355 U.S. 41, 45-46, 78
+S.Ct. 99, 101-02, 2 L.Ed.2d 80 (1957) (footnote omitted).
+Even more to the point, "[a] party does not need to
+plead specific legal theories in the complaint, as long as
+the opposing party receives notice as to what is at issue
+in the lawsuit." Electrical Constr. & Maint. Co. v. Maeda
+Pacific Corp., 764 F.2d 619, 622 (9th Cir.1985); accord
+McCalden v. California Library Ass'n, 919 F.2d 538, 546
+(9th Cir.1990). "The complaint should not be dismissed
+merely because plaintiff's allegations do not support the
+legal theory he intends to proceed on, since the court is
+under a duty to examine the complaint to determine if
+the allegations provide for relief on any possible theory."
+5A C. Wright & A. Miller, Federal Practice and
+Procedure 
+§
+ 1357, at 336-37 (1990).
+Pruitt's complaint included allegations that the Army
+was discharging her because of her status as a
+homosexual. She alleged, for example, that "the
+defendants do systematically remove homosexuals who
+are similarly situated to the plaintiff from the Armed
+Services of the United States and the United States
+Army on the basis of thoughts, speech and status."
+Complaint, 
+¶
+ 21. These and the other facts pleaded by
+Pruitt are sufficient, in our view, to state an equal
+protection claim. At the minimum, they give notice that
+Pruitt could easily amend to state an equal protection
+claim—an opportunity she was not afforded.
+Although the equal protection issue was not articulated
+in the complaint, it has been argued on appeal. The
+Army does not contend that Pruitt has failed to allege
+that she was discriminated against because of her
+homosexuality. Instead, the Army argues that its right to
+discharge homosexual servicepersons is so firmly
+supported in the law that any equal protection claim that
+Pruitt has asserted or might assert is legally insufficient
+on its face.
+The Army first relies on Beller v. Middendorf, 632 F.2d
+788 (9th Cir.1980), cert. denied, 452 U.S. 905, 101 S.Ct.
+3030, 69 L.Ed.2d 405, 454 U.S. 855, 102 S.Ct. 304, 70
+L.Ed.2d 150 (1981), in which we upheld the discharge
+from the Navy of three enlisted persons who had
+engaged in homosexual acts. In analyzing the Navy's
+actions under a due process standard, we held that there
+were several grounds on which the regulation could be
+upheld: "The Navy can act to protect the fabric of
+military life, to preserve the integrity of the recruiting
+process, to maintain the discipline of personnel in active
+service, and to insure the acceptance of men and women
+in the military, who are sometimes stationed in foreign
+countries with cultures different from our own." Id. at
+811.
+[963 F.2d 1165]
+ Beller, however, is distinguishable in
+three respects, and its holding is weakened in a fourth.
+First, the servicepersons in that case were discharged for
+homosexual conduct, not homosexual status. Pruitt does
+not dispute that the Army can discharge members for at
+least certain kinds of homosexual conduct, but she
+alleges that she was discharged for her status, with no
+evidence of conduct. Second, Beller was an appeal from
+several summary judgments. The Navy had submitted
+evidence to support the due process underpinnings of its
+regulation. Here the case was dismissed on motion; the
+Army has submitted no evidence justifying its
+regulation, and Pruitt has had no opportunity to dispute
+that evidence. Third, and most important, Beller was a
+substantive due process case. It did not deal with
+discrimination as such, or with the requisite level of
+justification for discrimination. That fact is significant in
+light of the later decision in City of Cleburne v.
+Cleburne Living Center, Inc., 473 U.S. 432, 105 S.Ct.
+3249, 87 L.Ed.2d 313 (1985), discussed below.
+Finally, one of the justifications offered by the Navy in
+Beller was the tension "between known homosexuals
+and other members who `despise/detest
+homosexuality.'" Beller, 632 F.2d at 811. To the degree
+that Beller may thus have rested on prejudice of others
+against homosexuals themselves, rather than on
+disapproval of specific acts of criminal conduct, its
+reasoning is undercut by Palmore v. Sidoti, 466 U.S.
+429, 104 S.Ct. 1879, 80 L.Ed.2d 421 (1984). In Palmore,
+the Supreme Court struck down a denial of custody of a
+child based on social disapproval of the interracial
+marriage of her mother. In so ruling, the Court said:
+"The Constitution cannot control such prejudices but
+neither can it tolerate them. Private biases may be
+outside the reach of the law, but the law cannot, directly
+or indirectly, give them effect." Id. at 433, 104 S.Ct. at
+1882. Cleburne made clear that this principle is not
+confined to instances of racial discrimination reviewed
+under strict scrutiny. Cleburne, 473 U.S. at 448, 105
+S.Ct. at 3258. This justification accepted in Beller,
+therefore, should not be given unexamined effect today
+as a matter of law.
+4
+The next case upon which the government principally
+relies is High Tech Gays v. Defense Indus. Security
+Clearance Office, 895 F.2d 563 (9th Cir.1990), upon
+which we requested and received supplemental briefing
+from the parties. In High Tech Gays, homosexual
+defense workers brought an equal protection challenge
+to the practice of the Department of Defense of
+routinely subjecting homosexuals to expanded
+investigations and adjudications prior to granting them
+security clearances. We rejected the contention that a
+classification of homosexuals was entitled to strict
+scrutiny, and instead required that the Department of
+Defense policy have a rational basis. Id. at 571-74. We
+then found that the Department's policy had a rational
+basis because foreign intelligence agencies had been
+shown to target homosexuals as potentially vulnerable
+to compromise. Id. at 576.
+High Tech Gays will not, however, do the service the
+government asks of it. It is true that we found the
+discrimination against homosexuals in that case to have
+a rational basis, but it is clear that we applied the type of
+"active" rational basis review employed by the Supreme
+Court in 
+[963 F.2d 1166]
+ City of Cleburne v. Cleburne
+Living Center, Inc., 473 U.S. 432, 105 S.Ct. 3249, 87
+L.Ed.2d 313 (1985). In Cleburne, the Supreme Court
+held that the City had failed to show a rational basis for
+its requirement that homes for the mentally retarded
+obtain a special permit, when other care and multiple-
+dwelling facilities needed no such permit. Relying on
+Palmore, the Court specifically rejected the legitimacy of
+relying on opposition to the home by neighbors.
+"[M]ere negative attitudes, or fear, unsubstantiated by
+factors which are properly cognizable in a zoning
+proceeding, are not permissible bases for treating a
+home for the mentally retarded differently from
+apartment houses, multiple dwellings, and the like." Id.
+at 448, 105 S.Ct. at 3259. The Court observed that "this
+record does not clarify how, in this connection, the
+characteristics of the intended occupants of the
+Featherston home rationally justify denying to those
+occupants what would be permitted to groups
+occupying the same site for different purposes." Id. at
+450, 105 S.Ct. at 3259.
+In High Tech Gays, we relied on Cleburne and
+performed the same type of review to see whether the
+government had established on the record a rational
+basis for the challenged discrimination.
+5 
+ The
+government submitted, and we reviewed declarations of
+officials that explained the practice of foreign
+intelligence agencies (notably the KGB) to target
+homosexuals. High Tech Gays, 895 F.2d at 576-77. The
+declarations referred to and incorporated expert
+testimony to the same effect. Id. Finally, we rejected as
+insufficient the plaintiffs' affidavits attempting to
+establish that the KGB's policy of targeting homosexuals
+was irrational; we ruled that the Department was
+entitled to take the KGB's practices into account even if
+they were irrational. Id. at 578.
+It is clear, then, that in High Tech Gays, upon plaintiffs'
+showing of discrimination, we required the government
+to establish on the record that its policy had a rational
+basis. The Supreme Court imposed the same
+requirement in Cleburne. Neither case supports the
+contention of the Army here that its far more rigid
+discrimination against homosexuals should be held to be
+rational as a matter of law, without any justification in
+the record at all. We have before us only a complaint
+that has been dismissed for failure to state a claim. After
+Palmore, Cleburne and High Tech Gays, we cannot say
+that the complaint is insufficient on its face. Assuming
+that Pruitt supports her allegations with evidence, we
+will not spare the Army the task, which those cases
+imposed, of offering a rational basis for its regulation,
+nor will we deprive Pruitt of the opportunity to contest
+that basis.
+III. Deference to the Military
+Finally, the Army urges that we should defer to the
+military judgment. We readily acknowledge, as we
+must, that military decisions by the Army are not lightly
+to be overruled by the judiciary. See, e.g., Rostker v.
+Goldberg, 453 U.S. 57, 64-68, 101 S.Ct. 2646, 2651-54,
+69 L.Ed.2d 478 (1981); Goldman v. Weinberger, 475
+U.S. 503, 507, 106 S.Ct. 1310, 89 L.Ed.2d 478 (1986).
+That admonition, however, is best applied in the process
+of judging whether the reasons put forth on the record
+for the Army's discrimination against Pruitt are
+rationally related to any of the Army's permissible goals.
+We have no doubt that the district court will remain
+aware of the proper respective roles of the military and
+the judiciary in entertaining further proceedings in this
+case.
+If we now deferred, on this appeal, to the military
+judgment by affirming the dismissal of the action in the
+absence of any 
+[963 F.2d 1167]
+ supporting factual record,
+we would come close to denying reviewability at all.
+While we have acknowledged that there are some
+internal military matters that are totally exempt from
+judicial review, we have also identified many that are
+reviewable. See Wallace v. Chappell, 661 F.2d 729, 733
+n. 4 (9th Cir.1981), rev'd on other grounds, 462 U.S.
+296, 103 S.Ct. 2362, 76 L.Ed.2d 586 (1983). In Wallace,
+we adopted the test of Mindes v. Seaman, 453 F.2d 197
+(5th Cir. 1971),
+6 
+ to determine the reviewability of
+military decisions. The Army does not argue —and the
+district court did not hold— that the Mindes test
+precludes review here. Indeed, the validity of a
+regulation similar to the one before us was reviewed in
+Beller. The Army does not ask us to deny review; it asks
+us to uphold its regulation without a record to support
+its rational basis. This we decline to do.
+IV. Conclusion
+Pruitt failed to state a first amendment claim; the district
+court did not err in denying her motion for summary
+judgment. The district court erred, however, in
+dismissing Pruitt's action on the ground that her
+complaint failed to state a claim for relief. Her complaint
+alleges facts sufficient to state an equal protection claim.
+We reverse the judgment of dismissal, and remand for
+further appropriate proceedings, including those
+directed toward determining whether the Army's
+discrimination is rationally related to a permissible
+governmental purpose.
+Pruitt is entitled to her costs on this appeal.
+AFFIRMED IN PART, REVERSED IN PART, AND
+REMANDED.

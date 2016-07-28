@@ -1,0 +1,102 @@
+An administrative assistant to the Vice President for
+Agriculture of the University of Tennessee conducted a
+hearing 
+[478 U.S. 800]
+ and determined that respondent's
+proposed discharge was not racially motivated. The
+Court today correctly holds that 28 U. S. C. 
+§
+ 1738 does
+not require that this determination by an administrative
+assistant be given full faith and credit in subsequent
+federal litigation. The Court also correctly refuses to
+fashion a federal common-law rule of preclusion that
+would bar respondent from litigating his claim against
+the University under Title VII of the Civil Rights Act of
+1964. I agree with these conclusions and therefore join
+Parts I, II, and III of the Court's opinion.
+In Part IV of its opinion, however, the Court concludes
+that the findings of the administrative assistant may bar
+respondent's claims under 42 U. S. C. 
+§
+ 1983 and other
+of the Reconstruction-era Civil Rights Acts. Although
+its reading of the legislative history of the 1964 Civil
+Rights Act persuades the Court that it should not
+interpose a judicially created bar to the cause of action
+authorized by that statute, it creates such a bar to claims
+authorized by the earlier Civil Rights Acts without even
+mentioning the concerns that prompted their
+enactment. As a consequence, the Court's analysis is
+incomplete and ultimately unconvincing.
+Preclusion of claims brought under the post-Civil War
+Acts does not advance the objectives typically associated
+with finality or federalism. In the employment setting
+which concerns us here, precluding civil rights claims
+based on the Reconstruction-era statutes fails to
+conserve the resources of either the litigants or the
+courts, because the complainant's companion Title VII
+claim will still go to federal court under today's
+decision.
+1 
+ Nor does preclusion show respect for 
+[478
+U.S. 801]
+ state administrative determinations, because
+litigants apprised of this decision will presumably forgo
+state administrative determinations for the same reason
+they currently forgo state judicial review of those
+determinations — to protect their entitlement to a
+federal forum. Cf. Patsy v. Florida Board of Regents, 457
+U.S. 496, 532-533 (1982) (POWELL, J., joined by
+BURGER, C. J., dissenting) (intimating that litigation of
+unreviewed state administrative determinations in
+federal court is necessary to encourage exhaustion of
+state administrative remedies); Fair Assessment in Real
+Estate Assn., Inc. v. McNary, 454 U.S. 100, 136 (1981)
+(BRENNAN, J., joined by MARSHALL, STEVENS, and
+O'CONNOR, JJ., concurring in judgment) (same);
+Moore v. East Cleveland, 431 U.S. 494, 524, n. 2 (1977)
+(BURGER, C. J., dissenting) (same).
+In support of its view that preclusion is required, the
+Court relies on an analogy to its construction of the
+Wunderlich Act in United States v. Utah Construction
+& Mining Co., 384 U.S. 394 (1966). In my opinion, that
+analogy is seriously flawed. In Utah Construction, the
+Court held that in a dispute arising under a Government
+contract, factual findings by the Board of Contract
+Appeals were binding on the Court of Claims. In
+support of its dictum that the holding was "harmonious
+with general principles of collateral estoppel," id., at 421,
+the Court relied on the fact that Congress had 
+[478 U.S.
+802]
+ plainly intended the administrative findings in such
+proceedings to be conclusive.
+2
+The relevant federal statute in this case is the 1871 Civil
+Rights Act, not the Wunderlich Act. Needless to say,
+there is nothing in the legislative history of the post-
+Civil War legislation remotely suggesting that Congress
+intended to give binding effect to unreviewed rulings by
+state administrators in litigation arising under that
+statute. Quite the contrary, as we explained in Monroe
+v. Pape, 365 U.S. 167, 180 (1961):
+"It is abundantly clear that one reason the legislation was passed
+was to afford a federal right in federal courts 
+[478 U.S. 803]
+ because,
+by reason of prejudice, passion, neglect, intolerance or otherwise,
+state laws might not be enforced and the claims of citizens to the
+enjoyment of rights, privileges, and immunities guaranteed by the
+Fourteenth Amendment might be denied by the state agencies."
+See Mitchum v. Foster, 407 U.S. 225, 238-239, 242
+(1972). Cf. Briscoe v. LaHue, 460 U.S. 325, 338 (1983).
+Due respect for the intent of the Congress that enacted
+the Civil Rights Act of 1871, as revealed in the
+voluminous legislative history of that Act, should
+preclude the Court from creating a judge-made rule that
+bars access to the express legislative remedy enacted by
+Congress.
+Accordingly, I respectfully dissent from Part IV of the
+Court's opinion.

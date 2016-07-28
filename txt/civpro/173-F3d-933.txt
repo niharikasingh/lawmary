@@ -1,0 +1,466 @@
+Annette R. Phillips alleges that she was sexually harassed
+while working at a Hooters restaurant. After quitting
+her job, Phillips threatened to sue Hooters in court.
+Alleging that Phillips agreed to arbitrate employment-
+related disputes, Hooters preemptively filed suit to
+compel arbitration under the Federal Arbitration Act, 9
+U.S.C. 
+§
+ 4. Because Hooters set up a dispute resolution
+process utterly lacking in the rudiments of even-
+handedness, we hold that Hooters breached its
+agreement to arbitrate. Thus, we affirm the district
+court's refusal to compel arbitration.
+I.
+Appellee Annette R. Phillips worked as a bartender at a
+Hooters restaurant in Myrtle Beach, South Carolina. She
+was employed since 1989 by appellant Hooters of Myrtle
+Beach (HOMB), a franchisee of appellant Hooters of
+America (collectively Hooters).
+Phillips alleges that in June 1996, Gerald Brooks, a
+Hooters official and the brother of HOMB's principal
+owner, sexually harassed her by grabbing and slapping
+her buttocks. After appealing to her manager for help
+and being told to "let it go," she quit her job. Phillips
+then contacted Hooters through an attorney claiming
+that the attack and the restaurant's failure to address it
+violated her Title VII rights. Hooters responded that she
+was required to submit her claims to arbitration
+according to a binding agreement to arbitrate between
+the parties.
+This agreement arose in 1994 during the
+implementation of Hooters' alternative dispute
+resolution program. As part of that program, the
+company conditioned eligibility 
+[173 F.3d 936]
+ for raises,
+transfers, and promotions upon an employee signing an
+"Agreement to arbitrate employment-related disputes."
+The agreement provides that Hooters and the employee
+each agree to arbitrate all disputes arising out of
+employment, including "any claim of discrimination,
+sexual harassment, retaliation, or wrongful discharge,
+whether arising under federal or state law." The
+agreement further states that
+the employee and the company agree to resolve any claims pursuant
+to the company's rules and procedures for alternative resolution of
+employment-related disputes, as promulgated by the company from
+time to time ("the rules"). Company will make available or provide
+a copy of the rules upon written request of the employee.
+The employees of HOMB were initially given a copy of
+this agreement at an all-staff meeting held on November
+20, 1994. HOMB's general manager, Gene Fulcher, told
+the employees to review the agreement for five days and
+that they would then be asked to accept or reject the
+agreement. No employee, however, was given a copy of
+Hooters' arbitration rules and procedures. Phillips
+signed the agreement on November 25, 1994. When her
+personnel file was updated in April 1995, Phillips again
+signed the agreement.
+After Phillips quit her job in June 1996, Hooters sent to
+her attorney a copy of the Hooters rules then in effect.
+Phillips refused to arbitrate the dispute.
+Hooters filed suit in November 1996 to compel
+arbitration under 9 U.S.C. 
+§
+ 4. Phillips defended on the
+grounds that the agreement to arbitrate was
+unenforceable. Phillips also asserted individual and class
+counterclaims against Hooters for violations of Title VII
+and for a declaration that the arbitration agreements
+were unenforceable against the class. In response,
+Hooters requested that the district court stay the
+proceedings on the counterclaims until after arbitration,
+9 U.S.C. 
+§
+ 3.
+In March 1998, the district court denied Hooters'
+motions to compel arbitration and stay proceedings on
+the counterclaims. The court found that there was no
+meeting of the minds on all of the material terms of the
+agreement and even if there were, Hooters' promise to
+arbitrate was illusory. In addition, the court found that
+the arbitration agreement was unconscionable and void
+for reasons of public policy. Hooters filed this
+interlocutory appeal, 9 U.S.C. 
+§
+ 16.
+II.
+The benefits of arbitration are widely recognized.
+Parties agree to arbitrate to secure "streamlined
+proceedings and expeditious results [that] will best serve
+their needs." Mitsubishi Motors Corp. v. Soler Chrysler-
+Plymouth, Inc., 473 U.S. 614, 633, 105 S.Ct. 3346, 87
+L.Ed.2d 444 (1985). The arbitration of disputes enables
+parties to avoid the costs associated with pursuing a
+judicial resolution of their grievances. By one estimate,
+litigating a typical employment dispute costs at least
+$50,000 and takes two and one-half years to resolve.
+Amicus Brief for Society of Professionals in Dispute
+Resolution at 2-3 (citing Baxter, Arbitration or
+Litigation for Employment Civil Rights?, 2 Individual
+Employment Rights 19 (1993 94); Maltby, The
+Projected Impact of the Model Employment
+Termination Act, Annals of the Am. Acad. of Pol. and
+Soc. Sci. (Nov. 1994)). Further, the adversarial nature of
+litigation diminishes the possibility that the parties will
+be able to salvage their relationship. For these reasons
+parties agree to arbitrate and trade "the procedures and
+opportunity for review of the courtroom for the
+simplicity, informality, and expedition of arbitration."
+Gilmer v. Interstate/Johnson Lane Corp., 500 U.S. 20,
+31, 111 S.Ct. 1647, 114 L.Ed.2d 26 (1991) (internal
+quotation marks omitted).
+In support of arbitration, Congress passed the Federal
+Arbitration Act (FAA), ch. 213, 43 Stat. 883 (1925)
+(codified as amended at 9 U.S.C. 
+§
+ 1 et seq.). "Its 
+[173
+F.3d 937]
+ purpose was to reverse the longstanding
+judicial hostility to arbitration agreements that had
+existed at English common law and had been adopted by
+American courts, and to place arbitration agreements
+upon the same footing as other contracts." Gilmer, 500
+U.S. at 24, 111 S.Ct. 1647. The FAA manifests "a liberal
+federal policy favoring arbitration agreements." Moses
+H. Cone Mem'l Hosp. v. Mercury Constr. Corp., 460
+U.S. 1, 24, 103 S.Ct. 927, 74 L.Ed.2d 765 (1983). When a
+valid agreement to arbitrate exists between the parties
+and covers the matter in dispute, the FAA commands
+the federal courts to stay any ongoing judicial
+proceedings, 9 U.S.C. 
+§
+ 3, and to compel arbitration, id.
+§
+ 4.
+The threshold question is whether claims such as
+Phillips' are even arbitrable. The EEOC as amicus curiae
+contends that employees cannot agree to arbitrate Title
+VII claims in predispute agreements. We disagree. The
+Supreme Court has made it plain that judicial protection
+of arbitral agreements extends to agreements to
+arbitrate statutory discrimination claims. In Gilmer v.
+Interstate/Johnson Lane Corp., the Court noted that
+"`[b]y agreeing to arbitrate a statutory claim, a party
+does not forgo the substantive rights afforded by the
+statute; it only submits to their resolution in an arbitral,
+rather than a judicial, forum.'" 500 U.S. at 26, 111 S.Ct.
+1647 (alteration in original) (quoting Mitsubishi
+Motors, 473 U.S. at 628, 105 S.Ct. 3346). Thus, a party
+must be held to the terms of its bargain unless Congress
+intends to preclude waiver of a judicial forum for the
+statutory claims at issue. Such an intent, however, must
+"be discoverable in the text of the [substantive statute],
+its legislative history, or an `inherent conflict' between
+arbitration and the [statute's] underlying purposes." Id.
+The EEOC argues that in passing the Civil Rights Act of
+1991, Pub. L. No. 102-166, 105 Stat. 1071, Congress
+evinced an intent to prohibit predispute agreements to
+arbitrate claims arising under Title VII. This circuit,
+however, has already rejected this argument. Austin v.
+Owens-Brockway Glass Container, Inc., 78 F.3d 875,
+881-82 (4th Cir.1996). The Civil Rights Act of 1991
+provided that "Where appropriate and to the extent
+authorized by law, the use of alternative means of
+dispute resolution, including . . . arbitration, is
+encouraged to resolve disputes arising under [Title
+VII]." Pub. L. No. 102-166, 
+§
+ 118, 105 Stat. at 1081. In
+Austin, we stated that this language "could not be any
+more clear in showing Congressional favor towards
+arbitration." 78 F.3d at 881. We also noted that the
+legislative history did not establish a contrary intent nor
+was there an "inherent conflict" between the Civil
+Rights Act and arbitration. Id. at 881-82. This holding is
+in step with our sister circuits which have also rejected
+the EEOC's argument. See, e.g., Rosenberg v. Merrill
+Lynch, Pierce, Fenner & Smith Inc., 170 F.3d 1, 4-9 (1st
+Cir.1999); Seus v. John Nuveen & Co., 146 F.3d 175,
+182-83 (3d Cir.1998), cert. denied, ___ U.S. ___, 119
+S.Ct. 1028, 143 L.Ed.2d 38 (1999); Patterson v. Tenet
+Healthcare, Inc., 113 F.3d 832, 837 (8th Cir.1997). But
+see Duffield v. Robertson Stephens & Co., 144 F.3d
+1182, 1189-1200 (9th Cir.), cert. denied, ___ U.S. ___,
+119 S.Ct. 465, 142 L.Ed.2d 418 (1998).
+III.
+Predispute agreements to arbitrate Title VII claims are
+thus valid and enforceable. The question remains
+whether a binding arbitration agreement between
+Phillips and Hooters exists and compels Phillips to
+submit her Title VII claims to arbitration. The FAA
+provides that agreements "to settle by arbitration a
+controversy thereafter arising out of such contract or
+transaction . . . shall be valid, irrevocable, and
+enforceable, save upon such grounds as exist at law or in
+equity for the revocation of any contract." 9 U.S.C. 
+§
+ 2.
+"It [i]s for the court, not the arbitrator, to decide in the
+first instance whether the dispute [i]s to be resolved 
+[173
+F.3d 938]
+ through arbitration." AT & T Techs., Inc. v.
+Communications Workers of Am., 475 U.S. 643, 651,
+106 S.Ct. 1415, 89 L.Ed.2d 648 (1986); see also A.T.
+Massey Coal Co. v. International Union, 799 F.2d 142,
+146 (4th Cir.1986) ("[W]hether there is a contract to
+arbitrate `is undeniably an issue for judicial
+determination.'" (quoting AT & T Techs., 475 U.S. at
+649, 106 S.Ct. 1415)). In so deciding, we "`engage in a
+limited review to ensure that the dispute is
+arbitrable—i.e., that a valid agreement to arbitrate exists
+between the parties and that the specific dispute falls
+within the substantive scope of that agreement.'" Glass
+v. Kidder Peabody & Co., 114 F.3d 446, 453 (4th
+Cir.1997) (quoting Paine-Webber Inc. v. Hartmann, 921
+F.2d 507, 511 (3d Cir.1990)).
+Hooters argues that Phillips gave her assent to a bilateral
+agreement to arbitrate. That contract provided for the
+resolution by arbitration of all employment-related
+disputes, including claims arising under Title VII.
+Hooters claims the agreement to arbitrate is valid
+because Phillips twice signed it voluntarily. Thus, it
+argues the courts are bound to enforce it and compel
+arbitration.
+We disagree. The judicial inquiry, while highly
+circumscribed, is not focused solely on an examination
+for contractual formation defects such as lack of mutual
+assent and want of consideration. Virginia Carolina
+Tools, Inc. v. International Tool Supply, Inc., 984 F.2d
+113, 118-19 (4th Cir.1993) (holding that continued
+existence of arbitration agreement is matter for judicial
+determination). Courts also can investigate the existence
+of "such grounds as exist at law or in equity for the
+revocation of any contract." 9 U.S.C. 
+§
+ 2. However, the
+grounds for revocation must relate specifically to the
+arbitration clause and not just to the contract as a whole.
+Prima Paint Corp. v. Flood & Conklin Mfg. Co., 388
+U.S. 395, 402-04, 87 S.Ct. 1801, 18 L.Ed.2d 1270 (1967);
+see also Wick v. Atlantic Marine, Inc., 605 F.2d 166, 168
+(5th Cir.1979). In this case, the challenge goes to the
+validity of the arbitration agreement itself. Hooters
+materially breached the arbitration agreement by
+promulgating rules so egregiously unfair as to constitute
+a complete default of its contractual obligation to draft
+arbitration rules and to do so in good faith.
+Hooters and Phillips agreed to settle any disputes
+between them not in a judicial forum, but in another
+neutral forum— arbitration. Their agreement provided
+that Hooters was responsible for setting up such a forum
+by promulgating arbitration rules and procedures. To
+this end, Hooters instituted a set of rules in July 1996.
+1
+The Hooters rules when taken as a whole, however, are
+so one-sided that their only possible purpose is to
+undermine the neutrality of the proceeding. The rules
+require the employee to provide the company notice of
+her claim at the outset, including "the nature of the
+Claim" and "the specific act(s) or omissions(s) which are
+the basis of the Claim." Rule 6-2(1), (2). Hooters, on the
+other hand, is not required to file any responsive
+pleadings or to notice its defenses. Additionally, at the
+time of filing this notice, the employee must provide the
+company with a list of all fact witnesses with a brief
+summary of the facts known to each. Rule 6-2(5). The
+company, however, is not required to reciprocate.
+The Hooters rules also provide a mechanism for
+selecting a panel of three arbitrators that is crafted to
+ensure a biased decisionmaker. Rule 8. The employee
+and Hooters each select an arbitrator, and the two
+arbitrators in turn select a third. Good enough, except
+that the employee's arbitrator and the third arbitrator
+must be 
+[173 F.3d 939]
+ selected from a list of arbitrators
+created exclusively by Hooters. This gives Hooters
+control over the entire panel and places no limits
+whatsoever on whom Hooters can put on the list. Under
+the rules, Hooters is free to devise lists of partial
+arbitrators who have existing relationships, financial or
+familial, with Hooters and its management. In fact, the
+rules do not even prohibit Hooters from placing its
+managers themselves on the list. Further, nothing in the
+rules restricts Hooters from punishing arbitrators who
+rule against the company by removing them from the
+list. Given the unrestricted control that one party
+(Hooters) has over the panel, the selection of an
+impartial decision maker would be a surprising result.
+Nor is fairness to be found once the proceedings are
+begun. Although Hooters may expand the scope of
+arbitration to any matter, "whether related or not to the
+Employee's Claim," the employee cannot raise "any
+matter not included in the Notice of Claim." Rules 4-2,
+8-9. Similarly, Hooters is permitted to move for
+summary dismissal of employee claims before a hearing
+is held whereas the employee is not permitted to seek
+summary judgment. Rule 14-4. Hooters, but not the
+employee, may record the arbitration hearing "by audio
+or videotaping or by verbatim transcription." Rule 18-1.
+The rules also grant Hooters the right to bring suit in
+court to vacate or modify an arbitral award when it can
+show, by a preponderance of the evidence, that the
+panel exceeded its authority. Rule 21-4. No such right is
+granted to the employee.
+In addition, the rules provide that upon 30 days notice
+Hooters, but not the employee, may cancel the
+agreement to arbitrate. Rule 23-1. Moreover, Hooters
+reserves the right to modify the rules, "in whole or in
+part," whenever it wishes and "without notice" to the
+employee. Rule 24-1. Nothing in the rules even
+prohibits Hooters from changing the rules in the middle
+of an arbitration proceeding.
+If by odd chance the unfairness of these rules were not
+apparent on their face, leading arbitration experts have
+decried their one-sidedness. George Friedman, senior
+vice president of the American Arbitration Association
+(AAA), testified that the system established by the
+Hooters rules so deviated from minimum due process
+standards that the Association would refuse to arbitrate
+under those rules. George Nicolau, former president of
+both the National Academy of Arbitrators and the
+International Society of Professionals in Dispute
+Resolution, attested that the Hooters rules "are
+inconsistent with the concept of fair and impartial
+arbitration." He also testified that he was "certain that
+reputable designating agencies, such as the AAA and
+Jams/Endispute, would refuse to administer a program
+so unfair and one-sided as this one." Additionally,
+Dennis Nolan, professor of labor law at the University
+of South Carolina, declared that the Hooters rules "do
+not satisfy the minimum requirements of a fair
+arbitration system." He found that the "most serious
+flaw" was that the "mechanism [for selecting arbitrators]
+violates the most fundamental aspect of justice, namely
+an impartial decision maker." Finally, Lewis Maltby,
+member of the Board of Directors of the AAA, testified
+that "This is without a doubt the most unfair arbitration
+program I have ever encountered."
+In a similar vein, two major arbitration associations
+have filed amicus briefs with this court. The National
+Academy of Arbitrators stated that the Hooters rules
+"violate fundamental concepts of fairness . . . and the
+integrity of the arbitration process." Likewise, the
+Society of Professionals in Dispute Resolution noted
+that "[i]t would be hard to imagine a more unfair
+method of selecting a panel of arbitrators." It
+characterized the Hooters arbitration system as
+"deficient to the point of illegitimacy" and "so one sided,
+it is hard to believe that it was even intended to be fair."
+[173 F.3d 940]
+ We hold that the promulgation of so
+many biased rules—especially the scheme whereby one
+party to the proceeding so controls the arbitral
+panel—breaches the contract entered into by the parties.
+The parties agreed to submit their claims to
+arbitration—a system whereby disputes are fairly
+resolved by an impartial third party. Hooters by contract
+took on the obligation of establishing such a system. By
+creating a sham system unworthy even of the name of
+arbitration, Hooters completely failed in performing its
+contractual duty.
+Moreover, Hooters had a duty to perform its obligations
+in good faith. See Restatement (Second) of Contracts 
+§
+205 (1981) ("Every contract imposes upon each party a
+duty of good faith and fair dealing in its performance
+and its enforcement."); Virginia Vermiculite, Ltd. v.
+W.R. Grace & Co., 156 F.3d 535, 542 (4th Cir.1998)
+("`The courts could leave all discretion in performance
+unbridled. . . . No U.S. court now takes this approach. . .
+. Thus, contractual discretion is presumptively bridled
+by the law of contracts—by the covenant of good faith
+implied in every contract.'") (quoting Steven J. Burton &
+Eric G. Anderson, Contractual Good Faith 46-47
+(1995)). Good faith "emphasizes faithfulness to an
+agreed common purpose and consistency with the
+justified expectations of the other party." Restatement
+(Second) of Contracts 
+§
+ 205 cmt. a. Bad faith includes
+the "evasion of the spirit of the bargain" and an "abuse of
+a power to specify terms." Id. 
+§
+ 205 cmt. d. By agreeing
+to settle disputes in arbitration, Phillips agreed to the
+prompt and economical resolution of her claims. She
+could legitimately expect that arbitration would not
+entail procedures so wholly one-sided as to present a
+stacked deck. Thus we conclude that the Hooters rules
+also violate the contractual obligation of good faith.
+Given Hooters' breaches of the arbitration agreement
+and Phillips' desire not to be bound by it, we hold that
+rescission is the proper remedy. Generally, "rescission
+will not be granted for a minor or casual breach of a
+contract, but only for those breaches which defeat the
+object of the contracting parties." Rogers v. Salisbury
+Brick Corp., 299 S.C. 141, 382 S.E.2d 915, 917 (1989);
+see also Hogue v. Pellerin Laundry Mach. Sales Co., 353
+F.2d 772, 774 (8th Cir.1965) (noting rescission is
+permitted "`for any breach of contract of so material and
+substantial a nature as would constitute a defense to an
+action brought by the party in default for a refusal to
+proceed with the contract.'" (quoting Williston on
+Contracts 
+§
+ 1467 (rev. ed.))). As we have explained,
+Hooters' breach is by no means insubstantial; its
+performance under the contract was so egregious that
+the result was hardly recognizable as arbitration at all.
+We therefore permit Phillips to cancel the agreement
+and thus Hooters' suit to compel arbitration must fail.
+2
+IV.
+We respect fully the Supreme Court's pronouncement
+that "questions of arbitrability must be addressed with a
+healthy regard for the federal policy favoring
+arbitration." Moses H. Cone, 460 U.S. at 24, 103 S.Ct.
+927. Our decision should not be misread: We are not
+holding that the agreement before us is unenforceable
+because the arbitral proceedings are too abbreviated. An
+arbitral forum need not replicate the judicial forum.
+"[W]e are well past the time when judicial suspicion of
+the desirability of arbitration and of the competence of
+arbitral tribunals inhibited 
+[173 F.3d 941]
+ the
+development of arbitration as an alternative means of
+dispute resolution." Mitsubishi Motors, 473 U.S. at 626-
+27, 105 S.Ct. 3346; see also Gilmer, 500 U.S. at 31-32,
+111 S.Ct. 1647 (rejecting abbreviated discovery and lack
+of written opinions as reasons to inhibit arbitration of
+statutory claims).
+Nor should our decision be misunderstood as permitting
+a full-scale assault on the fairness of proceedings before
+the matter is submitted to arbitration. Generally,
+objections to the nature of arbitral proceedings are for
+the arbitrator to decide in the first instance. Only after
+arbitration may a party then raise such challenges if they
+meet the narrow grounds set out in 9 U.S.C. 
+§
+ 10 for
+vacating an arbitral award. In the case before us, we only
+reach the content of the arbitration rules because their
+promulgation was the duty of one party under the
+contract. The material breach of this duty warranting
+rescission is an issue of substantive arbitrability and thus
+is reviewable before arbitration. See Glass, 114 F.3d at
+453-56. This case, however, is the exception that proves
+the rule: fairness objections should generally be made to
+the arbitrator, subject only to limited post-arbitration
+judicial review as set forth in section 10 of the FAA.
+By promulgating this system of warped rules, Hooters so
+skewed the process in its favor that Phillips has been
+denied arbitration in any meaningful sense of the word.
+To uphold the promulgation of this aberrational scheme
+under the heading of arbitration would undermine, not
+advance, the federal policy favoring alternative dispute
+resolution. This we refuse to do.
+The judgment of the district court is affirmed, and the
+case is remanded for further proceedings consistent with
+this opinion.
+AFFIRMED AND REMANDED.

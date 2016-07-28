@@ -1,0 +1,740 @@
+The plaintiffs in this case are eight individuals involved
+in a clinical drug trial sponsored by Amgen, Inc. When
+the study was terminated, the plaintiffs sued claiming
+that Amgen was legally required to continue providing
+them with the drug. The plaintiffs filed a motion for a
+preliminary injunction seeking to require Amgen to
+provide them with the drug immediately. The district
+court denied the motion and the plaintiffs appealed. For
+the reasons discussed below, we AFFIRM the district
+court's denial of the plaintiffs' motion for a preliminary
+injunction.
+I.
+The plaintiffs are all Kentucky residents that suffer from
+Parkinson's disease, a neurogenerative disorder
+characterized by the progressive loss of dopamine-
+producing neurons in the brain, resulting in tremors,
+shaking, slow movement, and muscle stiffness and
+rigidity. The current treatment 
+[443 F.3d 543]
+ for
+Parkinson's disease focuses on replacing dopamine in
+the brains of Parkinson's disease sufferers, thus masking
+the symptoms of the disease. None of these current
+treatments are curative, however, as none of them halt
+the loss of dopamine-producing neurons.
+A Colorado biotechnology company named Synergen,
+Inc. designed a protein called gial cell-line derived
+neutrotropic factor, commonly known as GDNF, which
+pre-clinical (non-human) studies preliminarily indicated
+could protect and restore dopamine producing neurons.
+Believing that GDNF could potentially provide a
+breakthrough treatment for Parkinson's disease, Amgen
+purchased Synergen in 1994 for approximately $150
+million. Having acquired the drug, however, Amgen
+was now faced with the problem of how to effectively
+deliver GDNF to the brain. In 1996, Amgen sponsored
+two clinical studies of GDNF to determine whether a
+delivery method known as intracerebroventicular
+administration (ICV), in which the drug is injected
+directly into the central fluid-filled cavities of the
+patient's brain, was effective. Unfortunately, these
+studies failed to prove that ICV was safe or effective as a
+delivery method.
+Subsequently, Dr. Steven S. Gill of Frenchay Hospital in
+Bristol, England developed a means of delivering the
+drug directly to the brain known as bilateral
+intraputaminal (IPu) infusion. This procedure involves
+implanting a pump filled with GDNF in the patient's
+abdomen attached to catheters which, when threaded
+through the patient's check, neck, and head, deliver the
+GDNF directly to the putamen region of the brain.
+In 2000, Amgen supported an open-label trial in the
+United Kingdom for the administration of GDNF using
+IPu with five patients suffering from Parkinson's
+disease. Although the study yielded favorable results
+because the study was open-label, meaning study
+participants knew they were receiving GDNF and no
+participants received a placebo, Amgen concluded that
+more research was necessary. Another open-label study
+was also conducted at the University of Kentucky
+medical center in which GDNF was administered via
+IPu to ten patients.
+1 
+ All ten of these patients showed
+benefits after six months of treatment but, it was unclear
+whether this improvement was the result of the GDNF
+or a placebo effect as there was no control group in the
+study.
+Based on the result open-label studies, in 2003 Amgen
+sponsored a multi-center Phase II, randomized, double-
+blind,
+2 
+ placebo-controlled study of GDNF using the IPu
+method of delivery in order to test its safety and efficacy.
+As part of this study, Amgen and the University of
+Kentucky entered into a Clinical Trial Agreement.
+Under the Agreement, Amgen agreed to sponsor the
+University as one of the study center locations and the
+University agreed to carry out Amgen's Protocol for the
+trial. Amgen's Protocol, which was approved by the
+Institutional Review Board at the University, indicated
+that the trial would begin with each participant having a
+pump inserted in their abdomen and the catheter
+inserted through a hole drilled in their skull. The
+participants would then receive treatment or a saline
+placebo solution for approximately thirty-three weeks.
+At the 
+[443 F.3d 544]
+ end of the study, the Protocol
+indicated that the participants "may elect to continue
+treatment for up to an additional 24 months."
+The plaintiffs in this case elected to participate in the
+clinical trial at the University. Each plaintiff signed an
+Informed Consent Document, indicating that they were
+aware of the risks of the clinical trial and agreeing to
+participate. Like the Protocol, the Informed Consent
+Document indicated that study participants could elect
+to continue treatment for 24 months after the end of the
+study. The Informed Consent Document also informed
+participants in the study that they might be required to
+withdraw from the study "if they find that your being in
+the study is more risk than benefit to you, if you are not
+able to follow the directions they give you, or if the
+agency funding the study decides to stop the study early
+for a variety of reasons." The Informed Consent
+Document was signed by each participant and by the
+physician investigators leading the study.
+Using the Unified Parkinson's Disease Rating Scale,
+3
+Amgen hoped to see a 25% increase in motor scores
+relative to the placebo after six months of treatment. In
+June 2004, the study results showed only a 10.01%
+increase in the group using GDNF and a 4.52% increase
+in the group being administered the placebo. Seven of
+the thirty-four subjects demonstrated dramatic
+improvement, but four of the seven were receiving the
+placebo.
+Despite these less than stellar results, Amgen decided to
+continue with the clinical trial but convert it into an
+open-label study with all thirty-four patients receiving
+GDNF. The plaintiffs contend that after GDNF was
+administered, they experienced marked physical,
+cognitive, and emotional improvement. The plaintiffs
+also have submitted affidavits from several patients from
+other study locations attesting to similar improvements.
+Moreover, the plaintiffs have submitted affidavits from
+all of the doctors participating in the University of
+Kentucky study and principal investigators involved in
+the New York and Chicago studies that unanimously
+state that GDNF is safe and effective.
+Despite the plaintiffs' belief that GDNF was working, in
+September 2004, Amgen announced that it was
+terminating all clinical use of GDNF based on two
+scientific concerns. The first was the discovery that
+several study participants had developed neutralizing
+antibodies. Antibodies are proteins produced by the
+immune system that attack substances such as viruses,
+bacteria, and in some cases, synthetic proteins like
+GDNF. Such neutralizing antibodies could clear the
+drug from a patient's system, neutralizing the effects of
+the drug. More worrisome to Amgen, however, was
+that the antibodies could attack naturally occurring
+GDNF in the body. While it is unclear what naturally
+occurring GDNF does, animal studies have shown that
+an absence of GDNF during development causes
+irreversible damage to vital organs.
+The second disturbing discovery was that several
+primates used in a long-term toxicology study of IPu
+delivered GDNF developed lesions in the cerebullum, an
+area of the brain critical for movement and
+coordination. Based on these concerning scientific
+findings along with the lack of efficacy shown by the
+study, Amgen made the decision to terminate the study.
+Amgen consulted the FDA regarding discontinuation of
+the study and the FDA indicated 
+[443 F.3d 545]
+ that
+given the evidence termination of the study was
+reasonable.
+The plaintiffs claim that the drug is effective and that
+Amgen has exaggerated the safety risks of GDNF. The
+plaintiffs submitted to the district court an affidavit
+from the principal investigator of the New York study
+suggesting that the primates's legions were not a cause
+for alarm as the primates received larger doses of GDNF
+than study participants received and because the
+primates, unlike the study participants, were rapidly
+withdrawn from GDNF. The affidavit also disagreed
+with Amgen's placebo effect theory and asserted that the
+antibodies found in several study participants were not
+harmful.
+The plaintiffs assert that Amgen's reasons for ending the
+study were financial rather than safety and efficacy.
+They allege that because of the prolonged time it took
+Amgen to develop a delivery method for GDNF, Amgen
+has little time left before its patent on the drug expires.
+Moreover, based on the invasive means of delivering the
+drug, only those with severe Parkinson's disease would
+use the drug, leading to less profit. Finally, GDNF has a
+short shelf life and thus Amgen would constantly be
+required to produce new proteins. The plaintiffs claim
+that all of these considerations led Amgen to conclude
+that it was financially untenable to bring the drug to
+market and thus Amgen terminated the study. Amgen
+vehemently disputes the plaintiffs' claims.
+4
+After deciding to terminate the study, several
+investigators and Amgen met with the FDA to consider
+whether to permit "compassionate use," meaning use of
+a drug even if the drug is proven unsafe, of GDNF for
+the participants. The FDA stated that it would permit
+compassionate use of GDNF but left the decision up to
+Amgen. After seeking advice of eight external experts
+(three bioethicists and five Parkinson's disease experts),
+seven of whom advised Amgen to terminate the use of
+the drug, Amgen decided not to allow compassionate
+use of GDNF.
+The plaintiffs filed suit on June 17, 2005, naming
+Amgen as the sole defendant. The district court had
+jurisdiction based on diversity of citizenship, and none
+of the plaintiffs' causes of action arise under federal law.
+On June 24, the plaintiffs moved for a preliminary
+injunction requiring Amgen to provide the physicians at
+the University of Kentucky with GDNF and to allow the
+doctors to administer it to the plaintiffs. None of the
+plaintiffs have received GDNF treatment since
+September 2004.
+The plaintiffs advanced three legal theories to support
+their motion for a preliminary injunction. First, they
+claimed that GDNF is beneficial to them, and that
+Amgen is contractually obligated to supply them with
+GDNF. Second, they argued that Amgen is liable under
+a theory of promissory estoppel as Amgen promised to
+continue to provide the plaintiffs with GDNF and the
+plaintiffs detrimentally relied on this promise. Third,
+they asserted that Amgen owes them a fiduciary duty,
+and that is has breached that duty by unreasonably
+denying them access to GDNF. In response, Amgen
+denied that it made any such enforceable promises to the
+plaintiffs and denied owing the plaintiffs any fiduciary
+duty.
+The district court held a hearing on the plaintiffs'
+motion on July 5 and on July 8 denied the motion. The
+district court concluded that the plaintiffs had failed to
+[443 F.3d 546]
+ demonstrate a strong likelihood of
+success on the merits based on any of their claims. The
+district court also concluded that the plaintiffs could not
+prove that they would suffer irreparable harm if they did
+not obtain a preliminary injunction nor could they
+establish that public policy would be furthered by
+issuing the injunction. Thus, the district court denied
+the plaintiffs' motion for a preliminary injunction. This
+appeal ensued.
+The district court's decision to deny the plaintiffs'
+motion for a preliminary injunction relied in part on a
+decision from the Southern District of New York in a
+nearly identical case, Suthers v. Amgen, Inc., 372
+F.Supp.2d 416 (S.D.N.Y.2005). In Suthers, two
+Parkinson's disease sufferers who participated in the
+Amgen study at the New York University site filed suit
+against Amgen in the Southern District of New York
+and sought a preliminary injunction requiring Amgen to
+provide them with GDNF. The plaintiffs in Suthers
+advanced nearly identical legal claims as this case: breach
+of contract, promissory estoppel, and breach of fiduciary
+duty. The district court denied the plaintiffs' motion on
+grounds similar to the district court's reasoning here.
+Specifically, the Suthers court concluded that the
+plaintiffs "have shown neither a likelihood of success
+nor a sufficiently serious showing of merits to warrant
+the extraordinary relief of a preliminary injunction." Id.
+at 419. The court found that the plaintiffs' breach of
+contract claim was unlikely to succeed because the
+plaintiffs could not show any contract between the
+plaintiffs and Amgen. While their Informed Consent
+document arguably gave them a right to GDNF, the
+court concluded that this agreement was between the
+plaintiffs and New York University rather than the
+plaintiffs and Amgen, and that the principal
+investigators did not have the authority to bind Amgen.
+The court also concluded that the plaintiffs' promissory
+estoppel argument had little chance of success as Amgen
+had made no direct promises to the plaintiffs. Finally,
+the court held that under the facts of the case, Amgen
+did not have a fiduciary duty to continue treatment. As a
+result of these determinations the district court did not
+address whether the plaintiffs or the defendants would
+suffer irreparable harm based on the district court's
+decision. The plaintiffs in Suthers initially appealed the
+district court's decision but later withdrew their appeal.
+II.
+The plaintiffs assert that the district court erred in
+denying their motion for a preliminary injunction. We
+review a district court's grant of a preliminary
+injunction for an abuse of discretion. Tucker v. City of
+Fairfield, 398 F.3d 457, 461 (6th Cir.2005). "A district
+court abuses its discretion when it relies on clearly
+erroneous findings of fact, improperly applies the law,
+or uses an erroneous legal standard." Id. A district court
+errs "only if it incorrectly applied the law, or relied on
+clearly erroneous findings of fact." Ramsey v. Formica
+Corp., 398 F.3d 421, 423 (6th Cir.2005). We review the
+district court's conclusions of law de novo and its
+findings of fact for clear error. Golden v. Kelsey-Hayes
+Co., 73 F.3d 648, 653 (6th Cir.1996).
+To determine whether to grant a preliminary
+injunction, a district court must consider: "(1) the
+plaintiffs' likelihood of success on the merits; (2)
+whether the plaintiff may suffer irreparable harm absent
+the injunction; (3) whether granting the injunction will
+cause substantial harm to others; and (4) the impact of
+an injunction upon the public interest." Deja Vu of
+Nashville, Inc. v. Metro. Gov't of Nashville & Davidson
+County, 274 F.3d 377, 400 (6th Cir.2001). "None of
+these 
+[443 F.3d 547]
+ factors, standing alone, is a
+prerequisite to relief; rather, the court should balance
+them." Golden, 73 F.3d at 653. Thus, even though a
+finding of no likelihood of success "is usually fatal[,]"
+Gonzales v. Nat'l Bd. of Med. Exam'rs, 225 F.3d 620, 625
+(6th Cir.2000), a district court should ordinarily analyze
+all of the factors. Leary v. Daeschner, 228 F.3d 729, 739
+n. 3 (6th Cir.2000). We will review the district court's
+analysis as to each of these factors in order to ensure
+that the district court did not abuse its discretion in
+denying the plaintiffs' motion for a preliminary
+injunction.
+A.
+The first factors to be considered is whether the
+plaintiffs have demonstrated a likelihood of success on
+the merits. The plaintiffs identify three grounds on
+which they allege that Amgen is legally obligated to
+provide them with GDNF—breach of contract,
+promissory estoppel and fiduciary duty. The district
+court concluded that the plaintiffs had little chance of
+success on any of these grounds. We find nothing in the
+record that suggests the district court abused its
+discretion in reaching such a conclusion.
+i.
+Turning first to the plaintiffs' breach of contract claim,
+the district court concluded that there was no breach of
+contract by Amgen because no contract ever existed
+between the plaintiffs and Amgen that required Amgen
+to continue to provide the plaintiffs with GDNF. The
+court found that the Informed Consent Document that
+the plaintiffs rely upon as evidence of a contract
+between them and Amgen did not directly bind Amgen
+because neither Amgen nor any agent of Amgen signed
+the Informed Consent Document. We find no abuse of
+discretion in the district court's conclusion on this point.
+Under Kentucky law, "in order to recover in any action
+based on breach of a contract, a plaintiff must show the
+existence and the breach of a contractually imposed
+duty." Lenning v. Commercial Union Ins. Co., 260 F.3d
+574, 581 (6th Cir.2001) (citing Strong v. Louisville &
+Nashville R. Co., 240 Ky. 781, 43 S.W.2d 11, 13 (1931)).
+Thus, the plaintiffs must show by clear and convincing
+evidence proof of an actual agreement between them
+and Amgen. See Auto Channel, Inc. v. Speedvision
+Network, LLC, 144 F.Supp.2d 784, 790 (W.D.Ky.2001).
+The plaintiffs admit that Amgen did not sign the
+Informed Consent Document, which the plaintiffs point
+to as the primary basis for their breach of contract claim.
+Moreover, there are no other documents that create a
+contractually enforceable duty for Amgen to continue to
+provide GDNF to the plaintiffs. The Clinical Trial
+Agreement was not signed by the plaintiffs but rather
+was signed by Amgen, the University of Kentucky, and
+the principal investigators. Thus, the plaintiffs' claim
+that Amgen is directly contractually obligated to provide
+the plaintiffs with GDNF is unlikely to succeed on the
+merits because "it is axiomatic that courts cannot bind a
+non-party to a contract because that party never agreed
+to the terms set forth therein." EEOC v. Frank's Nursery
+& Crafts, Inc., 177 F.3d 448, 460 (6th Cir. 1999).
+5
+[443 F.3d 548]
+ Moreover, the principal investigators in
+the University of Kentucky study were not in a position
+to enter into a binding contract with the plaintiffs on
+Amgen's behalf, as the district court correctly concluded
+that the principal investigators were independent
+contractors rather than Amgen's agents. Under
+Kentucky law, whether a principal/agent relationship is
+created rather than merely a principal/independent
+contractor relationship is determined by examining the
+following factors:
+(a) the extent of control which, by the agreement, the master may
+exercise over the details of the work;
+(b) whether or not the one employed is engaged in a distinct
+occupation or business;
+(c) the kind of occupation, with reference to whether, in the
+locality, the work is usually done under the direction of the
+employer or by a specialist without supervision;
+(d) the skill required in the particular occupation;
+(e) whether the employer or the workman supplies the
+instrumentalities, tools, and the place of work for the person doing
+the work;
+(f) the length of time for which the person is employed;
+(g) the method of payment, whether by the time or by the job;
+(h) whether or not the work is a part of the regular business of the
+employer; and
+(i) whether or not the parties believe they are creating the
+relationship of master and servant.
+Sam Horne Motor & Implement Co. v. Gregg, 279
+S.W.2d 755, 756-757 (Ky.1955). Of these factors, the
+most critical element in determining whether an agency
+relationship exists is whether the alleged principal has
+the right to control the details of the agent's work.
+Grant v. Bill Walker Pontiac-GMC, Inc., 523 F.2d 1301,
+1305 (6th Cir.1975); Bottled Gas, Inc. v. Borg-Warner
+Corp., 56 F.3d 726, 736 (6th Cir. 1995).
+Here, the above factors suggest that the district court did
+not abuse its discretion in concluding that the plaintiffs
+had little chance of success based on their agency theory
+of contract liability. As the district court properly
+pointed out: "The [Clinical Trial] Agreement provides
+that the `Institution agrees to act as an independent
+contractor without the capacity to legally bind Amgen
+and also agrees that it is not acting as an agent or
+employee of Amgen.' Because the Kentucky doctors
+were employees of the University of Kentucky, they too
+were independent contractors lacking the power to bind
+Amgen." Abney v. Amgen, Inc., No. 5:05-CV-254-JMH,
+2005 WL 1630154 (July 8, 2005 E.D.Ky.) (citing Berry v.
+Delta Airlines, Inc., 260 F.3d 803, 812 (7th Cir.2001), for
+the proposition that "an employee of an independent
+contractor typically cannot be considered an agent of the
+employer").
+Other factors also indicate that the principal
+investigators were independent contractors and not
+agents of Amgen. The set up of the Kentucky study,
+consistent with federal regulations, left the principal
+investigators in charge of the details of the work. See 21
+C.F.R. 
+§
+ 312.60 (indicating that in a clinical drug trial
+"[a]n investigator is responsible for ensuring that an
+investigation is conducted according to the signed
+investigator statement, the investigational plan, and
+applicable regulations; for protecting the rights, safety,
+and welfare of subjects under the investigator's care; and
+for the control of drugs under investigation.").
+Furthermore the principal 
+[443 F.3d 549]
+ investigators
+drafted and implemented the Protocol for the study
+themselves, not Amgen. Moreover, the doctors were
+highly specialized professionals with extensive
+experience in their field. The study took place at the
+University of Kentucky, not at an Amgen facility. The
+University also received a set amount of money from
+Amgen as a result of the study. Finally, as the documents
+regarding the study indicated, the study was structured
+such that Amgen's sponsorship of the study would be
+independent of control over the study. Thus, the above
+factors indicate that the district court did not abuse its
+discretion in concluding that it was unlikely that any
+direct agency relationship existed between Amgen and
+the University of Kentucky or its physicians.
+Moreover, the record suggests that the district court was
+similarly correct in concluding that it was unlikely that
+the principal investigators had any apparent authority to
+bind Amgen. Apparent authority, which may be
+possessed by an independent contractor, is "the
+authority the agent is held out by the principal as
+possessing. It is a matter of appearance on which third
+parties come to rely." Mill St. Church of Christ v.
+Hogan, 785 S.W.2d 263, 267 (Ky.Ct.App.1990)
+(emphasis added). Nothing in the record nor in the
+plaintiffs' brief demonstrates any representations made
+by Amgen to the plaintiffs that could have led the
+plaintiffs to believe that the principal investigators were
+agents of Amgen for purposes of the study. Nothing
+suggests that Amgen even had any contact with any of
+the plaintiffs as it was the principal investigators who
+controlled the study and were in charge of the plaintiffs'
+care. Thus, the district court did not abuse its discretion
+in concluding that the plaintiffs' claim based on apparent
+authority had little chance of success on the merits.
+ii.
+The plaintiffs' second claim is that Amgen is legally
+required to provide them with GDNF based on
+promissory estoppel. The plaintiffs' promissory estoppel
+argument is premised on their claim that the principal
+investigators informed them that they would make
+decisions based upon the patients's best interests and
+that if GDNF proved to be safe and effective, study
+participants could continue to receive the medication
+following termination of the study. The district court
+concluded that "the plaintiffs have not shown a strong
+likelihood of success on the merits because the plaintiffs
+have not submitted any evidence of a clear promise by
+Amgen." The district court did not abuse its discretion
+in reaching such a conclusion.
+Promissory estoppel requires "(1) a promise; (2) which
+the promisor should reasonably expect to induce action
+or forbearance of a definite and substantial character on
+the part of the promisee; (3) which does induce such
+action or forbearance; and (4) injustice can be avoided
+only by enforcement of the promise." Bergman v.
+Baptist Healthcare Sys., Inc., 344 F.Supp.2d 998, 1003
+(W.D.Ky.2004) (analyzing Kentucky law). Where there
+is no evidence of a promise, promissory estoppel cannot
+be established.
+In this case, there is no evidence of a promise by Amgen
+to continue to provide the plaintiffs with GDNF
+following the termination of the study. The plaintiffs do
+not assert that Amgen directly promised to continue to
+provide them with GDNF. Instead, they assert that the
+principal investigators promised that the plaintiffs
+would continue to receive the medication and that
+subsequently Amgen is bound by those promises. This
+theory is untenable, however, because, as discussed
+above, neither the University of Kentucky nor the
+principal 
+[443 F.3d 550]
+ investigators were agents of
+Amgen. There is also no evidence that the University or
+the principal investigators had the apparent authority to
+bind Amgen via their promises to the plaintiffs. As a
+result, the district court did not abuse its discretion in
+concluding that there is little chance that the plaintiffs
+will succeed on the merits of this claim.
+iii.
+The plaintiffs' final claim is that Amgen, working
+through the principal investigators, breached its
+fiduciary duty to ameliorate their pain and treat their
+illness with the best medicine available. The district
+court held that Amgen had no fiduciary duty to continue
+to supply the plaintiffs with GDNF. The district court
+did not abuse its discretion in concluding that the
+plaintiffs' likelihood of success on this claim is minimal.
+Under Kentucky law, while there is no set formula for
+determining whether a fiduciary duty exists, "as a
+general rule, [courts] can conclude that such a
+relationship is one founded on trust or confidence
+reposed by one person in the integrity and fidelity of
+another and which also necessarily involves an
+undertaking in which a duty is created in one person to
+act primarily for another's benefit in matters connected
+with such undertaking." Steelvest, Inc. v. Scansteel Serv.
+Ctr., 807 S.W.2d 476, 485 (Ky.1991); Layne v. Bank
+One, Ky., N.A., 395 F.3d 271, 281 (6th Cir.2005). While
+"[f]iduciary relationships can be informal, [] they must
+evidence circumstances showing both parties agreed
+that one party would be acting in the interest of the
+other." In re Sallee, 286 F.3d 878, 892 (6th Cir.2002).
+In this case, the record does not demonstrate that
+Amgen and the plaintiffs agreed that Amgen would be
+acting primarily for the benefit of the plaintiffs. Amgen
+had various reasons for the undertaking sponsorship of
+the University of Kentucky study. While benefitting the
+plaintiffs could arguably be described as one of those
+reasons, there is nothing to suggest that the parties
+agreed that this would be the primary reason for
+Amgen's sponsorship of the study. Thus, the district
+court did not abused its discretion in concluding that
+there is no evidence Amgen has a fiduciary duty to the
+plaintiffs.
+The plaintiffs cite Grimes v. Kennedy Krieger Institute,
+Inc., 366 Md. 29, 782 A.2d 807 (2001), in support of
+their fiduciary duty claim. Grimes, however, is
+distinguishable from this case as the district court
+correctly decided. The manner in which the district
+court in Suthers distinguished Grimes from Amgen's
+GDNF study is helpful:
+In Grimes, the Maryland Supreme Court found that medical
+researchers owed a duty sounding in tort to children whose parents
+had been induced to live in homes containing lead paint so that the
+paint's effects could be measured against a control population
+without such exposure. The researchers in Grimes designed the
+study, recruited the subjects, and obtained their consent.
+Understandably, the Maryland Supreme Court was concerned
+about a "vulnerable research subject" who may have been provided
+information to induce consent that was "incomplete in a material
+respect." Grimes concluded that there was a duty to the research
+subject independent of the consent, and that a consent form could
+not be utilized to immunize the researchers from liability. The
+Grimes court did not characterize the duty as that of a fiduciary or
+offer any other characterization.
+The dissimilarities between this case and Grimes are many. Here, a
+therapeutic treatment was tested in a manner so 
+[443 F.3d 551]
+ that
+the tests would comply with FDA regulations. To avoid the
+potential that a pharmaceutical company with a financial interest in
+the outcome would place participants at risk of needless harm,
+independent research institutions and their physicians conducted
+the clinical trials. In Grimes, the participants were in direct contact
+and privity with the party who was found to have owed them a
+duty. Here no claim is asserted against the principal investigator []
+with whom plaintiffs had their dealings.
+Suthers, 372 F.Supp.2d at 427. This analysis applies with
+equal force to this case. Neither the Grimes case nor
+Kentucky case law suggests that Amgen had a fiduciary
+duty to the plaintiffs. Thus, the district court did not
+abuse its discretion in concluding that the plaintiffs had
+little chance of success as to this claim.
+Although we express no ultimate view, it appears that
+the plaintiffs might have considered suit against the
+University of Kentucky's Institutional Review Board
+and the physician investigators involved in the clinical
+trial. It was the University that was legally bound by the
+Informed Consent Document and thus arguably legally
+obligated to continue to administer the treatment to the
+plaintiffs. Moreover, as discussed above, under the
+FDA's regulatory scheme it is not the pharmaceutical
+companies that are charged with ensuring trial
+participants' well being. Rather, it is the Institutional
+Review Board that is meant to "protect the rights and
+welfare" of trial participants during a clinical trial. 21
+C.F.R. 
+§
+ 56.101 (requiring university conducting clinical
+trials to establish institutional review boards for the
+purpose of "protect[ing] the rights and welfare of
+human subjects involved in" clinical trials); see also 21
+C.F.R. 
+§
+ 56.103 (requiring institutional review boards to
+approve all clinical trials before initiation and requiring
+continuing review of clinical trials while they are being
+conducted). Thus, while the plaintiffs' arguments have
+little merit against Amgen, they may have merit against
+the University and its Institutional Review Board.
+6
+B.
+The second factors under the preliminary injunction test
+is whether the plaintiffs will suffer immediate and
+irreparable harm absent injunctive relief. The plaintiffs
+assert that absent a preliminary injunction they would
+suffer immediate, irreparable harm because without
+GDNF they allege that their health will continue to
+deteriorate as a result of their Parkinson's disease. The
+district court concluded that "the plaintiffs [] failed to
+meet their burden in proving that they would suffer
+immediate, irreparable harm if an injunction is not
+granted." While there is evidence in the record that
+supports the plaintiffs' claim, the district court did not
+abuse its discretion in concluding that the plaintiffs
+failed to show irreparable harm absent a preliminary
+injunction.
+[443 F.3d 552]
+ To demonstrate irreparable harm, the
+plaintiffs must show that unless GDNF treatments
+resumed immediately, they will suffer "actual and
+imminent" harm rather than harm that is speculative or
+unsubstantiated. See Monsanto Co. v. Manning, 841
+F.2d 1126, 1988 WL 19169, at *6 (6th Cir. Mar. 8,
+1998); Heideman v. South Salt Lake City, 348 F.3d 1182,
+1189 (10th Cir.2003) (citing Wisconsin Gas Co. v.
+FERC, 758 F.2d 669, 674 (D.C.Cir. 1985)). Here there is
+no question that the plaintiffs' health will continue to
+deteriorate as a result of their Parkinson's disease.
+Nonetheless, there is no guarantee that the plaintiffs'
+condition will improve or at least deteriorate at slower
+rate if they are prescribed GDNF. Admittedly, the
+plaintiffs have provided evidence suggesting that GDNF
+is effective. There is evidence in the record that the
+plaintiff subjectively felt an improvement in their
+symptoms after being administered GDNF. In addition,
+there is evidence in the record that the principal
+investigators believe GDNF to be a safe and effective
+treatment for the type of severe Parkinson's disease that
+the plaintiffs are afflicted with.
+Nonetheless, there is also evidence in the record that
+rebuts the plaintiffs' claim that GDNF is safe and
+effective. Amgen has submitted clinical evidence
+indicating that there may be scientific reasons to be
+concerned about the safety of GDNF based upon: (1)
+cerebullum lesions developed by primates on GDNF and
+(2) neutralizing antibodies found in some patients
+taking GDNF. More importantly, there is evidence in
+the record suggesting that even if the plaintiffs were
+provided with GDNF their health might not improve.
+The clinical data submitted by Amgen suggests that
+GDNF administered via IPu proved ineffective in
+clinical trial. The data can arguably be read as indicating
+that any improvement in study participants was based
+merely on a placebo effect. Thus, in the record there is
+simply conflicting evidence as to whether GDNF would
+really prevent irreparable harm to the plaintiffs if
+immediately administered. Therefore the district court
+did not abuse its discretion in concluding that the
+plaintiffs failed to establish they would suffer irreparable
+harm absent a preliminary injunction.
+C.
+The third factor we must consider is whether substantial
+harm to others will occur if the injunction is granted. As
+to the third factor of the preliminary injunction test the
+district court concluded that "on balance, the court
+would side with the plaintiffs on this prong." Like the
+second factor, there is conflicting evidence on the record
+as to whether others would be harmed if the plaintiffs'
+motion for a preliminary injunction was granted. On the
+one hand, Amgen asserts several harms that it would
+face if a preliminary injunction was awarded, including:
+(1) exposing Amgen to future civil liability; (2)
+undermining Amgen's role as the sponsor of clinical
+trials under federal regulations requiring Amgen to
+terminate trials found to present unreasonable and
+significant risk to patients. On the other hand, these
+concerns are at least partially obviated by the plaintiffs'
+assertions that they will assume all risks of taking GDNF
+and the fact that the FDA informed Amgen that it
+would permit compassionate use of Amgen. Given that
+there is conflicting evidence in the record, we conclude
+that the district court did not abuse it discretion in
+finding that this factor weighed in the plaintiffs' favor.
+D.
+The final factor is whether the public interest would be
+served by granting 
+[443 F.3d 553]
+ the plaintiffs' motion
+for a preliminary injunction. Before the district court,
+the plaintiffs asserted that the public interest weighed in
+favor of granting the preliminary injunction because it
+should be physicians (who in this case the record
+suggests were in favor of compassionate use of GDNF)
+who decide whether a drug should be given to their
+patients and not pharmaceutical companies. The
+plaintiffs also claimed that a denial of their motion for
+an injunction would cause them unnecessary suffering
+thereby disrespecting human subjects and deterring
+other patients from participating in clinical trials. In
+response, Amgen claimed that forcing them to provide
+GDNF to the plaintiffs is contrary to the FDA's
+regulatory scheme and that it is up to the FDA, and not
+doctors or their patients, to determine whether a drug is
+safe and effective. The district court found that public
+interest was not served by granting an injunction in this
+case.
+The district court's opinion made several insightful
+points regarding this prong. The district court
+acknowledged that there may be some deterrent concern
+as to patient participation in clinical trials if the plaintiffs
+are not provided with compassionate use of GDNF. The
+district court was quick to point out, however, that
+granting the plaintiffs' motion for a preliminary
+injunction could also deter pharmaceutical companies
+from sponsoring clinical trials as clinical trial sponsors
+might be required to continue to produce and distribute
+a drug they believed to be dangerous. Additionally, the
+plaintiffs' claim that physicians should be the sole arbiter
+of patient care wholly undermines the purpose and
+value of the FDA. The public has a strong interest in
+ensuring that the FDA rather individual doctors has the
+power to decide what drugs meet baseline levels of
+safety and efficacy. Thus, the district court did not abuse
+its discretion by concluding that the public interest
+would not be served by granting the plaintiffs' motion
+for preliminary injunction.
+III.
+Based on the analysis above, the district court did not
+abuse its discretion in the denying the plaintiffs' motion
+for a preliminary injunction. We therefore AFFIRM the
+district court's ruling.

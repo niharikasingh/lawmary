@@ -1,0 +1,667 @@
+During the course of protracted litigation, one party
+discharged the law firm that had been representing it,
+and replaced it with two solo practitioners. Prior to its
+discharge, the law firm obtained a $2.9 million charging
+lien that will be extinguished absent a favorable
+disposition for its former client. It moved therefore to
+intervene in the continuing litigation as a matter of
+right. The district court denied the motion.
+This appeal from the denial of that motion raises several
+thorny issues: whether a discharged lawyer who has a
+charging lien it believes is in jeopardy by ongoing
+litigation possesses an interest justifying intervention as
+of right in that litigation; whether the discharged
+attorney's interests are adequately represented in the
+ongoing litigation; and whether the former attorney
+moved timely to intervene. A lawyer, like a laborer, is of
+course worthy of his hire and is entitled to be paid for
+his work. Yet, since the attorney/client relationship
+rests on a foundation of trust and confidence, when a
+client loses confidence in counsel, public policy generally
+demands that the client have the prerogative to [250
+F.3d 174] terminate the relationship at any time, without
+cause.
+Although choosing between these competing notions is
+not required to resolve this appeal — resolution of the
+other issues will resolve the case — the conflicting
+policies presented by these competing notions
+nonetheless give context to the discussion that follows.
+BACKGROUND
+The underlying dispute in this case is between GBJ
+Corporation, formerly represented by the professional
+corporation Butler, Fitzgerald & Potter (Butler, law
+firm, or appellant) and Sequa Corporation. That dispute
+arose when Sequa allegedly breached a consulting
+contract. Under the consulting agreement, GBJ
+Corporation was to provide consulting services to Sequa
+on the use of leveraged lease transactions for Sequa to
+shelter its tax liability. The main suit has been litigated
+before the district court for the better part of nine years,
+and now reappears before us following the denial of
+Butler's motion before the district court to join the suit
+as a party in its own right. The sole issue is whether the
+Butler law firm — GBJ's former counsel in its action
+against Sequa — may intervene in the suit to protect its
+asserted interest in the outcome.
+Three years after Butler served the initial complaint
+upon Sequa on behalf of GBJ, and in the midst of trial,
+on April 17, 1995 GBJ dismissed Butler as counsel. In
+June of that year a magistrate judge determined that the
+dismissal was without cause and, pursuant to New York
+law, see N.Y. Judiciary Law § 475 (McKinney 1983),
+fixed a charging lien in the amount of $2,934,695.33 in
+favor of Butler upon any recovery GBJ had in its action
+against Sequa. The charging lien is the subject matter of
+Butler's appeal.
+After relieving Butler as lead counsel, GBJ retained two
+solo practitioners, Charles Manuel, Esq. (Manuel) and
+James Jones, Esq. (Jones), who tried the case before the
+district court for 51 days after Butler's dismissal,
+eventually procuring a sizable verdict for their client on
+the breach of contract claims. See Sequa Corp. v.
+Gelmin, No. 91 Civ. 8675, 1996 WL 745448, at *77-78
+(S.D.N.Y. Dec.31, 1996). Attorneys Manuel and Jones
+subsequently appeared before us when both Sequa and
+GBJ appealed portions of the district court's decision on
+the merits, and have since served as GBJ's attorneys of
+record after we vacated those portions of the district
+court's judgment relating to the calculation of GBJ's
+damages (tax recapture issue) and the fiduciary
+obligations of GBJ's president to Sequa (fiduciary duty
+issue). See Sequa Corp. v. GBJ Corp., 156 F.3d 136, 150
+(2d Cir.1998). The litigation of the remanded issues
+continues to date.
+Butler contends that a series of incidents indicated its
+charging lien was in jeopardy. It says that in late 1998,
+following our August 20, 1998 remand, the newly
+retained counsel for GBJ contacted the Butler law firm
+for assistance on the fiduciary duty issue. The law firm
+asserts that it acquiesced to this request out of a desire to
+protect its $2.9 million charging lien, realizing that it
+could only recover upon it if GBJ succeeded in the
+underlying litigation. Thus, it provided assistance on the
+fiduciary duty issue, and on March 26, 1999 attempted
+to submit an amicus curiae brief separate from the one
+submitted on GBJ's behalf. When the district court
+rejected the amicus brief in August 1999, a single
+memorandum, apparently a collaboration between
+attorney Jones and the Butler law firm, was offered in
+support of GBJ's position and filed in mid-September.
+[250 F.3d 175] As litigation of the fiduciary duty issue
+proceeded, Butler alleges that GBJ's new counsel
+solicited the firm's aid in litigating the remaining
+dispute, the apparently more complex tax recapture
+issue. In a March 31, 1999 order the district court had
+referred the tax recapture issue to a Special Master, and
+Butler claims that its subsequent assistance to GBJ on
+this issue was exhaustive, including: prepping GBJ's
+counsel on discovery methods and trial techniques in
+advance of a July 1999 hearing before the Special
+Master; identifying and arranging for a tax expert to
+refute Sequa's expert report; purchasing two hearing
+transcripts for GBJ in the course of the sessions before
+the Special Master; and drafting GBJ's August 14, 1999
+post-hearing memorandum, which was submitted to the
+Special Master. Butler provided this aid purportedly
+because it had been forced to make a "Hobson's choice":
+either expend its own time and money to ensure that
+GBJ would succeed in its claims against Sequa, so that
+Butler could later recover its charging lien, or do
+nothing and likely lose the lien.
+Butler avers that as a result of these repeated requests, it
+became increasingly concerned regarding the ability of
+attorneys Manuel and Jones to litigate GBJ's claims
+successfully against Sequa, an adversary the Butler firm
+describes as possessing "unlimited financial and
+personnel resources." While purportedly not
+questioning the competence of the two solo
+practitioners, Butler maintains they are not receiving
+adequate financial support from their client, and are
+either unable or unwilling to litigate the claims without
+such support. The law firm further notes that it has
+expended approximately 600 hours on the dispute
+subsequent to its discharge. Attorneys Manuel and Jones
+counter that Butler has exaggerated its role in the
+litigation, and declare that they, not Butler, have
+performed the lion's share of the work, toiling for a
+combined 8,000 hours on the case.
+Butler declares that two incidents were the proverbial
+straws that broke the camel's back, and induced it to
+seek leave of court to cease acting as an outside adviser
+to GBJ, and instead intervene in the action in its own
+right. The first incident was a request by GBJ in
+September 1999 that Butler pay for the Special Master's
+fee following the hearing on the tax recapture issue. The
+law firm allegedly balked at this request, viewing it as a
+further sign of the inability of GBJ to litigate its claims
+effectively. It cites the second incident as further proof
+of GBJ's dire financial position, that is, the fact that
+Sequa, GBJ's adversary, eventually paid the fee. Finally,
+on September 13, 1999, attorney Manuel and an
+attorney for Butler had an apparent confrontation when
+Manuel discovered that Butler was preparing a motion
+to intervene, after it had previously assured him that it
+would remain disassociated from the litigation. Four
+days later, by a letter dated September 17, 1999, Butler
+sought leave of the district court to move, pursuant to
+Rule 24(a) of the Federal Rules of Civil Procedure, to
+intervene in the underlying action. Butler's letter also
+referenced permissive intervention under Rule 24(b),
+but the gist of the motion was directed to intervention
+as of right under Rule 24(a).
+At the November 2, 1999 oral argument before District
+Judge Deborah A. Batts on the motion to intervene,
+contrary positions were expressed respecting whether
+GBJ opposed Butler's motion. Attorney Manuel, as
+counsel for GBJ, represented that GBJ's principal, Jeffrey
+Gelmin, had "said in no uncertain terms ... that he had
+no intention of seeing Butler, Fitzgerald & Potter
+intervene in this case." Timothy Butler, who claimed to
+represent Gelmin on other matters — and who,
+although not a [250 F.3d 176] member of the Butler law
+firm, served as an intermediary with that firm — stated
+that Gelmin had informed him that he took no position
+on the motion to intervene. According to Timothy
+Butler, Gelmin had also said that he did not feel that GBJ
+was "capable of seeing this through to the end, that we
+do not have the resources or the ability to see it
+through." Predictably, Sequa opposed the motion to
+intervene.
+In a December 22, 1999 order Judge Batts denied
+Butler's motion to intervene under Rule 24. She ruled
+that Butler did not meet three of the four requirements
+for Rule 24(a) intervention. From the denial of its
+motion, Butler appeals. We affirm.
+DISCUSSION
+We review the denial of a motion to intervene for abuse
+of discretion. United States v. City of New York, 198
+F.3d 360, 364 (2d Cir.1999). This standard reflects the
+view that district courts, due to their proximity to the
+dispute, usually have a better sense of the case's factual
+nuances upon which a motion to intervene often turns.
+United States v. Pitney Bowes, Inc., 25 F.3d 66, 69 (2d
+Cir.1994).
+Rule 24(a) of the Federal Rules of Civil Procedure
+governs intervention as a matter of right by a non-party
+into an ongoing litigation. It provides that
+[u]pon timely application anyone shall be permitted to intervene in
+an action ...
+(2) when the applicant claims an interest relating to the property or
+transaction which is the subject of the action and the applicant is so
+situated that the disposition of the action may as a practical matter
+impair or impede the applicant's ability to protect that interest,
+unless the applicant's interest is adequately represented by existing
+parties.
+Fed.R.Civ.P. 24(a).
+As the language of the rule suggests, a putative
+intervenor as of right must meet four criteria: the
+applicant must (1) file a timely motion; (2) claim an
+interest relating to the property or transaction that is
+the subject of the action; (3) be so situated that without
+intervention the disposition of the action may impair
+that interest; and (4) show that the interest is not
+already adequately represented by existing parties.
+Pitney Bowes, 25 F.3d at 70. A would-be intervenor's
+failure to meet all of these requirements justifies the
+denial of its motion. Id.
+Butler was found deficient in three of the requirements:
+specifically, the district court held its motion was
+untimely, the law firm had not established it possessed
+an interest in the action justifying intervention, and
+even if it had such an interest, that interest was already
+adequately protected by counsel for GBJ. Because we
+think the trial court's ruling finds support under two of
+its three rationales, we need not rule on the third one.
+I The Interest Requirement
+The trial court sustained its denial of Butler's motion by
+holding first that "movants have not demonstrated that
+they have an `interest' of the sort contemplated by Rule
+24." We have not had occasion to address whether a
+discharged attorney's charging lien is a sufficient interest
+to support intervention as of right into a client's
+underlying action. We recognize that there are
+arguments both for and against allowing discharged
+attorneys to intervene to protect their legal fees, and
+those arguments merit comment. But, because we
+conclude the order appealed from finds sufficient
+support on other grounds, [250 F.3d 177] we need not
+resolve that close question in this case.
+A. New York Charging Liens
+New York's statutory charging lien, see N.Y. Judiciary
+Law § 475 (McKinney 1983), is a device to protect
+counsel against "the knavery of his client," whereby
+through his effort, the attorney acquires an interest in
+the client's cause of action. In re City of New York, 5
+N.Y.2d 300, 307, 184 N.Y.S.2d 585, 157 N.E.2d 587
+(1959). The lien is predicated on the idea that the
+attorney has by his skill and effort obtained the
+judgment, and hence "should have a lien thereon for his
+compensation, in analogy to the lien which a mechanic
+has upon any article which he manufactures." Williams
+v. Ingersoll, 89 N.Y. 508, 517 (1882).
+Butler's charging lien, fixed by the magistrate at $2.9
+million, is of obvious value to the law firm. Further, the
+lien is clearly put at some risk by the proceedings below,
+for under § 475 of the New York Judiciary Law, the law
+firm may only collect on the lien in the event of a
+verdict in GBJ's favor. If GBJ's claims against Sequa do
+not result in a substantial judgment for GBJ, Butler's
+charging lien will be extinguished. See N.Y. Judiciary
+Law § 475 ("From the commencement of an action ...
+the attorney who appears for a party has a lien upon his
+client's cause of action ... which attaches to a verdict,
+report, determination, decision, judgment or final order
+in his client's favor."); see also Gordon v. Shirley Duke
+Assocs. (In re Shirley Duke Assocs.), 611 F.2d 15, 18 (2d
+Cir.1979) ("The rationale of section 475 is that an
+attorney should have a lien for his litigation efforts that
+bring a fund into existence; it is upon the fund thus
+created, either by judgment or settlement, that the lien is
+imposed.").
+B. Rule 24(a)
+Despite the substantial value of the charging lien, and its
+potential impairment by an adverse judgment, it is not
+certain whether this lien qualifies as an interest
+sufficient to justify Butler's intervention as of right into
+the dispute between GBJ and Sequa. To begin with, it is
+questionable whether a discharged attorney's
+intervention into a former client's action fits within the
+language of the Federal Rules. Rule 24(a) provides in
+pertinent part that the putative intervenor must "claim[]
+an interest relating to the property or transaction which
+is the subject of the action." Fed.R.Civ.P. 24(a)
+(emphasis added). The interest of discharged counsel
+seemingly is not in the subject of the underlying action,
+i.e., the contract dispute that precipitated the litigation,
+but is rather an interest in recovering delinquent
+attorney's fees following an award in favor of its former
+client. An analogous case is Restor-A-Dent Dental
+Labs., Inc. v. Certified Alloy Prods., Inc., 725 F.2d 871,
+876 (2d Cir.1984), in which we affirmed the denial of a
+general liability insurer's petition to intervene as of right
+in a breach of contract action brought against one of its
+insureds. In holding that the insurer did not have an
+interest justifying intervention, we relied in part upon
+the reasoning that the insurer's interest was only in its
+potential liability following an adverse judgment against
+its insured, and not in the underlying breach of contract
+action. See id. at 875.
+Similarly, the interest of discharged counsel in their
+attorney's fees is unrelated to the underlying cause of
+action. Hence, that interest does not present a
+particularly persuasive argument for intervention. Cf.
+Crown Fin. Corp. v. Winthrop Lawrence Corp., 531
+F.2d 76, 77 (2d Cir.1976) (per curiam) (affirming district
+court's denial of petition to intervene by purchaser of
+land with lien upon it because purchaser [250 F.3d 178]
+did not have an interest in original action in which
+creditor gained the security interest in the land). But see
+United States v. Eilberg, 89 F.R.D. 473, 474
+(E.D.Pa.1980) (holding that law firm may intervene in
+suit against former partner based upon contention that
+they were entitled to disputed distributive fee, and
+rejecting argument that firm only had an interest in the
+contractual arrangement amongst firm partners and not
+the subject of the underlying action).
+Under state law, however, Butler's charging lien may
+indeed constitute an interest in the underlying action
+itself. New York precedent, which governs attorney's
+charging liens issued by federal courts in New York, see
+Itar-Tass Russian News Agency v. Russian Kurier, Inc.,
+140 F.3d 442, 448-49 (2d Cir.1998), defines a charging
+lien as giving an "equitable ownership interest in the
+client's cause of action," rather than providing for a
+mere "priority of payment" in favor of the attorney,
+LMWT Realty Corp. v. Davis Agency Inc., 85 N.Y.2d
+462, 467-68, 626 N.Y.S.2d 39, 649 N.E.2d 1183 (1995).
+Under his reasoning a client who enlists the services of
+counsel on a standard one-third contingency fee
+arrangement equitably assigns a proportionate share of
+the cause of action to counsel. The client is left with
+only the remaining balance of any eventual judgment
+after the attorney receives his agreed upon share. In re
+City of New York, 5 N.Y.2d at 307-08, 184 N.Y.S.2d
+585, 157 N.E.2d 587. Butler's charging lien therefore
+represents at least arguably an equitable interest in the
+underlying cause of action.
+C. Client's Control of Litigation
+Distinct from the question of whether a charging lien
+falls within the language of Rule 24 are the public policy
+repercussions that arise when discharged counsel is
+permitted to intervene as of right in his former client's
+action to protect an interest in legal fees. The Fifth
+Circuit appears to be the only federal appellate court to
+have grappled expressly with the problem of terminated
+attorneys as putative intervenors. Gilbert v. Johnson,
+601 F.2d 761, 767 (5th Cir.1979) (discharged attorney
+may intervene as of right when he has a lien upon his
+former client's cause of action); Gaines v. Dixie Carriers,
+Inc., 434 F.2d 52, 54 (5th Cir.1970) (per curiam)
+(intervention as of right by former counsel based upon
+contingent fee contract). The Ninth Circuit has avoided
+the issue on two occasions. Venegas v. Skaggs, 867 F.2d
+527, 531 (9th Cir.1989), aff'd sub nom. Venegas v.
+Mitchell, 495 U.S. 82, 110 S.Ct. 1679, 109 L.Ed.2d 74
+(1990); Stockton v. United States, 493 F.2d 1021, 1024
+(9th Cir.1974). But while the Fifth Circuit has adhered
+to its holdings in Gaines and Gilbert allowing
+intervention, that Circuit has more recently questioned
+whether a discharged attorney's intervention into a
+former client's action contravenes prudent public policy.
+See Keith v. St. George Packing Co., 806 F.2d 525, 526
+(5th Cir.1986) ("Although Gaines may not represent the
+most persuasive use of Fed.R.Civ.P. 24, it binds us as the
+law of this Circuit until modified en banc.").
+We agree that substantial policy interests are implicated
+by allowing a discharged attorney to intervene in a
+former client's action as a matter of right. In the case of
+a charging lien, an attorney's interest is aligned with that
+of his former client, and presumably the attorney's selfinterest
+would dictate it not deliberately impair the
+litigant's chance of recovery. Yet, an intervenor-counsel
+might advance arguments either not raised, or even in
+conflict with those already made, unintentionally
+undermining the current trial strategy of his former
+client. Cf. Gilbert, 601 F.2d at 768 [250 F.3d 179] (Rubin,
+J., specially concurring) ("If there is an absolute right to
+intervene, the former lawyer may attempt to assert new
+issues or indeed to interfere with the management of the
+lawsuit by his successor as if he were a co-owner of the
+claim.").
+Further, although the intervenor counsel and the client
+might both desire the client's ultimate success, their
+cost-benefit calculuses may well diverge. While the law
+firm's sole interest is generally in a financial recovery
+upon the charging lien, the decision-making of the
+former client may incorporate other factors. The client
+might, for example, elect to forego pecuniary
+remuneration for equitable relief or other nonmonetary
+compensation, or might simply wish to
+discontinue litigation in light of ever-mounting
+inconvenience and expense. Such considerations would
+be of little relevance to the former counsel, who would
+wish to press the case to a final judgment of either
+financial reward or ultimate defeat. These competing
+concerns might lead to a litigation impasse or to the
+subjugation of the client's interests to that of its former
+counsel. Cf. Pinto v. Allstate Ins. Co., 221 F.3d 394, 398-
+99 (2d Cir.2000) (discussing conflicting settlement
+interests of an insured and the insurer who has assumed
+control over a claim's defense).
+GBJ has already discharged Butler as counsel. To allow
+Butler to reappear and again argue GBJ's case, this time
+nominally in support of Butler's own interests, impugns
+the historical privilege of clients to decide who will
+represent them, and when that representation shall
+cease. See, e.g., Demov, Morris, Levin & Shein v.
+Glantz, 53 N.Y.2d 553, 557, 444 N.Y.S.2d 55, 428
+N.Ed.2d 387 (1981) ("When an attorney-client
+relationship deteriorates to the point where the client
+loses faith in the attorney, the client should have the
+unbridled prerogative of termination. Any result which
+inhibits the exercise of this essential right is patently
+unsupportable.").
+Since we are not presently persuaded by the reasoning
+of those handful of courts that have dealt with this issue,
+and the district court's decision is fully justified on other
+grounds, we decline today to decide whether the
+financial stake of discharged counsel in its former
+client's action is the type of interest contemplated by
+Rule 24(a). We note parenthetically, however, that an
+attorney's charging lien is not the only potential source
+of remuneration for terminated counsel. Under New
+York law, the attorney still has an avenue to recover
+legal fees owed via a plenary action in quantum meruit
+for the reasonable value of services rendered. This
+remedy, pursued by Butler in state court, is distinct from
+the charging lien remedy and the law firm's suit to fix
+the charging lien does not preclude a suit in quantum
+meruit. Butler, Fitzgerald & Potter v. Gelmin, 235
+A.D.2d 218, 219, 651 N.Y.S.2d 525 (1st Dep't 1997).
+II Adequacy of Representation
+It was not an abuse of discretion for the trial court to
+hold that Butler's interests were already adequately
+protected by GBJ, an existing party to the dispute, and to
+deny the motion to intervene on that basis. While the
+burden to demonstrate inadequacy of representation is
+generally speaking "minimal," Trbovich v. United Mine
+Workers, 404 U.S. 528, 538 n. 10, 92 S.Ct. 630, 30
+L.Ed.2d 686 (1972), we have demanded a more rigorous
+showing of inadequacy in cases where the putative
+intervenor and a named party have the same ultimate
+objective, Wash. Elec. Coop., Inc. v. Mass. Mun.
+Wholesale Elec. Co., 922 F.2d 92, 98 (2d Cir.1990); U.S.
+Postal Serv. v. Brennan, 579 F.2d 188, 191 (2d Cir.1978).
+Where there is an identity of interest, as here, the
+movant to intervene [250 F.3d 180] must rebut the
+presumption of adequate representation by the party
+already in the action. See Brennan, 579 F.2d at 191.
+Butler concedes, as it must, that its interests are aligned
+with those of GBJ, for its recovery upon the charging
+lien is predicated upon a favorable result for GBJ on the
+claims against Sequa. Cf. Ionian Shipping Co. v. British
+Law Ins. Co., 426 F.2d 186, 191 (2d Cir.1970) (denying
+intervention as of right to assignee of mortgagee in
+action by mortgagor against its insurer, because assignee
+and mortgagor had identical interests in that the former
+could only recover if the latter's suit was successful). The
+law firm insists it rebutted this presumption of adequacy
+by demonstrating that GBJ no longer has the resources
+to pursue this protracted litigation. In support of this
+proposition, appellant avers that its attorneys have
+logged over 600 hours working on this case subsequent
+to the firm's termination, and that it has made financial
+outlays to GBJ on multiple occasions in furtherance of
+its former client's cause.
+We have not had occasion to lay down a hard-and-fast
+rule of what form of showing must be made to rebut a
+presumption of adequate representation when there is
+an identity of interest between the putative intervenor
+and an existing party to the action. Although perhaps
+not an exhaustive list, we generally agree with the
+holdings of other courts that evidence of collusion,
+adversity of interest, nonfeasance, or incompetence may
+suffice to overcome the presumption of adequacy. See
+United States v. Int'l Bus. Machs. Corp., 62 F.R.D. 530,
+538 (S.D.N.Y.1974) (denying motion by law firm to
+intervene in client's action for purposes of asserting
+work product privilege); see also Daggett v. Comm'n on
+Govtl. Ethics & Election Practices, 172 F.3d 104, 111 (1st
+Cir.1999) (rejecting argument that there is an exclusive
+list of circumstances that rebut a presumption of
+adequacy). Regardless of what constitutes the necessary
+showing, we are confident that this record does not
+support Butler's allegations of inadequacy.
+Attorneys Manuel and Jones have represented GBJ's
+interests since Butler's discharge in April of 1995. Their
+legal efforts have spanned the majority of an 80 day trial,
+the subsequent appeal of the judgment resulting from
+that trial, and all the proceedings following our 1998
+remand. We agree with the district court's observation
+that it found nothing in the record to suggest that
+defendants' counsel has been or will be less than diligent
+in litigating this case.
+Appellant and GBJ's counsel paint contrasting pictures
+of their respective roles. Appellant asserts it has taken
+the lead in advancing GBJ's claims, dictating the day-today
+litigation strategy and writing the briefs on the
+remanded issues. The solo practitioners, appellant
+contends, now serve primarily an editorial function,
+simply editing drafts of the briefs before their final
+submission to the district court. Attorneys Jones and
+Manuel admit that Butler assisted during the brief
+drafting process, but insist that the weight of the work,
+and the final say in strategy, ultimately has been theirs.
+Further, Manuel claims that the apparently elusive
+Gelmin, CEO of GBJ, has unequivocally expressed his
+opposition to the Butler firm's intervention. Timothy
+Butler, the "conduit" between Butler and GBJ, to the
+contrary warrants that Gelmin stated he does not have
+the financial resources to continue and took no position
+on the motion to intervene.
+We are unwilling to wade through this sort of
+Tweedledee and Tweedledum cross-purposes argument
+to unravel who did what work and who said what to
+whom. [250 F.3d 181] Nor do we see a rational method
+to ascertain whether the assistance provided by Butler,
+whatever that may have been, was indeed furnished on
+account of GBJ's financial necessity. It may be just as
+likely that Butler worked cooperatively with counsel for
+GBJ out of a desire to exert control over litigation
+strategy. GBJ's present counsel, disputing the necessity
+of Butler's aid, attest that they have represented their
+client both vigorously and capably to date, and will
+continue to do so in the future. The true purpose of the
+present motion, they assert, is a desire on the part of
+Butler to have unfettered discretion in deciding
+litigation tactics. If disagreement with an existing party
+over trial strategy qualified as inadequate representation,
+the requirement of Rule 24 would have no meaning.
+United States v. Yonkers Bd. of Educ., 902 F.2d 213, 218
+(2d Cir.1990).
+Further, while we agree in principle that an existing
+party's proven lack of financial resources to continue
+litigation may signify inadequate representation, see,
+e.g., Teague v. Bakker, 931 F.2d 259, 262 (4th Cir.1991),
+we do not believe the limited financial outlays provided
+here by Butler necessarily prove GBJ's inability to
+litigate this case effectively in the future. Attorney
+Manuel cryptically indicated in the proceedings below
+that the attorney/client privilege prohibited him from
+divulging why his client did not provide funds for copies
+of the transcript before the Special Master or for the
+Special Master's fee. He did state that Butler's portrayal
+of the financial dealings between GBJ and counsel was
+inaccurate. Hence, we conclude that appellant's limited
+financial advances, absent further evidence of the alleged
+precarious economic position of GBJ, are insufficient to
+rebut the presumption of adequate representation.
+In its appellate brief, Butler charges that it should not be
+penalized for having assisted GBJ, because absent this
+assistance GBJ's case would have been in complete
+disarray by this time. We do not view a holding denying
+intervention as penalizing Butler for the aid it has
+provided. Rather, such a holding would simply indicate
+that by providing such assistance, Butler has made it
+impossible for this Court to perceive GBJ's alleged
+deficiency, in light of the fact that its position has been
+effectively litigated to date.
+Moreover, the district court resolved these competing
+claims in favor of GBJ, and by finding that GBJ's
+attorneys would continue to litigate this case diligently,
+it implicitly further found that counsel has both the
+requisite resources and ability to do so. The district
+court exercised its discretion by holding that Butler
+failed to rebut the presumption of adequate
+representation. Cf. Brennan, 579 F.2d at 191
+("Determination of the adequacy of existing
+representation necessarily involves an assessment of
+factors which are within the discretion of the district
+court."). We cannot say that such exercise was an abuse
+of discretion.1
+III Timeliness
+The district court also did not abuse its discretion in
+holding that, even [250 F.3d 182] had the other three
+requirements of Rule 24(a) been met, Butler's motion
+should be denied as untimely. A trial court's broad
+discretion in assessing the timeliness of a motion to
+intervene is not a subject that easily lends itself to a
+precise definition. Weisshaus v. Swiss Bankers Ass'n (In
+re Holocaust Victim Assets Litig.), 225 F.3d 191, 198 (2d
+Cir.2000); accord D'Amato v. Deutsche Bank, 236 F.3d
+78, 84 (2d Cir.2001). Factors that inform the timeliness
+determination include: how long the motion to
+intervene was delayed, whether the existing parties were
+prejudiced by that delay, whether the movant will be
+prejudiced if the motion is denied, and unusual
+circumstances militating either for or against a finding
+of timeliness. Pitney Bowes, 25 F.3d at 70.
+Butler's delay was unreasonable, the trial court believed,
+because it knew of its interest in the ongoing action
+when the charging lien was imposed in 1995, and it
+should have known no later than late 1998 that its
+interests might not be adequately represented. See Sequa
+Corp. v. Gelmin, No. 91 Civ. 8675, slip op. at 4
+(S.D.N.Y. Dec. 22, 1999). Contending this finding was
+error, Butler maintains that it did not realize the threat
+to its interests until the summer of 1999, when GBJ first
+solicited financial support from it. When appellant may
+actually have realized the threat to its lien, however,
+does not necessarily control the length of delay finding.
+Delay is not measured solely subjectively because, if that
+were the test, a putative intervenor could always claim it
+did not know it needed to intervene until the eve of its
+motion. Cf. Catanzano v. Wing, 103 F.3d 223, 232 (2d
+Cir.1996) ("Among the most important factors in a
+timeliness decision is `the length of time the applicant
+knew or should have known of his interest before
+making the motion.'") (quoting Farmland Dairies v.
+Comm'r of N.Y. State Dep't of Agric. & Mkts., 847 F.2d
+1038, 1044 (2d Cir.1988)) (emphasis added).
+We agree with the district court that Butler realized or
+should have realized the threat to its charging lien, based
+on GBJ's alleged inadequate representation, sometime
+shortly after our August 20, 1998 remand. As Butler
+acknowledges, it began assisting counsel for GBJ in late
+1998, and attempted to submit an amicus brief to the
+district court the following March. We believe that
+GBJ's purported solicitation of help from a law firm that
+it had previously discharged should have alerted Butler
+to any possible danger that its charging lien might not
+be adequately represented. Appellant's subsequent
+attempt at filing an amicus brief reveals it did in fact
+believe that GBJ's representation of Butler's interests
+was inadequate. But the request to intervene was made
+in September 1999, more than a year after Butler should
+have realized the threat, if any, to its charging lien.
+Concededly the length of an intervenor's delay is only
+one of the factors controlling timeliness. United States
+v. New York, 820 F.2d 554, 557 (2d Cir.1987).
+Nevertheless, the length of delay is an important factor
+for timeliness and Butler's failure to act promptly weighs
+against it in the timeliness calculus. See Catanzano, 103
+F.3d at 232-33 (denying intervention after motion was
+filed 18 months after applicant knew of interest in
+litigation); see also In re Holocaust Litig., 225 F.3d at
+199 (eight month delay before motion to intervene);
+Pitney Bowes, 25 F.3d at 71 (constructive knowledge of
+interest 15 months prior to motion to intervene and
+actual knowledge for eight months); New York, 820
+F.2d at 557 (15 month delay after applicant knew or
+should have known of interest).
+The second timeliness factor, the prejudice to existing
+parties resulting from the movant's delay, is only
+minimally implicated by the instant motion, as the law
+firm [250 F.3d 183] told the trial court it did not wish by
+its motion to undo any prior matters already resolved in
+the case. In this nearly nine-year-old litigation,
+however, allowing Butler to intervene, at what the
+district court called the "eleventh hour," would cause
+more delay, see Sequa Corp., No. 91 Civ. 8675, slip op.
+at 4, and provide only the limited benefit of allowing a
+second party to argue the merits of GBJ's case.
+The third factor gives us some pause, because assuming
+Butler's interest is not otherwise adequately represented,
+the prejudice to the Butler law firm of not allowing it to
+intervene is appreciable. Such prejudice is mitigated by
+the fourth factor, the unique circumstances present that
+justified the district court's ultimate denial of the
+motion. For over a year, Butler and GBJ had
+cooperatively litigated this case, until an apparent
+disagreement over strategy precipitated Butler's motion
+to intervene. Despite this falling-out, counsel for GBJ
+have indicated that they would not object to working in
+concert with appellant once again. Although we affirm
+the district court's denial of Butler's motion to intervene
+in its own right, the law firm may still promote GBJ's
+interests by again working alongside its former client's
+new counsel.
+Consequently, considering the nearly one year delay
+before making its motion, the late stage of litigation, and
+the unusual circumstance of the heretofore cooperative
+relationship between Butler and GBJ, it was not an
+abuse of the district court's discretion to rule that
+appellant's motion to intervene was untimely.
+CONCLUSION
+Accordingly, for the reasons stated, the order appealed
+from is affirmed.

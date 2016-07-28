@@ -1,0 +1,781 @@
+PREFACE
+Decision of this appeal should turn on the Seventh
+Amendment: "In Suits at common law, where the value
+in controversy shall exceed twenty dollars, the right of
+trial by jury shall be preserved, and no fact tried by a
+jury, shall be otherwise reexamined in any Court of the
+United States, than according to the rules of the
+common law." The question of sufficiency of the
+evidence to require submission of a case to the jury
+presents a constitutional problem. Galloway v. United
+States, 1943, 319 U.S. 372, 63 S.Ct. 1077, 87 L.Ed. 1458.
+Ordinarily a court seeks ways to avoid deciding a
+constitutional question. When the en banc majority by
+application of the standard which it promulgates reaches
+the same result as the original panel reached by
+application of the FELA standard, it may not seem
+necessary to decide whether the FELA standard differs
+from the Seventh Amendment standard and, hence, is
+inapplicable to diversity cases. However, that question
+was necessary for the panel on original hearing of this
+case to decide (see 389 F.2d at 511) and was material to
+the decision in Planters (see 380 F.2d at 870 n. 1 and 873
+n. 4), and consequently is proper to be ruled on upon
+this en banc rehearing. Moreover, because of the
+frequency with which that question arises, it is both
+proper and advisable for the majority to decide it in the
+exercise of this Court's supervisory control over the
+district courts.1
+With deference, I submit that when the majority
+repudiates for diversity cases [411 F.2d 378] the FELA
+standard and particularly the formula adopted in
+Lavender v. Kurn, 1946, 327 U.S. 645, 66 S.Ct. 740, it
+commits an error of constitutional proportions which
+will continue to plague this Court and the district courts
+of this Circuit until the Supreme Court grants certiorari
+in this or some future2 case, and corrects the error.
+The majority does not "* * * re-state in detail the critical
+issues of fact on which Shipman based his case, since
+they are adequately treated in the original opinion
+herein * * *." While the original opinion is accurate in
+its statement of the facts, it is not complete because it
+refers to the briefs of the parties as follows:
+"There was a mass of additional evidence as to the safety of the
+place to work, which we find to be accurately summarized on pages
+4 to 16 of the appellant's brief. The appellee does not dispute
+appellant's statement, but files a statement (appellee's brief, pp. 2-4)
+`supplemental in nature since appellant has set forth a rather
+lengthy statement in its brief.'"
+389 F.2d 507, 510. Moreover, the appellant is not
+satisfied with the statement of the facts in our original
+opinion, but spends six pages of its brief on rehearing
+criticizing that statement and charging that, "There is no
+placing of the evidence in context with the
+overwhelming opposition evidence entered by
+appellant, evidence which would rob appellee's evidence
+of any persuasiveness." In any event, the importance of
+this en banc consideration suggests a detailed statement
+of all of the facts. I therefore attach as an appendix to
+this opinion a full statement of the facts.
+This is no occasion for an old common-law lawyer to
+indulge in a panegyric on the virtues of jury trial; how in
+our fallible system of human justice it is the best
+instrument yet devised for the determination of facts,
+how even its imperfections operate to rub the rough
+edges off of technical principles of law when they would
+result in unjust verdicts, how it is constantly improving
+with the progress of our jurisprudence and with the
+advance of education and enlightenment, how it gives
+the citizen a proud and rightful place in the
+administration of justice, and tends to make real our
+utopian dream of a "government of the people, by the
+people, and for the people." There are many who do not
+agree with my almost reverential attitude toward jury
+trial, but this is no occasion for a debate on that subject,
+because our forefathers wrote into our Constitution the
+right of trial by jury in both criminal and civil cases.3
+Moreover, as to civil cases with which we are here
+concerned, the Supreme Court has written at length in
+the leading case of Galloway v. United States, supra.
+With deference, I submit that the polished and scholarly
+majority opinion has one fundamental weakness. It
+downgrades the Seventh Amendment. Toward the end
+of the part of the opinion captioned [411 F.2d 379] "II.
+FELA (FEDERAL EMPLOYERS' LIABILITY ACT)
+STANDARD FOR SUFFICIENCY OF EVIDENCE IS
+INAPPLICABLE," it mentions: "Finally, the Seventh
+Amendment of the United States Constitution
+providing for trial by jury does not require, either
+expressly or impliedly, that the test of sufficiency of
+evidence to create a jury question in a non-FELA federal
+case be the same as in an FELA case." I do not agree. My
+text is that the FELA standard is based upon the
+Constitution. That proposition is virtually ignored by
+the majority. It is my hope that a single judge armed
+with the Constitution can persuade a majority. Certainly
+his oath compels him to try.
+With those prefatory remarks, I proceed to a discussion
+of the issues in the same order as the majority en banc
+opinion.
+I.
+"FEDERAL RATHER THAN STATE TEST
+IS APPLICABLE"
+The majority concludes Part I of its opinion with the
+statement: "Thus, we agree with the original opinion
+and reaffirm our holding, often repeated, that a federal
+rather than a state test is the proper one." As said in
+Wright v. Paramount-Richards Theatres, 5 Cir. 1952,
+198 F.2d 303, 305:
+"* * * in federal courts the principle just adverted to [the Erie
+doctrine] must give way to the overriding consideration that the
+federal court is bound by the Seventh Amendment to the
+Constitution of the United States."
+The dichotomy is the same as that expressed by the
+Supreme Court in Simler v. Conner, 1963, 372 U.S. 221,
+222, 83 S.Ct. 609, 610, 9 L.Ed.2d 691:
+"In diversity cases, of course, the substantive dimension of the claim
+asserted finds its source in state law * *, but the characterization of
+that state-created claim as legal or equitable for purposes of
+whether a right to jury trial is indicated must be made by recourse
+to federal law."4
+I concur in Part I of the majority opinion.5
+II.
+FELA (FEDERAL EMPLOYERS' LIABILITY ACT)
+STANDARD FOR SUFFICIENCY OF EVIDENCE IS
+APPLICABLE
+Perhaps in no field of the law is the cleavage between
+substance and procedure more sharply drawn than in
+the difference between the substantive elements of a
+claim or cause of action and the remedy by jury trial.
+That is necessarily true because the substantive rights
+and duties are prescribed by contract, by the common
+law, or by statute, while the right of jury trial is
+preserved by the Seventh Amendment. The
+Amendment [411 F.2d 380] accomplishes that separation
+simply by addressing itself to each separate fact — "* * *
+no fact tried by a jury * * *" — and that applies
+irrespective of the substantive nature of the claim. The
+claim may arise out of either contract or tort. The
+variety of tort duties is almost without limit. For
+example, the railroad owes to a trespasser only the duty
+not to willfully or wantonly inflict injury or not to
+negligently injure him after discovering his peril; in its
+role as a common carrier, the railroad owes to its
+passenger the highest degree of care; as an employer
+under the FELA, the railroad is liable to its employee for
+any negligence, however slight, which contributes to
+cause the injury. Rogers v. Missouri Pacific Railroad
+Co., 1957, 352 U.S. 500, 508, 77 S.Ct. 443, 1 L.Ed. 2d
+493. Under bills of lading and under various other
+contracts, the extent of variation in the railroad's duties
+is infinite for the railroad's duty is measured by the
+terms of the particular contract and the applicable public
+policy. Breach of duty in any one of the capacities just
+mentioned may result in a "suit at common law" against
+the railroad. In every one of these varied cases where the
+value in controversy exceeds twenty dollars, the right of
+either the plaintiff or the defendant to a jury trial is
+preserved by the Seventh Amendment and no fact of
+whatever description can be re-examined in any federal
+court except according to the rules of the common law.
+In each and all of these varied cases, when the
+substantive claim and the remedy are considered
+separately the same standard is applicable to test the
+sufficiency of the evidence for submission of the case to
+a jury.
+It goes without saying that the result of the application
+of that standard varies according to the substantive
+elements of the claim. For example, it is rare that a
+trespasser can produce evidence warranting submission
+of his case to a jury, and, at the other extreme, it is rare
+that an employee in an FELA action fails to produce
+such evidence. The reason lies not in any difference in
+the standard of sufficiency of the evidence to preserve
+the right of trial by jury but in the vast differences
+between the substantive elements of the torts.
+That is strikingly illustrated by a very recent Ohio State
+case (decided December 24, 1968), Mills v. Pennsylvania
+N.Y. C. Transp. Co., 16 Ohio St.2d 97, 243 N.E.2d 99.
+Syllabus No. 1 prepared by the court reads: "State
+procedural law and federal substantive law govern the
+disposition of actions brought in state courts pursuant
+to the provisions of the Federal Employers' Liability Act
+(Section 51 et seq., Title 45, U.S. Code)."
+The Ohio Court summarized the facts and holdings of
+several of the United States Supreme Court cases6
+interpreting the Federal Employers' Liability Act, and
+then said:
+"These cases demonstrate how strictly the rule of the Rogers case
+(that any employer negligence, however slight, which contributes
+to cause the injury is actionable) is to be applied in all F.E.L.A.
+cases.1
+"1. We have held that the use of the words, `in the slightest degree,'
+or the phrase, `in any degree,' in connection with contributory
+negligence in a charge to the jury in an action under state
+substantive law constitutes reversible error. See Bahm v. Pittsburgh
+& Lake Erie Rd. Co., 6 Ohio St.2d 192, [217 N.E.2d 217].
+"In the instant case, the plaintiff alleges (and there is evidence in the
+record [411 F.2d 381] to support) two bases for railroad negligence:
+"(1) There was inadequate lighting at the place of the injury,
+creating a hazardous situation.
+"(2) There was coal and other debris lying around the immediate
+vicinity where plaintiff was working.
+"This case, in light of the United States Supreme Court cases
+interpreting the Federal Employers' Liability Act, should have been
+allowed to go to the jury, and accordingly we reverse the judgment
+of the Court of Appeals.
+"We do this reluctantly, and invite the United States Supreme
+Court to consider how closely the strict application of the rule of
+the Rogers case approaches a scheme of workman's compensation,
+substituting the jury in place of a board of experts and allowing an
+open-end award in lieu of a fixed statutory amount. The amount of
+damages awarded by juries in F.E. L.A. actions often appears
+exorbitant when compared to the slight degree of employer
+negligence which contributed to cause the employee's injury.2 We
+believe that it would be appropriate for the United States Supreme
+Court to carefully review its former decisions, in light of the fact
+that the rule of the Rogers case, as it has been applied, imposes legal
+responsibilities on railroad employers that the Congress of the
+United States never intended."
+"2. The jury awards in the cases discussed were as follows: Rogers,
+$40,000; Gallick, $625,000; Webb, $15,000; McBride, $51,000 and
+Harris, $25.000.
+16 Ohio St.2d at 104, 105, 243 N.E.2d at 103, 104.
+It is like gilding the lily for me to add anything to Chief
+Judge Tuttle's masterful analysis and decision in Planters
+Manufacturing Co. v. Protection Mut. Ins. Co., 5 Cir.
+1967, 380 F.2d 869, 871-875. The en banc majority
+opinion, however, leaves me no alternative.
+In his opinion for the Court in Planters, Judge Tuttle did
+not so much as mention Wilkerson v. McCarthy, 1949,
+336 U.S. 53, 69 S.Ct. 413, 93 L.Ed. 497. Only by remote
+implication can it be asserted that Judge Tuttle adopted
+an apparent holding of Wilkerson that on motions for
+directed verdict and judgment notwithstanding the
+verdict, the court should consider only the evidence and
+inferences which support the non-mover's case.
+Wilkerson was first cited along that line by this Court in
+Helene Curtis Industries, Inc. v. Pruitt, 1967, 385 F.2d
+841, 850, a case in which I participated. I am not
+convinced that the Helene Curtis' reference to
+Wilkerson was erroneous. That case simply employs the
+same language as Wilkerson, and when properly
+understood, as will be presently developed, that
+language is not erroneous. But I must frankly confess
+that in my opinion for the Court on the original hearing
+of the instant case, I made what I now acknowledge to
+be an erroneous contrast between the Alabama State
+rule and the federal rule by considering in isolation the
+following sentence in Wilkerson v. McCarthy, 336 U.S.
+at p. 57, 69 S.Ct. at p. 415: "It is the established rule that
+in passing upon whether there is sufficient evidence to
+submit an issue to the jury we need look only to the
+evidence and reasonable inferences which tend to
+support the case of a litigant against whom a
+peremptory instruction has been given." Boeing
+Company v. Shipman, 5 Cir. 1968, 389 F.2d 507, 511.
+The criticism which that sentence has provoked7 arises,
+I submit, from a misunderstanding which becomes
+apparent when the sentence is read in the totality of the
+factual context out of which it arose.
+The Wilkerson facts were simple. The railroad had
+constructed a wheel-pit in which mechanics who
+changed wheels [411 F.2d 382] could get under train cars.
+Over this pit was extended a 20" wide plank which was
+not firmly set or attached and which had been permitted
+to become oily and slippery. At one time the plank was
+used by all employees working in the yard.
+Subsequently, the railroad erected posts and chains
+ostensibly obstructing access to the plank to all
+employees except those who worked in the pit itself.
+Wilkerson, a switchman who had no duties in the
+wheel-pit area, in taking a short cut, crossed over one of
+the chains and attempted to walk over the plank. He fell
+and was injured. In his FELA suit, he attributed his
+injuries to the negligence of the railroad in failing to
+maintain a safe place to work. The railroad responded
+by admitting the existence of the greasy plank over the
+pit and acknowledging that Wilkerson had sustained the
+injuries he described. The carrier, nevertheless, argues
+that an alternate safe passage to the other side of the pit
+was readily available at a very short distance from the
+plank and that Wilkerson was the real negligent party in
+using the chained-off plank. The crucial issue was not
+the question of contributory negligence. Rather, there
+arose a factual dispute as to whether the construction of
+the chains across the plank in fact stopped all
+unauthorized persons from using the plank and thereby
+absolved the carrier of liability. Wilkerson and another
+witness testified that, in fact, the chains did not stop
+anyone from crossing the pit via the greasy plank and
+that it was a "common practice" to cross the plank even
+after erection of the chain. 336 U.S. at 58-60 notes 3, 4,
+69 S.Ct. 413. Witnesses for the railroad testified to the
+contrary that, after the chains were put up, only persons
+working in the pit area on train wheels used the plank.
+336 U.S. at 59-60, 69 S.Ct. 413.
+Immediately following the sentence which I mistakenly
+quoted in isolation, Mr. Justice Black added: "Viewing
+the evidence here in that way it was sufficient to show
+the following * * *." 336 U.S. at 57, 69 S.Ct. at 415.
+Then, after an elaborate examination of the facts, as
+based on testimony by both sides in the controversy, he
+framed the issue in Wilkerson as follows:
+"Thus the conflict as to continued use of the board as a walkway
+after erection of the chains was whether the pit workers alone
+continued to use it as a walkway [the carrier evidence], or whether
+employees generally so used it. While this left only a very narrow
+conflict in the evidence, it was for the jury, not the court, to resolve
+the conflict."
+336 U.S. at 60, 69 S.Ct. at 416. Consideration of this
+comment framing the issue, in light of the actual review
+immediately before it of testimony ascribed to witnesses
+for both sides, makes it apparent that all of the evidence
+was examined, though determination of the sufficiency
+of Wilkerson's evidence to withstand the carrier's
+motion necessitated a "look only to the evidence and
+reasonable inferences which tend to support the case of
+[Wilkerson] against whom a peremptory instruction
+has been given." Cf. Blume, supra note 5, at 577-578,
+citing Southern Ry. Co. v. Walters, 1931, 284 U.S. 190,
+194, 52 S.Ct. 58, 76 L.Ed. 239. Contrary to my original
+interpretation of the Wilkerson case, viz., that it
+compelled the trial court to view only the non-movant's
+evidence, it is but one of a line of cases all applying
+essentially the same sufficiency test dictated by the
+Seventh Amendment.
+While confessing one error in my opinion for the Court
+on the original hearing of this case, let me admit
+another. I erred in stating that "The continued validity
+of that holding8 is subject to [411 F.2d 383] serious doubt
+if the standards applied in FELA cases must also be
+applied in diversity cases." After more thorough
+research, I entertain no doubt that the so-called
+"scintilla" test has been firmly rejected by the Supreme
+Court and other federal courts in all jury cases including
+FELA cases.9 This firm rejection is [411 F.2d 384]
+illustrated by the authorities collected in footnotes 8 and
+9 to the majority opinion herein.
+I submit that the FELA standard for sufficiency of the
+evidence to require submission of the case to a jury is a
+constitutional standard. There can be no doubt that an
+action for damages under the FELA is a "suit at common
+law" as that expression is used in the Seventh
+Amendment, for it was early settled that, "The phrase
+`common law,' found in this clause, is used in
+contradistinction to equity, and admiralty and maritime
+jurisprudence." Parsons v. Bedford, Breedlove &
+Robeson, 1830, 28 U.S. (3 Pet.) 266, 274 [433, 445] 7
+L.Ed. 732.10 That case has been consistently followed in
+[411 F.2d 385] later decisions which have made clear that
+the right of jury trial under the Seventh Amendment
+does not depend upon the source of the claim, whether
+from common law or from state or federal statute, but
+solely on whether the claim should be characterized as
+legal rather than equitable or in admiralty.11
+The Supreme Court has held that while the Seventh
+Amendment does not apply to a FELA action brought in
+a State court,12 it does apply to such an action brought in
+a federal court.13
+Mr. Justice Douglas, concurring in Harris v.
+Pennsylvania R. Co., supra note 13 said: "The difference
+between the majority and minority of the Court in our
+treatment of FELA cases concerns the degree of
+vigilance we should exercise in safeguarding the jury
+trial — guaranteed by the Seventh Amendment and part
+and parcel of the remedy under this Federal Act when
+suit is brought in state courts." However, the view of the
+majority of the Supreme Court seems to be that the
+Seventh Amendment is not applicable to the States
+either ex proprio vigore or because a "part and parcel of
+the remedy" under the FELA. See Minneapolis & St
+Louis R. R. v. Bombolis, supra note 12. The majority of
+the Supreme Court bases reversal of directed verdict
+judgments by State courts in FELA cases not on the
+Seventh Amendment but on a purpose to assure
+uniform enforcement of the substantive provisions of
+the Act. As said in Dice v. Akron, C. & Y. R. Co., 1952,
+342 U.S. 359, 363, 72 S.Ct. 312, 315, 96 L.Ed. 398:
+"We have previously held that `The right to trial by jury is "a basic
+and fundamental feature of our system of federal jurisprudence"'
+and that it is `part and parcel of the remedy afforded railroad
+workers under the Employers' Liability Act.' Bailey v. Central
+Vermont R. Co., 319 U.S. 350, 354 [63 S.Ct. 1062, 1064, 87 L.Ed.
+1444]. We also recognized in that case that to deprive railroad
+workers of the benefit of a jury trial where there is evidence to
+support negligence `is to take away a goodly portion of the relief
+which Congress has afforded them.' It follows that the right to trial
+by jury is too substantial a part of the rights accorded by the Act to
+permit it to be classified as a mere `local rule of procedure' for
+denial in the manner that Ohio has here used. Brown v. Western R.
+Co. [of Ala.], 338 U.S. 294 [70 S.Ct. 105, 94 L.Ed. 100][411 F.2d 386]
+."
+Since, as we have seen, the Supreme Court itself has
+settled that the Seventh Amendment applies to a FELA
+action brought in a federal court, the next question is
+whether a different kind of jury trial is prescribed by the
+FELA itself either expressly or implicitly as "part of the
+remedy." Nowhere in the statute does the word "jury"
+appear. The reason for that omission is stated in a
+footnote in Rogers v. Missouri Pacific R. Co., 1957, 352
+U.S. 500, 508 n. 18, 77 S.Ct. 443, 449, 1 L.Ed.2d 493,
+which can be best understood in connection with the
+sentence of the text to which that footnote is appended:
+"The Congress when adopting the law was particularly concerned
+that the issues whether there was employer fault and whether that
+fault played any part in the injury or death of the employee should
+be decided by the jury whenever fair-minded men could reach these
+conclusions on the evidence.18
+"18. While the primary reason was a protest against undue
+comment by trial judges as to the facts, the original 1906 Act
+provided; `All questions of negligence and contributory negligence
+shall be for the jury.' 34 Stat. 232. Hearings before Senate
+Committee on Interstate Commerce on H.R. 239, 59th Cong., 1st
+Sess. 68-69. The inclusion in the 1908 statute of another provision,
+`All questions of fact relating to negligence shall be for the jury to
+determine,' was proposed but not adopted. The view prevailed that
+this would be surplusage in light of the Seventh Amendment
+embodying the common-law tradition that fact questions were for
+the jury. Hearings before Senate Committee on Education and
+Labor on S. 5307, 60th Cong., 1st Sess. 8-9, 45-46."14
+That footnote clearly indicates that the jury trial which
+is "part and parcel of the remedy" in FELA actions in
+federal courts is the same jury trial guaranteed by the
+Seventh Amendment. A similar thought is expressed in
+Mr. Justice Douglas' concurring opinion in Harris v.
+Pennsylvania R. Co., quoted, supra, 361 U.S. p. 15, 80
+S.Ct. 22. Those cases do not stand alone. Other Supreme
+Court decisions have established that it is the jury trial
+guaranteed by the Seventh Amendment which is "part
+and parcel of the remedy" in FELA actions in federal
+courts.15 Indeed, it seems an unwarranted affront to
+suggest that the Supreme Court, by mere fiat, has
+invented for FELA cases a kind of jury trial found
+neither in the Constitution nor in the Act.
+Moreover, I submit that neither the Congress nor the
+Supreme Court can constitutionally give a broader role
+to the jury in FELA cases than that guaranteed by the
+Seventh Amendment. That is true because of the
+principle announced by the Supreme Court in a
+different context in Herron v. Southern Pacific Co.,
+1931, 283 U.S. 91, 95, 51 S.Ct. 383, 384, 75 L.Ed. 857:
+"In a trial by jury in a federal court, the judge is not a mere
+moderator, [411 F.2d 387] but is the governor of the trial for the
+purpose of assuring its proper conduct and of determining
+questions of law. This discharge of the judicial function as at
+common law is an essential factor in the process for which the
+Federal Constitution provides."
+Again, speaking through Mr. Justice Van Devanter in
+Baltimore & C. Line v. Redman, 1935, 295 U.S. 654,
+657, 55 S.Ct. 890, 891, 79 L.Ed. 1636, the Court said:
+"The right of trial by jury thus preserved is the right which existed
+under the English common law when the Amendment was
+adopted. The Amendment not only preserves that right but
+discloses a studied purpose to protect it from indirect impairment
+through possible enlargements of the power of reexamination
+existing under the common law, and to that end declares that `no
+fact tried by a jury shall be otherwise re-examined in any court of
+the United States than according to the rules of the common law.'
+"The aim of the Amendment, as this Court has held, is to preserve
+the substance of the common-law right of trial by jury, as
+distinguished from mere matters of form or procedure, and
+particularly to retain the common-law distinction between the
+province of the court and that of the jury, whereby, in the absence
+of express or implied consent to the contrary, issues of law are to be
+resolved by the court and issues of fact are to be determined by the
+jury under appropriate instructions by the court.4
+"4. Walker v. New Mexico & So. Pac. R. Co., 165 U.S. 593, 596 [17
+S.Ct. 421, 41 L.Ed. 837]; Gasoline Products Co. v. Champlin
+Refining Co., 283 U.S. 494, 497-499 [51 S.Ct. 513, 75 L.Ed. 1188];
+Dimick v. Schiedt, 293 U.S. 474, 476, 485-486 [55 S.Ct. 296, 79
+L.Ed. 603.]"
+The principle has been most clearly and succinctly
+expressed by Judge Phillips speaking for the Tenth
+Circuit in Diederich v. American News Co., 1942, 128
+F.2d 144, 146:
+"The power of the judge to pass upon questions of law is just as
+much an essential part of the process of trial by jury at common law
+guaranteed by the Seventh Amendment, as is the power of the jury
+to pass upon questions of fact."
+Other opinions so indicating are quoted in the margin.16
+[411 F.2d 388] The first FELA passed in 1906 contained a
+provision that all questions of negligence and
+contributory negligence shall be submitted to the jury.
+See Appendix B, p. 387, infra. In holding that Act
+unconstitutional, some inconclusive comments were
+made upon that provision both in Mr. Justice White's
+opinion for the Court,17 and in Mr. Justice Moody's
+dissenting opinion.18 Profiting from those expressions,
+the Congress in considering the second or 1908 FELA
+struck a similar provision following the argument of
+Senator Rayner. His argument appears in Appendix B at
+pp. 403-404, infra, and is so clear and cogent that I quote
+from it.
+"As to the other clause:
+"`All questions of fact relating to negligence shall be for the jury to
+determine.'
+"I desire to be perfectly frank. I think it ought to go out. Why?
+Because it does not change the law as it exists to-day, in my
+judgment, and if it did attempt to change the law it would be clearly
+unconstitutional. In other words, the seventh amendment protects
+without any exception whatever, all trials at common law under
+Federal jurisdiction, as established in England and in this country at
+the date of the adoption of that amendment.
+"It was the prerogative of the court at the date of the adoption of
+that amendment to charge the jury as to questions of law after
+considering the facts bearing upon those questions. It was the
+province of the court to determine whether a case should be
+withdrawn from the jury by reason of the fact that the plaintiff had
+not in his evidence brought himself within the terms of the law. It
+was the province of the court, and it is and must be to-day, to set
+aside a verdict for want of sufficient evidence Any one of those
+prerogatives or others that could be mentioned which a provision
+of the [411 F.2d 389] statute of Congress attempted to take from the
+presiding judge of a Federal court trying a common law case would
+be in violation of the seventh amendment. The seventh amendment
+has not added to or taken from the prerogatives of a judge presiding
+over a court of law a single power that existed at the date of its
+adoption. It simply preserved the status quo as it then existed, and
+the authorities on that are perfectly clear."
+An FELA case has furnished the formula in most general
+use by federal courts in all types of cases for determining
+the absence of a controverted issue of fact. As said in 5
+Moore, Federal Practice § 50.02 [1], pp. 2320-2322:
+"Until Brady v. Southern Railroad14 was decided by the Supreme
+Court in 1943, the federal courts had not clearly opted between the
+standard that permitted a court to direct a verdict on the basis of a
+strong preponderance of the evidence15 and the `reasonable man'
+type of standard indicated above. In the Brady case, the Court
+announced the standard in the following terms:16
+"`When the evidence is such that without weighing the credibility
+of the witnesses there can be but one reasonable conclusion as to
+the verdict, the court should determine the proceeding by non-suit,
+directed verdict or otherwise in accordance with the applicable
+practice without submission to the jury, or by judgment
+notwithstanding the verdict. By such direction of the trial the result
+is saved from the mischance of speculation over legally unfounded
+claims.'
+Since that time, although they have used many different
+formulations, the federal courts have been reasonably consistent in
+the application of the Brady rule, that a verdict may properly be
+directed when, without weighing the credibility of the witnesses,
+there can be but one reasonable conclusion as to the verdict.17 But
+where there is conflicting evidence, or there is insufficient evidence
+to make only a `one-way' verdict possible, a directed verdict is
+improper.18
+"14. (1943) 320 U.S. 476, 64 S.Ct. 232, 88 L.Ed. 239.
+"15. See, e. g., Pennsylvania RR. v. Chamberlain (1933) 288 U.S.
+333, 53 S.Ct. 391, 77 L.Ed. 819; McBaine, Trial Practice: Directed
+Verdicts; Federal Rule (1943) 31 Calif.L.Rev. 454, 460.
+"16. 320 U.S. at 479-480 [64 S.Ct. at 234-235].
+"17. The cases supporting this conclusion are almost infinite in
+number. The citations that follow are extensive but not exhaustive.
+They provide a sampling of circuits and varieties of factual
+situations. [Citations omitted.]
+"18. These cases should be read in connection with those in the
+preceding footnote, since they represent only the other side of the
+same coin. Again, no attempt has been made to exhaust the
+authorities. Instead, the cases merely represent an abundant
+sampling of the authorities among different circuits and with
+different factual bases. [Citations omitted.]"
+In Continental Ore Co. v. Union Carbide & Carbon
+Corp., 1962, 370 U.S. 690, 696 n. 6, 701, 82 S.Ct. 1404, 8
+L.Ed.2d 777, a private antitrust case, the Supreme Court
+cited an FELA case, Tennant v. Peoria & P. U. R. Co.,
+321 U.S. 29, 64 S.Ct. 409, 88 L.Ed. 520, at two different
+places in its opinion as indicating the rule on sufficiency
+of the evidence for a case to go to the jury.
+In at least three diversity cases from this Circuit, the
+Supreme Court has entered per curiam reversals when
+this Court has substituted its views of the sufficiency of
+the evidence for those of the jury.19
+[411 F.2d 390] It need not be apprehended that juries will
+get from under proper influence or control of trial
+judges when the FELA standard is applied in diversity
+cases. That is true for several reasons. First, as has been
+argued, the extreme results in FELA cases come about
+because of the substantive elements of the tort rather
+than from the application of the jury standard. Second,
+jurors listen to trial judges, and the federal district judges
+have the power to advise them on the facts.
+"In many cases the Supreme Court of the United States has
+recognized the power of the trial judge to advise the jury on the
+facts, but has, at the same time, required a clear separation of law
+from fact, and has insisted that the judge tell the jurors that they
+were not bound by the judge's opinion of the facts.48.
+"48. McLanahan v. Universal Ins. Co., 1 Pet. (26 U.S.) 170 [7 L.Ed.
+98] (1828); Tracy v. Swartwout, 10 Pet. (35 U.S.) 79 [80, 9 L.Ed.
+354] (1836); Games v. Dunn, 14 Pet. (39 U.S.) 322 [10 L.Ed. 476]
+(1840); Starr v. United States, 153 U.S. 614, 14 S.Ct. 919 [38 L.Ed.
+841] (1894); Quercia v. United States, 289 U.S. 466, 53 S.Ct. 689
+[698, 77 L.Ed. 1321] (1933); United States v. Murdock, 290 U.S.
+389, 54 S.Ct. 223 [78 L.Ed. 381] (1933)."
+Blume, supra note 7, at 567, 568. Third, as has been
+discussed in our original opinion in this case, 389 F.2d at
+513, 514,20 the district courts retain extremely broad
+discretion to grant new trials. In the early days of the
+common law, the remedy for a jury finding contrary to
+the evidence was to grant a new trial.21 That continues
+to be the safest remedy, less subject to reversal, and
+encroaching least on the constitutional fact-finding
+province of the jury.22 Moreover, it [411 F.2d 391] keeps
+the decision where it belongs, in the hands of the district
+judge who has seen and heard the witnesses testify and
+observed their demeanor on the stand. A more general
+use of new trial instead of directed verdict would save
+the appellate judges many precious judicial man hours in
+these days of exploding dockets.23 Strange to say,
+however, we do not hear that factor mentioned by
+appellate court judges when they are reaching out for
+power to substitute their views for those of the jury.24
+The burden of controlling jury verdicts rests primarily
+on the district judges and, except when they substitute
+their views for those of a jury, interference by the
+Courts of Appeals should be extremely rare. Even less
+often should the Supreme Court be called on to review
+the sufficiency of the evidence. If exercised in many
+cases it becomes an impossible burden. That has often
+been noted by the dissenting justices in FELA cases. For
+example, in Wilkerson v. McCarthy, 1948, 336 U.S. 53,
+66, 69 S.Ct. 413, 93 L. Ed. 497, Mr. Justice Frankfurter
+said:
+"Considering the volume and complexity of the cases which
+obviously call for decision by this Court, and considering the time
+and thought that the proper disposition of such cases demands, I do
+not think we should take cases merely to review facts already
+canvassed by two and sometimes three courts even though those
+facts may have been erroneously appraised."
+See also Schulz, Adm'x v. Pennsylvania R. Co., 1956, 350
+U.S. 523, 527, 76 S.Ct. 608, 100 L.Ed. 668.
+I have noted, supra note 19, three diversity cases in
+which the Supreme Court reversed this Circuit per
+curiam when we sought to substitute our views for
+those of the jury. However, most such cases never reach
+the Supreme Court. As said by Mr. Justice Black
+dissenting in Galloway v. United States, 1942, 319 U.S.
+372, 407, 63 S.Ct. 1077, 1096, 87 L.Ed. 1458: "So few of
+these cases come to this Court that, as a matter of fact,
+the judges of the District Courts and the Circuit Courts
+of Appeal are the primary custodians of the
+Amendment."
+On the same page Mr. Justice Black wisely observed
+that, "Our duty to preserve this one of the Bill of Rights
+may be peculiarly difficult, for here it is our own power
+which we must restrain." On the preceding page he had
+remarked that, "The language of the Seventh
+Amendment cannot easily be improved by formulas."
+319 U.S. at 406, 63 S.Ct. at 1095.25 On the other hand,
+Judges both trial and appellate are conscientious in the
+performance of their duties, and they will follow a
+formula or standard prescribed by higher authority
+when it is clear and certain. Such formulas have been
+evolved in the FELA cases and [411 F.2d 392] especially
+in Lavender v. Kurn, supra, formulas which are of
+inestimable aid to the district judges and the judges of
+the Courts of Appeals as "the primary custodians of the
+Amendment." 319 U.S. at 407, 63 S.Ct. at 1096. We
+grievously err when we discard those formulas in
+diversity cases.
+To recapitulate, I submit that the same standard of
+sufficiency of the evidence to require submission of a
+case to the jury applies in diversity cases as in FELA
+cases, for the following reasons: (1) The extreme results
+reached in FELA cases is because of the substantive
+elements of the tort, and not because of any difference in
+the standard of sufficiency of the evidence to preserve
+the right of trial by jury; (2) an action under the FELA is
+a "suit at common law" as that expression is used in the
+Seventh Amendment, and carries the right of jury trial
+under that Amendment; (3) the kind of jury trial
+intended by the FELA as a "part and parcel of the
+remedy" is none other than the Seventh Amendment
+right of jury trial; (4) we cannot assume that the
+Supreme Court, by mere fiat, has invented for FELA
+cases a kind of jury trial found neither in the Act nor in
+the Constitution; (5) neither the Congress nor the
+Supreme Court can constitutionally give a broader role
+to the jury in FELA cases than that guaranteed by the
+Seventh Amendment; (6) the Supreme Court and other
+federal courts have applied the FELA standard in
+diversity cases and other kinds of cases; (7) trial judges
+retain adequate influence over and control of juries
+through their admitted powers to advise on the facts and
+to grant new trials; (8) the formulas evolved in the
+FELA cases and especially in Lavender v. Kurn, supra,
+operate to restore the historic common-law function of
+the jury in passing on disputed questions of fact.
+III.
+"THE SUBSTANTIAL EVIDENCE OR
+REASONABLE MAN TEST"
+Sitting en banc, a majority of this Court "promulgate[s]"
+what it considers to be "the standard" (emphasis added)
+for determining the sufficiency of evidence necessary to
+require submission of a case to the jury. For three
+reasons, I disagree with this newly promulgated
+formula.
+First, the majority expressly overrules the Supreme
+Court's own sufficiency test set out in Lavender v. Kurn,
+supra, 327 U.S. at 653, 66 S.Ct. 740, and rejects Planters
+Mfg. Co. v. Protection Mut. Ins. Co., 5 Cir. 1967, 380
+F.2d 869, 874, which adopted the Lavender standard.26
+The majority, in so doing, commits constitutional error,
+for the Lavender test represents but one articulation of
+several constitutional formulas used by the Supreme
+Court.
+Second, the majority simply has no authority to
+"promulgate" any one standard when the Supreme
+Court itself has prescribed a number of them,27 and has
+[411 F.2d 393] left the door open for further formulas to
+be developed.28
+As has been mentioned, supra pp. 389-390, perhaps the
+most concise and well-accepted Supreme Court
+explanation of the standard is contained in Brady v.
+Southern R. Co., 1943, 320 U.S. 476, 479-480, 64 S.Ct.
+232, 88 L.Ed. 239. See 5 Moore, Federal Practice ¶ 50.02
+[1], p. 2320 (2d ed. 1968) (noting that "the federal courts
+have been reasonably consistent in the application of the
+Brady rule.")
+The wisdom of our forefathers embodied in the Seventh
+Amendment is expressed in a single sentence. Its limits
+are stated as "the right of trial by jury" to be re-examined
+only "according to the rules of the common law." Many
+formulas have been used in the past and more will be
+employed in the future to explain the meaning of those
+phrases. No "promulgation" of this Court can limit the
+freedom of thought and expression of the district judges,
+and it is sheer folly for us to make such an effort. I
+cannot help wondering what this Court would do
+should some independent-minded district court judge
+choose to follow one of the Supreme Court statements
+of the standard instead of the standard announced by the
+majority. There is nothing we could do and we should
+never assume such an untenable position by adopting a
+single formula.
+Third, I disagree with the new standard "established" by
+the majority because it is at least misleading in its use of
+the term "substantial," if it is not erroneous. The word
+"substantial," used in its legal sense, can equally well
+connote either a qualitative or a quantitative meaning.
+This distinction was implicitly recognized and
+effectively avoided by the decision in Planters.See 380
+F.2d at 874. In closing, too, I note that, notwithstanding
+all the variations which the Supreme Court has played
+on its sufficiency theme, I have been unable to find a
+single instance in which the Supreme Court has used
+"substantial"29 in any of its [411 F.2d 394] articulations of
+the constitutional standard.
+What then do I offer as an alternative to the majority
+formula? With the Supreme Court I must conclude that
+"the mere difference in labels used to describe this
+[sufficiency] standard * * * cannot amount to a
+departure from `the rules of the common law' which the
+[Seventh] Amendment requires to be followed."
+Galloway v. United States, 1943, 319 U.S. 372, 395, 63
+S.Ct. 1077, 1089, 87 L.Ed. 1458.
+While some may consider a single formula for the
+standard to be laudable in the name of uniformity, I
+think it is unnecessary. I seek to achieve the purpose of
+the Seventh Amendment — reservation of the
+resolution of factual disputes to the jury alone — not to
+establish one or more preferable formulas for the
+standard. And this purpose is perhaps best amplified in
+the language of Lavender and Planters. If I had to choose
+a single formula, my choice would lie among three: (a)
+the language of Lavender; (b) the "Brady rule," quoted
+heretofore on pages 389-390 and again referred to on
+page 393; (c) the same formula as that for granting a
+summary judgment, quoted in footnote 28, supra.
+IV.
+CONSIDERATION OF THE MERITS
+I concur in the judgment of affirmance, but for the
+reasons expressed in the original Boeing opinion.
+CONCLUSION
+To correct our previous errors, the Court should modify
+Boeing to the extent that it incorporates a
+misconception of Wilkerson v. McCarthy, supra, with
+respect to what evidence is reviewed, should withdraw
+the expression of doubt as to the continued validity of
+the holding in Reuter v. Eastern Air Lines, supra, and
+should reiterate the fundamental validity of Planters
+Manufacturing Co. v. Protection Mut. Ins. Co., supra.
+I therefore concur in part and dissent in part.

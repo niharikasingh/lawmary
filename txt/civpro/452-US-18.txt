@@ -1,0 +1,532 @@
+I
+In the late spring of 1975, after hearing evidence that the
+petitioner, Abby Gail Lassiter, had not provided her
+infant son William with proper medical care, the
+District Court of Durham County, N. C., adjudicated
+him a neglected child and transferred him to the custody
+of the Durham County Department of Social Services,
+the respondent here. A year later, Ms. Lassiter was
+charged with first-degree murder, was convicted of
+second-degree murder, and began a sentence of 25 to 40
+years of imprisonment.
+1 
+ In 1978 the Department 
+[452
+U.S. 21]
+ petitioned the court to terminate Ms. Lassiter's
+parental rights because, the Department alleged, she
+"has not had any contact with the child since December
+of 1975" and "has willfully left the child in foster care for
+more than two consecutive years without showing that
+substantial progress has been made in correcting the
+conditions which led to the removal of the child, or
+without showing a positive response to the diligent
+efforts of the Department of Social Services to
+strengthen her relationship to the child, or to make and
+follow through with constructive planning for the
+future of the child."
+Ms. Lassiter was served with the petition and with
+notice that a hearing on it would be held. Although her
+mother had retained counsel for her in connection with
+an effort to invalidate the murder conviction, Ms.
+Lassiter never mentioned the forthcoming hearing to
+him (or, for that matter, to any other person except, she
+said, to "someone" in the prison). At the behest of the
+Department of Social Services' attorney, she was
+brought from prison to the hearing, which was held
+August 31, 1978. The hearing opened, apparently at the
+judge's instance, with a discussion of whether Ms.
+Lassiter should have more time in which to find legal
+assistance. 
+[452 U.S. 22]
+ Since the court concluded that
+she "has had ample opportunity to seek and obtain
+counsel prior to the hearing of this matter, and [that]
+her failure to do so is without just cause," the court did
+not postpone the proceedings. Ms. Lassiter did not aver
+that she was indigent, and the court did not appoint
+counsel for her.
+A social worker from the respondent Department was
+the first witness. She testified that in 1975 the
+Department "received a complaint from Duke Pediatrics
+that William had not been followed in the pediatric
+clinic for medical problems and that they were having
+difficulty in locating Ms. Lassiter. . . ." She said that in
+May 1975 a social worker had taken William to the
+hospital, where doctors asked that he stay "because of
+breathing difficulties [and] malnutrition and [because]
+there was a great deal of scarring that indicated that he
+had a severe infection that had gone untreated." The
+witness further testified that, except for one
+"prearranged" visit and a chance meeting on the street,
+Ms. Lassiter had not seen William after he had come
+into the State's custody, and that neither Ms. Lassiter
+nor her mother had "made any contact with the
+Department of Social Services regarding that child."
+When asked whether William should be placed in his
+grandmother's custody, the social worker said he should
+not, since the grandmother "has indicated to me on a
+number of occasions that she was not able to take
+responsibility for the child" and since "I have checked
+with people in the community and from Ms. Lassiter's
+church who also feel that this additional responsibility
+would be more than she can handle." The social worker
+added that William "has not seen his grandmother since
+the chance meeting in July of '76 and that was the only
+time."
+After the direct examination of the social worker, the
+judge said:
+"I notice we made extensive findings in June of '75 that you were
+served with papers and called the social 
+[452 U.S. 23]
+ services and
+told them you weren't coming; and the serious lack of medical
+treatment. And, as I have said in my findings of the 16th day of June
+'75, the Court finds that the grandmother, Ms. Lucille Lassiter,
+mother of Abby Gail Lassiter, filed a complaint on the 8th day of
+May, 1975, alleging that the daughter often left the children,
+Candina, Felicia and William L. with her for days without
+providing money or food while she was gone."
+Ms. Lassiter conducted a cross-examination of the social
+worker, who firmly reiterated her earlier testimony.
+The judge explained several times, with varying degrees
+of clarity, that Ms. Lassiter should only ask questions at
+this stage; many of her questions were disallowed
+because they were not really questions, but arguments.
+Ms. Lassiter herself then testified, under the judge's
+questioning, that she had properly cared for William.
+Under cross-examination, she said that she had seen
+William more than five or six times after he had been
+taken from her custody and that, if William could not be
+with her, she wanted him to be with her mother since,
+"He knows us. Children know they family. . . . They
+know they people, they know they family and that child
+knows us anywhere. . . . I got four more other children.
+Three girls and a boy and they know they little brother
+when they see him."
+Ms. Lassiter's mother was then called as a witness. She
+denied, under the questioning of the judge, that she had
+filed the complaint against Ms. Lassiter, and on cross-
+examination she denied both having failed to visit
+William when he was in the State's custody and having
+said that she could not care for him.
+The court found that Ms. Lassiter "has not contacted the
+Department of Social Services about her child since
+December, 1975, has not expressed any concern for his
+care and welfare, and has made no efforts to plan for his
+future." Because 
+[452 U.S. 24]
+ Ms. Lassiter thus had
+"wilfully failed to maintain concern or responsibility for
+the welfare of the minor," and because it was "in the best
+interests of the minor," the court terminated Ms.
+Lassiter's status as William's parent.
+2
+On appeal, Ms. Lassiter argued only that, because she
+was indigent, the Due Process Clause of the Fourteenth
+Amendment entitled her to the assistance of counsel,
+and that the trial court had therefore erred in not
+requiring the State to provide counsel for her. The
+North Carolina Court of Appeals decided that "[w]hile
+this State action does invade a protected area of
+individual privacy, the invasion is not so serious or
+unreasonable as to compel us to hold that appointment
+of counsel for indigent parents is constitutionally
+mandated." In re Lassiter, 43 N.C. App. 525, 527, 259
+S.E.2d 336, 337. The Supreme Court of North Carolina
+summarily denied Ms. Lassiter's application for
+discretionary review, 299 N.C. 120, 262 S.E.2d 6, and we
+granted certiorari to consider the petitioner's claim
+under the Due Process Clause of the Fourteenth
+Amendment, 449 U.S. 819.
+II
+For all its consequence, "due process" has never been,
+and perhaps can never be, precisely defined. "[U]nlike
+some legal rules," this Court has said, due process "is not
+a technical conception with a fixed content unrelated to
+time, place and circumstances." Cafeteria Workers v.
+McElroy, 367 U.S. 886, 895. Rather, the phrase
+expresses the requirement of "fundamental fairness," a
+requirement whose meaning can be as opaque as its
+importance is lofty. Applying the Due Process Clause is
+therefore an uncertain enterprise which 
+[452 U.S. 25]
+must discover what "fundamental fairness" consists of in
+a particular situation by first considering any relevant
+precedents and then by assessing the several interests
+that are at stake.
+A
+The pre-eminent generalization that emerges from this
+Court's precedents on an indigent's right to appointed
+counsel is that such a right has been recognized to exist
+only where the litigant may lose his physical liberty if he
+loses the litigation. Thus, when the Court overruled the
+principle of Betts v. Brady, 316 U.S. 455, that counsel in
+criminal trials need be appointed only where the
+circumstances in a given case demand it, the Court did
+so in the case of a man sentenced to prison for five
+years. Gideon v. Wainwright, 372 U.S. 335. And thus
+Argersinger v. Hamlin, 407 U.S. 25, established that
+counsel must be provided before any indigent may be
+sentenced to prison, even where the crime is petty and
+the prison term brief.
+That it is the defendant's interest in personal freedom,
+and not simply the special Sixth and Fourteenth
+Amendments right to counsel in criminal cases, which
+triggers the right to appointed counsel is demonstrated
+by the Court's announcement in In re Gault, 387 U.S. 1,
+that "the Due Process Clause of the Fourteenth
+Amendment requires that in respect of proceedings to
+determine delinquency which may result in
+commitment to an institution in which the juvenile's
+freedom is curtailed, " the juvenile has a right to
+appointed counsel even though those proceedings may
+be styled "civil" and not "criminal." Id., at 41 (emphasis
+added). Similarly, four of the five Justices who reached
+the merits in Vitek v. Jones, 445 U.S. 480, concluded
+that an indigent prisoner is entitled to appointed
+counsel before being involuntarily transferred for
+treatment to a state mental hospital. The fifth Justice
+differed from the other four only in declining to exclude
+the "possibility that the required assistance 
+[452 U.S. 26]
+may be rendered by competent laymen in some cases."
+Id., at 500 (separate opinion of POWELL, J.).
+Significantly, as a litigant's interest in personal liberty
+diminishes, so does his right to appointed counsel. In
+Gagnon v. Scarpelli, 411 U.S. 778, the Court gauged the
+due process rights of a previously sentenced probationer
+at a probation-revocation hearing. In Morrissey v.
+Brewer, 408 U.S. 471, 480, which involved an analogous
+hearing to revoke parole, the Court had said:
+"Revocation deprives an individual, not of the absolute
+liberty to which every citizen is entitled, but only of the
+conditional liberty properly dependent on observance of
+special parole restrictions." Relying on that discussion,
+the Court in Scarpelli declined to hold that indigent
+probationers have, per se, a right to counsel at
+revocation hearings, and instead left the decision
+whether counsel should be appointed to be made on a
+case-by-case basis.
+Finally, the Court has refused to extend the right to
+appointed counsel to include prosecutions which,
+though criminal, do not result in the defendant's loss of
+personal liberty. The Court in Scott v. Illinois, 440 U.S.
+367, for instance, interpreted the "central premise of
+Argersinger" to be "that actual imprisonment is a
+penalty different in kind from fines or the mere threat of
+imprisonment," and the Court endorsed that premise as
+"eminently sound and warrant[ing] adoption of actual
+imprisonment as the line defining the constitutional
+right to appointment of counsel." Id., at 373. The Court
+thus held "that the Sixth and Fourteenth Amendments
+to the United States Constitution require only that no
+indigent criminal defendant be sentenced to a term of
+imprisonment unless the State has afforded him the
+right to assistance of appointed counsel in his defense."
+Id., at 373-374.
+In sum, the Court's precedents speak with one voice
+about what "fundamental fairness" has meant when the
+Court has considered the right to appointed counsel,
+and we thus draw from them the presumption that an
+indigent litigant has a 
+[452 U.S. 27]
+ right to appointed
+counsel only when, if he loses, he may be deprived of his
+physical liberty. It is against this presumption that all the
+other elements in the due process decision must be
+measured.
+B
+The case of Mathews v. Eldridge, 424 U.S. 319, 335,
+propounds three elements to be evaluated in deciding
+what due process requires, viz., the private interests at
+stake, the government's interest, and the risk that the
+procedures used will lead to erroneous decisions. We
+must balance these elements against each other, and
+then set their net weight in the scales against the
+presumption that there is a right to appointed counsel
+only where the indigent, if he is unsuccessful, may lose
+his personal freedom.
+This Court's decisions have by now made plain beyond
+the need for multiple citation that a parent's desire for
+and right to "the companionship, care, custody, and
+management of his or her children" is an important
+interest that "undeniably warrants deference and, absent
+a powerful countervailing interest, protection." Stanley
+v. Illinois, 405 U.S. 645, 651. Here the State has sought
+not simply to infringe upon that interest, but to end it. If
+the State prevails, it will have worked a unique kind of
+deprivation. Cf. May v. Anderson, 345 U.S. 528, 533;
+Armstrong v. Manzo, 380 U.S. 545. A parent's interest
+in the accuracy and justice of the decision to terminate
+his or her parental status is, therefore, a commanding
+one.
+3
+Since the State has an urgent interest in the welfare of
+the child, it shares the parent's interest in an accurate
+and just decision. For this reason, the State may share
+the indigent parent's interest in the availability of
+appointed counsel. 
+[452 U.S. 28]
+ If, as our adversary
+system presupposes, accurate and just results are most
+likely to be obtained through the equal contest of
+opposed interests, the State's interest in the child's
+welfare may perhaps best be served by a hearing in
+which both the parent and the State acting for the child
+are represented by counsel, without whom the contest
+of interests may become unwholesomely unequal. North
+Carolina itself acknowledges as much by providing that
+where a parent files a written answer to a termination
+petition, the State must supply a lawyer to represent the
+child. N. C. Gen. Stat. 
+§
+ 7A-289.29 (Supp. 1979).
+The State's interests, however, clearly diverge from the
+parent's insofar as the State wishes the termination
+decision to be made as economically as possible and thus
+wants to avoid both the expense of appointed counsel
+and the cost of the lengthened proceedings his presence
+may cause. But though the State's pecuniary interest is
+legitimate, it is hardly significant enough to overcome
+private interests as important as those here, particularly
+in light of the concession in the respondent's brief that
+the "potential costs of appointed counsel in termination
+proceedings . . . is [sic] admittedly de minimis compared
+to the costs in all criminal actions."
+Finally, consideration must be given to the risk that a
+parent will be erroneously deprived of his or her child
+because the parent is not represented by counsel. North
+Carolina law now seeks to assure accurate decisions by
+establishing the following procedures: A petition to
+terminate parental rights may be filed only by a parent
+seeking the termination of the other parent's rights, by a
+county department of social services or licensed child-
+placing agency with custody of the child, or by a person
+with whom the child has lived continuously for the two
+years preceding the petition. 
+§
+ 7A-289.24. A petition
+must describe facts sufficient to warrant a finding that
+one of the grounds for termination exists, 
+§
+ 7A-289.25
+(6), and the parent must be notified of the petition and
+given 30 days in which to file a written answer to it,
+[452 U.S. 29]
+§
+ 7A-289.27. If that answer denies a
+material allegation, the court must, as has been noted,
+appoint a lawyer as the child's guardian ad litem and
+must conduct a special hearing to resolve the issues
+raised by the petition and the answer. 
+§
+ 7A-289.29. If
+the parent files no answer, "the court shall issue an order
+terminating all parental and custodial rights . . . ;
+provided the court shall order a hearing on the petition
+and may examine the petitioner or others on the facts
+alleged in the petition." 
+§
+ 7A-289.28. Findings of fact are
+made by a court sitting without a jury and must "be
+based on clear, cogent, and convincing evidence." 
+§
+ 7A-
+289.30. Any party may appeal who gives notice of appeal
+within 10 days after the hearing. 
+§
+ 7A-289.34.
+4
+The respondent argues that the subject of a termination
+hearing—the parent's relationship with her child—far
+from being abstruse, technical, or unfamiliar, is one as
+to which the parent must be uniquely well informed and
+to which the parent must have given prolonged thought.
+The respondent also contends that a termination
+hearing is not likely to produce difficult points of
+evidentiary law, or even of substantive law, since the
+evidentiary problems peculiar to criminal trials are not
+present and since the standards for termination are not
+complicated. In fact, the respondent reports, the North
+Carolina Departments of Social Services are themselves
+sometimes represented at termination hearings by social
+workers instead of by lawyers.
+5
+[452 U.S. 30]
+ Yet the ultimate issues with which a
+termination hearing deals are not always simple,
+however commonplace they may be. Expert medical and
+psychiatric testimony, which few parents are equipped
+to understand and fewer still to confute, is sometimes
+presented. The parents are likely to be people with little
+education, who have had uncommon difficulty in
+dealing with life, and who are, at the hearing, thrust into
+a distressing and disorienting situation. That these
+factors may combine to overwhelm an uncounseled
+parent is evident from the findings some courts have
+made. See, e. g., Davis v. Page, 442 F.Supp. 258, 261 (SD
+Fla. 1977); State v. Jamison, 251 Or. 114, 117-118, 444
+P.2d 15, 17 (1968). Thus, courts have generally held that
+the State must appoint counsel for indigent parents at
+termination proceedings. State ex rel. Heller v. Miller,
+61 Ohio St.2d 6, 399 N.E.2d 66 (1980); Department of
+Public Welfare v. J. K. B., 379 Mass. 1, 393 N.E.2d 406
+(1979); In re Chad S., 580 P.2d 983 (Okla. 1978); In re
+Myricks, 85 Wn.2d 252, 533 P.2d 841 (1975); Crist v.
+Division of Youth and Family Services, 128 N.J.Super.
+102, 320 A.2d 203 (1974); Danforth v. Maine Dept. of
+Health and Welfare, 303 A.2d 794 (Me. 1973); In re
+Friesz, 190 Neb. 347, 208 N.W.2d 259 (1973).
+6 
+ The
+respondent is able to point to no presently authoritative
+case, except for the North Carolina 
+[452 U.S. 31]
+judgment now before us, holding that an indigent
+parent has no due process right to appointed counsel in
+termination proceedings.
+C
+The dispositive question, which must now be addressed,
+is whether the three Eldridge factors, when weighed
+against the presumption that there is no right to
+appointed counsel in the absence of at least a potential
+deprivation of physical liberty, suffice to rebut that
+presumption and thus to lead to the conclusion that the
+Due Process Clause requires the appointment of counsel
+when a State seeks to terminate an indigent's parental
+status. To summarize the above discussion of the
+Eldridge factors: the parent's interest is an extremely
+important one (and may be supplemented by the
+dangers of criminal liability inherent in some
+termination proceedings); the State shares with the
+parent an interest in a correct decision, has a relatively
+weak pecuniary interest, and, in some but not all cases,
+has a possibly stronger interest in informal procedures;
+and the complexity of the proceeding and the incapacity
+of the uncounseled parent could be, but would not
+always be, great enough to make the risk of an
+erroneous deprivation of the parent's rights
+insupportably high.
+If, in a given case, the parent's interests were at their
+strongest, the State's interests were at their weakest, and
+the risks of error were at their peak, it could not be said
+that the Eldridge factors did not overcome the
+presumption against the right to appointed counsel, and
+that due process did not therefore require the
+appointment of counsel. But since the Eldridge factors
+will not always be so distributed, and since "due process
+is not so rigid as to require that the significant interests
+in informality, flexibility and economy must always be
+sacrificed," Gagnon v. Scarpelli, 411 U. S., at 788,
+neither can we say that the Constitution requires the
+appointment of counsel in every parental termination
+proceeding. We therefore adopt the standard found
+appropriate in Gagnon v. Scarpelli, 
+[452 U.S. 32]
+ and
+leave the decision whether due process calls for the
+appointment of counsel for indigent parents in
+termination proceedings to be answered in the first
+instance by the trial court, subject, of course, to appellate
+review. See, e. g., Wood v. Georgia, 450 U.S. 261.
+III
+Here, as in Scarpelli, "[i]t is neither possible nor prudent
+to attempt to formulate a precise and detailed set of
+guidelines to be followed in determining when the
+providing of counsel is necessary to meet the applicable
+due process requirements," since here, as in that case,
+"[t]he facts and circumstances . . . are susceptible of
+almost infinite variation. . . ." 411 U. S., at 790.
+Nevertheless, because child-custody litigation must be
+concluded as rapidly as is consistent with fairness,
+7 
+ we
+decide today whether the trial judge denied Ms. Lassiter
+due process of law when he did not appoint counsel for
+her.
+The respondent represents that the petition to
+terminate Ms. Lassiter's parental rights contained no
+allegations of neglect or abuse upon which criminal
+charges could be based, and hence Ms. Lassiter could not
+well have argued that she required counsel for that
+reason. The Department of Social Services was
+represented at the hearing by counsel, but no expert
+witnesses testified, and the case presented no specially
+troublesome points of law, either procedural or
+substantive. While hearsay evidence was no doubt
+admitted, and while Ms. Lassiter no doubt left
+incomplete her defense that the Department had not
+adequately assisted her in rekindling her interest in her
+son, the weight of the evidence that she had few sparks
+of such an interest was sufficiently great that the 
+[452
+U.S. 33]
+ presence of counsel for Ms. Lassiter could not
+have made a determinative difference. True, a lawyer
+might have done more with the argument that William
+should live with Ms. Lassiter's mother—but that
+argument was quite explicity made by both Lassiters,
+and the evidence that the elder Ms. Lassiter had said she
+could not handle another child, that the social worker's
+investigation had led to a similar conclusion, and that
+the grandmother had displayed scant interest in the
+child once he had been removed from her daughter's
+custody was, though controverted, sufficiently
+substantial that the absence of counsel's guidance on this
+point did not render the proceedings fundamentally
+unfair.
+8 
+ Finally, a court deciding whether due process
+requires the appointment of counsel need not ignore a
+parent's plain demonstration that she is not interested in
+attending a hearing. Here, the trial court had previously
+found that Ms. Lassiter had expressly declined to appear
+at the 1975 child custody hearing, Ms. Lassiter had not
+even bothered to speak to her retained lawyer after
+being notified of the termination hearing, and the court
+specifically found that Ms. Lassiter's failure to make an
+effort to contest the termination proceeding was
+without cause. In view of all these circumstances, we
+hold that the trial court did not err in failing to appoint
+counsel for Ms. Lassiter.
+IV
+In its Fourteenth Amendment, our Constitution
+imposes on the States the standards necessary to ensure
+that judicial proceedings are fundamentally fair. A wise
+public policy, however, may require that higher
+standards be adopted than those minimally tolerable
+under the Constitution. Informed opinion has clearly
+come to hold that an indigent parent is 
+[452 U.S. 34]
+entitled to the assistance of appointed counsel not only
+in parental termination proceedings, but in dependency
+and neglect proceedings as well. IJA-ABA Standards for
+Juvenile Justice, Counsel for Private Parties 2.3 (b)
+(1980); Uniform Juvenile Court Act 
+§
+ 26 (a), 9A U. L. A.
+35 (1979); National Council on Crime and Delinquency,
+Model Rules for Juvenile Courts, Rule 39 (1969); U. S.
+Dept. of HEW, Children's Bureau, Legislative Guide for
+Drafting Family and Juvenile Court Acts 
+§
+ 25 (b) (1969);
+U. S. Dept. of HEW, Children's Bureau, Legislative
+Guides for the Termination of Parental Rights and
+Responsibilities and the Adoption of Children, Pt. II, 
+§
+ 8
+(1961); National Council on Crime and Delinquency,
+Standard Juvenile Court Act 
+§
+ 19 (1959). Most
+significantly, 33 States and the District of Columbia
+provide statutorily for the appointment of counsel in
+termination cases. The Court's opinion today in no way
+implies that the standards increasingly urged by
+informed public opinion and now widely followed by
+the States are other than enlightened and wise.
+For the reasons stated in this opinion, the judgment is
+affirmed.
+It is so ordered.

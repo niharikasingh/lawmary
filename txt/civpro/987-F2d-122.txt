@@ -1,0 +1,488 @@
+Plaintiffs-appellants Sebastian and Maria Shaumyan
+("the Shaumyans") brought this 42 U.S.C. § 1983 action
+as a class action on behalf of themselves and others
+against defendant-appellee Sidetex Company, Inc.
+("Sidetex") and its attorney, defendant-appellee Steven
+Rolnick.1 In their complaint, [987 F.2d 123] the
+Shaumyans alleged that the defendants deprived them of
+their property rights without due process by attaching
+their home pursuant to Connecticut's prejudgment
+attachment statute, Conn.Gen.Stat. § 52-278e(a)(1)
+(1991). Section 52-278e(a)(1) permits a plaintiff to
+attach a defendant's real property in the absence of a
+predeprivation hearing and without requiring that the
+plaintiff post a security bond. The district court granted
+the defendants' motion for summary judgment and
+dismissed the Shaumyans' complaint. See Shaumyan v.
+O'Neill, 716 F.Supp. 65 (D.Conn.1989) ("Shaumyan I").
+In a subsequent opinion, the district court reconsidered
+its prior decision in light of the Supreme Court's
+decision in Connecticut v. Doehr, ___ U.S. ___, 111
+S.Ct. 2105, 115 L.Ed.2d 1 (1991), and reaffirmed its
+earlier holding that Connecticut's statute was
+constitutional as applied to the case before it. See
+Shaumyan v. O'Neill, 795 F.Supp. 528 (D.Conn.1992)
+("Shaumyan II"). For the reasons set forth below, we
+affirm the district court's finding that section 52-
+278e(a)(1) is constitutional as applied to this debtorcreditor
+dispute.
+BACKGROUND
+Sebastian Shaumyan, a professor of linguistics at Yale
+University, and his wife, Maria Shaumyan, contracted
+with Sidetex on November 10, 1986 for repairs to be
+made to their home in New Haven, Connecticut. The
+repairs included painting as well as the installation of
+siding, storm windows, doors and shutters. The total
+contract price was $14,800.00. The contract specified
+that the Shaumyans were to pay a $3000 deposit, $4000
+at the commencement of work, $3900 when the work
+was half completed, $1950 upon the completion of the
+siding, and $1950 upon the completion of the storm
+windows and shutters. After Sidetex had completed its
+performance, a dispute arose over the quality of the
+storm windows. In an attempt to satisfy the Shaumyans,
+Sidetex installed new storm windows and charged the
+Shaumyans an additional $1800, representing only the
+cost of materials and labor. This additional work was
+described in a change order executed by Professor
+Shaumyan and a representative of Sidetex. After Sidetex
+installed the new windows, the Shaumyans refused to
+pay an outstanding balance of $3900 due on the original
+contract and the $1800 balance due on the change order.
+Sidetex retained Steven Rolnick, who applied for an ex
+parte prejudgment attachment writ against the
+Shaumyans' home, pursuant to section 52-278e(a)(1), by
+submitting an affidavit of probable cause and a copy of
+Sidetex's complaint to a Connecticut Superior Court
+judge on July 28, 1987. The affidavit of probable cause
+was signed by Paul Knapp, the President of Sidetex, and
+stated that: the Shaumyans had signed a contract with
+Sidetex to install storm windows in their home; the
+contract price was $14,800.00; Sidetex performed its
+obligations under the contract; the Shaumyans refused
+to pay the $5700 balance due despite repeated demands
+by Sidetex; there were no set-offs, defenses or
+counterclaims against the outstanding debt; and there
+was "probable cause to sustain the validity of the
+plaintiff's claim." The superior court judge granted
+Sidetex's application on July 30, ordering an attachment
+in favor of Sidetex in the amount of $6300. Sidetex then
+filed a breach of contract action in Connecticut Superior
+Court against the Shaumyans. See Sidetex Co. v.
+Shaumyan, No. CV 87-0261076 (Conn.Super.Ct. June
+21, 1989).
+While Sidetex's state court action was pending, the
+Shaumyans filed this action in the district court on
+October 19, 1987 against Sidetex and Rolnick seeking: a
+declaratory judgment that section 52-278e(a)(1) was
+unconstitutional; an injunction prohibiting Sidetex from
+attaching their real property; and compensatory and
+punitive damages together with costs and attorneys'
+fees. In response to the Shaumyans' suit, Sidetex released
+the July 30 ex parte attachment on November 6 and
+began [987 F.2d 124] proceedings to obtain an
+attachment after a plenary hearing. After holding a
+hearing on December 14, 1987, a Connecticut Superior
+Court judge granted Sidetex's motion to attach the
+Shaumyans' home in the amount of $6500. This
+attachment was recorded on January 12, 1988. On June
+21, 1989, the Connecticut Superior Court entered final
+judgment in favor of Sidetex on its breach of contract
+claim for $5700 — six hundred dollars less than the
+amount of its original attachment against the
+Shaumyans' home. Six days later, the district court
+granted Sidetex's motion for summary judgment and
+dismissed the Shaumyans' complaint.
+On appeal, we remanded the case to the district court
+for reconsideration in light of the Supreme Court's
+opinion in Connecticut v. Doehr, ___ U.S. ___, 111 S.Ct.
+2105, 115 L.Ed.2d 1 (1991), affirming our decision in
+Pinsky v. Duncan, 898 F.2d 852 (2d Cir.1990), that
+Connecticut's prejudgment attachment statute was
+unconstitutional as applied to intentional tortfeasors.
+On remand, the district court affirmed its earlier
+decision upholding the constitutionality of the
+Connecticut statute as it was applied to the Shaumyans.
+The Shaumyans appeal from the judgment of the district
+court.
+DISCUSSION
+I.
+Section 52-278e(a)(1) authorizes the prejudgment
+attachment of real property without affording prior
+notice or the opportunity for a prior hearing to the
+individual whose property is the subject of attachment.
+Conn.Gen.Stat. § 52-278e(a)(1) (1991). The statute also
+does not require a plaintiff to post a security bond to
+insure the payment of damages that a defendant may
+suffer if the attachment is later found to be wrongly
+issued or the claim proves to be unsuccessful. The
+statute does require the plaintiff to submit an affidavit of
+probable cause to a judge, who must then determine
+whether the plaintiff has demonstrated a likelihood that
+he will succeed on the merits before granting the writ of
+attachment. Id. The statute also provides for notice to be
+given to the defendant after the attachment, informing
+him that he has the right to a postdeprivation hearing:
+to claim that no probable cause existed to sustain the
+claim; to request that the attachment be vacated,
+modified or that a bond be substituted; or to claim that
+some portion of the attached property was exempt from
+the execution. Id. § 52-278e(b). In the event that a
+defendant chooses to exercise his right to a
+postdeprivation hearing, the court must hold such a
+hearing within seven business days after the defendant
+requests one. Id. § 52-278e(c). On appeal, the
+Shaumyans argue that section 52-278e(a)(1) is
+unconstitutional because it fails to provide for a
+predeprivation hearing and because it fails to provide
+for the posting of a bond. Before addressing these
+arguments, we first summarize the Supreme Court cases
+addressing the constitutionality of prejudgment
+attachment statutes.
+In Sniadach v. Family Finance Corp. of Bay View, 395
+U.S. 337, 89 S.Ct. 1820, 23 L.Ed.2d 349 (1969), the
+Supreme Court held that a Wisconsin statute permitting
+the prejudgment garnishment of a debtor's wages
+without prior notice or a hearing violated the Due
+Process Clause of the Fourteenth Amendment. The
+Court took care to note that the statute allowed a court
+clerk rather than a judge to garnish a defendant's wages
+at the request of the creditor's attorney, id. at 338, 89
+S.Ct. at 1821, and noted further that wages were "a
+specialized type of property presenting distinct problems
+in our economic system," id. at 340, 89 S.Ct. at 1822.
+Three years after Sniadach was decided, the Court in
+Fuentes v. Shevin, 407 U.S. 67, 92 S.Ct. 1983, 32 L.Ed.2d
+556 (1972), invalidated Florida and Pennsylvania
+replevin statutes on due process grounds. The Florida
+statute allowed a creditor to seize the personal property
+of a debtor without a showing of probable cause,
+without judicial supervision, and without prior notice or
+a hearing. Id. at 73-74, 93, 92 S.Ct. at 1991, 2000. The
+Pennsylvania statute not only lacked the same
+procedural safeguards as the Florida statute but also
+failed to provide for a postdeprivation hearing. [987
+F.2d 125] Id. at 75, 92 S.Ct. at 1991. Both statutes
+required the plaintiff-creditor to post a security bond
+equal to double the amount of the seized property.
+Notwithstanding the security bond provisions in the
+statutes, the Court found the procedural safeguards to be
+inadequate and thus extended the due process
+protections it established in Sniadach to include a
+debtor's possessory interest in the use and enjoyment of
+his personal property, id. at 84, 92 S.Ct. at 1996.
+In Mitchell v. W.T. Grant Co., 416 U.S. 600, 94 S.Ct.
+1895, 40 L.Ed.2d 406 (1974), the Court declined to strike
+down on due process grounds a Louisiana statute that
+permitted a creditor-lienholder to seek the sequestration
+of disputed goods in an ex parte proceeding. In its
+decision, the Court noted that the statute: required a
+creditor to present a fact-specific affidavit to a judge;
+required a creditor to post a security bond; required the
+judge to hold a postdeprivation hearing immediately;
+and allowed the debtor to regain interim possession of
+the property by filing a substitute bond. Id. at 605-07, 94
+S.Ct. at 1899-1900.
+In the same year that it decided Mitchell, the Court
+affirmed without opinion Spielman-Fond, Inc. v.
+Hanson's, Inc., 379 F.Supp. 997 (D.Ariz.1973) (per
+curiam), aff'd mem., 417 U.S. 901, 94 S.Ct. 2596, 41
+L.Ed.2d 208 (1974). In Spielman-Fond, a three-judge
+court declined to strike down Arizona's mechanic's lien
+statute on due process grounds even though the statute
+did not have the procedural safeguards that were present
+in Mitchell. The district court upheld the statute because
+it did not consider the encumbrance placed on the real
+property by the mechanic's lien to be a "taking of a
+significant property interest." 379 F.Supp. at 999.
+In North Georgia Finishing, Inc. v. DiChem, Inc., 419
+U.S. 601, 95 S.Ct. 719, 42 L.Ed.2d 751 (1975), the Court
+struck down Georgia's prejudgment garnishment
+statute, which allowed a creditor to obtain an ex parte
+writ garnishing a debtor's bank account after submitting
+an affidavit containing only conclusory allegations to a
+court clerk. Like the statutes in Fuentes, the Georgia
+statute also required a creditor to post a bond equal to
+double the amount of the debt due, and it allowed a
+debtor to regain possession of the property by filing a
+substitute bond. The Court held that, like the statutes in
+Fuentes, the Georgia statute violated the Due Process
+Clause because it lacked any requirement for an affidavit
+of probable cause, or judicial oversight and included no
+provision for a hearing.
+Finally, in Doehr, supra, the Court struck down the
+statute implicated here as applied to defendants in
+intentional tort cases. The Doehr Court applied the
+three-prong test first articulated in Mathews v. Eldridge,
+424 U.S. 319, 335, 96 S.Ct. 893, 903, 47 L.Ed.2d 18
+(1976), to determine whether Connecticut's
+prejudgment attachment statute violated the Due
+Process Clause. First, the court must consider the
+private interests that will be affected by the prejudgment
+measure. Second, the court must examine the risk of
+erroneous deprivation through the procedures under
+attack and the probable value of additional or alternative
+safeguards. And third, the court must consider the
+interest of the party seeking the prejudgment remedy.
+Doehr, ___ U.S. at ___, 111 S.Ct. at 2112. With respect
+to the first prong, the Doehr Court ruled that an
+attachment affects a significant interest in real property
+even though the attachment of that interest did not
+amount to a complete, permanent deprivation of the
+property. Id. at ___, 111 S.Ct. at 2113. With respect to
+the second prong, the Doehr Court struck down the
+application of section 52-278e(a)(1) to tortfeasors
+because it found the risk of an erroneous deprivation to
+be substantial. Id. at ___, 111 S.Ct. at 2114. The low
+standard of proof required in the affidavit of probable
+cause combined with the inability of a court to predict
+with precision the outcome of an intentional tort case
+with all of its complex variables outweighed the
+procedural safeguards provided by the postdeprivation
+hearing. Id. In applying the third prong of its test, the
+Doehr Court found that the plaintiff had no existing
+interest in the defendant's real property [987 F.2d 126]
+when he sought the attachment. His only interest in
+attaching the property was to ensure the availability of
+assets to satisfy his judgment if he prevailed on the
+merits of his tort action. Id. at ____, 111 S.Ct. at 2115.
+Five members of the Doehr Court declined to address
+the issue of whether the failure of section 52-278e(a)(1)
+to require that a plaintiff post a security bond violated
+the Due Process Clause. A plurality of four Justices,
+however, reached this issue and stated that due process
+required a plaintiff to post a security bond to obtain a
+prejudgment attachment. The plurality reasoned that a
+bond was especially necessary in tort cases because it
+provided an extra measure of protection against the
+danger of wrongful attachment in such unpredictable
+cases. Id. at ___, 111 S.Ct. at 2117. Having reviewed the
+Supreme Court's decisions discussing due process and
+prejudgment attachments, we now proceed to address
+the substance of the Shaumyans' arguments.
+II.
+A.
+The Shaumyans first argue that section 52-278e(a)(1) is
+unconstitutional on its face because it fails to provide for
+a predeprivation hearing, as the Doehr Court required
+in intentional tort cases. In determining whether a
+statute violates the Due Process Clause, we begin with
+the "truism that `[d]ue process unlike some legal rules, is
+not a technical conception with a fixed content
+unrelated to time, place and circumstances.'" Doehr, at
+___, 111 S.Ct. at 2112 (quoting Mathews, 424 U.S. at
+334, 96 S.Ct. at 902). We therefore decline to accept the
+Shaumyans' invitation to determine whether section 52-
+278e(a)(1) is prima facie unconstitutional. Rather, as in
+Doehr, we will determine whether the statute is
+unconstitutional as applied to the Shaumyans. See
+Doehr, ___ U.S. at ___, 111 S.Ct. at 2109 ("We hold
+that, as applied to this case, [section 52-278e(a)(1)] does
+not [satisfy the Due Process Clause].") (emphasis added).
+(1)
+In considering the private interests that will be affected
+by section 52-278e(a)(1), we find that the same property
+interests that were threatened by the application of
+section 52-278e(a)(1) to intentional tortfeasors in Doehr
+are present here. Like the property owner in Doehr, an
+attachment of the Shaumyans' home would cloud its
+title, impair their ability to sell or otherwise alienate
+their property, taint their credit rating, reduce their
+chances of obtaining a home equity loan or an additional
+mortgage, and possibly cause any existing mortgage to
+be cast into default. See id. at ___, 111 S.Ct. at 2113.
+Thus, applying the first prong set forth in Doehr
+supports the Shaumyans' position.
+(2)
+In applying the second prong of the Doehr test, we do
+not find that the application of section 52-278e(a)(1) to
+the Shaumyans would create a substantial risk of
+erroneous deprivation. See id. at ___, 111 S.Ct. at 2113.
+In determining that the submission of an affidavit of
+probable cause to a judge did not satisfy the Due Process
+Clause, the Doehr Court noted that this procedure did
+not protect the defendant against the uncertainties that
+are associated with intentional tort cases: "Unlike
+determining the existence of a debt or delinquent
+payments, the issue does not concern `ordinarily
+uncomplicated matters that lend themselves to
+documentary proof.'" Id. at ___, 111 S.Ct. at 2114
+(emphasis added) (quoting Mitchell, 416 U.S. at 609, 94
+S.Ct. at 1901). Later in the opinion, the Court
+emphasized that "disputes between debtors and creditors
+more readily lend themselves to accurate ex parte
+assessments of the merits." Doehr, ___ U.S. at ___, 111
+S.Ct. at 2115; see also Union Trust Co. v. Heggelund,
+219 Conn. 620, 594 A.2d 464, 466 n. 3 (1991).
+The facts present in the Shaumyans' case fall into the
+category of cases that the Doehr Court sought to
+distinguish from intentional tort cases. Sidetex installed
+storm windows in the Shaumyans' home. The
+Shaumyans refused to pay an outstanding [987 F.2d 127]
+sum certain due under their contract with Sidetex.
+Sidetex sued the Shaumyans for that sum certain and
+subsequently received a judgment for six hundred
+dollars less than the amount of the initial prejudgment
+attachment. The facts of the underlying claim were
+easily documented, and, in the absence of a substantial
+risk of erroneous deprivation, we find that the
+procedural safeguards of section 52-278e(a)(1) are
+similar to those in the statute that was upheld in
+Mitchell and therefore satisfy the second prong of the
+Doehr test.
+(3)
+The third prong of the Doehr test examines the interests
+of the plaintiff. In Doehr, the Court found that the
+plaintiff "had no existing interest in [the tortfeasor's]
+real estate when he sought the attachment. His only
+interest in attaching the property was to ensure the
+availability of assets to satisfy his judgment if he
+prevailed on the merits of his action." Doehr, ___ U.S. at
+___, 111 S.Ct. at 2115. Unlike the plaintiff in Doehr,
+Sidetex had a substantial pre-existing interest in the
+Shaumyans' real property. Sidetex furnished labor and
+materials for the improvement of the Shaumyans' home.
+Since neither Sidetex's labor nor its materials could be
+reclaimed once they became part of the Shaumyans'
+home, the prejudgment attachment statute provided
+Sidetex with a remedy to protect its interest in the
+Shaumyans' property. Cf. id. at ____, 111 S.Ct. at 2122
+(Rehnquist, C.J., concurring) (discussing importance of
+mechanic's lien statutes). Therefore, even though
+Sidetex failed to file and perfect a mechanic's lien,
+Sidetex's unperfected lien nonetheless constituted an
+interest in the Shaumyans' real property.
+In their briefs and during oral argument, both parties
+admitted that Sidetex could have obtained a mechanic's
+lien against the Shaumyans' house under Connecticut's
+mechanic's lien statute. We have examined that statute
+and the Connecticut case law interpreting it and agree
+with both parties that it could have been invoked in this
+case.2 Moreover, the Arizona mechanic's lien statute
+that was challenged in Spielman-Fond, supra, was very
+similar to the Connecticut mechanic's lien statute.
+Indeed, the Doehr Court suggested that Spielman-Fond
+could have been affirmed on the ground that the
+Arizona statute protected a creditor's pre-existing
+interest in property that is the subject of a mechanic's
+lien. See Doehr, ___ U.S. at ___ n. 4, 111 S.Ct. at 2113 n.
+4. Thus, because the procedural safeguards of section
+52-278e(a)(1) satisfy the second [987 F.2d 128] and third
+prongs of the Doehr test as it is applied to the
+Shaumyans, we hold that it does not violate the Due
+Process Clause of the Fourteenth Amendment.
+B.
+The Shaumyans also argue that section 52-278e(a)(1) is
+unconstitutional because it does not require a plaintiff to
+post a security bond. A similar argument was made by
+the defendants in Pinsky v. Duncan, 898 F.2d 852 (2d
+Cir.1990), aff'd sub nom., Connecticut v. Doehr, ___
+U.S. ___, 111 S.Ct. 2105, 115 L.Ed.2d 1 (1991), and was
+rejected by two members of the panel. See Pinsky, 898
+F.2d at 858-61 (Mahoney, J., concurring); id. at 864
+(Newman, J., dissenting). Because only a plurality of
+four Justices in Doehr addressed this issue, principles of
+stare decisis would normally preclude us from
+considering this issue anew. See Thomas E. Hoar, Inc. v.
+Sara Lee Corp., 900 F.2d 522, 527 (2d Cir.) ("`a panel of
+this court will not overturn a recent decision of another
+panel, rendered after full consideration of the very point
+at issue'") (quoting Kremer v. Chemical Constr. Corp.,
+623 F.2d 786, 788 (2d Cir. 1980), aff'd, 456 U.S. 461, 102
+S.Ct. 1883, 72 L.Ed.2d 262 (1982)), cert. denied, 498 U.S.
+846, 111 S.Ct. 132, 112 L.Ed.2d 100 (1990). However,
+because the Connecticut Supreme Court has revisited its
+state's vexatious litigation statute since we decided
+Pinsky, we will reexamine this issue in light of this new
+decision, although our analysis ultimately leads us to the
+same conclusion.
+In Pinsky, the concurring and dissenting judges agreed
+that the failure of section 52-278e(a)(1) to require the
+plaintiff to post a security bond was not constitutionally
+defective because a defendant whose property had been
+wrongfully attached could bring a counterclaim for
+damages under Connecticut's vexatious litigation
+statute, Conn.Gen.Stat. § 52-568(a) (1991), instead of
+having to initiate a new action. See Pinsky, 898 F.2d at
+860-61 (Mahoney, J., concurring); id. at 862 (Newman,
+J., dissenting). The concurring and dissenting opinions
+did not discuss the standard for determining liability
+under the vexatious litigation statute, however. The
+Connecticut vexatious litigation statute provides:
+Any person who commences and prosecutes any civil action or
+complaint against another ... (1) without probable cause, shall pay
+such other person double damages, or (2) without probable cause,
+and with a malicious intent unjustly to vex and trouble such other
+person, shall pay him treble damages.
+Conn.Gen.Stat. § 52-568(a). After Pinsky was decided,
+the Connecticut Supreme Court decided DeLaurentis v.
+City of New Haven, 220 Conn. 225, 597 A.2d 807
+(1991). The DeLaurentis court defined probable cause to
+mean a "good faith belief in the facts alleged and the
+validity of the claim asserted." Id. 597 A.2d at 823. The
+court defined malice to mean "`a purpose other than
+that of securing the proper adjudication of the claim. . .
+.'" Id. at 822 n. 16 (quoting Restatement (Second) of
+Torts § 676 (1977)). Thus, although the standard of
+liability articulated by the DeLaurentis court apparently
+would limit the number of debtors who could bring
+vexatious litigation suits against creditors who attached
+their real property pursuant to section 52-278e(a)(1),
+plaintiffs like the Shaumyans may still utilize
+Connecticut's vexatious litigation statute to protect their
+interests in the absence of a security bond.
+In holding that a security bond need not be posted in
+connection with a prejudgment attachment, we rely on
+the language of the Doehr plurality, the conclusion
+reached by the concurring and dissenting opinions in
+Pinsky and the absence of a bond requirement in the
+mechanic's lien statutes of Connecticut and other states.
+In Doehr, the plurality found the statute to be defective
+for the additional reason that it failed to require the
+posting of a security bond in intentional tort cases. The
+plurality noted that a security bond requirement would
+not alleviate the need for a predeprivation hearing. Like
+the predeprivation hearing, the bond requirement
+insured against the "unacceptably high" risk that the
+tortfeasor's "property rights may be wrongfully deprived
+... even with such safeguards as a hearing or exigency
+requirement." [987 F.2d 129] Doehr, ___ U.S. at ___, 111
+S.Ct. at 2117; see also North Ga. Finishing, 419 U.S. 601,
+95 S.Ct. 719 (statute containing bond provision struck
+down); Fuentes, 407 U.S. 67, 92 S.Ct. 1983 (same).
+Thus, like the predeprivation hearing, the Doehr
+plurality justified its requirement for the posting of a
+security bond on the substantial risk of wrongful
+deprivation. As we have discussed above, ante at pp.
+126-27, no such risk exists in this case, and therefore,
+due process does not require Sidetex to post a security
+bond.
+We also find support in Chief Justice Rehnquist's
+observation in Doehr that due process would not
+mandate that a mechanic's lien statute like the one in
+Spielman-Fond require the posting of a security bond.
+See Doehr, ___ U.S. at ___, 111 S.Ct. at 2122
+(Rehnquist, C.J., concurring) ("To require any sort of a
+contested court hearing or bond before the notice of [a
+mechanic's] lien takes effect would largely defeat the
+purpose of these statutes."). Because Sidetex used section
+52-278e(a)(1) to achieve the same results that it could
+have achieved under Connecticut's mechanic's lien
+statute, see ante at pp. 127-28 n. 2, we see no reason
+why due process would require it to post a bond in one
+instance but not in the other. Therefore, we hold that
+the failure of section 52-278e(a)(1) to require Sidetex to
+post a security bond does not violate the Due Process
+Clause of the Fourteenth Amendment.
+CONCLUSION
+In upholding the constitutionality of section 52-
+278e(a)(1) against the challenges brought by the
+Shaumyans, Judge Nevas wrote in his second opinion
+that his decision was "limited exclusively to the facts of
+this case and its application to a breach of contract
+action involving an attachment of real property in
+which the attaching plaintiff seeks payment for material
+installed and labor performed on that piece of real
+property." Shaumyan II, 795 F.Supp. at 534. We agree,
+and affirm the judgment of the district court in all
+respects.

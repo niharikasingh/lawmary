@@ -1,0 +1,379 @@
+The central question presented by this appeal is whether
+a court may dismiss an action for failure to join an
+indispensable party, notwithstanding defendant's ability
+to join the party in question by asserting a compulsory
+counterclaim against it. Plaintiff-appellant Associated
+Dry Goods Corp. ("Associated") appeals from a
+judgment, entered in the United States District Court
+for the Southern District of New York (Robert W.
+Sweet, Judge), dismissing its complaint for failure to join
+an indispensable party.
+Associated initiated this action against defendantappellee
+Towers Financial Corporation ("Towers") to
+recover damages for Towers' failure to pay rent as
+required by a sublease agreement. In addition,
+Associated sought to obtain a declaratory judgment
+regarding the extent of its obligation to provide Towers
+with electrical service. In response, Towers moved to
+dismiss the complaint for failure to join an indispensable
+party. Fed.R.Civ.P. 12(b)(7). Towers argued that the suit
+must be dismissed since joinder of the building's
+landlord, 417 Fifth Avenue Corp. ("417 Fifth") — which
+was required in order to afford the parties complete
+relief — would strip the court of diversity jurisdiction.
+This motion was granted by the district court.
+On appeal, Associated contends that because 417 Fifth
+was not a party to the sublease, it was neither a
+necessary nor an indispensable party to this action. In
+the alternative, Associated argues that Towers' ability to
+join 417 Fifth as a party — by asserting a compulsory
+counterclaim against it — precludes the court from
+dismissing the action "in equity and good conscience."
+See Fed.R.Civ.P. 19(b). For the reasons set forth below,
+the judgment of the district court is reversed and the
+action is remanded for further proceedings.
+BACKGROUND
+Associated is a Virginia corporation with its principal
+place of business in St. Louis, Missouri. Since 1980
+Associated has leased office space in a building located at
+417 Fifth Avenue, New York, New York. The lessor of
+this building, 417 Fifth, is a New York resident, having
+its principal place of business in New York.
+In June 1987, Towers, a Nevada corporation with its
+principal place of business in New York, began leasing
+the ninth floor of the building at 417 Fifth from
+Associated. Subsequently, on January 19, 1988, Towers
+and Associated entered into an additional sublease
+agreement allocating to Towers space on the seventh
+and eighth floors of the building. On the same date, 417
+Fifth signed a consent to sublease agreement with
+Associated and Towers, in which it agreed not to
+unreasonably withhold or delay its consent to any
+alterations proposed by Towers, the subtenant.
+Shortly after taking possession of the seventh and eighth
+floors, Towers determined that the existing electrical
+service on these floors was inadequate to serve its needs.
+Consequently, Towers approached Associated and the
+parties agreed to allow Towers to use 150 amps of
+power from the building's sixth floor. The parties
+submitted this agreement to 417 Fifth for its approval.
+Before 417 Fifth would approve this arrangement,
+however, it requested that the parties submit a
+schematic plan detailing the structural changes that
+would have to be made in order to divert the electrical
+power. To prepare this plan, Towers' engineer needed
+access to the building's basement. However, 417 Fifth
+denied Towers permission to survey the basement in
+which the electrical apparatus was located.
+On July 5, 1988, Towers initiated an action against 417
+Fifth in New York State Supreme Court seeking an
+order to show cause requiring 417 Fifth to consent to
+the proposed alterations and to grant Towers access to
+the basement. On the same day, Towers requested that
+Associated allocate an additional 200 amps of electrical
+power to the seventh and eighth floors.
+Two months later, in September 1988, Towers agreed
+to discontinue its state court action in exchange for
+Associated's written promise that it would support
+Towers in the pursuit of its rights under the [920 F.2d
+1123] sublease documents. By letter dated September 6,
+1988, Associated agreed that
+[i]f [the] Overlandlord [417 Fifth] has not responded reasonably to
+said plans and specifications submission within 45 days of the date
+of submission ... then Associated will support Towers in the pursuit
+of Towers' rights under the Sublease documents so long as and
+provided that Towers has not caused a material default with regard
+to its obligations under the Sublease documents.
+Joint Appendix at A-76.
+Subsequently, Towers and Associated submitted a letter
+to 417 Fifth detailing proposed alterations. After
+reviewing the submitted plans and determining that
+they were incomplete, 417 Fifth withheld its consent to
+the proposed modifications. Despite this refusal to
+consent, on November 30, 1988, Towers requested that
+Associated divert an additional 250 amps of electrical
+current to the seventh and eighth floors. The parties'
+efforts to conclude an agreement to accomplish this was
+interrupted, however, by Associated's initiation of this
+lawsuit.
+From the beginning of the sublease term, Towers has
+refused to pay rent, claiming that it has not been able to
+use the subleased space as intended. In addition, Towers
+has failed to pay rent for the space on the ninth floor,
+although this space is being used as planned.
+Consequently, Associated commenced this action
+against Towers, seeking a declaratory judgment that
+Towers has breached the sublease agreement as well as
+damages arising from this breach. Towers moved to
+dismiss the action, alleging that 417 Fifth was an
+indispensable party that if joined would destroy
+complete diversity, thereby divesting the court of
+jurisdiction. Associated cross-moved for summary
+judgment in its favor. The district court granted
+Towers' motion to dismiss and denied Associated's
+cross-motion for summary judgment. This appeal
+followed.
+During the pendency of the Rule 12(b) and summary
+judgment motions, Towers initiated a state court action
+joining both Associated and 417 Fifth as defendants.
+That action has progressed and is now in the discovery
+stage.
+DISCUSSION
+Associated argues that because Towers has the ability to
+join 417 Fifth by asserting a compulsory counterclaim
+against it, the court cannot in equity and good
+conscience dismiss the suit for failure to join an
+indispensable party. See Fed.R.Civ.P. 12(h);
+Fed.R.Civ.P. 19. We agree.
+Fed.R.Civ.P. 19 sets forth a two step inquiry for
+determining whether an action must be dismissed for
+failure to join an indispensable party. The first prong of
+the test focuses on whether the party should be joined if
+feasible. Rule 19(a) provides in pertinent part:
+A person who is subject to service of process and whose joinder will
+not deprive the court of jurisdiction over the subject matter of the
+action shall be joined as a party in the action if (1) in the person's
+absence complete relief cannot be accorded among those already
+parties, or (2) the person claims an interest relating to the subject of
+the action and is so situated that the disposition of the action in the
+person's absence may (i) as a practical matter impair or impede the
+person's ability to protect that interest or (ii) leave any of the
+persons already parties subject to a substantial risk of incurring
+double, multiple, or otherwise inconsistent obligations by reason of
+the claimed interest.
+Unless Rule 19(a)'s threshold standard is met, the court
+need not consider whether dismissal under Rule 19(b) is
+warranted.
+The district court found that 417 Fifth was a necessary
+party under Rule 19(a). The court based its decision on
+Towers' assertion in its motion to dismiss that if 417
+Fifth was not joined Towers would be unable to obtain
+"full relief" on counterclaims it intended to bring against
+Associated and 417 Fifth. The court noted: "According
+to Towers' proposed answer and counterclaims, unless
+the Landlord is compelled to change its course and to act
+on the plans submitted, Towers will never be able to
+enjoy quietly the premises it had leased [920 F.2d 1124]
+from A[ssociated]." Associated Dry Goods Corp. v.
+Towers Fin. Corp., 127 F.R.D. 57, 61 (S.D.N.Y.1989).
+It is troubling that the district court reached its
+conclusion by considering Towers' "putative answer"
+and proposed, but not yet pled, third-party claims.
+Indeed, it is the general rule that a court considering
+"whether [an] absent person's interest in the litigation is
+sufficient to satisfy ... the first sentence of Rule 19(a) ...
+must base its decision on the pleadings as they appear at
+the time of the proposed joinder." C. Wright & A.
+Miller, 7 Federal Practice & Procedure § 1604, at 40
+(1986); see La Chemise Lacoste v. General Mills, Inc., 53
+F.R.D. 596, 601 (D.Del.1971), aff'd, 487 F.2d 312 (3rd
+Cir.1973); cf. Halpern v. Rosenbloom, 459 F.Supp. 1346,
+1354 (S.D.N.Y.1978) ("[P]laintiffs are not required to
+anticipate defendant's counterclaims and join all parties
+that may be necessary for defendant's benefit.").
+Nevertheless, we accept for present purposes that 417
+Fifth's inclusion in the action is necessary in order to
+afford complete relief to the parties. 417 Fifth may be
+considered a party to be joined if feasible under Rule
+19(a), since without 417 Fifth, Towers would not be
+able to obtain full injunctive relief on any counterclaim
+it asserts against Associated to increase electrical
+capacity. For example, if 417 Fifth is not made a party,
+the court could not compel Associated to increase the
+amperage supplied to the seventh and eighth floors, for
+Associated cannot allocate this electricity without 417
+Fifth's consent. Moreover, Towers' defenses to
+Associated's action to collect rent are based, in part, on
+417 Fifth's alleged failure to comply with the consent to
+sublease agreement. Therefore, if the action were to
+proceed in 417 Fifth's absence, Towers might be forced
+to bring an additional state court action against 417
+Fifth in order to obtain full relief. Thus, under Rule
+19(a), 417 Fifth is a party that should be joined if
+feasible. Associated cannot join 417 Fifth as a party to
+the action, however, because the addition of 417 Fifth, a
+non-diverse party, would destroy complete diversity and
+strip the district court of subject matter jurisdiction over
+the suit.
+Accordingly, the court must proceed to the second step
+of the indispensable party analysis, which requires it to
+assess whether or not, in equity and good conscience,
+the action should proceed in the necessary party's
+absence. Rule 19(b) enumerates four relevant
+considerations to guide the court's judgment:
+[F]irst, to what extent a judgment rendered in the person's absence
+might be prejudicial to the person or those already parties; second,
+the extent to which, by protective provisions in the judgment, by
+the shaping of relief, or other measures, the prejudice can be
+lessened or avoided; third, whether a judgment rendered in the
+person's absence will be adequate; fourth, whether the plaintiff will
+have an adequate remedy if the action is dismissed for non-joinder.
+Fed.R.Civ.P. 19(b). Upon assessing these factors, the
+district court concluded that the action should be
+dismissed. We disagree.
+The drafters of Rule 19(b) did not assign relative weight
+to each of the factors enumerated in the Rule. Instead,
+the Rule allows courts themselves to determine the
+emphasis to be placed on each consideration according
+to "the facts of [the] given case and in light of the
+governing equity-and-good-conscience test." C. Wright
+& A. Miller, 7 Federal Practice and Procedure § 1608, at
+91-92. In this case, we view as dispositive Towers'
+ability to avoid all prejudice to itself by asserting a
+compulsory counterclaim against Associated pursuant to
+Rule 13(a) and adding 417 Fifth as a party to the
+counterclaim under Rule 13(h). See Abel v. Brayton
+Flying Serv., 248 F.2d 713 (5th Cir.1957); see also Boone
+v. General Motors Acceptance Corp., 682 F.2d 552, 553
+(5th Cir.1982) (absent party not indispensable when
+defendant may implead that party); Pasco Int'l (London)
+Ltd. v. Stenograph Corp., 637 F.2d 496, 503, 505 (7th
+Cir.1980) (parties who may be impleaded under Rule 14
+are never indispensable under Rule 19(b)). Towers'
+putative claims against Associated [920 F.2d 1125] all
+arise out of the transactions forming the subject matter
+of the instant case and are, therefore, compulsory. See
+Fed.R.Civ.P. 13(a); Semmes Motors, Inc. v. Ford Motor
+Co., 429 F.2d 1197, 1202 (2d Cir.1970); see also CrouseHinds
+Co. v. Internorth, Inc., 634 F.2d 690, 700 (2d
+Cir.1980) ("`Transaction is a word of flexible meaning ...
+that [a] counterclaim embraces additional allegations ...
+does not matter.'") (quoting Moore v. New York Cotton
+Exchange, 270 U.S. 593, 610, 46 S.Ct. 367, 371, 70 L.Ed.
+750 (1926)). Because we believe that "the Rule 19(b)
+notion of equity and good conscience contemplates that
+the parties actually before the court are obliged to
+pursue any avenues for eliminating the threat of
+prejudice," we find that the action cannot be dismissed
+under Rule 19. C. Wright & A. Miller, 7 Federal Practice
+& Procedure § 1608, at 112-13 (emphasis added).
+Towers contends that it may not assert counterclaims
+against 417 Fifth because, in light of Finley v. United
+States, 490 U.S. 545, 109 S.Ct. 2003, 104 L.Ed.2d 593
+(1989), the district court would lack jurisdiction over
+those claims. Prior to the Finley decision, it was wellsettled
+that when diversity between parties is lacking, a
+court could assert ancillary jurisdiction over an
+additional party joined to a compulsory counterclaim
+pursuant to Rule 13(h). See Newburger, Loeb & Co. v.
+Gross, 563 F.2d 1057, 1070 (2d Cir.1977), cert. denied,
+434 U.S. 1035, 98 S.Ct. 769, 54 L.Ed.2d 782 (1978);
+United Artists Corp. v. Masterpiece Prods. Inc., 221
+F.2d 213 (2d Cir.1955); see also Crouse-Hinds Co. v.
+Internorth, Inc., 634 F.2d 690, 699 (2d Cir.1980). We
+believe that Finley does not invalidate this widely
+accepted practice.
+Finley was initially brought as a Federal Tort Claims Act
+suit ("FTCA"), 28 U.S.C. § 1346(b), against the Federal
+Aviation Administration ("FAA"). Plaintiff's husband
+and two children were killed when their plane struck
+electric transmission lines on its approach to a San
+Diego airfield. The plaintiff, alleging that the FAA was
+negligent in operating and maintaining the runway
+lights, initiated a federal proceeding against it.
+Subsequently, plaintiff moved to amend her complaint
+to include claims against two other defendants, the San
+Diego Gas & Electric Company and the City of San
+Diego, arising out of the same accident. Plaintiff relied
+on the court's pendent jurisdiction to support these
+additional claims. The Supreme Court, noting that the
+FTCA contained a narrow statutory jurisdictional grant,
+held that a federal court adjudicating a matter under the
+FTCA could not exercise pendent jurisdiction over
+additional parties where no independent basis of
+jurisdiction exists. Id. 109 S.Ct. at 2007-08. See Roco
+Carriers, Ltd. v. M/V Nurnberg Express, 899 F.2d 1292,
+1295 (2d Cir.1990); Rodriguez v. Comas, 888 F.2d 899,
+905-06 (1st Cir.1989); cf. Staffer v. Bouchard Transp.
+Co., 878 F.2d 638, 643 n. 5 (2d Cir.1989).
+In dictum, the Finley Court stated that a federal court
+may assert ancillary jurisdiction "in a narrow class of
+cases." Finley, 109 S.Ct. at 2008. Drawing on this phrase,
+Towers argues that the Supreme Court intended to
+disapprove of federal courts' invocation of ancillary
+jurisdiction in cases involving compulsory
+counterclaims. See C. Wright & A. Miller, 7 Federal
+Practice & Procedure § 1436, at 276 (1990) (suggesting
+that Finley raises doubt as to the viability of ancillary
+jurisdiction in third party actions); see also Community
+Coffee Co., Inc. v. M/S Kriti Amethyst, 715 F.Supp. 772,
+773 (E.D.La.1989). Although Finley circumscribed
+pendent party jurisdiction, we believe that the Court's
+language in Finley did not signal a retreat from
+established third-party practices.
+In Finley, the Court emphasized that the posture of the
+claims asserted must be examined, 109 S.Ct. at 2007, and
+placed great reliance on the fact that the plaintiff added
+claims involving new parties whose only connection
+with the suit was that the claims against them "derive[d]
+from a common nucleus of operative fact" as the initial
+claim. United Mine Workers v. Gibbs, 383 U.S. 715,
+725, 86 S.Ct. 1130, 1138, 16 L.Ed.2d 218 (1966).
+According to the Court, this connection was too
+tenuous to support the exercise of pendent jurisdiction
+over the additional claims.
+[920 F.2d 1126] Compulsory counterclaims over which a
+court is willing to exercise ancillary jurisdiction
+generally arise in a different posture. In this case, for
+example, it is the defendant, not the plaintiff, that would
+seek to join a third party as a Rule 13(h) counterclaim
+defendant. As the Supreme Court recognized in Owen
+Equipment & Erection Co. v. Kroger, 437 U.S. 365, 98
+S.Ct. 2396, 57 L.Ed.2d 274 (1978), ancillary jurisdiction
+should be more readily available to one haled into court
+against his or her will than to a plaintiff who has chosen
+the forum for litigation. Id. at 376, 98 S.Ct. at 2404.
+Moreover, the Supreme Court noted in Owen that "[a]
+third-party complaint depends at least in part upon the
+resolution of the primary lawsuit. Its relation to the
+original complaint is thus not mere factual similarity but
+logical dependence." Id. (citation omitted). The federal
+courts' longstanding practice of allowing permissive
+joinder of parties and claims stands in opposition to the
+broad reading of Finley that Towers urges in this case.
+Indeed, "Congress did not intend to confine the
+jurisdiction of federal courts so inflexibly that they are
+unable to protect legal rights or effectively to resolve an
+entire, logically entwined lawsuit. Those practical needs
+are the basis of ancillary jurisdiction." Id. at 377, 98 S.Ct.
+at 2404. Therefore, we find that Finley does not bar the
+district court from exercising ancillary jurisdiction over
+any Rule 13(h) counterclaim that Towers asserts against
+417 Fifth. See King Fisher Marine Serv. v. 21st Phoenix
+Corp., 893 F.2d 1155, 1161 (10th Cir.), cert. denied, ___
+U.S. ___, 110 S.Ct. 2603, 110 L.Ed.2d 283 (1990); see
+also Fidelity and Deposit Co. of Maryland v. C and A
+Currency Exchange, Inc., 738 F.Supp. 302, 304
+(N.D.Ill.1990) ("court hence hesitates to seize upon
+Finley's ambiguous statement in order to `roll back' the
+entire area of federal jurisdiction over third-party
+claims"); Huberman v. Duane Fellows, Inc., 725 F.Supp.
+204, 207 (S.D.N.Y.1989) (court "does not read Finley as
+threatening jurisdiction over impleaded third-party
+defendants.").
+Finally, Towers contends that the pendency of the state
+court suit renders the exercise of federal jurisdiction
+unnecessary and requests this Court to dismiss this
+action without prejudice, or to stay the action, pending
+resolution of the parallel state court action. See
+Colorado River Water Conservation Dist. v. United
+States, 424 U.S. 800, 96 S.Ct. 1236, 47 L.Ed.2d 483
+(1976). In assessing whether to dismiss or stay an action
+under Colorado River a court should consider: (1) the
+inconvenience of the federal forum; (2) the desirability
+of avoiding piecemeal litigation; and (3) the order in
+which the concurrent actions were initiated. Id. at 818,
+96 S.Ct. at 1246. See Arkwright-Boston Mfrs. Mut. Ins.
+Co. v. New York, 762 F.2d 205, 210 (2d Cir.1985). In
+this case, the federal forum is equally convenient and the
+federal suit was instituted prior to the state court suit.
+Moreover, after this action is reinstated, the parties may
+move to dismiss the state court suit and avoid
+"piecemeal" litigation. We find, therefore, that this
+argument is without merit.
+CONCLUSION
+We have examined each of defendant-appellee's
+remaining arguments and find them to be without
+merit. In light of the foregoing, the district court's
+judgment is reversed and the action is remanded for
+further proceedings.

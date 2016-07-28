@@ -1,0 +1,121 @@
+The Court correctly holds that the exclusive jurisdiction
+of the Court of Appeals for the Federal Circuit in patent
+[535 U.S. 835] cases is "fixed with reference to that of the
+district court," ante, at 829. It is important to note the
+general rule, however, that the jurisdiction of the court
+of appeals is not "fixed" until the notice of appeal is filed.
+See Griggs v. Provident Consumer Discount Co., 459
+U.S. 56, 58-59 (1982) (per curiam) ("The filing of a
+notice of appeal is an event of jurisdictional
+significance—it confers jurisdiction on the court of
+appeals and divests the district court of its control over
+those aspects of the case involved in the appeal").
+Thus, if a case began as an antitrust case, but an
+amendment to the complaint added a patent claim that
+was pending or was decided when the appeal is taken,
+the jurisdiction of the district court would have been
+based "in part" on 28 U. S. C. § 1338(a), and therefore §
+1295(a)(1) would grant the Federal Circuit jurisdiction
+over the appeal. Conversely, if the only patent count in a
+multicount complaint was voluntarily dismissed in
+advance of trial, it would seem equally clear that the
+appeal should be taken to the appropriate regional court
+of appeals rather than to the Federal Circuit. See
+Christianson v. Colt Industries Operating Corp., 486
+U.S. 800, 823-824 (1988) (Stevens, J., concurring). Any
+other approach "would enable an unscrupulous plaintiff
+to manipulate appellate court jurisdiction by the timing
+of the amendments to its complaint." Id., at 824. To the
+extent that the Court's opinion might be read as
+endorsing a contrary result by reason of its reliance on
+cases involving the removal jurisdiction of the district
+court, I do not agree with it.
+I also do not agree with the Court's statement that an
+interpretation of the "in whole or in part" language of §
+1295(a)(1) to encompass patent claims alleged in a
+compulsory counterclaim providing an independent
+basis for the district court's jurisdiction would be a
+"neologism" that would involve "an unprecedented feat
+of interpretive necromancy," ante, at 833. For there is
+well-reasoned precedent supporting precisely that
+conclusion. See Aerojet-General Corp. v. Machine Tool
+Works, Oerlikon-Buehrle Ltd., 895 F.2d 736, 742-743
+(CA Fed. 1990) [535 U.S. 836] (en banc) (opinion of
+Markey, C. J., for a unanimous court) (citing, e. g.,
+Rengo Co. v. Molins Machine Co., 657 F.2d 535, 539
+(CA3 1981); Dale Electronics, Inc. v. R. C. L.
+Electronics, Inc., 488 F.2d 382, 390 (CA1 1973); Pioche
+Mines Consol., Inc. v. Fidelity-Philadelphia Trust Co.,
+206 F.2d 336, 336-337 (CA9 1953); Lion Mfg. Corp. v.
+Chicago Flexible Shaft Co., 106 F.2d 930, 933 (CA7
+1939)).1 I am nevertheless persuaded that a correct
+interpretation of § 1295(a)(1) limits the Federal Circuit's
+exclusive jurisdiction to those cases in which the patent
+claim is alleged in either the original complaint or an
+amended pleading filed by the [535 U.S. 837] plaintiff. In
+my judgment, each of the three policies that the Court
+has identified as supporting the "well-pleadedcomplaint"
+rule governing district court jurisdiction, ante, at 831-
+832, points in the same direction with respect to
+appellate jurisdiction.
+First, the interest in preserving the plaintiff's choice of
+forum includes not only the court that will conduct the
+trial but the appellate court as well. A plaintiff who has a
+legitimate interest in litigating in a circuit whose
+precedents support its theory of the case might omit a
+patent claim in order to avoid review in the Federal
+Circuit. In some cases that interest would be defeated by
+a rule that allowed a patent counterclaim to determine
+the appellate forum.
+Second, although I doubt that a rule that enabled the
+counterclaimant to be the occasional master of the
+appellate forum "would radically expand" the number of
+cases heard by the Federal Circuit, ante, at 832, we must
+recognize that the exclusive jurisdiction of the Federal
+Circuit defined in § 1295(a)(1) does not comprise claims
+arising under the trademark and copyright laws, which
+are included in the district court's grant of jurisdiction
+under § 1338(a).2 As the instant litigation demonstrates,
+claims sounding in these other areas of intellectual
+property law are not infrequently bound up with patent
+counterclaims. The potential number of cases in which a
+counterclaim might direct to the Federal Circuit appeals
+that Congress specifically chose not to place within its
+exclusive jurisdiction is therefore significant.
+Third, the interest in maintaining clarity and simplicity
+in rules governing appellate jurisdiction will be served
+by limiting [535 U.S. 838] the number of pleadings that
+will mandate review in the Federal Circuit. In his
+opinion in Aerojet, Chief Judge Markey merely held that
+a counterclaim for patent infringement that was
+"compulsory" and not "frivolous" or "insubstantial"
+sufficed to establish jurisdiction; he made a point of
+noting that there was no assertion in the case that the
+patent counterclaim at issue had been filed "to
+manipulate the jurisdiction of [the Federal Circuit]." 895
+F. 2d, at 738. The text of the statute, however, would
+not seem to distinguish between that counterclaim and
+those that are permissive, insubstantial, or manipulative,
+and there is very good reason not to make the choice of
+appellate forum turn on such distinctions. Requiring
+assessment of a defendant's motive in raising a patent
+counterclaim or the counterclaim's relative strength
+wastes judicial resources by inviting "unhappy
+interactions between jurisdiction and the merits."
+Kennedy v. Wright, 851 F.2d 963, 968 (CA7 1988).
+There is, of course, a countervailing interest in directing
+appeals in patent cases to the specialized court that was
+created, in part, to promote uniformity in the
+development of this area of the law. But we have already
+decided that the Federal Circuit does not have exclusive
+jurisdiction over all cases raising patent issues.3
+Christianson, 486 U. S., at 811-812.[535 U.S. 839]
+Necessarily, therefore, other circuits will have some role
+to play in the development of this area of the law. An
+occasional conflict in decisions may be useful in
+identifying questions that merit this Court's attention.
+Moreover, occasional decisions by courts with broader
+jurisdiction will provide an antidote to the risk that the
+specialized court may develop an institutional bias.4
+In sum, I concur in the Court's judgment and join Parts I
+and II—A of its opinion.

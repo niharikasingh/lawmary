@@ -1,0 +1,371 @@
+The importance of formulating a proper standard in
+federal court to test the sufficiency of the evidence for
+submission of a case to the jury, in connection with
+motions for a directed verdict and for judgment
+notwithstanding the verdict, caused us to place this
+Alabama diversity personal injury suit en banc.
+Shipman, an employee of Boeing, sued his employer for
+damages under the common law and the Alabama
+Employers' Liability Act (Tit. 26, § 326, Code of Ala.,
+1940), as a result of injuries he claims were received in
+the course of his work at Boeing's Huntsville, Alabama,
+plant. He was a spray painter and alleged that his
+employer was negligent in failing to furnish him with a
+reasonably safe place to work which was not properly
+ventilated to exhaust paint fumes; also, that he was not
+furnished with a mask to prevent inhalation of paint,
+nor with protective [411 F.2d 368] gloves for the
+handling of harmful chemicals, and that he was not
+warned of the dangers of his employment. He contended
+that he contracted lead poisoning, polyneuritis,
+dermatitis, and an aggravation of pre-existing
+bronchitis. Boeing denied any misconduct which might
+have caused Shipman's injuries and pled contributory
+negligence and assumption of risk and that the Alabama
+Workmen's Compensation Act barred an action for
+damages.
+In the prior opinion in this case the Court said:
+"On the question of Boeing's alleged misconduct, the evidence is
+weak, especially in view of the short time that Shipman worked for
+Boeing. The evidence as to causal connection between the claimed
+unsafe conditions of Shipman's place of work and the ailments
+which he suffered can be held sufficient to sustain the jury's verdict
+only by the application of an extremely liberal standard." (389 F.2d
+at 511.)
+Boeing's motions for a directed verdict during the trial
+and for judgment notwithstanding the verdict thereafter
+were denied by the District Judge, and the decision of a
+panel of this Court affirmed the lower Court. We hold
+that the opinion of a panel of this Court in the present
+case (389 F.2d 507) contained errors of law, which we
+overrule. Nevertheless, we affirm because the evidence
+was sufficient to create a question for the jury under the
+standard we have established, and the District Court,
+therefore, properly denied the motions for a directed
+verdict and for judgment notwithstanding the verdict.
+We will not restate in detail the critical issues of fact on
+which Shipman based his case, since they are adequately
+treated in the original opinion herein, except to say that
+Shipman had been working for three months as a spray
+painter for Boeing and testified that the room in which
+he was working was not properly equipped with an
+exhaust system, that he was not provided with a
+respirator mask, that he inhaled paint particles as a
+result thereof, and that he also incurred injuries to his
+hands because of the failure to furnish him with gloves.
+The medical evidence was not conclusive, and the facts
+relating to the cause of Shipman's ailments were
+seriously disputed by Boeing. However, there was
+sufficient evidence of failure to provide a reasonably safe
+place to work and a face mask and gloves to require
+submission of the case to the jury under the standard we
+hereafter promulgate in this opinion.
+I.
+FEDERAL RATHER THAN STATE TEST IS
+APPLICABLE
+It is well settled in this Circuit that in diversity cases
+federal courts apply a federal rather than a state test for
+the sufficiency of evidence to create a jury question.
+Reuter v. Eastern Air Lines, 5 Cir., 1955, 226 F.2d
+443;[411 F.2d 369] Revlon, Inc. v. Buchanan, 5 Cir.,
+1959, 271 F.2d 795, 81 A.L.R.2d 222; Planters
+Manufacturing Co. v. Protection Mut. Ins. Co., 5 Cir.,
+1967, 380 F.2d 869; Helene Curtis Industries, Inc. v.
+Pruitt, 5 Cir., 1967, 385 F.2d 841.
+In Planters, supra, Judge Tuttle exhaustively discussed
+this issue and pointed out (380 F.2d at 870-871) that
+although the Supreme Court had not yet resolved the
+question in favor of the federal test, that Court had said
+in Byrd v. Blue Ridge Rural Electric Cooperative, 356
+U.S. 525, 538, 78 S.Ct. 893, 901, 2 L.Ed.2d 953 (1958):
+"It cannot be gainsaid that there is a strong federal policy against
+allowing state rules to disrupt the judge-jury relationship in the
+federal courts."
+See also Herron v. Southern Pac. Co., 283 U.S. 91, 51
+S.Ct. 383, 75 L.Ed. 857 (1931); Simler v. Conner, 372
+U.S. 221, 83 S.Ct. 609, 9 L.Ed.2d 691 (1963).
+Federal courts must be able to control the fact-finding
+processes by [411 F.2d 370] which the rights of litigants
+are determined in order to preserve "the essential
+character" of the federal judicial system. Of course, we
+do not contend that this control will not affect statecreated
+substantive rights in some cases. Ultimately,
+however, the integrity of our fact-finding processes
+must outweigh considerations of uniformity. Herron v.
+Southern Pac. Co., 283 U.S. 91, 51 S.Ct. 383, 75 L.Ed.
+857 (1931); Byrd v. Blue Ridge Rural Electric
+Cooperative, 356 U.S. 525, 78 S.Ct. 893, 2 L.Ed.2d 953
+(1958); Note, State Trial Procedure and the Federal
+Courts: Evidence, Juries, and Directed Verdicts Under
+the Erie Doctrine, 66 Harv.L.Rev. 1516, 1525 (1953).
+Thus, we agree with the original opinion and reaffirm
+our holding, often repeated, that a federal rather than a
+state test is the proper one.
+II.
+FELA (FEDERAL EMPLOYERS' LIABILITY ACT)
+STANDARD FOR SUFFICIENCY OF EVIDENCE IS
+INAPPLICABLE
+In the original opinion in this case the Court held that
+the standard to be applied by federal courts in diversity
+cases, to determine whether there is sufficient evidence
+to submit the case to the jury on motions for a directed
+verdict and for judgment notwithstanding the verdict, is
+the same as that in FELA (45 U.S.C. § 51 et seq.) and
+Jones Act (46 U.S.C. § 688) cases and that the "question
+has now been settled in this Circuit by the holding in
+Planters Manufacturing Co. v. Protection Mut. Ins. Co.,
+5 Cir. 1967, 380 F.2d 869, * * * that federal courts must
+apply the same standards employed in FELA cases to
+diversity cases in determining sufficiency of evidence to
+raise a question of fact for the jury. * * *" (389 F.2d at
+513.) Thus, in the present case the District Judge was
+obliged under the Planters principle to apply the same
+standard employed in FELA cases to the alleged
+negligent acts of Boeing and the extent and nature of
+Shipman's injuries in determining the sufficiency of
+evidence to create questions for the jury. The Planters
+principle, with which we disagree, is expressed as
+follows: "It is only when there is a complete absence of
+probative facts to support the conclusion reached that
+the jury's judgment may be ignored." (380 F.2d at 874.)
+The Court based this statement upon language in the
+Supreme Court's decision in Lavender v. Kurn, 327 U.S.
+645, 66 S.Ct. 740, 590 L.Ed. 916 (1946), anFELAcase, in
+which that Court stated, "Only when there is a complete
+absence of probative facts to support the conclusion
+reached does a reversible error appear. * * *" (327 U.S. at
+653, 66 S.Ct. at 744.)
+FELA cases, however, are statutory negligence actions.
+The Act provides (45 U.S.C. § 51) that the employer
+shall be liable for damages "* * * for such injury or death
+resulting in whole or in part from the negligence of any
+of the officers, agents, or employees * * *." of the carrier.
+The Supreme Court held in Rogers v. Missouri Pacific
+Railroad Co., 352 U.S. 500, 508, 77 S.Ct. 443, 449, 1
+L.Ed.2d 493 (1957), that in FELA cases there is
+presented "* * * the single question whether negligence
+of the employer played any part, however small, in the
+injury or death which is the subject of the suit. The
+burden of the employee is met, and the obligation of the
+employer to pay damages arises, when there is proof,
+even though entirely circumstantial, from which the
+jury may with reason make that inference." In Rogers
+the Supreme Court also said [411 F.2d 371] (352 U.S. at
+506-507, 77 S.Ct. at 448-449):
+"Judicial appraisal of the proofs to determine whether a jury
+question is presented is narrowly limited to the single inquiry
+whether, with reason, the conclusion may be drawn that negligence
+of the employer played any part at all in the injury or death. Judges
+are to fix their sights primarily to make that appraisal and, if that
+test is met, are bound to find that a case for the jury is made out
+whether or not the evidence allows the jury a choice of other
+probabilities."
+See also Note, Rule 50(b): Judgment Notwithstanding
+the Verdict, 58 Colum. L.Rev. 517 (1958).
+The Supreme Court further said in Rogers (352 U.S. at
+506, 77 S.Ct. at 448):
+"Under this statute [FELA] the test of a jury case is simply whether
+the proofs justify with reason the conclusion that employer
+negligence played any part, even the slightest, in producing the
+injury or death for which damages are sought." (Emphasis
+supplied.)
+Slight negligence, necessary to support an FELA action,
+is defined as "a failure to exercise great care," and that
+burden of proof, obviously, is much less than the burden
+required to sustain recovery in ordinary negligence
+actions. Prosser, Law of Torts § 34, p. 186 (3d ed. 1964).
+(Emphasis supplied.)
+Beyond the fact that a statutory action under the FELA
+significantly differs from a common law negligence
+action in terms of the standard of proof, it is clear that
+the congressional intent in enacting the FELA was to
+secure jury determinations in a larger proportion of
+cases than would be true of ordinary common law
+actions. In other words, "trial by jury is part of the
+remedy" in FELA cases. Atlantic & Gulf Stevedores, Inc.
+v. Ellerman Lines, 369 U.S. 355, 360, 82 S.Ct. 780, 784, 7
+L.Ed.2d 798 (1962). As Mr. Justice Douglas stated in his
+concurring opinion in Wilkerson v. McCarthy, 336 U.S.
+53, 68, 69 S.Ct. 413, 420, 93 L.Ed. 497 (1949),
+"The Federal Employers' Liability Act was designed to put on the
+railroad industry some of the cost for the legs, eyes, arms, and lives
+which it consumed in its operations. * * *
+"That purpose was not given a friendly reception in the courts. In
+the first place, a great maze of restrictive interpretations were
+engrafted on the Act * * *. In the second place, doubtful questions
+of fact were taken from the jury and resolved by the courts in favor
+of the employer. * * * And so it was that a goodly portion of the
+relief which Congress had provided employees was withheld from
+them.
+"[Since 1943, however,] * * * The historic role of the jury in
+performing that function * * * [of passing on disputed questions of
+fact] is being restored in this important class of cases."
+See also Rogers v. Missouri Pacific Railroad Co., 352
+U.S. 500, 508-509, 77 S.Ct. 443, 449-450, 1 L.Ed.2d 493
+(1957). See generally Griffith, The Vindication of a
+National Public Policy Under the Employers' Liability
+Act, 18 Law & Contemp.Prob. 160 (1953). Thus, as the
+Eighth Circuit has stated,
+"Under the [Federal Employers' Liability] Act, the right of the jury
+to pass upon the question of fault and causality must be most
+liberally viewed. * * * the jury's power to engage in inferences must
+be recognized as being significantly broader than in common law
+negligence actions."
+[411 F.2d 372] Chicago, Rock Island and Pacific Railroad
+Co. v. Melcher, 8 Cir., 1964, 333 F.2d 996, 999-1000.
+Though we have heretofore adopted in Planters
+Manufacturing Co. v. Protection Mut. Ins. Co., 5 Cir.,
+1967, 380 F.2d 869, the FELA test of the sufficiency of
+evidence to create a jury question as a uniform federal
+standard fashioning a rule of general application, we
+now reject the Planters principle and hold that the FELA
+test is peculiar to that kind of case as a consequence of
+the statute itself and is accordingly not applicable in
+non-FELA jury trials.
+As a corollary to the unique statutory context of FELA
+actions, it is apparent that in the general run of cases
+federal courts have rejected the legendary "scintilla" test.
+Gunning v. Cooley, 281 U.S. 90, 50 S.Ct. 231, 74 L.Ed.
+720 (1930). In 5 Moore, Federal Practice ¶ 50.02[1], p.
+2324 (2d ed. 1968), we find the following pertinent
+commentary:
+"The federal courts are generally committed to a rejection of the socalled
+`scintilla rule,' by which a court might not direct a verdict so
+long as there is any evidence in support of the proposition tendered
+by the party against whom the motion is directed. An argument
+might well be made that such a rule survives, in fact, if not in name,
+in FELA and Jones Act cases.20 [20 See e. g., Harlan, J., dissenting
+in Ferguson v. Moore-McCormack Lines (1957) 352 U.S. 521, 563-
+564, 77 S.Ct. 457, 480, 1 L.Ed.2d 511, 519.] If so, its application is
+limited to those areas and cannot be extended beyond those special
+domains."
+We agree with Professor Moore's analysis and
+conclusion that the FELA test should not be employed
+as a vehicle to re-establish the "scintilla" rule which has
+[411 F.2d 373] been so firmly rejected by the federal
+judiciary.
+Although the Supreme Court has not answered the
+question of law, no Circuit Court of the United States,
+other than the Fifth Circuit, has held that the FELA test
+of sufficiency of evidence is applicable in non-FELA
+cases. The First Circuit expressly rejected the FELA
+standard in Dehydrating Process Co. v. A. O. Smith
+Corp., 1 Cir., 1961, 292 F.2d 653, 656 n. 6, stating that
+such cases had to be considered "on their own bottom,"
+and the Court further said, "We do not appear to have
+considered this question ourselves, but a number of
+other circuits have reached this result without even
+discussion." [Citing, inter alia, Rhodes v. Metropolitan
+Life Insurance Co., 5 Cir. 1949, 172 F.2d 183, cert.
+denied, 337 U.S. 930, 69 S.Ct. 1495, 93 L.Ed. 1738.] See
+Gibson v. Elgin, Joliet & Eastern Railway Company, 7
+Cir., 1957, 246 F.2d 834 (On Petition for Rehearing);
+Cahill v. New York, New Haven & Hartford R. R. Co., 2
+Cir., 1955, 224 F.2d 637 (Frank J., dissenting).
+Finally, the Seventh Amendment of the United States
+Constitution providing for trial by jury does not require,
+either expressly or impliedly, that the test of sufficiency
+of evidence to create a jury question in a non-FELA
+federal case be the same as in an FELA case. The
+tendency of some federal courts, at times, to use overly
+broad language or to cite indiscriminately FELA cases in
+non-FELA situations does not obviate this conclusion.
+See, e. g., Continental Ore Co. v. Union Carbide &
+Carbon Corp., 370 U.S. 690, 700-701, 82 S.Ct. 1404,
+1411, 8 L.Ed.2d 777 (1962); Harris v. Pennsylvania
+Railroad Co., 361 U.S. 15, 16, 80 S.Ct. 22, 23, 4 L.Ed.2d
+1 (1959) (Mr. Justice Douglas, concurring); Bruce
+Lincoln-Mercury, Inc. v. Universal C.I.T. Credit Corp.,
+3 Cir., 1963, 325 F.2d 2, 22.
+The standard provided by the Supreme Court and
+Circuit Courts in FELA cases for sufficiency of evidence
+to create a jury question is proper under the Federal
+Employers' Liability Act, and with this we do not
+disagree. But in non-FELA federal cases which are not
+based on statute, the formulation of the test of
+sufficiency of evidence is substantially different.
+III.
+THE SUBSTANTIAL EVIDENCE OR
+REASONABLE MAN TEST
+We now determine what the proper test should be in
+determining whether there is sufficient evidence to
+submit a [411 F.2d 374] case to the jury in connection
+with motions for directed verdict in a federal court
+trial. The standard we announce is the result of a
+thorough study of the numerous prior decisions of this
+Court which have dealt with the subject. Our task is
+compounded by the fact that many legal writers and
+commentators have used different formulations in
+propounding these standards and the language utilized
+by them remains diverse and occasionally troublesome.
+See 5 Moore, Federal Practice ¶ 50.02 [1], p. 2330 (2d
+ed. 1968); Note, Rule 50(b): Judgment Nowithstanding
+the Verdict, 58 Colum.L.Rev. 517, 522 n. 45; Blume,
+Origin and Development of the Directed Verdict, 48
+Mich.L.Rev. 555 (1950).
+On motions for directed verdict and for judgment
+notwithstanding the verdict the Court should consider
+all of the evidence — not just that evidence which
+supports the non-mover's case — but in the light and
+with all reasonable inferences most favorable to the
+party opposed to the motion. If the facts and inferences
+point so strongly and overwhelmingly in favor of one
+party that the Court believes that reasonable men could
+not arrive at a contrary verdict, granting of the motions
+is proper. On the other hand, if there is substantial
+evidence opposed to the motions, that is, evidence of
+such quality and weight that reasonable and fair-minded
+men in the exercise of impartial judgment might reach
+different conclusions, the motions should be denied, and
+the case submitted to the jury. A mere scintilla of
+evidence is insufficient to present a question for the
+jury. The motions for directed verdict and [411 F.2d 375]
+judgment n. o. v. should not be decided by which side
+has the better of the case, nor should they be granted
+only when there is a complete absence of probative facts
+to support a jury verdict. There must be a conflict in
+substantial evidence to create a jury question. However,
+it is the function of the jury as the traditional finder of
+the facts, and not the Court, to weigh conflicting
+evidence and inferences, and determine the credibility of
+witnesses.
+[411 F.2d 377] Since the Court is sitting en banc in this
+matter, we overrule all prior decisions of this Court
+insofar as they conflict with this opinion, special
+reference being made to those portions of the original
+opinion of the Court in the present case and in Planters
+Manufacturing Co. v. Protection Mut. Ins. Co., 5 Cir.,
+1967, 380 F.2d 869, which do not conform.
+IV.
+CONSIDERATION OF THE MERITS
+Despite our holding that the original opinion of the
+panel in this case is based on erroneous principles of
+law, we have concluded that the facts of record
+sufficiently meet the test we have now formulated to
+require affirmance of the District Court's ruling which
+denied the motions for directed verdict and judgment
+notwithstanding the verdict and submitted the case to
+the jury for its verdict. The jury could fairly conclude
+from all of the evidence, though disputed, that Boeing
+was negligent in failing to provide Shipman with a
+reasonably safe place to work and with a serviceable face
+mask and adequate gloves. Also, that Shipman was
+obliged to work in an area where the booth exhaust fan
+was either off or inadequate to siphon off paint fumes in
+the area in which he was working. Though the expert
+medical proof is not entirely reliable in determining the
+causal connection between Shipman's working
+conditions and his ailments, uncontroverted lay
+testimony showed that Shipman was not suffering from
+polyneuritis or dermatitis prior to working for Boeing.
+Although he had suffered from bronchitis previously,
+the jury could conclude from the evidence that the
+condition was aggravated by Boeing's failure to provide
+a face mask and adequate ventilation.
+Applying the standards we have set forth in this opinion
+and considering all the evidence in the record, we hold
+that the District Judge properly denied the motions for
+directed verdict and judgment notwithstanding the
+verdict and committed no error in sending the case to
+the jury.
+Affirmed.

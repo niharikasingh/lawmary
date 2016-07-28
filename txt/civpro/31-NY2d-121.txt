@@ -1,0 +1,295 @@
+A domiciliary of Ontario, Canada, was killed when the
+automobile in which he was riding, owned and 
+[31
+N.Y.2d 124]
+ driven by a New York resident, collided
+with a train in Ontario. That jurisdiction has a guest
+statute, and the primary question posed by this appeal is
+whether in this action brought by the Ontario
+passenger's estate, Ontario law should be applied and the
+New York defendant permitted to rely on its guest
+statute as a defense.
+The facts are quickly told. On May 7, 1969, Arthur
+Kuehner, the defendant's intestate, a resident of Buffalo,
+drove his automobile from that city to Fort Erie in the
+Province of Ontario, Canada, where he picked up Amie
+Neumeier, who lived in that town with his wife and
+their children. Their trip was to take them to Long
+Beach, also in Ontario, and back again to Neumeier's
+home in Fort Erie. However, at a railroad crossing in the
+Town of Sherkston — on the way to Long Beach — the
+auto was struck by a train of the defendant Canadian
+National Railway Company. Both Kuehner and his
+guest-passenger were instantly killed.
+Neumeier's wife and administratrix, a citizen of Canada
+and a domiciliary of Ontario, thereupon commenced
+this wrongful death action in New York against both
+Kuehner's estate and the Canadian National Railway
+Company. The defendant estate pleaded, as an
+affirmative defense, the Ontario guest statute and the
+defendant railway also interposed defenses in reliance
+upon it. In substance, the statute provides that the
+owner or driver of a motor vehicle is not liable for
+damages resulting from injury to, or the death of, a
+guest-passenger unless he was guilty of gross negligence
+(Highway Traffic Act of Province of Ontario [Ont. Rev.
+Stat. (1960), ch. 172], 
+§
+ 105, subd. [2], as amd. by Stat. of
+1966, ch. 64, 
+§
+ 20, subd. [2]). It is worth noting, at this
+point, that, although our court originally considered
+that the sole purpose of the Ontario statute was to
+protect Ontario defendants and their insurers against
+collusive claims (see Babcock v. Jackson, 12 N.Y.2d 473,
+482-483), "Further research * * * has revealed the
+distinct possibility that one purpose, and perhaps the
+only purpose, of the statute was to protect owners and
+drivers against suits by ungrateful guests." (Reese,
+Choice of Law, 71 Col. L. Rev. 548, 558; see Trautman,
+Two Views on Kell v. Henderson: A Comment, 67 Col.
+L. Rev. 465, 469.)
+[31 N.Y.2d 125]
+ The plaintiff, asserting that the Ontario
+statute "is not available * * * in the present action",
+moved, pursuant to CPLR 3211 (subd. [b]), to dismiss
+the affirmative defenses pleaded. The court at Special
+Term, holding the guest statute applicable, denied the
+motions (63 Misc.2d 766) but, on appeal, a closely
+divided Appellate Division reversed and directed
+dismissal of the defenses (37 A.D.2d 70). It was the
+court's belief that this result was dictated by Tooker v.
+Lopez (24 N.Y.2d 569).
+In reaching that conclusion, the Appellate Division
+misread our decision in the Tooker case — a not
+unnatural result in light of the variant views expressed
+in the three separate opinions written on behalf of the
+majority. It is important to bear in mind that in Tooker,
+the guest-passenger and the host-driver were both
+domiciled in New York, and our decision — that New
+York law was controlling — was based upon, and limited
+to, that fact situation. Indeed, two of the three judges
+who wrote for reversal — Judge KEATING (24 N Y 2d,
+at p. 580) and Judge BURKE (at p. 591) — expressly
+noted that the determination then being made left open
+the question whether New York law would be
+applicable if the plaintiff passenger happened to be a
+domiciliary of the very jurisdiction which had a guest
+statute.
+1 
+ Thus, Tooker v. Lopez did no more than hold
+that, when the passenger and driver are residents of the
+same jurisdiction and the car is there registered and
+insured, its law, and not the law of the place of accident,
+controls and determines the standard of care which the
+host owes to his guest.
+What significantly and effectively differentiates the
+present case is the fact that, although the host was a
+domiciliary of New York, the guest, for whose death
+recovery is sought, was domiciled in Ontario, the place
+of accident and the very jurisdiction which had enacted
+the statute designed to protect the host from liability for
+ordinary negligence. It is clear that, although New York
+has a deep interest in protecting its own residents,
+injured in a foreign state, against unfair or anachronistic
+statutes of that state, it has no legitimate interest in 
+[31
+N.Y.2d 126]
+ ignoring the public policy of a foreign
+jurisdiction — such as Ontario — and in protecting the
+plaintiff guest domiciled and injured there from
+legislation obviously addressed, at the very least, to a
+resident riding in a vehicle traveling within its borders.
+To distinguish Tooker on such a basis is not improperly
+discriminatory. It is quite true that, in applying the
+Ontario guest statute to the Ontario-domiciled
+passenger, we, in a sense, extend a right less generous
+than New York extends to a New York passenger in a
+New York vehicle with New York insurance. That,
+though, is not a consequence of invidious
+discrimination; it is, rather, the result of the existence of
+disparate rules of law in jurisdictions that have diverse
+and important connections with the litigants and the
+litigated issue.
+The fact that insurance policies issued in this State on
+New York-based vehicles cover liability, regardless of
+the place of the accident (Vehicle and Traffic Law, 
+§
+311, subd. 4), certainly does not call for the application
+of internal New York law in this case. The compulsory
+insurance requirement is designed to cover a car-
+owner's liability, not create it; in other words, the
+applicable statute was not intended to impose liability
+where none would otherwise exist. This being so, we
+may not properly look to the New York insurance
+requirement to dictate a choice-of-law rule which would
+invariably impose liability. As Justice MOULE wrote in
+the course of his dissenting opinion below (37 A D 2d,
+at pp. 75-76), "The statute [Vehicle and Traffic Law, 
+§
+311, subd. 4] does not purport to impose liability where
+none would otherwise exist. We must observe that
+Judge KEATING'S statement ([in Tooker, 24 N Y 2d,
+at] p. 577) that the Legislature `has evinced
+commendable concern not only for the residents of this
+State, but residents of other States who may be injured
+as a result of the activities of New York residents' was in
+the context, not of proving that New York had a
+governmental interest in overriding foreign rules of
+liability, but of demonstrating that it was immaterial in
+that case that the driver and passenger, while
+domiciliaries of New York, were attending college in
+Michigan. While New York may be a proper forum for
+actions involving its own domiciliaries, regardless of
+where the accident happened, it does not follow that we
+should apply New York law simply because some may
+think it is a better rule, where doing so does not advance
+any New York State 
+[31 N.Y.2d 127]
+ interest, nor the
+interest of any New York State domiciliary."
+When, in Babcock v. Jackson (12 N.Y.2d 473, supra), we
+rejected the mechanical place of injury rule in personal
+injury cases because it failed to take account of
+underlying policy considerations, we were willing to
+sacrifice the certainty provided by the old rule for the
+more just, fair and practical result that may best be
+achieved by giving controlling effect to the law of the
+jurisdiction which has the greatest concern with, or
+interest in, the specific issue raised in the litigation. (See,
+also, Tooker v. Lopez, 24 N.Y.2d 569, 584 [concurring
+opn.], supra.) In consequence of the change effected —
+and this was to be anticipated — our decisions in multi-
+state highway accident cases, particularly in those
+involving guest-host controversies, have, it must be
+acknowledged, lacked consistency. This stemmed, in
+part, from the circumstance that it is frequently difficult
+to discover the purposes or policies underlying the
+relevant local law rules of the respective jurisdictions
+involved. It is even more difficult, assuming that these
+purposes or policies are found to conflict, to determine
+on some principled basis which should be given effect at
+the expense of the others.
+The single all-encompassing rule which called,
+inexorably, for selection of the law of the place of injury
+was discarded, and wisely, because it was too broad to
+prove satisfactory in application. There is, however, no
+reason why choice-of-law rules, more narrow than
+those previously devised, should not be successfully
+developed, in order to assure a greater degree of
+predictability and uniformity, on the basis of our present
+knowledge and experience. (See, e.g., Cavers, The
+Choice of Law Process, 121-122; Reese, Choice of Law,
+71 Col. L. Rev. 548, 555, 561-562; Reese, Choice of Law:
+Rules or Approach, 57 Corn. L. Rev. 315, 321 et seq.;
+Rosenberg, Comments on Reich v. Purcell, 15 UCLA L.
+Rev. 641, 642, 646-647.) "The time has come," I wrote
+in Tooker (24 N Y 2d, at p. 584), "to endeavor to
+minimize what some have characterized as an ad hoc
+case-by-case approach by laying down guidelines, as well
+as we can, for the solution of guest-host conflicts
+problems." Babcock and its progeny enable us to
+formulate a set of basic principles that may be profitably
+utilized, for they have helped us uncover the underlying
+values and policies which are operative in this area of
+the law. To quote again from the concurring 
+[31 N.Y.2d
+128]
+ opinion in Tooker (p. 584), "Now that these values
+and policies have been revealed, we may proceed to the
+next stage in the evolution of the law — the formulation
+of a few rules of general applicability, promising a fair
+level of predictability." Although it was recognized that
+no rule may be formulated to guarantee a satisfactory
+result in every case, the following principles were
+proposed as sound for situations involving guest statutes
+in conflicts settings (24 N Y 2d, at p. 585):
+"1. When the guest-passenger and the host-driver are domiciled in
+the same state, and the car is there registered, the law of that state
+should control and determine the standard of care which the host
+owes to his guest.
+"2. When the driver's conduct occurred in the state of his domicile
+and that state does not cast him in liability for that conduct, he
+should not be held liable by reason of the fact that liability would be
+imposed upon him under the tort law of the state of the victim's
+domicile. Conversely, when the guest was injured in the state of his
+own domicile and its law permits recovery, the driver who has
+come into that state should not — in the absence of special
+circumstances — be permitted to interpose the law of his state as a
+defense.
+"3. In other situations, when the passenger and the driver are
+domiciled in different states, the rule is necessarily less categorical.
+Normally, the applicable rule of decision will be that of the state
+where the accident occurred but not if it can be shown that
+displacing that normally applicable rule will advance the relevant
+substantive law purposes without impairing the smooth working of
+the multi-state system or producing great uncertainty for litigants.
+(Cf. Restatement, 2d, Conflict of Laws, P.O.D., pt. II, 
+§§
+ 146, 159
+[later adopted and promulgated May 23, 1969].)"
+The variant views expressed not only in Tooker but by
+Special Term and the divided Appellate Division in this
+litigation underscore and confirm the need for these
+rules. Since the passenger was domiciled in Ontario and
+the driver in New York, the present case is covered by
+the third stated principle. The law to be applied is that
+of the jurisdiction where the accident happened 
+[31
+N.Y.2d 129]
+ unless it appears that "displacing [the]
+normally applicable rule will advance the relevant
+substantive law purposes" of the jurisdictions involved.
+Certainly, ignoring Ontario's policy requiring proof of
+gross negligence in a case which involves an Ontario-
+domiciled guest at the expense of a New Yorker does
+not further the substantive law purposes of New York.
+In point of fact, application of New York law would
+result in the exposure of this State's domiciliaries to a
+greater liability than that imposed upon resident users of
+Ontario's highways. Conversely, the failure to apply
+Ontario's law would "impair" — to cull from the rule set
+out above — "the smooth working of the multi-state
+system [and] produce great uncertainty for litigants" by
+sanctioning forum shopping and thereby allowing a
+party to select a forum which could give him a larger
+recovery than the court of his own domicile. In short,
+the plaintiff has failed to show that this State's
+connection with the controversy was sufficient to justify
+displacing the rule of lex loci delictus.
+Professor Willis Reese, the Reporter for the current
+Conflict of Laws Restatement, expressed approval of
+rules such as those suggested above; they are, he wrote,
+"the sort of rules at which the courts should aim" (Reese,
+Choice of Law, 71 Col. L. Rev. 548, 562; see, also, Reese,
+Choice of Law: Rules or Approach, 57 Corn. L. Rev.
+315, 321, 323, 328).
+1 
+ Indeed, in discussing the present
+case following the determination at Special Term that
+Ontario law should govern, he expressed the opinion
+that any other result would have been highly
+unreasonable (71 Col. L. Rev., at p. 563): "So far as the
+New York law was concerned, Judge Keating had
+argued in Tooker v. Lopez that New York's motor
+vehicle compulsory insurance law revealed a
+`commendable concern' not only for New York
+residents but also for non-residents injured by New
+Yorkers. On this basis, it could perhaps be argued that
+New York policy would be furthered by application of
+the New York rule imposing upon the driver the duty of
+exercising ordinary care for 
+[31 N.Y.2d 130]
+ the
+protection of his guest. But could this argument really be
+made with a straight face in support of an Ontario guest
+picked up in Ontario and who enjoyed no similar
+protection under Ontario Law? Was the New York rule
+really intended to be manna for the entire world? One
+can well understand the relief with which the trial judge
+seized upon Judge Fuld's third rule and followed it by
+holding the Ontario statute applicable."
+In each action, the Appellate Division's order should be
+reversed, that of Special Term reinstated, without costs,
+and the questions certified answered in the negative.

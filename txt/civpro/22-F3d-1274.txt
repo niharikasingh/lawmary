@@ -1,0 +1,551 @@
+I. INTRODUCTION
+This matter is before the court on an appeal from orders
+of the district court entered on February 5, 1993, and
+July 6, 1993, imposing sanctions on appellants Arnold
+Levin and Harris J. Sklar pursuant to Fed. R.Civ.P. 11.
+We will set forth the background of this case in detail as
+the issues should be considered in the context of both
+this case and the related litigation we will describe. The
+district court's opinion concluding that there had been
+Rule 11 violations is published as Greenfield v. U.S.
+Healthcare, Inc., 146 F.R.D. 118 (E.D.Pa. 1993), and its
+subsequent opinion fixing the amount of the sanctions is
+dated July 6, 1993. Greenfield v. U.S. Healthcare, Inc.,
+No. 92-6345, 1993 WL 257315 (E.D.Pa. July 6, 1993).
+This action arose in the aftermath of an article in the
+Wall Street Journal published on November 4, 1992,
+entitled "U.S. Healthcare Insiders Sold Stock Before Last
+Week's 17% Price Decline." The article recited that U.S.
+Healthcare, Inc. insiders, including Leonard Abramson,
+its chairman and president, had been heavy sellers of its
+stock before a 17% two-day drop in its price in the week
+before publication of the article. The article indicated
+the drop had been precipitated by disappointing
+earnings.
+James R. Malone, Jr., a member of the Haverford,
+Pennsylvania, law firm of Greenfield & Chimicles, who
+read the article on the morning it was published, was
+interested in its contents because his firm specialized in
+securities litigation. Indeed, in an extraordinary
+allegation, not denied by Malone, U.S. Healthcare in the
+Rule 11 proceedings charged that Greenfield &
+Chimicles maintained a list of corporate stockholders
+available to become plaintiffs in securities litigation.
+1
+Robert K. Greenfield was on that list.
+2 
+ It is undisputed
+that after Malone read the article he examined a
+"representative sampling of stories relating to U.S.
+Healthcare," as well as a report on background
+information on the company. He also obtained
+considerable other information about U.S. Healthcare,
+including filings it had made with the Securities and
+Exchange Commission.
+Malone does not contend that at the time that he was
+doing this research he had a client who had expressed
+any interest in the article to him. Rather, Malone was
+seeking to generate a lawsuit. Thus, in the pithy words
+of the district court, "[h]aving a case but no client," he
+called Greenfield who lives in Florida to discuss the U.S.
+Healthcare situation. Malone described the Wall Street
+Journal article to Greenfield and established that he
+owned stock in U.S. Healthcare. Malone asked
+Greenfield whether he would like Greenfield &
+Chimicles to file a suit on his behalf if the firm believed
+that there had been actionable wrongdoing, and
+Greenfield answered affirmatively. Within hours
+Malone determined that a certain class of U.S.
+Healthcare stockholders had "a legitimate and cognizable
+legal claim" stemming in part from the insiders' stock
+sales.
+Events continued to unfold rapidly on November 4,
+1992, for on that day Malone prepared and filed a class
+action complaint on behalf of Greenfield under section
+10(b) of the Securities Exchange Act of 1934. 15 U.S.C.
+§
+ 78j(b). The gravamen of the complaint was that U.S.
+Healthcare and Abramson had issued false and
+misleading statements which were filed with the
+Securities and Exchange Commission and which caused
+[22 F.3d 1276]
+ Greenfield and the stockholder class to
+purchase U.S. Healthcare stock at artificially inflated
+prices. The complaint asserted controlling person
+liability against Abramson under section 20 of the
+Securities Exchange Act. 15 U.S.C. 
+§
+ 78t. In the
+complaint, Malone recited that Greenfield fairly and
+adequately could represent the interest of the class of
+stockholders on whose behalf the action was being
+brought. Inasmuch as Malone mailed the complaint to
+Greenfield on November 4, 1992, Malone filed it before
+Greenfield received it. Obviously Malone did not think
+it important for Greenfield to see the complaint before
+it was filed even though Malone regards Greenfield as a
+distinguished retired corporate attorney.
+On November 5, 1992, Malone on behalf of Allen
+Strunk filed a second class action against U.S. Healthcare
+and Abramson. The Strunk action repeated the
+allegations word for word from the Greenfield case
+except that the name of the plaintiff and the number of
+shares he owned were changed. Malone filed this action
+after Fred Taylor Isquith, an attorney in New York,
+contacted him and asked him to represent Strunk.
+Malone and Strunk's New York lawyers were not the
+only attorneys interested in the U.S. Healthcare
+situation. On November 4, 1992, appellant Arnold Levin
+of the Philadelphia firm of Levin, Fishbein, Sedran &
+Berman, also read the Wall Street Journal article. Levin
+and his firm have what he characterized as "a long-
+standing professional relationship" with Greenfield &
+Chimicles, and Levin had a high regard for Greenfield &
+Chimicles' ethical standards and skill in handling federal
+securities law suits. On November 4, 1992, after Levin
+had read the article, Malone called him to discuss the
+merits of bringing a section 10(b) action against U.S.
+Healthcare and Abramson. Malone mentioned the Wall
+Street Journal article, and said he had done research into
+whether a section 10(b) action could be brought.
+Malone also told Levin that he had prepared such a
+complaint. Levin requested that Malone fax him a copy
+of the complaint, and Malone promptly did so. Levin
+then read the Greenfield complaint and reread the Wall
+Street Journal article and concluded, as he set forth in
+his affidavit, that "[b]ased upon my experience and
+understanding from the two documents," and in
+"reliance on the integrity of the pre-filing investigation
+of Greenfield & Chimicles," the section 10(b) action had
+merit.
+There was even more interest in the U.S. Healthcare
+situation for on November 4, 1992, appellant Harris J.
+Sklar, a Philadelphia attorney in individual practice, also
+read the article. According to his affidavit, Sklar
+discussed the possibility of bringing an action against
+U.S. Healthcare with his client Scott Garr who was a
+U.S. Healthcare stockholder, and Garr authorized Sklar
+to bring the case on a class action basis. Sklar, however,
+saw the need to obtain co-counsel and consequently
+called Levin, as he had worked with him in the past.
+Levin then told Sklar of his dealings with Malone, and
+Levin and Sklar discussed the possibility of a suit. Sklar
+asked Levin to fax him a copy of the Greenfield
+complaint and Levin did so. Sklar then reviewed the
+complaint and, in his words as set forth in his affidavit,
+"[b]ased on my understanding of the securities laws and
+the facts as described in the Wall Street Journal," he
+determined that the complaint had merit. Sklar thus
+again spoke to Levin and indicated that Levin could file
+the class action on behalf of Scott Garr and Patricia
+Garr, his wife. On November 6, 1992, Levin and Sklar
+filed that complaint which replicated the Greenfield and
+Strunk complaints except that the names of the plaintiffs
+and the number of shares they owned were changed.
+3
+There was now an extraordinary development. On
+November 6, 1992, the same day that Levin and Sklar
+filed the Garr complaint, U.S. Healthcare and Abramson
+moved in the district court for the imposition of
+sanctions pursuant to Rule 11 in the Greenfield, Strunk,
+and Garr actions. This motion was a formidable
+document, as with attachments it exceeded 100 pages.
+At oral argument we asked U.S. Healthcare's attorney,
+Alan J. Davis, how it was possible that he filed this
+motion on the same day the Garr complaint was filed.
+He explained that he had anticipated that following the
+filing of 
+[22 F.3d 1277]
+ the Greenfield complaint there
+would be additional complaints and accordingly his firm
+had a person waiting in the clerk's office to obtain copies
+of them when they were filed.
+4 
+ He further explained
+that in class actions additional complaints are generated
+so that the original attorney will have allies when a vote
+is taken to determine the lead attorney. The lead
+attorney position is coveted as it is likely to bring its
+occupant the largest share of the fees generated by the
+litigation.
+In their brief, U.S. Healthcare and Abramson explained
+the basis for the motion in detail. They asserted that
+Malone, Levin, and Sklar failed to conduct "even the
+most cursory factual and legal investigation" of the case
+and that if they had done so they would have
+determined that the complaints had no basis in fact or
+law. The brief indicated that the three complaints
+demonstrated the "all too familiar pattern of an instant
+class action lawsuit based on newspaper reports
+followed by a covey of cut and paste copycat
+complaints."
+As if what we have described is not remarkable enough,
+there was yet an additional extraordinary development
+in the Greenfield case. On November 8, 1992, Robert K.
+Greenfield finally read the complaint, and at that time
+came to the realization that he had made a mistake in
+bringing the action because he knew of no basis for it
+and because his son had substantial business dealings
+with U.S. Healthcare. Thus, he directed Malone to
+withdraw the complaint. When U.S. Healthcare and
+Abramson learned of Robert K. Greenfield's position,
+they supplemented their motion for Rule 11 sanctions to
+assert that Malone had failed to make a reasonable
+inquiry into whether Greenfield fairly and adequately
+could protect the interests of the plaintiff class.
+Malone filed a declaration in opposition to the Rule 11
+motion.
+5 
+ On December 10, 1992, the district court held
+an evidentiary hearing on the motion at which
+Greenfield testified. On December 15, 1992, the court
+entered an order directing Malone, Isquith, Levin, and
+Sklar to submit documentation that each "conducted a
+reasonable pre-filing inquiry into the facts and law"
+supporting the actions.
+Thereafter, the district court filed its reported opinion
+of February 4, 1993. After setting forth the background
+of the case at length, the court found that Malone could
+not be sanctioned under Rule 11 with respect to the
+accuracy of the information on which he had predicated
+the Greenfield complaint because his inquiry into the
+underlying facts "was reasonable under the
+circumstances." 146 F.R.D. at 125. However, the court
+found that Malone had violated Rule 11 with respect to
+the allegation in the complaint that Greenfield fairly and
+adequately could protect the interests of the class. 146
+F.R.D. at 125-26. But it also found that it could not say
+that Malone had made an inadequate inquiry into
+Strunk's ability fairly and adequately to protect the class.
+Accordingly, as Malone's factual inquiry into the merits
+of the case against U.S. Healthcare and Abramson had
+been reasonable, the court did not impose sanctions in
+the Strunk action.
+The district court next discussed whether sanctions
+should be imposed on Levin and Sklar. In this regard the
+court pointed out that Levin cited our opinion in Lewis
+v. Curtis, 671 F.2d 779 (3d Cir.), cert. denied, 459 U.S.
+880, 103 S.Ct. 176, 74 L.Ed.2d 144 (1982), in which we
+indicated that reliance on an article in the Wall Street
+Journal is not based "on an insubstantial or meaningless
+investigation" and that plaintiffs and their attorneys
+"need not make further expenditures to prove
+independently that which may be read with some
+confidence of truthfulness and accuracy in a respected
+financial journal." The court observed that Lewis was
+decided under Fed.R.Civ.P. 23.1 and that we have never
+applied that case under Rule 11. It then held that Rule 11
+imposes a "nondelegable duty upon the signing attorney
+to conduct his own independent analysis of the facts and
+law which form the basis of a pleading or motion,"
+citing Pavelic & LeFlore Marvel Entertainment Group,
+493 U.S. 120, 125-27, 110 S.Ct. 456, 459-60, 107 L.Ed.2d
+438 (1989). The court rejected Levin's 
+[22 F.3d 1278]
+argument that he could rely on the integrity of the
+investigation by Greenfield & Chimicles, and it
+therefore ruled that Sklar could not rely on that
+investigation either. Ultimately the court held "that
+Levin and Sklar sought to act more quickly than
+fulfilling their duty would have allowed" and that
+"Levin[`s] and Sklar's inquiry, or lack thereof, was
+unreasonable under the circumstances and a violation of
+Rule 11." 146 F.R.D. at 122-28.
+The court provided for the following sanctions. It
+required that Malone, Levin, and Sklar pay all of U.S.
+Healthcare's and Abramson's reasonable costs and
+attorney's fees incurred to that time, that the Greenfield
+and Garr complaints be dismissed without prejudice,
+and that the matter be referred to the Disciplinary Board
+of the Supreme Court of Pennsylvania for an
+investigation into whether the conduct of Malone,
+Levin, and Sklar constituted a violation of the
+Pennsylvania Rules of Professional Conduct. It directed
+the attorneys for U.S. Healthcare and Abramson to file
+an affidavit setting forth their costs and attorneys' fees.
+Of course, the court did not dismiss the Strunk action as
+there had been no Rule 11 violation in that case.
+Nevertheless, that case was dismissed without prejudice
+by stipulation on February 23, 1993. At oral argument,
+we were advised that none of the dismissed actions have
+been reinstituted. Thus, since February 23, 1993, there
+has been no merits litigation in any of the cases in the
+district court. The Rule 11 proceedings were completed
+on July 6, 1993, when, following its receipt of affidavits
+of costs and attorney's fees, the district court entered a
+memorandum opinion and order requiring Malone,
+Levin, and Sklar respectively to pay sanctions of
+$24,697.50, $1,428.00, and $1,428.00. Malone paid his
+sanction and did not thereafter appeal, but Levin and
+Sklar obtained stays and have appealed.
+II. DISCUSSION
+Insofar as significant here, Rule 11 provides that:
+The signature of an attorney or party constitutes a certificate by the
+signer that the signer has read the pleading, motion, or other paper;
+that to the best of the signer's knowledge, information and belief
+formed after reasonable inquiry it is well grounded in fact and is
+warranted by existing law or a good faith argument for the
+extension, modification, or reversal or existing law, and that it is
+not interposed for any improper purpose, such as to harass or cause
+unnecessary delay or needless increase in the cost of litigation.
+6
+The signer's signature on a pleading, motion, or other
+paper certifies the signer has done three things: (1) read
+the pleading, motion, or paper; (2) made a reasonable
+inquiry into the contents of the pleading, motion, or
+other paper and concluded that it is well grounded in
+fact and warranted in law; and (3) has not acted in bad
+faith in signing the document. See CTC Imports and
+Exports v. Nigerian Petroleum Corp., 951 F.2d 573, 578
+(3d Cir. 1991). The court determines the reasonableness
+of an inquiry by applying an objective standard. See
+Business Guides, Inc. v. Chromatic Communications
+Enters., Inc., 498 U.S. 533, 548-50, 111 S.Ct. 922, 932-
+33, 112 L.Ed.2d 1140 (1991); Bradgate Assocs., Inc. v.
+Fellows, Read & Assocs., 999 F.2d 745, 752 (3d
+Cir.1993). It is clear that the signer has a "personal,
+nondelegable responsibility" to comply with the
+requirements of Rule 11 before signing the document.
+Pavelic & LeFlore v. Marvel Entertainment Group, 493
+U.S. at 127, 110 S.Ct. at 460. See In re Mitchell, 901 F.2d
+1179, 1188 & n. 23 (3d Cir.1990).
+A signer's obligation personally to comply with the
+requirements of Rule 11 clearly does not preclude the
+signer from any reliance on information from other
+persons. For example, no one could argue fairly that it
+would be unreasonable for an attorney to rely on
+witnesses to an accident before bringing a personal
+injury action. After all, the accident hardly can be
+reconstructed for the benefit of a plaintiff's attorney.
+Similarly, an attorney is not always foreclosed from
+relying on information from other persons. Thus, in
+CTC Imports and Exports, we stated that a
+determination 
+[22 F.3d 1279]
+ of whether there has been
+"`a reasonable inquiry may depend on ... whether [the
+signer] depended on forwarding counsel or another
+member of the bar.'" 951 F.2d at 578 (quoting Notes of
+Advisory Committee on Rules, 1983 Amendment,
+Fed.R.Civ.P. 11, reprinted at 97 F.R.D. 165, 199).
+Furthermore, as we recognized in CTC Imports and
+Exports, inasmuch as the standard under Rule 11 is "fact
+specific," the court must consider all the material
+circumstances in evaluating the signer's conduct. 951
+F.2d at 578.
+It is also important to observe that when the court
+examines the sufficiency of the inquiry into the facts and
+law, it must avoid drawing on the wisdom of hindsight
+and should test the signer's conduct by determining
+what was reasonable when the document was
+submitted. Bradgate Assocs., 999 F.2d at 752; CTC
+Imports and Exports, 951 F.2d at 578. Thus, if under an
+objective standard, the signer made a reasonable inquiry
+both as to the fact and the law at the time a document
+was submitted, subsequent developments showing that
+the signer's position was incorrect will not subject the
+signer to Rule 11 sanctions for having submitted the
+document. On the other hand, a signer making an
+inadequate inquiry into the sufficiency of the facts and
+law underlying a document will not be saved from a
+Rule 11 sanction by the stroke of luck that the document
+happened to be justified. As the court indicated in Vista
+Mfg., Inc. v. Trac-4 Inc., 131 F.R.D. 134, 138
+(N.D.Ind.1990), "A shot in the dark is a sanctionable
+event, even if it somehow hits the mark." The court in
+Vista correctly stated the law, for if a lucky shot could
+save the signer from sanctions, the purpose of Rule 11
+"to deter baseless filings" would be frustrated. Cooter &
+Gell v. Hartmarx Corp., 496 U.S. 384, 393, 110 S.Ct.
+2447, 2454, 110 L.Ed.2d 359 (1990).
+There is also a temporal element in a determination of
+whether an inquiry was reasonable. Thus, we have
+recognized that a factor in ascertaining the
+reasonableness of the signer's inquiry is the amount of
+time available to investigate the facts and law involved.
+Bradgate Assocs., 999 F.2d at 752; CTC Imports and
+Exports, 951 F.2d at 578. Accordingly, if a client comes
+into an attorney's office for an initial consultation
+concerning a possible case one day before the statute of
+limitations will run, the attorney might be justified in
+filing a complaint predicated on an inquiry which would
+be inadequate if the attorney had more time for
+investigation. On the other hand, an attorney with a
+great deal of time to file a document might be expected
+to make a more comprehensive inquiry than an attorney
+working under severe time constraints.
+In reviewing a district court's Rule 11 determination, we
+use the abuse of discretion standard. Cooter & Gell v.
+Hartmarx Corp., 496 U.S. at 405, 110 S.Ct. at 2461. See
+also Lony v. E.I. DuPont de Nemours & Co., 935 F.2d
+604, 615 (3d Cir.1991). However, this standard may
+incorporate other standards of review, for the Supreme
+Court has indicated that a district court "would
+necessarily abuse its discretion if it based its ruling on an
+erroneous view of the law or on a clearly erroneous
+assessment of the evidence." Cooter & Gell v. Hartmarx
+Corp., 496 U.S. at 405, 110 S.Ct. at 2461.
+Application of the foregoing principles requires us to
+affirm. We, of course, are exercising the abuse of
+discretion standard, for this is not a case in which the
+historical facts underlying the court's determination are
+in dispute. As Levin and Sklar explain in their brief:
+"Here, Levin acquired the knowledge from one whom
+he knew to be competent securities law counsel,
+Malone, coupled with the knowledge Levin obtained
+from the Wall Street Journal, and his experienced
+understanding of the securities laws. [sic] Levin passed
+this information on to Sklar so that he too could make
+the same certification." Brief at 17.
+We do not doubt that sometimes it is difficult to
+reconcile the tension between the requirement that a
+signer personally discharge the Rule 11 obligations and
+the acknowledgement that a signer may rely on another
+party's inquiry in some cases. But this appeal presents no
+difficulties. Malone's declaration described the scope of
+his inquiry in great detail. He obtained a representative
+sampling of stories regarding U.S. Healthcare and a
+"disclo" report giving a great deal of financial
+information regarding U.S. 
+[22 F.3d 1280]
+ Healthcare,
+including five-year figures showing sales, net income,
+earnings per share, and growth rate. He also considered
+financial ratios and examined forms filed with the
+Securities and Exchange Commission showing trading
+in U.S. Healthcare stock by insiders. In fact, in the
+district court's view, Malone's inquiry was inadequate
+only as to Greenfield's status as the class representative.
+7
+On the other hand, Levin and Sklar relied only on the
+Wall Street Journal article, the Greenfield complaint,
+and Malone. They made no effort to examine the
+numerous materials Malone assembled, and they cannot
+justify their failure to have done so. They do not
+contend that Malone would not at their request have
+sent the materials to them. Alternatively, we see no
+reason why they could not have seen the materials by
+travelling the short distance from their offices in
+Philadelphia to Malone's office in Haverford, a
+Philadelphia suburb. We also point out that the
+documents on which Malone relied were all accessible to
+the public so that Levin and Sklar could have obtained
+them themselves.
+Furthermore, there were no time constraints requiring
+Levin and Sklar to file the Garr complaint on an
+expedited basis. The Wall Street Journal article was
+published on November 4, 1992, and Levin and Sklar
+filed the Garr complaint two days later. Levin and Sklar
+do not contend that they were confronted with a statute
+of limitations problem compelling immediate action. At
+oral argument, counsel for U.S. Healthcare and
+Abramson indicated that in his view the one year/three
+year limitations rule recognized in Lampf, Pleva,
+Lipkind, Prupis & Petigrow v. Gilbertson, 501 U.S. 350,
+___, 111 S.Ct. 2773, 2782, 115 L.Ed.2d 321 (1991), was
+applicable. While we neither endorse nor reject that
+position as it has not been briefed, it is clear that there
+could not have been a statute of limitations problem, as
+the Wall Street Journal article described events in the
+very recent past.
+We also point out that Levin and Sklar have advanced
+no other reason why the Garr complaint had to have
+been filed within two days of the publication of the
+article. They do not contend, for example, that the Garrs
+needed emergency relief, nor do they suggest that U.S.
+Healthcare or Abramson might have evaded process or
+concealed assets if the suit had not been filed so quickly.
+While at oral argument the suggestion was made that
+class actions are brought quickly so that the attorney
+filing the case may control the litigation, we would not
+regard that reason as in any way detracting from the
+reasonable inquiry otherwise required under Rule 11.
+At bottom, there is no escape from the conclusion that
+Levin and Sklar abdicated their own responsibilities and
+relied excessively on Malone contrary to Rule 11.
+Furthermore, they did not rely on Malone only as to
+some small portion of the case. Rather, they relied on
+his inquiry to justify the entire cause of action. Indeed,
+they filed the complaint Malone had prepared, changing
+only the name of the plaintiffs and the number of shares
+owned. We recognize that it could be argued that it
+would have been pointless for Levin and Sklar to make
+an inquiry into the merits of the case sufficient to satisfy
+Rule 11 as Malone already had done so. Yet Rule 11
+requires that an attorney signing a pleading must make a
+reasonable inquiry personally. The advantage of
+duplicate personal inquiries is manifest: while one
+attorney might find a complaint well founded in fact and
+warranted by the law, another, even after examining the
+materials available to the first attorney, could come to a
+contrary conclusion. Overall, we conclude that the Rule
+11 violation in this case is so clear that even on a plenary
+review, we would uphold the sanctions imposed on
+Levin and Sklar. Accordingly, under the deferential
+abuse of discretion standard, we certainly must affirm
+the district court's determination that sanctions were
+required.
+In reaching our result, we have not overlooked Levin's
+and Sklar's reliance on Lewis v. Curtis, 671 F.2d 779.
+Rather, we determine that the case does not help them.
+In fact, in Lewis v. Curtis we did not discuss or even cite
+Rule 11. Indeed, insofar as germane 
+[22 F.3d 1281]
+ here,
+in Lewis v. Curtis we merely indicated that reliance on
+an article in the Wall Street Journal is not based "on an
+insubstantial or meaningless investigation" for purposes
+of Rule 23.1. 671 F.2d at 788. Rule 23.1, however, deals
+with the requirement in derivative actions that the
+plaintiff verify certain allegations of the complaint. But
+Rule 23.1 has no counterpart to the Rule 11 requirement
+that a pleading, motion or other paper be signed only
+after "reasonable inquiry." Thus, an attorney cannot rely
+on Lewis v. Curtis in determining whether an inquiry is
+reasonable under Rule 11.
+There is another reason why Lewis v. Curtis is
+inapposite and why Levin's and Sklar's reliance on the
+Wall Street Journal never could have been sufficient in
+this case. A significant aspect of the Garr complaint was
+that U.S. Healthcare had been filing false and misleading
+quarterly reports with the Securities and Exchange
+Commission to the injury of Garr and the class. Yet
+inasmuch as the Wall Street Journal article never
+suggested that U.S. Healthcare had been filing false
+reports, Levin and Sklar could not reasonably have
+relied on the article for that information. Indeed, neither
+Levin nor Sklar even asserts that he ever saw these
+publicly available reports before they filed the Garr
+complaint. We are at a total loss to understand how
+attorneys can urge that they have made a reasonable
+inquiry into the facts and the law of a case when their
+complaint is predicated on allegedly false statements in
+documents which they have not bothered to read.
+Levin and Sklar seek to avoid sanctions by citing
+language from our opinions in Doering v. Union
+County Bd. of Chosen Freeholders, 857 F.2d 191, 194
+(3d Cir.1988), and Gaiardo v. Ethyl Corp., 835 F.2d 479,
+483 (3d Cir. 1987), that Rule 11 should be applied only
+in "exceptional circumstances" or where the document
+"is patently unmeritorious or frivolous." But these cases
+can be of no comfort to Levin and Sklar. As we have
+made clear, the sanctions in this case were not
+predicated on a conclusion by the court that the Garr
+complaint was unmeritorious. The Rule 11 problem is
+that neither Levin nor Sklar made a reasonable inquiry
+as required by Rule 11 before signing the complaint.
+Furthermore, the suggestion that Rule 11 should be
+used only in "exceptional circumstances" was intended
+to explain that sanctions were not to be imposed merely
+because there is a disagreement as to the correct
+resolution of a matter in litigation. Gaiardo, 835 F.2d at
+483.
+Finally, Levin and Sklar urge that the district court
+abused its discretion in imposing the monetary
+sanctions. This contention is frivolous. In fact, the
+monetary sanction of $1,428 imposed on each reflected
+great restraint by the district court. Langer v. Monarch
+Life Ins. Co., 966 F.2d 786, 811 (3d Cir.1992).
+III. CONCLUSION
+The orders of February 5, 1993, and July 6, 1993, will be
+affirmed.

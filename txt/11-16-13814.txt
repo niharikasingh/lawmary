@@ -1,0 +1,67 @@
+Pursuant to 28 U.S.C. §§ 2255(h) and 2244(b)(3)(A), Leslie Parker has filed an application
+seeking an order authorizing the district court to consider a second or successive motion to vacate,
+set aside, or correct his federal sentence, 28 U.S.C. § 2255. Such authorization may be granted
+only if this Court certifies that the second or successive motion contains a claim involving:
+(1) newly discovered evidence that, if proven and viewed in light of the
+evidence as a whole, would be sufficient to establish by clear and convincing
+evidence that no reasonable factfinder would have found the movant guilty of the
+offense; or
+(2) a new rule of constitutional law, made retroactive to cases on collateral
+review by the Supreme Court, that was previously unavailable.
+28 U.S.C. § 2255(h). “The court of appeals may authorize the filing of a second or successive
+application only if it determines that the application makes a prima facie showing that the
+application satisfies the requirements of this subsection.” Id. § 2244(b)(3)(C); see also
+Jordan v. Sec’y, Dep’t of Corr., 485 F.3d 1351, 1357–58 (11th Cir. 2007) (explaining that this
+Court’s determination that an applicant has made a prima facie showing that the statutory criteria
+have been met is simply a threshold determination).
+In his application, Parker indicates that he wishes to raise one claim in a second or
+successive § 2255 motion. He asserts that his claim is based on the rule announced in Johnson v.
+United States, 576 U.S. ___, 135 S. Ct. 2551 (2015), and made retroactive by Welch v. United
+States, 578 U.S. ___, 136 S. Ct. 1257 (2016). In Johnson, the Supreme Court held that the
+residual clause of the “violent felony” definition in the Armed Career Criminal Act (ACCA) is
+unconstitutionally vague and that imposing an increased sentence under that provision therefore
+violates due process.1 According to Parker, his ACCA sentence is invalid under Johnson because
+the sentence arose under the residual clause.
+Applying our decision in In re Rogers, No. 16-12626 (11th Cir. June 17, 2016) (per
+curiam), Parker has made a prima facie showing based on Johnson. Under Rogers, “[w]hen the
+record does not make clear that the sentencing court relied solely on the ACCA’s still-valid
+provisions to classify each predicate offense and binding precedent does not otherwise
+demonstrate that only valid ACCA clauses are implicated, we apply Descamps [v. United
+States].”2 Slip op. at 4. “At that point, if it is unclear from binding precedent that the state
+statute at issue is divisible under Descamps, then the applicant has made out a prima facie case that
+his application contains a Johnson claim under § 2255(h).” Id.
+Here, Parker was sentenced under the ACCA based on two 1982 Florida convictions for
+aggravated assault and a 1983 Florida conviction for burglary of a dwelling. Those convictions
+were included in Parker’s indictment, and the presentence investigation report (PSI) relied on the
+indictment in determining that the ACCA enhancement applied. The sentencing court adopted
+the PSI without specifically discussing the convictions, thereby applying the ACCA enhancement
+based on the assault and burglary convictions. While Parker has additional prior convictions, our
+review at this stage is limited to whether the convictions that the sentencing court actually relied on
+implicate Johnson. See id. at 3–4 (holding that we may only deny an application if the ACCA
+predicates “identified” by the sentencing court clearly were not affected by Johnson). In other
+words, if one of Parker’s Florida convictions implicates Johnson, then he has made a prima facie
+showing regardless as to whether he has other convictions that potentially satisfy the ACCA’s
+three-qualifying-offenses requirement.
+Under Rogers, Parker has shown that his burglary conviction may be a residual-clause
+predicate. The sentencing court did not state that it counted the burglary conviction as an ACCA
+predicate based on the enumerated or elements clauses. Moreover, there is no binding precedent
+that makes clear that the conviction categorically qualifies as an ACCA predicate under one of
+those clauses. In United States v. Weeks, we determined that the defendant’s Florida burglary
+conviction constituted an ACCA predicate based on the enumerated clause. 711 F.3d 1255,
+1262–63 (11th Cir. 2013). However, there, we used the modified categorical approach and thus
+did not hold that Florida burglary categorically qualifies as an enumerated-clause predicate. See
+id. Absent any binding precedent holding that Parker’s conviction categorically qualifies as an
+ACCA predicate under a still-valid clause, we must turn to Descamps. See Rogers, slip op. at 4.
+And we do not have any binding precedent holding that the Florida burglary statute is divisible
+under Descamps. See United States v. Lockett, 810 F.3d 1262, n.1 (11th Cir. 2016). Although
+Weeks applied the modified categorical approach—indicating that it found the Florida burglary
+statute divisible—Weeks predated Descamps. Since Weeks was decided before Descamps, it is
+not a “binding precedent” that holds that the Florida burglary statute “is divisible under
+Descamps.” See Rogers, slip op. at 4. Accordingly, Weeks is inapposite here, and based on his
+burglary conviction, Parker “has made out a prima facie case that his application contains a
+Johnson claim under § 2255(h).”4 Id.
+denying the government that choice.” See In re Jackson, No. 16-13536, slip op. at 8–9 (11th Cir.
+June 24, 2016) (per curiam).
+Because Parker has made a prima facie showing that he has raised a claim that meets the
+statutory criteria set forth in 28 U.S.C. § 2255, his application for leave to file a second or
+successive § 2255 motion is hereby GRANTED.

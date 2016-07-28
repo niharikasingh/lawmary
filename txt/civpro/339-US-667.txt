@@ -1,0 +1,356 @@
+In 1945, Michigan-Wisconsin Pipe Line Company
+sought from the Federal Power Commission a certificate
+of public convenience and necessity, required by § 7 (c)
+of the Natural Gas Act, 52 Stat. 825, as amended, 15 U.
+S. C. § 717f (c), for the construction and operation of a
+pipe line to carry natural gas from Texas to Michigan
+and Wisconsin. A prerequisite for such a certificate is
+adequate reserves of gas. To obtain these reserves
+Michigan-Wisconsin entered into an agreement with
+Phillips Petroleum Company on December 11, 1945,
+whereby the latter undertook to make available gas from
+the Hugoton Gas Field, sprawling over Kansas,
+Oklahoma and Texas, which it produced or purchased
+from others. Phillips had contracted with petitioners,
+Skelly Oil Company, Stanolind Oil and Gas Company,
+and Magnolia Petroleum Company, to purchase gas
+produced by them in the Hugoton Field for resale to
+Michigan-Wisconsin. Each contract provided that "in
+the event Michigan-Wisconsin Pipe Line Company
+shall fail to secure from the Federal Power Commission
+on or before [October 1, 1946] a certificate of public
+convenience and necessity for the construction and
+operation of its pipe line, Seller [a petitioner] shall have
+the right to terminate this contract by written notice to
+Buyer [Phillips] delivered to Buyer at any time after
+December 1, 1946, but before the issuance of such
+certificate." The legal significance of this provision is at
+the core of this litigation.
+The Federal Power Commission, in response to the
+application of Michigan-Wisconsin, on November 30,
+1946, ordered that "A certificate of public convenience
+and necessity be and it is hereby issued to applicant
+[Michigan-Wisconsin], upon the terms and conditions
+of this order," listing among the conditions that there be
+no transportation [339 U.S. 670] or sale of natural gas by
+means of the sanctioned facilities until all necessary
+authorizations were obtained from the State of
+Wisconsin and the communities proposed to be served,
+that Michigan-Wisconsin should have the approval of
+the Securities and Exchange Commission for its plan of
+financing, that the applicant should file for the approval
+of the Commission a schedule of reasonable rates, and
+that the sanctioned facilities should not be used for the
+transportation of gas to Detroit and Ann Arbor except
+with due regard for the rights and duties of Panhandle
+Eastern Pipe Line Company, which had intervened
+before the Federal Power Commission, in its established
+service for resale in these areas, such rights and duties to
+be set forth in a supplemental order. It was also
+provided that Michigan-Wisconsin should have fifteen
+days from the issue of the supplemental order to notify
+the Commission whether the certificate "as herein
+issued is acceptable to it." Finally, the Commission's
+order provided that for purposes of computing the time
+within which applications for rehearing could be filed,
+"the date of issuance of this order shall be deemed to be
+the date of issuance of the opinions, or of the
+supplemental order referred to herein, whichever may
+be the later." 5 F. P. C. 953, 954, 956.
+News of the Commission's action was released on
+November 30, 1946, but the actual content of the order
+was not made public until December 2, 1946. Petitioners
+severally, on December 2, 1946, gave notice to Phillips
+of termination of their contracts on the ground that
+Michigan-Wisconsin had not received a certificate of
+public convenience and necessity. Thereupon MichiganWisconsin
+and Phillips brought suit against petitioners
+in the District Court for the Northern District of
+Oklahoma. Alleging that a certificate of public
+convenience and necessity, "within the meaning of said
+Natural Gas Act and said contracts" had been issued
+prior to petitioners' attempt [339 U.S. 671] at
+termination of the contracts, they invoked the Federal
+Declaratory Judgment Act for a declaration that the
+contracts were still "in effect and binding upon the
+parties thereto." Motions by petitioners to have
+Michigan-Wisconsin dropped as a party plaintiff were
+sustained, but motions to dismiss the complaint for
+want of jurisdiction were denied. The case then went to
+the merits, and the District Court decreed that the
+contracts between Phillips and petitioners had not been
+"effectively terminated and that each of such contracts
+remain [sic] in full force and effect." The Court of
+Appeals for the Tenth Circuit affirmed, 174 F.2d 89, and
+we brought the case here, 338 U.S. 846, because it raises
+in sharp form the question whether a suit like this
+"arises under the Constitution, laws or treaties of the
+United States," 28 U. S. C. § 1331, so as to enable
+District Courts to give declaratory relief under the
+Declaratory Judgment Act. 48 Stat. 955, as amended,
+now 28 U. S. C. § 2201.
+"[T]he operation of the Declaratory Judgment Act is
+procedural only." Aetna Life Ins. Co. v. Haworth, 300
+U.S. 227, 240. Congress enlarged the range of remedies
+available in the federal courts but did not extend their
+jurisdiction. When concerned as we are with the power
+of the inferior federal courts to entertain litigation
+within the restricted area to which the Constitution and
+Acts of Congress confine them, "jurisdiction" means the
+kinds of issues which give right of entrance to federal
+courts. Jurisdiction in this sense was not altered by the
+Declaratory Judgment Act. Prior to that Act, a federal
+court would entertain a suit on a contract only if the
+plaintiff asked for an immediately enforceable remedy
+like money damages or an injunction, but such relief
+could only be given if the requisites of jurisdiction, in
+the sense of a federal right or diversity, provided
+foundation for resort to the federal courts. The
+Declaratory Judgment Act allowed relief to be given by
+way of recognizing the plaintiff's [339 U.S. 672] right
+even though no immediate enforcement of it was asked.
+But the requirements of jurisdiction—the limited subject
+matters which alone Congress had authorized the
+District Courts to adjudicate—were not impliedly
+repealed or modified. See Great Lakes Dredge & Dock
+Co. v. Huffman, 319 U.S. 293, 300; Colegrove v. Green,
+328 U.S. 549, 551-52.
+If Phillips sought damages from petitioners or specific
+performance of their contracts, it could not bring suit in
+a United States District Court on the theory that it was
+asserting a federal right. And for the simple reason that
+such a suit would "arise" under the State law governing
+the contracts. Whatever federal claim Phillips may be
+able to urge would in any event be injected into the case
+only in anticipation of a defense to be asserted by
+petitioners. "Not every question of federal law emerging
+in a suit is proof that a federal law is the basis of the
+suit." Gully v. First National Bank, 299 U.S. 109, 115;
+compare 28 U. S. C. § 1257, with 28 U. S. C. § 1331.
+Ever since Metcalf v. Watertown, 128 U.S. 586, 589, it
+has been settled doctrine that where a suit is brought in
+the federal courts "upon the sole ground that the
+determination of the suit depends upon some question
+of a Federal nature, it must appear, at the outset, from
+the declaration or the bill of the party suing, that the suit
+is of that character." But "a suggestion of one party, that
+the other will or may set up a claim under the
+Constitution or laws of the United States, does not make
+the suit one arising under that Constitution or those
+laws." Tennessee v. Union & Planters' Bank, 152 U.S.
+454, 464. The plaintiff's claim itself must present a
+federal question "unaided by anything alleged in
+anticipation of avoidance of defenses which it is thought
+the defendant may interpose." Taylor v. Anderson, 234
+U.S. 74, 75-76; Louisville & Nashville R. Co. v. Mottley,
+211 U.S. 149, 152.
+[339 U.S. 673] These decisions reflect the current of
+jurisdictional legislation since the Act of March 3, 1875,
+18 Stat. 470, first entrusted to the lower federal courts
+wide jurisdiction in cases "arising under this
+Constitution, the Laws of the United States, and
+Treaties." U. S. Const. Art. III, § 2. "The change is in
+accordance with the general policy of these acts,
+manifest upon their face, and often recognized by this
+court, to contract the jurisdiction of the Circuit Courts
+[which became the District Courts] of the United
+States." Tennessee v. Union & Planters' Bank, supra at
+462. See also Arkansas v. Kansas & Texas Coal Co., 183
+U.S. 185, 188, and Gully v. First National Bank, supra at
+112-14. With exceptions not now relevant Congress has
+narrowed the opportunities for entrance into the federal
+courts, and this Court has been more careful than in
+earlier days in enforcing these jurisdictional limitations.
+See Gully v. First National Bank, supra at 113.
+To be observant of these restrictions is not to indulge in
+formalism or sterile technicality. It would turn into the
+federal courts a vast current of litigation indubitably
+arising under State law, in the sense that the right to be
+vindicated was State-created, if a suit for a declaration of
+rights could be brought into the federal courts merely
+because an anticipated defense derived from federal law.
+Not only would this unduly swell the volume of
+litigation in the District Courts but it would also
+embarrass those courts—and this Court on potential
+review—in that matters of local law may often be
+involved, and the District Courts may either have to
+decide doubtful questions of State law or hold cases
+pending disposition of such State issues by State courts.
+To sanction suits for declaratory relief as within the
+jurisdiction of the District Courts merely because, as in
+this case, artful pleading anticipates a defense based on
+federal law would contravene the whole trend of
+jurisdictional legislation [339 U.S. 674] by Congress,
+disregard the effective functioning of the federal judicial
+system and distort the limited procedural purpose of the
+Declaratory Judgment Act. See Developments in the
+Law—Declaratory Judgments—1941-1949, 62 Harv. L.
+Rev. 787, 802-03 (1949). Since the matter in controversy
+as to which Phillips asked for a declaratory judgment is
+not one that "arises under the . . . laws . . . of the United
+States" and since as to Skelly and Stanolind jurisdiction
+cannot be sustained on the score of diversity of
+citizenship, the proceedings against them should have
+been dismissed.
+As to Magnolia, a Texas corporation, a different
+situation is presented. Since Phillips was a Delaware
+corporation, there is diversity of citizenship. Magnolia
+had qualified to do business in Oklahoma and appointed
+an agent for service of process in accordance with the
+prevailing Oklahoma statute. Okla. Stat. Ann. tit. 18, §
+452 (1937). Magnolia claimed that the subject matter of
+this proceeding did not arise in Oklahoma within the
+meaning of its consent to be sued. This contention was
+rejected below, and we do not reexamine the local law as
+applied by the lower courts. Under the doctrine of
+Neirbo Co. v. Bethlehem Shipbuilding Corp., 308 U.S.
+165, venue was properly laid in Oklahoma; that the
+declaratory remedy which may be given by the federal
+courts may not be available in the State courts is
+immaterial.
+Therefore, in the case of Magnolia we must reach the
+merits. They relate to two matters: (1) the clause in the
+contract with Phillips permitting its termination at any
+time after December 1, 1946, but before the "issuance"
+of "a certificate of public convenience and necessity" by
+the Federal Power Commission; and (2) whether this
+provision was satisfied by Magnolia's notice of
+termination of December 2, 1946, despite the
+Commission's order of November 30, 1946. The
+phraseology "certificate of [339 U.S. 675] public
+convenience and necessity" in the contract is identic
+with the phrase in § 7 (c) of the Natural Gas Act. The
+Court of Appeals equated the term of the contract with
+that in the statute and in effect deemed its problem to be
+the proper construction of what constitutes the
+"issuance" of a "certificate of public convenience and
+necessity" within the meaning of § 7 (c). So viewing the
+matter, the court held that the order of November 30,
+1946, satisfied the requirement of the contract, and that
+therefore a certificate of public convenience and
+necessity had been issued within the terminal period of
+the contract, and that its termination was not timely.
+It will be recalled that the order of November 30, 1946,
+had three parts: (A) it stated that "A certificate of public
+convenience and necessity be and it is hereby issued to
+applicant [Michigan-Wisconsin]"; (B) it imposed certain
+conditions upon the grant, some of which were to be set
+forth in a supplemental order; and (C) it said that "For
+the purpose of computing the time within which
+applications for rehearing may be filed, the date of
+issuance of this order shall be deemed to be the date of
+issuance of the opinions, or of the supplemental order
+referred to herein, whichever may be the later." 5 F. P.
+C. at 954, 956. The course of reasoning by which the
+Court of Appeals concluded that the order of November
+30, 1946, satisfied the statutory requirement for a
+certificate of public convenience and necessity can be
+briefly summarized. It relied on the grammatical
+argument that the Commission used the present tense in
+its order and subsequently referred to it as an order
+"issuing a certificate of public convenience and
+necessity," e. g., 6 F. P. C. 1, 37; the conditional nature of
+the order was not deemed to impair its efficacy since § 7
+(e) of the Natural Gas Act authorized the Commission
+"to attach to the issuance of the certificate and to the
+exercise of the rights granted there-under such
+reasonable terms and conditions as the public [339 U.S.
+676] convenience and necessity may require"; and the
+provision of the order connecting the date of the order's
+issuance with the time defined for securing a rehearing
+was thought relevant only to the supplemental order.
+We are not persuaded now to rest decision on the
+analysis of the Court of Appeals which led to its
+conclusion. We need not linger long on the merely
+grammatical argument of that court; it is given more
+weight than it can bear. Of course, the Commission has
+considerable administrative discretion to decide when
+an order may fairly be deemed to have been "issued."
+Section 16 of the Act provides that "Orders of the
+Commission shall be effective on the date and in the
+manner which the Commission shall prescribe." But
+surely a certificate cannot be said to have been issued for
+purposes of defining rights and the seeking of
+reconsideration by an aggrieved person if its substance is
+merely in the bosom of the Commission. Knowledge of
+the substance must to some extent be made manifest.
+Here the content of the order of November 30, 1946,
+was not made public until December 2, 1946, the date of
+the termination notice.
+The Commission itself in its rule for computing
+rehearing time distinguishes between "adoption" of an
+order and its "issuance."1 However, as a matter of [339
+U.S. 677] usage, the Commission has referred to an
+order as having "issued" a certificate on a particular date
+when in fact the date was that of "adoption." See, e. g.,
+Arkansas Louisiana Gas Co., 5 F. P. C. 813, 897; cf.
+Pacific Gas & Elec. Co., 5 F. P. C. 824, 901. Finally, the
+restriction of the Court of Appeals of the rehearing
+provision of Part C to the supplemental order finds no
+support on the face of the order of November 30, 1946.
+There is nothing to indicate that Part C was not to apply
+to the entire order for purposes of § 19 of the Act,
+which allows a rehearing by a party aggrieved "within
+thirty days after the issuance of such order" and makes
+such rehearing a prerequisite to judicial review. See 6 F.
+P. C. 323.
+Since the requirements of the Natural Gas Act for the
+issuance of "a certificate of public convenience and
+necessity" may be distributive in scope, varying with the
+different contexts in which the question must be
+examined, this is not the occasion to decide that these
+requirements have a single uniform content. Whether
+the statutory requirement here was satisfied is not a
+question of fact, the finding of which by the District
+Court is to be respected unless clearly erroneous. The
+District Court merely found that the content of the
+piece of paper dated November 30, 1946, was that day
+agreed upon in executive session of the Commission and
+that that fact was made known. But this leaves
+untouched the legal significance of this action of the
+Commission, and the Court ought not now in darkness
+to pronounce on this question.
+We are not restricted to disposition of the controversy
+on so truncated a treatment of the issues that underlie
+the record. Considering the fact that so to dispose of the
+case [339 U.S. 678] would involve determination of an
+important problem concerning a regulatory statute with
+implications of public importance that private litigants
+naturally enough do not wholly represent and that on
+these matters neither the courts below nor this Court
+had the benefit of the experience and illumination of the
+agency entrusted with the enforcement of the Act,2 the
+due administration of justice requires that we should
+exercise our discretionary power in reviewing cases to
+"require such further proceedings to be had as may be
+just under the circumstances." 28 U. S. C. § 2106;
+Honeyman v. Hanan, 300 U.S. 14, 25. Accordingly, we
+think that the proper disposition requires that we vacate
+the judgment as to Magnolia and remand the case in
+order that the Court of Appeals either itself or by
+sending the case back to the District Court can further
+explore, through ways that may be appropriate, the
+issues which have been laid bare. See Kennedy v. Silas
+Mason Co., 334 U.S. 249.
+The impact of the litigation both here and below was on
+the proper construction of § 7 (c). Even though the
+language of the contract may be identic with that of § 7
+(c), this language in the contract may have a scope
+independent of the proper construction of § 7 (c). The
+same words, in different settings, may not mean the
+same thing. Compare opinion of Mr. Justice Holmes in
+Towne v. Eisner, 245 U.S. 418, with his dissent in
+Eisner v. Macomber, 252 U.S. 189, 219. Parties do not
+necessarily endow statutory language in a contract with
+the scope of the statute, particularly when the same term
+may have variant meanings for different applications of
+the statute. See Standard Oil Co. v. Johnson, 316 U.S.
+481, 483.[339 U.S. 679] Of course the statutory meaning
+in the context of the entire Natural Gas Act may not be
+irrelevant. In remanding the case we do not mean to
+foreclose this line of inquiry.3
+In respect to Magnolia, the judgment of the Court of
+Appeals is vacated and the cause remanded for further
+proceedings not inconsistent with this opinion. As to
+Skelly and Stanolind, we reverse the judgment with
+directions that the cause be dismissed.

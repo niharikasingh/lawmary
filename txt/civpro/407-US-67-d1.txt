@@ -1,0 +1,189 @@
+Because the Court's opinion and judgment
+improvidently, in my view, call into question important
+aspects of the statutes of almost all the States governing
+secured transactions and the procedure for repossessing
+personal property, I must dissent for the reasons that
+follow.
+First: It is my view that when the federal actions were
+filed in these cases and the respective District [407 U.S.
+98] Courts proceeded to judgment there were state court
+proceedings in progress. It seems apparent to me that
+the judgments should be vacated and the District Courts
+instructed to reconsider these cases in the light of the
+principles announced in Younger v. Harris, 401 U.S. 37
+(1971); Samuels v. Mackell, 401 U.S. 66; Boyle v.
+Landry, 401 U.S. 77; and Perez v. Ledesma, 401 U.S. 82.
+In No. 70-5039, the Florida statutes provide for the
+commencement of an action of replevin, with bond, by
+serving a writ summoning the defendant to answer the
+complaint. Thereupon the sheriff may seize the
+property, subject to repossession by defendant within
+three days upon filing of a counterbond, failing which
+the property is delivered to plaintiff to await final
+judgment in the replevin action. Fla. Stat. Ann. § 78.01
+et seq. (Supp. 1972-1973). This procedure was attacked
+in a complaint filed by appellant Fuentes in the federal
+court, alleging that an affidavit in replevin had been filed
+by Firestone Tire & Rubber Co. in the Small Claims
+Court of Dade County; that a writ of replevin had been
+issued pursuant thereto and duly served, together with
+the affidavit and complaint; and that a trial date had
+been set in the Small Claims Court. Firestone's answer
+admitted that the replevin action was pending in the
+Small Claims Court and asserted that Mrs. Fuentes,
+plaintiff in the federal court and appellant here, had not
+denied her default or alleged that she had the right to
+possession of the property. Clearly, state court
+proceedings were pending, no bad faith or harassment
+was alleged, and no irreparable injury appeared that
+could not have been averted by raising constitutional
+objections in the pending state court proceeding. In this
+posture, it would appear that the case should be
+reconsidered under Younger v. Harris and companion
+cases, which were announced after the District Court's
+judgment.
+[407 U.S. 99] In No. 70-5138, Pennsylvania Rule of Civil
+Procedure 1073 expressly provides that an "[a]ction of
+replevin with bond shall be commenced by filing with
+the prothonotary a praecipe for a writ of replevin with
+bond . . . ." When the writ issues and is served, the
+defendant has three days to file a counterbond and
+should he care to have a hearing he may file his own
+praecipe, in which event the plaintiff must proceed
+further in the action by filing and serving his complaint.
+In the cases before us, actions in replevin were
+commenced in accordance with the rules, and appellee
+Sears, Roebuck & Co. urged in the District Court that
+plaintiffs had "adequate remedies at law which they
+could pursue in the state court proceedings which are
+still pending in accordance with the statutes and rules of
+Pennsylvania." App. 60. Under Younger v. Harris and
+companion cases, the District Court's judgment should
+be vacated and the case reconsidered.
+Second: It goes without saying that in the typical
+installment sale of personal property both seller and
+buyer have interests in the property until the purchase
+price is fully paid, the seller early in the transaction often
+having more at stake than the buyer. Nor is it disputed
+that the buyer's right to possession is conditioned upon
+his making the stipulated payments and that upon
+default the seller is entitled to possession. Finally, there
+is no question in these cases that if default is disputed by
+the buyer he has the opportunity for a full hearing, and
+that if he prevails he may have the property or its full
+value as damages.
+The narrow issue, as the Court notes, is whether it
+comports with due process to permit the seller, pending
+final judgment, to take possession of the property
+through a writ of replevin served by the sheriff without
+affording the buyer opportunity to insist that the seller
+establish at a hearing that there is reasonable [407 U.S.
+100] basis for his claim of default. The interests of the
+buyer and seller are obviously antagonistic during this
+interim period: the buyer wants the use of the property
+pending final judgment; the seller's interest is to prevent
+further use and deterioration of his security. By the
+Florida and Pennsylvania laws the property is to all
+intents and purposes placed in custody and immobilized
+during this time. The buyer loses use of the property
+temporarily but is protected against loss; the seller is
+protected against deterioration of the property but must
+undertake by bond to make the buyer whole in the event
+the latter prevails.
+In considering whether this resolution of conflicting
+interests is unconstitutional, much depends on one's
+perceptions of the practical considerations involved.
+The Court holds it constitutionally essential to afford
+opportunity for a probable-cause hearing prior to
+repossession. Its stated purpose is "to prevent unfair and
+mistaken deprivations of property." But in these typical
+situations, the buyer-debtor has either defaulted or he
+has not. If there is a default, it would seem not only
+"fair," but essential, that the creditor be allowed to
+repossess; and I cannot say that the likelihood of a
+mistaken claim of default is sufficiently real or recurring
+to justify a broad constitutional requirement that a
+creditor do more than the typical state law requires and
+permits him to do. Sellers are normally in the business
+of selling and collecting the price for their merchandise.
+I could be quite wrong, but it would not seem in the
+creditor's interest for a default occasioning repossession
+to occur; as a practical matter it would much better
+serve his interests if the transaction goes forward and is
+completed as planned. Dollar-and-cents considerations
+weigh heavily against false claims of default as well as
+against precipitate action that would allow no
+opportunity for mistakes to surface and be [407 U.S. 101]
+corrected.* Nor does it seem to me that creditors would
+lightly undertake the expense of instituting replevin
+actions and putting up bonds.
+The Court relies on prior cases, particularly Goldberg v.
+Kelly, 397 U.S. 254 (1970); Bell v. Burson, 402 U.S. 535
+(1971); and Stanley v. Illinois, 405 U.S. 645 (1972). But
+these cases provide no automatic test for determining
+whether and when due process of law requires adversary
+proceedings. Indeed, "[t]he very nature of due process
+negates any concept of inflexible procedures universally
+applicable to every imaginable situation. . . ." "[W]hat
+procedures due process may require under any given set
+of circumstances must begin [407 U.S. 102] with a
+determination of the precise nature of the government
+function involved as well as of the private interest that
+has been affected by governmental action." Cafeteria
+Workers v. McElroy, 367 U.S. 886, 895 (1961). See also
+Stanley v. Illinois, supra, at 650; Goldberg v. Kelly,
+supra, at 263. Viewing the issue before us in this light, I
+would not construe the Due Process Clause to require
+the creditors to do more than they have done in these
+cases to secure possession pending final hearing.
+Certainly, I would not ignore, as the Court does, the
+creditor's interest in preventing further use and
+deterioration of the property in which he has substantial
+interest. Surely under the Court's own definition, the
+creditor has a "property" interest as deserving of
+protection as that of the debtor. At least the debtor, who
+is very likely uninterested in a speedy resolution that
+could terminate his use of the property, should be
+required to make those payments, into court or
+otherwise, upon which his right to possession is
+conditioned. Cf. Lindsey v. Normet, 405 U.S. 56 (1972).
+Third: The Court's rhetoric is seductive, but in end
+analysis, the result it reaches will have little impact and
+represents no more than ideological tinkering with state
+law. It would appear that creditors could withstand
+attack under today's opinion simply by making clear in
+the controlling credit instruments that they may retake
+possession without a hearing, or, for that matter,
+without resort to judicial process at all. Alternatively,
+they need only give a few days' notice of a hearing, take
+possession if hearing is waived or if there is default; and
+if hearing is necessary merely establish probable cause
+for asserting that default has occurred. It is very doubtful
+in my mind that such a hearing would in fact result in
+protections for the debtor substantially different from
+those the present laws provide. [407 U.S. 103] On the
+contrary, the availability of credit may well be
+diminished or, in any event, the expense of securing it
+increased.
+None of this seems worth the candle to me. The
+procedure that the Court strikes down is not some
+barbaric hangover from bygone days. The respective
+rights of the parties in secured transactions have
+undergone the most intensive analysis in recent years.
+The Uniform Commercial Code, which now so
+pervasively governs the subject matter with which it
+deals, provides in Art. 9, § 9-503, that:
+"Unless otherwise agreed a secured party has on default the right to
+take possession of the collateral. In taking possession a secured
+party may proceed without judicial process if this can be done
+without breach of the peace or may proceed by action. . . ."
+Recent studies have suggested no changes in Art. 9 in
+this respect. See Permanent Editorial Board for the
+Uniform Commercial Code, Review Committee for
+Article 9 of the Uniform Commercial Code, Final
+Report, § 9-503 (April 25, 1971). I am content to rest on
+the judgment of those who have wrestled with these
+problems so long and often and upon the judgment of
+the legislatures that have considered and so recently
+adopted provisions that contemplate precisely what has
+happened in these cases.

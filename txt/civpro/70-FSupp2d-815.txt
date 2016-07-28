@@ -1,0 +1,894 @@
+BACKGROUND
+This is an employment discrimination action brought by
+Plaintiff Lillian Pebbles Morrison pursuant to Title VII
+of the Civil Rights Act of 1964, 
+§
+ 701 et seq., as
+amended in 1991 by 42 U.S.C. 
+§
+ 2000e, et seq. ("Title
+VII"), and Ohio Rev.Code 
+§
+ 4112 (see doc. 1). Plaintiff
+originally filed her Complaint on December 11, 1998 in
+the Hamilton County Court of Common Pleas.
+Defendant Circuit City Stores, Inc., a retailer of
+consumer electronics and appliances, then removed the
+case to this Court on January 12, 1999 pursuant to Title
+28 U.S.C. 
+§§
+ 1331, 1332, and 1441.
+Prior to her discharge on December 12, 1997, Plaintiff
+worked as a store manager for one of Defendant's
+Cincinnati area 
+[70 F.Supp.2d 818]
+ stores. According to
+Defendant, Plaintiff was 30 years old with an
+undergraduate degree from the U.S. Air Force Academy
+and a master's degree from Central Michigan University
+when she applied for a position with Defendant on July
+10, 1995 (doc. 4, Parsons Decl. 
+ 5 & Ex. A). Defendant
+hired Plaintiff on December 1, 1995.
+As part of the application and hiring process, Plaintiff
+signed two identical application forms, the first on July
+10, 1995 (doc. 4, Ex. A), and the second on December
+27, 1995 (copy provided to the Court during the April
+20, 1999 hearing). Each application sets forth identical
+language about the "Circuit City Dispute Resolution
+Agreement" (hereinafter, the "Agreement"). In addition,
+each application states that the company will not
+consider any applicant for employment unless he or she
+also signs the Agreement.
+The Agreement provides, in pertinent part, that an
+applicant will resolve:
+any and all previously unasserted claims, disputes or controversies
+arising out of or relating to [his or her] application or candidacy for
+employment, employment and/or cessation of employment with
+Circuit City, exclusively by final and binding arbitration before a
+neutral Arbitrator. By way of example only, such claims include
+claims under federal, state and local statutory or common law, such
+as the Age Discrimination in Employment Act, Title VII of the
+Civil Rights Act of 1964, as amended, including the amendments of
+the Civil Rights Act of 1991, the Americans with Disabilities Act,
+the law of contract and law of tort.
+(doc. 4, Parson Decl., Ex. A) (emphasis in original).
+Above the text of the Agreement, the application states
+in boldface type that:
+With this application you should have received the Rules and
+Procedures of the Agreement. You should familiarize yourself with
+these rules and procedures prior to signing the Agreement. If you
+did not receive the Rules and Procedures you must request a copy
+from a Circuit City representative prior to signing the Agreement.
+(Id.) (emphasis in original). Once an applicant signs the
+Agreement, the Agreement allows the applicant three
+days in which to withdraw his or her consent to the
+Agreement. The applicant may also take the application
+package home and return it later with his or her
+signature affixed (Id.).
+Furthermore, the Agreement states that: "The Dispute
+Resolution Agreement and the Dispute Resolution
+Rules and Procedures affect your legal rights. You may
+wish to seek legal advice before signing this Dispute
+Resolution Agreement" (Id.) (emphasis in original). The
+following clauses offer some detail as to how legal rights
+will be affected by the Agreement:
+I understand that if I do file a lawsuit regarding a dispute arising out
+of or relating to my application or candidacy for employment,
+employment or cessation or employment, Circuit City may use this
+Agreement in support of its request to the court to dismiss the
+lawsuit and require me instead to use arbitration.
+* * * * * *
+This Agreement will be enforceable throughout the application
+process, my employment, and thereafter with respect to any claims
+arising from or relating to may application or candidacy for
+employment, employment or cessation of employment with Circuit
+City. I then must arbitrate all employment-related claims, and I may
+not file a lawsuit in court.
+(Id.)
+Defendant now moves this Court to compel arbitration
+and stay these proceedings pursuant to the Federal
+Arbitration Act ("FAA"), 9 U.S.C. 
+§§
+ 3 and 4, or, in the
+alternative, to dismiss this case entirely 
+[70 F.Supp.2d
+819]
+ pursuant to Rule 12(b)(1) or Rule 12(b)(6) of the
+Federal Rules of Civil Procedure, because Plaintiff and
+Defendant are parties to this Agreement requiring them
+to resolve this type of dispute through final and binding
+arbitration.
+Plaintiff responds that the Agreement is invalid and
+unenforceable because it fails to comply with common
+law principles of contract law and because it attempts to
+limit Plaintiff's substantive rights and remedies.
+Therefore, Plaintiff argues, the FAA does not require
+that the Court stay or dismiss this action and the Court
+thereby retains subject matter jurisdiction.
+STANDARD OF REVIEW
+A Rule 12(b)(1) motion to dismiss for lack of subject
+matter jurisdiction attacks a plaintiff's cause of action in
+one of two ways: facially or factually. Fed. R.Civ.P.
+12(b)(1); United States v. Ritchie, 15 F.3d 592, 598 (6th
+Cir.1994). A facial attack challenges the sufficiency of
+the complaint itself. On such an attack, the court must
+take all material allegations in the complaint as true and
+construe them in a light most favorable to the non-
+moving party. Ritchie, 15 F.3d at 598 (citing Scheuer v.
+Rhodes, 416 U.S. 232, 235-37, 94 S.Ct. 1683, 40 L.Ed.2d
+90 (1974)). In contrast, a factual attack challenges the
+factual existence of subject matter jurisdiction. The
+court reviewing such a motion need not presume that
+the factual allegations set forth in the complaint are true.
+Id. Instead, the court may weigh any evidence properly
+before it. See Ohio Nat'l Life Ins. Co. v. United States,
+922 F.2d 320, 325 (6th Cir.1990); Rogers v. Stratton
+Indus., Inc., 798 F.2d 913, 918 (6th Cir. 1986).
+In addressing a Rule 12(b)(6) motion to dismiss for
+failure to state a claim upon which relief can be granted,
+a court must accept all allegations in the complaint as
+true and view them in a light most favorable to the party
+opposing the motion. Fed.R.Civ.P. 12(b)(6); Great Lakes
+Steel v. Deggendorf, 716 F.2d 1101, 1105 (6th Cir.
+1983). The court may grant the motion only if "it
+appears beyond doubt that the plaintiff can prove no set
+of facts in support of his claim which would entitle him
+to relief." Conley v. Gibson, 355 U.S. 41, 45-46, 78 S.Ct.
+99, 2 L.Ed.2d 80 (1957); Balderaz v. Porter, 578 F.Supp.
+1491, 1494 (S.D.Ohio 1983).
+In the instant matter, Defendant refutes the factual
+allegations in Plaintiff's Complaint concerning the
+enforceability of the Agreement. In support of its
+Motion to Dismiss, Defendant submits a copy of the
+application Plaintiff signed on July 10, 1995 and a
+declaration from Pamela G. Parsons concerning that
+application and the Agreement. Apparently because the
+Agreement requires final and binding arbitration of all
+employment disputes, Defendant asserts that the Court
+lacks subject matter jurisdiction over Plaintiff's
+Complaint, or, alternatively, that Plaintiff's Complaint
+fails to state a claim upon which relief can be granted.
+As mentioned earlier, a court may consider any evidence
+properly before it when a defendant factually attacks
+subject matter jurisdiction under Rule 12(b)(1).
+However, evidence outside the pleadings may not be
+used to support motions brought pursuant to Rule
+12(b)(6) unless the evidence is referenced in the
+plaintiff's complaint and is central to a plaintiff's claims.
+Venture Assoc. Corp. v. Zenith Data Sys. Corp., 987
+F.2d 429, 431 (7th Cir.1993). In this case, Plaintiff
+specifically references the Agreement in her Complaint
+and she argues in Count I of her Complaint that the
+Agreement is unenforceable. Therefore, the Court finds
+that we may consider the Agreement and Ms. Parson's
+declaration in deciding whether to dismiss this action
+pursuant to Rule 12(b)(1) or Rule 12(b)(6).
+DISCUSSION
+The threshold issue before the Court is the applicability
+of the Federal Arbitration Act, Title 9 U.S.C. 
+§
+ 1 et seq.,
+to the facts 
+[70 F.Supp.2d 820]
+ of this case. Defendant
+asserts that the FAA applies to this case and that the
+FAA requires the enforcement of the Agreement.
+I. Federal Arbitration Act
+The FAA provides that arbitration provisions in any
+"contract evidencing a transaction involving commerce"
+are "valid, irrevocable, and enforceable, save upon such
+grounds as exist at law or in equity for the revocation of
+any contract." 9 U.S.C. 
+§
+ 2. Section 1 of the FAA,
+though, excludes "contracts of employment of seamen,
+railroad employees, or any other class of workers
+engaged in foreign or interstate commerce" from
+coverage under the FAA. 9 U.S.C. 
+§
+ 1. Nonetheless, the
+Sixth Circuit Court of Appeals construes this
+exclusionary clause narrowly. In Asplundh Tree Expert
+Co. v. Bates, 71 F.3d 592 (6th Cir.1995), the Sixth
+Circuit held that:
+the exclusionary clause of 
+§
+ 1 of the Arbitration Act should be
+narrowly construed to apply to employment contracts of seamen,
+railroad workers, and any other class of workers actually engaged in
+the movement of goods in interstate commerce in the same way
+that seamen and railroad workers are.
+Id., 71 F.3d at 600-601.
+In the instant matter, the Court finds that Plaintiff was
+not engaged in the movement of goods in interstate
+commerce in the same manner of seamen and railroad
+workers while she worked as a store manager for
+Defendant. Therefore, the Agreement signed between
+Plaintiff and Defendant for the arbitration of all
+employment disputes falls within the type of contracts
+contemplated by the FAA. See Cosgrove v. Shearson
+Lehman Bros., No. 95-3432, 1997 WL 4783, 1997
+U.S.App. LEXIS 392, at *4 (6th Cir. Jan. 6, 1997).
+Furthermore, the Sixth Circuit recognizes that both
+statutory and common law claims may be subject to an
+arbitration agreement enforceable under the FAA. See
+Cosgrove, 1997 WL 4783, 1997 U.S.App. LEXIS 392, at
+*5-*6 (citing Gilmer v. Interstate/Johnson Lane Corp.,
+500 U.S. 20, 26, 111 S.Ct. 1647, 114 L.Ed.2d 26 (1991)
+(holding that claims arising under the Age
+Discrimination in Employment Act ("ADEA") may be
+subject to an enforceable arbitration agreement); Willis
+v. Dean Witter Reynolds, Inc., 948 F.2d 305, 310 (6th
+Cir.1991) (extending the holding of Gilmer to claims
+arising under Title VII)). The Supreme Court reiterated
+in Gilmer that, "`[h]aving made the bargain to arbitrate,
+the party should be held to it unless Congress itself has
+evinced an intention to preclude a waiver of judicial
+remedies for the statutory rights at issue.'" Id., 500 U.S.
+at 26, 111 S.Ct. 1647 (quoting Mitsubishi Motors Corp.
+v. Soler Chrysler-Plymouth, Inc., 473 U.S. 614, 628, 105
+S.Ct. 3346, 87 L.Ed.2d 444 (1985)).
+In this case, the Agreement purports to apply to "any
+and all previously unasserted claims, disputes, or
+controversies arising out of or relating to [Plaintiff's]
+application or candidacy for employment, employment
+and/or cessation of employment with [Defendant]." The
+Agreement also explicitly states that it applies to actions
+brought under federal, state, and local statutory or
+common law, including the ADEA, Title VII, the
+Americans with Disabilities Act, the law of contract, and
+the law of tort.
+Plaintiff's seven-count Complaint contends that
+Defendant unlawfully discharged her in violation of
+Title VII, Ohio Rev.Code 
+§
+ 4112, Ohio public policy,
+and Ohio common law. Because we find no evidence
+that Congress intended to preclude the arbitration of
+her statutory claims and because Plaintiff fails to
+persuade us that Ohio would preclude the arbitration of
+her state-law claims, the Court concludes that Plaintiff
+should be held to her bargain unless (1) the traditional
+grounds for revocation of a contract exist in this case or
+(2) the Agreement fails to protect the substantive rights
+guaranteed by law. See 9 U.S.C. 
+§
+ 2; Gilmer, 500 U.S. at
+28, 33, 111 S.Ct. 1647 (quoting 
+[70 F.Supp.2d 821]
+Mitsubishi Motors Corp., 473 U.S. at 637, 627, 105 S.Ct.
+3346 respectively).
+II. Enforceability of the Agreement
+Plaintiff urges the Court to find the Agreement
+unenforceable, arguing that the Agreement is an
+unconscionable adhesion contract that limits Plaintiff's
+substantive rights and remedies under Title VII and
+Ohio Rev.Code 
+§
+ 4112. In addition, Plaintiff asserts that
+the Agreement lacks mutuality of obligation and
+consideration and impermissibly waives future rights.
+Plaintiff also contends that the Agreement violates
+public policy by taking away the applicant's right to a
+jury trial and instead requiring final, binding arbitration.
+In the following subsections, the Court addresses each of
+Plaintiff's arguments separately and concludes that no
+argument leads to a finding that the Agreement at issue
+in this case is unenforceable.
+A. Adhesion Contract
+A court examines an arbitration agreement according to
+state-law principles of contract formation. See First
+Options of Chicago, Inc. v. Kaplan, 514 U.S. 938, 943-
+44, 115 S.Ct. 1920, 131 L.Ed.2d 985 (1995) (finding that
+"arbitration is simply a matter of contract between the
+parties"). In view of the fact that Plaintiff signed the
+Agreement in Ohio and that her employment and
+termination occurred in Ohio, the Court will apply the
+common law of Ohio to this matter.
+Plaintiff first claims that the Agreement is an
+unconscionable contract of adhesion. The Ohio
+Supreme Court referred to Black's Law Dictionary in
+describing a contract of adhesion as a "`[s]tandardized
+contract form offered ... on essentially [a] `take it or
+leave it' basis.'" Sekeres v. Arbaugh, 31 Ohio St.3d 24,
+31, 508 N.E.2d 941, 946 (1987) (quoting Black's Law
+Dictionary 38 (5th ed.1979)). Meanwhile,
+unconscionability is defined as "`an absence of
+meaningful choice on the part of one of the parties to a
+contract, combined with contract terms that are
+unreasonably favorable to the other party.'" Dorsey v.
+Contemporary Obstetrics & Gynecology, Inc., 113 Ohio
+App.3d 75, 80, 680 N.E.2d 240, 243 (1996) (quoting
+Collins v. Click Camera & Video, Inc., 86 Ohio App.3d
+826, 834, 621 N.E.2d 1294, 1299 (1993)); see also David
+L. Threlkeld & Co., Inc. v. Metallgesellschaft Ltd., 923
+F.2d 245, 249 (2nd Cir.1991) (finding that a plaintiff
+must show "`unfairness, undue oppression, or
+unconscionability'" before a federal court will strike an
+arbitration agreement as a contract of adhesion)
+(citations omitted).
+Ohio courts conduct a two-prong inquiry into whether
+a contract is unconscionable. Dorsey, 113 Ohio App.3d
+at 80-81, 680 N.E.2d at 243 (citing Collins, 86 Ohio
+App.3d at 834, 621 N.E.2d at 1299). The first prong
+looks at whether the contract terms are so unfair and
+unreasonable as to constitute substantive
+unconscionability while the second prong focuses on the
+relative bargaining power of the contracting parties to
+determine whether procedural unconscionability exists.
+Id.
+In support of her argument that the Agreement is a
+contract of adhesion, Plaintiff alleges that she was
+"forced" to sign the Agreement as part of the application
+in order to be considered for employment by Defendant.
+Plaintiff also contends that Defendant, a large company
+with retail facilities across the country, is more
+sophisticated and maintains more bargaining power
+than Plaintiff. She states that she was extremely
+surprised to learn that the Agreement amounted to a
+waiver of her right to a judicial forum and a jury trial.
+Plaintiff further argues that the Agreement is
+unconscionable because it threatens to deny her the
+substantive rights and remedies provided by Title VII
+and Ohio Rev.Code 
+§
+ 4112.
+In contrast, Defendant asserts that the Agreement is not
+a contract of adhesion simply because Plaintiff had to
+sign it before she could be considered for employment.
+Defendant states that several other 
+[70 F.Supp.2d 822]
+electronics retailers exist in the Cincinnati area, and it
+argues that Plaintiff could have applied for positions
+with these retailers. Defendant cites Beauchamp v. Great
+West Life Assurance Co., 918 F.Supp. 1091, 1098
+(E.D.Mich.1996), and EEOC v. Frank's Nursery &
+Crafts, 966 F.Supp. 500, 504 (E.D.Mich.1997) (rev'd on
+other grounds, 177 F.3d 448, 454-55 (6th Cir. 1999)), in
+support of the proposition that adhesion contracts do
+not exist where applicants have a choice of where to
+apply for a job. In Beauchamp, the court indicated its
+reluctance in finding a contract of adhesion in a context
+where a plaintiff could choose to work for other
+employers without signing arbitration agreements. Id.,
+918 F.Supp. at 1098. Likewise, the court in Frank's
+Nursery & Crafts stated that "[i]f [the applicant]
+disagreed with anything contained in the application she
+was free to simply look elsewhere for employment. ...
+(When a party ... voluntarily agrees to something in an
+attempt to obtain employment, they are not being
+`forced' to do anything"). Id., 966 F.Supp. at 504
+(emphasis in original).
+Defendant also contends that the application and its
+arbitration provisions are not unconscionable just
+because Plaintiff was only one of many employees
+working for a large, nationwide retailer. Defendant
+notes that the court in Beauchamp responded to a
+similar balance-of-power argument, stating: "Under
+plaintiff's theory, practically every condition of
+employment would be an `adhesion contract' which
+could not be enforced because it would have been
+presented to the employee by the employer in a
+situation of unequal bargaining power on a `take it or
+leave it' basis." Id., 918 F.Supp. at 1098. Moreover, in
+Gilmer, the Supreme Court stated that the "[m]ere
+inequality in bargaining power ... is not a sufficient
+reason to hold that arbitration agreements are never
+enforceable in the employment context." Id., 500 U.S. at
+33, 111 S.Ct. 1647.
+Defendant further alleges that Plaintiff is "a well-
+educated, mature and experienced manager, who
+certainly understood the effect of the arbitration
+agreement and fully appreciated her choices" (doc. 3). In
+addition, Defendant argues that the Agreement signed
+by both Plaintiff and Defendant pursuant to the
+application was "clear and unambiguous" and could not
+lead to the type of surprise Plaintiff now asserts. See
+Frank's Nursery & Crafts, 966 F.Supp. at 504 (agreeing
+with the Beauchamp court and stating that "[t]he simple
+fact of the matter is that if [the applicant] did not
+understand or intend to agree to arbitration she should
+not have signed her name until she did understand or
+consulted with someone.").
+The Court finds Defendant's arguments persuasive, and
+we conclude that Plaintiff fails to show the unfairness or
+undue oppression necessary to support a finding that the
+Agreement amounted to an unconscionable contract of
+adhesion on a substantive or procedural basis.
+Furthermore, as discussed in Subsection E, infra, we
+find that the terms of the Agreement are fair and
+reasonable. We also find here that the balance of power
+between Plaintiff as an applicant and Defendant as a
+potential employer was not so disproportionate as to
+prevent a voluntary meeting of the minds on the issue of
+arbitration. See Dorsey, 113 Ohio App.3d at 80, 680
+N.E.2d at 243.
+B. Mutuality of Obligation
+Plaintiff next contends that mutuality of obligation is
+lacking in the Agreement because Defendant is not
+bound to the Agreement's terms. Under Ohio law, a
+contract cannot be enforced without mutuality of
+obligation. Thomas G. Snavely Co. v. Brown Constr.
+Co., 16 Ohio Misc. 50, 55-56, 239 N.E.2d 759, 762
+(1968). In Trumbull v. Century Mktg. Corp., 12
+F.Supp.2d 683, 686 (N.D.Ohio 1998), a case relied upon
+by Plaintiffs, the district court found that there was no
+mutuality of obligation or consideration in an 
+[70
+F.Supp.2d 823]
+ employment handbook signed by an
+employee after employment began since the employer
+could revoke any term at any time. Id. at 685-86.
+Accordingly, the court held that the employee handbook
+could not be an enforceable contract. Id. After also
+finding alternatively that the employee did not
+knowingly agree to arbitrate disputes and that the
+arbitration process offered would limit a substantive
+remedy granted by a statute, the Trumbull court denied
+the defendant's motion to stay. Id. at 687-88.
+Plaintiff argues here that, like the employee handbook in
+Trumbull, the Agreement in this case is of a unilateral
+nature. Plaintiff alleges that, while no provision exists
+for an employee to alter or terminate the Agreement,
+Rule 19 of the Dispute Resolution Rules and Procedures
+provides that:
+[Defendant] may alter or terminate the agreement and these
+Dispute Resolution Rules and Procedures on December 31st of any
+year upon giving 30 calendar days written notice to associates.
+Thus, Plaintiff asserts, the Agreement cannot be
+enforced because mutuality of obligation is lacking.
+In response, Defendant argues that mutuality of
+obligation is maintained because Defendant can only
+modify or terminate the Agreement or the Rules and
+Procedures at a certain time each year and only upon 30
+days' notice to each employee. Defendant points to Kelly
+v. UHC Management Co., 967 F.Supp. 1240, 1258-60
+(N.D.Ala.1997), in support of its argument that the
+ability to modify or terminate a contract does not
+destroy mutuality of obligation. Kelly, 967 F.Supp. at
+1258-60 (finding an arbitration agreement to be valid
+despite a clause allowing the employer to alter or revoke
+at any time). Moreover, Defendant argues that both
+Plaintiff and Defendant "made an objective
+manifestation of their intent to be bound" to arbitration
+of employment-related claims by signing the short but
+detailed Agreement in the application form (doc. 3).
+Defendant distinguishes its six-page application form
+from the sixty-page employee handbook in which the
+employer in Trumbull, 12 F.Supp.2d at 687, "buried" its
+arbitration clause.
+The Court agrees that the facts of this case may be
+distinguished from the facts of Trumbull. Both Plaintiff
+and Defendant signed the Agreement within the short
+job application, and even though Defendant could alter
+or terminate the Agreement or the Rules and
+Procedures, Defendant could only do so at certain times
+and only after providing 30 days' notice to employees.
+Accordingly, we find that both parties are bound to the
+terms of the Agreement, and thus, mutuality of
+obligation exists.
+C. Lack of Consideration
+For the same reasons asserted above, Plaintiff contends
+that the Agreement also lacks consideration. Specifically,
+Plaintiff alleges that Defendant could freely terminate or
+modify the Agreement and that, therefore, Defendant
+gave up nothing of value in exchange for Plaintiff's
+promise to arbitrate. In addition, Plaintiff asserts that,
+because she signed the second application form after her
+employment began, an accompanying promise by
+Defendant to employ her cannot constitute
+consideration.
+Under Ohio law, "[v]aluable consideration may consist
+of either a detriment to the promisee or a benefit to the
+promisor." Ford v. Tandy Transp., Inc., 86 Ohio App.3d
+364, 384, 620 N.E.2d 996, 1009 (1993). Furthermore,
+"[i]t is axiomatic that courts, as a general rule, will not
+inquire into the adequacy of consideration once
+consideration is said to exist." Rogers v. Runfola &
+Assoc., Inc., 57 Ohio St.3d 5, 6, 565 N.E.2d 540, 542
+(1991).
+Defendant argues that the Agreement is supported by
+consideration. According to Defendant, Plaintiff was an
+at-will employee and Defendant was not required by law
+to arbitrate job termination issues related 
+[70 F.Supp.2d
+824]
+ to at-will employees. Therefore, Defendant asserts
+that its promise to submit to arbitration constituted
+adequate consideration. Moreover, Defendant cites to
+the Restatement (Second) of Contracts for the
+proposition that its ability to alter or terminate the
+Agreement does not render the above promise illusory.
+See Restatement (2d) of Contracts 
+§
+ 77(b) Cmt. b, illus.
+5 (1979) (describing that a principal's ability to
+terminate the agency only upon 30 days notice is
+consideration); see also Kelly, 967 F.Supp. at 1260.
+In Johnson v. Circuit City Stores, Inc., 148 F.3d 373, 378
+(4th Cir.1998), the Fourth Circuit found that the same
+Circuit City arbitration agreement to be supported by
+adequate consideration:
+[B]oth parties in this case agreed to be bound by the arbitration
+process for the resolution of any claim required to be submitted to
+arbitration under the Dispute Resolution Agreement. Therefore,
+we hold that the Dispute Resolution Agreement was supported by
+adequate consideration ... no consideration above and beyond the
+agreement to be bound by the arbitration process was required.
+Id. at 378; see also O'Neil v. Hilton Head Hosp., 115 F.3d
+272, 275 (4th Cir.1997) (holding that a mutual promise
+to arbitrate constitutes sufficient consideration for an
+arbitration agreement). Likewise, in Michalski v. Circuit
+City Stores, Inc., 177 F.3d 634, 636 (7th Cir.1999), the
+Seventh Circuit found that "Circuit City's promise to be
+bound by the arbitration process itself serves as mutual
+consideration here."
+This Court finds that the Agreement challenged in the
+instant matter is supported by consideration. Plaintiff
+promised to arbitrate all employment-related disputes in
+exchange for Defendant's promise to consider her for
+employment and then to continue to employ her.
+Defendant also promised to be bound by the arbitration
+process and any resolutions reached as a result of the
+arbitration; Defendant could only alter or revoke this
+promise under certain circumstances. See Michalski, 177
+F.3d at 636-37; Koveleskie v. SBC Capital Mkts., Inc.,
+167 F.3d 361, 368 (7th Cir.1999) (finding adequate
+consideration in the employer's promise to employ an
+applicant who signed an arbitration agreement). Thus,
+we reject Plaintiff's argument that the Agreement
+cannot be enforced for a lack of consideration.
+D. Waiver of Future Rights
+Plaintiff further asserts that the Agreement is an invalid
+waiver of her prospective rights under both state and
+federal law. In support of her argument, Plaintiff cites to
+cases in which courts required waivers of prospective
+rights to be made knowingly, voluntarily, and
+intentionally. See Adams v. Philip Morris, Inc., 67 F.3d
+580, 583-84 (6th Cir.1995); Trumbull, 12 F.Supp.2d at
+686; Parente v. Day, 16 Ohio App.2d 35, 38, 241 N.E.2d
+280, 282 (1968). Plaintiff also quotes from Adams that
+the "general rule in [the Sixth Circuit is] that an
+employee may not prospectively waive his or her rights
+under either Title VII or the ADEA." Id., 67 F.3d at 584.
+However, as Defendant indicates, Plaintiff's quotation
+from Adams is misleading. In Adams, the Sixth Circuit
+addressed an agreement to release a claim entirely and
+not to submit the claim to an arbitral forum. Id. at 583-
+84. The Supreme Court in Mitsubishi Motors Corp.,
+though, found that "a party does not forgo" substantive
+rights in signing an arbitration agreement. Id., 473 U.S.
+at 628, 105 S.Ct. 3346. Instead, the party allows the
+rights to be addressed through arbitration. Id.
+Moreover, the Sixth Circuit in Willis specifically
+recognized that parties could agree to arbitrate future
+claims arising under Title VII. Id., 948 F.2d at 310.
+Defendant further contends that parties may waive the
+right to a jury trial by prior written agreement. K.M.C.
+Co., Inc. v. Irving Trust Co., 757 F.2d 752, 755 (6th
+Cir.1985); see also Koveleskie, 167 F.3d at 368 (noting
+that the right to an Article III forum is waivable and
+finding that plaintiff 
+[70 F.Supp.2d 825]
+ waived that
+right by consenting to arbitration). As the court in
+K.M.C. Co. noted, any such waivers must be knowing
+and voluntary. Id., 757 F.2d at 755. In Trumbull, the
+district court found that the plaintiff did not knowingly
+or voluntarily waive her rights. Id., 12 F.Supp.2d at 687.
+The arbitration clause at issue in Trumbull took up less
+than two pages of a sixty-page employee handbook and
+gave no indication that it affected the employee's legal
+rights. Id. Furthermore, the arbitration clause failed to
+specifically explain that it could affect federal or state
+law claims. Id.
+However, in this case, we initially find that the
+Agreement in which Plaintiff and Defendant promised
+to submit to final and binding arbitration of any
+employment-related claims is clear and unambiguous.
+The Agreement, set forth in two pages of a six-page
+application form, specifically notes the types of claims
+that are subject to arbitration. In bold-faced print, the
+language of the Agreement alerted Plaintiff that the
+Agreement affected her legal rights and that legal advice
+may be warranted. The language also informed her that
+Circuit City could ask a court to compel arbitration of
+any employment-related claims.
+Furthermore, we find that Plaintiff entered into the
+Agreement knowingly and voluntarily. First, as we
+noted above, the Agreement clearly and unambiguously
+explains that it amounts to a waiver of a judicial forum
+and a jury trial. Secondly, her background indicates that
+she had knowledge of management- and
+administration-related issues. According to the
+application forms she signed, Plaintiff had earned an
+undergraduate degree from the U.S. Air Force Academy
+and a master's degree from Central Michigan University
+prior to applying for a job with Defendant (see doc. 4,
+Parsons Decl., Ex. A). Thirdly, the Agreement indicates
+that she could have withdrawn her consent to the
+Agreement within three days of signing the application
+form, and Plaintiff concedes that she did not withdraw
+her consent.
+Accordingly, we conclude that the Agreement
+represents a knowing and voluntary waiver of Plaintiff's
+prospective right to a judicial forum and a jury trial for
+her employment-related claims.
+E. Process Provided by Agreement
+Underpinning many of Plaintiff's arguments is her
+allegation that Defendant's Dispute Resolution Rules
+and Procedures deny her substantive rights and
+remedies. In Gilmer, 500 U.S. at 28, 111 S.Ct. 1647, the
+Supreme Court found that "`so long as the prospective
+litigant effectively may vindicate [his or her] statutory
+cause of action in the arbitral forum, the statute will
+continue to serve both its remedial and deterrent
+function.'" Id., 500 U.S. at 28, 111 S.Ct. 1647 (quoting
+Mitsubishi Motors Corp., 473 U.S. at 637, 105 S.Ct.
+3346). Essentially, then, Plaintiff contends that
+Defendant's arbitration procedures prevent her from
+effectively vindicating her cause of action.
+Plaintiff again relies on Trumbull, 12 F.Supp.2d at 688,
+to support her argument. In reaching its alternative
+holding that the arbitration procedure offered by the
+defendant was not an acceptable replacement for a
+judicial forum, the Trumbull court noted that, unlike
+Title VII, the defendant's procedure precluded punitive
+damages. The court found that when an arbitration
+proceeding limits any substantive right or remedy
+granted by a statute, that proceeding cannot effectively
+vindicate that statute's cause of action. Id.
+Furthermore, Plaintiff refers to Hooters of America, Inc.
+v. Phillips, 173 F.3d 933, 938-38 (4th Cir.1999), in
+which the Fourth Circuit held that an employer
+materially breached an arbitration agreement "by
+promulgating rules so egregiously unfair as to constitute
+a complete default of its contractual obligation to draft
+arbitration rules and to do so in good faith." The
+arbitration rules set up by Hooters of America, Inc.
+("Hooters") essentially allowed the company to
+unilaterally select 
+[70 F.Supp.2d 826]
+ the arbitrator and
+control the proceedings. Id. According to the Fourth
+Circuit, Hooters' rules were "so one-sided that their only
+possible purpose [was] to undermine the neutrality of
+the proceeding." Id. at 938.
+In the instant matter, Plaintiff asserts that Defendant's
+Dispute Resolution Rules and Procedures also "severely
+curtail" Plaintiff's substantive rights and remedies.
+Plaintiff points first to Rule 4 and argues that the time
+limit for initiating an arbitration proceeding is shorter
+than the time granted under Title VII or Ohio Rev.Code
+§
+ 4112 for initiating a judicial proceeding. Rule 4 states:
+The "Circuit City Associate Arbitration Request Form" shall be
+submitted not later than one year after the date on which the
+associate knew, or through reasonable diligence should have
+known, of the facts giving rise to the associate's claim(s). The
+failure of an associate to initiate an arbitration within the one year
+limit shall constitute a waiver with respect to that dispute relative
+to that associate.
+(doc. 4, Parsons Decl., Ex. B) (emphasis in original).
+In contrast, Defendant argues that contractual parties
+may shorten statute of limitations. See Myers v.
+Western-Southern Life Ins. Co., 849 F.2d 259, 262 (6th
+Cir. 1988) (finding "nothing inherently unreasonable
+about a six-month limitations period"). Defendant
+accordingly argues that the one-year limitation period
+provided for in the Agreement is reasonable.
+Plaintiff secondly argues that discovery is restrained
+since the Dispute Resolution Rules and Procedures limit
+the number of interrogatories, the number of
+depositions, and the overall time for discovery. Under
+Rule 8, parties are to initially disclose all non-privileged
+documents that the parties believe support their
+positions (see doc. 4, Parsons Decl., Ex. B). In addition,
+Rule 8 requires:
+• Circuit City to supply the employee with documents from the
+employee's personnel file;
+• One set of interrogatories with a document request;
+• Three depositions; and
+• Any additional discovery upon a showing of substantial need.
+• Discovery to be completed within 90 days with time extended for
+good cause.
+(Id.).
+In response to Plaintiff's limited-discovery argument,
+Defendant notes that the Supreme Court allows
+reasonable limitations on discovery in arbitration of
+statutory discrimination claims. Gilmer, 500 U.S. at 31,
+111 S.Ct. 1647. Defendant further contends that the
+Dispute Resolution Rules and Procedures allow the
+parties to engage in meaningful discovery. Because
+additional discovery is possible and because the time can
+be extended for good cause, Defendant asserts that the
+discovery offered under the Dispute Resolution Rules
+and Procedures is also fair and reasonable.
+Thirdly, Plaintiff contends that the Dispute Resolution
+Rules and Procedures limit the remedies and damages
+available to Plaintiff. Under Rule 14, an arbitrator is
+permitted to award:
+• Injunctive relief, including reinstatement to employment;
+• Up to one year of back pay and reimbursement for lost fringe
+benefits with interest;
+• Up to two years of front pay if reinstatement is not practical or
+reasonable under the circumstances;
+• Compensatory damages;
+• Punitive damages equal to the monetary sum of the front pay,
+back pay, and benefits awarded, or $5,000, whichever is greater; and
+• Reasonable attorney's fees and costs to a prevailing employee
+(Id.). Plaintiff argues the limitations on back pay, front
+pay, and punitive damages 
+[70 F.Supp.2d 827]
+contradict the provisions of Title VII and Ohio
+Rev.Code 
+§
+ 4112.99.
+In contrast, Defendant contends that a limitation on
+damages does not alone make an arbitration agreement
+unenforceable. See Baravati v. Josephthal, Lyon & Ross,
+Inc., 28 F.3d 704, 709 (7th Cir.1994) (finding that
+"parties [to an employment arbitration agreement]
+surely can stipulate that punitive damages will not be
+awarded."); Degaetano v. Smith Barney, Inc., 983
+F.Supp. 459, 468-69 (S.D.N.Y.1997) (enforcing an
+arbitration agreement generally, but voiding as against
+public policy the provision in the agreement precluding
+recovery of reasonable attorneys' fees); Farrell v.
+Convergent Communications, Inc., No. C98-2613 MJJ,
+1998 WL 774626, 1998 U.S. Dist. LEXIS 17314, at *14
+(N.D.Cal. Oct. 29, 1998) (concluding that "limitations on
+the amount of damages alone does not render an
+agreement to arbitrate per se unconscionable, as parties
+are generally free to contract as they see fit").
+Moreover, Defendant asserts that the limitations on
+back pay, front pay, and punitive damages would not
+preclude Plaintiff from recovering a fair and reasonable
+amount of damages. Defendant further calculates that
+Plaintiff could actually recover a higher award of
+damages under the arbitration than Title VII. According
+to Defendant, the Civil Rights Act of 1991 limits
+Plaintiff to $300,000 in combined compensatory and
+punitive damages. Title 42 U.S.C. 
+§
+ 1981a(a)(1) & (b)(3).
+On the other hand, the Circuit City arbitration rules,
+Defendant argues, would allow Plaintiff to recover up to
+$162,000 in punitive damages and unlimited
+compensatory damages. Thus, Defendant asserts that
+the total recovery for Plaintiff pursuant to an arbitration
+award could exceed the statutory minimum.
+We note that other courts have approved of the
+remedies found in Defendant's arbitration agreement.
+See Circuit City Stores, Inc. v. Adams, No. C98-
+0365CAL (N.D.Cal. Apr. 29, 1998) (staying the
+proceeding and finding that the limitation on remedies
+does not "amount to the extreme one-sidedness that's
+required for a finding of unconscionability as a matter of
+law"); Ward v. Circuit City Stores, Inc., No. CIV-S-97-
+0227 (E.D.Cal. Mar. 29, 1997) (finding that the remedies
+available under the Agreement are not unconscionable
+because they are sufficiently similar to limits in federal
+and state law).
+After considering all of the arguments raised by Plaintiff
+about the arbitration procedure offered by Defendant,
+the Court is not persuaded that the procedure would be
+an unacceptable replacement for a judicial forum. To the
+contrary, we find that the one-year limitations period
+and discovery procedures are fair and reasonable. In
+contrast to the rules examined by the Fourth Circuit in
+Hooters, 173 F.3d at 938-39, Defendant's Dispute
+Resolution Rules and Procedures do not "undermine the
+neutrality of the proceeding." Moreover, Plaintiff may
+recover both compensatory and punitive damages as
+well as reasonable attorneys' fees and costs under the
+Agreement. Therefore, we conclude that Plaintiff could
+effectively vindicate her statutory and common law
+causes of action in the arbitral forum offered by
+Defendant.
+F. Public Policy
+Finally, Plaintiff asserts that the Agreement violates
+public policy by taking away her right to a jury trial.
+Plaintiff argues that both the U.S. Constitution and the
+Ohio Constitution express a public policy in favor of the
+right to a jury trial, and so mandatory arbitration
+agreements should not be enforced by the courts. In
+support of her argument, Plaintiff notes that the Equal
+Employment Opportunity Commission ("EEOC"), the
+National Academy of Arbitrators, and the Taskforce on
+Alternative Dispute Resolution in Employment have
+concluded that only voluntary and non-binding types of
+alternative dispute resolutions should be encouraged in
+the workplace. On July 10, 1997, the EEOC stated:
+[70 F.Supp.2d 828]
+ The use of unilaterally imposed agreements
+mandating binding arbitration of employment discrimination
+disputes as a condition of employment harms both the individual
+civil rights claimant and the public interest in eradicating
+discrimination. Those whom the law seeks to regulate should not
+be permitted to exempt themselves from federal enforcement of
+civil rights laws. Nor should they be permitted to deprive civil
+rights claimants of the choice to vindicate their statutory rights in
+the courts—an avenue of redress determined by Congress to be
+essential to enforcement.
+EEOC Notice No. 915.002 (July 10, 1997), reprinted in
+Excerpts from Text: EEOC Rejects Mandatory Binding
+Employment Arbitration, 52 Disp. Resol. J. 11, 14
+(1997).
+Defendant, however, insists that both the Supreme
+Court and the Sixth Circuit recognize the value of
+arbitration and enforce valid arbitration agreements
+regardless of whether these agreements call for
+mandatory or voluntary arbitration. In light of the case
+law reviewed by this Court, we agree that Congress as
+well as federal and state courts generously support
+arbitration.
+In Moses H. Cone Mem'l Hosp. v. Mercury Constr.
+Corp., 460 U.S. 1, 24, 103 S.Ct. 927, 74 L.Ed.2d 765,
+(1983), the Supreme Court stated that the Federal
+Arbitration Act "is a congressional declaration of a
+liberal federal policy favoring arbitration agreements."
+See also Asplundh, 71 F.3d at 595 (quoting same). Ohio
+courts also "favor and encourage arbitration." See, e.g.,
+Weiss v. Voice/Fax Corp., 94 Ohio App.3d 309, 312,
+640 N.E.2d 875, 877 (1994); Menardi v. Petrigalla, 11
+Ohio App.3d 9, 11, 462 N.E.2d 1246, 1249 (1983)
+(quoting Campbell v. Automatic Die & Prod. Co., 162
+Ohio St. 321, 329, 123 N.E.2d 401, 405 (1954)).
+Moreover, in addition to a constitutionally-recognized
+right to a jury trial, Ohio courts hold the "concept of
+`freedom of contract' to be fundamental to our society."
+Royal Indem. Co. v. Baker Protective Serv., Inc., 33
+Ohio App.3d 184, 186, 515 N.E.2d 5, 7 (1986).
+Because we conclude that Plaintiff's substantive rights
+are protected within the arbitration agreement at issue
+in this case, we are unpersuaded by Plaintiff's public
+policy argument. As the Supreme Court noted in
+Mitsubishi Motors Corp., 473 U.S. at 628, 105 S.Ct.
+3346, "[b]y agreeing to arbitrate a statutory claim, a
+party does not forgo the substantive rights afforded by
+the statute; it only submits to their resolution in an
+arbitral, rather than a judicial, forum." The Supreme
+Court did not distinguish between voluntary and
+compulsory arbitration. Instead, the Supreme Court
+simply indicated that an employee's substantive rights
+can be protected outside of a judicial forum and a jury
+trial pursuant to a valid and enforceable contract to
+arbitrate. In the instant matter, we find the Agreement
+to be valid and enforceable, and we believe that Plaintiff
+should be held to her promise to arbitrate.
+CONCLUSION
+Accordingly, since the Court holds (1) that this case falls
+within the coverage of the Federal Arbitration Act; (2)
+that the Agreement is broad enough to cover the
+disputes asserted in this case; and (3) that the Agreement
+is valid and enforceable, we hereby COMPEL
+arbitration of Plaintiff's claims.
+As to Defendant's request that this Court stay the
+proceedings pending arbitration under 
+§
+ 3 of the FAA
+or dismiss this matter pursuant to Rule 12(b)(1) or Rule
+12(b)(6), we note that a court may dismiss a lawsuit
+when it determines that all of the issues involved are
+subject to arbitration. Alford v. Dean Witter Reynolds,
+Inc., 975 F.2d 1161, 1164 (5th Cir. 1992); Farrell, No.
+C98-2613 MJJ, 1998 WL 774626, 1998 U.S. Dist. LEXIS
+17314, at *16-*17. After a review of Plaintiff's
+Complaint, we find that all of the claims asserted in her
+Complaint are employment-related and thereby subject
+to the 
+[70 F.Supp.2d 829]
+ arbitration agreement.
+Moreover, the Agreement calls for final and binding
+arbitration. Therefore, pursuant to the valid contract
+signed between Plaintiff and Defendant, we find that the
+Court lacks subject matter jurisdiction over the claims
+asserted in Plaintiff's Complaint and that we may
+dismiss this action pursuant to Rule 12(b)(1).
+Thus, the Court hereby GRANTS Defendant's Motion
+to Compel Arbitration and hereby DISMISSES
+WITHOUT PREJUDICE Plaintiff's action against
+Defendant.
+SO ORDERED.

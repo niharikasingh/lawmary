@@ -1,0 +1,175 @@
+For over 30 years the standard by which to measure the
+constitutionally permissible reach of state-court
+jurisdiction has been well established:
+"[D]ue process requires only that in order to subject a defendant to
+a judgment in personam, if he be not present within the territory of
+the forum, he have certain minimum contacts with it such that the
+maintenance of the suit does not offend `traditional notions of fair
+play and substantial justice.'" International Shoe Co. v. Washington,
+326 U.S. 310, 316 (1945), quoting Milliken v. Meyer, 311 U.S. 457,
+463 (1940).
+The corollary, that the Due Process Clause forbids the
+assertion of jurisdiction over a defendant "with which
+the state has no contacts, ties, or relations," 326 U. S., at
+319, is equally clear. The concepts of fairness and
+substantial justice as applied to an evaluation of "the
+quality and nature of the [defendant's] activity," ibid.,
+are not readily susceptible of further definition,
+however, and it is not surprising that the constitutional
+standard is easier to state than to apply.
+This is a difficult case, and reasonable minds may differ
+as to whether respondents have alleged a sufficient
+"relationship among the defendant[s], the forum, and
+the litigation," Shaffer v. Heitner, 433 U.S. 186, 204
+(1977), to satisfy the requirements of International Shoe.
+I am concerned, however, that the majority has reached
+its result by taking an unnecessarily narrow view of
+petitioners' forum-related conduct. The majority asserts
+that "respondents seek to base jurisdiction on one,
+isolated occurrence and whatever inferences can be
+drawn therefrom: the fortuitous circumstance that a
+single Audi automobile, sold in New York to New York
+[444 U.S. 314] residents, happened to suffer an accident
+while passing through Oklahoma." Ante, at 295. If that
+were the case, I would readily agree that the minimum
+contacts necessary to sustain jurisdiction are not
+present. But the basis for the assertion of jurisdiction is
+not the happenstance that an individual over whom
+petitioners had no control made a unilateral decision to
+take a chattel with him to a distant State. Rather,
+jurisdiction is premised on the deliberate and purposeful
+actions of the defendants themselves in choosing to
+become part of a nationwide, indeed a global, network
+for marketing and servicing automobiles.
+Petitioners are sellers of a product whose utility derives
+from its mobility. The unique importance of the
+automobile in today's society, which is discussed in MR.
+JUSTICE BLACKMUN'S dissenting opinion, post, at
+318, needs no further elaboration. Petitioners know that
+their customers buy cars not only to make short trips,
+but also to travel long distances. In fact, the nationwide
+service network with which they are affiliated was
+designed to facilitate and encourage such travel. Seaway
+would be unlikely to sell many cars if authorized service
+were available only in Massena, N. Y. Moreover, local
+dealers normally derive a substantial portion of their
+revenues from their service operations and thereby
+obtain a further economic benefit from the opportunity
+to service cars which were sold in other States. It is
+apparent that petitioners have not attempted to
+minimize the chance that their activities will have effects
+in other States; on the contrary, they have chosen to do
+business in a way that increases that chance, because it is
+to their economic advantage to do so.
+To be sure, petitioners could not know in advance that
+this particular automobile would be driven to
+Oklahoma. They must have anticipated, however, that a
+substantial portion of the cars they sold would travel out
+of New York. Seaway, a local dealer in the second most
+populous State, and World-Wide, [444 U.S. 315] one of
+only seven regional Audi distributors in the entire
+country, see Brief for Respondents 2, would scarcely
+have been surprised to learn that a car sold by them had
+been driven in Oklahoma on Interstate 44, a heavily
+traveled transcontinental highway. In the case of the
+distributor, in particular, the probability that some of
+the cars it sells will be driven in every one of the
+contiguous States must amount to a virtual certainty.
+This knowledge should alert a reasonable businessman
+to the likelihood that a defect in the product might
+manifest itself in the forum State—not because of some
+unpredictable, aberrant, unilateral action by a single
+buyer, but in the normal course of the operation of the
+vehicles for their intended purpose.
+It is misleading for the majority to characterize the
+argument in favor of jurisdiction as one of
+"`foreseeability' alone." Ante, at 295. As economic
+entities petitioners reach out from New York,
+knowingly causing effects in other States and receiving
+economic advantage both from the ability to cause such
+effects themselves and from the activities of dealers and
+distributors in other States. While they did not receive
+revenue from making direct sales in Oklahoma, they
+intentionally became part of an interstate economic
+network, which included dealerships in Oklahoma, for
+pecuniary gain. In light of this purposeful conduct I do
+not believe it can be said that petitioners "had no reason
+to expect to be haled before a[n Oklahoma] court."
+Shaffer v. Heitner, supra, at 216; see ante, at 297, and
+Kulko v. California Superior Court, 436 U.S. 84, 97-98
+(1978).
+The majority apparently acknowledges that if a product
+is purchased in the forum State by a consumer, that
+State may assert jurisdiction over everyone in the chain
+of distribution. See ante, at 297-298. With this I agree.
+But I cannot agree that jurisdiction is necessarily lacking
+if the product enters the State not through the channels
+of distribution but in the course of its intended use by
+the consumer. We have recognized [444 U.S. 316] the
+role played by the automobile in the expansion of our
+notions of personal jurisdiction. See Shaffer v. Heitner,
+supra, at 204; Hess v. Pawloski, 274 U.S. 352 (1927).
+Unlike most other chattels, which may find their way
+into States far from where they were purchased because
+their owner takes them there, the intended use of the
+automobile is precisely as a means of traveling from one
+place to another. In such a case, it is highly artificial to
+restrict the concept of the "stream of commerce" to the
+chain of distribution from the manufacturer to the
+ultimate consumer.
+I sympathize with the majority's concern that persons
+ought to be able to structure their conduct so as not to
+be subject to suit in distant forums. But that may not
+always be possible. Some activities by their very nature
+may foreclose the option of conducting them in such a
+way as to avoid subjecting oneself to jurisdiction in
+multiple forums. This is by no means to say that all
+sellers of automobiles should be subject to suit
+everywhere; but a distributor of automobiles to a
+multistate market and a local automobile dealer who
+makes himself part of a nationwide network of
+dealerships can fairly expect that the cars they sell may
+cause injury in distant States and that they may be called
+on to defend a resulting lawsuit there.
+In light of the quality and nature of petitioners' activity,
+the majority's reliance on Kulko v. California Superior
+Court, supra, is misplaced. Kulko involved the assertion
+of state-court jurisdiction over a nonresident individual
+in connection with an action to modify his child custody
+rights and support obligations. His only contact with the
+forum State was that he gave his minor child permission
+to live there with her mother. In holding that the
+exercise of jurisdiction violated the Due Process Clause,
+we emphasized that the cause of action as well as the
+defendant's actions in relation to the forum State arose
+"not from the defendant's commercial transactions in
+interstate commerce, but rather from his personal, [444
+U.S. 317] domestic relations," 436 U. S., at 97 (emphasis
+supplied), contrasting Kulko's actions with those of the
+insurance company in McGee v. International Life Ins.
+Co., 355 U.S. 220 (1957), which were undertaken for
+commercial benefit.*
+Manifestly, the "quality and nature" of commercial
+activity is different, for purposes of the International
+Shoe test, from actions from which a defendant obtains
+no economic advantage. Commercial activity is more
+likely to cause effects in a larger sphere, and the actor
+derives an economic benefit from the activity that makes
+it fair to require him to answer for his conduct where its
+effects are felt. The profits may be used to pay the costs
+of suit, and knowing that the activity is likely to have
+effects in other States the defendant can readily insure
+against the costs of those effects, thereby sparing himself
+much of the inconvenience of defending in a distant
+forum.
+Of course, the Constitution forbids the exercise of
+jurisdiction if the defendant had no judicially cognizable
+contacts with the forum. But as the majority
+acknowledges, if such contacts are present the
+jurisdictional inquiry requires a balancing of various
+interests and policies. See ante, at 292; Rush v. Savchuk,
+post, at 332. I believe such contacts are to be found here
+and that, considering all of the interests and policies at
+stake, requiring petitioners to defend this action in
+Oklahoma is not beyond the bounds of the Constitution.
+Accordingly, I dissent.

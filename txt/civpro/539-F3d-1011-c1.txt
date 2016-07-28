@@ -1,0 +1,153 @@
+I agree that jurisdiction is lacking. I write separately to
+underscore my disagreement with Boschetto's argument
+that Hansing, as a seller on eBay, necessarily availed
+himself of the privilege of doing business in each state
+across the nation. I believe that a defendant does not
+establish minimum contacts nationwide by listing an
+item for sale on eBay; rather, he must do "something
+more," such as individually targeting residents of a
+particular state, to be haled into another jurisdiction.
+The basic principles are well settled. Personal
+jurisdiction is proper if it is consistent with the forum
+state's long-arm [539 F.3d 1021] statutes and if it
+comports with due process of law. Fireman's Fund Ins.
+Co. v. Nat'l Bank of Coops., 103 F.3d 888, 893 (9th
+Cir.1996). California's long-arm statute extends the
+exercise of personal jurisdiction to the limits of due
+process. Harris Rutsky & Co. Ins. Servs., Inc. v. Bell &
+Clements Ltd., 328 F.3d 1122, 1129 (9th Cir.2003)
+(citing Cal.Code Civ. Pro. § 410.10). For due process to
+be satisfied, a defendant must have "minimum contacts"
+with the forum state such that the assertion of
+jurisdiction "does not offend traditional notions of fair
+play and substantial justice." Pebble Beach Co. v. Caddy,
+453 F.3d 1151, 1155 (9th Cir.2006) (citing Int'l Shoe Co.
+v. Washington, 326 U.S. 310, 315, 66 S.Ct. 154, 90 L.Ed.
+95 (1945)).
+This circuit applies a three-part test to determine
+whether a plaintiff has demonstrated sufficient
+minimum contacts to establish specific jurisdiction over
+a defendant. Minimum contacts are found where:
+(1) the defendant has performed some act or consummated some
+transaction within the forum or otherwise purposefully availed
+himself of the privileges of conducting activities in the forum, (2)
+the claim arises out of or results from the defendant's forum related
+activities, and (3) the exercise of jurisdiction is reasonable.
+Id. at 1155 (citing Bancroft & Masters, Inc. v. Augusta
+Nat'l Inc., 223 F.3d 1082, 1086 (9th Cir.2000)). The
+plaintiff bears the burden of satisfying the first two
+prongs of the test, and the defendant bears the burden
+on the third. Id. Boschetto falls short on the first prong.
+The "purposeful availment" requirement ensures that a
+defendant will not be haled into a jurisdiction solely as a
+result of "random," "fortuitous," or "attenuated"
+contacts. Burger King Corp. v. Rudzewicz, 471 U.S. 462,
+475-76, 105 S.Ct. 2174, 85 L.Ed.2d 528 (1985) (citations
+omitted). We have refined this to mean that the
+defendant must either have "purposefully availed"
+himself of the privilege of conducting activities in the
+forum, thus invoking the benefits and protections of its
+laws, or have "purposefully directed" his activities
+toward the forum. Schwarzenegger v. Fred Martin
+Motor Co., 374 F.3d 797, 807 (9th Cir.2004).
+A defendant "purposefully avails" himself of a forum
+when he acts in a way that creates a "substantial
+connection" with the state, Burger King, 471 U.S. at
+475, 105 S.Ct. 2174, see also Kulko v. California
+Superior Court, 436 U.S. 84, 94, n. 7, 98 S.Ct. 1690, 56
+L.Ed.2d 132 (1978), as where he deliberately engages in
+significant activities there, Keeton v. Hustler Magazine,
+Inc., 465 U.S. 770, 781, 104 S.Ct. 1473, 79 L.Ed.2d 790
+(1984), or creates "continuing obligations" between
+himself and its residents. Travelers Health Ass'n v.
+Virginia, 339 U.S. 643, 648, 70 S.Ct. 927, 94 L.Ed. 1154
+(1950). In return for taking advantage of the forum
+state's "benefits and protections," the defendant must
+submit to the burden of being sued there. Burger King,
+471 U.S. at 475-76, 105 S.Ct. 2174.
+A defendant "purposefully directs" activity at a forum
+state when he: (1) commits an intentional act, that is (2)
+expressly aimed at the forum state, and that (3) causes
+harm that he knows is likely to be suffered in that
+jurisdiction. See Schwarzenegger, 374 F.3d at 803 (citing
+Calder v. Jones, 465 U.S. 783, 104 S.Ct. 1482, 79 L.Ed.2d
+804 (1984)). Under this "effects test," it is not sufficient
+that the defendant took action with a foreseeable effect
+in the forum state. Id. at 804-05. He must do "something
+more" for courts to conclude that he "expressly aimed"
+activity at the forum, such as individually targeting its
+residents. Id. at 805; Pebble Beach Co., 453 F.3d at 1157.
+In my view, Hansing did not purposefully avail himself
+of California. Hansing [539 F.3d 1022] created no
+continuing obligations to California residents by selling
+his car on eBay. His only obligation was to complete the
+sale with the highest bidder, whoever and wherever he
+might be, which Hansing fulfilled by allowing Boschetto
+to retrieve the car in Janesville, Wisconsin. Nor did
+Hansing's eBay auction establish a substantial
+connection between himself and California such that he
+invoked the benefits and protections of its laws. There is
+no suggestion that he is engaged in ongoing business
+activities there,1 and though a Californian ultimately
+made the highest of fifty bids, this was a fortuity;
+Boschetto does not argue either that Hansing had any
+control over the high bidder's location within the
+United States, or that the high bidder's residence had
+any effect on Hansing's obligations, given Hansing's
+requirement that the high bidder either pick up the car
+in Wisconsin or, as Boschetto did, arrange for a thirdparty
+to ship it somewhere else. World-Wide
+Volkswagen Corp. v. Woodson, 444 U.S. 286, 297-99,
+100 S.Ct. 580, 62 L.Ed.2d 490 (1980) ("the foreseeability
+that is critical to [the] due process analysis is not the
+mere likelihood that a product will find its way into the
+forum State. Rather, it is that the defendant's conduct
+and connection with the forum State are such that he
+should reasonably anticipate being haled into court
+there.") (citations omitted).
+I also do not think that Hansing purposefully directed
+any activity at California. Boschetto argues that Hansing
+directed his eBay auction at the state by failing to bar
+Californians from bidding. By accepting bids from all
+states, he contends, Hansing offered to sell the subject
+vehicle to residents of each state of the union, including
+California. I disagree that allowing eBay users
+throughout the United States and Canada to bid on an
+auction subjects the seller to nationwide jurisdiction. As
+we have previously held, merely advertising over the
+Internet is not sufficient to confer jurisdiction
+throughout the United States, even though the
+advertisement or website at issue may be viewed
+nationwide. Pebble Beach Co., 453 F.3d at 1157-58;
+Cybersell, Inc., 130 F.3d at 419-20.2 The defendant must
+do "something more" to aim activity expressly at a state,
+Cybersell, 130 F.3d at 418, 419; Pebble Beach Co., 453
+F.3d at 1156-57,3 and [539 F.3d 1023] Boschetto has not
+shown either that Hansing tailored his auction to the
+residents of any state in particular, or that he sent or
+advertised his auction to any state in particular, much
+less California.4 Arguably, Hansing could foresee that
+California residents would bid on his auction, and that
+he would benefit from their participation, but
+foreseeable participation by Californians is not enough.
+Hansing must have done something more to aim his
+auction expressly at the state, such as individually
+targeting California residents.5 Pebble Beach Co., 453
+F.3d at 1157. On the facts of this case, he did nothing
+more. He simply permitted those with eBay access
+throughout the United States and Canada to bid on his
+car, agreeing to let the winner retrieve it in Janesville,
+Wisconsin.
+Accordingly, although Hansing listed his car for sale in
+an unrestricted eBay auction, allowing residents of all
+states to view the auction and bid, and though he
+ultimately sold the car to a California resident, he
+neither availed himself of the privilege of doing business
+in California nor purposefully directed any activity at
+the state.6
+I agree that the district court did not abuse its discretion
+by denying Boschetto jurisdictional discovery. Where,
+as here, a plaintiff's claim of personal jurisdiction is both
+attenuated and based on bare allegations rebutted by
+specific denials made by the defendants, the district
+court need not permit even limited discovery.

@@ -1,0 +1,332 @@
+Plaintiff brought an action against his employer in a
+California state court. He alleged that his employer had
+breached his employment contract by paying him less
+than the contract required. The employer removed the
+case to federal district court on the ground that plaintiff
+had artfully pleaded what was in reality a challenge to
+the employer's compliance with federal law requiring
+the withholding of federal income tax. The district court
+denied plaintiff's motion to remand, dismissed the
+action, and awarded attorney's fees to the employer. We
+affirm and impose sanctions.
+BACKGROUND
+On November 7, 1983, Willie D. Bright entered into an
+employment contract with Bechtel Petroleum, Inc.
+pursuant to a collective bargaining agreement. On
+January 3, 1984, Bright provided to Bechtel a federal
+Employee's Withholding Allowance Certificate (W-4
+Form) on which he claimed an exemption from the
+withholding of federal income tax.
+In accordance with federal internal revenue regulations,
+Bechtel forwarded Bright's W-4 Form to the Internal
+Revenue Service (IRS). On March 14, 1984, the IRS
+issued a directive to Bechtel declaring Bright's W-4
+Form invalid and ordering Bechtel to begin withholding
+federal income tax. Pursuant to a California state income
+tax regulation, Bechtel also began withholding state
+income tax. In 1984, a total of $2,486.18 in federal tax
+and $736.00 in state tax was withheld from Bright's
+wages.
+On June 1, 1984, Bright filed an action against Bechtel,
+and certain individual agents, in California Superior
+Court alleging a breach of contract. Bechtel removed the
+case to the United States District Court for the Northern
+District of California on the ground that the true basis
+of the complaint was that Bechtel had complied with
+federal income tax laws in withholding tax from Bright's
+wages. Bechtel also moved for dismissal of the action,
+and for an award of costs and attorney's fees on the
+ground the complaint was frivolous and filed in bad
+faith.
+Bright moved to remand the case back to state court,
+arguing that he desired to litigate only the question of
+Bechtel's withholding of state income tax from his
+wages.
+On December 4, 1984, the district court denied Bright's
+motion to remand, granted the motion to dismiss, and
+awarded attorney's fees in the amount of $3300 to
+Bechtel.
+On December 19, 1984, Bright filed a motion asking the
+court for "clarification" of the grounds of its judgment.
+Before the district court had ruled on this motion,
+Bright filed a notice of appeal from the judgment. The
+court subsequently denied Bright's motion. Bright also
+filed a notice of appeal from that order. The two appeals
+have been consolidated.
+ANALYSIS
+A. Standard of Review
+A question of federal subject matter jurisdiction, such as
+that permitting removal of a case from state to federal
+court, is reviewable de novo. See Mobil Oil Corp. v. City
+of Long Beach, 772 F.2d 534, 538 (9th Cir.1985). This
+court reviews de novo a district court's ruling on a
+motion to dismiss for failure to state a claim upon which
+relief can be granted. Trerice v. Pedersen, 769 F.2d
+1398, 1400 (9th Cir.1985).
+B. Removal of the Case — Federal Question Jurisdiction
+Bright's complaint alleges that Bechtel breached the
+employment contract by "issuing [780 F.2d 769] to
+plaintiff paychecks that were in amounts less than
+contracted and agreed for." The complaint alleges a
+cause of action based upon "breach of contract and a
+gross violation of Christian principles."
+Bechtel petitioned to remove the case to federal district
+court on the ground that the "breach" Bright alleges is
+based upon Bechtel's withholding of income tax
+pursuant to federal law. Bechtel contends the action falls
+within the district court's original jurisdiction because it
+"arises under" federal internal revenue statutes.1
+An action may "arise under" a law of the United States if
+the plaintiff's right to relief necessarily turns on
+construction of federal law. Franchise Tax Board v.
+Construction Laborers Vacation Trust, 463 U.S. 1, 9,
+103 S.Ct. 2841, 2846, 77 L.Ed.2d 420 (1983); Mobil Oil
+Corp. v. City of Long Beach, 772 F.2d 534, 539 (9th
+Cir.1985). Under the "well-pleaded complaint" rule, the
+federal question, which invokes federal jurisdiction,
+must appear from the complaint and not from any
+federal defense the defendant might raise to defeat the
+claim. Franchise Tax Board, 463 U.S. at 10, 103 S.Ct. at
+2846; Mobil Oil Corp., 772 F.2d at 538-39.
+Although the plaintiff is generally considered the
+"master of his complaint" and is free to choose the
+forum for his action, this principle is not without
+limitation. Schroeder v. Trans World Airlines, Inc., 702
+F.2d 189, 190 (9th Cir.1983).2 A plaintiff will not be
+allowed to conceal the true nature of a complaint
+through "artful pleading." Id. at 191; see also Olguin v.
+Inspiration Consolidated Copper Co., 740 F.2d 1468,
+1472 (9th Cir.1984).
+Bechtel, through background information in its petition
+for removal and supporting affidavits,3 demonstrated
+that Bright, despite "artfully pleading" his action as a
+breach of contract, in fact is challenging federal income
+tax withholding laws and regulations. Bright had
+written two letters threatening a lawsuit for breach of
+contract against Bechtel for complying with the IRS
+directive to withhold income tax from his wages. Both
+letters criticized the IRS directive as illegal and cited
+federal internal revenue statutes. The second letter
+expressly referred to a decision in this circuit,
+Stonecipher v. Bray, 653 F.2d 398 (9th Cir.1981), cert.
+denied, 454 U.S. 1145, 102 S.Ct. 1006, 71 L.Ed.2d 297
+(1982), which dismissed a suit, similar to the instant
+action, as frivolous.
+In addition, affidavits were presented to the district
+court showing that Bright's complaint contains language
+virtually identical to that in the complaint of another
+employee who had filed an action against Bechtel in
+state court.4 That action had been removed to the
+Northern District on the same ground, that the alleged
+breach of contract derived from the company's
+withholding of federal income tax from a [780 F.2d 770]
+paycheck, and had been dismissed as frivolous shortly
+before Bright filed the complaint in this action.
+Once the removal petition had been filed, Bright
+asserted for the first time that he intended only to
+litigate a claim involving the withholding of California
+state income tax. Thus, Bright argues, no federal
+question is raised. Bright's assertion must be regarded as
+disingenuous. The complaint simply does not state a
+claim limited to a state tax issue. It is clear under the
+circumstances that Bright has raised this new argument
+as another attempt to evade the jurisdiction of the
+Northern District, which has been acting swiftly to
+dismiss similar suits as frivolous.
+Accordingly, the removal of the action to federal court
+was proper. See Chandler v. Perini Power Constructors,
+Inc., 520 F.Supp. 1152, 1155 (D.N.H.1981).
+C. Dismissal of Federal Tax Withholding Claim
+Under 26 U.S.C. § 3402, an employer has a mandatory
+duty to withhold federal income tax from an employee's
+wages where required by applicable regulations. See
+Maxfield v. United States Postal Service, 752 F.2d 433,
+434 (9th Cir.1984); Chandler v. Perini Power
+Constructors, Inc., 520 F.Supp. 1152, 1153
+(D.N.H.1981). The actions taken by Bechtel, in
+withholding federal income tax from Bright's wages,
+were fully in accordance with federal internal revenue
+regulations.5 This circuit has repeatedly held that an
+employer is not liable to an employee for complying
+with its legal duty to withhold tax. Maxfield, 752 F.2d at
+434; see Stonecipher v. Bray, 653 F.2d 398, 403 (9th
+Cir.1981) (employer has not breached employment
+contract by withholding taxes from wages and paying
+employee the balance), cert. denied, 454 U.S. 1145, 102
+S.Ct. 1006, 71 L.Ed.2d 297 (1982); Callow v. Amerace
+Corp., 681 F.2d 1242, 1243 (9th Cir.1982) (affirming
+dismissal of action against employer seeking to recover
+withheld federal and state income tax).
+The Internal Revenue Code, 26 U.S.C. § 3403, expressly
+provides that an employer is liable to the IRS for the
+payment of tax withheld, and "shall not be liable to any
+person for the amount of any such payment." Thus, suits
+by employees against employers for tax withheld are
+"statutorily barred." Chandler, 520 F.Supp. at 1156.
+In addition, we have held that actions, such as this, are
+barred by the Anti-Injunction Act, 26 U.S.C. § 7421(a),
+which prohibits suits "for the purpose of restraining the
+assessment or collection of any tax." Maxfield, 752 F.2d
+at 434. A lawsuit, such as in the instant case, can be
+viewed as one to restrain collection (through
+withholding) of federal income tax. See id.; Chandler,
+520 F.Supp. at 1155.
+The district court properly dismissed Bright's claim
+involving withholding of federal income tax.
+D. Dismissal of State Tax Withholding Claim
+Bright's complaint also raises a breach of contract claim
+against Bechtel based on the withholding of state
+income tax. Bechtel withheld state income tax in
+compliance with a California state regulation, 22
+Cal.Admin.Code § 4340-1(b), providing that a federal
+determination that a withholding exemption claim is
+invalid is also effective for state withholding purposes.
+As the district court failed to remand any part of the case
+to state court, and granted a final dismissal of the case,
+we must assume [780 F.2d 771] the district court also
+dismissed the claim involving withholding of state tax.
+The district court had proper jurisdiction over the claim
+for breach of contract involving state tax withholding.
+Once the federal court acquires jurisdiction of a case on
+removal, it also acquires jurisdiction over pendent state
+law claims. Salveson v. Western States BankCard Ass'n,
+731 F.2d 1423, 1430 (9th Cir.1984). Dismissal of the
+federal claim does not deprive a federal court of the
+power to adjudicate the remaining pendent state claims.
+Rosado v. Wyman, 397 U.S. 397, 403-04, 90 S.Ct. 1207,
+1213, 25 L.Ed.2d 442 (1970); Anderson v. Allstate Ins.
+Co., 630 F.2d 677, 681 (9th Cir.1980).
+The claims involving withholding of state tax and of
+federal tax arose out of a "common nucleus of operative
+fact." See United Mine Workers of America v. Gibbs,
+383 U.S. 715, 725, 86 S.Ct. 1130, 1138, 16 L.Ed.2d 218
+(1966). Bechtel's withholding of both taxes was based
+upon the single IRS directive. The California regulation
+makes the IRS determination effective for state purposes
+as well. Although the funds withheld were allocated
+between the IRS and the California Franchise Tax
+Board, the act of withholding was a single transaction.
+Furthermore, the same issue, concerning whether an
+employer can be held liable in breach of contract for
+complying with government regulations, is raised in the
+claim involving state tax withholding. To conserve
+judicial resources, it was appropriate for the district
+court to decide this issue. It was not an abuse of
+discretion to refuse to remand this claim to state court.
+Bright argues that it is inappropriate for a federal court
+to consider state tax issues. It is true that the principle of
+comity generally bars challenges to the validity of state
+tax systems in federal court.6 See Miller v. City of Los
+Angeles, 755 F.2d 1390, 1391 (9th Cir.), cert. denied,
+474 U.S. 995, 106 S.Ct. 408, 88 L.Ed.2d 359 (1985).
+However, the California state income taxation system is
+not at issue in this action. Bright does contend that the
+regulation requiring an employer to withhold state tax if
+the IRS determines an exemption claim is invalid, 22
+Cal.Admin.Code § 4340-1(b), violates the California
+constitution and state statutes which purportedly
+prohibit such a delegation of state taxation authority to
+the federal government. This is simply not relevant.
+Even if the regulation is invalid, it was justifiable for
+Bechtel to rely upon it and comply with its command.
+The only issue raised in this action is whether an
+employer can be held liable under California law for
+obeying a California regulation.
+One California court has recently considered a claim
+similar to that brought by Bright in the instant case. In
+Otworth v. Southern Pacific Transp. Co., 166
+Cal.App.3d 452, 167 Cal.App.3d 102E, 212 Cal.Rptr.
+743, 744-45 (1985), the plaintiff alleged conversion,
+breach of contract, violations of constitutional rights,
+and unjust enrichment against his employer for
+withholding federal and state income tax. The funds had
+been turned over to the IRS and California Franchise
+Tax Board. Id., 212 Cal.Rptr. at 745. The court affirmed
+dismissal of these claims and imposed sanctions for
+frivolous appeal. Id., 212 Cal.Rptr. at 748-49.
+The court appeared to view the state tax withholding
+issue as part and parcel of the federal tax withholding
+dispute. Consequently, the court's conclusion that the
+plaintiff failed to state a claim for breach of contract
+would apply to both the withholding of federal and state
+tax. The court held that, in the absence of a provision
+requiring the employer to refrain from withholding, an
+employer "discharges its [780 F.2d 772] contractual
+obligations when it withholds taxes from the employee's
+wages and pays the employee the balance." Id., 212
+Cal.Rptr. at 747.
+Even if a technical breach of contract were established,
+Bright could not prevail in this action. Under
+Cal.Civ.Code § 1511(1), no liability exists for breach of a
+contract whose performance has been made impossible
+by operation of law. Baird v. Wendt Enterprises, Inc.,
+248 Cal.App.2d 52, 56 Cal.Rptr. 118, 120 (1967); see
+generally 1 Witkin, Summary of California Law,
+"Contracts," § 607, at 517 (8th ed. 1973). A party is not
+required to violate the law to avoid liability for breach of
+contract.7 See Northrop Corp. v. Triad Financial
+Establishment, 593 F.Supp. 928, 937 (C.D.Cal.1984)
+(interpreting California law).
+The claim involving withholding of state tax was
+properly dismissed.
+E. Award of Attorney's Fees
+The district court did not abuse its discretion in
+awarding attorney's fees. See Callow v. Amerace Corp.,
+681 F.2d 1242, 1243 (9th Cir.1982). The action is plainly
+frivolous, brought in bad faith, and for the purposes of
+harassment.8
+The district court was made aware of another recent
+judgment in the Northern District, dismissing a nearly
+identically worded complaint by another Bechtel
+employee, which found that there was an organized
+campaign of "tax protest" lawsuits, aimed at "thwarting
+federal tax regulations by inundating employers with
+frivolous suits in the hope that the volume and cost of
+litigation involved in defending these actions will deter
+employers from withholding taxes." McFarland v.
+Bechtel, 586 F.Supp. 907 (N.D.Cal.1984).
+Under these circumstances, the award of attorney's fees
+was "an appropriate deterrent to future frivolous suits."
+Callow, 681 F.2d at 1243.
+F. Denial of Motion for "Clarification"
+The district court's final judgment was entered on
+December 4, 1984. On December 19, 1984, Bright filed a
+motion for "clarification" of the judgment. Even if this
+court liberally construes Bright's motion as a motion
+under Federal Rule of Civil Procedure 52(b) to amend
+the findings or under Rule 59(e) to alter or amend the
+judgment, the motion was not made within 10 days after
+entry of the judgment as required by the rules.
+Even had the motion been timely, it was properly
+denied. Rule 52(a) provides that findings of fact and
+conclusions of law are unnecessary in decisions on
+motions.
+G. Attorney's Fees and Costs on Appeal
+"When a judgment is affirmed, this court has authority
+to award fees and double costs on appeal in its discretion
+pursuant to 28 U.S.C. § 1912. Federal Rule of Appellate
+Procedure 38 provides for the same remedy if the court
+finds an appeal is frivolous." Maxfield v. United States
+Postal Service, 752 F.2d 433, 434-35 (9th Cir.1984) This
+court has imposed such sanctions previously in cases
+involving similar frivolous claims against employers for
+withholding income tax. Maxfield, 752 F.2d at 435;
+Stonecipher v. Bray, 653 F.2d 398, 403 (9th Cir.1981),
+cert. denied, 454 U.S. 1145, 102 S.Ct. 1006, 71 L.Ed.2d
+297 (1982).
+An award of attorney's fees is particularly warranted in
+this case as Bechtel [780 F.2d 773] should not be forced
+to bear the expense of this action and appeal simply
+because it properly complied with federal and state law.
+Bechtel is an innocent bystander caught in the crossfire
+of Bright's war against the income taxation system.
+Bechtel should therefore be awarded reasonable
+attorney's fees and double costs on appeal. See Maxfield,
+752 F.2d at 435.
+In this case, Bechtel shall have 15 days following the
+filing of this decision within which to submit a
+declaration for attorneys' fees calculated in accordance
+with the factors set forth in Kerr v. Screen Extras Guild,
+Inc., 526 F.2d 67, 70 (9th Cir.1975), cert. denied, 425
+U.S. 951, 96 S.Ct. 1726, 48 L.Ed.2d 195 (1976).
+AFFIRMED.

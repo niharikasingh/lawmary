@@ -1,0 +1,122 @@
+{
+    "test1": [
+        "Test 1", 
+        "txt/test1-sum.txt"
+    ], 
+    "abbott laboratories v. granite state ins. co.": [
+        "ABBOTT LABORATORIES v. GRANITE STATE INS. CO. 573 F.Supp. 193 (1983)", 
+        "txt/civpro/573-FSupp-193.txt"
+    ], 
+    "adams dairy co. v. national dairy products corp.": [
+        "ADAMS DAIRY CO. v. NATIONAL DAIRY PRODUCTS CORP. 293 F.Supp. 1164 (1968)", 
+        "txt/civpro/293-FSupp-1164.txt"
+    ], 
+    "aldinger v. howard": [
+        "ALDINGER v. HOWARD 427 U.S. 1 (1976)", 
+        "txt/civpro/427-US-1.txt", 
+        "txt/civpro/427-US-1-d1.txt"
+    ], 
+    "alldread v. city of grenada": [
+        "ALLDREAD v. CITY OF GRENADA 988 F.2d 1425 (1993)", 
+        "txt/civpro/988-F2d-1425.txt"
+    ], 
+    "alliance to end repression v. rochford": [
+        "ALLIANCE TO END REPRESSION v. ROCHFORD 75 F.R.D. 438 (1976)", 
+        "txt/civpro/75-FRD-438.txt"
+    ], 
+    "allstate ins. co. v. menards, inc.": [
+        "ALLSTATE INS. CO. v. MENARDS, INC. 285 F.3d 630 (2002)", 
+        "txt/civpro/285-F3d-630.txt"
+    ], 
+    "alltel communications, inc. v. city of macon": [
+        "ALLTEL COMMUNICATIONS, INC. v. CITY OF MACON 345 F.3d 1219 (2003)", 
+        "txt/civpro/345-F3d-1219.txt"
+    ], 
+    "american well works co. v. layne": [
+        "AMERICAN WELL WORKS CO. v. LAYNE 241 U.S. 257 (1916)", 
+        "txt/civpro/241-US-257.txt", 
+        "txt/civpro/241-US-257-d1.txt"
+    ], 
+    "anderson v. liberty lobby, inc.": [
+        "ANDERSON v. LIBERTY LOBBY, INC. 477 U.S. 242 (1986)", 
+        "txt/civpro/477-US-242.txt", 
+        "txt/civpro/477-US-242-d1.txt", 
+        "txt/civpro/477-US-242-d2.txt"
+    ], 
+    "asahi metal industry co. v. superior court": [
+        "ASAHI METAL INDUSTRY CO. v. SUPERIOR COURT 480 U.S. 102 (1987)", 
+        "txt/civpro/480-US-102.txt"
+    ], 
+    "ashcroft v. iqbal": [
+        "ASHCROFT v. IQBAL 556 U.S. 662 (2009)", 
+        "txt/civpro/556-US-662.txt", 
+        "txt/civpro/556-US-662-d1.txt", 
+        "txt/civpro/556-US-662-d2.txt"
+    ], 
+    "associated dry goods v. towers financial corp.": [
+        "ASSOCIATED DRY GOODS v. TOWERS FINANCIAL CORP. 920 F.2d 1121 (1990)", 
+        "txt/civpro/920-F2d-1121.txt", 
+        "txt/civpro/920-F2d-1121-c1.txt"
+    ], 
+    "b. & w. taxi. co. v. b. & y. taxi. co.": [
+        "B. & W. TAXI. CO. v. B. & Y. TAXI. CO. 276 U.S. 518 (1928)", 
+        "txt/civpro/276-US-518.txt", 
+        "txt/civpro/276-US-518-d1.txt"
+    ], 
+    "balcom v. lynn ladder and scaffolding co., inc.": [
+        "BALCOM v. LYNN LADDER AND SCAFFOLDING CO., INC. 806 F.2d 1127 (1986)", 
+        "txt/civpro/806-F2d-1127.txt"
+    ], 
+    "baldwin v. traveling men's assn.": [
+        "BALDWIN v. TRAVELING MEN'S ASSN. 283 U.S. 522 (1931)", 
+        "txt/civpro/283-US-522.txt"
+    ], 
+    "baltimore & c. line v. redman": [
+        "BALTIMORE & C. LINE v. REDMAN 295 U.S. 654 (1935)", 
+        "txt/civpro/295-US-654.txt"
+    ], 
+    "bean dredging corp. v. dredge technology corp.": [
+        "BEAN DREDGING CORP. v. DREDGE TECHNOLOGY CORP. 744 F.2d 1081 (1984)", 
+        "txt/civpro/744-F2d-1081.txt"
+    ], 
+    "bell atlantic corp. v. twombly": [
+        "BELL ATLANTIC CORP. v. TWOMBLY 550 U.S. 544 (2007)", 
+        "txt/civpro/550-US-544.txt"
+    ], 
+    "bell v. allstate life ins. co.": [
+        "BELL v. ALLSTATE LIFE INS. CO. 160 F.3d 452 (1998)", 
+        "txt/civpro/160-F3d-452.txt"
+    ], 
+    "bensusan restaurant corp. v. king": [
+        "BENSUSAN RESTAURANT CORP. v. KING 126 F.3d 25 (1997)", 
+        "txt/civpro/126-F3d-25.txt"
+    ], 
+    "bernhard v. bank of america national trust and savings assn.": [
+        "BERNHARD V. BANK OF AMERICA NATIONAL TRUST AND SAVINGS ASSN. 122 P.2d 892 (1942)", 
+        "txt/civpro/122-P2d-892.txt"
+    ], 
+    "blonder-tongue laboratories, inc. v. university of illinois foundation": [
+        "BLONDER-TONGUE LABORATORIES, INC. v. UNIVERSITY OF ILLINOIS FOUNDATION 402 U.S. 313 (1971)", 
+        "txt/civpro/402-US-313.txt"
+    ], 
+    "boeing company v. shipman": [
+        "BOEING COMPANY v. SHIPMAN 411 F.2d 365 (1969)", 
+        "txt/civpro/411-F2d-365.txt", 
+        "txt/civpro/411-F2d-365-c1.txt", 
+        "txt/civpro/411-F2d-365-c2.txt"
+    ], 
+    "boschetto v. hansing": [
+        "BOSCHETTO v. HANSING 539 F.3d 1011 (2008)", 
+        "txt/civpro/539-F3d-1011.txt", 
+        "txt/civpro/539-F3d-1011-c1.txt"
+    ], 
+    "briggs v. goodwin": [
+        "BRIGGS v. GOODWIN 569 F.2d 10 (1977)", 
+        "txt/civpro/569-F2d-10.txt", 
+        "txt/civpro/569-F2d-10-d1.txt"
+    ], 
+    "forbes v. eagleson": [
+        "FORBES v. EAGLESON 19 F.Supp.2d 352 (1998)", 
+        "txt/civpro/19-FSupp2d-352sum.txt"
+    ]
+}

@@ -1,0 +1,235 @@
+This is a suit for common-law negligence, brought in a
+United States District Court in South Carolina because
+of diversity of citizenship, 28 U. S. C. § 1332.
+Respondent is a cooperative, organized and operating
+under the South Carolina Rural Electric Cooperative
+Act, S. C. Code, 1952, § 12-1001 et seq., engaged in
+distributing electric power to its members, and
+extending the availability of power to new users, in rural
+areas of the State. Incident to the expansion of its
+facilities and services, it had made a contract with R. H.
+Bouligny, Inc., whereby the latter was to construct 24.19
+miles of new power lines, to rehabilitate and convert to
+higher capacity 87.69 miles of existing lines, and to
+construct two substations and a breaker station. In the
+execution of this contract, petitioner, a citizen of North
+Carolina, and a lineman for Bouligny, was seriously
+burned when he attempted to make a connection
+between the equipment in one of the [356 U.S. 552] new
+substations and an outside line through which, by a
+mistake on the part of another of Bouligny's employees,
+current was running. Petitioner filed a claim against
+Bouligny pursuant to the South Carolina Workmen's
+Compensation Law, S. C. Code, 1952, § 72-1 et seq.,
+under which both Bouligny and respondent operated,
+and recovered the full benefits under the Law. He then
+brought this suit.
+Respondent defended on the ground, among others,
+that, since petitioner was injured in the execution of his
+true employer's (Bouligny's) contract with respondent to
+perform a part of its "trade, business or occupation,"
+respondent was petitioner's "statutory employer" and
+therefore liable to petitioner under § 72-111 of the
+State's Workmen's Compensation Law.1 It would
+follow from this that petitioner, by virtue of his election
+to proceed against Bouligny, was barred from
+proceeding against respondent, either under the statute
+or at common law (§§ 72-121, 72-123).2 After all the
+evidence was in, the [356 U.S. 553] court granted
+petitioner's motion to strike the defense, on the ground
+that an activity could not be a part of a firm's "trade,
+business or occupation" unless it was being performed
+"for somebody else." The court also denied respondent's
+motion for a directed verdict and submitted the case to
+the jury, which returned a verdict for petitioner in the
+amount of $126,786.80.
+On appeal, the United States Court of Appeals for the
+Fourth Circuit found the District Court's construction
+of § 72-111 unsupportable under controlling South
+Carolina decisions.3 In concluding that respondent had
+sustained its defense, the appellate court cited the
+following evidence elicited at trial. Respondent
+employed a sixteen-man "outside crew," two-thirds of
+whose time was spent in such construction work as
+building new power lines and extensions; since World
+War II the demand for electrical service had been so
+great that independent contractors had to be employed
+to do much of the necessary construction work. All of
+respondent's construction work, regardless of who was
+actually performing it, was done under the supervision
+of an engineering firm with which respondent has an
+engineering service contract. Testimony as to the
+construction of substations was not altogether
+consistent; however, stated most favorably to
+petitioner—and that is the light in which the Court of
+Appeals considered it—that evidence was to the effect
+[356 U.S. 554] that respondent had with its own facilities
+constructed three substations, although it had built none
+of the six it was operating at the time petitioner was
+injured, nor was respondent at that time employing
+personnel capable of constructing substations. The
+construction work in connection with which petitioner
+was injured was clearly among the functions respondent
+was empowered to perform by the statute under which
+it was organized; moreover, this construction was
+necessary to the discharge of respondent's duty to serve
+the area in which it operated. Finally, respondent was
+the "main actor" in this particular construction project:
+it secured the necessary financing; its consulting
+engineer prepared the plans (approved by respondent)
+and supervised the construction; it purchased the
+materials of which the substations were constructed; it
+had the responsibility of de-energizing and reenergizing
+existing lines that were involved in the work.
+From this evidence the Court of Appeals was satisfied
+that "there can be no doubt that Blue Ridge was not only
+in the business of supplying electricity to rural
+communities, but also in the business of constructing
+the lines and substations necessary for the distribution
+of the product," 238 F.2d 346, 351. The Court of
+Appeals, having concluded that respondent's defense
+should have been sustained, directed the District Court
+to enter judgment for the respondent. The District
+Court had decided the question of whether or not
+respondent was a statutory employer without
+submitting it to the jury. It is not altogether clear
+whether it did so because it thought it essentially a
+nonjury issue, as it is in the South Carolina courts under
+Adams v. Davison-Paxon Co., 230 S.C. 532, 96 S.E.2d
+566, or because there was no controverted question of
+fact to submit to the jury.
+The construction of the state law by the Court of
+Appeals is clearly supported by the decisions of the
+Supreme Court of South Carolina, and so we need not
+rest on the [356 U.S. 555] usual respect to be accorded to
+a reading of a local statute by a Federal Court of
+Appeals. Estate of Spiegel v. Commissioner, 335 U.S.
+701, 708. It is clear from the state cases that a
+determination as to whether a defendant is an
+"employer" for purposes of § 72-111 will depend upon
+the entire circumstances of the relationship between
+such defendant and the work being done on its behalf;
+no single factor is determinative. Both the approach of
+the Court of Appeals and the conclusions that it reached
+from the evidence in this case are entirely consistent
+with prior declarations of South Carolina law by the
+highest court of that State.4
+In holding respondent a statutory employer, the Court
+of Appeals was giving the South Carolina Workmen's
+Compensation Law the liberal construction called for by
+the Supreme Court of that State. In Yeomans v.
+Anheuser-Busch, Inc., 198 S.C. 65, 72, 15 S.E.2d 833,
+835, that court said:
+"[T]he basic purpose of the Compensation Act is the inclusion of
+employers and employees, and not their exclusion; and we add that
+doubts of jurisdiction must be resolved in favor of inclusion rather
+than exclusion."
+It would be short-sighted to overlook the fact that
+exclusion of an employer in a specific case such as this
+one [356 U.S. 556] might well have the consequence of
+denying any recovery at all to other employees vis-a-vis
+this employer and other similarly situated. The Court of
+Appeals, through the experienced Judge Soper,
+recognized the short-sighted illiberality of yielding to
+the temptation of allowing a single recovery for
+negligence to stand and do violence to the consistent
+and legislatively intended interpretation of the statute in
+Berry v. Atlantic Greyhound Lines, 114 F.2d 255, 257:
+"It may well be, and possibly this is true in the instant case, that
+sometimes a recovery might be had in a common law action for an
+amount much larger than the amount which would be received
+under a Compensation Act. This, though, is more than balanced by
+the many advantages accorded to an injured employee in a
+proceeding under a Compensation Act which would not be found
+in a common law action."
+When, after the evidence was in, petitioner moved to
+strike respondent's defense based on § 72-111, the
+following colloquy ensued:
+"The Court: In the event I overrule your motion, do you
+contemplate putting up any testimony in reply? You have that
+right, of course. On this point, I mean.
+"Mr. Hammer [petitioner's counsel]: We haven't discussed it, but
+we are making that motion. I frankly don't know at this point of
+any reply that is necessary. I don't know of any evidence in this
+case—
+.....
+"The Court: The reason I am making that inquiry as to whether you
+intend to put up any more testimony in the event I overrule your
+motion, counsel [356 U.S. 557] may wish to move for a directed
+verdict on that ground since it is a question of law. But that is his
+prerogative after all the evidence is in. Of course, he can't move for
+a directed verdict as long as you have a right to reply.
+"Mr. Hammer: We are moving at this time in the nature of a
+voluntary dismissal.
+"The Court: You move to dismiss that defense?
+"Mr. Hammer: Yes, sir, at this stage of the game."
+After argument by counsel, the court made its ruling,
+granting petitioner's motion. Respondent having
+indicated its intention to move for a directed verdict, the
+court then said, "I will allow you to include in that
+Motion for Directed Verdict your defense which I have
+stricken, if you desire. . . ." Respondent's motion was
+overruled.
+It is apparent that petitioner had no intention of
+introducing any evidence on the issue of whether
+respondent was his statutory employer and that he was
+prepared to—and did—submit the issue to the court on
+that basis. Clearly petitioner cannot be said to have
+relied upon, and thus to have been misled by, the court's
+erroneous construction of the law, for it was before the
+court had disclosed its view of the law that petitioner
+made apparent his willingness to submit the issue to it
+on the basis of respondent's evidence. If petitioner could
+have cast any doubt on that evidence or could have
+brought in any other matter relevant to the issue, it was
+his duty to bring it forward before the issue was
+submitted to the court. For counsel to withhold
+evidence on an issue submitted for decision until after
+that issue has been resolved against him would be an
+abuse of the judicial process that this Court surely
+should not countenance, however strong the
+philanthropic appeal in a particular case. Nor does [356
+U.S. 558] it appear that petitioner had any such "game"
+in mind. He gave not the slightest indication of an
+intention to introduce any additional evidence, no
+matter how the court might decide the issue. It seems
+equally clear that, had the trial court decided the
+issue—on any construction —in favor of the respondent,
+the petitioner was prepared to rely solely upon his right
+of appeal.
+We are not to read the record as though we are making
+an independent examination of the trial proceedings.
+We are sitting in judgment on the Court of Appeals'
+review of the record. That court, including Chief Judge
+Parker and Judge Soper, two of the most experienced
+and esteemed circuit judges in the federal judiciary,
+interpreted the record as it did in light of its knowledge
+of local practice and of the ways of local lawyers. In
+ordering judgment entered for respondent, it necessarily
+concluded, as a result of its critical examination of the
+record, that petitioner's counsel chose to have the issue
+decided on the basis of the record as it then stood. The
+determination of the Court of Appeals can properly be
+reversed only if it is found that it was baseless. Even
+granting that the record is susceptible of two
+interpretations, it is to disregard the relationship of this
+Court of the Courts of Appeals, especially as to their
+function in appeals in diversity cases, to substitute our
+view for theirs.
+The order of the Court of Appeals that the District
+Court enter judgment for the respondent is amply
+sustained on either theory as to whether or not the issue
+was one for the court to decide. If the question is for the
+court, the Court of Appeals has satisfactorily resolved it
+in accordance with state decisions. And if, on the other
+hand, the issue is such that it would have to be
+submitted to the jury if there were any crucial facts in
+controversy, both the District Court and the Court of
+Appeals agreed that there was no conflict as to the
+relevant [356 U.S. 559] evidence—not, at any rate, if such
+inconsistency as existed was resolved in favor of
+petitioner. According to the governing view of South
+Carolina law, as given us by the Court of Appeals, that
+evidence would clearly have required the District Court
+to grant a directed verdict to the respondent.
+Accordingly, I would affirm the judgment.

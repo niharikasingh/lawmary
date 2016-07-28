@@ -1,0 +1,302 @@
+Alice Houchens brought suit against American Home
+Assurance Company ("American") for breach of
+contract involving two insurance policies in the United
+States District Court for the Eastern District of Virginia.
+American made a motion for summary judgment, and a
+hearing was held on the motion. The district court
+granted American's motion for summary judgment,
+1
+and Houchens appealed. Finding no error in the
+granting of summary judgment in favor of American,
+we affirm.
+I.
+Coulter Houchens disappeared in August 1980 and has
+not been heard from since. His wife, Alice Houchens, is
+trying to collect upon either of two life insurance
+policies issued by American, which covered Mr.
+Houchens. One policy was an occupational accidental
+injury and death insurance policy. The other policy was
+a non-occupational accident insurance policy; it
+excluded coverage if the injury was caused during
+employment. Both policies required that the insured's
+death be caused by accident in order to be covered.
+Evidence shows that Mr. Houchens was a former
+employee of the Federal Aviation Administration
+(FAA). On November 19, 1978, Mr. Houchens was
+released from the FAA and was transferred to the
+International Civil Aviation Organization in Montreal,
+Canada (ICAO). As an employee of ICAO, Mr.
+Houchens was stationed in Dharan, Saudi Arabia.
+Sometime around August 14, 1980, Mr. Houchens
+received a week of vacation leave. He traveled to
+Bangkok, Thailand on or before August 14 via Thai
+Airlines. Immigration records show that he arrived in
+Bangkok on August 15, 1980. His entry permit was valid
+through August 29, 1980.
+No one has heard from Mr. Houchens since that time.
+The State Department, the FBI, ICAO, Mrs. Houchens,
+and the Red Cross have searched for him to no avail. In
+1988, Mrs. Houchens brought an action to declare Mr.
+Houchens legally dead under Virginia law. On April 29,
+1988, an order was issued by the Circuit Court of
+Loudoun County, Virginia, declaring that Mr.
+Houchens is presumed to have died between August 15
+and August 29, 1980.
+Houchens sued American for breach of contract because
+American refused to pay under either of two accidental
+death policies covering Mr. Houchens, which were
+issued by American. Both policies provided coverage in
+the event of death by accident. American maintained
+that there was no evidence of Mr. Houchens' death, nor
+was there evidence of accidental death. American moved
+for summary judgment, and the district court granted
+the motion. This appeal followed.
+II.
+We now review the district court's grant of American's
+motion for summary judgment. 
+[927 F.2d 165]
+ Rule 56
+provides that summary judgment is proper if there is no
+genuine issue of material fact. Fed.R.Civ.P. 56(c); Helm
+v. Western Maryland Ry., 838 F.2d 729, 734 (4th
+Cir.1988). Summary judgments are reviewed de novo on
+appeal. Elliott v. Norfolk & Western Ry. Co., 910 F.2d
+1224, 1230 (4th Cir.1990). "The appellate court,
+therefore, must reverse the grant of summary judgment
+if it appears from the record that there is an unresolved
+issue of material fact; the inferences to be drawn from
+the underlying facts contained in the materials before
+the trial court must be viewed in the light most
+favorable to the party opposing the motion." Id. Thus,
+we must determine if there is a genuine issue of material
+fact after drawing any inferences in the light most
+favorable to Houchens.
+III.
+Section 64.1-105 of the Virginia Code
+2 
+ provides that a
+person who has been missing for 7 years is presumed to
+be dead. Va.Code Ann. 
+§
+ 64.1-105 (1987). Therefore,
+Mr. Houchens is presumed to be dead, and Mrs.
+Houchens is entitled to that presumption. However, in
+order for Mrs. Houchens to recover under the American
+policies, she must prove that Mr. Houchens died as a
+result of an accident. The term accident is not defined in
+the policies. In such cases, the courts of Virginia have
+said that an accident is an "event that takes place
+without one's foresight or expectation; an undesigned,
+sudden, and unexpected event." Harris v. Bankers Life &
+Cas. Co., 222 Va. 45, 46, 278 S.E.2d 809, 810 (1981)
+(quoting Ocean Accident & Guaranty Corp. v. Glover,
+165 Va. 283, 285, 182 S.E. 221, 222 (1935)).
+"Under the general rule ... a beneficiary who makes a
+death claim under an accident policy or the double
+indemnity clause of a life policy, has the burden of
+proving that the insured's death was caused by violent,
+external and accidental means within the terms of the
+policy." Life & Cas. Ins. Co. of Tennessee v. Daniel, 209
+Va. 332, 335, 163 S.E.2d 577, 580 (1968). Therefore, the
+burden is on Mrs. Houchens to prove that her husband
+died by accidental means.
+The district court granted summary judgment to
+American in this case under the rationale of Celotex
+Corp. v. Catrett, 477 U.S. 317, 106 S.Ct. 2548, 91
+L.Ed.2d 265 (1986). The Supreme Court set out the
+standard for granting summary judgment as follows:
+Under Rule 56(c), summary judgment is proper "if the pleadings,
+depositions, answers to interrogatories, and admissions on file,
+together with the affidavits, if any, show that there is no genuine
+issue as to any material fact and that the moving party is entitled to
+a judgment as a matter of law." In our view, the plain language of
+Rule 56(c) mandates the entry of summary judgment, after adequate
+time for discovery and upon motion, against a party who fails to
+make a showing sufficient to establish the existence of an element
+essential to that party's case, and on which that party will bear the
+burden of proof at trial.
+Celotex, 477 U.S. at 322, 106 S.Ct. at 2552. We
+elaborated on that standard in Helm v. Western
+Maryland Ry. Co.:
+The appellate court, therefore, must reverse the grant of summary
+judgment if it appears from the record that there is an unresolved
+issue of material fact; the inferences to be drawn from the
+underlying facts contained in the materials before the trial court
+must be viewed in the light most favorable to the party opposing
+the motion.
+[927 F.2d 166]
+ 838 F.2d 729, 734 (4th Cir.1988). On this
+appeal, then, we must view the evidence in the light
+most favorable to Houchens to ascertain whether she
+made a sufficient showing that Mr. Houchens died
+accidentally.
+Mrs. Houchens asserts that the presumption that Mr.
+Houchens is dead somehow translates into the
+presumption that he died accidentally; therefore, she
+made a sufficient showing. She relies upon three cases
+from the western part of the country as support for the
+fact that she met her burden. The first case is Martin v.
+Insurance Co. of America, 1 Wn.App. 218, 460 P.2d 682
+(1969). There, the "deceased" had been seen hunting elk
+in the American River Ridge. He was last seen alive at 9
+a.m. at 3,000 foot level, without the aid of a compass,
+asking for directions. Conditions were inclement: snow
+on the ground, fog obscuring vision, and steep and
+wooded mountainside. The court explained the issue as
+follows:
+Defendant contends that because of the two-fold nature of the
+ultimate fact — both of which are dependent upon circumstantial
+evidence — the jury was first asked to infer death from the proven
+facts and thereafter to infer the manner of death — and that this
+process constitutes "the piling of inferences upon inferences." If this
+process constituted plaintiff's logical development of the ultimate
+fact, we would be obliged to affirm the judgment.... A jury will not
+be permitted to extrapolate conjecturally beyond a legal conclusion
+which is itself arrived at circumstantially by inference from a
+proven fact. But a given set of facts may radially project two (or
+more) separate inferences. In such event, one inferential conclusion
+is not pyramided upon another; each is drawn independently from
+the same evidence.
+Martin, 460 P.2d at 684-85. The Martin court was
+persuaded that the surrounding circumstances of the
+missing person's disappearance gave rise to two separate
+inferences: (1) that he was dead; and (2) that the death
+was caused by accident. The plaintiff there was not
+piling inferences on inferences. Rather, the evidence
+gave rise to two separate inferences.
+The other two cases Houchens relies upon have equally
+bizarre and telling circumstances surrounding the
+disappearances. In Englehart v. General Electric Co., 11
+Wn.App. 922, 527 P.2d 685 (1974), the missing person
+told some people that he was going fishing. His car was
+discovered at the yacht club. His boat was found adrift
+with the ignition on, throttle at one-quarter speed in a
+forward running position. His children testified that he
+was not a good swimmer, and that the boat had recently
+had some problems requiring their father to lean over
+the back of the boat or to get into the water behind the
+boat in order to repair the problems. The court held that
+an inference of accidental death could be drawn from
+the circumstances surrounding his disappearance:
+We are not unmindful of [the rule] that "if there is nothing more
+tangible to proceed upon than two or more conjectural theories
+under one or more of which a defendant would be liable and under
+one or more of which a plaintiff would not be entitled to recover, a
+jury will not be permitted to conjecture how the accident occurred."
+This rule should be reserved for those cases where the inferences
+show equal support for opposing conclusions.
+Englehart, 527 P.2d at 689.
+In Valley Nat'l Bank of Arizona v. J.C. Penney Ins. Co.,
+129 Ariz. 108, 628 P.2d 991 (Ct.App.1981), the missing
+person disappeared while camping in California with his
+wife and step-daughter. They all three disappeared. The
+deceased's skeletal remains were discovered at a
+campsite, with bullet casings nearby. The court relied
+upon the bizarre circumstances of his death to infer that
+the death was accidental.
+These three cases are readily distinguishable from the
+case at bar. Here, there is only evidence of a
+disappearance. Mr. Houchens went to Bangkok and was
+never heard from again. There are no bizarre
+circumstances surrounding his disappearance. He was
+not last seen in a position of peril as in Martin. He
+simply vanished. 
+[927 F.2d 167]
+ The circumstances
+surrounding his disappearance do not give us a clue that
+he actually died, as did the circumstances in Martin,
+Englehart, and Valley National. Viewed in the light
+most favorable to Mrs. Houchens, we can only conclude
+that Mr. Houchens disappeared, and then presume that
+he died under Virginia law. We cannot conclude that he
+died accidentally. To do so would be to pile inferences
+on inferences.
+This is a case where the inferences show equal support
+for opposing conclusions. Mr. Houchens might have
+died accidentally. However, it is equally likely that he
+was murdered, that he died of natural causes, that he
+took his own life, or that he just went away somewhere
+and lives yet. "[I]t is our function ... to ascertain whether
+the evidence, considered in the light most favorable
+toward plaintiff affords room for men of reasonable
+minds to conclude that there is a greater probability that
+the ultimate fact did happen than that it did not
+happen." Martin, 460 P.2d at 686. The ultimate fact at
+issue here is whether the death occurred by accident.
+We cannot conclude that there is a greater probability
+that the death was caused by accident than by other
+means.
+The Virginia Supreme Court gave guidance in this area
+in General Accident & Casualty Corp. v. Murray, 120
+Va. 115, 90 S.E. 620 (1916). There the court wrote:
+[T]he right to recover upon the policy sued on must be established
+by a preponderance of the evidence deduced in the case, and not be
+based merely upon conjecture, guess or random judgment, that is,
+upon mere supposition without a single known fact.
+The [burden is upon plaintiff] to bring herself within the
+provisions of the contract of insurance by proving an accidental
+injury to the assured, and there is no presumption to aid her in this
+proof, since the well-established rule of law, according to all the
+authorities, is, that when death occurs it is presumed to be the
+result of natural dissolution rather than of accidental injury.
+Murray, 120 Va. at 126, 90 S.E. 620. In Murray, the
+court denied recovery even though the plaintiff had
+presented some circumstantial evidence of how the
+decedent had died.
+Houchens relies upon some suicide cases in order to
+bolster her argument. She argues that American had the
+burden of proving that Mr. Houchens did not commit
+suicide. From that she argues that since American did
+not meet this burden, there is a presumption that Mr.
+Houchens did not commit suicide. This argument and
+the cases cited are inapposite.
+In the suicide cases, the only question before the court
+was whether the cause of death was suicide or accident.
+See, e.g., Life & Cas. Ins. Co. of Tennessee v. Daniel, 209
+Va. 332, 163 S.E.2d 577 (1968); Moore v. Union Fidelity
+Life Ins. Co., 297 N.C. 375, 255 S.E.2d 160 (1978). As
+the Supreme Court of Appeals of Virginia has noted:
+It is the settled doctrine in Virginia, supported by a long line of
+decisions, that where circumstantial evidence is relied upon to
+establish suicide as a defense to an action on a life insurance policy,
+the law presumes that death results from a natural cause and the
+burden is upon the insurer to establish suicide by clear and
+satisfactory evidence to the exclusion of any reasonable hypothesis
+consistent with death from natural or accidental causes.
+Daniel, 209 Va. at 335, 163 S.E.2d at 580. In both Daniel
+and Moore, there was no question that the person had
+died, and circumstantial evidence showed that the
+person died of unexplained, external means. The only
+question for the court in those cases was whether the
+death was an accident or a suicide. Under those facts,
+where the insurance company defends on the ground of
+suicide, the insurance company bears the burden of
+overcoming the presumption in favor of death by
+accidental means.
+The facts in this case are different from the suicide cases.
+Here, there is no evidence whatsoever that Mr.
+Houchens died, although there is a statutory
+presumption 
+[927 F.2d 168]
+ that he did. In addition,
+there is no circumstantial evidence showing that Mr.
+Houchens died of unexplained, external means.
+Therefore, the suicide cases offer no support for
+Houchens.
+IV.
+To summarize, Houchens relies on the presumption
+given her by 
+§
+ 64-1.105 of the Virginia Code to establish
+that Mr. Houchens is dead. She then relies upon the
+facts surrounding his disappearance as a basis for a jury
+finding that his death was accidental. However, the
+meager circumstances would not allow a jury to
+reasonably conclude that it is more likely that Mr.
+Houchens died from an accident than in some other
+manner. Because of the sparse evidence concerning his
+disappearance, we cannot say that the district court
+erred in granting summary judgment in favor of
+American under the Celotex standard. Therefore, the
+order of the district court is affirmed.
+AFFIRMED.

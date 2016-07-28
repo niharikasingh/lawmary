@@ -1,0 +1,377 @@
+The issue before us is whether, consistently with the
+Due Process Clause of the Fourteenth Amendment, an
+Oklahoma court may exercise in personam jurisdiction
+over a nonresident automobile retailer and its wholesale
+distributor in a products-liability action, when the
+defendants' only connection with Oklahoma is the fact
+that an automobile sold in New York to New York
+residents became involved in an accident in Oklahoma.
+[444 U.S. 288] I
+Respondents Harry and Kay Robinson purchased a new
+Audi automobile from petitioner Seaway Volkswagen,
+Inc. (Seaway), in Massena, N. Y., in 1976. The following
+year the Robinson family, who resided in New York, left
+that State for a new home in Arizona. As they passed
+through the State of Oklahoma, another car struck their
+Audi in the rear, causing a fire which severely burned
+Kay Robinson and her two children.1
+The Robinsons2 subsequently brought a productsliability
+action in the District Court for Creek County,
+Okla., claiming that their injuries resulted from
+defective design and placement of the Audi's gas tank
+and fuel system. They joined as defendants the
+automobile's manufacturer, Audi NSU Auto Union
+Aktiengesellschaft (Audi); its importer, Volkswagen of
+America, Inc. (Volkswagen); its regional distributor,
+petitioner World-Wide Volkswagen Corp. (WorldWide);
+and its retail dealer, petitioner Seaway. Seaway
+and World-Wide entered special appearances,3 claiming
+that Oklahoma's exercise of jurisdiction over them
+would offend the limitations on the State's jurisdiction
+imposed by the Due Process Clause of the Fourteenth
+Amendment.4
+The facts presented to the District Court showed that
+World-Wide is incorporated and has its business office
+in New [444 U.S. 289] York. It distributes vehicles, parts,
+and accessories, under contract with Volkswagen, to
+retail dealers in New York, New Jersey, and
+Connecticut. Seaway, one of these retail dealers, is
+incorporated and has its place of business in New York.
+Insofar as the record reveals, Seaway and World-Wide
+are fully independent corporations whose relations with
+each other and with Volkswagen and Audi are
+contractual only. Respondents adduced no evidence that
+either World-Wide or Seaway does any business in
+Oklahoma, ships or sells any products to or in that State,
+has an agent to receive process there, or purchases
+advertisements in any media calculated to reach
+Oklahoma. In fact, as respondents' counsel conceded at
+oral argument, Tr. of Oral Arg. 32, there was no
+showing that any automobile sold by World-Wide or
+Seaway has ever entered Oklahoma with the single
+exception of the vehicle involved in the present case.
+Despite the apparent paucity of contacts between
+petitioners and Oklahoma, the District Court rejected
+their constitutional claim and reaffirmed that ruling in
+denying petitioners' motion for reconsideration.5
+Petitioners then sought a writ of prohibition in the
+Supreme Court of Oklahoma to restrain the District
+Judge, respondent Charles S. Woodson, from exercising
+in personam jurisdiction over them. They renewed their
+contention that, because they had no "minimal
+contacts," App. 32, with the State of Oklahoma, the
+actions of the District Judge were in violation of their
+rights under the Due Process Clause.
+The Supreme Court of Oklahoma denied the writ, 585
+P.2d 351 (1978),6 holding that personal jurisdiction over
+petitioners was authorized by Oklahoma's "long-arm"
+statute, [444 U.S. 290] Okla. Stat., Tit. 12, § 1701.03 (a)
+(4) (1971).7 Although the court noted that the proper
+approach was to test jurisdiction against both statutory
+and constitutional standards, its analysis did not
+distinguish these questions, probably because § 1701.03
+(a) (4) has been interpreted as conferring jurisdiction to
+the limits permitted by the United States Constitution.8
+The court's rationale was contained in the following
+paragraph, 585 P. 2d, at 354:
+"In the case before us, the product being sold and distributed by the
+petitioners is by its very design and purpose so mobile that
+petitioners can foresee its possible use in Oklahoma. This is
+especially true of the distributor, who has the exclusive right to
+distribute such automobile in New York, New Jersey and
+Connecticut. The evidence presented below demonstrated that
+goods sold and distributed by the petitioners were used in the State
+of Oklahoma, and under the facts we believe it reasonable to infer,
+given the retail value of the automobile, that the petitioners derive
+substantial income from automobiles which from time to time are
+used in the State of Oklahoma. This being the case, we hold that
+under the facts presented, the trial court was justified in concluding
+[444 U.S. 291] that the petitioners derive substantial revenue from
+goods used or consumed in this State."
+We granted certiorari, 440 U.S. 907 (1979), to consider
+an important constitutional question with respect to
+state-court jurisdiction and to resolve a conflict between
+the Supreme Court of Oklahoma and the highest courts
+of at least four other States.9 We reverse.
+II
+The Due Process Clause of the Fourteenth Amendment
+limits the power of a state court to render a valid
+personal judgment against a nonresident defendant.
+Kulko v. California Superior Court, 436 U.S. 84, 91
+(1978). A judgment rendered in violation of due process
+is void in the rendering State and is not entitled to full
+faith and credit elsewhere. Pennoyer v. Neff, 95 U.S.
+714, 732-733 (1878). Due process requires that the
+defendant be given adequate notice of the suit, Mullane
+v. Central Hanover Trust Co., 339 U.S. 306, 313-314
+(1950), and be subject to the personal jurisdiction of the
+court, International Shoe Co. v. Washington, 326 U.S.
+310 (1945). In the present case, it is not contended that
+notice was inadequate; the only question is whether
+these particular petitioners were subject to the
+jurisdiction of the Oklahoma courts.
+As has long been settled, and as we reaffirm today, a
+state court may exercise personal jurisdiction over a
+nonresident defendant only so long as there exist
+"minimum contacts" between the defendant and the
+forum State. International Shoe Co. v. Washington,
+supra, at 316. The concept of minimum contacts, in
+turn, can be seen to perform two related, but [444 U.S.
+292] distinguishable, functions. It protects the defendant
+against the burdens of litigating in a distant or
+inconvenient forum. And it acts to ensure that the
+States, through their courts, do not reach out beyond
+the limits imposed on them by their status as coequal
+sovereigns in a federal system.
+The protection against inconvenient litigation is
+typically described in terms of "reasonableness" or
+"fairness." We have said that the defendant's contacts
+with the forum State must be such that maintenance of
+the suit "does not offend `traditional notions of fair play
+and substantial justice.'" International Shoe Co. v.
+Washington, supra, at 316, quoting Milliken v. Meyer,
+311 U.S. 457, 463 (1940). The relationship between the
+defendant and the forum must be such that it is
+"reasonable . . . to require the corporation to defend the
+particular suit which is brought there." 326 U. S., at 317.
+Implicit in this emphasis on reasonableness is the
+understanding that the burden on the defendant, while
+always a primary concern, will in an appropriate case be
+considered in light of other relevant factors, including
+the forum State's interest in adjudicating the dispute, see
+McGee v. International Life Ins. Co., 355 U.S. 220, 223
+(1957); the plaintiff's interest in obtaining convenient
+and effective relief, see Kulko v. California Superior
+Court, supra, at 92, at least when that interest is not
+adequately protected by the plaintiff's power to choose
+the forum, cf. Shaffer v. Heitner, 433 U.S. 186, 211, n.
+37 (1977); the interstate judicial system's interest in
+obtaining the most efficient resolution of controversies;
+and the shared interest of the several States in furthering
+fundamental substantive social policies, see Kulko v.
+California Superior Court, supra, at 93, 98.
+The limits imposed on state jurisdiction by the Due
+Process Clause, in its role as a guarantor against
+inconvenient litigation, have been substantially relaxed
+over the years. As we noted in McGee v. International
+Life Ins. Co., supra, at 222-223 [444 U.S. 293] this trend
+is largely attributable to a fundamental transformation
+in the American economy:
+"Today many commercial transactions touch two or more States
+and may involve parties separated by the full continent. With this
+increasing nationalization of commerce has come a great increase in
+the amount of business conducted by mail across state lines. At the
+same time modern transportation and communication have made it
+much less burdensome for a party sued to defend himself in a State
+where he engages in economic activity."
+The historical developments noted in McGee, of course,
+have only accelerated in the generation since that case
+was decided.
+Nevertheless, we have never accepted the proposition
+that state lines are irrelevant for jurisdictional purposes,
+nor could we, and remain faithful to the principles of
+interstate federalism embodied in the Constitution. The
+economic interdependence of the States was foreseen
+and desired by the Framers. In the Commerce Clause,
+they provided that the Nation was to be a common
+market, a "free trade unit" in which the States are
+debarred from acting as separable economic entities. H.
+P. Hood & Sons, Inc. v. Du Mond, 336 U.S. 525, 538
+(1949). But the Framers also intended that the States
+retain many essential attributes of sovereignty,
+including, in particular, the sovereign power to try
+causes in their courts. The sovereignty of each State, in
+turn, implied a limitation on the sovereignty of all of its
+sister States—a limitation express or implicit in both the
+original scheme of the Constitution and the Fourteenth
+Amendment.
+Hence, even while abandoning the shibboleth that "[t]he
+authority of every tribunal is necessarily restricted by
+the territorial limits of the State in which it is
+established," Pennoyer v. Neff, supra, at 720, we
+emphasized that the reasonableness of asserting
+jurisdiction over the defendant must be assessed "in the
+context of our federal system of government," [444 U.S.
+294] International Shoe Co. v. Washington, 326 U. S., at
+317, and stressed that the Due Process Clause ensures
+not only fairness, but also the "orderly administration of
+the laws," id., at 319. As we noted in Hanson v. Denckla,
+357 U.S. 235, 250-251 (1958):
+"As technological progress has increased the flow of commerce
+between the States, the need for jurisdiction over nonresidents has
+undergone a similar increase. At the same time, progress in
+communications and transportation has made the defense of a suit
+in a foreign tribunal less burdensome. In response to these changes,
+the requirements for personal jurisdiction over nonresidents have
+evolved from the rigid rule of Pennoyer v. Neff, 95 U.S. 714, to the
+flexible standard of International Shoe Co. v. Washington, 326 U.S.
+310. But it is a mistake to assume that this trend heralds the
+eventual demise of all restrictions on the personal jurisdiction of
+state courts. [Citation omitted.] Those restrictions are more than a
+guarantee of immunity from inconvenient or distant litigation.
+They are a consequence of territorial limitations on the power of
+the respective States."
+Thus, the Due Process Clause "does not contemplate
+that a state may make binding a judgment in personam
+against an individual or corporate defendant with which
+the state has no contacts, ties, or relations."
+International Shoe Co. v. Washington, supra, at 319.
+Even if the defendant would suffer minimal or no
+inconvenience from being forced to litigate before the
+tribunals of another State; even if the forum State has a
+strong interest in applying its law to the controversy;
+even if the forum State is the most convenient location
+for litigation, the Due Process Clause, acting as an
+instrument of interstate federalism, may sometimes act
+to divest the State of its power to render a valid
+judgment. Hanson v. Denckla, supra, at 251, 254.
+[444 U.S. 295] III
+Applying these principles to the case at hand,10 we find
+in the record before us a total absence of those affiliating
+circumstances that are a necessary predicate to any
+exercise of state-court jurisdiction. Petitioners carry on
+no activity whatsoever in Oklahoma. They close no sales
+and perform no services there. They avail themselves of
+none of the privileges and benefits of Oklahoma law.
+They solicit no business there either through
+salespersons or through advertising reasonably
+calculated to reach the State. Nor does the record show
+that they regularly sell cars at wholesale or retail to
+Oklahoma customers or residents or that they indirectly,
+through others, serve or seek to serve the Oklahoma
+market. In short, respondents seek to base jurisdiction
+on one, isolated occurrence and whatever inferences can
+be drawn therefrom: the fortuitous circumstance that a
+single Audi automobile, sold in New York to New York
+residents, happened to suffer an accident while passing
+through Oklahoma.
+It is argued, however, that because an automobile is
+mobile by its very design and purpose it was
+"foreseeable" that the Robinsons' Audi would cause
+injury in Oklahoma. Yet "foreseeability" alone has never
+been a sufficient benchmark for personal jurisdiction
+under the Due Process Clause. In Hanson v. Denckla,
+supra, it was no doubt foreseeable that the settlor of a
+Delaware trust would subsequently move to Florida and
+seek to exercise a power of appointment there; yet we
+held that Florida courts could not constitutionally [444
+U.S. 296] exercise jurisdiction over a Delaware trustee
+that had no other contacts with the forum State. In
+Kulko v. California Superior Court, 436 U.S. 84 (1978),
+it was surely "foreseeable" that a divorced wife would
+move to California from New York, the domicile of the
+marriage, and that a minor daughter would live with the
+mother. Yet we held that California could not exercise
+jurisdiction in a child-support action over the former
+husband who had remained in New York.
+If foreseeability were the criterion, a local California tire
+retailer could be forced to defend in Pennsylvania when
+a blowout occurs there, see Erlanger Mills, Inc. v.
+Cohoes Fibre Mills, Inc., 239 F.2d 502, 507 (CA4 1956);
+a Wisconsin seller of a defective automobile jack could
+be haled before a distant court for damage caused in
+New Jersey, Reilly v. Phil Tolkan Pontiac, Inc., 372
+F.Supp. 1205 (NJ 1974); or a Florida soft-drink
+concessionaire could be summoned to Alaska to account
+for injuries happening there, see Uppgren v. Executive
+Aviation Services, Inc., 304 F.Supp. 165, 170-171
+(Minn. 1969). Every seller of chattels would in effect
+appoint the chattel his agent for service of process. His
+amenability to suit would travel with the chattel. We
+recently abandoned the outworn rule of Harris v. Balk,
+198 U.S. 215 (1905), that the interest of a creditor in a
+debt could be extinguished or otherwise affected by any
+State having transitory jurisdiction over the debtor.
+Shaffer v. Heitner, 433 U.S. 186 (1977). Having interred
+the mechanical rule that a creditor's amenability to a
+quasi in rem action travels with his debtor, we are
+unwilling to endorse an analogous principle in the
+present case.11
+[444 U.S. 297] This is not to say, of course, that
+foreseeability is wholly irrelevant. But the foreseeability
+that is critical to due process analysis is not the mere
+likelihood that a product will find its way into the forum
+State. Rather, it is that the defendant's conduct and
+connection with the forum State are such that he should
+reasonably anticipate being haled into court there. See
+Kulko v. California Superior Court, supra, at 97-98;
+Shaffer v. Heitner, 433 U. S., at 216; and see id., at 217-
+219 (STEVENS, J., concurring in judgment). The Due
+Process Clause, by ensuring the "orderly administration
+of the laws," International Shoe Co. v. Washington, 326
+U. S., at 319, gives a degree of predictability to the legal
+system that allows potential defendants to structure
+their primary conduct with some minimum assurance as
+to where that conduct will and will not render them
+liable to suit.
+When a corporation "purposefully avails itself of the
+privilege of conducting activities within the forum
+State," Hanson v. Denckla, 357 U. S., at 253, it has clear
+notice that it is subject to suit there, and can act to
+alleviate the risk of burdensome litigation by procuring
+insurance, passing the expected costs on to customers,
+or, if the risks are too great, severing its connection with
+the State. Hence if the sale of a product of a
+manufacturer or distributor such as Audi or
+Volkswagen is not simply an isolated occurrence, but
+arises from the efforts of the manufacturer or
+distributor to serve, directly or indirectly, the market for
+its product in other States, it is not unreasonable to
+subject it to suit in one of those States if its allegedly
+defective merchandise has there been the source of
+injury to its owner or to others. The forum State does
+not [444 U.S. 298] exceed its powers under the Due
+Process Clause if it asserts personal jurisdiction over a
+corporation that delivers its products into the stream of
+commerce with the expectation that they will be
+purchased by consumers in the forum State. Cf. Gray v.
+American Radiator & Standard Sanitary Corp., 22 Ill.2d
+432, 176 N.E.2d 761 (1961).
+But there is no such or similar basis for Oklahoma
+jurisdiction over World-Wide or Seaway in this case.
+Seaway's sales are made in Massena, N. Y. WorldWide's
+market, although substantially larger, is limited
+to dealers in New York, New Jersey, and Connecticut.
+There is no evidence of record that any automobiles
+distributed by World-Wide are sold to retail customers
+outside this tristate area. It is foreseeable that the
+purchasers of automobiles sold by World-Wide and
+Seaway may take them to Oklahoma. But the mere
+"unilateral activity of those who claim some relationship
+with a nonresident defendant cannot satisfy the
+requirement of contact with the forum State." Hanson v.
+Denckla, supra, at 253.
+In a variant on the previous argument, it is contended
+that jurisdiction can be supported by the fact that
+petitioners earn substantial revenue from goods used in
+Oklahoma. The Oklahoma Supreme Court so found,
+585 P. 2d, at 354-355, drawing the inference that
+because one automobile sold by petitioners had been
+used in Oklahoma, others might have been used there
+also. While this inference seems less than compelling on
+the facts of the instant case, we need not question the
+court's factual findings in order to reject its reasoning.
+This argument seems to make the point that the
+purchase of automobiles in New York, from which the
+petitioners earn substantial revenue, would not occur
+but for the fact that the automobiles are capable of use in
+distant States like Oklahoma. Respondents observe that
+the very purpose of an automobile is to travel, and that
+travel of automobiles sold by petitioners is facilitated by
+an extensive chain of Volkswagen service centers
+throughout the country, including some in Oklahoma.12
+[444 U.S. 299] However, financial benefits accruing to
+the defendant from a collateral relation to the forum
+State will not support jurisdiction if they do not stem
+from a constitutionally cognizable contact with that
+State. See Kulko v. California Superior Court, 436 U. S.,
+at 94-95. In our view, whatever marginal revenues
+petitioners may receive by virtue of the fact that their
+products are capable of use in Oklahoma is far too
+attenuated a contact to justify that State's exercise of in
+personam jurisdiction over them.
+Because we find that petitioners have no "contacts, ties,
+or relations" with the State of Oklahoma, International
+Shoe Co. v. Washington, supra, at 319, the judgment of
+the Supreme Court of Oklahoma is
+Reversed.

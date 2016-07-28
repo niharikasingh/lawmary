@@ -1,0 +1,91 @@
+Plaintiff seeks a declaration that its employment
+contract with defendant is void under the regulations
+promulgated by the Federal Home Loan Bank Board
+pursuant to section 1464 of Title 12, United States Code,
+and alleges that this court has jurisdiction under section
+1331 of Title 28. Defendant has moved to dismiss for
+lack of jurisdiction over the subject matter and has
+counterclaimed for damages for breach of the
+employment contract which plaintiff alleges in its
+Complaint to be void under federal law.
+This court is presented with a situation where a plaintiff
+seeks a declaration that he is immune, because of a
+federal right, from a non-federal cause of action which
+the defendant may have (and which he has asserted by
+Counter-claim). In such a situation, there are two
+possible views. See 1 Barron & Holtzoff (Wright),
+Federal Practice and Procedure, sec. 39, pp. 209-211;
+Note, Federal Question Jurisdiction and the Declaratory
+Judgment Act, 55 Ky.L.J. 150. These two views stem
+from the well-established rule that the existence of a
+federal question must appear on the face of the plaintiff's
+well-pleaded complaint, and that it cannot be dependent
+on anticipation of defenses which the defendant may
+later assert. The two views are stated in Barron &
+Holtzoff, supra at 209:
+"There are two possible applications of this rule to declaratory
+judgment actions. The complaint in such an action may be judged
+on its own merits; if it reveals a federal claim, then jurisdiction will
+exist. But this, as will be seen, would permit some cases to be
+brought in federal court which could not be so brought absent the
+Declaratory Judgment Act. The alternative is to say that the
+declaratory action may be entertained in federal court only if the
+coercive action which would have been brought, absent declaratory
+judgment procedure, might have been so brought."
+Under the first view, this court would have subject
+matter jurisdiction in the instant case. But under the
+second view, this court would have no jurisdiction.
+It is axiomatic that the Declaratory Judgment Act cannot
+be used to give relief indirectly which cannot be given
+directly. The statute is procedural and does not supply
+an independent ground of jurisdiction. Skelly Oil Co. v.
+Phillips Co., 339 U.S. 667, 671, 70 S.Ct. 876, 94 L.Ed.
+1194; Rolls-Royce Limited v. United States, 364 F.2d
+415, 419, 176 Ct.Cl. 694; Mayer v. Ordman, 6 Cir., 391
+F.2d 889, 892. Although the "broad view" may have the
+merit of simplicity, this court is persuaded by the dicta
+in Skelly Oil Co. v. Phillips Co., supra, 339 U.S. at 671-
+674, 70 S.Ct. 876. 
+[297 F.Supp. 1161]
+ In that case the
+Court, after noting the legislative trend to contract the
+jurisdiction of the federal courts, said:
+"To be observant of these (jurisdictional) restrictions is not to
+indulge in formalism or sterile technicality. * * * To sanction suits
+for declaratory relief as within the jurisdiction of the District
+Courts merely because, as in this case, artful pleading anticipates a
+defense based on federal law would contravene the whole trend of
+jurisdictional legislation by Congress, disregard the effective
+functioning of the federal judicial system and distort the limited
+procedural purpose of the Declaratory Judgment Act." 339 U.S. at
+673-674, 70 S.Ct. at 880.
+This court does not believe that Congress, in enacting
+the Declaratory Judgment Act, intended to permit a
+person to invoke the jurisdiction of the federal courts
+merely because he commenced a declaratory judgment
+action before the other party was able to commence his
+nonremovable coercive action in state court. To permit
+him to do so would be to permit him to do indirectly
+that which he cannot do directly.
+The case of Community Federal Savings and Loan Ass'n
+v. Fields, 8 Cir., 128 F.2d 705, cited by plaintiff, may be
+authority for the merits of plaintiff's claim, but it does
+not support his jurisdictional claim. That was an action
+by an individual against a federal savings and loan
+association and its receiver. It was removed to federal
+court and a motion to remand was overruled. The
+appellate court expressly stated that the overruling of
+this motion was not an issue on appeal, and thus the
+court did not determine the question of federal
+jurisdiction. Indeed, the district court's opinion,
+reported in 37 F.Supp. 367, reveals that jurisdiction was
+based on the fact that the federal government owned
+more than one-half of the capital stock of one of the
+defendants.
+This is a court of limited jurisdiction and those
+limitations must be strictly observed. See Walsh v.
+American Airlines, E.D.Ky., 264 F.Supp. 514.
+Defendant's motion to dismiss for lack of jurisdiction
+over the subject matter should be sustained.
+An order in conformity with this memorandum is this
+day entered.

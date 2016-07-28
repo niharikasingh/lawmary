@@ -1,0 +1,161 @@
+Although I share the majority's view that Levin and
+Sklar's conduct fell far short of the ideal, I do not share
+its belief that Rule 11 sanctions are appropriate in this
+situation. Instead, I believe that, when a court finds that
+an attorney has filed a meritorious complaint, the court
+should not go on to inquire whether the attorney
+conducted an adequate investigation prior to filing the
+complaint. I therefore respectfully dissent.
+Except for changes in the named plaintiffs and the
+number of shares they owned, the complaint filed by
+Levin and Sklar on behalf of the Garrs was identical to
+the complaints filed by Malone on behalf of Greenfield
+and Strunk. As the majority notes, the district court did
+not dismiss the Strunk complaint, thereby implicitly
+finding that on its face it stated a valid claim.
+Presumably, had the district court not determined that
+Levin and Sklar violated Rule 11, it would not have
+dismissed the Garr complaint. Thus it is safe to assume
+that the district court believed that the Garr complaint
+on its face was meritorious.
+In holding that the imposition of sanctions was
+appropriate in this case, the majority relies on the
+following statement in an opinion from a district court
+in another circuit: "A shot in the dark is a sanctionable
+event, even if it somehow hits the mark." Vista Mfg.,
+Inc. v. Trac-4, Inc., 131 F.R.D. 134, 138
+(N.D.Ind.1990).
+[22 F.3d 1282]
+  Though this statement
+has the virtue of being colorful, as the basis of the
+majority's reasoning it suffers from three flaws. First,
+Vista does not support the majority's position; despite
+the quoted statement the court imposed no sanctions.
+Second, in relying on Vista the majority overlooks
+apparent statements of law to the contrary by the Vista
+court's own circuit, the Seventh, and by the Second
+Circuit. Finally, the majority's conclusion that the Vista
+rule is necessary to further the purposes of Rule 11 is the
+product of an incomplete analysis of both the policies
+animating Rule 11 and the impact of that rule on the
+effectiveness of Rule 11. I shall address these latter two
+points in turn.
+The Seventh Circuit, a very aggressive court in terms of
+enforcing Rule 11, see Lawrence C. Marshall et al., The
+Use and Impact of Rule 11, 86 Nw.U.L.Rev. 943, 981-82
+(1992), observed pre-Vista that for purposes of Rule 11
+"[a]n attorney takes a frivolous position if he fails to
+make a reasonable inquiry into facts (which later prove
+false) or takes a position unwarranted by existing law or
+a good faith argument for its modification." Magnus
+Elecs. v. Masco Corp. of Indiana, 871 F.2d 626, 629 (7th
+Cir.) (emphasis added), cert. denied, 493 U.S. 891, 110
+S.Ct. 237, 107 L.Ed.2d 188 (1989). See also Rush v.
+McDonald's Corp., 966 F.2d 1104, 1122 n. 67 (7th
+Cir.1992).
+Moreover, in several cases the Second Circuit has
+suggested that Rule 11 sanctions are inappropriate in
+cases where, as here, some basis for a claim exists despite
+the failure of an attorney to undertake an adequate pre-
+filing investigation into whether that basis actually
+existed. For example, in Calloway v. Marvel
+Entertainment Group, 854 F.2d 1452, 1470 (2d
+Cir.1988), rev'd in part on other grounds sub nom.
+Pavelic & LeFlore v. Marvel Entertainment Group, 493
+U.S. 120, 110 S.Ct. 456, 107 L.Ed.2d 438 (1989), Judge
+Winter noted that
+[i]n considering sanctions regarding a factual claim, the initial focus
+of the district court should be on whether an objectively reasonable
+basis for the claim was demonstrated in pretrial proceedings or at
+trial. Where such a basis was shown, no inquiry into the adequacy
+of the attorney's pre-filing investigation is necessary.
+See also Greenberg v. Hilton Int'l Co., 870 F.2d 926,
+934-35 (2d Cir.1989); Oliveri v. Thompson, 803 F.2d
+1265, 1275 (2d Cir.1986) ("[R]ule 11 is violated only
+when it is `patently clear that a claim has absolutely no
+chance of success.'") (quoting Eastway Const. Corp. v.
+City of New York, 762 F.2d 243, 254 (2d Cir.1985);
+Wurzberg v. Lapid, 1993 WL 362374, *7, 1993
+U.S.Dist. LEXIS 12799, *21 (S.D.N.Y.); Bleckner v.
+General Accident Ins. Co., 713 F.Supp. 642, 650
+(S.D.N.Y.1989).
+Indeed, this court has remarked that we "have
+interpreted [Rule 11's] language to prescribe sanctions,
+including fees, only in the `exceptional circumstance' ...
+where a claim or motion is patently unmeritorious or
+frivolous." Doering v. Union County Bd. of Chosen
+Freeholders, 857 F.2d 191, 194 (3d Cir.1988) (citation
+omitted). Taken as a whole, these cases support the
+notion that sanctions are inappropriate where, as here,
+there was a reasonable basis for a complaint even if the
+attorney filing it failed adequately to inquire into the
+existence of that basis.
+I believe the majority is mistaken in asserting that this
+rule would frustrate the purposes of Rule 11. The
+Supreme Court has stated that
+the central purpose of Rule 11 is to deter baseless filings in the
+District Court and thus, consistent with the Rule Enabling Act's
+grant of authority, streamline the administration and procedure of
+the federal courts.... Although the rule must be read in light of
+concerns that it will spawn satellite litigation and chill vigorous
+advocacy ... any interpretation must give effect to the rule's central
+goal of deterrence.
+Cooter & Gell v. Hartmarx Corp., 496 U.S. 384, 393, 110
+S.Ct. 2447, 2454 (1990). Similarly, the Advisory
+Committee indicated that the purpose of Rule 11 is "to
+discourage dilatory or abusive tactics and to help
+streamline the litigation process by lessening frivolous
+claims or defenses." Notes of the Advisory Committee
+on Rules, 1983 Amendment, Fed.R.Civ.P. 11, reprinted
+in 97 F.R.D. 165, 200 (1983).
+On the whole, the goals of deterring abuses of the
+system and streamlining litigation would be better
+served by the standard I [22 F.3d 1283] advocate. Because
+the vast majority of "shots in the dark" will not hit their
+target, almost all of them will be subject to sanction. I
+find it difficult to believe that this slightly reduced
+probability of sanction will encourage lawyers to take
+blind shots. The deterrent function of Rule 11 to
+prevent baseless filings will not be undermined by not
+sanctioning when a complaint on its face does have
+merit. As the Second and Seventh Circuits have
+implicitly recognized, the best evidence of an inadequate
+investigation will often be the fact that a complaint
+states a frivolous claim. Without that evidence, the
+inquiry becomes considerably more speculative.
+Moreover, in cases in which the complaint states a
+meritorious claim, we must consider whether we want
+to encourage a secondary line of inquiry into the
+adequacy of the attorney's research. I believe that
+opening up such a line of attack, which will require
+courts to engage in pure speculation in the worst case
+and will lead to a waste of the court's time and resources
+in the best case, will create a greater clog in the courts'
+efficient functioning than will the failure to sanction the
+rare case of the successful shot in the dark.
+The majority is eager to sanction counsel in this case
+because it believes sanctions are necessary to discourage
+the indiscriminate filing of lawsuits. As I have pointed
+out above, it is unlikely that the majority's rule would
+have a greater effect in this regard than my standard.
+Ironically, however, the majority's approach will
+encourage the indiscriminate filing of motions for
+sanctions. This case, in which the motion for sanctions
+was prepared before defendants had even seen the Garr
+complaint and was waiting at the courthouse for the
+complaint to be filed, provides a perfect example of the
+sort of behavior that the majority's reasoning will
+encourage. Were the court to hold that facially
+meritorious but inadequately investigated complaints
+are not subject to sanction, defendants would have less
+incentive to file such motions. Indeed, defendants under
+such a regime would more likely be subject to sanction
+for filing an unmeritorious motion for sanctions before
+conducting an adequate investigation into the merit of
+the complaint.
+Simply stated, I believe that the majority, in its eagerness
+to uphold sanctions against the inexcusable behavior by
+the attorneys in this case, overlooks the fact that its
+holding will frustrate rather than further the goals of
+Rule 11. I would reverse the district court's imposition
+of Rule 11 sanctions against Levin and Sklar.

@@ -1,0 +1,135 @@
+Today, the Court holds that the Constitution prefers the
+use of the Postal Service to posted notice. The Court
+reaches this conclusion despite the total absence of any
+evidence in the record regarding the speed and
+reliability of the mails. The sole ground for the Court's
+result is the scant and conflicting testimony of a handful
+of process servers in Kentucky. On this flimsy basis, the
+Court confidently overturns the work of the Kentucky
+Legislature and, by implication, that of at least 10 other
+States. I must respectfully dissent.
+At a minimum, the Fourteenth Amendment requires
+"notice reasonably calculated, under all the
+circumstances, to apprise interested parties of the
+pendency of the action." Mullane v. Central Hanover
+Bank & Trust Co., 339 U.S. 306, 314 (1950). The
+question before the Court is whether the notice
+provided by Kentucky's statute meets this standard. In
+answering that question, the first "circumstances" [456
+U.S. 457] to be considered are the nature and purpose of
+the action for which notice is required.
+Kentucky's forcible entry and detainer action is a
+summary proceeding for quickly determining whether
+or not a landlord has the right to immediate possession
+of leased premises and, if so, for enabling the landlord
+speedily to obtain the property from the person in
+wrongful possession. Ky. Rev. Stat. §§ 383.200, 383.210
+(1972). As this Court has recognized, such
+circumstances call for special procedures:
+"There are unique factual and legal characteristics of the landlordtenant
+relationship that justify special statutory treatment
+inapplicable to other litigants. The tenant is, by definition, in
+possession of the property of the landlord; unless a judicially
+supervised mechanism is provided for what would otherwise be
+swift repossession by the landlord himself, the tenant would be able
+to deny the landlord the rights of income incident to ownership by
+refusing to pay rent and by preventing sale or rental to someone
+else. Many expenses of the landlord continue to accrue whether a
+tenant pays his rent or not. Speedy adjudication is desirable to
+prevent subjecting the landlord to undeserved economic loss and
+the tenant to unmerited harassment and dispossession when his
+lease or rental agreement gives him the right to peaceful and
+undisturbed possession of the property." Lindsey v. Normet, 405
+U.S. 56, 72-73 (1972).
+The means chosen for making service of process,
+therefore, must be prompt and certain, for otherwise the
+principal purpose of a forcible entry and detainer action
+could be thwarted before the judicial proceedings even
+began.
+The Kentucky statute meets this need. It directs the
+process server to attempt personal service on the tenant
+at his residence. Ky. Rev. Stat. § 454.030 (1975). If the
+process server cannot find the tenant on the premises,
+the statute directs the server to explain and leave a copy
+of the notice [456 U.S. 458] with a family member over
+the age of 16. Ibid. If both of these attempts fail,
+Kentucky authorizes the server, as a last resort, to post a
+copy of the notice in a conspicuous place on the
+premises. Ibid.
+As the Court recognizes, notice procedures like
+Kentucky's, though "less rigorous" than mandatory
+personal service, nonetheless "have enjoyed substantial
+acceptance throughout our legal history." Ante, at 449.
+The weight of historical precedent is reinforced by the
+collective wisdom of the legislatures of the at least 11
+States authorizing notice in summary eviction
+proceedings solely by posting or by leaving the notice at
+the tenant's residence.1 The Court itself acknowledges
+that "posting notice on the door of a person's home
+would, in many or perhaps most instances, constitute. . .
+a singularly appropriate and effective way of ensuring
+that a person who cannot conveniently be served
+personally is actually apprised of proceedings against
+him." Ante, at 452-453.
+The Court nonetheless rejects these established
+procedures as unconstitutional, though it does not cite a
+single case, other than the decision below, supporting its
+position that notice by posting is constitutionally
+inadequate in summary eviction proceedings. Instead,
+the Court relies solely on the deposition testimony of a
+few Kentucky process servers.
+The testimony is hardly compelling. For example, one
+process server, Mr. S. Carter Bacon, reported having
+seen children in the Village West housing development
+pull down posted writs "probably a couple of times."
+App. 80; App. in No. 79-3477 (CA6), p. 103. The Court
+neglects to mention, [456 U.S. 459] however, that
+another process server, Mr. Gilbert Brutscher, cast
+doubt on Mr. Bacon's testimony by stating:
+"I had been warned beforehand that, by Mr. Bacon, Carter Bacon,
+that he suspected — he wasn't certain, but he suspected that on
+some occasions the Writs had been torn off the doors by kids. This
+is what he told me. Whether that is true or not, I don't know. And I
+don't think that he observed that, and the six months I was working
+at it there was no occasion where I saw anyone tear the Writs off of
+the door." Id., at 112-113.
+The Court also neglects to mention that another process
+server testified that in order to avoid problems with
+children, the process servers "always put [the writs] up
+high. So we never had any problems with that." App. 74.
+Corroborating this testimony, moreover, is the
+testimony of yet another process server, who asserted:
+"we always try to put the paper up above where, a, say a
+small child can't reach it." App. in No. 79-3477 (CA6), p.
+74. This server, asked whether he had "had complaints
+about small children ripping them off," answered that he
+had never had a complaint and had never seen a child
+try to rip a notice off. Ibid.
+Plainly, such conflicting testimony falls well short of
+what this Court should require before rushing to scrap
+Kentucky's considered legislative judgment that, as a last
+resort, posted notice is an appropriate form of service of
+process for forcible entry and detainer actions.
+The Court, however, holds that notice via the mails is so
+far superior to posted notice that the difference is of
+constitutional dimension.2 How the Court reaches this
+judgment remains [456 U.S. 460] a mystery, especially
+since the Court is unable, on the present record, to
+evaluate the risks that notice mailed to public housing
+projects might fail due to loss, misdelivery, lengthy
+delay, or theft. Furthermore, the advantages of the mails
+over posting, if any, are far from obvious. It is no secret,
+after all, that unattended mailboxes are subject to
+plunder by thieves. Moreover, unlike the use of the
+mails, posting notice at least gives assurance that the
+notice has gotten as far as the tenant's door.
+In sum, the Court has chosen to overturn Kentucky's
+procedures on the basis of a wholly inadequate record.
+In so doing, the Court apparently indulges a
+presumption that the state legislation challenged here is
+unconstitutional until proven otherwise. Regrettably,
+the Court seems to forget that we have long since
+discarded the concept that "due process authorizes
+courts to hold laws unconstitutional when they believe
+the legislature has acted unwisely." Ferguson v. Skrupa,
+372 U.S. 726, 730 (1963). I respectfully dissent.

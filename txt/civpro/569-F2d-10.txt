@@ -1,0 +1,974 @@
+This case raises a difficult question concerning the
+precise scope of the absolute prosecutorial immunity
+afforded by the Supreme Court in Imbler v. Pachtman,
+424 U.S. 409, 96 S.Ct. 984, 47 L.Ed.2d 128 (1976).
+Plaintiffs-appellees brought in the District Court a civil
+action in tort grounded upon the Constitution, alleging
+injury by reason of defendant-appellant's assertedly false
+testimony in a hearing held in connection with a grand
+jury investigation of appellees' activities as members of
+an antiwar organization. Appellant moved to dismiss on
+the ground that he enjoyed absolute immunity from any
+damage action based upon his conduct while acting in
+his official capacity as a special federal prosecutor. [569
+F.2d 13] The District Court denied this motion, and we
+affirm.
+I
+Both the facts alleged in appellees' complaint and the
+procedural posture of this appeal are important to our
+decision of it. We take appellees' allegations to be true,
+as we are bound to do upon review of the District
+Court's pretrial disposition of a motion to dismiss.
+On July 7, 1972, appellant Goodwin, an attorney with
+the Internal Security Division of the United States
+Department of Justice, was appointed to serve as a
+Special Attorney for the investigation and prosecution
+of certain federal crimes which had allegedly occurred in
+the Northern District of Florida. Goodwin's letter of
+appointment was vague in its delineation of Goodwin's
+duties thereunder. It stated that the Department of
+Justice was "informed that various persons [had]
+violated . . . the [federal] anti-riot laws, Title XI of the
+Organized Crime Control Act of 1970 [dealing with the
+manufacture, sale, and transportation of explosives],
+[and the] conspiracy . . . and other Federal criminal
+statutes." Goodwin was instructed "to assist in the trial
+of the case or cases growing out of the transactions . . .
+mentioned in which the Government is interested."
+On the day of Goodwin's appointment, subpoenas were
+served upon more than twenty members of a group
+known as the Vietnam Veterans Against the
+War/Winter Soldier Organization (VVAW/WSO).
+Some of the persons subpoenaed were in Miami,
+preparing for an antiwar march scheduled to coincide
+with the 1972 Democratic National Convention, which
+met from July 10 to July 13, 1972. Others were located
+in Texas, Arkansas, Louisiana, and Washington, D. C.
+All individuals subpoenaed were ordered to appear
+before a federal grand jury in Tallahassee, Florida, three
+days after service of the subpoenas, on the morning of
+July 10, 1972. Among those persons so subpoenaed were
+nine of the ten appellees in this case. (Appellee Briggs
+was not subpoenaed until a month later.)
+Considerable confusion attended the commencement of
+the grand jury proceeding. Though all were members of
+the same organization, many of those subpoenaed had
+not known each other previously. Attorneys hastily
+retained to represent appellees had little time to consult
+with their clients before the grand jury began its
+inquiries. Recurring rumors of police and FBI
+infiltration of the VVAW/WSO prompted concern that
+one or more informants might be present among those
+who sought legal advice prior to their grand jury
+appearances. This prompted counsel to file a motion
+with the District Court in Tallahassee to direct
+Goodwin and his associates to disclose any agents or
+informers among those subpoenaed. The District
+Court's initial response was to ask counsel for a list of
+the witnesses in question and their counsel. This was
+done in the afternoon of July 12 by an oral submission
+on the record in open court of a list of potential grand
+jury witnesses (including one Emerson Poe) and their
+respective attorneys. The following morning the motion
+was taken up in open court. As movants' counsel was
+stating his belief that Goodwin should file an affidavit
+supplying the information requested by the motion, he
+was interrupted by the court's peremptory direction to
+Goodwin to take the witness stand and be sworn. The
+transcript shows that the court then asked Goodwin one
+question:
+THE COURT: Mr. Goodwin, are any of witnesses represented by
+counsel agents or informants of the United States of America?
+THE WITNESS: No, Your Honor.
+THE COURT: You can step down.
+(Witness excused.)
+To counsel's immediately succeeding question, "Your
+Honor, may we be permitted to question Mr. Goodwin
+on this?," the court denied such permission.
+None of the subpoenaed VVAW members actually
+testified during the four-day grand jury proceeding.
+Indeed, two appellees (Beverly and Jennings), along
+with two other VVAW members not parties to this
+litigation, [569 F.2d 14] were imprisoned for contempt,
+when they persisted in their refusal to testify after grants
+of use immunity.1 An indictment was returned on the
+evening of July 13, 1972 charging six appellees (not
+including Beverly and Jennings) with a variety of crimes
+centering around an alleged conspiracy to unlawfully
+disrupt the 1972 Republican National Convention.2
+The Government's investigation of VVAW activity
+continued, and on August 7, 1972, appellee Briggs was
+subpoenaed to appear before the Tallahassee grand jury.
+Slightly more than two months later, on October 18,
+1972, a superseding indictment was filed, adding
+appellee Briggs as a co-conspirator, and appellee
+Michelson as an aider and abettor of the conspiracy.
+Trial of the eight appellees covered by this new
+indictment commenced on July 31, 1973. On August 17,
+1973, appellees received, pursuant to the Jencks Act, 18
+U.S.C. § 3500 (1970), a series of written materials which
+revealed that Emerson Poe had been functioning as a
+paid FBI informant since January, 1972; and Poe
+testified, over objection, as a prosecution witness at
+appellees' criminal trial. Appellees allege that, prior to
+the July, 1972 grand jury proceeding, Poe had on several
+occasions relayed to federal investigators the substance
+of his conversations with appellee Camil, and that Poe's
+reporting did not cease with the return of indictments in
+1972; rather, it served as an ongoing source of
+information concerning appellees' criminal defense
+strategy. Despite this disadvantage, appellees were
+acquitted of all criminal charges on August 31, 1973.
+The complaint in the civil action was filed in the District
+Court for the District of Columbia on May 28, 1974. It
+alleged, inter alia, injury arising from appellant's
+representation to the Florida court that no informants
+were among those individuals ordered to appear before
+the grand jury.3 Relying upon Bivens v. Six Unknown
+Named Agents, 403 U.S. 388, 91 S.Ct. 1999, 29 L.Ed.2d
+619 (1971), appellees sought declaratory relief, damages,
+and the appointment of a special prosecutor to explore
+the alleged official wrongdoing. On July 22, 1974,
+appellant moved to dismiss on the ground that, as stated
+in his brief, "as a Special Attorney of the United States
+Department of Justice, he [is], pursuant to the doctrine
+of quasi-judicial immunity, absolutely immune from any
+damage action based upon alleged misconduct while
+acting in such a capacity." This motion was denied on
+November 20, 1974. 384 F.Supp. 1228.
+On December 13, 1974, appellant filed a fresh motion to
+dismiss, urging that "as a witness in a Federal court he is
+absolutely [569 F.2d 15] immune from any damage
+action or civil suit based upon his alleged false testimony
+in such judicial proceeding." Alternatively, appellant
+asked the District Court to certify "the issue of
+immunity" for interlocutory appeal in accordance with
+the provisions of 28 U.S.C. § 1292(b) (1970). In an order
+dated March 4, 1975, the District Court denied
+appellant's motion to dismiss on the ground of witness
+immunity, and also expressly refused (what it
+interpreted as) appellant's request to certify the issue of
+witness immunity for interlocutory appeal under §
+1292(b). However, the District Court did agree to certify
+the issue of quasi-judicial (or prosecutorial) immunity
+for such appeal, and included in its March 4 order a
+declaration that the "Order of November 20, 1974 . . . be
+and hereby is certified for interlocutory appeal . . .
+pursuant to 28 U.S.C. § 1292(b)." On May 27, 1975, a
+motions panel of this court granted appellant leave to
+appeal pursuant to § 1292(b). The resultant
+interlocutory challenge to the District Court's failure to
+dismiss the complaint is the matter now confronting us.4
+II
+In Bradley v. Fisher, 80 U.S. (13 Wall.) 335, 20 L.Ed. 646
+(1872), the Supreme Court declared that
+it is a general principle of the highest importance to the proper
+administration of justice that a judicial officer, in exercising the
+authority vested in him, shall be free to act upon his own
+conviction, without apprehension of personal consequences to
+himself.
+At 347 (emphasis added). Subsequent decisions have
+consistently adhered, either explicitly or implicitly, to
+the proposition that official immunity, whether absolute
+or qualified, extends only so far as the affected
+government official's authority. See, e. g., Scheuer v.
+Rhodes, 416 U.S. 232, 250, 94 S.Ct. 1683, 40 L.Ed.2d 90
+(1974); Apton v. Wilson, 165 U.S.App.D.C. 22, 29-35,
+506 F.2d 83, 90-95 (1974). A government employee is
+not to be protected merely by virtue of his official
+position for conduct undertaken outside the scope of his
+authority. Apparently relying upon these well-settled
+rules, the District Court in this case reasoned that: (1)
+Goodwin allegedly perjured himself; (2) perjury is never
+within a prosecutor's authority; (3) Goodwin cannot be
+immune for activity wholly outside his authority.5
+The difficulty with this approach is that any allegation
+that an official, acting under color of law, has deprived
+someone of his rights necessarily implies that, in the
+particular case, the official exceeded his authority. Such
+logic would completely abrogate the doctrine of
+immunity.6 Rather, in heeding a district judge's directive
+to answer a question relating to his official duties,
+appellant [569 F.2d 16] performed the kind of act not
+"manifestly or palpably beyond his authority," but rather
+"having more or less connection with the general
+matters committed by law to his control or supervision."
+Spalding v. Vilas, 161 U.S. 483, 498, 16 S.Ct. 631, 637,
+40 L.Ed. 780 (1896); see, e. g., Bivens v. Six Unknown
+Named Agents, 456 F.2d 1339, 1343-45 (2d Cir. 1972)
+(on remand); Cooper v. O'Connor, 69 App.D.C. 100,
+104, 99 F.2d 135, 139, cert. denied, 305 U.S. 643, 59
+S.Ct. 146, 83 L.Ed. 414 (1938); note 6 supra. The
+question, then, is whether the immunity to be accorded
+appellant is qualified or absolute.7
+III
+Finding that appellant's alleged behavior in this case falls
+outside the confines of those prosecutorial activities for
+which Imbler prescribed an absolute prosecutorial
+immunity, we hold that appellant here is entitled only to
+a qualified immunity, that is to say, his protection from
+liability depends upon a showing that he entertained a
+good-faith, reasonable belief in the truth of his response
+to the federal district judge in Florida. In reaching this
+result, we rely on a series of federal decisions
+distinguishing between a prosecutor's role as advocate,
+on the one hand, and his function as an administrative
+or investigative officer, on the other. We further rely
+upon the Supreme Court's recognition of this
+distinction in Imbler, and its express disclaimer of any
+intention to extend the sway of that case beyond those
+prosecutorial activities "intimately [569 F.2d 17]
+associated with the judicial phase of the criminal
+process." 424 U.S. at 430, 96 S.Ct. at 995.
+The alleged prosecutorial misconduct before the
+Supreme Court in Imbler was quite different from that
+attributed to appellant in this case, and much more
+typical of the abuses which have commonly inspired
+civil actions against prosecutors. Petitioner in Imbler
+was convicted of first-degree felony murder, and his
+conviction was unanimously affirmed by the California
+Supreme Court. Thereafter the local district attorney
+who had prosecuted Imbler voluntarily wrote to the
+Governor, announcing the discovery of new evidence,
+some of which tended to corroborate Imbler's alibi
+defense, and some of which tended to cast doubt upon
+the credibility of the state's chief identification witness.
+Though all the new evidence taken together did not
+conclusively establish Imbler's innocence, the district
+attorney believed that considerations of fairness
+compelled disclosure. On the basis of the new
+information thus revealed, Imbler filed a state habeas
+corpus petition. While Imbler's brief in support of this
+petition praised the prosecutor's post-trial devotion to
+duty, it also charged him with knowing use of false
+testimony and suppression of material evidence. The
+habeas petition was unanimously rejected by the
+California Supreme Court.
+Nearly five years later, Imbler raised essentially the same
+contentions in a federal habeas petition. Rendering its
+decision upon the record without a hearing, the federal
+district court found several instances of prosecutorial
+misconduct at trial and accordingly granted habeas
+relief. The Ninth Circuit affirmed, and when California
+chose not to retry Imbler, he was released. Subsequently,
+over eleven years after commission of the offense for
+which he had been imprisoned, Imbler filed a civil rights
+suit under 42 U.S.C. § 1983,8 claiming, [569 F.2d 18]
+inter alia, that the local prosecutor had intentionally
+allowed the state's leading identification witness to
+testify falsely, had permitted the suppression of
+fingerprint evidence favorable to Imbler, and had used
+at trial a police artist's sketch allegedly altered to
+resemble Imbler more closely. The complaint also
+maintained that the district attorney's decision to
+proceed with the prosecution was improper in light of
+an earlier lie detector test which had allegedly cleared
+Imbler. The federal District Court granted a motion to
+dismiss on the ground of prosecutorial immunity, and
+the Ninth Circuit affirmed by a divided panel. 500 F.2d
+1301 (1974). The Supreme Court granted certiorari and
+affirmed. 424 U.S. 409, 96 S.Ct. 984, 47 L.Ed.2d 128
+(1976).
+Justice Powell's opinion for the Court recognized that
+the doctrine of prosecutorial immunity finds both its
+common law origins and its primary application in the
+malicious prosecution context. "The function of a
+prosecutor that most often invites a common law tort
+action is his decision to initiate a prosecution, as this
+may lead to a suit for malicious prosecution if the State's
+case misfires." Id. at 421, 96 S.Ct. at 990. Still focusing
+on common law precedents, the Court outlined the
+shared rationale supporting judicial, prosecutorial, and
+grand juror immunity:
+The common-law immunity of a prosecutor is based upon the same
+considerations that underlie the common-law immunities of judges
+and grand jurors acting within the scope of their duties. These
+include concern that harassment by unfounded litigation would
+cause a deflection of the prosecutor's energies from his public
+duties, and the possibility that he would shade his decisions instead
+of exercising the independence of judgment required by his public
+trust.
+Id. at 422-23, 96 S.Ct. at 991 (footnote omitted). With
+respect to these potential dangers, the Court could
+discern no distinction between § 1983 actions and
+common law malicious prosecution suits. "If a
+prosecutor had only a qualified immunity, the threat of
+§ 1983 suits would undermine performance of his duties
+no less than would the threat of common law suits for
+malicious prosecution." Id. at 424, 96 S.Ct. at 992.
+Throughout the Court's opinion, the concentration on
+claims likely to arise from prosecutorial behavior at or
+immediately before trial is manifest. "A prosecutor is
+duty bound to exercise his best judgment both in
+deciding which suits to bring and in conducting them in
+court." Id. (emphasis added). Describing the perils of a
+contrary result in Imbler, the Court observed that
+suits that survived the pleadings would pose substantial danger of
+liability even to the honest prosecutor. The prosecutor's possible
+knowledge of a witness' falsehoods, the materiality of evidence not
+revealed to the defense, the propriety of a closing argument, and —
+ultimately in every case — the likelihood that prosecutorial
+misconduct so infected a trial as to deny due process, are typical of
+issues with which judges struggle in actions for post-trial relief,
+sometimes to differing [569 F.2d 19] conclusions. The presentation
+of such issues in a § 1983 action often would require a virtual retrial
+of the criminal offense in a new forum, and the resolution of some
+technical issues by the lay jury. It is fair to say, we think, that the
+honest prosecutor would face greater difficulty in meeting the
+standards of qualified immunity than other executive or
+administrative officials.
+Id. at 425, 96 S.Ct. at 992 (footnote omitted). All of the
+worrisome issues thus enumerated by the Court involve
+possible prosecutorial errors of commission or omission
+in connection with the trial of a criminal case. This
+point was further emphasized a bit later in the Imbler
+opinion when the Court defended its decision in terms
+of the effective functioning of the criminal justice
+system: "Attaining the system's goal of accurately
+determining guilt or innocence requires that both the
+prosecution and the defense have wide discretion in the
+conduct of the trial and the presentation of evidence."
+Id. at 426, 96 S.Ct. at 993 (footnote omitted; emphasis
+added). In conclusion, the Court explicitly "delineate[d]
+the boundaries" of its holding.
+The purpose of the Court of Appeals' focus upon the functional
+nature of the activities rather than respondent's status [as a
+prosecutor] was to distinguish and leave standing those cases, in its
+Circuit and in some others, which hold that a prosecutor engaged in
+certain investigative activities enjoys not the absolute immunity
+associated with the judicial process, but only a good-faith defense
+comparable to the policeman's. We agree with the Court of Appeals
+that respondent's activities were intimately associated with the
+judicial phase of the criminal process, and thus were functions to
+which the reasons for absolute immunity apply with full force. We
+have no occasion to consider whether like or similar reasons
+require immunity for those aspects of the prosecutor's
+responsibility that cast him in the role of an administrator or
+investigative officer rather than that of advocate. We hold only that
+in initiating a prosecution and in presenting the State's case, the
+prosecutor is immune from a civil suit for damages under § 1983.
+Id. at 430-31, 96 S.Ct. at 995 (emphasis added) (citation
+and footnotes omitted).
+Lest his stress on the advocacy function suggest that the
+Court was contemplating a mechanical immunity test
+based solely upon whether alleged prosecutorial
+misconduct occurred in court during the course of a
+trial, Justice Powell added a few words of elaboration in
+the margin.
+We recognize that the duties of the prosecutor in his role as
+advocate for the State involve actions preliminary to the initiation
+of a prosecution and actions apart from the courtroom. A
+prosecuting attorney is required, constantly, in the course of his
+duty as such, to make decisions on a wide variety of sensitive issues.
+These include questions of whether to present a case to a grand
+jury, whether to file an information, whether and when to
+prosecute, whether to dismiss an indictment against particular
+defendants, which witnesses to call, and what other evidence to
+present. Preparation, both for the initiation of the criminal process
+and for a trial, may require the obtaining, reviewing, and evaluating
+of evidence. At some point, and with respect to some decisions, the
+prosecutor no doubt functions as an administrator rather than as an
+officer of the court. Drawing a proper line between these functions
+may present difficult questions, but this case does not require us to
+anticipate them.
+Id. at 431 n. 33, 96 S.Ct. at 995. Thus, the Court, while
+acknowledging the potential factual problems of future
+cases, reaffirmed its fundamental reliance on the
+advocate's role as the source of the absolute
+prosecutorial immunity applied in Imbler. Although the
+passage quoted above makes clear that a prosecutor's
+advocacy function does extend beyond the confines of
+the trial courtroom, the examples of such preliminary
+advocate activities provided by the Supreme Court are
+instructive for their common focus on a particular
+criminal proceeding. By the plain import of the Court's
+remarks, absolute immunity under Imbler [569 F.2d 20]
+extends only so far as necessary to protect a prosecutor's
+decision with respect to the initiation and conduct of
+particular cases. Imbler does not, in our reading,
+immunize prosecutors for any and all measures they
+may undertake in the course of wide-ranging law
+enforcement investigations or general fact-finding
+expeditions.
+As the Supreme Court observed, the Ninth Circuit's
+affirmance in Imbler deliberately left undisturbed earlier
+decisions in that court and others which had held that
+prosecutors are entitled to only a qualified immunity for
+conduct performed in an investigative or administrative
+capacity. See Apton v. Wilson, 165 U.S.App.D.C. 22, 30,
+32-33, 506 F.2d 83, 91, 93-94 (1974); Guerro v.
+Mulhearn, 498 F.2d 1249, 1256 (1st Cir. 1974);
+Hampton v. City of Chicago, 484 F.2d 602, 608-09 (7th
+Cir. 1973) (Stevens, J.), cert. denied, 415 U.S. 917, 94
+S.Ct. 1413, 39 L.Ed.2d 471 (1974); Littleton v. Berbling,
+468 F.2d 389, 410-11 (7th Cir. 1972), cert. denied, 414
+U.S. 1143, 94 S.Ct. 894, 39 L.Ed.2d 97 (1974); Dodd v.
+Spokane County, Washington, 393 F.2d 330, 335 (9th
+Cir. 1968); Robichaud v. Ronan, 351 F.2d 533, 536-37
+(9th Cir. 1965); Tomko v. Lees, 416 F.Supp. 1137, 1139
+(W.D.Pa.1976), and Burkhart v. Saxbe, 397 F.Supp. 499,
+503 n.4 (E.D.Pa.1975). Cf. Madison v. Purdy, 410 F.2d
+99, 101-02 (5th Cir. 1969); Lewis v. Brautigam, 227 F.2d
+124, 128-29 (5th Cir. 1955), and Ames v. Vavreck, 356
+F.Supp. 931, 936-37 (D.Minn.1973) (all refusing to
+apply absolute immunity to arguably "investigative"
+activities, although doing so on the ground that the
+prosecutor's alleged behavior may have been "outside
+the scope of his jurisdiction;" only Ames refers
+specifically to prosecutors acting as investigators). See
+also Brawer v. Horowitz, 535 F.2d 830, 834 (3d Cir.
+1976) (noting the Imbler distinction between advocacy
+and investigation); Tyler v. Witkowski, 511 F.2d 449,
+451 (7th Cir. 1975) (applying absolute immunity in a §
+1983 false imprisonment suit, but citing Hampton, and
+explicitly acknowledging that the conduct assailed was
+not investigatory); Duba v. McIntyre, 501 F.2d 590, 592
+(8th Cir. 1974), cert. denied, 424 U.S. 975, 96 S.Ct. 1480,
+47 L.Ed.2d 745 (1976) (apparently accepting the
+proposition that absolute immunity will not apply to
+prosecutors acting in an investigatory capacity); Barnes
+v. Dorsey, 480 F.2d 1057, 1060 (8th Cir. 1973)
+(specifically reserving "the question of the liability of a
+prosecutor acting within an investigatory capacity");
+Wilhelm v. Turner, 431 F.2d 177, 182-183 (8th Cir.
+1970), cert. denied, 401 U.S. 947, 91 S.Ct. 919, 28
+L.Ed.2d 230 (1971) (recognizing that earlier cases had
+drawn the advocacy-investigation distinction, but
+finding it unnecessary to rule on the matter, since, in
+any event, affidavits established that the State Attorney
+General and his assistant were "acting in good faith and
+had probable cause for their actions"); Fanale v. Sheehy,
+385 F.2d 866, 869 (2d Cir. 1967) (Feinberg, J. and
+Waterman, J., though concurring in a holding of
+immunity, agree that "there would be some situations . .
+. in which even `official' acts of a prosecuting officer
+should not be protected by absolute immunity from civil
+liability"); Bauers v. Heisel, 361 F.2d 581, 589-95 (3d
+Cir. 1966) (en banc), cert. denied, 386 U.S. 1021, 87
+S.Ct. 1367, 18 L.Ed.2d 457 (1967) (finding absolute
+immunity in an easy case where plaintiff attacked the
+prosecutor's choice of forum, but nevertheless
+provoking one concurrence which refused to reach the
+immunity issue, and a second concurrence and two
+dissents which took issue with the majority's sweeping
+description of a prosecutor's quasi-judicial immunity);
+and Harmon v. Superior Court, 329 F.2d 154, 155 (9th
+Cir.1964) (commenting that the acts complained of were
+"quasi-judicial" acts, and therefore entitled to quasijudicial
+immunity). But cf. Cambist Films, Inc. v.
+Duggan, 475 F.2d 887, 888-89 (3d Cir. 1973)
+(ambiguous per curiam in common law damage action
+arising out of illegal seizure allegedly ordered by local
+district attorney; seems to suggest that, even had the
+action been brought under § 1983, absolute immunity
+would apply to all prosecutorial behavior, regardless of
+character, unless defendant [569 F.2d 21] acted "in the
+clear absence of all jurisdiction").9
+We find ourselves in general agreement with the
+common theory underlying the first group of decisions
+listed above. When a prosecutor is engaged in
+essentially investigative as opposed to advocatory
+activities, the considerations of public policy which
+necessitated a grant of absolute immunity in Imbler no
+longer control. Regardless of his official status, a
+prosecutor functioning primarily as an investigator
+should be accorded only the qualified immunity typically
+conferred on other investigative officers. The crucial
+inquiry concerns the nature of the official behavior
+challenged, not the identity or title of the officer
+responsible therefor. These sentiments were wellexpressed
+by the Fourth Circuit in McCray v. Maryland,
+456 F.2d 1 (4th Cir. 1972):
+The immunity of "quasi-judicial" officers such as prosecuting
+attorneys and parole board members derives, not from their formal
+association with the judicial process, but from the fact that they
+exercise a discretion similar to that exercised by judges. Like judges,
+they require the insulation of absolute immunity to assure the
+courageous exercise of their discretionary duties. Where an official
+is not called upon to exercise judicial or quasi-judicial discretion,
+courts have properly refused to extend to him the protection of
+absolute judicial immunity, regardless of any apparent relationship
+of his role to the judicial system.
+456 F.2d at 3-4 (footnotes omitted).
+Accepting as true the allegations of the complaint
+herein, as we must in the present posture of this case,
+we believe that appellant's false statement to the federal
+district court in Florida is properly characterized as an
+act of investigation rather than advocacy. To some
+extent, of course, assignment of a particular incident to
+one of several mutually exclusive abstract categories is
+likely to involve an element of arbitrariness, especially
+where the incident in question was clearly not
+envisioned by those who originally devised the
+classificatory scheme. But appellant's alleged perjury
+bears no relation whatever to the advocate's role as
+conceived by the Supreme Court in Imbler. The
+obligation to disclose, pursuant to judicial direction, the
+presence of Government informants among those
+subpoenaed to testify before the grand jury is entirely
+foreign to advocacy issues such as whether to initiate a
+prosecution or how to conduct a prosecution once
+begun. Such disclosure was, rather, an action required of
+appellant by the court in order to enable the court to
+deal with a possible defect in the conditions under
+which subpoena compulsions had been brought to bear
+in the grand jury investigation.
+[569 F.2d 22] Application of only a qualified immunity
+in this case cannot possibly arouse the fears which
+animated the Supreme Court in Imbler, namely, that
+prosecutors will be adversely affected in the discharge of
+their public duties. The federal district court in Florida
+sought information about one aspect of the
+Government's investigation of the VVAW. Appellant
+allegedly provided the court with willfully false
+information about the matter, with the result that a
+Government informant remained in appellees'
+confidence for approximately a year longer than he
+otherwise would have. We can detect nothing even
+vaguely resembling advocacy in appellant's behavior.
+Indeed, even the language of appellant's own motion to
+dismiss in the District Court acknowledges that he was
+dispatched to Florida for the purpose of conducting an
+investigation. Though he asserts in conclusory fashion
+that his challenged action "fall[s] squarely within the
+exercise of the judicial function" (see Brief for Appellant
+at 23, 35 n.15), appellant cites absolutely no authority
+for the proposition that the statement of which
+appellees complain was in the nature of advocacy.
+Appellant has referred us to over twenty cases which
+purportedly establish that "prosecutors enjoy absolute
+immunity for acts done in the performance of their
+official functions." Brief for Appellant at 18 & n. 9. We
+have examined all these decisions and numerous others
+of a similar nature, but find none of them determinative
+of the dispute now before us. The cases collected by
+appellant hold unanimously that a prosecutor is entitled
+to absolute immunity for his quasi-judicial activities.
+After Imbler, this point is incontestable. However, none
+of the precedents upon which appellant relies support
+his contention that the behavior at issue here falls
+within the scope of the absolute quasi-judicial immunity
+endorsed by the Supreme Court in Imbler. The vast
+majority of cases cited involve claims arising from
+prosecutorial acts which unquestionably qualify for
+immunity under Imbler, e. g., the decision to initiate a
+criminal prosecution or the orchestration of an ensuing
+criminal trial.10 [569 F.2d 23] The combined efforts of
+counsel and this court have failed to unearth a single
+prior occasion on which damages have been sought for
+misconduct like that alleged here.
+We are aware that earlier cases in which prosecutorial
+behavior has been termed investigative have involved
+factual situations distinct from that currently before us.11
+Nevertheless, the dissimilarities between this case and
+those which have preceded it do not render the conduct
+at issue here any less investigative or any more
+advocatory. Appellant contends rather mechanically that
+because his alleged perjury occurred in a courtroom
+exchange, after a grand jury had been convened, the
+description "intimately associated with the judicial
+process" automatically fits. Our answer to this argument
+is two-fold.
+First, the timing of prosecutorial action, by itself, is not
+dispositive of the immunity issue. The fact that a grand
+jury is about to hear testimony or has already begun to
+hear testimony does not imply that all subsequent
+prosecutorial activity is ipso facto advocacy, and not
+investigation. Justice Powell's penultimate footnote in
+Imbler established that the advocate's role could entail
+certain "actions preliminary to the initiation of a
+prosecution and actions apart from the courtroom." 424
+U.S. at 431 n. 33, 96 S.Ct. at 995. This does not foreclose
+the fact that the investigative function may embrace
+some acts even when performed after the
+commencement of judicial proceedings. Attention must
+be focused on the behavior itself, and not solely on its
+timing. Appellant's statement to the court in Florida
+does not acquire the character of advocacy merely
+because it was made after the grand jury had met, rather
+than several days earlier.
+Secondly, and completely independent of the timing
+point, we think that, in a real sense, this litigation
+concerns behavior more plainly investigative than that
+encountered in some of the earlier cases cited above. In
+Robichaud, for example, the crucial events took place
+only after the prosecutors' field of vision had already
+narrowed to one crime and one prospective defendant.
+A criminal complaint was filed, allegedly with malice
+and without probable cause, charging the sixteen-year
+old appellant with first degree murder. In due course,
+she was arrested, and, allegedly under the direction of
+the County Attorney and his deputy, police officials
+attempted to extract a confession from her through
+lengthy confinement in the "drunk tank" with adult
+female prisoners, a forced visit to the scene of the crime,
+and various species of deceit and intimidation. These
+latter features of appellant's § 1983 complaint prompted
+the Ninth Circuit's reference to investigative conduct by
+prosecutors.
+[569 F.2d 24] Here, by contrast, appellant's primary task
+in Florida was to determine whether any violations of
+federal law properly attributable to the VVAW or its
+members had occurred. If any such federal crimes had
+been committed, Goodwin was to ascertain the precise
+nature of those crimes, and the identity of VVAW
+members to whom criminal liability might attach. The
+grand jury was to function in the first instance as an
+investigative tool, rather than in its more familiar guise
+as a deliberative body deciding whether to return
+indictments for specific crimes on the basis of evidence
+gathered and presented by a public prosecutor. The
+grand jury proceeding in this case was designed as a
+broad scale investigation into possible illegal activity by
+the VVAW or its members. The Fifth Circuit in Beverly
+characterized it as such by saying (at p. 735 of 468 F.2d)
+that "[t]he grand jury was investigating alleged plans of
+the VVAW to disrupt the Republican National
+Convention in Miami, Florida, to be held the week of
+August 21, in violation of various criminal statutes."
+Several pieces of evidence may be adduced in support of
+this proposition. First, many more VVAW members
+were subpoenaed to appear before the grand jury than
+were ever indicted. Second, the indictments which the
+Government did obtain were returned despite the fact
+that none of the VVAW members subpoenaed actually
+testified. Third, appellee Briggs was subpoenaed a
+month after the original group of subpoenas was issued,
+and appellees Briggs and Michelson were indicted more
+than three months after appellant's investigation began.
+The ongoing character of the grand jury process in this
+case helps to convince us that appellant had embarked
+on what was fundamentally a fact-finding mission, and
+that his false statement to the court, if such it was, was
+intended to approve the prospects for that endeavor's
+success.
+We mention one further reason for our conclusion that
+the absolute immunity contemplated by Imbler does not
+cover this case. As Judge Leventhal observed for this
+court in Apton, supra, absolute prosecutorial immunity
+for behavior "intimately associated with the judicial
+process" is "both justified and bounded by the judicial
+traditions and procedures that limit and contain the
+danger of abuse." 165 U.S.App.D.C. at 32, 506 F.2d at
+93. When prosecutorial activity is properly classifiable
+under the "quasi-judicial" rubric, "the circumstances
+typically provide alternative instruments of the judicial
+branch to check misconduct — the discretion of the
+grand jury, the procedures of a trial, and the potential
+sanction of discipline imposed by the court itself." Id.
+165 U.S.App.D.C. at 33, 506 F.2d at 94. In theory, of
+course, appellant faces both criminal and professional
+penalties for any misrepresentations he may have made
+to the federal district court in Florida. However, the
+passage of four and a half years without any apparent
+official inquiry, even by the court to which the seeming
+misstatement was made, into appellants' conduct in July,
+1972 underscores the fact that such restraints on
+prosecutorial excesses are likely to remain theoretical
+only. The demonstrably negligible probability of official
+discipline thus detracts from the significance of the third
+safeguard enumerated in Apton.
+Even were this not so, the first two potential checks
+suggested in Apton were totally absent here. As
+indicated above (see the discussion of Imbler following
+note 8 supra), typical civil suits against prosecuting
+attorneys involve allegations of malicious prosecution,
+deliberate use of false testimony, or deliberate
+suppression of exculpatory evidence. In all these
+situations, jury discretion is brought to bear in
+evaluating the persuasiveness of the prosecution's
+presentation, and defense counsel enjoys the
+opportunity to employ a variety of procedural devices to
+challenge the accuracy of the Government's position and
+thereby to preserve the integrity of the truth-seeking
+enterprise. Here, no jury assessed the credibility of
+appellant's assertion that no Government informants
+were included among the subpoenaed VVAW
+members. In addition, appellees and their counsel were
+required to accept appellant's representation on faith.
+The court, which put [569 F.2d 25] the one and only
+question asked, did not explore the basis for appellant's
+denial that informants were present in appellees' camp,
+and appellees' effort to pursue the matter further
+through questioning was not permitted. Given,
+therefore, not only the character of appellant's statement
+as protective of the investigation so he proposed to
+conduct it, but also its peculiar insulation from probing
+examination and jury appraisal, we regard absolute
+immunity as inappropriate in this case. It may of course
+be true that appellant's answer to the court's question
+was made in perfect good faith, but that is a matter open
+to demonstration under qualified immunity.
+IV
+The dissent, stressing that the gravamen of appellees'
+complaint concerns an act committed on the witness
+stand, seeks to resolve the dispute before us by reference
+to the common law doctrine of witness immunity. The
+dissent asserts that "[i]t thus becomes necessary in these
+opinions to treat both prosecutorial and witness
+immunity." Whatever else may be said of this approach,
+it inevitably involves consideration of subjects neither
+briefed nor argued on this appeal. Presumably,
+appellant's failure to raise the witness immunity point
+on appeal is attributable to the District Court's refusal to
+certify that matter for immediate interlocutory appeal
+under 28 U.S.C. § 1292(b) (1970).12 We address it only
+because the dissent treats it as dispositive.
+Appellant's initial motion to dismiss, filed July 22, 1974,
+alleged lack of subject matter jurisdiction and absolute
+immunity from any suit based upon appellant's conduct
+"while acting in his official capacity . . . as a Special
+Attorney of the United States Department of Justice and
+Federal prosecutor" responsible for the VVAW
+investigation and grand jury proceeding. That motion
+was denied by the District Court's order of November
+20, 1974. Nearly a month later, appellant filed a new
+motion to dismiss grounded on witness immunity. In an
+order issued March 4, 1975, the District Court (1)
+denied the second motion to dismiss, (2) certified the
+November 20 order for interlocutory appeal under §
+1292(b), and (3) expressly refused to certify for that
+purpose the March 4 order involving witness immunity.
+In enacting § 1292(b), Congress vested in the district
+judge power to determine which orders involve
+controlling questions of law appropriate for
+interlocutory review. In light of this statutory scheme, it
+is not surprising that government counsel representing
+appellant apparently believed that the witness immunity
+issue was not before this court, but rather was preserved
+for ultimate review of a final judgment in this law suit.
+Since § 1292(b) provides in terms for appeals from
+orders, as distinct from the controlling questions of law
+identified by the district judge, it has been suggested
+that, when a particular order is the subject of an
+interlocutory appeal under § 1292(b), all other issues
+relevant to the result reached by that order should be
+open for appellate consideration.13 This position is not
+yet firmly established in reported decisions. Moreover,
+even if we were to accept it without reservation, its
+force would be substantially diminished in the present
+context where the order certified for appeal is a separate
+order from the one denying the witness immunity
+motion.
+[569 F.2d 26] We do not pursue the matter for the
+reason that a majority of the panel are of the view that,
+given the desirability of avoiding further proceedings in
+the trial court if appellant is in fact shielded by an
+absolute immunity of any kind, we may, and should,
+address the witness immunity point pursuant to what
+the Supreme Court has recently termed "the so-called
+`collateral order' exception to the final judgment rule
+first announced in Cohen v. Beneficial Industrial Loan
+Corp., 337 U.S. 541, 69 S.Ct. 1221, 93 L.Ed. 1528 (1949)
+. . . ," Abney v. United States, 431 U.S. 651, 657, 97 S.Ct.
+2034, 2039, 52 L.Ed.2d 651 (1977) (pre-trial order
+denying motion to dismiss indictment on double
+jeopardy grounds appealable immediately). Since
+appellant's claim of absolute witness immunity can be
+said to be collateral to, and separate from, the issue of
+his liability to be explored at trial, and since absolute
+immunity is designed to protect against amenability to
+suit itself as well as to a verdict of liability at trial, the
+theoretical foundations of the collateral order doctrine,
+at least as they are characterized in Abney, may be
+thought to be present here.14
+We turn to the merits without the customary benefit of
+briefing and argument by the parties, but we doubt that
+appellant would seriously undertake to maintain that he
+was an ordinary witness. Although he was called upon
+by the court to make a representation of fact in a
+courtroom after being sworn, that act did not involve
+giving testimonial evidence in the usual sense at a trial
+or even before grand jurors. He was directed to do so by
+the court in order promptly to get a representation from
+counsel on the record under oath, and thereby to lay to
+rest the legitimate claim of appellees that they were
+entitled to know, before submitting to the compulsion
+of the subpoenas, whether their number included
+Government undercover agents.
+That claim raised a question going to the very integrity
+of the manner in which the grand jury proceeding was
+being conducted. Had appellant volunteered to
+represent as an officer of the court that no informers
+were involved, and had the parties been content with
+that, there would be no issue as to witness immunity
+worthy of the name. The difference between the falsity
+of such a nontestimonial representation, on the one
+hand, and the technical consequence of perjury attached
+to a statement under oath, on the other, is not at the
+heart of the immunity issue in this appeal. The question
+is whether appellant is wholly immune from a civil suit
+based upon his utterance of an allegedly false statement
+in the context of countering a challenge to the manner
+in which he was conducting a grand jury inquiry.
+The statement assailed here was prompted by, and
+directly incidental to, appellant's status as a prosecutor
+managing and administering an investigation.
+Appellant's unqualified negative response to the district
+judge's plain and abrupt question was essential to the
+forward progress of the grand [569 F.2d 27] jury
+investigation, for which appellant as a federal prosecutor
+had been charged by his superiors with the
+responsibility. To the extent that appellant's one word
+answer is viewed as a testimonial act, it was one
+occasioned by, and critical to, appellant's discharge of
+that responsibility.
+The dissent thus is unrealistic in treating appellant not
+as a prosecutor managing and directing an investigation
+but rather as an ordinary witness summoned to give his
+evidence in a legal proceeding. It is obvious from the
+transcript that the court did not consider appellant to be
+an ordinary witness. It ordered him to take the stand; it
+asked him one question; and it forthwith excused him.
+Indeed, when appellees' counsel sought leave to crossexamine,
+the court denied it. The policies underlying the
+common law doctrine of witness immunity are
+tangential, and essentially irrelevant, to the question of
+whether appellant — a prosecutor functioning in an
+investigative context — should be accorded complete
+invulnerability to suit for the consequences of an act
+performed in that capacity.
+Our holding on this aspect of the appeal rests on the
+foregoing considerations, and it is, accordingly, of a
+piece with what we have said earlier in this opinion
+with respect to the prosecutorial immunity issue
+certified by the District Court. If we have misconceived
+the precise scope of Imbler, then our finding of
+qualified, as distinct from absolute, immunity on the
+facts of this case will fall. But that result, in our
+submission, will not be because appellant's answer to the
+question put to him by the court was given from the
+witness stand. It will be because that act will be deemed,
+even under the special circumstances of this case, not to
+come within the prosecutorial administrative and
+investigative functions reserved by Imbler.
+Having thus made clear that in our view this record in
+truth raised no issue of witness immunity to be certified
+by the District Court as "a controlling question of law as
+to which there is substantial ground for difference of
+opinion," and that the resolution of this uncertified
+question is encompassed in our holding on the certified
+question, it remains appropriate to append our
+reservations about the indiscriminate claims made by
+the dissent for common law witness immunity.
+First, the immunity of witnesses at common law was
+not as monolithic as the dissent might suggest. The
+comprehensive rule announced by Lord Mansfield in
+1772 and reproduced in the dissent was not borrowed in
+its entirety by the majority of American jurisdictions.
+While most American courts do speak of an absolute
+witness immunity, they commonly temper the reach of
+their decisions by imposing a supplementary
+requirement of pertinency or relevancy. See, e. g., Myers
+v. Hodges, 53 Fla. 197, 208-09, 44 So. 357, 361 (1907).
+("In the United States, according to the overwhelming
+weight of authority, in order that defamatory words,
+published by parties, counsel, or witnesses in the due
+course of judicial procedure, may be absolutely
+privileged, they must be connected with or relevant or
+material to the cause in hand or subject of inquiry");
+McDavitt v. Boyer, 169 Ill. 475, 48 N.E. 317 (1897);
+Barnes v. McCrate, 32 Me. 442 (1851), and Cooley v.
+Galyon, 109 Tenn. 1, 70 S.W. 607 (1902).
+We cite these authorities not to imply that appellant's
+answer in this case was not responsive to the judge's
+question, but only to indicate that the more extreme
+English rule espoused by Lord Mansfield was not
+wholeheartedly embraced by most American
+jurisdictions. Furthermore, despite the broad and
+dogmatic language employed by many American courts,
+one does encounter occasional common law opinions
+which cast some doubt upon the extent to which
+absolute witness immunity protects knowingly false
+testimony. See, e. g., Liles v. Gaster, 42 Ohio St. 631, 636
+(1885) ("What [a witness'] liability . . . may be, if he was
+guilty of intentional falsehood, and actual malice, we
+need not here determine, as the case made does not
+require it").
+We observe further that the dissent does not refer us to
+cases which establish the existence and scope of witness
+immunity [569 F.2d 28] under federal common law.15 As
+noted earlier (see note 8 supra), even where common
+law torts are alleged, the immunity to be conferred on
+federal officials is governed by a federal standard, which
+need not be identical to the standard applied in a
+particular state or even in the majority of states.
+Finally, it is far from clear that, as the dissent asserts, a
+witness should enjoy the same measure of immunity,
+regardless of whether the wrong of which he is accused
+rises to constitutional dimension. Whatever the precise
+nature of the immunity accorded to witnesses at
+common law, that immunity applies without distinction
+to any individual serving as a witness in a judicial
+proceeding. On the other hand, where a constitutional
+infringement is alleged, the defendant-witness will
+almost invariably be a Government official. (At
+minimum, the "under color of law" requirement will
+assure some direct government involvement in the
+challenged testimony.) This is a crucial difference. Policy
+considerations counselling the insulation of private
+citizens from civil liability arising from their
+performance as witnesses do not apply with equal force
+when a complaint charges that constitutional rights
+have been violated by a public employee operating from
+the witness stand.
+The unique importance of constitutional rights hardly
+needs restatement. Both Congress and the Supreme
+Court have created special causes of action to provide a
+remedy for official misconduct which infringes
+constitutionally protected interests. Given this notably
+solicitous attitude toward the effectuation of
+constitutional guarantees, it can be asserted with both
+reason and authority that absolute immunity is not to be
+extended to the constitutional tort context absent the
+most compelling justification.
+Indeed, in Scheuer v. Rhodes, supra, the Supreme Court,
+confronted with two of its own decisions which
+accorded federal executive officials absolute immunity
+from common law damage actions, nevertheless granted
+only a qualified immunity to highlevel state executive
+officials sued for constitutional violations under § 1983.
+See 416 U.S. at 247, 94 S.Ct. 1683. Extensive discussion
+of this point may be found in Judge Celebrezze's dissent
+from the Sixth Circuit's opinion in the same case,
+Krause v. Rhodes, 471 F.2d 430, 453-59 (6th Cir. 1972),
+rev'd, 416 U.S. 232, 94 S.Ct. 1683, 40 L.Ed.2d 90 (1974).
+See also States Marine Lines, Inc. v. Shultz, 498 F.2d
+1146, 1159 n. 12 (4th Cir. 1974); Norton v. McShane,
+332 F.2d 855, 860-61 (5th Cir. 1964); Burkhart v. Saxbe,
+397 F.Supp. 499, 502 n. 3 (E.D.Pa.1975); and Note,
+Damages for Federal Employment Discrimination:
+Section 1981 and Qualified Executive Immunity, 85 Yale
+L.J. 517-518 & n.54 (1976). But see Brawer v. Horowitz,
+535 F.2d 830, 836-37 (3d Cir. 1976) (witness immunity
+issue only reached after court assumed that private
+citizen testifying for federal government in criminal
+prosecution would be amenable to Bivens-type suit
+seeking damages for deprivation of constitutional rights
+by a federal official); Fidtler v. Rundle, 497 F.2d 794, 798
+(3d Cir. 1974); Johnson v. Alldredge, 488 F.2d 820, 826-
+27 (3d Cir. 1973), cert. denied, 419 U.S. 882, 95 S.Ct.
+148, 42 L.Ed.2d 122 (1974); Bauers v. Heisel, 361 F.2d
+581, 586-91 (3d Cir. 1965) (en banc), cert. denied, 386
+U.S. 1021, 87 S.Ct. 1367, 18 L.Ed.2d 457 (1967), and
+Hahn v. Sargent, 388 F.Supp. 445, 452 (D.Mass.), aff'd
+on other grounds, 523 F.2d 461, 467 (1st Cir. 1975),
+cert. denied, 425 U.S. 904, 96 S.Ct. 1495, 47 L.Ed.2d 754
+(1976).
+[569 F.2d 29] Even where the Supreme Court has
+followed the common law example in determining that
+absolute immunity is appropriate in a constitutional tort
+setting, the Court has explicitly recognized that it was in
+no way bound by precedent to reach the result it did.
+See, e. g., Imbler, supra, 424 U.S. at 424, 96 S.Ct. 984;
+Pierson, supra, 386 U.S. at 554-55, 87 S.Ct. 1213; and
+Tenney v. Brandhove, 341 U.S. 367, 376, 71 S.Ct. 783,
+95 L.Ed. 1019 (1951).
+Since, for the reasons outlined above, we do not believe
+that appellant is protected by the absolute prosecutorial
+immunity described in Imbler, and since we are unable
+to join in the dissent's interpretation of the impact of
+witness immunity on this case, the November 20, 1974
+order of the District Court denying appellant's motion
+to dismiss is affirmed.
+It is so ordered.

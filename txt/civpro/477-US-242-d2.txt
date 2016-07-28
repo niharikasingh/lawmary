@@ -1,0 +1,164 @@
+The Court, apparently moved by concerns for
+intellectual tidiness, mistakenly decides that the "clear
+and convincing evidence" standard governing finders of
+fact in libel cases must be applied by trial courts in
+deciding a motion for summary judgment in such a case.
+The Court refers to this as a "substantive standard," but I
+think is is actually a procedural [477 U.S. 269]
+requirement engrafted onto Rule 56, contrary to our
+statement in Calder v. Jones, 465 U.S. 783 (1984), that
+"[w]e have already declined in other contexts to grant special
+procedural protections to defendants in libel and defamation
+actions in addition to the constitutional protections embodied in
+the substantive laws." Id., at 790-791.
+The Court, I believe, makes an even greater mistake in
+failing to apply its newly announced rule to the facts of
+this case. Instead of thus illustrating how the rule works,
+it contents itself with abstractions and paraphrases of
+abstractions, so that its opinion sounds much like a
+treatise about cooking by someone who has never
+cooked before and has no intention of starting now.
+There is a large class of cases in which the higher
+standard imposed by the Court today would seem to
+have no effect at all. Suppose, for example, on motion
+for summary judgment in a hypothetical libel case, the
+plaintiff concedes that his only proof of malice is the
+testimony of witness A. Witness A testifies at his
+deposition that the reporter who wrote the story in
+question told him that she, the reporter, had done
+absolutely no checking on the story and had real doubts
+about whether or not it was correct as to the plaintiff.
+The defendant's examination of witness A brings out
+that he has a prior conviction for perjury.
+May the Court grant the defendant's motion for
+summary judgment on the ground that the plaintiff has
+failed to produce sufficient proof of malice? Surely not,
+if the Court means what it says, when it states:
+"Credibility determinations. . . are jury functions, not
+those of a judge, whether he is ruling on a motion for
+summary judgment or for a directed verdict. The
+evidence of the nonmovant is to be believed, and all
+justifiable inferences are to be drawn in his favor." Ante,
+at 255.
+The case proceeds to trial, and at the close of the
+plaintiff's evidence the defendant moves for a directed
+verdict on the [477 U.S. 270] ground that the plaintiff
+has failed to produce sufficient evidence of malice. The
+only evidence of malice produced by the plaintiff is the
+same testimony of witness A, who is duly impeached by
+the defendant for the prior perjury conviction. In
+addition, the trial judge has now had an opportunity to
+observe the demeanor of witness A, and has noticed that
+he fidgets when answering critical questions, his eyes
+shift from the floor to the ceiling, and he manifests all
+other indicia traditionally attributed to perjurers.
+May the trial court at this stage grant a directed verdict?
+Again, surely not; we are still dealing with "credibility
+determinations."
+The defendant now puts on its testimony, and produces
+three witnesses who were present at the time when
+witness A alleges that the reporter said she had not
+checked the story and had grave doubts about its
+accuracy as to plaintiff. Witness A concedes that these
+three people were present at the meeting, and that the
+statement of the reporter took place in the presence of
+all these witnesses. Each witness categorically denies
+that the reporter made the claimed statement to witness
+A.
+May the trial court now grant a directed verdict at the
+close of all the evidence? Certainly the plaintiff's case is
+appreciably weakened by the testimony of three
+disinterested witnesses, and one would hope that a
+properly charged jury would quickly return a verdict for
+the defendant. But as long as credibility is exclusively for
+the jury, it seems the Court's analysis would still require
+this case to be decided by that body.
+Thus, in the case that I have posed, it would seem to
+make no difference whether the standard of proof which
+the plaintiff had to meet in order to prevail was the
+preponderance of the evidence, clear and convincing
+evidence, or proof beyond a reasonable doubt. But if the
+application of the standards makes no difference in the
+case that I hypothesize, one may fairly ask in what sort
+of case does the difference in standards [477 U.S. 271]
+make a difference in outcome? Cases may be posed
+dealing with evidence that is essentially documentary,
+rather than testimonial; but the Court has held in a
+related context involving Federal Rule of Civil
+Procedure 52(a) that inferences from documentary
+evidence are as much the prerogative of the finder of
+fact as inferences as to the credibility of witnesses.
+Anderson v. Bessemer City, 470 U.S. 564, 574 (1985).
+The Court affords the lower courts no guidance
+whatsoever as to what, if any, difference the abstract
+standards that it propounds would make in a particular
+case.
+There may be more merit than the Court is willing to
+admit to Judge Learned Hand's observation in United
+States v. Feinberg, 140 F.2d 592, 594 (CA2), cert.
+denied, 322 U.S. 726 (1944), that "[w]hile at times it
+may be practicable" to "distinguish between the evidence
+which should satisfy reasonable men, and the evidence
+which should satisfy reasonable men beyond a
+reasonable doubt[,] . . . in the long run the line between
+them is too thin for day to day use." The Court
+apparently approves the overruling of the Feinberg case
+in the Court of Appeals by Judge Friendly's opinion in
+United States v. Taylor, 464 F.2d 240 (1972). But even if
+the Court is entirely correct in its judgment on this
+point, Judge Hand's statement seems applicable to this
+case because the criminal case differs from the libel case
+in that the standard in the former is proof "beyond a
+reasonable doubt," which is presumably easier to
+distinguish from the normal "preponderance of the
+evidence" standard than is the intermediate standard of
+"clear and convincing evidence."
+More important for purposes of analyzing the present
+case, there is no exact analog in the criminal process to
+the motion for summary judgment in a civil case.
+Perhaps the closest comparable device for screening out
+unmeritorious cases in the criminal area is the grand
+jury proceeding, though the comparison is obviously not
+on all fours. The standard for allowing a criminal case to
+proceed to trial is not whether the government has
+produced prima facie evidence of guilt beyond [477 U.S.
+272] a reasonable doubt for every element of the offense,
+but only whether it has established probable cause. See
+United States v. Mechanik, 475 U.S. 66, 70 (1986). Thus,
+in a criminal case the standard used prior to trial is much
+more lenient than the "clear beyond a reasonable doubt"
+standard which must be employed by the finder of fact.
+The three differentiated burdens of proof in civil and
+criminal cases, vague and impressionistic though they
+necessarily are, probably do make some difference when
+considered by the finder of fact, whether it be a jury or a
+judge in a bench trial. Yet it is not a logical or analytical
+message that the terms convey, but instead almost a
+state of mind; we have previously said:
+"Candor suggests that, to a degree, efforts to analyze what lay jurors
+understand concerning the differences among these three tests . . .
+may well be largely an academic exercise. . . . Indeed, the ultimate
+truth as to how the standards of proof affect decisionmaking may
+well be unknowable, given that factfinding is a process shared by
+countless thousands of individuals throughout the country. We
+probably can assume no more than that the difference between a
+preponderance of the evidence and proof beyond a reasonable
+doubt probably is better understood than either of them in relation
+to the intermediate standard of clear and convincing evidence."
+Addington v. Texas, 441 U.S. 418, 424-425 (1979) (emphasis
+added).
+The Court's decision to engraft the standard of proof
+applicable to a factfinder onto the law governing the
+procedural motion for a summary judgment (a motion
+that has always been regarded as raising a question of
+law rather than a question of fact, see, e. g., La Riviere v.
+EEOC, 682 F.2d 1275, 1277-1278 (CA9 1982) (Wallace,
+J.)), will do great mischief with little corresponding
+benefit. The primary effect of the Court's opinion today
+will likely be to cause the decisions of trial judges on
+summary judgment motions in libel cases to be [477 U.S.
+273] more erratic and inconsistent than before. This is
+largely because the Court has created a standard that is
+different from the standard traditionally applied in
+summary judgment motions without even hinting as to
+how its new standard will be applied to particular cases.

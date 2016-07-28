@@ -1,0 +1,436 @@
+Plaintiff A.F.A. Tours, Inc., doing business as Alumni
+Flights Abroad ("AFA"), appeals from a final judgment
+of the United States District Court for the Southern
+District of New York, Vincent L. Broderick, Judge,
+dismissing for lack of subject matter jurisdiction this
+diversity action against defendant Desmond
+Whitchurch for misappropriation of trade secrets. The
+district court summarily dismissed the complaint on the
+ground that it would not be possible for AFA to prove
+damages amounting to more than $50,000. For the
+reasons below, we vacate and remand for further
+proceedings.
+I. BACKGROUND
+According to the complaint, AFA operates a travel and
+tour business, specializing in deluxe tours for United
+States residents to overseas destinations including
+Australia, New Zealand, and New Guinea. It expended
+large sums of money and invested significant time and
+labor to develop, inter alia, a client and customer list,
+marketing information, and tour information. It
+regarded this information as confidential trade secrets.
+From 1972 through 1989, Whitchurch was employed by
+AFA as its exclusive tour escort in the above areas. In
+that position, Whitchurch was privy to certain of the
+above confidential information. The complaint alleged
+that in or about October 1989, Whitchurch resigned
+from AFA, misappropriated the confidential
+information known to him, and organized his own tour
+business. Since that time, he has offered or intends to
+offer tours that compete with those offered by AFA; in
+connection with his own tours, he has solicited or
+intends to solicit participants from AFA's customer list.
+AFA commenced the present diversity action in the
+district court for misappropriation of its trade secrets,
+seeking an injunction against any use by Whitchurch of
+confidential AFA information, and damages "in an
+amount which is not presently ascertainable, but which
+is believed to exceed the sum of $50,000.00." It also
+sought punitive damages of "no less than $250,000.00."
+Whitchurch denied all of the material allegations of the
+complaint and quickly moved for summary judgment on
+the ground that the AFA information possessed by
+Whitchurch was not confidential. Whitchurch's
+supporting affidavits stated, inter alia, that, though
+Whitchurch had led an average of seven AFA tours per
+year for 17 years, he had had no written contract with
+AFA. He stated that AFA had never informed him that
+the customer names were confidential, or should not be
+[937 F.2d 85] shared with others, or should be returned
+to AFA upon Whitchurch's resignation. Rather, he
+stated, AFA had freely disseminated lists of the names
+and addresses of its customers to "countless individuals
+and entities," including hotels, booking and travel
+agents, and the tour participants themselves.
+Whitchurch stated that from February to May 1990, he
+had attempted to organize a tour on his own. In this
+effort he had, inter alia, written to former AFA tour
+participants he had escorted, informed them of his
+separation from AFA, and solicited their participation.
+Only two people reserved space on the planned tour,
+however, and it was canceled. He opposed the present
+lawsuit because he remained interested in conducting
+tours in the future.
+AFA opposed Whitchurch's summary judgment
+motion, contending that there were genuine issues of
+fact as to, inter alia, the confidential nature of the AFA
+information and Whitchurch's knowledge of that
+confidentiality. It submitted affidavits describing its own
+operations and detailing steps it had taken to maintain
+the confidentiality of its customer list, including the
+following.
+The names and addresses of AFA customers were not
+readily obtainable from any public source. AFA catered
+to alumni and alumnae of certain United States
+universities that did not generally sell their alumni lists
+to outside businesses for commercial purposes. AFA's
+customer list, maintained in a computer file to which
+access is denied without a password, was compiled
+largely from responses to AFA advertisements in alumni
+magazines and from referrals by AFA tour participants.
+AFA was currently spending more than $100,000 per
+year in advertising and promotion and in all had spent
+more than $1,000,000 in developing the customer list.
+The most valuable names on the list were those of
+persons who had traveled on past AFA tours.
+AFA disputed Whitchurch's contention that its
+customer list had been freely disseminated, stating that
+the names on that list were not disclosed except on a
+need-to-know basis. Thus, Whitchurch himself had not
+been given the whole list but only the names and
+addresses of the persons he was to escort. Lists of
+persons participating in a particular tour obviously had
+to be disclosed to providers of services such as hotels,
+but the disclosures were limited and were made with a
+notation of confidentiality. AFA also asserted that
+Whitchurch was fully aware of the confidential nature
+of that information and that as part of his duties he had
+delivered preregistration information to hotels,
+including an AFA cover letter stating that the
+information provided "is STRICTLY CONFIDENTIAL
+and is supplied to you only for the purpose of preregistering
+the members of the tour."
+AFA never sold or traded its list to others. Occasionally
+it received calls from persons considering a tour and
+requesting the names and addresses of former AFA tour
+participants; it refused to give out that information,
+informing the caller that the information was
+confidential. Even when a former AFA tour participant
+would call AFA to request the address or telephone
+number of a coparticipant, AFA's response was to relay
+the request to the coparticipant rather than giving the
+information to the caller. These practices were designed
+to prevent rival tours from gaining AFA confidential
+information by ruse.
+At the oral argument of Whitchurch's motion,
+Whitchurch's attorney began by characterizing the
+motion as "turn[ing] on a very narrow issue" of whether
+the AFA information constituted trade secrets (Hearing
+Transcript, November 16, 1990 ("Tr."), at 1), and stating
+that the case was important to Whitchurch because "he
+may one day in the future wish to organize a tour, and
+write letters to individuals again" (id. at 2). The court,
+however, asked whether it even had to reach the
+question of trade secrets, raising sua sponte the question
+of whether the value of AFA's claims exceeded $50,000,
+a jurisdictional prerequisite for a diversity action. In
+response to the court's jurisdictional question,
+Whitchurch's attorney stated that Whitchurch, in
+soliciting for his planned tour, had written to 100-200
+former AFA [937 F.2d 86] tour participants but had
+received favorable responses from only two.
+THE COURT: .... Why did you think your client was so
+unsuccessful in sparking interest in a tour under his direction?
+MR. KRANTZ [counsel for Whitchurch]: I am sure one factor was
+that he was writing to people who had already been there, and so he
+was looking for only people who were interested in going twice.
+What other factors there were, I am really not certain....
+Certainly any damages here are d[e] min[imi]s. I would absolutely
+agree with the Court.
+THE COURT: Well, the Supreme Court has told us, as I read what
+it has said, that if there is a speculative question of fact but no
+reasonable possibility of damage, then summary judgement is
+appropriate....
+(Id. at 5.)
+AFA's attorney argued that Whitchurch's lack of success
+on his first effort was hardly dispositive of the issue of
+the amount of damages AFA might suffer, in light of
+Whitchurch's desire to conduct other tours in the
+future. In his letter to former AFA tour participants, for
+example, Whitchurch had offered the addressees their
+"first" opportunity to join his planned 28-day tour and
+said, "If you would like to be on my mailing list for
+future tours, please fill out and return the enclosed form.
+I will also be available to arrange special interest tours to
+the South Pacific." AFA's attorney, noting that over the
+years Whitchurch had escorted some 1,500 AFA clients
+on tours and had indicated that he would conduct a
+number of tours, argued that AFA's damages would be
+substantial. He stated that a single 10-customer tour to
+the area in question would easily generate more than
+$50,000:
+THE COURT: How do you get up to fifty thousand dollars?
+MR. DUBOW: ....
+One tour of ten of your customers is a lot more than fifty thousand
+dollars. It's about seven to ten thousand dollars per customer on
+that one tour, and he's offering five or six different tours to areas of
+the world. And he even said in his letter that he is going to solicit
+customers for trips to that area of the world and expand on that. So
+there is no doubt, he doesn't deny that.
+(Id. at 15.) Dubow also stated that "one tour alone will
+produce more than fifty thousand dollars to Mr.
+Whitchurch...." (Id. at 19.)
+At the close of this hearing, the court granted summary
+judgment in favor of Whitchurch, stating as follows:
+THE COURT: I grant defendant's motion for summary judgment.
+There may be a theoretical question of fact here, but it is not the
+same type of material question of fact that precludes summary
+judgment.
+We have lists here that were available to the defendant for the
+seventeen years, with respect to some of the older witnesses [sic], I
+suspect that the people traveled on those lists[, m]any of whom
+have reached retirement age at that time are probably no longer
+available for touring purposes.
+The defendant's track record in soliciting is a pretty bad one. Two
+people signed up with him. I see there is no way any fact finder in
+this case will possibly reach a point where it will award damages to
+the plaintiff. I see no possible reason that the fifty thousand — no
+possible basis upon which the fifty thousand dollar number, which I
+think does apply here, could ever be reached. We're not dealing
+here with the plaintiff's massive lists. We're dealing with a
+circumscribed portion of those lists where the customers have
+already been tapped and have taken their tours.
+I have [a] very serious question as to whether the lists involved here
+are trade secrets. It maybe [sic], as the plaintiff argues, that this is a
+question of fact that I should not be deciding. But, I'm taking to
+heart what the Supreme Court has said and that is a summary
+judgment is an effective way to eliminate from the Court the
+matters cluttering up our calendars.
+I see this case is one where there is no reasonable possibility that
+any jury will [937 F.2d 87] render a verdict for the plaintiff, and on
+that basis, I grant summary judgement.
+(Id. at 33-35.)
+Judgment was entered dismissing the complaint, and
+this appeal followed.
+II. DISCUSSION
+On appeal, AFA contends that the dismissal for lack of
+jurisdiction was improper because the court (1) failed to
+give AFA an appropriate opportunity to show that it
+satisfied the jurisdictional amount, and (2) failed to
+apply the proper standard to AFA's requests for (a)
+damages and (b) injunctive relief. Whitchurch seeks to
+defend the judgment on the ground that the district
+court did not dismiss on the jurisdictional ground and
+that summary judgment on the merits was proper.
+We reject Whitchurch's contention that the district
+court did not dismiss for lack of jurisdiction. Though the
+court styled its decision as one granting summary
+judgment and stated that it had a "very serious question"
+as to whether the AFA lists were trade secrets, it did not
+purport to resolve that question. Rather, it stated that it
+could see "no possible basis upon which the fifty
+thousand dollar number could ever be reached." The
+decision itself, therefore, especially in light of the
+colloquy that preceded it, indicates that the court
+dismissed because it had concluded that AFA could not
+satisfy the minimum jurisdictional amount.
+For the reasons below, we conclude that the dismissal
+on the jurisdictional ground was improper. We also
+note that summary judgment dismissing AFA's trade
+secrets claims on the merits would have been improper.
+A. The Jurisdictional Amount
+The district courts have jurisdiction over civil diversity
+suits "where the matter in controversy exceeds the sum
+or value of $50,000, exclusive of interest and costs." 28
+U.S.C. § 1332 (1988). The test for determining whether
+a plaintiff meets the jurisdictional amount, established
+by the Supreme Court in St. Paul Mercury Indemnity
+Co. v. Red Cab Co., 303 U.S. 283, 58 S.Ct. 586, 82 L.Ed.
+845 (1938), is as follows:
+The rule governing dismissal for want of jurisdiction in cases
+brought in the federal court is that, unless the law gives a different
+rule, the sum claimed by the plaintiff controls if the claim is
+apparently made in good faith. It must appear to a legal certainty
+that the claim is really for less than the jurisdictional amount to
+justify a dismissal.
+303 U.S. at 288-89, 58 S.Ct. at 590 (emphasis added).
+The amount of damages recoverable in an action for
+misappropriation of trade secrets may be measured
+either by the plaintiff's losses, see, e.g., Timely Products
+Corp. v. Arron, 523 F.2d 288, 304 (2d Cir.1975); see
+generally 2 R. Milgrim, Milgrim on Trade Secrets
+("Milgrim") § 7.08[3][a], at 7-314 to 7-318 (1990), or by
+the profits unjustly received by the defendant, see id.;
+Electro-Miniatures Corp. v. Wendon Co., 771 F.2d 23,
+27 (2d Cir.1985). In addition, if punitive damages are
+permitted under the controlling law, the demand for
+such damages may be included in determining whether
+the jurisdictional amount is satisfied. See generally 14A
+C. Wright & A. Miller, Federal Practice and Procedure §
+3702, at 44 (1985) ("Wright & Miller"). New York law
+apparently allows the recovery of punitive damages in a
+trade secrets case if the defendant's conduct has been
+sufficiently "gross and wanton." See, e.g., Huschle v.
+Battelle, 33 A.D.2d 1017, 308 N.Y.S.2d 235 (1st Dep't
+1970), aff'd, 31 N.Y.2d 767, 338 N.Y.S.2d 622, 290
+N.E.2d 823 (1972).
+Further, in appropriate circumstances, the owner of
+trade secrets may obtain an injunction against their use
+or disclosure by another in breach of his confidential
+relationship with the owner. See Bridge C.A.T. Scan
+Associates v. Technicare Corp., 710 F.2d 940, 946 (2d
+Cir.1983). Where the plaintiff seeks injunctive relief, the
+value of his claim is generally assessed with reference to
+the right he seeks to protect and measured by the extent
+of the impairment to be prevented by the injunction.
+See generally 1 Moore's Federal [937 F.2d 88] Practice ¶
+0.96[2] (2d ed. 1991); 14A Wright & Miller § 3708, at
+143-44. In calculating that impairment, the court may
+look not only at past losses but also at potential harm.
+See generally id. at 146-49.
+Before making a determination that the plaintiff's claim
+does not meet the jurisdictional minimum, the court
+must afford the plaintiff an "appropriate and reasonable
+opportunity to show good faith in believing that a
+recovery in excess of [the jurisdictional amount] is
+reasonably possible." Arnold v. Troccoli, 344 F.2d 842,
+846 (2d Cir.1965). Under these substantive and
+procedural principles, although the record indicates that
+AFA has not yet suffered actual damages even
+approaching $50,000, we have difficulty with the district
+court's decision.
+First, though AFA did not make an evidentiary showing
+in support of its contention that the value of its claims
+exceeded $50,000, it was not afforded a proper
+opportunity to do so. The issue of the jurisdictional
+amount was first raised by the district court sua sponte
+at the argument on the summary judgment motion, and
+the court rendered its decision at the end of that
+argument. To the extent that the court thought AFA
+could not meet the jurisdictional minimum, it should
+not have dismissed without giving AFA an opportunity
+to present substantiation directed toward that issue.
+Second, despite AFA's lack of an opportunity to present
+evidence addressed directly to the jurisdictional
+question, there was evidence in the record to suggest
+that the matter could not be conclusively resolved
+against it, for the oral arguments made by AFA's
+attorney to show that its claims were worth more than
+$50,000 had some support from documents already
+before the court. For example, he said Whitchurch had
+the names of some 1,500 AFA customers; this was
+consistent with (a) Whitchurch's own statement that in
+the 17 years he was employed by AFA he had led
+approximately seven tours each year (thus totaling some
+119 tours) and (b) his attorney's statement that there
+were usually 10-15 people per tour. If there were no
+repeat customers among the persons Whitchurch
+escorted, he could have escorted some 1,785 AFA tour
+participants (119 × 15). As to AFA's attorney's estimate
+that a single tour of this type "[i]s about seven to ten
+thousand dollars per customer," the evidence in the
+record as to the destination and deluxe nature of the
+tours, including evidence that some participants traveled
+first class and reserved preferred hotel accommodations,
+supports an inference that a 28-day tour could well cost
+$10,000 per person.
+What this means in terms of loss of earnings to a tour
+operator, however, is not revealed by the present
+record. AFA's suggestion that the tour operator himself
+would earn $10,000 per tourist (i.e., that such a tour
+would "produce more than fifty thousand dollars to Mr.
+Whitchurch" (Tr. 19 (emphasis added))) does not have
+the same record support and seems questionable. The
+district court was also undoubtedly correct in its
+assumption that many of the persons who traveled to
+the South Pacific with Whitchurch during the 17 years
+he was with AFA are not likely to travel to that area
+again. But it could not be said to a legal certainty that no
+one would return to that area. There was ample support
+in the record for the proposition that AFA has the
+prospects for repeat customers. For example, AFA had
+submitted from one of its brochures two pages
+excerpting comments from participants in a recent AFA
+tour (the commenters being identified only by their
+initials and city of residence); nearly one-third of those
+quoted indicated that they either had been on other AFA
+tours or would hope to go on future AFA tours. Indeed,
+an exhibit submitted by Whitchurch stated that one of
+the couples in a group he was to escort had been on 11
+AFA tours. And two of the 100-200 former AFA South
+Pacific tour participants contacted by Whitchurch
+signed up for Whitchurch's proposed tour to the same
+area. If a tour operator could earn 17% of the price of a
+tour, and if Whitchurch were eventually successful in
+soliciting even 30 of the approximately 1,500 AFA
+participants [937 F.2d 89] he has escorted (i.e., 2%,
+which may reflect the ratio of his success on his first
+attempt), the profit he could siphon from AFA would
+total $51,000. Thus, on the present record, the court
+could not conclude to a legal certainty that the value of
+AFA's claims did not exceed the jurisdictional minimum.
+Further, AFA requested injunctive relief not just against
+Whitchurch's solicitation of its customers but also
+against any use of the information. Presumably such an
+injunction would include a prohibition against
+Whitchurch's sale or disclosure of the names and
+addresses of AFA's customers to other tour operators
+who might be better equipped than Whitchurch to
+exploit the information and attract more than 2% of the
+persons whose names Whitchurch could provide them.
+In addition, AFA's request for punitive damages in the
+amount of $250,000 might provide a basis for
+satisfaction of the jurisdictional amount. Whether or
+not AFA will be able to prove that Whitchurch's
+conduct was "gross and wanton" and warrants the
+recovery of such damages under New York law is an
+open question. But the present record does not foreclose
+that possibility.
+In all the circumstances, we conclude that the record as
+it existed in the district court did not permit the court to
+find with legal certainty that the value of AFA's claims
+did not exceed $50,000.
+B. The Merits of AFA's Trade Secrets Claims
+Finally, even if Whitchurch were correct in his
+contention that the court dismissed AFA's trade secrets
+claims on the merits rather than for lack of jurisdiction,
+the dismissal could not stand. The question of whether
+or not a customer list is a trade secret is generally a
+question of fact. See, e.g., Chevron U.S.A., Inc. v. Roxen
+Service, Inc., 813 F.2d 26, 29-30 (2d Cir.1987); Defiance
+Button Machine Co. v. C & C Metal Products Corp., 759
+F.2d 1053, 1063 (2d Cir.), cert. denied, 474 U.S. 844, 106
+S.Ct. 131, 88 L.Ed.2d 108 (1985); see also 1 Milgrim §
+2.03, at 2-47 to 2-49 (1990) ("existence of a trade secret
+is a question of fact for the determination of the trier of
+fact, secrecy being a basic element"). The answer
+depends in part on the subsidiary fact questions of
+whether or not the owner took "reasonable measures to
+protect [the] secrecy" of the list, see, e.g., id. § 2.04, at 2-
+55; Defiance Button Machine Co. v. C & C Metal
+Products Corp., 759 F.2d at 1063; and the ease or
+difficulty with which the information could properly be
+obtained from other sources, see, e.g., id.; Restatement
+of Torts § 757, comment b (1939). The mere fact that an
+employee has access to information the employer
+regards as confidential is not inconsistent with
+treatment of the information as a trade secret. The
+employer must, however, take appropriate precautions
+to alert the employee to the need to maintain the
+confidentiality. 1 Milgrim § 2.04, at 2-75 to 2-76.
+In assessing the record to determine whether there is a
+genuine issue as to any material fact, the court is
+required to resolve all ambiguities and draw all factual
+inferences in favor of the party against whom summary
+judgment is sought. See, e.g., Anderson v. Liberty
+Lobby, Inc., 477 U.S. 242, 255, 106 S.Ct. 2505, 2513-14,
+91 L.Ed.2d 202 (1986). As set forth in Part I above, in
+opposition to Whitchurch's motion for summary
+judgment, AFA submitted several affidavits describing
+both the efforts it had made to develop a customer list
+that was not available from any other source, and efforts
+it had made to prevent dissemination of the names on
+that list except to persons actually participating in the
+tours and persons who needed to know those names in
+order to service the AFA tours. Drawing all permissible
+fact inferences in favor of AFA, the court could not have
+concluded that as a matter of law the list was not
+confidential or was unworthy of protection. The record
+as it stands on this question is rife with genuine issues of
+fact.
+CONCLUSION
+We have considered all of Whitchurch's arguments in
+support of the district court's judgment and have found
+them to be without [937 F.2d 90] merit. The judgment is
+vacated, and the matter is remanded for further
+proceedings not inconsistent with the foregoing.

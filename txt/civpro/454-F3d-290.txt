@@ -1,0 +1,818 @@
+Appellants, current and former Navy chaplains of "nonliturgical
+Protestant" faiths and their endorsing agency,
+brought suit alleging the Navy has unconstitutionally
+established and maintained a religious quota system for
+the promotion, assignment, and retention of Navy
+chaplains that disadvantages chaplains of non-liturgical
+Protestant faiths. In the midst of discovery, Appellants
+moved for preliminary and structural injunctions and
+for partial summary judgment. The district court denied
+the motion in its entirety, finding, in particular, that
+Appellants had failed to demonstrate the irreparable
+injury necessary to warrant preliminary injunctive relief.
+We affirm the district court as to its denial of a
+structural injunction, and we have no jurisdiction to
+review its denial of partial summary judgment; however,
+because we conclude Appellants have satisfied the
+requisite showing of irreparable harm for an
+Establishment Clause violation, we vacate the district
+court's judgment denying preliminary injunctive relief
+and remand for the district court to proceed with the
+remainder of the preliminary injunction determination.
+I
+The United States Navy maintains a Chaplain Corps to
+"meet the spiritual needs of those who serve in the Navy
+and their families." Adair v. England, 183 F.Supp.2d 31,
+35 (D.D.C.2002) (citation and internal quotation mark
+omitted). Chaplains serve as Naval officers and, like
+other military officers, both regular and reserve, receive
+periodic reviews by promotion selection boards that
+determine which officers should be recommended for
+promotion. Id. at 35-36; 10 U.S.C. §§ 611, 14101. Any
+officer a promotion selection board considers but does
+not recommend for promotion is deemed to have "failed
+of selection" (FOS) to the higher grade. 10 U.S.C. §§
+627, 14051. The military may convene a special selection
+board for officers who were erroneously not considered
+by a promotion selection board, or who were considered
+but did not receive lawful or proper consideration. Id.
+§§ 628, 14502; SECNAV Instruction 1401.1B, Special
+Promotion Selection Boards for Commissioned and
+Warrant Officers in the Navy and Marine Corps ¶ 4(b)
+(Dep't of the Navy Apr. 25, 1997).
+Federal law mandates separation from military service
+based on criteria relating to age, grade, and failures of
+selection. In general, naval reserve officers who have not
+been recommended for promotion to the grade of rear
+admiral (lower half) must be separated from the military
+on the last day of the month they reach 60 years of [454
+F.3d 294] age.1 10 U.S.C. § 14509. The Secretary of the
+Navy is afforded some flexibility to deviate from this
+rule, however. Provided a reserve officer in the
+Chaplain Corps has not twice failed to be promoted to
+the next higher grade, the Secretary may retain the
+chaplain until age 67. Id. § 14703(a)(2). Ordinarily, a
+second FOS makes separation mandatory, e.g., id. §§
+14505-14506, but even officers who would otherwise be
+precluded from further service for having twice failed of
+selection may, "subject to the needs of the service," be
+considered for continuation under regulations
+prescribed by the Secretary of Defense, id. § 14701(a)(1);
+SECNAV Instruction 1920.7B, Continuation on Active
+Duty of Regular Commissioned Officers and Reserve
+Officers on the Reserve Active Status List (RASL) in the
+Navy and Marine Corps (Dep't of the Navy Jan. 30,
+2006); DoD Directive 1320.8, Continuation of Regular
+Commissioned Officers on Active Duty and Reserve
+Commissioned Officers on the Reserve Active Status
+List (Dep't of Defense Oct. 21, 1996).2 Chaplains
+retained under this continuation exception may also
+serve until age 67. SECNAV Instruction 1920.7B ¶ 8;
+DoD Directive 1320.8 ¶ 4.9.
+The Secretary of the Navy has issued instructions
+describing the qualifications for eligibility as a Chaplain
+Corps officer. "To be eligible for appointment . . . in
+either the active-duty or Reserve components, or for
+voluntary recall from the Reserve component to the
+active-duty list," an applicant must, among other
+requirements, "be able to complete 20 years of active
+commissioned service by age 60," a benchmark that may
+be raised to age 62 in certain instances. SECNAV
+Instruction 1120.4, Appointment of Regular and
+Reserve Officers in the Chaplain Corps of the Navy ¶
+6(b) (Dep't of the Navy May 14, 1986). Applicants who
+will be unable to complete 20 years of active
+commissioned service by age 60 must, before their
+appointment, acknowledge in writing that they are
+ineligible for appointment to regular service. Id. ¶ 6. In
+addition, applicants who will be unable to complete 20
+years of creditable service for retirement must similarly
+acknowledge the same in writing. Id.
+The Navy divides its chaplains into four categories
+according to common faith group characteristics:
+Catholic, liturgical Protestant, non-liturgical Protestant,
+and "special worship." "Liturgical Protestant" refers to
+Protestant denominations that trace their origins to the
+Reformation, retain an established liturgy in their
+worship services, and practice infant baptism; it includes
+Lutheran, Episcopal, Methodist, Presbyterian, and
+Congregational faiths. Adair, 183 F.Supp.2d at 36.
+"Nonliturgical Protestant" refers to Protestant
+denominations that do not have a formal liturgy or
+order in their worship services, that baptize only those
+who have reached the age of reason, and whose clergy
+generally do not wear religious vestments during
+services; it includes Baptist, Evangelical, Pentecostal, and
+Charismatic faiths. Id.; see also In re England, 375 F.3d
+1169, 1172 (D.C.Cir.2004).3
+Plaintiffs-Appellants are a group of current and former
+Navy chaplains of nonliturgical Protestant faiths and
+their recognized endorsing agency, the Chaplaincy of
+Full Gospel Churches.4 They filed two separate suits
+against the Secretary of the Navy and other Navy
+personnel in their official capacities and the Navy itself,
+Appellees here. In both actions, Appellants alleged "the
+Navy has established, promoted, and maintained
+religious quotas and other discriminatory practices in
+the Navy Chaplain Corps in violation of the First and
+Fifth Amendments," In re England, 375 F.3d at 1174,
+and these practices work to the detriment of nonliturgical
+Christian chaplains. In 2000, the district court
+consolidated the two cases for the purpose of addressing
+and resolving pretrial motions. Mem. Op. Den. the Pls.'
+Mot. for Prelim. and Structural Inj.; Den. the Pls.' Mot.
+for Partial Summ. J. Without Prejudice 2 n. 2 (Feb. 7,
+2005) (Mem.Op.). A prolonged series of motions and
+petitions followed. See, e.g., Adair v. England, 417
+F.Supp.2d 1 (D.D.C.2006); Chaplaincy of Full Gospel
+Churches v. England, 221 F.R.D. 255 (D.D.C.2004);
+Chaplaincy of Full Gospel Churches v. Johnson, 217
+F.R.D. 250 (D.D.C.2003), rev'd, In re England, 375 F.3d
+at 1169, cert. denied, 543 U.S. 1152, 125 S.Ct. 1343, 161
+L.Ed.2d 116 (2005); Chaplaincy of Full Gospel Churches
+v. Johnson, 276 F.Supp.2d 82 (D.D.C.2003); Chaplaincy
+of Full Gospel Churches v. Johnson, 276 F.Supp.2d 79
+(D.D.C.2003); Adair v. Johnson, 216 F.R.D. 183 (D.D.C.
+2003); Adair v. England, 217 F.Supp.2d 7 (D.D.C.2002);
+Adair v. England, 209 F.R.D. 5 (D.D.C.2002); Adair v.
+England, 209 F.R.D. 1 (D.D.C.2002); Adair v. England,
+217 F.Supp.2d 1 (D.D.C.2002); Adair v. England, 193
+F.Supp.2d 196 (D.D.C. 2002); Adair, 183 F.Supp.2d at
+31; see also Mem. Op. at 2 (describing the case's
+"wearisome, piecemeal litigation").
+The instant appeal stems from the district court's denial
+of Appellants' latest motion, filed in the midst of
+discovery. Appellants' Interrogatory No. 9 requested a
+list of chaplains on active duty over age 62 and their
+denominations. From the Navy's response, Appellants
+identified fifteen Catholic reserve chaplains over age 62,
+fourteen of whom are lieutenants or lieutenant
+commanders who have twice failed of selection and yet
+remain on active duty. Mem. of P. & A. in Supp. of Pls.'
+Mot. for a Prelim. and Structural Inj. and Partial Summ.
+J. 8 (June 5, 2003) (Pls.' Mem.); Appellants' Br. 11.
+Appellants also identified seven of these FOS Catholic
+chaplains as age 67 or greater. Pls.' Mem. at 8.
+Armed with this evidence, Appellants moved for
+preliminary and structural injunctions and partial
+summary judgment. Appellants contended the age 60
+ceiling established by 10 U.S.C. § 14509 prohibits the
+Navy from allowing the identified reserve lieutenant
+and lieutenant commander chaplains over age 62 to
+remain on active duty. Id. Even if the chaplains
+remained in service past age 60 under 10 U.S.C. § 14703,
+Appellants argued, the Navy violated [454 F.3d 296] that
+provision's absolute age limit of 67 by retaining seven
+chaplains of or over that age. Id. Appellants also
+maintained that none of the chaplains over age 62
+possessed sufficient time in service to qualify for
+retirement and the resulting pension, id., and that the
+Navy gave those chaplains over age 67 a "4109"
+personnel classification, meaning "retired reservist
+recalled to active duty," even though none of them
+possessed the requisite time in service to qualify for
+retirement and for the Navy legally to recall them. Id. at
+9.5
+The Navy's actions, in Appellants' words, evidence a
+"well established practice of allowing Catholic Naval
+Reserve chaplains, and only Catholic chaplains," to
+remain on active duty beyond mandatory separation age
+limits, constituting "religious favoritism" in violation of
+the Establishment Clause. Id. at 1-2. Appellants also
+accused the Navy of "fraud in covering up this illegal
+retention" by wrongfully employing the "4109"
+classification with respect to Catholic chaplains over age
+67. Id. at 1. The Navy's "scheme," according to
+Appellants, "appears on its face to have no other
+purpose but to allow these over-age chaplains to illegally
+qualify for retirement." Id. Appellants sought relief that
+would, among other things, "require the Navy to
+separate immediately those chaplains it has allowed to
+continue on active duty beyond age 60." Id. at 22.
+The district court denied the motion in its entirety. The
+district court first rejected preliminary injunctive relief
+because Appellants failed to demonstrate any irreparable
+injury. Mem. Op. at 5. In so doing, it repudiated
+Appellants' argument that violation of the law, including
+the First Amendment and, specifically, the
+Establishment Clause, per se constitutes irreparable
+harm. Id. at 6-7. The district court then denied partial
+summary judgment because adequate time for discovery
+had not passed. Id. at 8. Appellants timely appealed.
+II
+We begin on a brief jurisdictional note. We have
+jurisdiction to review the district court's denial of
+preliminary injunctive relief, see 28 U.S.C. § 1292(a)(1);
+however, as a general rule, we lack jurisdiction to hear
+an appeal of a district court's denial of summary
+judgment, partial or otherwise. E.g., Johnson v. Greater
+Se. Comm. Hosp. Corp., 951 F.2d 1268, 1277
+(D.C.Cir.1991). Appellants offer no reasons to deviate
+from this principle, so we confine the remainder of our
+analysis to the district court's denial of the requested
+preliminary injunction.6
+[454 F.3d 297] "The purpose of a preliminary injunction
+is merely to preserve the relative positions of the parties
+until a trial on the merits can be held." Univ. of Tex. v.
+Camenisch, 451 U.S. 390, 395, 101 S.Ct. 1830, 68
+L.Ed.2d 175 (1981). It is "an extraordinary remedy that
+should be granted only when the party seeking the
+relief, by a clear showing, carries the burden of
+persuasion." Cobell v. Norton, 391 F.3d 251, 258
+(D.C.Cir.2004). To warrant preliminary injunctive
+relief, the moving party must show (1) a substantial
+likelihood of success on the merits, (2) that it would
+suffer irreparable injury if the injunction were not
+granted, (3) that an injunction would not substantially
+injure other interested parties, and (4) that the public
+interest would be furthered by the injunction. E.g.,
+Mova Pharm. Corp., 140 F.3d 1060, 1066
+(D.C.Cir.1998) (quoting CityFed Fin. Corp. v. Office of
+Thrift Supervision, 58 F.3d 738, 746 (D.C.Cir.1995))
+(internal quotation marks omitted). A district court
+must "balance the strengths of the requesting party's
+arguments in each of the four required areas." CityFed,
+58 F.3d at 747. If the showing in one area is particularly
+strong, an injunction may issue even if the showings in
+other areas are rather weak. Id. Despite this flexibility,
+though, a movant must demonstrate "at least some
+injury" for a preliminary injunction to issue, id. (quoting
+Population Inst. v. McPherson, 797 F.2d 1062, 1078
+(D.C.Cir.1986)) (internal quotation marks omitted), for
+"the basis of injunctive relief in the federal courts has
+always been irreparable harm," Sampson v. Murray, 415
+U.S. 61, 88, 94 S.Ct. 937, 39 L.Ed.2d 166 (1974) (quoting
+Beacon Theatres, Inc. v. Westover, 359 U.S. 500, 506,
+79 S.Ct. 948, 3 L.Ed.2d 988 (1959)) (brackets and
+internal quotation marks omitted). A movant's failure to
+show any irreparable harm is therefore grounds for
+refusing to issue a preliminary injunction, even if the
+other three factors entering the calculus merit such
+relief. See, e.g., Sea Containers Ltd. v. Stena AB, 890
+F.2d 1205, 1210-11 (D.C.Cir.1989).
+We review a district court's weighing of the four
+preliminary injunction factors and its ultimate decision
+to issue or deny such relief for abuse of discretion,
+though any legal conclusions upon which the district
+court relies, including whether Appellants have
+demonstrated irreparable injury, are reviewed de novo.
+Mova Pharm. Corp., 140 F.3d at 1066; Transohio Sav.
+Bank v. Dir., Office of Thrift Supervision, 967 F.2d 598,
+614 (D.C.Cir.1992).
+A
+This court has set a high standard for irreparable injury.
+First, the injury "must be both certain and great; it must
+be actual and not theoretical." Wisc. Gas Co. v. FERC,
+758 F.2d 669, 674 (D.C.Cir.1985) (per curiam). The
+moving party must show "[t]he injury complained of is
+of such imminence that there is a `clear and present'
+need for equitable relief to prevent irreparable harm."
+Id. (citations, brackets, and internal quotation marks
+omitted). Second, the injury must be beyond
+remediation. As we have stated:
+The key word in this consideration is irreparable. Mere injuries,
+however substantial, in terms of money, time and energy
+necessarily expended in the absence of a stay are not enough. The
+possibility that adequate compensatory or other corrective relief
+will be available at a later date, in the ordinary [454 F.3d 298] course
+of litigation weighs heavily against a claim of irreparable harm.
+Id. (quoting Va. Petroleum Jobbers Ass'n v. FPC, 259
+F.2d 921, 925 (D.C.Cir.1958)) (internal quotation marks
+omitted).
+Appellants fail to articulate a tangible injury that is
+either "certain and great" or irreparable. Appellants
+argue the Navy's allegedly unlawful practice of retaining
+Catholic chaplains past applicable age limits precludes
+non-liturgical Protestant chaplains from advancing to
+higher grades, since Congress and the Navy cap the
+number of officers per grade. See 10 U.S.C. §§ 523(a)(2),
+12011(a)(2); Decl. of Captain Lyman M. Smith 2 (noting
+that Congress provides an annual authorization of
+officers by grade, which the Navy further breaks down
+by community, for example, Chaplain Corps). Such an
+injury is far too speculative to warrant preliminary
+injunctive relief. At most, the Navy's purported practice
+reduces Appellants' opportunities for promotion, which
+are themselves dependent upon the number of Chaplain
+Corps vacancies Congress and the Navy authorize each
+year. Appellants perhaps inadvertently reveal the
+hypothetical nature of their tangible injury when they
+refer to "the ultimate relief which would eventually
+follow resolution of these cases, e.g., possible
+promotions." Appellants' Reply Br. 20 (emphasis added).
+This statement underscores the absence in this
+proceeding of any discrete injury that is "of such
+imminence" that equitable relief is urgently necessary.
+In addition, Appellants' asserted tangible injury is
+redressable. The Navy is authorized to convene special
+selection boards to review a previous non-promotion.
+10 U.S.C. §§ 628, 14502; SECNAV Instruction 1401.1B.
+Within the reserves, the Navy may convene such a
+board if an "officer or former officer" failed to receive a
+promotion selection board's recommendation because,
+among other reasons, the initial board acted "contrary to
+law" or its action "involved [a] material error of fact." 10
+U.S.C. § 14502(b)(1)(A); SECNAV Instruction 1401.1B
+¶ 8(a)(1)-(2). If the special selection board recommends
+the promotion of a current officer, that officer "shall, as
+soon as practicable, be appointed to the next higher
+grade" and "shall, upon such promotion, have the same
+date of rank, the same effective date for the pay and
+allowances of that officer's grade, and the same position
+on the active duty list [or] the reserve active status list . .
+. that officer would have had" if the original promotion
+selection board had correctly recommended the officer
+for promotion. 10 U.S.C. § 14502(e)(1)-(2); SECNAV
+Instruction 1401.B ¶ 14. Former officers who prevail
+before the special selection board are entitled to revision
+of their military record "to correct an error or remove
+an injustice resulting from not being selected for
+promotion" by the initial board. 10 U.S.C. § 14502(e)(3).
+Monetary remedies are available to such officers "if, as a
+result of correcting a record, [an] amount is found to be
+due." Id. § 1552; see also, e.g., Marsh v. Johnson, 263
+F.Supp.2d 49, 51 (D.D.C.2003) (describing correction of
+record and back payment award to retired officer after
+special selection board's reversal of previous failure to
+recommend for promotion). These measures ensure
+that, should the courts eventually conclude the Navy has
+an unlawful practice of retaining Catholic chaplains past
+applicable age limits to the detriment of non-liturgical
+Protestant chaplains, "adequate compensatory or other
+corrective relief" is available to Appellants, belying their
+claims of irreparable tangible harm at this point.
+B
+Having failed to assert a tangible injury that constitutes
+irreparable harm, [454 F.3d 299] Appellants are left to
+argue that the Navy's alleged violation of the
+Establishment Clause per se constitutes irreparable
+harm. The district court rejected this proposition, but
+we disagree.
+Appellants' argument that they would suffer irreparable
+harm without a preliminary injunction rests on a
+statement by a three-Justice plurality in Elrod v. Burns,
+427 U.S. 347, 96 S.Ct. 2673, 49 L.Ed.2d 547 (1976)
+(plurality opinion), that "[t]he loss of First Amendment
+freedoms, for even minimal periods of time,
+unquestionably constitutes irreparable injury." Id. at
+373., 96 S.Ct. 2673 Because Appellants claim Appellees'
+practice of retaining overage Catholic chaplains
+constitutes an impermissible denominational preference
+in violation of the Establishment Clause, they urge us to
+apply the language of the Elrod plurality on its face and
+conclude that Appellants have demonstrated irreparable
+injury — specifically, the harm that flows from the
+"forbidden message" of marginalization Appellees'
+actions send to Appellants. Appellants' Br. 20. They note
+several of our sister circuits have employed Elrod to find
+irreparable harm where moving parties alleged a
+violation of the Establishment Clause — in other words,
+the precise context in which we find ourselves. See
+ACLU of Ky. v. McCreary County, 354 F.3d 438, 445
+(6th Cir.2003), aff'd on other grounds, ___ U.S. ___, 125
+S.Ct. 2722, 162 L.Ed.2d 729 (2005); Ingebretsen v.
+Jackson Pub. Sch. Dist., 88 F.3d 274, 280 (5th Cir.1996);
+Parents' Ass'n of P.S. 16 v. Quinones, 803 F.2d 1235,
+1242 (2d Cir.1986).
+Appellees, in contrast, maintain Elrod is inapposite
+because that case involved political speech and
+expression, a context far removed from the
+Establishment Clause allegations Appellants advance.
+They also assert the rationale underlying the Elrod
+plurality's statement was a concern that without
+preliminary injunctive relief, the First Amendment
+rights to speech and expression would be "chilled"
+during the pendency of litigation, a harm that could not
+be redressed after final judgment. Appellees maintain
+Appellants have not identified any constitutionally
+protected behavior that may be chilled in the absence of
+a preliminary injunction; accordingly, they claim, the
+concerns motivating the Elrod plurality are not present
+here and Appellants' mere allegations, without more, do
+not support a finding of irreparable injury.
+At first blush, Appellees appear to have the better of this
+debate. Elrod involved political speech and freedom of
+expression. There, Republican patronage employees of a
+county sheriff's department brought suit against, among
+others, a newly elected county sheriff who was a
+Democrat. Elrod, 427 U.S. at 350, 96 S.Ct. 2673
+(plurality opinion). At the time, it was common for an
+incoming sheriff of a different political party to replace
+non-civil-service employees with members of his own
+party when the existing employees lacked or failed to
+obtain requisite support from, or failed to affiliate with,
+the new sheriff's political party. Id. at 351, 96 S.Ct. 2673.
+The Elrod plaintiffs alleged they had been discharged, or
+threatened with discharge, solely for these reasons and
+claimed a violation of, inter alia, the First Amendment.
+Id. at 350, 96 S.Ct. 2673. Upon review, a plurality
+consisting of Justices Brennan, White, and Marshall,
+with Justice Brennan writing, held, after lengthy
+discussion, that patronage dismissals are
+unconstitutional under the First Amendment and that
+plaintiffs had therefore stated a claim. Id. at 373, 96 S.Ct.
+2673. The plurality then briefly turned to whether a
+preliminary injunction was warranted, a determination
+that hinged upon whether plaintiffs had made out an
+irreparable injury. [454 F.3d 300] Concluding they had,
+the plurality stated:
+It is clear . . . that First Amendment interests were either threatened
+or in fact being impaired at the time relief was sought. The loss of
+First Amendment freedoms, for even minimal periods of time,
+unquestionably constitutes irreparable injury. See New York Times
+Co. v. United States, 403 U.S. 713, 91 S.Ct. 2140, 29 L.Ed.2d 822
+(1971). Since such injury was both threatened and occurring at the
+time of [plaintiffs'] motion and since [plaintiffs] sufficiently
+demonstrated a probability of success on the merits, the Court of
+Appeals might properly have held that the District Court abused its
+discretion in denying preliminary injunctive relief.
+Id. at 373-74, 96 S.Ct. 2673. In a footnote to this
+passage, the plurality noted, "The timeliness of political
+speech is particularly important." Id. at 374 n. 29, 96
+S.Ct. 2673.7
+The facts of Elrod, which involved dismissals from
+government jobs for failure to ascribe to or gain the
+approval of a political party; the plurality's citation to
+New York Times, a landmark free expression case; and
+the footnote stressing the "timeliness of political speech"
+make evident that the pertinent Elrod language on
+which Appellants rely is directed toward circumstances
+concerning freedom of expression. Indeed, in almost all
+of the many subsequent cases in which our sister circuits
+have invoked the Elrod plurality's statement, the
+operative First Amendment liberties allegedly violated
+were variants of expressive liberties, such as the rights
+to speak, associate, petition, or exercise one's religion.
+See, e.g., Pac. Frontier v. Pleasant Grove City, 414 F.3d
+1221, 1235 (10th Cir.2005); Tucker v. City of Fairfield,
+398 F.3d 457, 464 (6th Cir.2005); Joelner v. Village of
+Washington Park, 378 F.3d 613, 620 (7th Cir.2004);
+Newsom v. Albemarle County Sch. Bd., 354 F.3d 249,
+261 (4th Cir.2003); Brown v. Cal. Dep't of Transp., 321
+F.3d 1217, 1226 (9th Cir.2003); Tenafly Eruv Ass'n v.
+Borough of Tenafly, 309 F.3d 144, 178 (3d Cir.2002);
+Iowa Right to Life Comm., Inc. v. Williams, 187 F.3d
+963, 970 (8th Cir.1999); Bery v. City of New York, 97
+F.3d 689, 693-94 (2d Cir.1996); Miss. Women's Med.
+Clinic v. McMillan, 866 F.2d 788, 795 (5th Cir. 1989);
+Romero Feliciano v. Torres Gaztambide, 836 F.2d 1, 4
+(1st Cir.1987); Cate v. Oldham, 707 F.2d 1176, 1188
+(11th Cir. 1983). The number of cases applying Elrod to
+alleged Establishment Clause violations is comparatively
+meager, see McCreary Cty., 354 F.3d at 445; Baker v.
+Adams County/Ohio Valley Sch. Bd., 310 F.3d 927, 930
+(6th Cir.2002) (per curiam); Ingebretsen, 88 F.3d at 280;
+Quinones, 803 F.2d at 1242, and, furthermore, each of
+these decisions cites Elrod only in passing, devoid of any
+analysis of its particular context. The single court that
+focused on Elrod's facts recognized the statement at
+issue here "was made . . . in the context of free speech"
+and rejected applying it axiomatically to Establishment
+Clause claims. ACLU of Ill. v. City of St. Charles, 794
+F.2d 265, 274 (7th Cir.1986). Therefore, there is
+superficial merit to Appellees' argument [454 F.3d 301]
+that Elrod ought to play no role in the proceeding before
+us, which turns entirely on establishment claims.
+In addition, Appellees accurately note that this court has
+construed Elrod to require movants to do more than
+merely allege a violation of freedom of expression in
+order to satisfy the irreparable injury prong of the
+preliminary injunction frame-work. Rather, moving
+parties must also establish they are or will be engaging
+in constitutionally protected behavior to demonstrate
+that the allegedly impermissible government action
+would chill allowable individual conduct. Thus, for
+example, in National Treasury Employees Union v.
+United States, 927 F.2d 1253 (D.C.Cir.1991), we refused
+to find irreparable harm where federal employees
+sought a preliminary injunction after alleging that ethics
+laws prohibiting them from making appearances,
+delivering speeches, and writing articles for
+compensation violated their First Amendment rights.
+Id. We noted that while "the loss of First Amendment
+freedoms, for even minimal periods of time, may
+constitute irreparable injury," id. at 1254 (quoting Elrod,
+427 U.S. at 373, 96 S.Ct. 2673 (plurality opinion))
+(brackets and internal quotation marks omitted),
+movants must show that their "First Amendment
+interests are either threatened or in fact being impaired
+at the time relief is sought," id. at 1254-55 (quoting
+Wagner v. Taylor, 836 F.2d 566, 577 n. 76
+(D.C.Cir.1987) (quoting Elrod, 427 U.S. at 373, 96 S.Ct.
+2673 (plurality opinion))) (brackets omitted). We
+concluded that because the record did not suggest the
+plaintiffs would "cease speaking or writing" before the
+district court resolved their claims, irreparable harm
+would not follow and preliminary relief could not issue.
+Id. at 1255. Several other courts have adopted this
+approach, which emphasizes that where it is not clear
+that a particular statute, policy, or practice will have any
+actual adverse effect on protected First Amendment
+liberties, the moving party must demonstrate some
+likelihood of a chilling effect on their rights. As the
+Second Circuit has stated:
+Where a plaintiff alleges injury from a rule or regulation that
+directly limits speech, the irreparable nature of the harm may be
+presumed. . . . In contrast, in instances where a plaintiff alleges
+injury from a rule or regulation that may only potentially affect
+speech, the plaintiff must establish a causal link between the
+injunction sought and the alleged injury, that is, the plaintiff must
+demonstrate that the injunction will prevent the feared deprivation
+of free speech rights.
+Bronx Household of Faith v. Bd. of Educ., 331 F.3d 342,
+349-50 (2d Cir.2003); see also Hohe v. Casey, 868 F.2d
+69, 72-73 (3d Cir.1989) ("[T]he assertion of First
+Amendment rights does not automatically require a
+finding of irreparable injury. . . . Rather the plaintiffs
+must show `a chilling effect on free expression.'"
+(quoting Dombrowski v. Pfister, 380 U.S. 479, 487, 85
+S.Ct. 1116, 14 L.Ed.2d 22 (1965))); Am. Postal Workers
+Union v. U.S. Postal Serv., 766 F.2d 715, 722 (2d
+Cir.1985); cf. Laird v. Tatum, 408 U.S. 1, 13-14 & n. 7,
+92 S.Ct. 2318, 33 L.Ed.2d 154 (1972). Accordingly,
+Appellees are correct when they assert that in this court,
+as in several others, "there is no per se rule that a
+violation of freedom of expression automatically
+constitutes irreparable harm." Appellees' Br. 23.
+But the crucial distinction Appellees fail to recognize,
+and which ultimately undermines their position, is that
+freedom of expression is not the operative First
+Amendment right at issue in this case. It is not the
+freedom to speak, to associate, to petition, to exercise
+one's religion, or [454 F.3d 302] any other liberty that
+protects an individual's freedom to engage in a
+particular activity. Rather, the pertinent liberty here is
+protection against government imposition of a state
+religion or religious preference. This protection, unlike
+other First Amendment rights that are variants of the
+freedom to express oneself, requires no affirmative
+conduct on the part of the individual before its
+guarantees are implicated by government action. As a
+matter of semantics, an act chills the freedom of an
+individual to do something; it is incongruous to link the
+concept of "chilling" with an individual's freedom not to
+have something done to him. Accordingly, while a
+particular government action may chill one's propensity
+to speak, associate, exercise one's faith, or otherwise
+engage in constitutionally protected individual conduct,
+where, as here, the claim asserts government imposition
+of a religious preference, the "chilling effect" rationale is
+both inapposite and superfluous.
+Because of this critical difference, the twin concerns
+animating Appellees' argument are much less
+determinative than they initially appear. First, while we
+have required individuals seeking a preliminary
+injunction on First Amendment grounds to demonstrate
+a likelihood that they are engaging or would engage in
+the protected activity the governmental action is
+purportedly infringing, we have done so only in the
+context of free expression, where the relevant
+constitutional protection is not implicated without some
+corresponding individual conduct that faces a danger of
+chilling. But the Establishment Clause is implicated as
+soon as the government engages in impermissible
+action. Where, as here, the charge is one of official
+preference of one religion over another, such
+governmental endorsement "sends a message to
+nonadherents [of the favored denomination] that they
+are outsiders, not full members of the political
+community, and an accompanying message to adherents
+that they are insiders, favored members of the political
+community." Lynch v. Donnelly, 465 U.S. 668, 688, 104
+S.Ct. 1355, 79 L.Ed.2d 604 (1984) (O'Connor, J.,
+concurring). This harm, to which Appellants repeatedly
+refer throughout their briefs, see, e.g., Appellants' Reply
+Br. 9 ("Here the message is the Navy prefers Catholics."),
+occurs merely by virtue of the government's purportedly
+unconstitutional policy or practice establishing a
+religion, without any concomitant protected conduct on
+the movants' part. Accordingly, Appellees' reliance on
+National Treasury Employees Union and similar cases is
+misplaced in proceedings concerning alleged
+Establishment Clause violations.
+Second, while Elrod arose in the context of political
+speech, and its operative language has been employed
+almost exclusively with respect to restrictions on free
+speech, free exercise of religion, or other variants of
+freedom of expression, we think it is also applicable to
+purported Establishment Clause violations. We reach
+this conclusion not simply by axiomatically applying
+Elrod's admonition that "[t]he loss of First Amendment
+freedoms, for even minimal periods of time,
+unquestionably constitutes irreparable injury," as other
+courts have done and Appellants urge. Rather, we
+emphasize the language surrounding this maxim and
+note its validity with respect to Establishment Clause
+claims. The Elrod plurality noted that the plaintiffs'
+"First Amendment interests were either threatened or in
+fact being impaired at the time" they sought preliminary
+injunctive relief, and that because their injury was "both
+threatened and occurring" and they showed a
+probability of success on the merits, a preliminary
+injunction could follow. Elrod, 427 U.S. at 373, 96 S.Ct.
+2673 (plurality opinion). [454 F.3d 303] Because, when
+an Establishment Clause violation is alleged,
+infringement occurs the moment the government action
+takes place — without any corresponding individual
+conduct — then to the extent that the government
+action violates the Establishment Clause, First
+Amendment interests are "threatened or in fact being
+impaired." Of course, this raises the question of the
+extent to which the disputed government action actually
+violates the Establishment Clause — but this inquiry is
+addressed by another prong of the preliminary
+injunction calculation, the likelihood of the movant's
+success on the merits. Within the irreparable harm
+analysis itself — which assumes, without deciding, that
+the movant has demonstrated a likelihood that the nonmovant's
+conduct violates the law — we examine only
+whether that violation, if true, inflicts irremediable
+injury. And because of the inchoate, one-way nature of
+Establishment Clause violations, which inflict an
+"erosion of religious liberties [that] cannot be deterred
+by awarding damages to the victims of such erosion,"
+City of St. Charles, 794 F.2d at 275, we are able to
+conclude that where a movant alleges a violation of the
+Establishment Clause, this is sufficient, without more, to
+satisfy the irreparable harm prong for purposes of the
+preliminary injunction determination.
+Appellees expressly disclaim any contention that
+"Establishment Clause violations can never constitute
+irreparable harm sufficient to warrant a preliminary
+injunction." Appellees' Br. 30. They merely "urge the
+Court to reject a per se rule that alleging an
+Establishment Clause violation, without anything more,
+necessarily constitutes irreparable harm." Id. But this
+proposition fails for two reasons. First, we are unable to
+identify the pivotal "anything more" that movants
+alleging an Establishment Clause violation could offer in
+order to demonstrate irreparable harm. In cases
+involving purported violations of freedom of speech,
+association, religious exercise, or other expressive First
+Amendment liberties, we are able to fashion, and have
+fashioned, such a line-drawing element: movants must
+demonstrate a likelihood that they will engage in the
+constitutionally protected expressive conduct. But as
+noted, this notion is not translatable to the First
+Amendment freedom from government establishment
+of religion. The harm inflicted by religious
+establishment is self-executing and requires no
+attendant conduct on the part of the individual. It is
+unclear what, exactly, movants alleging an
+Establishment Clause violation could show to
+differentiate between establishments that inflict
+irreparable harm and those that do not.
+Second, and more significant, Appellees' proposed
+approach would foreclose all possibility of preliminary
+injunctive relief in Establishment Clause cases based on
+intangible harm, even those involving the most manifest
+violations of the Establishment Clause. Consider, for
+example, a state legislature's decision, with gubernatorial
+approval, to erect an enormous cross in front of the
+statehouse, on public property, using public funds. The
+legislative history unambiguously reveals an intent to
+raise the cross as a symbol of Christianity and to spread
+Christian values among the polity. An offended resident
+would have taxpayer standing to seek removal of the
+cross, cf. Flast v. Cohen, 392 U.S. 83, 105-06, 88 S.Ct.
+1942, 20 L.Ed.2d 947 (1968), and would handily win a
+permanent injunction to that effect. Under Appellees'
+theory, however, she could not possibly obtain a
+preliminary injunction ordering removal of the cross
+during pendency of the litigation, despite the certainty
+with which she would ultimately prevail on the merits
+of her claim and the irreparability of the [454 F.3d 304]
+harm inflicted upon her in the meantime. Appellees
+would have the taxpayer allege something more than a
+patent violation of the Establishment Clause; yet we
+cannot imagine what that could be. The result would be
+an erosion of the very principles of religious freedom
+the Establishment Clause serves to safeguard. See City of
+St. Charles, 794 F.2d at 275 ("If preliminary injunctions
+were not available in cases brought to enforce the
+establishment clause, government might be able to
+erode the values that the clause protects with a flood of
+temporary or intermittent infringements."). We reject
+this position and instead hold that a party alleging a
+violation of the Establishment Clause per se satisfies the
+irreparable injury requirement of the preliminary
+injunction calculus.8
+We stress that a finding of irreparable injury is but one
+of four elements that comprise the preliminary
+injunction framework. The mere allegation that the
+government is violating the Establishment Clause may
+suffice to satisfy the irreparable harm prong, but a
+preliminary injunction will not issue unless the moving
+party also shows, on the same facts, a substantial
+likelihood of success on the merits, that the injunction
+would not substantially injure other interested parties,
+and that the public interest would be furthered by the
+injunction. It is these other prongs that will ultimately
+determine meritorious motions for preliminary
+injunctions in the face of purported Establishment
+Clause violations. Unsupported or undeveloped
+allegations of government establishment, for example,
+while sufficient to make out irreparable injury, will not
+withstand scrutiny concerning the movant's likelihood
+of success on the merits, thereby defeating a request for
+a preliminary injunction. Likewise, demands for
+preliminary relief that inflict untoward detriment on
+persons not party to the case will meet a similar fate, as
+will motions that do not further the public interest.
+Thus we do not believe that our decision today in any
+way lessens the burden for parties seeking preliminary
+injunctive relief against purported Establishment Clause
+violations. It merely focuses greater attention on the
+three other factors that indisputably enter into the
+preliminary injunction determination.
+Appellants allege that Appellees' practice of retaining
+overage Catholic chaplains constitutes a denominational
+preference in violation of the Establishment Clause. If
+true, which we assume is the case for purposes of the
+irreparable injury prong, the government has, without
+anything more, infringed upon Appellants' freedom
+from government establishment of religion, constituting
+irreparable harm. The district court committed error in
+finding otherwise.
+III
+Having reached a conclusion contrary to the district
+court with respect to Appellants' irreparable injury, we
+must decide whether to proceed with the remainder of
+the preliminary injunction determination, as Appellants
+urge, or remand the case to the district court, as
+Appellees insist. We believe the proper course of action
+at this point is to remand to the district court.
+When denying a preliminary injunction, a district court
+"shall . . . set forth the findings of fact and conclusions of
+law which constitute the grounds of its action."
+Fed.R.Civ.P. 52(a). "It is of the highest importance to a
+proper review of the action of a court in granting or
+refusing a preliminary injunction that there [454 F.3d
+305] should be fair compliance with Rule 52(a)." Mayo
+v. Lakeland Highlands Canning Co., 309 U.S. 310, 316,
+60 S.Ct. 517, 84 L.Ed. 774 (1940). The district court here
+confined its analysis to determining whether irreparable
+harm would visit Appellants without interim relief. It
+expressly withheld consideration of the three other
+factors that enter into the preliminary injunction
+calculus. See Mem. Op. at 5 & n. 2. Accordingly, the
+"conclusions of law" as to these other factors that Rule
+52(a) requires are not present. See Fair Hous. in
+Huntington Comm. Inc. v. Town of Huntington, 316
+F.3d 357, 364 (2d Cir.2003); Hoechst Diafoil Co. v. Nan
+Ya Plastics Corp., 174 F.3d 411, 423 (4th Cir.1999)
+("Requiring trial courts to explain their injunction
+orders serves at least two important purposes. First, it
+allows the parties to better understand the reasons for
+the court's actions. Second, a written explanation of the
+district court's reasoning permits an appellate court to
+meaningfully review that decision."); 9A Charles Alan
+Wright & Arthur R. Miller, Federal Practice &
+Procedure § 2576 (2d ed. 1995) ("If the appellate court
+finds that it cannot review the case meaningfully
+without findings and conclusions, it may remand so that
+findings can be made."). We are therefore disposed to
+remand to the district court to pick up where it left off.
+We are aware that because our review of the legal
+findings supporting a district court's preliminary
+injunction determination is de novo, the absence of legal
+findings does not necessarily preclude us from
+undertaking appellate review. See LGS Architects, Inc.
+v. Concordia Homes of Nev., 434 F.3d 1150, 1155 (9th
+Cir.2006). But our review of the district court's
+balancing of the four preliminary injunction factors and
+ultimate decision to grant or deny such relief is for abuse
+of discretion, and without any conclusions of law as to
+the three remaining factors, we are unable to determine
+whether the district court properly carried out this
+function. See Hoechst Diafoil, 174 F.3d at 423. A
+remand would also effect greater development of the
+remaining preliminary injunction factors, particularly
+Appellants' likelihood of success on the merits, which
+we believe advisable. Indeed, in explicitly choosing not
+to address the three other components, the district court
+noted that if later required to turn to them, it would
+"likely benefit" from further elaboration of certain
+arguments raised before it concerning the merits of
+Appellants' claim. Mem. Op. at 5 n. 2. Both precedent
+and prudence, therefore, counsel a remand to the district
+court so that a "full understanding of the issues" may be
+attained. Six Clinics Holding Corp., II v. Cafcomp Sys.,
+Inc., 119 F.3d 393, 400 (6th Cir. 1997); cf. New Comm
+Wireless Servs., Inc. v. SprintCom, Inc., 287 F.3d 1, 13
+(1st Cir.2002) ("Injunctive relief is, by its very nature,
+fact-sensitive and case-specific. For that reason, the
+court of appeals ordinarily will not uphold a preliminary
+injunction on a ground that was not fully addressed by
+the trial court.").
+IV
+By alleging that Appellees are engaging in conduct that
+violates the Establishment Clause, Appellants have
+satisfied the irreparable injury prong of the preliminary
+injunction framework. We therefore reverse the district
+court on this point, vacate its denial of preliminary
+injunctive relief, and remand for the court to carry out
+the remainder of the preliminary injunction analysis.
+We affirm the district court's denial of structural
+injunctive relief, and we have no jurisdiction to rule on
+its denial of partial summary judgment.

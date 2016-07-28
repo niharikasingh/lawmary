@@ -1,0 +1,364 @@
+The Court today holds that "whether a given factual
+dispute requires submission to a jury must be guided by
+the substantive evidentiary standards that apply to the
+case," ante, at 255. In my view, the Court's analysis is
+deeply flawed, [477 U.S. 258] and rests on a shaky
+foundation of unconnected and unsupported
+observations, assertions, and conclusions. Moreover, I
+am unable to divine from the Court's opinion how these
+evidentiary standards are to be considered, or what a
+trial judge is actually supposed to do in ruling on a
+motion for summary judgment. Accordingly, I
+respectfully dissent.
+To support its holding that in ruling on a motion for
+summary judgment a trial court must consider
+substantive evidentiary burdens, the Court
+appropriately begins with the language of Rule 56(c),
+which states that summary judgment shall be granted if
+it appears that there is "no genuine issue as to any
+material fact and that the moving party is entitled to a
+judgment as a matter of law." The Court then purports
+to restate this Rule, and asserts that "summary judgment
+will not lie if the dispute about a material fact is
+`genuine,' that is, if the evidence is such that a
+reasonable jury could return a verdict for the
+nonmoving party." Ante, at 248. No direct authority is
+cited for the proposition that in order to determine
+whether a dispute is "genuine" for Rule 56 purposes a
+judge must ask if a "reasonable" jury could find for the
+nonmoving party. Instead, the Court quotes from First
+National Bank of Arizona v. Cities Service Co., 391 U.S.
+253, 288-289 (1968),[477 U.S. 259] to the effect that a
+summary judgment motion will be defeated if "sufficient
+evidence supporting the claimed factual dispute be
+shown to require a jury or judge to resolve the parties'
+differing versions of the truth at trial," ante, at 249, and
+that a plaintiff may not, in defending against a motion
+for summary judgment, rest on mere allegations or
+denials of his pleadings. After citing Adickes v. S. H.
+Kress & Co., 398 U.S. 144 (1970), for the unstartling
+proposition that "the availability of summary judgment
+turn[s] on whether a proper jury question [is]
+presented," ante, at 249, the Court then reasserts, again
+with no direct authority, that in determining whether a
+jury question is presented, the inquiry is whether there
+are factual issues "that properly can be resolved only by a
+finder of fact because they may reasonably be resolved in
+favor of either party." Ante, at 250. The Court maintains
+that this summary judgment inquiry "mirrors" that
+which applies in the context of a motion for directed
+verdict under Federal Rule of Civil Procedure 50(a):
+"whether the evidence presents a sufficient
+disagreement to require submission to a jury or whether
+it is so one-sided that one party must prevail as a matter
+of law." Ante, at 251-252.
+Having thus decided that a "genuine" dispute is one
+which is not "one-sided," and one which could
+"reasonably" be resolved by a "fair-minded" jury in favor
+of either party, ibid., the Court then concludes:
+"Whether a jury could reasonably find for either party, however,
+cannot be defined except by the criteria governing what evidence
+would enable the jury to find for either the plaintiff or the
+defendant: It makes no sense to say that a jury could reasonably find
+for either party without some benchmark as to what standards
+govern its deliberations and within what boundaries its ultimate
+decision must fall, and these standards and boundaries are in fact
+provided by the applicable evidentiary standards." Ante, at 254-255.
+[477 U.S. 260] As far as I can discern, this conclusion,
+which is at the heart of the case, has been reached
+without the benefit of any support in the case law.
+Although, as noted above, the Court cites Adickes and
+Cities Service, those cases simply do not stand for the
+proposition that in ruling on a summary judgment
+motion, the trial court is to inquire into the "onesidedness"
+of the evidence presented by the parties.
+Cities Service involved the propriety of a grant of
+summary judgment in favor of a defendant alleged to
+have conspired to violate the antitrust laws. The issue in
+the case was whether, on the basis of the facts in the
+record, a jury could infer that the defendant had entered
+into a conspiracy to boycott. No direct evidence of the
+conspiracy was produced. In agreeing with the lower
+courts that the circumstantial evidence presented by the
+plaintiff was insufficient to take the case to the jury, we
+observed that there was "one fact" that petitioner had
+produced to support the existence of the illegal
+agreement, and that that single fact could not support
+petitioner's theory of liability. Critically, we observed
+that "[t]he case at hand presents peculiar difficulties
+because the issue of fact crucial to petitioner's case is also
+an issue of law, namely the existence of a conspiracy."
+391 U. S., at 289. In other words, Cities Service is at
+heart about whether certain facts can support inferences
+that are, as a matter of antitrust law, sufficient to
+support a particular theory of liability under the
+Sherman Act. Just this Term, in discussing summary
+judgment in the context of suits brought under the
+antitrust laws, we characterized both Cities Service and
+Monsanto Co. v. Spray-Rite Service Corp., 465 U.S. 752
+(1984), as cases in which "antitrust law limit[ed] the
+range of permissible inferences from ambiguous
+evidence. . . ." Matsushita Electric Industrial Co. v.
+Zenith Radio Corp., 475 U.S. 574, 588 (1986) (emphasis
+added). Cities Service thus provides no authority for the
+conclusion that Rule 56 requires a trial court to consider
+whether direct evidence produced by the parties is "onesided."
+To the contrary, in Matsushita, the most recent
+[477 U.S. 261] case to cite and discuss Cities Service, we
+stated that the requirement that a dispute be "genuine"
+means simply that there must be more than "some
+metaphysical doubt as to the material facts." 475 U. S., at
+586.
+Nor does Adickes, also relied on by the Court, suggest in
+any way that the appropriate summary judgment
+inquiry is whether the evidence overwhelmingly
+supports one party. Adickes, like Cities Service,
+presented the question of whether a grant of summary
+judgment in favor of a defendant on a conspiracy count
+was appropriate. The plaintiff, a [477 U.S. 262] white
+schoolteacher, maintained that employees of defendant
+Kress conspired with the police to deny her rights
+protected by the Fourteenth Amendment by refusing to
+serve her in one of its lunchrooms simply because she
+was white and accompanied by a number of black
+schoolchildren. She maintained, among other things,
+that Kress arranged with the police to have her arrested
+for vagrancy when she left the defendant's premises. In
+support of its motion for summary judgment, Kress
+submitted statements from a deposition of one of its
+employees asserting that he had not communicated or
+agreed with the police to deny plaintiff service or to
+have her arrested, and explaining that the store had
+taken the challenged action not because of the race of
+the plaintiff, but because it was fearful of the reaction of
+some of its customers if it served a racially mixed group.
+Kress also submitted affidavits from the Chief of Police
+and the arresting officers denying that the store
+manager had requested that petitioner be arrested, and
+noted that in the plaintiff's own deposition, she
+conceded that she had no knowledge of any
+communication between the police and any Kress
+employee and was relying on circumstantial evidence to
+support her allegations. In opposing defendant's motion
+for summary judgment, plaintiff stated that defendant in
+its moving papers failed to dispute an allegation in the
+complaint, a statement at her deposition, and an
+unsworn statement by a Kress employee all to the effect
+that there was a policeman in the store at the time of the
+refusal to serve, and that it was this policeman who
+subsequently made the arrest. Plaintiff argued that this
+sequence of events "created a substantial enough
+possibility of a conspiracy to allow her to proceed to
+trial. . . ." 398 U. S., at 157.
+We agreed, and therefore reversed the lower courts,
+reasoning that Kress "did not carry its burden because of
+its failure to foreclose the possibility that there was a
+policeman in the Kress store while petitioner was
+awaiting service, and that this policeman reached an
+understanding with some [477 U.S. 263] Kress employee
+that petitioner not be served." Ibid. Despite the fact that
+none of the materials relied on by plaintiff met the
+requirements of Rule 56(e), we stated nonetheless that
+Kress failed to meet its initial burden of showing that
+there was no genuine dispute of a material fact.
+Specifically, we held that because Kress failed to negate
+plaintiff's materials suggesting that a policeman was in
+fact in the store at the time of the refusal to serve, "it
+would be open to a jury . . . to infer from the
+circumstances that the policeman and a Kress employee
+had a `meeting of the minds' and thus reached an
+understanding that petitioner should be refused service."
+Id., at 158.
+In Adickes we held that a jury might permissibly infer a
+conspiracy from the mere presence of a policeman in a
+restaurant. We never reached and did not consider
+whether the evidence was "one-sided," and had we done
+so, we clearly would have had to affirm, rather than
+reverse, the lower courts, since in that case there was no
+admissible evidence submitted by petitioner, and a
+significant amount of evidence presented by the
+defendant tending to rebut the existence of a conspiracy.
+The question we did reach was simply whether, as a
+matter of conspiracy law, a jury would be entitled, again,
+as a matter of law, to infer from the presence of a
+policeman in a restaurant the making of an agreement
+between that policeman and an employee. Because we
+held that a jury was entitled so to infer, and because the
+defendant had not carried its initial burden of
+production of demonstrating that there was no evidence
+that there was not a policeman in the lunchroom, we
+concluded that summary judgment was inappropriate.
+Accordingly, it is surprising to find the case cited by the
+majority for the proposition that "there is no issue for
+trial unless there is sufficient evidence favoring the
+nonmoving party for a jury to return a verdict for that
+party." Ante, at 249. There was, of course, no admissible
+evidence in Adickes favoring the nonmoving plaintiff;
+there was only an [477 U.S. 264] unrebutted assertion
+that a Kress employee and a policeman were in the same
+room at the time of the alleged constitutional violation.
+Like Cities Service, Adickes suggests that on a
+defendant's motion for summary judgment, a trial court
+must consider whether, as a matter of the substantive
+law of the plaintiff's cause of action, a jury will be
+permitted to draw inferences supporting the plaintiff's
+legal theory. In Cities Service we found, in effect, that
+the plaintiff had failed to make out a prima facie case; in
+Adickes we held that the moving defendant had failed to
+rebut the plaintiff's prima facie case. In neither case is
+there any intimation that a trial court should inquire
+whether plaintiff's evidence is "significantly probative,"
+as opposed to "merely colorable," or, again, "one-sided."
+Nor is there is either case any suggestion that once a
+nonmoving plaintiff has made out a prima facie case
+based on evidence satisfying Rule 56(e) that there is any
+showing that a defendant can make to prevail on a
+motion for summary judgment. Yet this is what the
+Court appears to hold, relying, in part, on these two
+cases.
+As explained above, and as explained also by JUSTICE
+REHNQUIST in his dissent, see post, at 271, I cannot
+agree that the authority cited by the Court supports its
+position. In my view, the Court's result is the product of
+an exercise [477 U.S. 265] akin to the child's game of
+"telephone," in which a message is repeated from one
+person to another and then another; after some time,
+the message bears little resemblance to what was
+originally spoken. In the present case, the Court
+purports to restate the summary judgment test, but with
+each repetition, the original understanding is
+increasingly distorted.
+But my concern is not only that the Court's decision is
+unsupported; after all, unsupported views may
+nonetheless be supportable. I am more troubled by the
+fact that the Court's opinion sends conflicting signals to
+trial courts and reviewing courts which must deal with
+summary judgment motions on a day-to-day basis. This
+case is about a trial court's responsibility when
+considering a motion for summary judgment, but in my
+view, the Court, while instructing the trial judge to
+"consider" heightened evidentiary standards, fails to
+explain what that means. In other words, how does a
+judge assess how one-sided evidence is, or what a
+"fairminded" jury could "reasonably" decide? The Court
+provides conflicting clues to these mysteries, which I
+fear can lead only to increased confusion in the district
+and appellate courts.
+The Court's opinion is replete with boilerplate language
+to the effect that trial courts are not to weigh evidence
+when deciding summary judgment motions:
+"[I]t is clear enough from our recent cases that at the summary
+judgment stage the judge's function is not himself to weigh the
+evidence and determine the truth of the matter . . . ." Ante, at 249.
+"Our holding . . . does not denigrate the role of the jury. . . .
+Credibility determinations, the weighing of the evidence, and the
+drawing of legitimate inferences from the facts are jury functions,
+not those of a judge, whether he is ruling on a motion for summary
+judgment or for a directed verdict. The evidence of the nonmovant
+is to be believed, and all justifiable inferences are to be drawn in his
+favor." Ante, at 255.
+[477 U.S. 266] But the Court's opinion is also full of
+language which could surely be understood as an
+invitation — if not an instruction — to trial courts to
+assess and weigh evidence much as a juror would:
+"When determining if a genuine factual issue . . . exists. . . , a trial
+judge must bear in mind the actual quantum and quality of proof
+necessary to support liability. . . . For example, there is no genuine
+issue if the evidence presented in the opposing affidavits is of
+insufficient caliber or quantity to allow a rational finder of fact to
+find actual malice by clear and convincing evidence." Ante, at 254
+(emphasis added).
+"[T]he inquiry . . . [is] whether the evidence presents a sufficient
+disagreement to require submission to a jury or whether it is so
+one-sided that one party must prevail as a matter of law." Ante, at
+251-252 (emphasis added).
+"[T]he judge must ask himself . . . whether a fairminded jury could
+return a verdict for the plaintiff on the evidence presented. The
+mere existence of a scintilla of evidence in support of the plaintiff's
+position will be insufficient; there must be evidence on which the
+jury could reasonably find for the plaintiff." Ante, at 252.
+I simply cannot square the direction that the judge "is
+not himself to weigh the evidence" with the direction
+that the judge also bear in mind the "quantum" of proof
+required and consider whether the evidence is of
+sufficient "caliber or quantity" to meet that "quantum." I
+would have thought that a determination of the "caliber
+and quantity," i. e., the importance and value, of the
+evidence in light of the "quantum," i. e., amount
+"required," could only be performed by weighing the
+evidence.
+If in fact, this is what the Court would, under today's
+decision, require of district courts, then I am fearful that
+this new rule — for this surely would be a brand new
+procedure — will transform what is meant to provide an
+expedited "summary" [477 U.S. 267] procedure into a
+full-blown paper trial on the merits. It is hard for me to
+imagine that a responsible counsel, aware that the judge
+will be assessing the "quantum" of the evidence he is
+presenting, will risk either moving for or responding to
+a summary judgment motion without coming forth with
+all of the evidence he can muster in support of his
+client's case. Moreover, if the judge on motion for
+summary judgment really is to weigh the evidence, then
+in my view grave concerns are raised concerning the
+constitutional right of civil litigants to a jury trial.
+It may well be, as JUSTICE REHNQUIST suggests, see
+post, at 270-271, that the Court's decision today will be
+of little practical effect. I, for one, cannot imagine a case
+in which a judge might plausibly hold that the evidence
+on motion for summary judgment was sufficient to
+enable a plaintiff bearing a mere preponderance burden
+to get to the jury — i. e., that a prima facie case had been
+made out — but insufficient for a plaintiff bearing a
+clear-and-convincing burden to withstand a defendant's
+summary judgment motion. Imagine a suit for breach of
+contract. If, for example, the defendant moves for
+summary judgment and produces one purported
+eyewitness who states that he was present at the time
+the parties discussed the possibility of an agreement, and
+unequivocally denies that the parties ever agreed to
+enter into a contract, while the plaintiff produces one
+purported eyewitness who asserts that the parties did in
+fact come to terms, presumably that case would go to
+the jury. But if the defendant produced not one, but 100
+eyewitnesses, while the plaintiff stuck with his single
+witness, would that case, under the Court's holding, still
+go to the jury? After all, although the plaintiff's burden
+in this hypothetical contract action is to prove his case
+by a mere preponderance of the evidence, the judge, so
+the Court tells us, is to "ask himself . . . whether a fairminded
+jury could return a verdict for the plaintiff on
+the evidence presented." Ante, at 252. Is there, in this
+hypothetical example, "a sufficient disagreement to
+require submission [477 U.S. 268] to a jury," or is the
+evidence "so one-sided that one party must prevail as a
+matter of law"? Ante, at 251-252. Would the result
+change if the plaintiff's one witness were now shown to
+be a convicted perjurer? Would the result change if,
+instead of a garden-variety contract claim, the plaintiff
+sued on a fraud theory, thus requiring him to prove his
+case by clear and convincing evidence?
+It seems to me that the Court's decision today
+unpersuasively answers the question presented, and in
+doing so raises a host of difficult and troubling questions
+for which there may well be no adequate solutions.
+What is particularly unfair is that the mess we make is
+not, at least in the first instance, our own to deal with; it
+is the district courts and courts of appeals that must
+struggle to clean up after us.
+In my view, if a plaintiff presents evidence which either
+directly or by permissible inference (and these
+inferences are a product of the substantive law of the
+underlying claim) supports all of the elements he needs
+to prove in order to prevail on his legal claim, the
+plaintiff has made out a prima facie case and a
+defendant's motion for summary judgment must fail
+regardless of the burden of proof that the plaintiff must
+meet. In other words, whether evidence is "clear and
+convincing," or proves a point by a mere
+preponderance, is for the factfinder to determine. As I
+read the case law, this is how it has been, and because of
+my concern that today's decision may erode the
+constitutionally enshrined role of the jury, and also
+undermine the usefulness of summary judgment
+procedure, this is how I believe it should remain.

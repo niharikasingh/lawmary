@@ -1,0 +1,360 @@
+Manuel A. Iglesias appeals from the district court's grant
+of summary judgment on his discrimination and
+contract claims against his former employer, Mutual
+Life Insurance Company of New York ("MONY").
+MONY appeals from the court's dismissal of its
+counterclaim for restitution of money that Iglesias
+obtained by submitting admittedly overstated expense
+reports. We affirm the judgment for MONY against
+Iglesias. We vacate the order dismissing MONY's
+counterclaim and remand the counterclaim with
+directions to dismiss the counterclaim without prejudice
+for want of jurisdiction.
+I. Iglesias's Claims.
+We review a grant of summary judgment de novo,
+taking the facts in the light most favorable to the nonmoving
+party. See One Nat'l Bank v. Antonellis, 80 F.3d
+606, 608 (1st Cir.1996). After considering the record,
+briefs, and oral arguments, we affirm the dismissal of
+Iglesias's discrimination and contract claims
+substantially for the reasons stated in the district court's
+memoranda and orders. We add only the following
+short discussion.
+Regarding Iglesias's discrimination claims,1 Iglesias
+received clear and unequivocal notice that he was
+terminated as MONY's San Juan Agency Manager on
+February 9, 1989, at the latest. On that date, MONY sent
+him a letter informing him that he would no longer be
+authorized to act as Agency Manager. In the context of
+the parties' prior discussions regarding Iglesias's
+retirement, the February 1989 letter put Iglesias on
+notice that he had been fired.2 Iglesias did not file
+administrative charges with the Anti-Discrimination
+Division of the Puerto Rico Department of Labor until
+August 28, 1990, and his initial complaint in federal
+court was not filed until April 17, 1991. Iglesias's [156
+F.3d 240] action for discrimination was, therefore,
+barred by the applicable statutes of limitations. See 42
+U.S.C. § 2000e-5(e) (establishing a 300-day limitation
+period for actions under Title VII that were first
+presented to an administrative agency); 29 U.S.C. §
+626(d)(2) (setting a 300-day limitation period for actions
+under the ADEA that were first brought before a state
+authority); Olmo v. Young & Rubicam, 110 D.P.R. 740,
+745, 1981 WL 176523 (P.R.1981) (applying a one year
+limitation period to claims brought under Law 100).
+The Puerto Rico Supreme Court's decision in Vélez
+Rodríguez v. Pueblo Int'l, Inc., 94 JTS 37 (P.R. March
+18, 1994) does not apply to Iglesias's claims for the
+reasons stated in the district court's memorandum.
+Regarding Iglesias's contract claims, MONY's
+employment contract with Iglesias did not limit
+MONY's ability to withdraw products from the Puerto
+Rico market. Iglesias argues that the provision in the
+contract authorizing him to "solicit applications for
+insurance in MONY of the types of insurance which
+MONY is issuing" created a vested right that prevented
+MONY from ever altering its policy offerings in Puerto
+Rico. We recognize that "when the facts support
+plausible but conflicting inferences on a pivotal issue in
+the case, the judge may not choose between those
+inferences at the summary judgment stage." Coyne v.
+Taber Partners I, 53 F.3d 454, 460 (1st Cir.1995). We
+need not indulge a nonmoving party's inferences,
+however, if they do not "flow rationally from the
+underlying facts." Rubinovitz v. Rogato, 60 F.3d 906,
+911 (1st Cir. 1995).
+No reasonable jury could agree with Iglesias's reading of
+his contract. The plain language of the provision
+purports only to authorize Iglesias to sell MONY's
+product line, it does not guarantee stability of that line.
+MONY is a national company that deals with many
+agents in diverse geographic areas. To interpret this
+contract provision so as to grant each of those agents the
+power to control which products MONY offers within
+that particular agent's jurisdiction would give Iglesias
+and other agents the power to veto policy decisions
+made by MONY's upper management at the company's
+national headquarters. This would flip the employment
+relationship between MONY and its agents on its head.
+Further, each of Iglesias's contracts contained clauses in
+which MONY reserved the right to change the contract.
+The district court's grant of summary judgment was
+entirely appropriate.
+II. MONY's Counterclaim.
+MONY reimbursed Iglesias for expenses that he
+incurred as a result of his professional activities. To
+supplement his income, Iglesias admits that he "padded"
+his expense reimbursement requests from 1981 to 1988.
+MONY first learned of Iglesias's practice of overstating
+his expenses in 1987. At that time, MONY took no legal
+action against Iglesias. Instead, after notifying him that
+his conduct conflicted with company policy, MONY
+requested that he submit accurate reports in the future.
+Subsequently, Iglesias brought the present action against
+MONY for discrimination and breach of contract. On
+November 7, 1991, in the course of a deposition, Iglesias
+admitted that he had continued submitting exaggerated
+expense reports even after MONY's 1987 warning.
+MONY tried to use the information obtained at the
+1991 deposition in three ways. First, MONY questioned
+Iglesias about his expense reports during trial in an
+effort to impeach his credibility. Second, MONY
+attempted to raise the falsified expense requests as an
+affirmative defense to Iglesias's discrimination claims,
+arguing that they provided MONY with a valid nondiscriminatory
+reason to terminate Iglesias. The court
+did not allow MONY to pursue this strategy because
+MONY learned of these improprieties only after it had
+terminated Iglesias.
+Third, and more importantly for our purposes, MONY
+sought leave to amend its answer to add a counterclaim
+for restitution. On March 17, 1992, the magistrate judge
+granted MONY's request. For four years, the parties
+conducted discovery on the counterclaim. On August 6,
+1996, Iglesias moved for dismissal of MONY's
+counterclaim arguing, inter alia, that it was barred by
+laches. On August 14, 1996, the district court dismissed
+[156 F.3d 241] the counterclaim as untimely. MONY
+now appeals from that dismissal.
+Although neither of the parties has raised the issue, we
+have an obligation to inquire into our subject matter
+jurisdiction over MONY's counterclaim. See Clark v.
+Paul Gray, Inc., 306 U.S. 583, 588, 59 S.Ct. 744, 83 L.Ed.
+1001 (1939) (holding that although district court's
+jurisdiction had not been challenged, Court had duty to
+raise question of whether jurisdictional amount was
+involved). See also White v. Gittens, 121 F.3d 803, 806
+(1st Cir.1997). Federal courts are courts of limited
+jurisdiction; a court may not address the merits until
+"after ... the court has assumed jurisdiction over the
+controversy." Bell v. Hood, 327 U.S. 678, 681, 66 S.Ct.
+773, 90 L.Ed. 939 (1946); see also Steel Co. v. Citizens
+for a Better Environment, ___ U.S. ___, ___, 118 S.Ct.
+1003, 1012, 140 L.Ed.2d 210 (1998) (stating that
+deciding the merits before confirming jurisdiction
+"carries the courts beyond the bounds of authorized
+judicial action and thus offends fundamental principles
+of separation of powers"). Since MONY's counterclaim
+sounds in state law, a federal court may not hear it
+unless it falls within the ambit of supplemental
+jurisdiction or is supported by an independent
+jurisdictional basis. See Toste Farm Corp. v. Hadbury,
+Inc., 70 F.3d 640, 646 (1st Cir.1995) (noting that a
+federal court has jurisdiction over a counterclaim only if
+it resides within the court's supplemental jurisdiction or
+is supported by an independent jurisdictional basis).
+The parties appear to have assumed that MONY's
+counterclaim was within the court's supplemental
+jurisdiction. When considering supplemental
+jurisdiction, the nature of the counterclaim is crucial.
+Federal Rule of Civil Procedure 13 describes two types
+of counterclaims: compulsory and permissive. A
+compulsory counterclaim is one that "arises out of the
+transaction or occurrence that is the subject matter of
+the opposing party's claim." Fed.R.Civ.P. 13(a). All
+counterclaims that are not compulsory are permissive.
+See Fed.R.Civ.P. 13(b). Only compulsory counterclaims
+can rely upon supplemental jurisdiction; permissive
+counterclaims require their own jurisdictional basis.
+The supplemental jurisdiction statute provides: "[I]n
+any civil action of which the district courts have original
+jurisdiction, the district courts shall have supplemental
+jurisdiction over all other claims that are so related to
+claims in the action within such original jurisdiction
+that they form part of the same case or controversy
+under Article III of the United States Constitution." 28
+U.S.C. § 1367(a). Section 1367 incorporates the
+common law doctrines of pendent and ancillary
+jurisdiction. See Penobscot Indian Nation v. Key Bank,
+112 F.3d 538, 563 (1st Cir.1997), cert. denied, ___ U.S.
+___, 118 S.Ct. 297, 139 L.Ed.2d 229 (1997). Federal
+courts have ancillary jurisdiction over compulsory
+counterclaims. See McCaffrey v. Rex Motor Transp.,
+Inc., 672 F.2d 246, 248 (1st Cir.1982); 6 Charles Alan
+Wright, Arthur R, Miller & Mary Kay Kane, Federal
+Practice & Procedure § 1414, at 99 (2d ed.1990).
+Permissive counterclaims, however, do not fall within
+ancillary jurisdiction and therefore may not be heard in
+federal court unless supported by an independent basis
+of jurisdiction. See McCaffrey, 672 F.2d at 248; Wright,
+Miller & Kane, § 1422, at 169-70.
+There are at least four tests to determine whether a
+counterclaim is compulsory or permissive:
+1) Are the issues of fact and law raised by the claim and
+counterclaim largely the same?
+2) Would res judicata bar a subsequent suit on defendant's claim
+absent the compulsory counterclaim rule?
+3) Will substantially the same evidence support or refute plaintiff's
+claim as well as defendant's counterclaim?
+4) Is there any logical relation between the claim and the
+counterclaim?
+McCaffrey, 672 F.2d at 248 (quoting 6 Wright, Miller &
+Kane, supra, § 1410, at 42 [currently 52-57]) (internal
+quotation marks omitted). Of these tests, only the fourth
+— the "logical relation" test — could possibly encompass
+MONY's counterclaim. In McCaffrey, we adopted the
+Fifth Circuit's treatment of the logical relation test.
+Under this [156 F.3d 242] approach, a claim qualifies as
+compulsory only if:
+it arises out of the same aggregate of operative facts as the original
+claim in two senses: (1) that the same aggregate of operative facts
+serves as the basis of both claims; or (2) that the aggregate core of
+facts upon which the original claim rests activates additional legal
+rights in a party defendant that would otherwise remain dormant.
+McCaffrey, 672 F.2d at 249 (quoting Revere Copper &
+Brass, Inc. v. Aetna Cas. & Sur. Co., 426 F.2d 709, 715
+(5th Cir.1970)).
+Applying this standard, MONY's counterclaim is
+permissive. First, the aggregate of operative facts giving
+rise to Iglesias's claims is entirely different from the facts
+supporting MONY's counterclaim. Iglesias alleges that
+MONY removed its disability insurance product from
+the Puerto Rico market in 1981 for discriminatory
+reasons. That change in policy, he claims, led to his
+eventual termination, which therefore was also
+discriminatory. The evidence relevant to these claims
+includes the terms of Iglesias's employment contract and
+documentary, testimonial or other evidence concerning
+MONY's actions in Puerto Rico. By contrast, MONY's
+counterclaim is for restitution of monies that Iglesias
+wrongfully obtained from the company over the period
+from 1981 to 1988. The facts supporting the restitution
+claim include Iglesias's records and expense vouchers for
+travel and meals, his admissions during deposition, and
+documentary, testimonial or other evidence regarding
+MONY's reimbursement policies. Notwithstanding both
+claims arose during the same time period, they therefore
+rest on different sets of supporting facts.
+Second, MONY's ability to recover restitution does not
+depend on the success or failure of Iglesias's claims.
+Iglesias has admitted that he overbilled his expenses to
+enhance his compensation. Although MONY discovered
+Iglesias's false reimbursement requests for 1988 in a
+deposition that was part of the present action, Iglesias's
+claims did not "activate" otherwise dormant claims.
+MONY could have sought reimbursement for its
+payments based on Iglesias's false expense reports prior
+to 1988 at any point. Even MONY's claim relating to
+1988 expenses is not tied to the merits of the
+discrimination and contract claims. In other words,
+MONY's counterclaim bears no logical relation to the
+claims in the main action.
+We conclude that MONY's counterclaim is permissive
+rather than compulsory, and is not supported by federal
+supplemental jurisdiction. We look, therefore, to
+whether it rests on an independent federal jurisdictional
+basis.
+The only possible jurisdictional basis would be diversity
+of citizenship. While Iglesias and MONY are citizens of
+different states, MONY did not allege that its claim
+exceeded any specified sum, nor is its amount
+ascertainable from the record. See 28 U.S.C. § 1332(a)
+(1993) (limiting diversity jurisdiction to claims that
+exceed a certain amount-in-controversy). At the time
+that MONY asserted its counterclaim, the amount-incontroversy
+required was in excess of $50,000, exclusive
+of interest and costs.3 The burden of alleging
+jurisdiction is on the party asserting the claim. See
+Viqueira v. First Bank, 140 F.3d 12, 16 (1st Cir.1998)
+(stating that "the proponent ... must carry the burden of
+demonstrating the existence of federal jurisdiction").
+Although "the sum claimed by the [proponent] controls
+if the claim is apparently made in good faith," Saint Paul
+Mercury Indem. Co. v. Red Cab Co., 303 U.S. 283, 288,
+58 S.Ct. 586, 82 L.Ed. 845 (1938) (footnote omitted),
+MONY, as noted, has failed to allege that its
+counterclaim exceeds the required amount-incontroversy
+nor is there evidence in the record from
+which its value can reliably be determined as exceeding
+that amount. MONY stated merely that it was:
+in the process of reviewing each and everyone [sic] of the expense
+reports submitted by Mr. Iglesias to determine what was the scope
+of this practice by Mr. Iglesias and the approximate amount of
+funds wrongfully taken by Mr. Iglesias from Mutual [156 F.3d 243]
+through the scheme of false expense reports acknowledged by the
+plaintiff.
+Later, MONY submitted a more detailed accounting of
+specific instances in which Iglesias alleged excessive or
+false mileage, but did not state the value of the wrongful
+claims. MONY noted that Iglesias had charged
+$48,500.87 in meal expenses between 1981 and 1988,
+but it did not indicate what portion of these claims was
+false or overstated.
+In these circumstances — lacking MONY's allegation
+that the counterclaim meets the jurisdictional amount,
+and lacking facts of record indicative that this is so — we
+must conclude that the district court was without
+jurisdiction to proceed. We, therefore, remand the
+counterclaim with directions that it be dismissed for
+want of jurisdiction. See Fed.R.Civ.P.
+12(h)(3)("Whenever it appears by suggestion of the
+parties or otherwise that the court lacks jurisdiction of
+the subject matter, the court shall dismiss the action.").
+See also United Food & Com. Workers Union v.
+CenterMark Properties Meriden Square, Inc., 30 F.3d
+298, 306 (2d Cir.1994) (addressing for first time on
+appeal whether district court lacked subject matter
+jurisdiction and remanding for determination of
+whether amount in controversy requirement had been
+met).
+We recognize that Iglesias never pointed out below the
+absence of a proper amount-in-controversy allegation,
+nor was the subject raised by anyone. Had it been raised,
+MONY might have been able to remedy the deficiency
+by amendment if it believed in good faith that its
+counterclaim exceeded the jurisdictional minimum. In
+these circumstances, the dismissal we now order shall be
+without prejudice to MONY's right, if it can do so in
+good faith, to amend the counterclaim within such time
+as the district court allows so as to allege a supportably
+proper jurisdictional amount.4 If MONY can do so, the
+district court may lift the jurisdictional bar. Cf. United
+Food, 30 F.3d at 306. If that occurs, the court will be
+faced with whether to reinstate its previous dismissal
+with prejudice for untimeliness. We comment briefly.
+Because jurisdiction over the counterclaim has not been
+established, we are without authority to rule whether
+the district court's dismissal for untimeliness was
+proper. Cf. Steel Co., ___ U.S. at ___, 118 S.Ct. at 1012.
+The issue was, however, presented in this appeal and we
+believe it would be helpful if we were to state our initial
+impressions, recognizing their present non-binding
+character. MONY brought its counterclaim only four
+months after Iglesias's November 7, 1991 deposition
+revealing for the first time that he had continued to
+falsify his expenses even after similar improprieties were
+noted in 1987. In all the circumstances, it is not readily
+apparent why MONY should be thought tardy in
+bringing the counterclaim when it did.
+Iglesias argues that the counterclaim is barred by laches.
+The equitable doctrine of laches allows a court to
+dismiss a claim "where a party's delay in bringing suit
+was (1) unreasonable, and (2) resulted in prejudice to the
+opposing party." K-Mart Corp. v. Oriental Plaza, Inc.,
+875 F.2d 907, 911 (1st Cir.1989). Even if we were to find
+unreasonable delay within the period between 1987,
+when MONY first learned that Iglesias had been
+padding expenses, and 1992, when, after having warned
+Iglesias earlier, MONY asserted its counterclaim based
+on the subsequent defalcations, we fail to see how any of
+that delay prejudiced Iglesias. Indeed, such prejudice as
+there was appears to have worked the other way. The
+magistrate judge had granted permission to MONY to
+assert its counterclaim, and the parties thereafter
+conducted four years of discovery. MONY sifted
+through receipts for meals and business trips in an effort
+to reveal false claims. The court's dismissal after four
+years of discovery had been allowed seems to work a
+hardship on MONY. Given these equities, we would
+have serious questions as to the strength of Iglesias's
+laches argument.
+The judgment for MONY against Iglesias is affirmed.
+The order dismissing the counterclaim [156 F.3d 244]
+for untimeliness is vacated and the counterclaim
+remanded with directions to dismiss the counterclaim
+without prejudice for want of jurisdiction. Costs
+awarded to MONY on the appeal from the district
+court's grant of summary judgment; each party to bear
+its own costs on the appeal from the dismissal of the
+counterclaim.

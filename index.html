@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<!--TODO add google analytics -->
+
+  <!-- Basic Page Needs
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <meta charset="utf-8">
+  <title>Curt Summary</title>
+  <meta name="description" content="">
+  <meta name="author" content="">
+
+  <!-- Mobile Specific Metas
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- FONT
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+ <link href="https://fonts.googleapis.com/css?family=Berkshire+Swash|Droid+Sans" rel="stylesheet" type="text/css">
+
+  <!-- CSS
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <link rel="stylesheet" href="css/normalize.css">
+  <link rel="stylesheet" href="css/skeleton.css">
+
+  <!-- Favicon
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <link rel="icon" type="image/png" href="images/favicon.png">
+
+</head>
+<body>
+    
+  <!-- JavaScript
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+  <script src="js/search.js"></script>
+  <!--script type="text/javascript" src="js/casedict.json"></script>
+
+  <!-- Primary Page Layout
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <div class="u-full-width" id="main-title-bg">
+    <div class="container">
+      <div class="row">
+        <h1>CurtSummary</h1>
+        <p class="dark-text">Machine-generated summaries of <a href="about.html">some</a> court opinions.</p>
+      </div>
+    </div>
+  </div>
+    
+  <div class="u-full-width">
+    <div class="container">
+      <div class="row">
+        <input class="u-full-width" type="text" id="searchbox" placeholder="Search for a case" alt="Search" />
+          <p class="search-text">Examples: "USA v. Secretary, Florida Department of Corrections, et al.", "secretary", "florida"</p>
+        <label><input type=checkbox id="examCheckbox"> Check to open summary in exam mode, in which only the facts of the case are shown, so you can practice writing reasoned judgements</label><br/><br/>
+      </div>
+      <div class="row">
+        <noscript>
+            Sorry, the search tool requires JavaScript.
+        </noscript>
+        <ul id="results">
+            
+        </ul>
+      </div>
+    </div>
+  </div>
+
+<!-- End Document
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+</body>
+</html>

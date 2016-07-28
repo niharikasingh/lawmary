@@ -1,0 +1,237 @@
+In the world of personal injury litigation, defendants
+will sometimes conduct videotaped surveillance seeking
+to verify the extent of plaintiffs' injuries or to establish
+that plaintiffs have feigned or exaggerated them. We
+addressed these kinds of surveillance tapes in DiMichel
+v South Buffalo Ry. Co. (80 N.Y.2d 184 [1992]) and
+concluded that the plaintiffs could gain pretrial access to
+them, but only after they had submitted to depositions.
+Soon after our decision in DiMichel, the Legislature
+enacted CPLR 3101 (i), which mandates "full disclosure
+of any films, photographs, video tapes or audio tapes"
+involving a party to the action. On this appeal we must
+decide whether DiMichel's pronouncement as to the
+timing of videotape disclosure survives the enactment of
+section 3101 (i).
+I.
+According to the complaint and deposition testimony,
+plaintiff Tai Tran, a hibachi chef, injured his left palm
+when he fell while working at a restaurant. He received
+emergency medical care at defendant New Rochelle
+Hospital Medical Center. The Hospital then referred
+plaintiff to defendant William D. Mahoney, a surgeon
+who performed follow-up treatment and eventually
+advised plaintiff that he could return to work, which he
+did. About two years later, plaintiff allegedly suffered
+another on-the-job injury to his left hand. Attributing
+this second injury to weakness caused by the initial
+injury, plaintiff, and his wife derivatively, commenced
+this action against New Rochelle Hospital, Dr. Mahoney
+and others, claiming that they failed properly to
+diagnose and treat his original injury.
+At a pretrial examination, plaintiff testified that the
+condition of his hand had deteriorated to the point
+where he could no longer work at the restaurant, and
+that one of his treating physicians advised him against
+doing so. Based on this testimony, defendants sought
+plaintiff's income and employment records to determine
+whether he had returned to work 
+[99 N.Y.2d 386]
+despite the doctor's advice. When they learned that
+plaintiff had in fact resumed work, defendants sought an
+order compelling him to appear for another deposition,
+to which plaintiff objected.
+At about the same time, plaintiff learned that defendants
+had videotaped him surreptitiously, and he moved for
+disclosure of the tapes. Defendants resisted, arguing that
+they should not be required to produce the tapes until
+after plaintiff submitted to a further deposition.
+Supreme Court granted defendants' motion to depose
+plaintiff, but in a second order granted plaintiff's motion
+for disclosure of the videotapes before the deposition,
+determining that CPLR 3101 (i) compelled immediate
+disclosure. Defendants appealed from Supreme Court's
+second order.
+The Appellate Division reversed and ruled that the tapes
+were discoverable only after plaintiff was deposed.
+Acknowledging that two of the other Appellate Division
+Departments had held that plaintiffs were entitled to
+discovery on demand,
+1 
+ the Court determined that the
+enactment of CPLR 3101 (i) did nothing to upset
+DiMichel's conclusion that surveillance tapes need not
+be produced until after a plaintiff is deposed. In its order
+of reversal, the Court directed that plaintiff submit to a
+second deposition before gaining access to the
+surveillance tapes.
+The Appellate Division thereafter granted plaintiff leave
+to appeal to this Court pursuant to CPLR 5602 (b) (1),
+and certified the following question pursuant to CPLR
+5713: "Was the order of this Court, which reversed the
+order of the Supreme Court, properly made?" For the
+reasons that follow, we answer the certified question in
+the negative.
+II.
+In deciding DiMichel, we addressed whether
+"surveillance films prepared by a defendant in a personal
+injury action are discoverable by the plaintiff before
+trial" (80 NY2d at 189-190). The Court first concluded
+that pursuant to CPLR 3101 (d) (2) surveillance tapes
+are materials "prepared in anticipation of litigation" and
+are therefore subject to a qualified privilege "that can be
+overcome only by a factual showing of substantial 
+[99
+N.Y.2d 387]
+ need and undue hardship" (id. at 196). We
+recognized that surveillance tapes, when properly
+authenticated, can be powerful evidence against
+plaintiffs who are videotaped while engaging in physical
+activities that contradict their claimed injuries. Graphic
+depictions of that type will undo the plaintiff who
+complains that he can't walk, unaware that he has been
+filmed playing rugby. We observed that defendants have
+a strong interest in withholding these evidentiary
+materials until trial to eliminate the possibility that
+plaintiffs will tailor their testimony to conform to the
+tapes.
+The Court was equally sensitive, however, to the danger
+that surveillance tapes can be easily altered and therefore
+contaminate the trial process, much to the detriment of
+plaintiffs. Moreover, denying plaintiffs pretrial access to
+the videotapes creates undue hardship because "[o]nly
+by observing the conditions as they appear on film can
+the plaintiffs respond to possible distortions or prepare
+to explain seeming inconsistencies to the jury" (id. at
+197). These particular concerns led us to conclude that
+the plaintiffs in DiMichel had made the requisite
+showing under CPLR 3101 (d) (2) of substantial need
+and undue hardship, and were thus entitled to view the
+tapes before trial.
+To balance the competing interests at stake—namely, a
+defendant's desire to withhold tapes to prevent tailored
+testimony and a plaintiff's need to obtain pretrial access
+for authentication—we crafted an accommodation by
+which surveillance tapes should be turned over before
+trial, but only after a plaintiff has been deposed.
+Less than a year after DiMichel, the Legislature enacted
+CPLR 3101 (i). It provides, in relevant part:
+"In addition to any other matter which may be subject to disclosure,
+there shall be full disclosure of any films, photographs, video tapes
+or audio tapes, including transcripts or memoranda thereof,
+involving a [party]. There shall be disclosure of all portions of such
+material, including out-takes, rather than only those portions a
+party intends to use."
+The question now before us is whether section 3101 (i)
+overrules that aspect of DiMichel which allows
+defendants to withhold surveillance tapes until after a
+plaintiff has been deposed. Plaintiff argues that section
+3101 (i)'s "full disclosure" requirement gives him the
+right to obtain any surveillance material on demand.
+Defendants contend that in enacting section 3101 
+[99
+N.Y.2d 388]
+ (i) the Legislature sought to expand the
+scope of discovery, but not to override DiMichel's
+timing rule.
+III.
+We note, at the outset of our analysis, that the plain
+language of section 3101 (i) eliminates any qualified
+privilege that previously attached to surveillance tapes
+under DiMichel. Under the new provision, surveillance
+tapes (and other specified materials) are subject to "full
+disclosure." Thus, parties seeking disclosure of any of
+the specified items under section 3101 (i) need not make
+a showing of "substantial need" and "undue hardship."
+Moreover, section 3101 (i)'s "full disclosure"
+requirement is not limited to materials a party intends
+to use at trial. The provision compels disclosure of all
+the listed materials—including "out-takes"—whether or
+not they will be used at trial (see CPLR 3101 [i]).
+2
+On its face, therefore, CPLR 3101 (i) significantly alters
+DiMichel. Critical to this appeal, however, is what
+section 3101 (i) does not articulate, notably, the timing
+of disclosure. In particular, subdivision (i) does not
+speak to whether a plaintiff must submit to a deposition
+before obtaining disclosure of any surveillance tapes.
+The Second, Third and Fourth Departments have all
+interpreted this silence to mean that the Legislature did
+not intend to codify the timing aspect of DiMichel (see
+Falk, 299 A.D.2d 120; Rotundi, 263 A.D.2d 84;
+DiNardo, 252 A.D.2d 69). We agree. Our holding in
+DiMichel—that once a plaintiff undergoes a deposition
+the defendant must turn over any surveillance tapes it
+intends to use at trial—rested heavily on the premise
+that surveillance tapes were subject to a qualified
+privilege under section 3101 (d) (2) (see DiMichel, 80
+NY2d at 190). That privilege, in turn, was one of the
+two competing interests that informed DiMichel's
+timing rule. In removing surveillance tapes from the
+reach of CPLR 3101 (d) (2), the Legislature eliminated
+the qualified privilege to which videotapes were
+previously subject. In so doing, it undercut one of the
+main supports underlying DiMichel. In short, the timing
+rule lost its statutory moorings when the Legislature
+removed videotapes and the like from the strictures of
+section 3101 (d) (2).
+[99 N.Y.2d 389]
+ Even more revealing, however, is the
+placement of subdivision (i) within the statutory
+scheme. After DiMichel, the Legislature chose to create
+an entirely new subdivision within section 3101 to deal
+exclusively with videotapes and similar materials. We
+must assume that the Legislature was fully aware that
+the timing rule we announced in DiMichel was
+premised on surveillance tapes falling within section
+3101 (d) (2) (see Hammelburger v Foursome Inn Corp.,
+54 N.Y.2d 580 [1981]; McKinney's Cons Laws of NY,
+Book 1, Statutes 
+§
+ 191). Indeed, it is evident that the
+Legislature enacted section 3101 (i) in reaction to
+DiMichel.
+3 
+ The Legislature's decision to create this
+separate subdivision, subject to no qualified privilege
+and imposing no express timing requirement, satisfies
+us that the lawmakers did not intend to adopt the
+DiMichel timing rule.
+Moreover, two groups opposed enactment of section
+3101 (i) precisely because "nothing in [that provision]
+would limit disclosure, as the Court of Appeals held was
+appropriate, until after [a] plaintiff has been deposed"
+(Mem of Comm on Civil Practice Law and Rules, Bill
+Jacket, L 1993, ch 574; see also Mem of Glenn Valle, Div
+of State Police, Bill Jacket, L 1993, ch 574). Had the
+Legislature wanted to impose any such limitation, it
+could have easily done so (see Bluebird Partners v First
+Fid. Bank, 97 N.Y.2d 456, 461 [2002]).
+We recognize, as have all of the Appellate Divisions,
+that requiring full disclosure of surveillance tapes before
+a plaintiff is deposed reintroduces the prospect of
+tailored testimony. Defendants complain of this danger,
+and indeed one commentator has characterized section
+3101 (i) as a "one-sidedly pro-plaintiff statute" that
+"seems to be an unabashed promotion of total disclosure
+of all surveillance materials * * *" (Siegel, 1993 Supp
+Practice Commentaries, McKinney's Cons Laws of NY,
+Book 7B, CPLR C3101:50, 2003 Pocket Part, at 36-37).
+While we articulated our solution to the tailored-
+testimony problem in DiMichel, we are not now free to
+impose a timing requirement under section 3101 (i)
+given the Legislature's pointed recasting of the relevant
+discovery provisions and its mandate for "full
+disclosure." We agree with the Second, Third and
+Fourth Departments that notwithstanding the danger of
+tailored testimony, section 3101 (i) requires full
+disclosure with 
+[99 N.Y.2d 390]
+ no limitation as to
+timing, unless and until the Legislature declares
+otherwise.
+Accordingly, the order of the Appellate Division should
+be reversed, with costs, the order of Supreme Court
+reinstated, and the certified question answered in the
+negative.
+Order reversed, etc.

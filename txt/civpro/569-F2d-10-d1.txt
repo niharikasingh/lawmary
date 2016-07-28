@@ -1,0 +1,1726 @@
+We are confronted at the outset by the inescapable facts
+that defendant Goodwin is a prosecutor and that the
+indictment made the subject of this civil suit for
+damages occurred in the courtroom, the native habitat
+of judges, jurors, prosecutors and witnesses — all of
+whom having, and from time immemorial having had,
+absolute immunity from civil suit as essential
+participants in the judicial process. The normal role of
+the Prosecutor in the courtroom is as Advocate; his
+actions are those of a spokesman advocating the cause of
+his client, the government, state or federal. In this
+particular case Goodwin perhaps was, for a moment at
+least, also cast in another role, that of Witness; his
+action was to answer a specific question of the court.
+The plaintiff claims that answer was false, and now sues
+Goodwin for perjury. Perjury is the act of testifying
+falsely. It is not the act of "administering" or
+"investigating" anything.
+The majority painstakingly reviews the recent decisions
+on prosecutorial immunity, particularly Mr. Justice
+Powell's opinion for the Supreme Court in Imbler v.
+Pachtman, 1 which accord absolute immunity to the
+prosecutor, not because of his "official status,"2 but
+because of "the nature of the official behavior"3 in his
+role essential to the judicial process. The cases cited
+universally hold that the prosecutor while functioning
+as an advocate (and thus as part of the judicial process) is
+entitled to absolute immunity; they also either hold, or
+leave open the question as to exactly where the line is to
+be drawn (as Justice Powell did in Imbler),4 that
+"administrative" or "investigative" [569 F.2d 30] duties
+of the prosecutor are entitled only to a qualified
+immunity. The majority opinion agrees.5
+Thus the majority finds it necessary to take Goodwin
+completely outside the role of prosecutor connected
+with the judicial function. In the face of the undeniable
+facts of this case — that Goodwin was in the courtroom,
+before a sitting judge, appearing as counsel of record in a
+judicial proceeding, actively performing those duties
+associated with trial advocacy, when he answered a
+question from the trial judge — the majority finds that
+his answer to the question was not, in the language of
+Imbler, an "integral part of the judicial process."6 The
+starting point for the majority's analysis is the statement
+in Imbler that "We recognize that the duties of the
+prosecutor in his role as advocate for the State involve
+actions preliminary to the initiation of a prosecution
+and actions apart from the courtroom."7 The Supreme
+Court goes on to describe what these actions are, and
+concludes, "At some point, and with respect to some
+decisions, the prosecutor no doubt functions as an
+administrator rather than as an officer of the court."8
+The Court in Imbler thus differentiated between the
+prosecutor functioning "as an administrator" and "as an
+officer of the court." On the former the Court reserved
+decision as to the immunity accorded; on the latter,
+when the prosecutor is functioning "as an officer of the
+court," the Supreme Court unequivocally held the
+prosecutor has absolute immunity.9 On the facts of
+Goodwin's case, can the majority deny that he was
+functioning "as an officer of the court"? Goodwin was in
+the courtroom before the U.S. District Judge as lead
+counsel for the United States. Could there be a more
+classic role "as an officer of the court"?
+This points up the majority's startling weakness: There
+is not one word in Imbler, or in any of the numerous
+other cases cited by the majority, which describes an
+action similar to that of Goodwin here as being outside
+the prosecutor's (or witness's) absolute immunity. The
+only references in Imbler and all the other cases cited
+talk of "investigative" or "administrative" tasks inherent
+in the prosecutor's usual job as being outside absolute
+immunity.
+My colleagues have apparently found no case which
+cites, by way of holding or dicta, any action by a
+prosecutor inside the courtroom as being outside his
+role of prosecutor.10 Goodwin's actions were not
+"actions [569 F.2d 31] preliminary to the initiation of a
+prosecution,"11 nor were they "actions apart from the
+courtroom";12 he was right in the middle of the
+courtroom and right in the middle of a grand jury
+proceeding, the time-honored method for "initiating a
+prosecution."13 The grand jury is an arm of the court.
+Goodwin was functioning "as an officer of the court."
+Goodwin's "activities were intimately associated with
+the judicial phase of the criminal process, and thus were
+functions to which the reasons for absolute immunity
+apply with full force."14
+To my mind Goodwin was a prosecutor functioning "as
+an officer of the court," and entitled to the prosecutor's
+absolute immunity under Imbler v. Pachtman. Yet it is
+undeniable that Goodwin was sworn as a witness, for a
+brief moment took the witness stand, and answered one
+question. My colleagues hold that after Goodwin took
+the oath as a witness he was acting as an investigator —
+a strange conclusion — and, after he took the oath as a
+witness (in addition to his oaths as attorney and
+prosecutor) he ceased to be "an officer of the court" — to
+my mind an equally strange conclusion.
+Both of these conclusions are necessary if the majority is
+to package Goodwin as an "investigator" or
+"administrator," for it is only if he can be so labelled that
+he can be deprived of the absolute immunity of the
+prosecutor under Imbler and countless other cases. That
+this is a strained and distorted result should be apparent,
+as it is so obvious that if Goodwin was not functioning
+as a prosecutor in his role "as an officer of the court,"
+then he was functioning as a witness — and each is
+entitled to absolute immunity.
+[569 F.2d 32] It thus becomes necessary in these
+opinions to treat both prosecutorial and witness
+immunity.15 I shall first turn to the absolute immunity
+of the prosecutor as analyzed and affirmed by the
+Supreme Court in Imbler v. Pachtman (1976), then to
+the absolute immunity of the witness. To some extent
+the discussion must interweave, for both are part of the
+seamless web of immunity held for centuries to be
+essential to the functioning of an effective judiciary.
+I. PROSECUTORIAL IMMUNITY "AS AN OFFICER
+OF THE COURT" WHOSE "ACTIVITIES WERE
+INTIMATELY ASSOCIATED WITH THE JUDICIAL
+PHASE OF THE CRIMINAL PROCESS"
+We are all agreed that Goodwin's action was taken
+within the scope of his duty; it is further the case, I
+submit, that his action involved the exercise of
+significant discretion.16 He is thus entitled to some sort
+of [569 F.2d 33] immunity protection, qualified or
+absolute. "The procedural difference between the
+absolute and qualified immunities is important. An
+absolute immunity defeats the suit at the outset, so long
+as the official's actions were within the scope of the
+immunity. The fate of an official with qualified
+immunity depends upon the circumstances and
+motivations of his actions, as established by the evidence
+at trial."17
+The decision whether qualified or absolute immunity is
+appropriate involves a balancing of the interests which
+would be benefited and impaired by application of either
+of the two doctrines. The decisions of the Supreme
+Court which have made this choice have weighed the
+incremental loss in litigant rights and remedial relief
+against the enhancement of governmental functioning
+resulting from the absolute as opposed to the qualified
+immunity. As a result of this balancing the Court has
+devised rules of absolute or qualified immunity for
+various classes of officials, as defined by function.18
+Our role in applying these rules, where the Court has
+devised them, is to make a proper characterization of the
+function being performed by the official in question.
+Our role, however, is not to engage in a particularistic
+rebalancing of all the relevant policies to determine
+whether absolute or qualified immunity is appropriate
+in this case. Our analysis instead is functional: was this
+action undertaken in the prosecutor's capacity as an
+officer of the court, or, put another way, a government
+advocate in a courtroom setting? If this prosecutor
+should be so characterized, then he is entitled to
+absolute immunity under Imbler v. Pachtman. In Imbler
+the Court itself balanced the competing policies and
+mandated absolute immunity for the prosecutor in his
+[569 F.2d 34] role, very broadly conceived, as courtroom
+advocate.
+A. Imbler v. Pachtman — Balancing of the Interests Held
+to Require Absolute Immunity for the Prosecutor.
+In order to make a more informed application of the
+Imbler rule, it may be helpful to set out the policies
+which underpin it. While our role, as noted, is not to
+make a de novo balancing of these policies in this case,
+an understanding and appreciation of the policies may
+contribute to a proper characterization of the
+prosecutor's protected role under Imbler. At the outset
+the Imbler Court recognized that § 1983, although it
+creates a cause of action for deprivation of constitutional
+rights, does not constitute a flat bar to immunity
+doctrine,19 and proceeded to consider the other factors,
+which, under its balancing approach, related to the
+choice of qualified or absolute immunity.
+Recognizing the prosecutor's absolute immunity at
+common law from actions for malicious prosecution,
+the Court found equally applicable to actions under §
+1983 the several rationales for this common law
+immunity.20 Most importantly these included the
+"concern that harassment by unfounded litigation would
+cause a deflection of the prosecutor's energies from his
+public duties, and the possibility that he would shade his
+decisions instead of exercising the independence of
+judgment required by his public trust."21 The Court
+noted that these twin hazards of diversion of energies
+and biasing of decision-making are, for several reasons,
+especially acute in the case of a prosecutor. Acting as he
+does under serious constraints of time and information,
+a prosecutor would "face greater difficulty in meeting
+the standards of qualified immunity than other
+executive or administrative officials."22 Further, the
+sheer number of decisions which a prosecutor must
+make that "could engender colorable claims of
+constitutional deprivation" means that a demonstration
+of good faith in every case "could impose unique and
+intolerable burdens . . . ."23
+The net harm of allowing only a qualified immunity in
+the performance of prosecutorial functions was not
+confined, therefore, to the "substantial danger of liability
+even to honest prosecutors,"24 or even to the
+expenditure of great time and effort in defending such
+suits. Most seriously, the denial of absolute immunity
+would adversely affect "the functioning of the criminal
+justice system as a whole." "[T]riers of fact . . . often
+would be denied relevant evidence" by the creation of a
+systematic bias in the prosecutor against incriminating
+evidence of sufficiently uncertain pedigree as to support
+a colorable cause of action.25 And post-conviction
+review procedures might well be biased in quite another
+way, against the convicted person, by "knowledge that a
+post-trial decision in favor of the accused might result in
+the prosecutor being called upon to respond in damages
+for his error or mistaken judgment."26
+As final support for its holding that prosecutors are
+absolutely immune "in initiating a prosecution and in
+presenting the State's case,"27 the Court noted that the
+unavailability of suit under § 1983 for this category of
+cases "does not leave the public powerless to deter
+misconduct or to punish that which occurs" — for "a
+prosecutor stands perhaps unique, among officials
+whose acts could deprive persons of constitutional
+rights, in his amenability to professional discipline by an
+association of his peers."28 As a deterrent of even greater
+weight, [569 F.2d 35] "[t]his Court has never suggested
+that the policy considerations which compel civil
+immunity for certain governmental officials also place
+them beyond the reach of the criminal law."29 Taking all
+these policies into account, the Court concluded, on
+balance, that for § 1983 damage suits, as at common law,
+a prosecutor's actions "intimately associated with the
+judicial phase of the criminal process" were entitled to
+absolute immunity.30
+B. Application of Immunity Doctrine to Goodwin.
+We thus come to the question of whether defendant
+Goodwin's sworn testimony, to the effect that none
+among the witness group represented by counsel was a
+Government informant, falls within the absolute
+prosecutorial immunity from damage actions established
+by the Supreme Court. As developed in the
+introduction, it would surely seem on its face that
+Goodwin's action during grand jury proceedings in
+answering a question from the judge in his capacity as
+lead prosecutor was action taken as an "officer of the
+court."31 This was action within his scope of duty which
+called for the exercise of discretion in its performance,
+precisely the type of "quasi-judicial" function within the
+absolute protection of Imbler.32
+[569 F.2d 36] In order to divest Goodwin of his
+protected prosecutorial function, the majority discusses
+at length numerous cases contrasting the prosecutor's
+advocacy role with his duties related to investigation
+and administration. By page ___ of 186 U.S.App.D.C., at
+p. 21 of 569 F.2d the majority is ready to state:
+. . . [W]e believe that appellant's false statement to the federal
+district court in Florida is properly characterized as an act of
+investigation rather than advocacy. . . . [A]ppellant's alleged perjury
+bears no relation whatever to the advocate's role as conceived by
+the Supreme Court in Imbler.33
+Indeed?
+This rather extraordinary characterization is not
+supported by the "investigatory" cases cited by the
+majority. This characterization, moreover, rests upon a
+clear misreading of how the Imbler rule should be
+applied and upon an overly narrow reading of its
+conception of advocacy. These points will be developed
+in order below. Finally, as I will explain in more detail in
+Part I, C, infra, the attempted division of the
+prosecutor's function with the grand jury into
+"investigative" and "advocacy" roles is legally inaccurate
+and practically unworkable.
+1. The characterization of Goodwin's action as
+"investigatory" is unprecedented and unjustified.34 As a
+matter of case law, including all the cases cited by the
+majority, courts have characterized as "investigatory"
+those actions outside the courtroom setting where the
+prosecutor is acting in a capacity akin to the police
+officer in his efforts, for example, to obtain a
+confession,35 or to make arrests,36 or to execute a search
+warrant.37 Indeed, the Imbler Court [569 F.2d 37] cited
+to the cases of policemen's functions, all involving
+activities apart from the courtroom, to show what it
+meant by "investigative" activity by prosecutors.38 The
+majority's view of this courtroom activity as
+"investigatory" under Imbler is thus absolutely novel
+under the case law.
+The majority's characterization, moreover, is not
+justified by the reasoning of the cases cited by Imbler. In
+Hampton v. City of Chicago, 39 for example, Judge (now
+Justice) Stevens recognized that since a police officer is
+entitled to only qualified immunity for his police
+actions, then a prosecutor performing the functions of a
+police officer should also be accorded only qualified
+immunity because "it seems neither appropriate nor
+justifiable that, for the same act, immunity should
+protect the one and not the other." This concern for
+symmetry of treatment appears as a critical policy for
+the majority as well: "Regardless of his official status, a
+prosecutor functioning primarily as an investigator
+should be accorded only the qualified immunity typically
+conferred on other investigative officers."40
+In the instant case, however, a fair application of
+symmetry calls for absolute immunity for the
+prosecutor's courtroom statement. Goodwin need not
+be given qualified immunity because a policeman, if a
+witness, would only get qualified immunity; on the
+contrary, in my view a policeman functioning as a
+witness in a manner similar to Goodwin would be
+entitled to absolute immunity. The majority has not
+cited — and cannot cite — any case in which an official,
+as a witness, has been denied absolute immunity from a
+civil damage suit. See Part II, infra. Indeed, if the
+majority were to afford a policeman, qua witness,
+absolute immunity but deny it to this prosecutor, giving
+a similar answer, then Goodwin would be denied
+absolute immunity solely because of his official status,
+surely an impermissible result. If a policeman should
+have absolute immunity here, functioning as a witness,
+so too should Goodwin, functioning as an officer of the
+court.
+Besides the concern for symmetry of treatment in the
+performance of similar tasks, the other basic rationale in
+the "investigatory" cases is that the prosecutor acting
+like a policeman outside the court should be afforded
+only qualified immunity because there is no other
+appropriate way for there to be "judicial surveillance" of
+this type of executive action. Apton v. Wilson.41 Put the
+other way, as Judge Leventhal did in Apton, the
+prosecutor acting within the confines of the court is
+entitled to absolute immunity as a "quasi-judicial officer"
+because "the circumstances typically provide alternative
+instruments of the judicial branch to check misconduct
+— the discretion of the grand jury, the procedures of a
+trial, and the potential sanction of discipline imposed by
+the court itself."42
+Judged by the reasoning of Apton, it should seem that
+Goodwin is clearly entitled to absolute immunity, as his
+allegedly false statement was made directly under the
+control of the trial judge, a classic instance of "judicial
+surveillance." The majority, however, seeks to
+distinguish the reasoning of Apton because, it says, the
+circumstances of this case did not in fact provide for
+careful scrutiny of Goodwin's action. See at ___ _ ___ of
+186 U.S.App.D.C., at 24-25 of 569 F.2d. To begin with,
+the language from Apton does not suggest in any way
+that absolute immunity for a "quasi-judicial officer"
+should turn on a particularistic inquiry into whether in
+fact there was a full and fair "judicial surveillance."43
+Instead, [569 F.2d 38] it is the opportunity and potential
+for "judicial surveillance" that justifies absolute
+immunity for prosecutorial activity in a courtroom
+setting. That the majority is misreading the nature of
+absolute "quasi-judicial" immunity will become apparent
+from a close comparison of its rationale with Imbler.
+2. Two of the reasons that the majority gives for why
+absolute immunity is not appropriate in this case are
+based upon a clear misreading of Imbler. The majority
+asserts, first of all, that there has yet been no apparent
+official inquiry into this alleged misbehavior, and,
+secondly, that the alleged perjury here was insulated
+from probing examination and jury appraisal. As I will
+show, these are not material factors under Imbler, even
+assuming their accuracy, as to whether this prosecutor
+was acting as an "officer of the court."
+Consider first the issue of whether there has been any
+professional or judicial inquiry into Goodwin's action.
+In striking the balance in favor of absolute immunity,
+the Imbler Court44 regarded as significant factors "[the]
+amenability [of a prosecutor] to professional discipline
+by an association of his peers" and the possibility as well
+of "criminal punishment of a prosecutor." The existence
+of these checks, the Court emphasized, thus "does not
+leave the public powerless to deter misconduct or to
+punish that which occurs."45 In this case the majority
+holds that because there has been no professional or
+judicial inquiry after all this time, it is appropriate to
+allow an inquiry now in this suit for damages. This
+outcome rests on a misunderstanding by the majority
+about the nature of the Supreme Court's analysis in
+Imbler. The Court was weighing the general policies
+behind absolute as opposed to qualified immunity in
+order to arrive at the functional rule of absolute
+immunity for the prosecutor in his role as advocate. By
+weighing in the balance the amenability of a prosecutor
+to alternative sanctions, the Court did not mean that the
+availability of absolute immunity from civil damage suits
+in each case should turn on a particularistic
+determination of whether the prosecutor's act in
+question had otherwise been the subject of a disciplinary
+inquiry. Indeed, the Imbler Court did, in fact, grant
+absolute immunity to the individual prosecutor, Mr.
+Richard Pachtman, without anywhere indicating
+whether he had been subject to disciplinary inquiry in
+the many years between the trial in 1961 and the Court's
+award of absolute immunity in 1976. Similarly, it is
+immaterial whether Goodwin's action has in fact been
+subject to disciplinary review. Rather, what the Imbler
+Court emphasized is that there had existed the
+possibility of alternative checks, citing to the relevant
+sections of the ABA Code of Professional Responsibility
+and the California Penal Code. So too here, there is no
+question that there has existed the potential for
+professional, criminal or judicial inquiry into his action,
+thus bringing him within the analysis of Imbler.46
+As a matter of immunity doctrine, moreover, there is
+real wisdom in not having the choice between
+immunities turn on a determination of whether this
+action in particular was subject to disciplinary review. A
+fair assessment of this factor may have to involve
+further proceedings and findings, a possibility which
+undercuts the purpose of absolute immunity, to provide
+protection at the outset from trial and liability. In this
+[569 F.2d 39] case, for example, it is not altogether clear
+that there was no apparent official inquiry into the
+seeming misstatement, as the majority asserts.47 At the
+criminal trial of appellees, the trial court held an
+evidentiary hearing before admitting the informant,
+Poe, as a witness. Based on evidence received at the
+hearing, and over the objections of appellees that their
+Fifth Amendment right to Due Process and their Sixth
+Amendment right to counsel had been violated, the trial
+court permitted Poe to testify. Was the court's ruling at
+all based upon its view that Goodwin's answer was not
+perjury or did not violate the Constitution? The record
+in the criminal case is not before us and so the question
+must go unanswered.
+Yet if the trial court did face there the issue of the
+alleged perjury — which is very plausible since the
+appellees here were the defendants there — then the
+majority may be unfairly and inaccurately assuming that
+there has been no official inquiry. For a more precise
+assessment of its assumption, the majority would have
+to have a remand on this issue, to allow for further
+proceedings, all this taking place, I repeat, even before
+the choice of immunities is made. And yet, without a
+remand — on whether there had been an official inquiry
+at the criminal trial into the alleged perjury — the
+majority may be denying Goodwin absolute immunity
+on the basis of an unfair and inaccurate assumption, as
+well as one that is immaterial.
+Furthermore, the majority overlooks the important
+possibility that the lack of any official inquiry may itself
+reflect some oversight by other parties. My thought is
+that the Department of Justice and the District Judge are
+well aware of the facts on the merits of this case,48 and
+that in their opinion the claim of plaintiff Briggs has no
+merit, hence no action has been taken. It is worth noting
+also that since the courtroom incident we have had two
+Presidents and several Attorneys General, of different
+political persuasions. How does the majority take into
+account the possible scrutiny by all these people, short of
+a formal "official inquiry," and their possible judgment
+that action against Goodwin was not warranted? If
+Goodwin is to be denied absolute immunity because
+nobody has reviewed his alleged misbehavior, then the
+majority must not totally overlook, as it does, the
+important possibility that the relevant parties have
+exercised some oversight and have decided against
+further inquiry.
+The short of it is that it is unwise to make absolute
+immunity turn on whether there was in fact alternative
+review of the incident in question. Such an inquiry, as
+demonstrated by this case, may raise evidentiary and
+other issues that must be resolved even before the
+choice of immunities can be made. The greater the
+number of issues that are injected into this choice,
+beyond the necessary issues of scope of duty and
+discretionary act, the more the protection of absolute
+immunity — the dismissal of a suit at the outset — is
+eroded. It was thus very appropriate for the Imbler
+Court not to consider whether that prosecutor had been
+called to answer for his alleged courtroom misdeeds. We
+should, and must, follow their example: it is immaterial
+whether there was ever an "official inquiry" into
+Goodwin's alleged perjury.
+The other argument of the majority is that because
+Goodwin's statement was "insulat[ed]" from appraisal
+by the jury and further inquiry by the appellees, it is
+inappropriate [569 F.2d 40] to accord absolute immunity
+in this case.49 Once again, this outcome rests upon a
+misreading of Imbler. As mentioned earlier,50 Justice
+White in a separate opinion argued that there should be
+only qualified immunity for the unconstitutional
+withholding of information from the court. When a
+prosecutor suppresses evidence, Justice White
+contended, it is, by definition, not subject to the scrutiny
+of the judicial process; thus, there is "no way to prevent
+or correct the constitutional violation."51 Note the
+similarity to the majority's view that absolute immunity
+is inappropriate here. For example, the majority points
+out that "appellees and their counsel were required to
+accept appellant's representation on faith."52 which
+meant, in Justice White's terms, that there was "no way
+to prevent or correct the constitutional violation."53
+The short answer to the majority's view that Goodwin's
+"insulat[ed]" answer loses absolute immunity is that the
+Imbler Court expressly rejected Justice White's separate
+view that the total suppression of evidence warranted
+only qualified immunity.54 Thus, under Imbler it is
+immaterial to the choice of immunities whether
+Goodwin's allegedly false statement during judicial
+proceedings was not adequately tested by crossexamination
+or by jury appraisal.
+Moreover, viewing this case in terms of the suppression
+of evidence, the Imbler Court's rejection of Justice
+White's separate approach may be said to settle and
+control this case. One of the policies justifying absolute
+prosecutorial immunity is that otherwise "the triers of
+fact in criminal cases often would be denied relevant
+evidence."55 By rejecting Justice White's view that an
+unconstitutional withholding should not warrant
+absolute immunity, the Imbler Court was essentially
+saying that in all the decisions about presenting evidence
+to the court the prosecutor would have absolute
+immunity. This would include decisions to present
+evidence of dubious reliability as well as decisions not to
+present particular evidence at all. In these terms, what
+Goodwin allegedly did, in essence, was decide not to
+present the court with the evidentiary fact that there
+was a government informant among the witnesses.
+Since this decision entailed an element of judgment
+(giving the framing of the question from the trial court),
+it is a decision about presenting evidence, in this case
+from himself as witness and counsel, that is basically the
+subject of this suit.
+Imbler afforded protection for the full range of decisions
+about presenting — or withholding — evidence. Once
+again, we should, and must, follow its guidance: it is
+immaterial whether Goodwin's decision, to withhold
+evidence, was shielded from cross-examination, or the
+other "corrective" aspects of the trial process.
+3. Central to the majority's conclusion denying absolute
+immunity to this prosecutor is its view that his "alleged
+perjury bears no relation whatever to the advocate's role
+as conceived by the Supreme Court in Imbler."56 As
+discussed above, this conclusion disregards whether his
+alleged perjury bears a relation to his role as an officer of
+the court (which he may be, even though not an
+"advocate" in the most narrow sense) under Imbler or to
+his role as witness, both of which roles are entitled, I
+submit, to absolute immunity. But even considering
+solely the advocacy role for the moment, the majority
+finds no relation to advocacy only by adopting a much
+more narrow view of the advocate's role than was [569
+F.2d 41] conceived and applied in Imbler. If the
+advocate's role as defined in Imbler and the
+circumstances of this case are properly understood,
+Goodwin's response to the question may fairly be seen
+as a necessary part of his advocate's role.
+The Imbler Court meant for the advocate's role to be
+read very broadly. Not only did Imbler go out of its way
+to say in dicta that the role extended to "actions
+preliminary to the initiation of a prosecution and
+actions apart from the courtroom,"57 but also in
+disposing of the case it found actions to be advocacy
+which, at first glance, appeared more to be investigation.
+Having already shown that the broad language of the
+dicta appears to bring his alleged perjury within the
+ambit of Imbler, 58 let us focus here on how the
+treatment of the precise facts of Imbler also establishes
+that the action of Goodwin comes within the broad
+definition of advocacy.
+The starting point for the relevant analysis is footnote
+32 of Imbler, which discusses seemingly "investigative"
+activity. Because of the importance of the footnote to
+following the analysis, it is reproduced in full below in
+the text. (Costello, a central character in the footnote,
+was the primary identification witness at the trial of
+Imbler).59
+Both in his complaint in District Court and in his argument to us,
+petitioner characterizes some of respondent's actions as "policerelated"
+or investigative. Specifically, he points to a request by
+respondent of the police during a courtroom recess that they hold
+off questioning Costello about a pending bad-check charge until
+after Costello had completed his testimony. Petitioner asserts that
+this request was an investigative activity because it was a direction
+to police officers engaged in the investigation of crime. Seen in its
+proper light, however, respondent's request of the officers was an
+effort to control the presentation of his witness' testimony, a task
+fairly within his function as an advocate.
+The action at issue in the above footnote was the
+prosecutor's request of the police that at that time they
+not question Costello, the prosecution's witness, about a
+pending criminal charge. Ordinarily, requests and
+directions about police interrogation would be
+considered acts of investigation. However, the
+prosecutor's request was deemed an act of advocacy in
+Imbler because his concern about the interrogation was
+that it might impair the remainder of Costello's
+testimony. Following police interrogation, Costello
+might be nervous, and a less effective witness. Or after
+such interrogation, he might become less cooperative as
+a government witness or even refuse to cooperate at all.
+Applying this reasoning to the instant case, it also
+appears that the act of claimed perjury should be taken
+as advocacy. Given that the object of the asserted perjury
+was to avoid disclosing the existence or identity of the
+government agent, that meant, since the concealment
+was accomplished, that the agent was able to appear at
+trial as a witness — and did appear — without his
+existence or identity known to the defendants
+beforehand. As a result, the presentation of the witness's
+testimony was very likely more effective, much as
+Costello's testimony was possibly made more effective
+due to the postponement of police interrogation. Seen
+in this light, Goodwin's act of alleged perjury can be
+taken as an effort to preserve the more effective use of a
+witness at trial.60 As in Imbler, Goodwin's [569 F.2d 42]
+act was even more clearly not removed from the judicial
+process, being in court, relating to a grand jury
+proceeding, and should be considered as relating to the
+other advocacy duties of his grand jury function.
+C. The Majority's Extraordinary Misconception of
+theProsecutor's Role With the Grand Jury
+After its discussion of cases making the distinction
+between the advocacy role of the prosecutor and his
+sometime "investigative" or "administrative" duties, the
+majority opinion then develops the argument that
+Goodwin's performance of his duties as a prosecutor
+with the grand jury was in this case, although not
+necessarily in other instances of his work with the grand
+jury, properly characterized as "investigative" in nature
+rather than being connected with his role as an
+advocate. I respectfully suggest that the entire
+development of this argument in the majority opinion is
+founded on a total misapprehension of the relationship
+of the prosecutor to the grand jury and a misconception
+of the grand jury's role itself. The distinctions attempted
+to be drawn are demonstrably legally incorrect and, to
+anyone who has ever worked with a grand jury, totally
+impossible to apply as a matter of practicality.
+Since the exposition of the underlying rationale of the
+majority on this point is spread over several pages, I
+shall quote certain excerpts so that the majority
+rationale will be unmistakably clear. "We are aware that
+earlier cases in which prosecutorial behavior has been
+termed investigative have involved factual situations
+distinct from that currently before us. (P. ___ of 186
+U.S.App.D.C., p. 23 of 569 F.2d) . . . [W]e think that, in
+a real sense, this litigation concerns behavior more
+plainly investigative than that encountered in some of
+the earlier cases cited above. (P. ___ of 186
+U.S.App.D.C., at p. 23 of 569 F.2d) . . . The grand jury
+[in Goodwin's case] was to function in the first instance
+as an investigative tool, rather than in its more familiar
+guise as a deliberative body deciding whether to return
+indictments for specific crimes on the basis of evidence
+gathered and presented by a public prosecutor. (P. ___ of
+186 U.S.App.D.C., p. 24 of 569 F.2d) . . . The ongoing
+character of the grand jury process in this case helps to
+convince us that appellant had embarked on what was
+fundamentally a factfinding mission, and that his false
+statement to the court, if such it was, was intended to
+improve the prospects for that endeavor's success." (Pp.
+___ _ ___ of 186 U.S.App.D.C., p. 24 of 569 F.2d)
+(emphasis supplied).
+The majority thus tries to divide grand jury functions
+into "investigative" and "deliberative." There is that
+distinction, but the way the majority defines and
+separates it, it is completely erroneous and misleading
+here. Let me see if I can dispel the confusion:
+1. The grand jury does not have a "more familiar guise
+as a deliberate body" and another role as "an
+investigative tool." The grand jury ALWAYS has both
+roles of hearing evidence (investigating) and then
+deciding whether to return an indictment (deliberating).
+2. The prosecutor's only role with the grand jury is
+during the time that it is hearing evidence, i. e.,
+investigating. His usual duty at that time is to
+interrogate witnesses, much as he does in the
+courtroom.
+3. The prosecutor never has a role with the grand jury
+while it is functioning as a "deliberative body." By law he
+is excluded, as is everyone else, from the grand jury
+during this time. Federal Rules of Criminal Procedure
+6(d). His presence or assistance to the grand jury during
+the time it was functioning, in the words of my
+colleagues, "in its more familiar guise as a deliberative
+body," would be grounds for quashing an indictment.
+[569 F.2d 43] 4. The majority deprives the prosecutor
+here of his absolute immunity because he was
+performing duties with the grand jury which was then
+functioning "in the first instance as an investigative
+tool," but they do not seem to realize that this is the only
+role for the prosecutor with the grand jury. The
+majority never presumes to exclude the prosecutor at all
+times from his absolute immunity when he is working
+with the grand jury. The opinion tacitly assumes that
+the prosecutor, when working with the grand jury in
+what the majority considers his normal prosecutorial
+functions, is clothed with his usual absolute immunity as
+a prosecutor, because they recognize a good part of the
+prosecutor's duties is in assisting the grand jury, an arm
+of the court. Certainly in performing this function the
+prosecutor would, in the language of Imbler, be
+functioning "as an officer of the court" whose "activities
+were intimately associated with the judicial phase of the
+criminal process." The majority itself states, "The cases
+collected by appellant hold unanimously that a
+prosecutor is entitled to absolute immunity for his
+quasi-judicial activities. After Imbler, this joint is
+incontestable." (P. ___ of 186 U.S.App.D.C., at 22 of 569
+F.2d.)
+5. What the majority is trying to do here is to make a
+distinction between those cases brought before the
+grand jury which require very little evidence, or very
+little original evidence before the grand jury, as the basis
+of an indictment, and those cases which require a great
+deal of evidence, some of which may be heard by the
+prosecutor for the first time. The majority seems to
+think that, simply because the matters which were to be
+heard by this particular grand jury in Florida were
+estimated to require considerable time and perhaps to
+consist of evidence not hitherto heard by the prosecutor
+or anyone else, somehow the prosecutor was no longer
+functioning in his same role. Necessarily, the majority
+also tries to redraw the line between the grand jury's
+roles of hearing evidence (investigation) and
+deliberation (discussing and voting on indictments). The
+majority does this by apparently classifying simple cases
+with short routine presentations of evidence as being "in
+[the grand jury's] more familiar guise as a deliberative
+body deciding whether to return indictments for specific
+crimes on the basis of evidence gathered and presented
+by a public prosecutor." (P. ___ of 186 U.S.App.D.C., p.
+24 of 569 F.2d)
+6. The attempted split of the prosecutor's role,
+depending on how much or how little evidence, and
+whether he has heard it before or not, is totally
+erroneous and confusing. The attempted split of the
+grand jury's role, between on the one hand complicated
+cases in which it assists in ferreting out the true facts of
+the case as well as hearing evidence of which the
+prosecutor was already aware, and on the other hand
+cases in which the grand jury functions as a deliberative
+body, which according to the majority now includes
+both hearing evidence "gathered and presented by a
+public prosecutor" and its secret deliberations on
+evidence in any type of case, is likewise totally erroneous
+and confusing. The grand jury is never in a "familiar
+guise as a deliberative body" when it is hearing any
+evidence — no matter how routine the presentation.
+Nor is the prosecutor ever assisting the grand jury in its
+"familiar guise as a deliberative body" — such action, as
+the majority describes it, would invalidate every
+indictment.
+7. Aside from its misconception of the functions of the
+grand jury, and its attempt to redraw the line between
+those functions, now clearly drawn by law, the
+majority's idea of dividing the functions of the
+prosecutor with the grand jury into two separate parts,
+one apparently his role in a routine case and the other in
+a more elaborate case requiring original work with the
+grand jury, is utterly impractical. There is no possible
+line of distinction to be drawn between different types
+of cases as the majority apparently thinks there is.
+Cases before a grand jury run the gamut from a simple
+narcotics possession case, which may require only the
+testimony of the arresting officer, elicited by questions
+from the prosecutor, after which an indictment [569
+F.2d 44] is speedily voted while the prosecutor is getting
+a glass of water at the nearby water cooler, to a very
+complicated income tax fraud or mail fraud case in
+which reluctant or fearful witnesses may have declined
+to talk to federal investigative agents, but do testify
+before the grand jury under the questioning of the
+prosecutor — cases that may require weeks and weeks of
+testimony before the grand jury.
+In between are every shade and variation of case in
+which the advocacy skill of the prosecutor is called upon
+to assist the grand jury. There is the simple fraud case, in
+which the witnesses before the grand jury may be only
+one investigator and three victims defrauded, after
+whose testimony the prosecutor may inform the jury
+that ten other fraud victims are available to testify if the
+jury wishes to hear them, but what they will say has
+been summarized by the investigator. Then there is the
+same type case in which one or two witnesses may be
+reluctant to testify for fear of incriminating themselves.
+This necessitates not only the presentation of the
+investigators' and the victims' evidence, but perhaps a
+trip before the district judge to secure a grant of
+immunity for the witness, and his second appearance
+before the grand jury, at which time he responds to the
+prosecutor's questioning and testifies. Then there are
+situations in which, although a complete investigation
+has been done by the regular federal investigative
+agents, at the last minute before the presentation of
+evidence to the grand jury the prosecutor learns of an
+additional witness who could throw light on the case,
+and he promptly puts this witness before the grand jury
+without any preliminary questioning by anyone
+whatsoever.
+The examples of different shades of the prosecutor's
+questioning, of different degrees of the prosecutor's
+assistance to the grand jury, of differing combinations of
+the routine and the bizarre in the presentation of
+testimony before the grand jury by the prosecutor, could
+be multiplied without end. There is absolutely no line
+which can be drawn to separate the prosecutor's role in
+the more routine case lasting a few minutes from that in
+which original testimony is heard by the grand jury over
+a period of weeks, for there is every variation and
+combination in between. In every case the prosecutor is
+assisting the grand jury in hearing evidence, the
+investigative phase of the grand jury's work. The degree
+of his assistance is of incalculable variety and
+description, but in no case — in no case — does the
+prosecutor assist the grand jury "in its more familiar
+guise as a deliberative body."
+8. The majority throughout stresses the advocacy
+function of the prosecutor as that which is entitled to
+absolute immunity. For example, "[T]he Court . . .
+reaffirmed its fundamental reliance on the advocate's
+role as the source of the absolute prosecutorial
+immunity applied in Imbler." (P. ___ of 186
+U.S.App.D.C., p. 19 of 569 F.2d) Ironically, for the
+validity of the majority's logic, it is precisely in the long,
+complicated grand jury case, on which the majority here
+rests its denial of absolute immunity to the prosecutor,
+that the prosecutor functions most as an advocate, most
+similar to his role in court. In the utterly routine case,
+such as the simple narcotics possession mentioned
+above, the prosecutor may introduce the arresting
+officer to the grand jury and only ask him one question,
+"Officer, just tell the grand jury in your own words what
+happened." And the officer does so without the necessity
+of any further interrogation by the prosecutor.
+In direct contrast, if the grand jury is engaged in a long
+and protracted inquiry, in dealing with witnesses who
+have not been previously examined by investigators, or
+dealing with witnesses who are recalcitrant, the skills of
+the advocate in cross-examination, knowledge of what is
+relevant and irrelevant, his sense of when a witness is
+concealing something or fabricating — all of these skills
+of an advocate come into play for the prosecutor in
+assisting the grand jury, the arm of the court. Strangely,
+because Goodwin was engaged in assisting the grand
+jury in such an inquiry, the majority wishes to term his
+actions "investigative," and deny him his status as an
+"advocate" entitled to absolute immunity, which the
+majority would grant him if he were [569 F.2d 45]
+presenting to the grand jury a one gram narcotics
+possession case!
+Surely, the prosecutor is functioning as an officer of the
+court and in direct relation to the judicial phase of the
+criminal process in any case in which he works with the
+grand jury — irrespective of complexity, length of time,
+number of witnesses, or whether the witnesses have
+been interviewed before. Yet, most ironically, it is
+precisely in the type case in which the prosecutor
+utilizes his talents of advocacy, the type case the majority
+says the grand jury and Goodwin had here, in which the
+majority would deny the prosecutor absolute immunity.
+9. It is apparent that only if the majority wants to deny
+all prosecutors absolute immunity for all their work
+with the grand jury could the majority's position be
+logically coherent. And this bold stroke the majority has
+not essayed.
+The true distinction between the prosecutor acting as an
+officer of the court and his acting in an investigative role
+is one which the majority opinion does not describe, but
+which is inherent in the Supreme Court's opinions in
+Imbler and in other cases. When the prosecutor
+examines a witness before the grand jury, whether he
+asks one question or five hundred, he is functioning as
+an officer of the court and his activities are intimately
+associated with the judicial phase of the criminal
+process. I submit this is undeniable. When the
+prosecutor goes out to the residence of a potential
+witness and interrogates him there, then he is
+functioning in what the majority ought properly to
+describe as the role of an investigator. On the point
+reserved in Imbler and on the issue decided in a few
+cases, then and then only the prosecutor may not have
+the absolute immunity which clothes his every action as
+part of the judicial process. When he is interrogating a
+possible witness outside the courtroom or the grand jury
+room, then he may be filling the role of a policeman or
+investigative agent and be clothed with whatever
+immunity they possess. This we do not need to decide
+here, any more than the Supreme Court decided the
+issue in Imbler.
+D. The Prosecutor Divested
+The rationale of the majority opinion throughout has
+been, first, to designate the grand jury work on the day
+the incident occurred in the courtroom as being
+"investigative" in character and not "deliberative";
+secondly, to associate Goodwin with the grand jury
+acting in its non-deliberative role (assuming that the
+prosecutor could be associated with the grand jury in its
+deliberative role!); and then, finally, saying that his
+response to one question from the judge in the
+courtroom was in connection with his work with the
+grand jury, and this grand jury's task was "investigative,"
+to deny the prosecutor his absolute immunity.
+Four quick points highlight the total lack of precedent
+for my colleagues' decision today:
+1. No case cited in the 37-page majority opinion ever held that any
+prosecutor's action in the courtroom was "investigation" or
+"administration," or was entitled to anything less than absolute
+immunity.
+2. The "proper line" drawn in Imbler was between the prosecutor's
+responsibilities "as an administrator" and those "as an officer of the
+court," and every action of a prosecutor described by the Supreme
+Court as "administrator or investigative officer" was outside the
+courtroom and courthouse.
+3. The Supreme Court has never held that "those aspects of the
+prosecutor's responsibility that cast him in the role of an
+administrator or investigative officer rather than that of advocate"61
+are entitled to less than absolute immunity, and the issue was
+specifically not decided in Imbler.
+4. No case cited in the 37-page majority opinion confers anything
+less than absolute immunity on any person for his statements from
+the witness stand.
+[569 F.2d 46] Summing up Goodwin's role as a
+prosecutor in the incident made the basis of plaintiffs'
+suit for perjury: only because Goodwin was lead counsel
+for the Government in court was he singled out as the
+person to be asked the question; there was only one
+question and one answer, made from the witness stand
+rather than from the counsel table; at the time Goodwin
+was in the courtroom, before a U.S. district judge, in his
+prosecutorial advocate's role as an officer of the court in
+a hearing connected with a proceeding before the grand
+jury, an arm of the court. How Goodwin's role can be
+considered anything but that "as an officer of the court"
+or his actions be deemed not "intimately associated with
+the judicial phase of the criminal process, and thus . .
+functions to which the reasons for absolute immunity
+apply with full force,"62 is beyond my ready
+comprehension. But my colleagues assert that for one
+critical moment Goodwin was transformed in his
+appearance as a witness into something else, that since
+the one question had to do with a grand jury
+"investigation," he was thereby taken out of the
+"advocacy" rule of Imbler. Whether that be true or not,
+yet it seems undeniable that in answering a question
+under oath Goodwin was also functioning as a witness,
+another source of absolute immunity to which we now
+must turn.
+II. WITNESS IMMUNITY
+A. The Prosecutor-Witness Transformed
+The way that the majority divests Goodwin of his
+absolute immunity as courtroom advocate is by casting
+him as a courtroom investigator, entitled only to the
+qualified immunity of the policeman. Let us focus again
+on the critical passage of the majority opinion:
+. . . [W]e believe that appellant's false statement to the federal
+district court in Florida is properly characterized as an act of
+investigation rather than advocacy. . . . [A]ppellant's alleged perjury
+bears no relation whatever to the advocate's role as conceived by
+the Supreme Court in Imbler63
+If Goodwin departed from his role as an Advocate (and I
+agree, it is what he is doing not his title as prosecutor
+which confers immunity), he did so only to become a
+Witness, and a witness in court likewise has absolute
+immunity from civil suit. The very suit for damages
+brought here alleges perjury by Goodwin; perjury is an
+action peculiarly tied to witnesses; the perjury here is
+alleged to have occurred in court; perjury has nothing to
+do with "investigative" or "administrative" activities,
+which are contemplated by all the cases to occur outside
+the courtroom. The majority opinion itself grudgingly
+admits, "Although he was called upon by the court to
+make a representation of fact in a courtroom after being
+sworn . . . ."64
+Continuing with my colleagues' own language, they
+speak of "appellant's false statement" and "appellant's
+alleged perjury." When they assert such action "bears no
+relation whatever to the advocate's role," they have
+some reason for the distinction; but perjury certainly
+bears every relation to the witness's role!
+My colleagues are the victims of their stage props. For
+almost 20 pages they have been setting the stage with
+language from various cases distinguishing between the
+prosecutor's role as advocate and his other duties, cases
+which hold or suggest that the [569 F.2d 47] other duties
+are not necessarily protected by the prosecutor's
+admitted absolute immunity as an advocate. The
+problem of my colleagues is that these other duties are
+all described as "investigative," "administrative," and of
+similar nature. There is not one word cited that would
+exclude anything done by the prosecutor in assistance in
+the judicial process in court from the protection of
+absolute immunity. There is, of course, not one word
+about the prosecutor stepping into the role of witness —
+another universally held position accorded absolute
+immunity from civil liability. So, in an effort to take
+Goodwin's action outside this protection, when the
+majority comes to its conclusion, it is necessarily
+expressed in the magic language of the cases — a "false
+statement" becomes "an act of investigation rather than
+advocacy."
+The obligation to disclose, as a sworn witness,
+information about informants may, in a narrow sense,
+be "foreign to advocacy," as the majority suggests,65 but
+the actions of a witness do not, therefore, automatically
+become "investigative," stripped of absolute immunity.
+For to the extent Goodwin departed the prosecutor's
+role at all, it was to become a witness. But whether
+Goodwin be considered primarily a witness or a
+prosecutor, how a person performing the role of
+prosecutor could detach himself from the absolute
+immunity which that function historically has always
+enjoyed by the temporary assumption of the role of a
+witness, when that function in the court's process has
+likewise always historically enjoyed an absolute
+immunity, was beyond my imagination until after
+reading the majority opinion. Looking at three centuries
+of decisions granting absolute immunity to both
+prosecutor and witness, I would have thought that the
+immunity of the prosecutor was reinforced by the
+immunity of the witness, not derogated.
+The majority, however, manages to divest Goodwin of
+both immunities. Prosecutorial immunity is lost because
+Goodwin is characterized, without support from case
+law, as an "investigator" — although any casual
+bystander (and perhaps even the trial judge) in that
+courtroom would have sworn that he had seen a lawyer
+at work, indeed, a prosecutor functioning as an
+advocate, and, yes, he had also seen and heard that
+prosecutor testify briefly. And witness immunity is lost
+because the majority holds here that absolute witness
+immunity should never be available in a § 1983 or
+Bivens-type suit. The consequences of this
+extraordinary step, a rule of qualified immunity for
+witnesses adopted for the first time, which clashes
+directly with the one other precedent from a circuit,66
+deserves careful attention before proceeding further.
+B. Extraordinary (and Apparently Unforeseen)
+Consequences of a Qualified Immunity Rule for
+Witnesses
+The first implication is that any and all state and local
+officials who testify "under color of law" will have no
+absolute immunity in their capacity as witnesses in suits
+for damages to constitutional rights under § 1983. For
+the majority expressly states, "The immunities enjoyed
+by state officials sued under § 1983 are governed by
+federal law."67 Since, in this Bivens-type case, the
+majority holds that witness immunity is never available
+for a federal official as a matter of federal law, it follows
+that state and local officials, who must look to federal
+law in § 1983 suits, will also be unable in any
+circumstance to avail themselves of absolute witness
+immunity. Neither my colleagues nor I can calculate the
+practical impact of the majority's rule, but there are
+undoubtedly countless federal, state and local officials
+who regularly testify in judicial proceedings who are
+now stripped of any possible defense of absolute
+immunity [569 F.2d 48] in their capacity as witnesses.
+What the majority leaves for each official is whatever
+underlying immunity he may have in his original
+capacity, which, of course, may vary from witness to
+witness and may vary even within the testimony of a
+single witness.68
+Another implication of the majority's rejection of
+absolute witness immunity is that an official who
+testifies now stands subject to the full range of damage
+suits for deprivation of constitutional rights. In this case
+Goodwin is charged with injury to the Sixth
+Amendment right to counsel due to his alleged perjury.
+The majority sets no limits on the "constitutional torts"
+that a witness may be held liable for, now that the
+absolute immunity qua witness is taken away. Causes of
+action against a witness for what he said on the stand
+come readily to mind. As exemplified in the notes
+below, violations of the Fourth, Fifth and Sixth
+Amendments, actionable for damages, may well stem
+from perjury,69 and violations of the First and
+Fourteenth Amendments, also actionable for damages,
+may even arise from true statements.70
+Once again, neither my colleagues nor I can envision the
+full practical impact of bringing an increased scope of
+liability to the witness stand, but the majority's new rule
+surely bears implications, only partially [569 F.2d 49]
+suggested here, that summon the majority to a much
+fuller consideration of the witness immunity. Before
+turning completely to the issue, I note with regret that
+the majority totally abstains from any consideration of
+the policies behind witness immunity, only noting that
+they "do not apply with equal force" when a
+constitutional violation is alleged.71
+C. Absolute Immunity for Witnesses — Supreme Court
+Precedent, Logic, Policy, and History
+In considering whether a witness should be accorded
+absolute immunity in a Bivens-type suit or any other, it
+must be emphasized that historically all of the essential
+participants in the judicial process enjoyed an absolute
+immunity from civil suit for their words and actions
+relevant to the judicial proceedings. This included the
+judge, petit jurors, grand jurors, counsel, and witnesses.
+Absolute immunity was regarded as essential to each, if
+justice was to have the full and uninhibited cooperation
+of those participants whose role was and is absolutely
+vital to the working of the entire judicial process. As
+Justice White declared in Imbler, 72 "It is essential to the
+ends of justice that all persons participating in judicial
+proceedings . . . should enjoy freedom of speech in the
+discharge of their public duties or in pursuing their
+rights, without fear of consequences."
+This is not to say that improper conduct in the
+courtroom or elsewhere by any participant could not
+then and cannot today be punished. The judge has
+always been subject to impeachment, prosecution, and
+disbarment as a lawyer. The prosecutor and defense
+counsel have always been subject to punishment for
+contempt, prosecution for any crime such as obstruction
+of justice, and disbarment.73 Witnesses have always
+been subject to punishment for contempt, perjury, or
+possibly obstruction of justice. Criminal penalties
+likewise have been applied to petit jurors and grand
+jurors. No immunity protects these persons from
+criminal prosecution or professional discipline, if
+anyone should act contrary to law in the performance of
+his office.
+But none of these participants, essential to the
+functioning of the judicial process, has ever been held to
+be subject to a civil suit by an allegedly aggrieved party
+because of anything said or done while functioning in
+the role of judge, juror, witness, or counsel.
+The reasons for the historic common law absolute
+immunity of these essential participants is obvious on
+analysis, which will be developed in the following pages.
+What the majority of this court does in this decision is
+not just throw open one possibly errant prosecutor to
+civil liability, but to tear the whole seamless fabric of
+absolute immunity granted essential participants in the
+judicial process from time immemorial.
+If we were to accept the majority's rationale here, the
+impact of the Bivens case and § 1983 on historic
+common law immunities would be devastating.
+Fortunately, that is not the way the Supreme Court has
+gone about its analysis. I can only deduce from it that
+the witness, particularly a public official as witness,
+should be accorded the same absolute immunity as the
+other participants.
+It is well established that "§ 1983 is to be read in
+harmony with general principles of tort immunities
+rather than in derogation of them."74 Thus, in deciding
+which official [569 F.2d 50] functions should be
+absolutely protected from suit under § 1983, the Court
+has generally sought first to determine the status of the
+common law immunity with regard to that function,
+then the Court has considered whether the public policy
+behind the common law rule justifies the same
+immunity for "constitutional torts." In a number of
+instances, the Court has adopted the absolute immunity
+that had developed at common law: Tenney v.
+Brandhove75 (legislators); Pierson v. Ray76 (judges);
+Imbler v. Pachtman, supra (prosecutors). Even though
+these immunities had initially arisen only with regard to
+common law torts, the Court preserved them with
+regard to deprivations of constitutional rights as well.
+Where the common law had established a qualified
+immunity for the official, the Court has maintained that
+standard in the § 1983 actions as well: Pierson v. Ray,
+supra (policemen); Wood v. Strickland77 (school board
+members). As in the cases of absolute immunity, the
+court entered into a fresh appraisal of the competing
+factors, including, as just mentioned, the nature of the
+new "constitutional tort." The fact that the results
+reached by the Court have generally78 paralleled the
+judgments of the common law does not mean, of course,
+that the status of the common law immunity is
+dispositive, but surely does suggest that the common
+law, as a starting point of analysis, should not be
+"overruled" lightly.
+The absolute immunity of the witness at common law is
+as firmly rooted in history and as widely accepted by the
+courts as is the absolute common law immunity that was
+accepted for legislators in Tenney, for judges in Pierson,
+and for prosecutors in Imbler. Immunities for various
+participants in the judicial process were already
+established by courts as early as the sixteenth century,79
+and in 1772 Lord Mansfield announced the
+comprehensive rule: "Neither party, witness, counsel,
+jury nor [569 F.2d 51] judge can be put to answer, civilly
+or criminally for words spoken in office."80 Accepted as
+"practically [the] universal rule in this country,"81 this
+rule of absolute immunity means that a witness in
+judicial proceedings cannot be held liable in civil
+damages for injury that ensues from any relevant
+testimony. Of particular significance is that this rule is
+also applied as a matter of federal common law,82 which,
+the majority tells us,83 is an important focus for the
+formulation of a federal immunity standard. Absolute
+witness immunity has been carried into the Restatement
+of Torts84 and has been set out approvingly by the
+commentators as well.85 It is notable that in Imbler itself
+Justice White wrote that the need to protect the judicial
+process at common law meant that absolute immunity
+"applied to suits against witnesses themselves for
+delivering false and defamatory testimony."86
+Do the policies that underlie the common law immunity
+for a witness warrant the continued availability of
+absolute immunity in § 1983 or Bivens-type suits? The
+policy behind the common law reflects a balancing
+process. In the context of a defamation suit,87 Judge
+Hastie expressed the rationale for absolute witness
+immunity as follows:88
+This rule reflects the prevailing common law view that the public
+interest in freedom of expression by participants in judicial
+proceedings, uninhibited by any risk of resultant suits for
+defamation, outweighs the interest of the individual in the
+protection of his reputation from defamatory impairment in the
+judicial forum.
+The reason for the public interest in the "freedom of
+expression" of a witness is that the judgment of the
+judicial process itself, the centerpiece of all judicial
+immunities, may well be based on the testimony of the
+witness and the witness, thus, should be fully
+encouraged to disclose pertinent information. "For a
+witness," Justice White states, "this means he must be
+permitted to testify without fear of being sued if his [569
+F.2d 52] testimony is disbelieved."89 Full disclosure may
+be impaired, in other words, if there can be
+"intimidation" deriving from "the possibility of civil
+liability."90
+Set against the value of full freedom for the witness is, as
+Judge Hastie noted, the possible damage, e. g., to the
+reputation of others, that may ensue. This danger has its
+limits, however, because witnesses are, of course,
+"subject to the control of the trial judge and are subject
+to contempt citations for misbehavior in the exercise of
+the privilege and to prosecution for perjury if convicted
+of knowingly giving false testimony."91 Thus, with a
+deterrent already available against perjury by a witness
+in the form of criminal sanctions, the common law
+regarded the additional deterrent of having to defend a
+civil damage suit as rendering "the risk of selfcensorship
+. . too great."92
+In striking the balance in favor of absolute immunity,
+the common law meant in no way to derogate the duty
+of the witness to state the facts objectively. Of course,
+the witness has no discretion to commit perjury, but, to
+borrow from Learned Hand, it might be "impossible to
+know whether the claim [of perjury] is well founded
+until the case has been tried."93 Such a possibility, Judge
+Hand concluded (in the context of prosecutorial
+immunity), could "dampen the ardor"94 of even the
+person intending to perform truthfully and properly.
+The witness immunity at common law is apparently so
+thorough that it makes no exception for an action where
+the perjury seems, on the face of the complaint, to admit
+of no ambiguity, such as when a husband of twenty five
+years testifies, for example, that he has never been
+married. Even though it might be "monstrous to deny
+recovery"95 in that case, the common law is so unwilling
+to expose the honest witness to any civil risk that it
+would not allow even that case to go to trial.
+The policies underlying common law immunity for a
+witness justify the availability of absolute immunity for a
+witness sued in a § 1983 or Bivens-type action. As
+noted, the common law regarded absolute immunity for
+the witness as essential to the protection of the integrity
+of the judicial process. Similarly, each time the Supreme
+Court in a § 1983 suit has considered the immunities
+related to the judicial process, the Court has continued
+the absolute immunity of the common law—for judges
+in Pierson and for prosecutors in Imbler. Indeed, the
+Imbler Court strongly suggested, both in the majority
+and separate opinions, that it would readily extend the
+full immunity to grand jurors96 and defense counsel.97
+The Court's continued extension of absolute immunity
+to all the participants in the judicial process, which
+undeniably includes witnesses, represents a thorough
+acceptance of the common law policy that the provision
+of only qualified immunity might inhibit the full
+disclosure of relevant evidence and impair the judgment
+of the court. In each instance the common law policy
+has been assessed as a "compelling" enough justification
+for the absolute immunity also to be available for
+constitutional torts.
+The majority gives no reason at all, and none appears to
+me, why a witness should be singled out for less than the
+full protection afforded all the other participants.98 [569
+F.2d 53] As for other participants, the possibility of civil
+liability for the witness undoubtedly can be said to
+provide some "chill" to the full expression of his
+testimony. Where "the triers of fact in criminal cases
+often would be denied relevant evidence,"99 as a
+consequence of the provision of only qualified
+immunity, the judgment of the court can plainly be said
+to be impaired. The possibility of this "adverse effect
+upon the functioning of the criminal justice system"100
+has warranted absolute immunity for other participants
+in the judicial process and warrants absolute immunity
+for the witness too.
+The witness should not be singled out for less protection
+than the other participants in the judicial process
+because, like those participants, he is also subject to
+other checks on the abuse of his power. Testimony may
+be excluded from court or tested under crossexamination
+and through jury scrutiny. The witness
+himself is subject to the supervision and discipline of the
+court and may even be indicted and convicted of [569
+F.2d 54] perjury. Following the reasoning of the Imbler
+Court about prosecutorial immunity,101 it is fair to say
+that the existence of those other checks undermines the
+argument that the imposition of civil liability is the only
+way to prevent a witness from inflicting constitutional
+injury through false testimony.
+It is noteworthy that the only other court to consider
+the liability of a witness in a Bivens-type suit had no
+hesitation in awarding absolute immunity—Brawer v.
+Horowitz.102 Noting the need for "fearless" witnesses
+and the means, other than damage suits, for deterring
+perjury, Judge Aldisert, writing for a unanimous panel
+of the Third Circuit, concluded:103
+The policy arguments supporting common-law witness immunity
+obtain equally to immunize a single witness from a Bivens-type
+action.
+This is the holding, and it is good precedent here,
+despite the majority's unwillingness to accept it.104 The
+majority's notation that the merits of Brawer were
+reached only by assuming arguendo that the witness was
+acting under color of law is beside the point, as Brawer's
+assumption of state action does not invalidate its
+documentation and reasoning.105
+In addition to the common law policies discussed above
+and followed in Brawer, there are reasons why the
+absolute immunity should especially be preserved for
+the official as witness. Officials who are called as
+witnesses have duties in addition to the duty to tell the
+truth in their testimony. To the extent these additional
+duties are impaired by qualified immunity, that is all the
+more reason to assure them the full immunities afforded
+private citizens who have only their duties as witnesses.
+Let us take the office of the prosecutor, for example.
+Suppose as a witness a prosecutor responds to the judge
+with very definitive but honest answers, but later
+uncovers evidence that puts into serious doubt the
+accuracy of his testimony. If he were only afforded
+qualified immunity, then this warning from Imbler
+becomes very appropriate: "The possibility of personal
+liability . . . could dampen the prosecutor's exercise of
+his duty to bring to the attention of the court or of
+proper officials all significant evidence suggestive of
+innocence or mitigation."106
+Other officials are subject to similar duties. An FBI
+agent, for example, is supposed to reveal to the
+prosecutor mitigating evidence he unearths. Will the
+FBI agent be chilled in the exercise of this duty because
+he testified, albeit honestly, to the contrary, and fears a
+lawsuit for perjury as a witness, defensible only with a
+qualified immunity? Considerations such as these, left
+unaddressed by the majority, further tipped the balance
+towards absolute immunity in Imbler and, as shown,
+counsel us to provide absolute immunity to officials in
+their capacity as witnesses.
+In sum, the rejection in toto by the majority of an
+absolute immunity for a witness in a Bivens-type suit
+amounts to a tearing of the whole seamless fabric of
+absolute immunity granted the other participants in the
+judicial process—judges, prosecutors, defense counsel
+and jurors. In doing so, the majority clearly fails to
+engage in a full and reasoned analysis of the common
+law immunity, as Imbler requires and exemplifies. The
+majority's result not only clashes with the one other
+Circuit holding on witness immunity but, most
+significantly, undercuts a compelling interest that is at
+the heart of the judicial process, that is, [569 F.2d 55]
+that the integrity of its fact-finding function is best
+served by providing absolute freedom from civil suit to
+its participants so as to encourage unintimidated
+disclosure and expression.
+The majority also argues the point that whatever the
+value of the common law immunity of the witness these
+policies are "tangential, and essentially irrelevant" to this
+case because the prosecutor here was not an "ordinary
+witness." In attempting to carve out an exception to the
+absolute immunity of the witness the majority relies, as
+we shall see, upon a particular reading of immunity
+doctrine that was clearly rejected in Imbler. Noting that
+Goodwin did not testify "in the usual sense at a trial or
+even before grand jurors," the majority also recites that
+it was the judge who asked the question and that the
+opportunity for cross-examination was denied.107 These
+circumstances demonstrate for the majority, as it said
+earlier,108 how the statement was thus "insulat[ed]" from
+examination and appraisal and how, therefore, it
+warrants only qualified immunity. As I understand this
+rationale, it goes more fully as follows: one justification
+for absolute witness immunity is that possible perjury by
+a witness will be subjected to the "rough-and-tumble" of
+the trial process—cross-examination, jury scrutiny, and
+the presentation of conflicting evidence, so that when
+these corrective elements are lacking, as when crossexamination
+is foreclosed, the witness is not really an
+"ordinary" witness for purposes of absolute immunity
+and may justifiably be accorded only qualified immunity.
+In Imbler, however, the majority expressly rejected the
+argument that absolute immunity for a prosecutor
+should turn on whether his possible constitutional
+violation in particular could be corrected through the
+trial process.109 As explained in more detail earlier,110
+Imbler meant for the prosecutor to have absolute
+immunity even if his constitutional violation had
+involved the complete suppression of exculpatory
+evidence, a decision insulated from scrutiny at trial.
+Similarly with a witness, the provision of absolute
+immunity should not turn on whether the testimony
+could be tested for accuracy through cross-examination
+or whether the substance of the testimony itself
+amounted to a total suppression of the information
+sought. Absolute immunity for a witness is meant to
+ensure an unintimidated opportunity to contribute to
+the fact-finding of the judicial process; its availability
+should not depend on how, in a particular case, that
+opportunity was utilized.111
+Such an ad hoc rule, to be applied retroactively, as the
+majority enunciates here, would be totally devastating to
+any realistic protection by "absolute" (?) immunity.
+The majority's other argument for finding absolute
+witness immunity inapplicable is that "[t]he statement
+assailed here was prompted by, and directly incidental
+to, appellant's status as a prosecutor managing and
+administering an investigation."112 Since the statement
+was related to his status [569 F.2d 56] as an investigator,
+as the majority sees it, he then is entitled to only a
+qualified immunity.113 Even accepting the majority's
+characterization of Goodwin's underlying status as an
+"investigator," it appears that the majority's analysis
+simply begs the question of witness immunity. If a
+witness is only entitled to the immunity of his
+underlying status, then the majority is really rejecting
+absolute witness immunity entirely as a special
+immunity that attaches to a certain class of participants
+in the judicial process. A police officer testifying about a
+search and seizure, for example, may only have a
+qualified immunity, as a police officer, but that does not
+mean he is not entitled to absolute immunity, as a
+witness. If the underlying status is dispositive of the
+degree of witness immunity, qualified or absolute, then
+the majority is really saying that there should be no
+special witness immunity at all.
+Thus, its view that Goodwin in this particular case
+should not have absolute witness immunity is based
+upon its general position that no witness, qua witness,
+should be afforded absolute immunity where a
+"constitutional tort" is involved. And THAT is an idea
+whose time has not hitherto come in any court. I am not
+ready for it here.
+D. Absolute Counsel Immunity
+Still another reason that the majority advances for
+considering witness immunity inapt is that, for all
+practical purposes, Goodwin could readily have given
+the same answer from the counsel table, "as an officer of
+the court,"114 as he gave from the witness stand. There
+should be no difference, the majority contends, in the
+scope of immunity conferred for the same statement
+whether the prosecutor is on the witness stand or at the
+counsel table. With that last general statement I am in
+agreement, for the prosecutor from the counsel table, as
+"an officer of the court," is under no less of an obligation
+to tell the truth than a prosecutor on the witness stand.
+But the problem with the majority's conclusion—that
+the witness here, therefore, should not have absolute
+immunity—is that there is also an established absolute
+immunity for all relevant statements made by counsel in
+court. In other words, if Goodwin had made the same
+statement from the counsel table rather than from the
+witness stand, he would have absolute immunity as
+counsel in a judicial proceeding, even apart from
+whatever protection is available under Imbler. Goodwin
+did make the statement in the momentary capacity of a
+witness, so this dissent has taken up that immunity in
+some detail, but if the majority wishes to contend that
+the witness immunity here [569 F.2d 57] should be the
+equivalent here of counsel immunity, I am willing to
+contend as well that absolute counsel immunity would
+extend to Goodwin's statement from the table, if that
+had happened instead.
+As with judges and witnesses, the common law afforded
+absolute immunity to action taken by counsel in judicial
+proceedings. Indeed, as Prosser explains,115 the
+"privilege covers anything that may be said in relation to
+the matter at issue, whether it be in the pleadings, in
+affidavits, or in open court." In common with the other
+immunities, absolute counsel immunity was and is based
+on the policy of protecting the judicial process. And
+with the other immunities, it is equally as well settled.116
+In the context of a § 1983 or Bivens-type suit, this
+absolute immunity at common law should carry over,
+even as against constitutional torts, precisely because of
+the compelling interest, as illustrated by the common
+law, in protecting the judicial process. I have explained
+these interests and policies in more detail in my
+argument earlier that the absolute witness immunity of
+common law should also be available in § 1983 and
+Bivens-type suits,117 and need not repeat them here.
+Suffice it to say that Goodwin would surely have been
+acting as counsel in the case if the judge had asked him a
+question during a grand jury proceeding, even apart, of
+course, from whether he was acting as a prosecutor in
+the Imbler sense. At common law, as noted, all relevant
+statements of counsel, be they termed advocacy or
+investigation, within the confines of the courtroom
+process were entitled to absolute protection. If counsel
+immunity is to be carried over for constitutional torts,
+as would be expected under the unwavering protection
+afforded the judicial process by the Supreme Court, then
+there is simply no basis for assuming that Goodwin's
+statement, if made from the counsel table instead, would
+be entitled to only qualified immunity.118
+[569 F.2d 58] III. REVIEWABILITY OF THE
+WITNESS IMMUNITY ISSUE
+While the above concludes my dissent, Judge Robinson
+and I are of the view that the question of absolute
+witness immunity is before us for decision at this point
+under the "collateral order" exception to the final
+judgment rule of 28 U.S.C. § 1291. Although Judge
+McGowan's opinion does set out the basic reasoning for
+why the collateral order doctrine "may be thought to be
+present here," it is necessary for us in the majority on
+this point to amplify this reasoning in somewhat more
+detail, not only to provide greater dimension to the
+summary description presently available but also to
+respond to the reservations of Judge McGowan in
+dissent on this point.
+As Judge McGowan's opinion explains in more detail,119
+the District Court in this case certified the question of
+absolute prosecutorial immunity for interlocutory
+appeal under 28 U.S.C. § 1292(b) but did not so certify
+the question of absolute witness immunity. For reasons
+of his own,120 Judge McGowan believes that review of
+the question of absolute witness immunity should be
+declined at this point and should instead await appeal
+from any final judgment in this action.
+[569 F.2d 59] In the recent case of Abney v. United
+States, 121 the Court was asked to review the pretrial
+dismissal of petitioners' claims that their retrial would
+violate the Double Jeopardy Clause. The Court accepted
+review of the pretrial dismissal as it amounted to a "final
+decision" on the jeopardy claims under the practical
+construction that had been given that term. See Cohen
+v. Beneficial Industrial Loan Corp.122 The rights
+conferred by the Double Jeopardy Clause, the Chief
+Justice stated for a unanimous Court, would be
+"significantly undermined" if review of their claims were
+postponed until after conviction and sentence.
+"Obviously," the Chief Justice noted,123 much protection
+would be lost with postponed review:
+[E]ven if the accused is acquitted, or, if convicted has his conviction
+ultimately reversed on double jeopardy grounds, he has still been
+forced to endure a trial that the Double Jeopardy Clause was
+designed to prohibit (footnote omitted) (emphasis added).
+Because the double jeopardy claims met the other
+requirements of the "collateral order" rule, viz., that the
+pretrial dismissal had "fully disposed" of the question,
+and that the question was "collateral," or separate from
+the principal issue of the trial (guilt or innocence), the
+Court considered the pretrial orders as "final decisions"
+and proceeded to review them.
+The analogy between Abney and the instant case is close
+and striking. As with the Double Jeopardy Clause, the
+purpose behind absolute immunity is as much to protect
+the relevant persons from a trial on their actions as it is
+to protect them from the outcome of trial. In the classic
+statement of Judge Learned Hand:124
+The justification for [absolute immunity] is that it is impossible to
+know whether the claim is well founded until the case has been
+tried, and that to submit all officials, the innocent as well as the
+guilty, to the burden of a trial and to the inevitable danger of its
+outcome, would dampen the ardor of all but the most resolute, or
+the most irresponsible, in the unflinching discharge of their duties.
+To wait until after the trial for the appellate review of
+claims of absolute immunity subverts a basic rationale of
+the doctrine, as Judge Hand has set it out, that is, to
+prevent the chilling of the free exercise of discretion by
+not subjecting an official in the protected capacity to a
+trial for damages on his action.
+Judge McGowan responds that interlocutory review
+nevertheless is inappropriate on this absolute immunity
+question because the question is preserved in the record
+and will be available for review upon appeal of any final
+judgment in the action. This is literally true, of course,
+but for that matter, so would the double jeopardy claim
+in Abney have been preserved in the record for review
+from conviction and sentence. Instead, however, the
+Abney Court inquired into whether the relevant rights
+that were the subject of the pretrial order would be
+"significantly undermined" if appellate review had to
+await final action in the case. Applying this inquiry here,
+it is clear—and Judge McGowan does not contest the
+point—that the full protection of absolute immunity
+would be irreparably lost if review had to await final
+judgment.125 To paraphrase Abney, even if the
+defendant here is held not liable in damages, or, if held
+liable, has his liability ultimately reversed on absolute
+witness immunity [569 F.2d 60] grounds, "he has still
+been forced to endure a trial that the [doctrine of
+absolute immunity] was designed to prohibit."
+As his second objection to interlocutory review of
+absolute witness immunity, Judge McGowan contends
+that because the District Court declined to certify this
+question under 28 U.S.C. § 1292(b) the collateral order
+doctrine should not be invoked "as a vehicle for
+appellate revision of the essential determination
+committed by Congress to the District Court."126 I
+would agree with Judge McGowan that in the
+Interlocutory Appeals Act of 1958 Congress meant to
+make unreviewable the decisions of the District Court
+about whether to certify a question for interlocutory
+appeal.127 However, I submit that a refusal to certify an
+order for appeal under § 1292(b) has not necessarily
+been read, and should not necessarily be read as forever
+foreclosing that order from interlocutory appeal by
+another route.
+Imagine, for example, if the petitioners in Abney had
+sought (as they did not) certification of their double
+jeopardy claims from the trial court and had been denied
+it. I agree that there could be no review of the denial of
+certification, e. g., for abuse of discretion, but I cannot
+agree that on that account there could be no
+interlocutory review through another means of the
+double jeopardy claims. Indeed, the authority cited by
+Judge McGowan takes the view that the denial of §
+1292(b) certification should not be read so harshly.
+Speaking of the developing doctrine of "supervisory"
+mandamus, Professor Moore notes: "If a § 1292(b)
+certificate is sought and denied, mandamus will then lie
+in an appropriate case, not to compel issuance of the
+certificate, but to review the order for which the
+certificate was sought."128 The Supreme Court has
+instructed us that interlocutory review by "supervisory"
+mandamus of nonfinal orders may be "necessary to
+proper judicial administration in the federal system."129
+When the circumstances require that "supervisory"
+mandamus be exercised, mandamus of the underlying
+order should not be barred solely because the trial court
+refused to certify it. For, as another commentator
+suggested,
+[Section] 1292(b) does not obviate the need for advisory
+mandamus. . . . [C]ertification is limited by the discretion of the
+district judge; while enlightened judges may well see the necessity of
+rapid determination of a difficult problem, the policies favoring
+mandamus should not be bent to the will of individual district court
+judges.130
+Similarly, when the policies behind the collateral order
+doctrine call for the interlocutory appeal of a "final"
+pretrial order, those policies favoring immediate review,
+as in the Abney situation, for example, should not be
+bent to the will of individual district court judges. Since
+the discretion of the trial judge whether to certify is
+itself unreviewable, the value of immediate review in
+the "small class" of cases where it is warranted under the
+collateral order doctrine could be irretrievably lost if
+Judge McGowan's view, that denial of certification per
+se bars interlocutory review, were to prevail.
+[569 F.2d 61] CONCLUSION
+In summary, the errors and misconceptions of the
+majority opinion are:
+1. The underlying principles of Imbler v. Pachtman in
+granting absolute immunity to the prosecutor there
+must be applied to Goodwin here. If this is done, the
+Supreme Court's principles compel the same absolute
+immunity for this prosecutor. Efforts to distinguish
+Imbler are based upon factors that are immaterial under
+the very terms of Imbler and are inappropriate for the
+doctrine of quasi-judicial immunity.
+2. The majority has engaged in a particularistic inquiry
+here, as to the duties at a single moment of this
+particular prosecutor in these particular circumstances.
+All the Supreme Court decisions on immunity show the
+Court applying a balancing test, with reference to
+common law precedent, on broad categories of public
+officials to determine the immunity appropriate.
+3. The majority has sought to draw a line between the
+prosecutor as an advocate before the court or with the
+grand jury in its "deliberative" function, and the
+prosecutor with the grand jury in its "investigative"
+function. The prosecutor's duties with the grand jury
+cannot be so divided, legally or practically, and the
+majority has not been so bold as to claim that the
+prosecutor is deprived of his absolute immunity at all
+times when he steps from the courtroom into the grand
+jury room.
+4. Even apart from how his relation to the grand jury is
+characterized, it is undeniable that Goodwin's statement
+was made as a sworn witness in a judicial proceeding, a
+function which itself is a source of absolute immunity.
+In summary, these are the unfortunate consequences
+which will flow from the majority's decision:
+1. The time-honored absolute quasi-judicial immunity
+of the prosecutor (and other counsel) in every
+courtroom situation will be replaced by a qualified
+immunity in every situation, in or out of the courtroom.
+For under the particularistic analysis of the majority
+opinion, it will always be possible to contend that what
+the lawyer did under those particular circumstances was
+entitled only to a qualified immunity. Thus, counsel will
+be effectively subjected to harassing suits, as Goodwin
+has been here, until the highest court available finally
+determines whether absolute or qualified immunity
+applies. This illustrates the vast practical difference
+between absolute and qualified immunity, pointed out
+by Mr. Justice Powell in Imbler.
+2. The number of instances in which counsel, especially
+prosecutors, are called to the witness stand will take a
+quantum leap. Now so rare an occurrence that all our
+research has not been able to find an appellate case
+similar to Goodwin's, in the future defense lawyers will
+be unable to resist the temptation to call the prosecutor
+to the stand, to force him to hedge or qualify the
+government position on some important point, at all
+times with the threat of a possible subsequent civil suit
+hanging over him if he does not do so. Trial judges can
+curb this only at the risk of giving the defense another
+arguable point on appeal.
+3. All witness immunity as such is struck down. Now,
+under the majority opinion, all immunity relating to
+testimony will be determined by the witness' function
+(not even his regular duties or position), considered in
+the particular circumstances of the individual case. This
+brings into contemplation a nightmare of inconsistent
+variable rules and applications.
+4. All of the above represents a deadly blow at nearly all
+the common-law recognized quasi-judicial absolute
+immunities—prosecutor, counsel and witness. Jurors,
+and then judges, will doubtless be next.
+For all these reasons, and for those more fully set out in
+my opinion earlier, I must respectfully dissent.

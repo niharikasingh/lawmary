@@ -1,0 +1,407 @@
+This appeal presents a question that remains
+surprisingly unanswered by the circuit courts: Does the
+sale of an item via the eBay Internet auction site provide
+sufficient "minimum contacts" to support personal
+jurisdiction over a nonresident defendant in the buyer's
+forum state? Plaintiff-Appellant Paul Boschetto
+("Boschetto") was the winning bidder for a 1964 Ford
+Galaxie sold on eBay by the Defendant-Appellee, Jeffrey
+Hansing ("Hansing") for $34,106. Boschetto arranged
+for the car to be shipped from Wisconsin to California,
+but upon arrival it failed to meet his expectations or the
+advertised description. Boschetto sued in federal court;
+his complaint was dismissed for lack of personal
+jurisdiction. We now affirm.
+I. FACTUAL BACKGROUND AND
+PROCEDURAL HISTORY
+Boschetto lives in San Francisco, California.1
+Defendant-Appellee Jeffrey D. Hansing resides in
+Milton, Wisconsin. Id. Defendants-Appellees FrankBoucher
+Chrysler Dodge-Jeep, Gordie Boucher Ford
+and Boucher Automotive Group ("Boucher
+Defendants") are private corporations with their
+principal places of business in Wisconsin. The Boucher
+Defendants operate a website that advertises their auto
+dealerships although it is not alleged that this website
+was connected in any way with the transaction at issue
+in this case. Hansing is an employee of one of the
+Boucher Defendants, Frank Boucher Chrysler DodgeJeep.
+The complaint avers that on August 1, 2005, all
+Defendants "owned and advertised [] a 1964 Ford
+Galaxie 500 XL 427/425 hp `R Code' in awesome
+condition, not restored, rust free chrome in excellent
+condition, recently rebuilt and ready to be driven, with
+clear title, and a vehicle warranty number of
+4E68R149127."
+The car was advertised for sale on the eBay Internet
+auction site; a copy of a portion of the eBay listing was
+attached to Boschetto's complaint. Id. The eBay listing
+indicated that the item was located in Janesville,
+Wisconsin. Boschetto bid $34,106 for the Galaxie on
+August 8, 2005, and was notified through eBay that
+same day that he was the winning bidder. Id. Boschetto
+and Hansing communicated via email to arrange for
+delivery of the vehicle from Wisconsin to California.
+Boschetto ultimately hired a transport company to pick
+up the car in Wisconsin; it arrived in California on
+September 15, 2005. Id.
+[539 F.3d 1015] Upon delivery, Boschetto discovered that
+the car was not an "R Code" as advertised, and noted a
+variety of other problems, including a motor that would
+not turn over, rust, and extensive dents on the body of
+the vehicle. Id. Boschetto contacted eBay and Hansing in
+an attempt to rescind the purchase, but those efforts
+failed. Id. He filed a complaint in United States District
+Court, Northern District of California on February 23,
+2006. Boschetto alleged four state law causes of action
+(violation of the California Consumer Protection Act;
+breach of contract; misrepresentation; and fraud), and
+pled jurisdiction pursuant to the federal diversity statute,
+28 U.S.C. § 1332(a).
+All Defendants moved to dismiss based on lack of
+personal jurisdiction. On July 13, 2006, the district court
+granted the motion. The district court reasoned that the
+lone jurisdictionally relevant contact with California, an
+eBay sale consummated with a California purchaser, was
+insufficient to establish jurisdiction over any of the
+Defendants. Although Hansing used eBay to market the
+automobile, the district court observed that "eBay acted
+not as a `distribution center' but rather as a virtual
+forum for the exchange of goods," and that in a standard
+eBay transaction—like the one at issue in this
+appeal—the item goes to whomever is the highest
+bidder, and so "the eBay seller does not purposefully
+avail himself of the privilege of doing business in a
+forum state absent some additional conduct directed at
+the forum state." Id.
+The district court also rejected Boschetto's request to
+conduct additional discovery relevant to jurisdiction. Id.
+Noting its "broad discretion" to permit or deny such
+discovery, the court found that Boschetto's request for
+further discovery was premised on "speculat[ion]
+without any support" that the additional discovery
+would yield jurisdictionally relevant information. Id.
+Judgment was entered on July 17, 2006 and this timely
+appeal followed.
+II. PERSONAL JURISDICTION
+We review a dismissal for lack of personal jurisdiction
+de novo. See Myers v. Bennett Law Offices, 238 F.3d
+1068, 1071 (9th Cir.2001). In opposition to a defendant's
+motion to dismiss for lack of personal jurisdiction, the
+plaintiff bears the burden of establishing that
+jurisdiction is proper. See Sher v. Johnson, 911 F.2d
+1357, 1361 (9th Cir.1990). If the district court decides
+the motion without an evidentiary hearing, which is the
+case here, then "the plaintiff need only make a prima
+facie showing of the jurisdictional facts." Id. (citation
+omitted). Absent an evidentiary hearing this court "only
+inquire[s] into whether [the plaintiff's] pleadings and
+affidavits make a prima facie showing of personal
+jurisdiction." Caruth v. Int'l Psychoanalytical Ass'n, 59
+F.3d 126, 127-28 (9th Cir.1995). Uncontroverted
+allegations in the plaintiff's complaint must be taken as
+true. See AT & T, 94 F.3d at 588. "Conflicts between the
+parties over statements contained in affidavits must be
+resolved in the plaintiff's favor." Schwarzenegger v. Fred
+Martin Motor Co., 374 F.3d 797, 800 (9th Cir.2004).
+When no federal statute governs personal jurisdiction,
+the district court applies the law of the forum state. See
+Panavision Int'l L.P. v. Toeppen, 141 F.3d 1316, 1320
+(9th Cir.1998). California's long-arm statute is coextensive
+with federal standards, so a federal court may
+exercise personal jurisdiction if doing so comports with
+federal constitutional due process. Id. at 1320. "For a
+court to exercise personal jurisdiction over a
+nonresident defendant, that defendant must have at least
+`minimum contacts' with the relevant forum such that
+the exercise of jurisdiction `does not offend traditional
+notions [539 F.3d 1016] of fair play and substantial
+justice.'" Schwarzenegger, 374 F.3d at 801 (quoting
+International Shoe Co. v. Washington, 326 U.S. 310,
+316, 66 S.Ct. 154, 90 L.Ed. 95 (1945)). There are two
+forms of personal jurisdiction that a forum state may
+exercise over a nonresident defendant—general
+jurisdiction and specific jurisdiction. We deal here only
+with the latter.2
+A. The district court correctly dismissed Boschetto's
+complaint for lack of personal jurisdiction.
+We apply a three-part test to determine whether the
+exercise of specific jurisdiction over a nonresident
+defendant is appropriate:
+(1) The non-resident defendant must purposefully direct his
+activities or consummate some transaction with the forum or
+resident thereof; or perform some act by which he purposefully
+avails himself of the privilege of conducting activities in the forum,
+thereby invoking the benefits and protections of its laws;
+(2) the claim must be one which arises out of or relates to the
+defendant's forum-related activities; and
+(3) the exercise of jurisdiction must comport with fair play and
+substantial justice, i.e. it must be reasonable.
+Id. at 802 (citing Lake v. Lake, 817 F.2d 1416, 1421 (9th
+Cir.1987)). The plaintiff bears the burden on the first
+two prongs. Id. If the plaintiff establishes both prongs
+one and two, the defendant must come forward with a
+"compelling case" that the exercise of jurisdiction would
+not be reasonable. Id. (quoting Burger King Corp. v.
+Rudzewicz, 471 U.S. 462, 476-78, 105 S.Ct. 2174, 85
+L.Ed.2d 528 (1985)). But if the plaintiff fails at the first
+step, the jurisdictional inquiry ends and the case must be
+dismissed. See Pebble Beach Co. v. Caddy, 453 F.3d
+1151, 1155 (9th Cir. 2006) ("[Plaintiff's] arguments fail
+under the first prong. Accordingly, we need not address
+[the remaining two prongs].").
+For part one of this three-part test, we have typically
+analyzed cases that sound primarily in contract—as
+Boschetto's case does—under a "purposeful availment"
+standard. Schwarzenegger, 374 F.3d at 802 ("We often
+use the phrase `purposeful availment' in shorthand
+fashion, to include both purposeful availment and
+purposeful direction, but availment and direction are, in
+fact, two distinct concepts. A purposeful availment
+analysis is most often used in suits sounding in
+contract.") (internal citation omitted); see also
+McGlinchy v. Shell Chemical Co., 845 F.2d 802, 817
+(9th Cir.1988) (distinguishing purposeful direction
+precedents where "personal jurisdiction is sought on a
+contract claim, not on a tort claim"). To have
+purposefully availed itself of the privilege of doing
+business in the forum, a defendant must have
+"performed some type of affirmative conduct which
+allows or promotes the transaction of business within
+the forum state." Sher, 911 F.2d at 1362 (internal
+quotation marks and citation omitted). Our evaluation
+of the jurisdictional significance of a defendant's
+contract or other business in the forum is not rigid and
+formalistic, but rather practical and pragmatic. Burger
+King Corp., 471 U.S. at 478, 105 S.Ct. 2174 ("[W]e have
+emphasized the need for a highly realistic approach that
+recognizes that contract is ordinarily but an
+intermediate step serving to tie up prior business
+negotiations with future consequences which
+themselves are the real object of the business
+transaction.") (internal quotation marks and citation
+omitted); Lake, 817 F.2d at 1421 [539 F.3d 1017] ("The
+first step of the specific jurisdiction analysis involves a
+qualitative evaluation of the defendant's contact with the
+forum state.") (emphasis added). In doing so, we are
+guided by the Supreme Court's admonition that the
+formation of a contract with a nonresident defendant is
+not, standing alone, sufficient to create jurisdiction.
+Burger King Corp., 471 U.S. at 478, 105 S.Ct. 2174 ("If
+the question is whether an individual's contract with an
+out-of-state party alone can automatically establish
+sufficient minimum contacts in the other party's home
+forum, we believe the answer clearly is that it cannot.")
+(emphasis in original); see also McGlinchy, 845 F.2d at
+816 n. 9 (same).
+Here, Boschetto fails at step one of the test for specific
+jurisdiction, as the lone transaction for the sale of one
+item does not establish that the Defendants purposefully
+availed themselves of the privilege of doing business in
+California. The arrangement between Boschetto and
+Hansing which is, at bottom, a contract for the sale of a
+good, is insufficient to have created a substantial
+connection with California. Hansing (and assuming
+arguendo that they had any involvement in the
+transaction, the Boucher Defendants) did not create any
+ongoing obligations with Boschetto in California; once
+the car was sold the parties were to go their separate
+ways. Neither Boschetto's complaint nor his affidavit in
+opposition to dismissal point to any continuing
+commitments assumed by the Defendants under the
+contract. Id. Nor did performance of the contract
+require the Defendants to engage in any substantial
+business in California. On Boschetto's version of the
+facts, funds were sent to Wisconsin and arrangements
+were made to pick up the car there and have it delivered
+to California. This was, as the district court observed, a
+"one-shot affair." See CompuServe, Inc. v. Patterson, 89
+F.3d 1257, 1265 (6th Cir.1996). As the Supreme Court
+has expressly cautioned, a contract alone does not
+automatically establish minimum contacts in the
+plaintiff's home forum. See Burger King Corp., 471 U.S.
+at 478, 105 S.Ct. 2174; see also Doe v. Unocal Corp., 248
+F.3d 915, 924 (9th Cir.2001) ("However, an individual's
+contract with an out-of-state party alone [cannot]
+automatically establish sufficient minimum contacts to
+support personal jurisdiction.") (internal quotation
+marks and citations omitted); cf. Travelers Health Ass'n
+v. Commonwealth of Va., 339 U.S. 643, 647, 70 S.Ct.
+927, 94 L.Ed. 1154 (1950) (purposeful availment found if
+"business activities reach out beyond one state and
+create continuing relationships and obligations")
+(emphasis added).3
+Ignoring the limited nature of the transaction at issue,
+Boschetto attaches special significance to the fact that
+the transaction [539 F.3d 1018] was consummated via
+eBay, noting that the eBay listing could have been
+viewed by anyone in California (or any other state for
+that matter) with Internet access. But the fact that eBay
+was used as the conduit for this sale does not affect the
+jurisdictional outcome, at least not on the particular
+facts presented here.
+In Cybersell, Inc. v. Cybersell, Inc., 130 F.3d 414, 419
+(9th Cir.1997), we discussed with approval a sliding
+scale analysis that looks to how interactive an Internet
+website is for purposes of determining its jurisdictional
+effect. ("In sum, the common thread, well stated by the
+district court in Zippo, is that the `likelihood that
+personal jurisdiction can be constitutionally exercised is
+directly proportionate to the nature and quality of the
+commercial activity that an entity conducts over the
+Internet.' ") (quoting Zippo Mfg. Co. v. Zippo Dot Com,
+952 F.Supp. 1119, 1124 (W.D.Pa. 1997)). The plaintiff
+in Cybersell relied on the fact that the defendant
+operated a website, accessible in the forum state, that
+contained allegedly infringing trademarks. 130 F.3d at
+416. The defendant's website advertised its services but
+did not allow parties to transact business via the site. Id.
+at 419. Noting the lack of interactivity on the
+defendant's website, the court concluded that the
+defendant had "done no act and [] consummated no
+transaction, nor has it performed any act by which it
+purposefully availed itself of the privilege of conducting
+activities, in Arizona, thereby invoking the benefits and
+protections of Arizona law." Id.
+The Cybersell analysis, while persuasive where the
+contact under consideration is the website itself, is
+largely inapplicable in this case. Here, eBay was used to
+create a listing for the sale of a good. Based on a
+superficial application of Cybersell, the eBay listing
+process and the sale it engenders is "interactive." Id.
+(noting the lack of evidence suggesting that defendant's
+website resulted in any business generation). But, as the
+district court noted, "the issue is not whether the court
+has personal jurisdiction over the intermediary eBay but
+whether it has personal jurisdiction over an individual
+who conducted business over eBay." In Cybersell and
+related cases where the Internet site actually belongs to
+and is operated by the defendant, the nature of the
+website has jurisdictional significance because the
+website allows the defendant to maintain some ongoing
+contact with the forum state (as well as every other state
+that can access the site). See Zippo, 952 F.Supp. at 1125-
+26 ("We are being asked to determine whether Dot
+Com's conducting of electronic commerce with
+Pennsylvania residents constitutes the purposeful
+availment of doing business in Pennsylvania."). Here,
+the eBay listing was not part of broader e-commerce
+activity; the listing temporarily advertised a good for
+sale and that listing closed once the item was sold,
+thereby extinguishing the Internet contact for this
+transaction within the forum state (and every other
+forum).4
+Moreover, Boschetto does not allege that any of the
+Defendants are using eBay to conduct business
+generally. He does not allege that Defendants conduct
+regular sales in California (or anywhere else) via eBay.
+Based on his own affidavit he named the Boucher
+Defendants based on a "good faith belief" that Hansing
+may have been acting as their agent during the sale. But
+he does not go on to allege — on information and belief
+or otherwise — that either Hansing or the Boucher
+Defendants are [539 F.3d 1019] regular users of the eBay
+sales platform to sell their cars.5
+This is a distinction with a difference, as the cases that
+have found that jurisdiction was proper based on eBay
+sales relied heavily on the fact that the defendant was
+using the platform as a broader vehicle for commercial
+activity. See, e.g., Crummey v. Morgan, 965 So.2d 497,
+500 (Ct.App.La. 2007) (evidence of two prior sales to
+Louisiana residents in prior year); Dedvukaj v. Maloney,
+447 F.Supp.2d 813, 822-23 (E.D.Mich.2006) ("Although
+the Court's research has not disclosed any personal
+jurisdiction cases involving the use of eBay auctions as a
+commercial seller's primary marketing vehicle, it is clear
+from the record that Defendants' use of eBay is regular
+and systemic."); Malcolm v. Esposito, 2003 WL
+23272406 at *4 (Va.Cir.Ct. Dec. 12, 2003) ("Defendants
+are commercial sellers of automobiles who, at the time
+the BMW was sold, were represented on eBay as `power
+sellers' with 213 transactions.").
+At bottom, the consummation of the sale via eBay here
+is a distraction from the core issue: This was a one-time
+contract for the sale of a good that involved the forum
+state only because that is where the purchaser happened
+to reside, but otherwise created no "substantial
+connection" or ongoing obligations there. See McGee,
+355 U.S. at 223, 78 S.Ct. 199. The Supreme Court has, in
+the past, sounded a note of caution that traditional
+jurisdictional analyses are not upended simply because a
+case involves technological developments that make it
+easier for parties to reach across state lines. WorldWide
+Volkswagen v. Woodson, 444 U.S. 286, 293, 100
+S.Ct. 580, 62 L.Ed.2d 490 (1980) ("[W]e have never
+accepted the proposition that state lines are irrelevant
+for jurisdictional purposes, nor could we, and remain
+faithful to the principles of interstate federalism
+embodied in the Constitution."). The use of eBay no
+doubt made it far easier to reach a California buyer, but
+the ease with which Boschetto was contacted does not
+determine whether the nature and quality of the
+Defendants' contacts serve to support jurisdiction. That
+is not to say that the use of eBay digs a virtual moat
+around the defendant, fending off jurisdiction in all
+cases. Where eBay is used as a means for establishing
+regular business with a remote forum such that a finding
+of personal jurisdiction comports with "traditional
+notions of fair play and substantial justice," International
+Shoe Co., 326 U.S. at 316, 66 S.Ct. 154, then a
+defendant's use of eBay may be properly taken into
+account for purposes of establishing personal
+jurisdiction. See Crummey, 965 So.2d at 500; Dedvukaj,
+447 F.Supp.2d at 822-23; Malcolm, 2003 WL 23272406
+at *4. But on the facts of this case—a one-time
+transaction—the use of eBay as the conduit for that
+transaction does not have any dispositive effect on
+jurisdiction.6
+[539 F.3d 1020] B. The district court did not abuse its
+discretion by denying Boschetto's request for
+jurisdictional discovery.
+A district court's decision to permit or deny
+jurisdictional discovery is reviewed for abuse of
+discretion. See Data Disc, Inc. v. Systems Tech. Assoc.,
+Inc., 557 F.2d 1280, 1285 n. 1 (9th Cir. 1977). The
+district court's refusal to provide such discovery, "will
+not be reversed except upon the clearest showing that
+denial of discovery results in actual and substantial
+prejudice to the complaining litigant. Discovery may be
+appropriately granted where pertinent facts bearing on
+the question of jurisdiction are controverted or where a
+more satisfactory showing of the facts is necessary." Id.
+(citing Wells Fargo & Co. v. Wells Fargo Express Co.,
+556 F.2d 406, 430 n. 24 (9th Cir.1977)).
+The district court did not abuse its discretion by denying
+Boschetto's request for jurisdictional discovery.
+Boschetto does not allege that the Boucher Defendants'
+dealership website is used to conduct sales, merely that it
+can be viewed by potential customers. Moreover,
+Boschetto does not allege that any of the Defendants
+made any other eBay sales or posted listings either
+before or after the initiation of the lawsuit. While it
+might be jurisdictionally relevant if Hansing or the
+Boucher Defendants had used eBay to conduct a
+significant quantity of automobile sales to California
+residents or in other states, neither Boschetto's
+complaint nor his affidavit allege that any of the
+Defendants are engaged in such sales. The denial of
+Boschetto's request for discovery, which was based on
+little more than a hunch that it might yield
+jurisdictionally relevant facts, was not an abuse of
+discretion. See Butcher's Union Local No. 498 v. SDC
+Inv., Inc., 788 F.2d 535, 540 (9th Cir.1986) (holding that
+district court did not abuse its discretion by refusing
+jurisdictional discovery where the plaintiffs "state only
+that they `believe' discovery will enable them to
+demonstrate sufficient California business contacts to
+establish the court's personal jurisdiction").
+III. CONCLUSION
+The sale of one automobile via the eBay website,
+without more, does not provide sufficient "minimum
+contacts" to establish jurisdiction over a nonresident
+defendant in the forum state. Likewise, given the total
+absence of any evidence or allegations that the conduct
+here involved more than just this one sale, the district
+court did not abuse its discretion by refusing to allow
+jurisdictional discovery.
+AFFIRMED.

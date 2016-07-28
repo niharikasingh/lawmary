@@ -1,0 +1,67 @@
+OBB PERSONENVERKEHR AG v. SACHS
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR
+THE NINTH CIRCUIT
+No. 13–1067. Argued October 5, 2015—Decided December 1, 2015
+Respondent Carol Sachs, a California resident, purchased a Eurail pass
+over the Internet from a Massachusetts-based travel agent. While
+using that pass to board a train in Austria operated by petitioner
+OBB Personenverkehr AG (OBB), the Austrian state-owned railway,
+Sachs fell to the tracks and suffered traumatic personal injuries. She
+sued OBB in Federal District Court. OBB moved to dismiss, claiming
+that her suit was barred by the Foreign Sovereign Immunities Act,
+which shields foreign states and their agencies and instrumentalities
+from suit in United States courts, unless a specified exception applies.
+Sachs countered that her suit fell within the Act’s commercial
+activity exception, which abrogates sovereign immunity for suits
+“based upon a commercial activity carried on in the United States by
+[a] foreign state,” 28 U. S. C. §1605(a)(2), reasoning that her suit was
+“based upon” the Massachusetts-based travel agent’s sale of the
+Eurail pass in the United States, and that the travel agent’s sale of
+that pass could be attributed to OBB through common law principles
+of agency. The District Court held that Sachs’s suit did not fall within
+§1605(a)(2) and dismissed the suit, but the en banc Ninth Circuit
+reversed. The court first concluded that the Eurail pass sale by the
+travel agent could be attributed to OBB through common law principles
+of agency, and then determined that Sachs’s suit was “based upon”
+that Eurail pass sale because the sale established a single element
+necessary to recover under each cause of action brought by
+Sachs.
+Held: Sachs’s suit falls outside the commercial activity exception and is
+therefore barred by sovereign immunity. Pp. 5–11.
+(a) Sachs’s suit is not “based upon” the sale of the Eurail pass for
+purposes of §1605(a)(2). Therefore, the Court has no need to address 
+whether the Act allows the travel agent’s sale of the Eurail pass to be
+attributed to OBB through common law principles of agency. Pp. 5–
+9.
+(1) Although the Act does not elaborate on the phrase “based upon,”
+Saudi Arabia v. Nelson, 507 U. S. 349, provides sufficient guidance
+to resolve this case. There, the Court held that the “based upon”
+inquiry requires a court to determine the “particular conduct on
+which the action is ‘based,’ ” id., at 356, and identified that conduct
+by looking to “the ‘gravamen of the complaint,’ ” id., at 357. Pp. 5–6.
+(2) The Ninth Circuit used a flawed approach when it found that
+the “based upon” inquiry would be satisfied if the sale of the Eurail
+pass provided “an element” of each of Sachs’s claims. This Court’s
+approach in Nelson is flatly incompatible with such a one-element
+approach, which necessarily requires a court to identify all the elements
+of each claim before finding that the claim falls outside
+§1605(a)(2). The Nelson Court did not undertake such an exhaustive
+claim-by-claim, element-by-element analysis or engage in the choiceof-law
+analysis necessary to such an undertaking. See id., at 356–
+358. P. 7.
+(3) As opposed to adopting a one-element test, the Nelson Court
+zeroed in on the core of the plaintiffs’ suit—the conduct that actually
+injured the plaintiffs—to identify the conduct that the suit was
+“based upon.” See id., at 358. All of Sachs’s claims turn on the same
+tragic episode in Austria, allegedly caused by wrongful conduct and
+dangerous conditions in Austria, which led to injuries suffered in
+Austria. However Sachs frames her suit, the incident in Innsbruck,
+Austria, remains at its foundation. Any other approach would allow
+plaintiffs to evade the Act’s restrictions through artful pleading. See
+id., at 363. Pp. 7–9.
+(b) Sachs now contends that her claims are “based upon” OBB’s entire
+railway enterprise. Because that argument was never presented
+to any lower court, it is forfeited. See Taylor v. Freeland & Kronz,
+503 U. S. 638, 645–646. Pp. 9–10.
+737 F. 3d 584, reversed.
+ROBERTS, C. J., delivered the opinion for a unanimous Court. 

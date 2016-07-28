@@ -1,0 +1,173 @@
+I agree with the Court that the Connecticut attachment
+statute, "as applied to this case," ante, at 4, fails to satisfy
+the Due Process Clause of the Fourteenth Amendment. I
+therefore join Parts I, II, and III of its opinion.
+Unfortunately, the remainder of the opinion does not
+confine itself to the facts of this case, but enters upon a
+lengthy disquisition as to what combination of
+safeguards are required to satisfy due process in
+hypothetical cases not before the Court. I therefore do
+not join Part IV.
+As the Court's opinion points out, the Connecticut
+statute allows attachment not merely for a creditor's
+claim, but for a tort claim of assault and battery; it
+affords no opportunity for a predeprivation hearing; it
+contains no requirement that there be "exigent
+circumstances," such as an effort on the part of the
+defendant to conceal assets; no bond is required from
+the plaintiff; and the property attached is one in which
+the plaintiff has no pre-existing interest. The Court's
+opinion [501 U.S. 27] is, in my view, ultimately correct
+when it bases its holding of unconstitutionality of the
+Connecticut statute as applied here on our cases of
+Sniadach v. Family Finance Corp. of Bay View, 395 U.S.
+337 (1969); Fuentes v. Shevin, 407 U.S. 67 (1972),
+Mitchell v. W. T. Grant Co., 416 U.S. 600 (1974), and
+North Georgia Finishing, Inc. v. Di-Chem, Inc., 419
+U.S. 601 (1975). But I do not believe that the result
+follows so inexorably as the Court's opinion suggests.
+All of the cited cases dealt with personalty—bank
+deposits or chattels —and each involved the physical
+seizure of the property itself, so that the defendant was
+deprived of its use. These cases, which represented
+something of a revolution in the jurisprudence of
+procedural due process, placed substantial limits on the
+methods by which creditors could obtain a lien on the
+assets of a debtor prior to judgment. But in all of them
+the debtor was deprived of the use and possession of the
+property. In the present case, on the other hand,
+Connecticut's prejudgment attachment on real property
+statute, which secures an incipient lien for the plaintiff,
+does not deprive the defendant of the use or possession
+of the property.
+The Court's opinion therefore breaks new ground, and I
+would point out, more emphatically than the Court
+does, the limits of today's holding. In Spielman-Fond,
+Inc. v. Hanson's, Inc., 379 F.Supp. 997, 999 (Ariz. 1973),
+the District Court held that the filing of a mechanics'
+lien did not cause the deprivation of a significant
+property interest of the owner. We summarily affirmed
+that decision. 417 U.S. 901 (1974). Other courts have
+read this summary affirmance to mean that the mere
+imposition of a lien on real property, which does not
+disturb the owner's use or enjoyment of the property, is
+not a deprivation of property calling for procedural due
+process safeguards. I agree with the Court, however,
+that upon analysis the deprivation here is a significant
+one, even though the owner remains in undisturbed
+possession. "For a property owner like Doehr,
+attachment ordinarily clouds title; impairs the ability to
+sell or otherwise [501 U.S. 28] alienate the property;
+taints any credit rating; reduces the chance of obtaining
+a home equity loan or additional mortgage; and can
+even place an existing mortgage in technical default
+where there is an insecurity clause." Ante, at 11. Given
+the elaborate system of title records relating to real
+property which prevails in all of our States, a lienor need
+not obtain possession or use of real property belonging
+to a debtor in order to significantly impair its value to
+him.
+But in Spielman-Fond, Inc., supra, there was, as the
+Court points out, ante, at 12, n. 4, an alternative basis
+available to this Court for affirmance of that decision.
+Arizona recognized a pre-existing lien in favor of
+unpaid mechanics and materialmen who had
+contributed labor or supplies which were incorporated
+in improvements to real property. The existence of such
+a lien upon the very property ultimately posted or
+noticed distinguishes those cases from the present one,
+where the plaintiff had no pre-existing interest in the
+real property which he sought to attach. Materialman's
+and mechanic's lien statutes award an interest in real
+property to workers who have contributed their labor,
+and to suppliers who have furnished material, for the
+improvement of the real property. Since neither the
+labor nor the material can be reclaimed once it has
+become a part of the realty, this is the only method by
+which workmen or small businessmen who have
+contributed to the improvement of the property may be
+given a remedy against a property owner who has
+defaulted on his promise to pay for the labor and the
+materials. To require any sort of a contested court
+hearing or bond before the notice of lien takes effect
+would largely defeat the purpose of these statutes.
+Petitioners in their brief rely in part on our summary
+affirmance in Bartlett v. Williams, 464 U.S. 801 (1983).
+That case involved a lis pendens, in which the question
+presented to this Court was whether such a procedure
+could be valid when the only protection afforded to the
+owner of land affected by the lis pendens was a
+postsequestration hearing. [501 U.S. 29] A notice of lis
+pendens is a well-established, traditional remedy
+whereby a plaintiff (usually a judgment creditor) who
+brings an action to enforce an interest in property to
+which the defendant has title gives notice of the
+pendency of such action to third parties; the notice
+causes the interest which he establishes, if successful, to
+relate back to the date of the filing of the lis pendens.
+The filing of such notice will have an effect upon the
+defendant's ability to alienate the property, or to obtain
+additional security on the basis of title to the property,
+but the effect of the lis pendens is simply to give notice
+to the world of the remedy being sought in the lawsuit
+itself. The lis pendens itself creates no additional right in
+the property on the part of the plaintiff, but simply
+allows third parties to know that a lawsuit is pending in
+which the plaintiff is seeking to establish such a right.
+Here, too, the fact that the plaintiff already claims an
+interest in the property which he seeks to enforce by a
+lawsuit distinguishes this class of cases from the
+Connecticut attachment employed in the present case.
+Today's holding is a significant development in the law;
+the only cases dealing with real property cited in the
+Court's opinion, Peralta v. Heights Medical Center, Inc.,
+485 U.S. 80, 85 (1988), and Hodge v. Muscatine County,
+196 U.S. 276, 281 (1905), arose out of lien foreclosure
+sales in which the question was whether the owner was
+entitled to proper notice. The change is dramatically
+reflected when we compare today's decision with the
+almost casual statement of Justice Holmes, writing for a
+unanimous Court in Coffin Brothers & Co. v. Bennett,
+277 U.S. 29, 31 (1928):
+"[N]othing is more common than to allow parties alleging
+themselves to be creditors to establish in advance by attachment a
+lien dependent for its effect upon the result of the suit."
+The only protection accorded to the debtor in that case
+was the right to contest his liability in a postdeprivation
+proceeding.
+[501 U.S. 30] It is both unwise and unnecessary, I
+believe, for the plurality to proceed, as it does in Part IV,
+from its decision of the case before it to discuss abstract
+and hypothetical situations not before it. This is
+especially so where we are dealing with the Due Process
+Clause which, as the Court recognizes, "`"unlike some
+legal rules, is not a technical conception with a fixed
+content unrelated to time, place and circumstances,"'"
+ante, at 10. And it is even more true in a case involving
+constitutional limits on the methods by which the States
+may transfer or create interests in real property; in other
+areas of the law, dicta may do little damage, but those
+who insure titles or write title opinions often do not
+enjoy the luxury of distinguishing detween dicta and
+holding.
+The two elements of due process with which the Court
+concerns itself in Part IV—the requirements of a bond
+and of "exigent circumstances" — prove to be upon
+analysis so vague that the discussion is not only
+unnecessary, but not particularly useful. Unless one
+knows what the terms and conditions of a bond are to
+be, the requirement of a "bond" in the abstract means
+little. The amount to be secured by the bond and the
+conditions of the bond are left unaddressed —is there to
+be liability on the part of a plaintiff if he is ultimately
+unsuccessful in the underlying lawsuit, or is it instead to
+be conditioned on some sort of good-faith test? The
+"exigent circumstances" referred to by the Court are
+admittedly equally vague; nonresidency appears to be
+enough in some States, an attempt to conceal assets is
+required in others, an effort to flee the jurisdiction in
+still others. We should await concrete cases which
+present questions involving bonds and exigent
+circumstances before we attempt to decide when and if
+the Due Process Clause of the Fourteenth Amendment
+requires them as prerequisites for a lawful attachment

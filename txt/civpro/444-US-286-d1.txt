@@ -1,0 +1,389 @@
+The Court holds that the Due Process Clause of the
+Fourteenth Amendment bars the States from asserting
+jurisdiction over the defendants in these two cases. In
+each case the Court so decides because it fails to find the
+"minimum contacts" that have been required since
+International Shoe Co. v. Washington, 326 U.S. 310,
+316 (1945). Because I believe that the Court reads
+International Shoe and its progeny too narrowly, and
+because I believe that the standards enunciated by those
+cases may already be obsolete as constitutional
+boundaries, I dissent.
+I
+The Court's opinions focus tightly on the existence of
+contacts between the forum and the defendant. In so
+doing, they accord too little weight to the strength of the
+forum State's interest in the case and fail to explore
+whether there [444 U.S. 300] would be any actual
+inconvenience to the defendant. The essential inquiry in
+locating the constitutional limits on state-court
+jurisdiction over absent defendants is whether the
+particular exercise of jurisdiction offends "`traditional
+notions of fair play and substantial justice.'"
+International Shoe, supra, at 316, quoting Milliken v.
+Meyer, 311 U.S. 457, 463 (1940). The clear focus in
+International Shoe was on fairness and reasonableness.
+Kulko v. California Superior Court, 436 U.S. 84, 92
+(1978). The Court specifically declined to establish a
+mechanical test based on the quantum of contacts
+between a State and the defendant:
+"Whether due process is satisfied must depend rather upon the
+quality and nature of the activity in relation to the fair and orderly
+administration of the laws which it was the purpose of the due
+process clause to insure. That clause does not contemplate that a
+state may make binding a judgment in personam against an
+individual or corporate defendant with which the state has no
+contacts, ties, or relations." 326 U. S., at 319 (emphasis added).
+The existence of contacts, so long as there were some,
+was merely one way of giving content to the
+determination of fairness and reasonableness.
+Surely International Shoe contemplated that the
+significance of the contacts necessary to support
+jurisdiction would diminish if some other consideration
+helped establish that jurisdiction would be fair and
+reasonable. The interests of the State and other parties
+in proceeding with the case in a particular forum are
+such considerations. McGee v. International Life Ins.
+Co., 355 U.S. 220, 223 (1957), for instance, accorded
+great importance to a State's "manifest interest in
+providing effective means of redress" for its citizens. See
+also Kulko v. California Superior Court, supra, at 92;
+Shaffer v. Heitner, 433 U.S. 186, 208 (1977); Mullane v.
+Central Hanover Trust Co., 339 U.S. 306, 313 (1950).
+Another consideration is the actual burden a defendant
+[444 U.S. 301] must bear in defending the suit in the
+forum. McGee, supra. Because lesser burdens reduce the
+unfairness to the defendant, jurisdiction may be justified
+despite less significant contacts. The burden, of course,
+must be of constitutional dimension. Due process limits
+on jurisdiction do not protect a defendant from all
+inconvenience of travel, McGee, supra, at 224, and it
+would not be sensible to make the constitutional rule
+turn solely on the number of miles the defendant must
+travel to the courtroom.1 Instead, the constitutionally
+significant "burden" to be analyzed relates to the
+mobility of the defendant's defense. For instance, if
+having to travel to a foreign forum would hamper the
+defense because witnesses or evidence or the defendant
+himself were immobile, or if there were a
+disproportionately large number of witnesses or amount
+of evidence that would have to be transported at the
+defendant's expense, or if being away from home for the
+duration of the trial would work some special hardship
+on the defendant, then the Constitution would require
+special consideration for the defendant's interests.
+That considerations other than contacts between the
+forum and the defendant are relevant necessarily means
+that the Constitution does not require that trial be held
+in the State which has the "best contacts" with the
+defendant. See Shaffer v. Heitner, supra, at 228
+(BRENNAN, J., dissenting). The defendant has no
+constitutional entitlement to the best forum or, for that
+matter, to any particular forum. Under even the most
+restrictive view of International Shoe, several States
+could have jurisdiction over a particular cause of action.
+We need only determine whether the forum States in
+these cases satisfy the constitutional minimum.2
+[444 U.S. 302] II
+In each of these cases, I would find that the forum State
+has an interest in permitting the litigation to go
+forward, the litigation is connected to the forum, the
+defendant is linked to the forum, and the burden of
+defending is not unreasonable. Accordingly, I would
+hold that it is neither unfair nor unreasonable to require
+these defendants to defend in the forum State.
+A
+In No. 78-952, a number of considerations suggest that
+Minnesota is an interested and convenient forum. The
+action was filed by a bona fide resident of the forum.3
+Consequently, Minnesota's interests are similar to, even
+if lesser than, the interests of California in McGee,
+supra, "in providing a forum for its residents and in
+regulating the activities of insurance companies" doing
+business in the State.4 Post, at 332. Moreover,
+Minnesota has "attempted to assert [its] particularized
+interest in trying such cases in its courts by . . . enacting
+a special jurisdictional statute." Kulko, supra, at 98;
+McGee, supra, at 221, 224. As in McGee, a resident
+forced to travel to a distant State to prosecute an action
+[444 U.S. 303] against someone who has injured him
+could, for lack of funds, be entirely unable to bring the
+cause of action. The plaintiff's residence in the State
+makes the State one of a very few convenient fora for a
+personal injury case (the others usually being the
+defendant's home State and the State where the accident
+occurred).5
+In addition, the burden on the defendant is slight. As
+Judge Friendly has recognized, Shaffer emphasizes the
+importance of identifying the real impact of the lawsuit.
+O'Connor v. Lee-Hy Paving Corp., 579 F.2d 194, 200
+(CA2 1978) (upholding the constitutionality of
+jurisdiction in a very similar case under New York's law
+after Shaffer). Here the real impact is on the defendant's
+insurer, which is concededly amenable to suit in the
+forum State. The defendant is carefully protected from
+financial liability because the action limits the prayer for
+damages to the insurance policy's liability limit.6 The
+insurer will handle the case for the defendant. The
+defendant is only a nominal party who need be no more
+active in the case than the cooperation clause of his
+policy requires. Because of the ease of airline
+transportation, he need not lose significantly more time
+than if the case were at home. Consequently, if the suit
+went forward [444 U.S. 304] in Minnesota, the
+defendant would bear almost no burden or expense
+beyond what he would face if the suit were in his home
+State. The real impact on the named defendant is the
+same as it is in a direct action against the insurer, which
+would be constitutionally permissible. Watson v.
+Employers Liability Assurance Corp., 348 U.S. 66
+(1954); Minichiello v. Rosenberg, 410 F.2d 106, 109-110
+(CA2 1968). The only distinction is the formal,
+"analytica[l] prerequisite," post, at 331, of making the
+insured a named party. Surely the mere addition of
+appellant's name to the complaint does not suffice to
+create a due process violation.7
+Finally, even were the relevant inquiry whether there
+are sufficient contacts between the forum and the
+named defendant, I would find that such contacts exist.
+The insurer's presence in Minnesota is an advantage to
+the defendant that may well have been a consideration
+in his selecting the policy he did. An insurer with offices
+in many States makes it easier for the insured to make
+claims or conduct other business that may become
+necessary while traveling. It is simply not true that
+"State Farm's decision to do business in Minnesota was
+completely adventitious as far as Rush was concerned."
+Post, at 328-329. By buying a State Farm policy, the
+defendant availed himself of the benefits he might derive
+from having an insurance agent in Minnesota who
+could, among other things, facilitate a suit for appellant
+against a Minnesota resident. It seems unreasonable to
+read the Constitution as permitting one to take
+advantage of his nationwide insurance network but not
+to be burdened by it.
+In sum, I would hold that appellant is not deprived of
+due process by being required to submit to trial in
+Minnesota, first because Minnesota has a sufficient
+interest in and connection [444 U.S. 305] to this
+litigation and to the real and nominal defendants, and
+second because the burden on the nominal defendant is
+sufficiently slight.
+B
+In No. 78-1078, the interest of the forum State and its
+connection to the litigation is strong. The automobile
+accident underlying the litigation occurred in
+Oklahoma. The plaintiffs were hospitalized in
+Oklahoma when they brought suit. Essential witnesses
+and evidence were in Oklahoma. See Shaffer v. Heitner,
+433 U. S., at 208. The State has a legitimate interest in
+enforcing its laws designed to keep its highway system
+safe, and the trial can proceed at least as efficiently in
+Oklahoma as anywhere else.
+The petitioners are not unconnected with the forum.
+Although both sell automobiles within limited sales
+territories, each sold the automobile which in fact was
+driven to Oklahoma where it was involved in an
+accident.8 It may be true, as the Court suggests, that
+each sincerely intended to limit its commercial impact to
+the limited territory, and that each intended to accept
+the benefits and protection of the laws only of those
+States within the territory. But obviously these were
+unrealistic hopes that cannot be treated as an automatic
+constitutional shield.9
+[444 U.S. 306] An automobile simply is not a stationary
+item or one designed to be used in one place. An
+automobile is intended to be moved around. Someone
+in the business of selling large numbers of automobiles
+can hardly plead ignorance of their mobility or pretend
+that the automobiles stay put after they are sold. It is not
+merely that a dealer in automobiles foresees that they
+will move. Ante, at 295. The dealer actually intends that
+the purchasers will use the automobiles to travel to
+distant States where the dealer does not directly "do
+business." The sale of an automobile does purposefully
+inject the vehicle into the stream of interstate commerce
+so that it can travel to distant States. See Kulko, 436 U.
+S., at 94; Hanson v. Denckla, 357 U.S. 235, 253 (1958).
+This case is similar to Ohio v. Wyandotte Chemicals
+Corp., 401 U.S. 493 (1971). There we indicated, in the
+course of denying leave to file an original-jurisdiction
+case, that corporations having no direct contact with
+Ohio could constitutionally be brought to trial in Ohio
+because they dumped pollutants into streams outside
+Ohio's limits which ultimately, through the action of the
+water, reached Lake Erie and affected Ohio. No
+corporate acts, only their consequences, occurred in
+Ohio. The stream of commerce is just as natural a force
+as a stream of water, and it was equally predictable that
+the cars petitioners released would reach distant States.10
+The Court accepts that a State may exercise jurisdiction
+over a distributor which "serves" that State "indirectly"
+by "deliver[ing] its products into the stream of
+commerce with the expectation that they will be
+purchased by consumers in the forum State." Ante, at
+297-298. It is difficult to see why the Constitution
+should distinguish between a case involving [444 U.S.
+307] goods which reach a distant State through a chain
+of distribution and a case involving goods which reach
+the same State because a consumer, using them as the
+dealer knew the customer would, took them there.11 In
+each case the seller purposefully injects the goods into
+the stream of commerce and those goods predictably are
+used in the forum State.12
+Furthermore, an automobile seller derives substantial
+benefits from States other than its own. A large part of
+the value of automobiles is the extensive, nationwide
+network of highways. Significant portions of that
+network have been constructed by and are maintained
+by the individual States, including Oklahoma. The
+States, through their highway programs, contribute in a
+very direct and important way to the value of
+petitioners' businesses. Additionally, a network of other
+related dealerships with their service departments
+operates throughout the country under the protection of
+the laws of the various States, including Oklahoma, and
+enhances the value of petitioners' businesses by
+facilitating their customers' traveling.
+Thus, the Court errs in its conclusion, ante, at 299
+(emphasis added), that "petitioners have no `contacts,
+ties, or relations'" with Oklahoma. There obviously are
+contacts, and, given Oklahoma's connection to the
+litigation, the contacts are sufficiently significant to
+make it fair and reasonable for the petitioners to submit
+to Oklahoma's jurisdiction.
+III
+It may be that affirmance of the judgments in these cases
+would approach the outer limits of International Shoe's
+jurisdictional [444 U.S. 308] principle. But that principle,
+with its almost exclusive focus on the rights of
+defendants, may be outdated. As MR. JUSTICE
+MARSHALL wrote in Shaffer v. Heitner, 433 U. S., at
+212: "`[T]raditional notions of fair play and substantial
+justice' can be as readily offended by the perpetuation of
+ancient forms that are no longer justified as by the
+adoption of new procedures. . . ."
+International Shoe inherited its defendant focus from
+Pennoyer v. Neff, 95 U.S. 714 (1878), and represented
+the last major step this Court has taken in the long
+process of liberalizing the doctrine of personal
+jurisdiction. Though its flexible approach represented a
+major advance, the structure of our society has changed
+in many significant ways since International Shoe was
+decided in 1945. Mr. Justice Black, writing for the Court
+in McGee v. International Life Ins. Co., 355 U.S. 220,
+222 (1957), recognized that "a trend is clearly discernible
+toward expanding the permissible scope of state
+jurisdiction over foreign corporations and other
+nonresidents." He explained the trend as follows:
+"In part this is attributable to the fundamental transformation of
+our national economy over the years. Today many commercial
+transactions touch two or more States and may involve parties
+separated by the full continent. With this increasing nationalization
+of commerce has come a great increase in the amount of business
+conducted by mail across state lines. At the same time modern
+transportation and communication have made it much less
+burdensome for a party sued to defend himself in a State where he
+engages in economic activity." Id., at 222-223.
+As the Court acknowledges, ante, at 292-293, both the
+nationalization of commerce and the ease of
+transportation and communication have accelerated in
+the generation since 1957.13 [444 U.S. 309] The model of
+society on which the International Shoe Court based its
+opinion is no longer accurate. Business people, no
+matter how local their businesses, cannot assume that
+goods remain in the business' locality. Customers and
+goods can be anywhere else in the country usually in a
+matter of hours and always in a matter of a very few
+days.
+In answering the question whether or not it is fair and
+reasonable to allow a particular forum to hold a trial
+binding on a particular defendant, the interests of the
+forum State and other parties loom large in today's
+world and surely are entitled to as much weight as are
+the interests of the defendant. The "orderly
+administration of the laws" provides a firm basis for
+according some protection to the interests of plaintiffs
+and States as well as of defendants.14 Certainly, I cannot
+see how a defendant's right to due process is violated if
+the defendant suffers no inconvenience. See ante, at 294.
+The conclusion I draw is that constitutional concepts of
+fairness no longer require the extreme concern for
+defendants that was once necessary. Rather, as I wrote
+in dissent from Shaffer v. Heitner, supra, at 220
+(emphasis added), minimum [444 U.S. 310] contacts
+must exist "among the parties, the contested transaction,
+and the forum State."15 The contacts between any two
+of these should not be determinate. "[W]hen a suitor
+seeks to lodge a suit in a State with a substantial interest
+in seeing its own law applied to the transaction in
+question, we could wisely act to minimize conflicts,
+confusion, and uncertainty by adopting a liberal view of
+jurisdiction, unless considerations of fairness or
+efficiency strongly point in the opposite direction."16
+433 U. S., at 225-226. Mr. Justice Black, dissenting in
+Hanson v. Denckla, 357 U. S., at 258-259, expressed
+similar concerns by suggesting that a State should have
+jurisdiction over a case growing out of a transaction
+significantly related to that State "unless litigation there
+would impose such a heavy and disproportionate
+burden on a nonresident defendant that it would offend
+what this Court has referred to as `traditional notions of
+fair play and substantial justice.'"17 Assuming [444 U.S.
+311] that a State gives a nonresident defendant adequate
+notice and opportunity to defend, I do not think the Due
+Process Clause is offended merely because the defendant
+has to board a plane to get to the site of the trial.
+The Court's opinion in No. 78-1078 suggests that the
+defendant ought to be subject to a State's jurisdiction
+only if he has contacts with the State "such that he
+should reasonably anticipate being haled into court
+there."18 Ante, at 297. There is nothing unreasonable or
+unfair, however, about recognizing commercial reality.
+Given the tremendous mobility of goods and people,
+and the inability of businessmen to control where goods
+are taken by customers (or retailers), I do not think that
+the defendant should be in complete control of the
+geographical stretch of his amenability to suit.
+Jurisdiction is no longer premised on the notion that
+nonresident defendants have somehow impliedly
+consented to suit. People should understand that they
+are held responsible for the consequences of their
+actions and that in our society most actions have
+consequences affecting many States. When an action in
+fact causes injury in another State, the actor should be
+prepared to answer for it there unless defending in that
+State would be unfair for some reason other than that a
+state boundary must be crossed.19
+In effect the Court is allowing defendants to assert the
+sovereign [444 U.S. 312] rights of their home States. The
+expressed fear is that otherwise all limits on personal
+jurisdiction would disappear. But the argument's
+premise is wrong. I would not abolish limits on
+jurisdiction or strip state boundaries of all significance,
+see Hanson, supra, at 260 (Black, J., dissenting); I would
+still require the plaintiff to demonstrate sufficient
+contacts among the parties, the forum, and the litigation
+to make the forum a reasonable State in which to hold
+the trial.20
+I would also, however, strip the defendant of an
+unjustified veto power over certain very appropriate
+fora—a power the defendant justifiably enjoyed long ago
+when communication and travel over long distances
+were slow and unpredictable and when notions of state
+sovereignty were impractical and exaggerated. But I
+repeat that that is not today's world. If a plaintiff can
+show that his chosen forum State has a sufficient
+interest in the litigation (or sufficient contacts with the
+defendant), then the defendant who cannot show some
+real injury to a constitutionally protected interest, see
+O'Connor v. Lee-Hy Paving Corp., 579 F. 2d, at 201,
+should have no constitutional excuse not to appear.21
+The plaintiffs in each of these cases brought suit in a
+forum with which they had significant contacts and
+which had significant contacts with the litigation. I am
+not convinced that the defendants would suffer any
+"heavy and disproportionate burden" in defending the
+suits. Accordingly, I would hold [444 U.S. 313] that the
+Constitution should not shield the defendants from
+appearing and defending in the plaintiffs' chosen fora.

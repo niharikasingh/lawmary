@@ -1,0 +1,409 @@
+Phyllis Gray appeals from a judgment of the circuit court
+of Cook County dismissing her action for damages. The
+issues are concerned with the construction and validity
+of our statute providing for substituted service of
+process on nonresidents. Since a constitutional question
+is involved, the appeal is direct to this court.
+The suit was brought against the Titan Valve
+Manufacturing Company and others, on the ground that
+a certain water heater had exploded and injured the
+plaintiff. The complaint charges, inter alia, that the
+Titan company, a foreign corporation, had negligently
+constructed the safety valve; and that the injuries were
+suffered as a proximate result thereof. Summons issued
+and was duly served on Titan's registered agent in
+Cleveland, Ohio. The corporation appeared specially,
+filing a motion to quash on the ground that it had not
+committed a tortious act in Illinois. Its affidavit stated
+that it does no business here; that it has no agent
+physically present in Illinois; and that it sells the
+completed valves to defendant, American Radiator &
+Standard Sanitary Corporation, outside Illinois. The
+American Radiator & Standard Sanitary Corporation
+(also made a defendant) filed an answer in which it set
+up a cross claim against Titan, alleging that Titan made
+certain warranties to American Radiator, and that if the
+latter is held liable to the plaintiff it should be
+indemnified and held harmless by Titan. The court
+granted Titan's motion, dismissing both the complaint
+and the cross claim.
+[22 Ill.2d 435] Section 16 of the Civil Practice Act
+provides that summons may be personally served upon
+any party outside the State; and that as to nonresidents
+who have submitted to the jurisdiction of our courts,
+such service has the force and effect of personal service
+within Illinois. (Ill. Rev. Stat. 1959, chap. 110, par. 16.)
+Under section 17(1) (b) a non-resident who, either in
+person or through an agent, commits a tortious act
+within this State submits to jurisdiction. (Ill. Rev. Stat.
+1959, chap. 110, par. 17.) The questions in this case are
+(1) whether a tortious act was committed here, within
+the meaning of the statute, despite the fact that the
+Titan corporation had no agent in Illinois; and (2)
+whether the statute, if so construed, violates due process
+of law.
+The first aspect to which we must direct our attention is
+one of statutory construction. Under section 17(1) (b)
+jurisdiction is predicated on the committing of a
+tortious act in this State. It is not disputed, for the
+purpose of this appeal, that a tortious act was
+committed. The issue depends on whether it was
+committed in Illinois, so as to warrant the assertion of
+personal jurisdiction by service of summons in Ohio.
+The wrong in the case at bar did not originate in the
+conduct of a servant physically present here, but arose
+instead from acts performed at the place of manufacture.
+Only the consequences occurred in Illinois. It is well
+established, however, that in law the place of a wrong is
+where the last event takes place which is necessary to
+render the actor liable. (Restatement, Conflict of Laws,
+sec. 377.) A second indication that the place of injury is
+the determining factor is found in rules governing the
+time within which an action must be brought. In
+applying statutes of limitation our court has computed
+the period from the time when the injury is done.
+(Madison v. Wedron Silica Co. 352 Ill. 60; Leroy v. City
+of Springfield, 81 Ill. 114.) We think it is clear that the
+alleged negligence in manufacturing the valve cannot be
+separated from the resulting injury; [22 Ill.2d 436] and
+that for present purposes, like those of liability and
+limitations, the tort was committed in Illinois.
+Titan seeks to avoid this result by arguing that instead of
+using the word "tort," the legislature employed the term
+"tortious act"; and that the latter refers only to the act or
+conduct, separate and apart from any consequences
+thereof. We cannot accept the argument. To be tortious
+an act must cause injury. The concept of injury is an
+inseparable part of the phrase. In determining legislative
+intention courts will read words in their ordinary and
+popularly understood sense. (Illinois State Toll Highway
+Com. v. Einfeldt, 12 Ill.2d 499; Farrand Coal Co. v.
+Halpin, 10 Ill.2d 507.) We think the intent should be
+determined less from technicalities of definition than
+from considerations of general purpose and effect. To
+adopt the criteria urged by defendant would tend to
+promote litigation over extraneous issues concerning
+the elements of a tort and the territorial incidence of
+each, whereas the test should be concerned more with
+those substantial elements of convenience and justice
+presumably contemplated by the legislature. As we
+observed in Nelson v. Miller, 11 Ill.2d 378, the statute
+contemplates the exertion of jurisdiction over
+nonresident defendants to the extent permitted by the
+due-process clause.
+The Titan company contends that if the statute is
+applied so as to confer jurisdiction in this case it violates
+the requirement of due process of law. The precise
+constitutional question thus presented has not
+heretofore been considered by this court. In the Nelson
+case the validity of the statute was upheld in an action
+against a nonresident whose employee, while physically
+present in Illinois, allegedly caused the injury. The ratio
+decidendi was that Illinois has an interest in providing
+relief for injuries caused by persons having "substantial
+contacts within the State." A standard of fairness or
+reasonableness was announced, within the limitation
+that defendant be given a realistic opportunity to appear
+and be heard. The case at bar concerns the extent [22
+Ill.2d 437] to which due process permits substituted
+service where defendant had no agent or employee in
+the State of the forum.
+Under modern doctrine the power of a State court to
+enter a binding judgment against one not served with
+process within the State depends upon two questions:
+first, whether he has certain minimum contacts with the
+State (see International Shoe Co. v. Washington, 326
+U.S. 310, 316, 90 L.ed. 95, 102), and second, whether
+there has been a reasonable method of notification. (See
+International Shoe Co. v. Washington, 326 U.S. 310,
+320, 90 L.ed. 95, 104-105; Nelson v. Miller, 11 Ill.2d 378,
+390.) In the case at bar there is no contention that
+section 16 provides for inadequate notice or that its
+provisions were not followed. Defendant's argument on
+constitutionality is confined to the proposition that
+applying section 17(1) (b), where the injury is
+defendant's only contact with the State, would exceed
+the limits of due process.
+A proper determination of the question presented
+requires analysis of those cases which have dealt with
+the quantum of contact sufficient to warrant
+jurisdiction. Since the decision in Pennoyer v. Neff, 95
+U.S. 714, 24 L.ed. 565, the power of a State to exert
+jurisdiction over non-residents has been greatly
+expanded, particularly with respect to foreign
+corporations. (See Annotations, 2 L.ed.2d 1664, 94 L.ed.
+1167.) International Shoe Co. v. Washington, 326 U.S.
+310, 90 L.ed. 95, was a proceeding to collect unpaid
+contributions to the unemployment compensation fund
+of the State of Washington. A statute purported to
+authorize such proceedings, where the employer was
+not found within the State, by sending notice by
+registered mail to its last known address. The defendant
+foreign corporation, a manufacturer of shoes, employed
+certain salesmen who resided in Washington and who
+solicited orders there. In holding that maintenance of
+the suit did not violate due process the court pointed out
+that the activities of the corporation in Washingon were
+not only continuous and [22 Ill.2d 438] systematic but
+also gave rise to the liability sued on. It was observed
+that such operations, which resulted in a large volume of
+business, established "sufficient contacts or ties with the
+state of the forum to make it reasonable and just
+according to our traditional conception of fair play and
+substantial justice to permit the state to enforce the
+obligations which appellant has incurred there." 326
+U.S. at 320, 90 L.ed. at 104.
+Where the business done by a foreign corporation in
+the State of the forum is of a sufficiently substantial
+nature, it has been held permissible for the State to
+entertain a suit against it even though the cause of
+action arose from activities entirely distinct from its
+conduct within the State. (Perkins v. Benguet
+Consolidated Mining Co.342 U.S. 437, 96 L.ed. 485.)
+But where such business or other activity is not
+substantial, the particular act or transaction having no
+connection with the State of the forum, the requirement
+of "contact" is not satisfied. Hanson v. Denckla, 357 U.S.
+235, 253, 2 L.ed.2d 1283, 1298.
+In the case at bar the defendant's only contact with this
+State is found in the fact that a product manufactured in
+Ohio was incorporated, in Pennsylvania, into a hot
+water heater which in the course of commerce was sold
+to an Illinois consumer. The record fails to disclose
+whether defendant has done any other business in
+Illinois, either directly or indirectly; and it is argued, in
+reliance on the International Shoe test, that since a
+course of business here has not been shown there are no
+"minimum contacts" sufficient to support jurisdiction.
+We do not think, however, that doing a given volume
+of business is the only way in which a nonresident can
+form the required connection with this State. Since the
+International Shoe case was decided the requirements
+for jurisdiction have been further relaxed, so that at the
+present time it is sufficient if the act or transaction itself
+has a substantial connection with the State of the forum.
+[22 Ill.2d 439] In McGee v. International Life Insurance
+Co.355 U.S. 220, 2 L.ed.2d 223, suit was brought in
+California against a foreign insurance company on a
+policy issued to a resident of California. The defendant
+was not served with process in that State but was
+notified by registered mail at its place of business in
+Texas, pursuant to a statute permitting such service in
+suits on insurance contracts. The contract in question
+was delivered in California, the premiums were mailed
+from there and the insured was a resident of that State
+when he died, but defendant had no office or agent in
+California nor did it solicit any business there apart
+from the policy sued on. After referring briefly to the
+International Shoe case the court held that "it is
+sufficient for purposes of due process that the suit was
+based on a contract which had substantial connection"
+with California. (Emphasis supplied.)
+In Smyth v. Twin State Improvement Corp. 116 Vt.
+569, 80 A.2d 664, a Vermont resident engaged a foreign
+corporation to re-roof his house. While doing the work
+the corporation negligently damaged the building, and
+an action was brought for damages. Service of process
+was made on the Secretary of State and a copy was
+forwarded to defendant by registered mail at its
+principal place of business in Massachusetts. A Vermont
+statute provided for such substituted service on foreign
+corporations committing a tort in Vermont against a
+resident of Vermont. In holding that the statute affords
+due process of law, the court discussed the principal
+authorities on the question and concluded, inter alia,
+that "continuous activity within the state is not
+necessary as a prerequisite to jurisdiction."
+In Nelson v. Miller, 11 Ill.2d 378, the commission of a
+single tort within this State was held sufficient to sustain
+jurisdiction under the present statute. The defendant in
+that case, a resident of Wisconsin, was engaged in the
+business of selling appliances. It was alleged that in the
+process of delivering a stove in Illinois, an employee of
+the defendant [22 Ill.2d 440] negligently caused injury
+to the plaintiff. In holding that the defendant was not
+denied due process by being required to defend in
+Illinois, this court observed at page 390: "The defendant
+sent his employee into Illinois in the advancement of his
+own interests. While he was here, the employee and the
+defendant enjoyed the benefit and protection of the laws
+of Illinois, including the right to resort to our courts. In
+the course of his stay here the employee performed acts
+that gave rise to an injury. The law of Illinois will
+govern the substantive rights and duties stemming from
+the incident. Witnesses, other than the defendant's
+employee, are likely to be found here, and not in
+Wisconsin. In such circumstances, it is not unreasonable
+to require the defendant to make his defense here."
+Whether the type of activity conducted within the State
+is adequate to satisfy the requirement depends upon the
+facts in the particular case. (Perkins v. Benguet
+Consolidated Mining Co.342 U.S. 437, 445, 96 L.ed.
+485, 492.) The question cannot be answered by applying
+a mechanical formula or rule of thumb but by
+ascertaining what is fair and reasonable in the
+circumstances. In the application of this flexible test the
+relevant inquiry is whether defendant engaged in some
+act or conduct by which he may be said to have invoked
+the benefits and protections of the law of the forum.
+(See Hanson v. Denckla, 357 U.S. 235, 253, 2 L.ed.2d
+1283, 1298; International Shoe Co. v. Washington, 326
+U.S. 310, 319, 90 L.ed. 95, 104.) The relevant decisions
+since Pennoyer v. Neff show a development of the
+concept of personal jurisdiction from one which
+requires service of process within the State to one which
+is satisfied either if the act or transaction sued on occurs
+there or if defendant has engaged in a sufficiently
+substantial course of activity in the State, provided
+always that reasonable notice and opportunity to be
+heard are afforded. As the Vermont court recognized in
+the Smyth case, the [22 Ill.2d 441] trend in defining due
+process of law is away from the emphasis on territorial
+limitations and toward emphasis on providing adequate
+notice and opportunity to be heard: from the court with
+immediate power over the defendant, toward the court
+in which both parties can most conveniently settle their
+dispute.
+In the McGee case the court commented on the trend
+toward expanding State jurisdiction over nonresidents,
+observing that: "In part this is attributable to the
+fundamental transformation of our national economy
+over the years. Today many commercial transactions
+touch two or more States and may involve parties
+separated by the full continent. With this increasing
+nationalization of commerce has come a great increase
+in the amount of business conducted by mail across state
+lines. At the same time modern transportation and
+communication have made it much less burdensome for
+a party sued to defend himself in a State where he
+engages in economic activity."
+It is true that courts cannot "assume that this trend
+heralds the eventual demise of all restrictions on the
+personal jurisdiction of state courts." (Hanson v.
+Denckla, 357 U.S. 235, 251, 2 L.ed.2d 1283, 1296.) An
+orderly and fair administration of the law throughout
+the nation requires protection against being compelled
+to answer claims brought in distant States with which
+the defendant has little or no association and in which
+he would be faced with an undue burden or
+disadvantage in making his defense. It must be
+remembered that lawsuits can be brought on frivolous
+demands or groundless claims as well as on legitimate
+ones, and that procedural rules must be designed and
+appraised in the light of what is fair and just to both
+sides in the dispute. Interpretations of basic rights which
+consider only those of a claimant are not consonant
+with the fundamental requisites of due process.
+In the case at bar defendant does not claim that the [22
+Ill.2d 442] present use of its product in Illinois is an
+isolated instance. While the record does not disclose the
+volume of Titan's business or the territory in which
+applicances incorporating its valves are marketed, it is a
+reasonable inference that its commercial transactions,
+like those of other manufacturers, result in substantial
+use and consumption in this State. To the extent that its
+business may be directly affected by transactions
+occurring here it enjoys benefits from the laws of this
+State, and it has undoubtedly benefited, to a degree,
+from the protection which our law has given to the
+marketing of hot water heaters containing its valves.
+Where the alleged liability arises, as in this case, from
+the manufacture of products presumably sold in
+contemplation of use here, it should not matter that the
+purchase was made from an independent middleman or
+that someone other than the defendant shipped the
+product into this State.
+With the increasing specialization of commercial
+activity and the growing interdependence of business
+enterprises it is seldom that a manufacturer deals
+directly with consumers in other States. The fact that
+the benefit he derives from its laws is an indirect one,
+however, does not make it any the less essential to the
+conduct of his business; and it is not unreasonable,
+where a cause of action arises from alleged defects in his
+product, to say that the use of such products in the
+ordinary course of commerce is sufficient contact with
+this State to justify a requirement that he defend here.
+As a general proposition, if a corporation elects to sell its
+products for ultimate use in another State, it is not
+unjust to hold it answerable there for any damage caused
+by defects in those products. Advanced means of
+distribution and other commercial activity have made
+possible these modern methods of doing business, and
+have largely effaced the economic significance of State
+lines. By the same token, today's facilities for
+transportation and communication have removed much
+of the difficulty and inconvenience [22 Ill.2d 443]
+formerly encountered in defending lawsuits brought in
+other States.
+Unless they are applied in recognition of the changes
+brought about by technological and economic progress,
+jurisdictional concepts which may have been reasonable
+enough in a simpler economy lose their relation to
+reality, and injustice rather than justice is promoted.
+Our unchanging principles of justice, whether
+procedural or substantive in nature, should be
+scrupulously observed by the courts. But the rules of law
+which grow and develop within those principles must
+do so in the light of the facts of economic life as it is
+lived today. Otherwise the need for adaptation may
+become so great that basic rights are sacrificed in the
+name of reform, and the principles themselves become
+impaired.
+The principles of due process relevant to the issue in
+this case support jurisdiction in the court where both
+parties can most conveniently settle their dispute. The
+facts show that the plaintiff, an Illinois resident, was
+injured in Illinois. The law of Illinois will govern the
+substantive questions, and witnesses on the issues of
+injury, damages and other elements relating to the
+occurrence are most likely to be found here. Under such
+circumstances the courts of the place of injury usually
+provide the most convenient forum for trial. (See
+Watson v. Employers Liability Assurance Corp.348 U.S.
+66, 72, 99 L.ed. 74, 82.) In Travelers Health Association
+v. Virginia, 339 U.S. 643, 94 L.ed. 1154, a Nebraska
+insurance corporation was held subject to the
+jurisdiction of a Virginia regulatory commission
+although it had no paid agents within the State and its
+only contact there was a mail-order business operated
+from its Omaha office. The court observed, by way of
+dictum, that "suits on alleged losses can be more
+conveniently tried in Virginia where witnesses would
+most likely live and where claims for losses would
+presumably be investigated. Such factors have been
+given great weight in applying the doctrine [22 Ill.2d
+444] of forum non conveniens. See Gulf Oil Co. v.
+Gilbert, 330 U.S. 501, 508, 91 L.ed. 1055, 1062, 67 S.Ct.
+839. And prior decisions of this Court have referred to
+the unwisdom, unfairness and injustice of permitting
+policyholders to seek redress only in some distant state
+where the insurer is incorporated. The Due Process
+Clause does not forbid a state to protect its citizens from
+such injustice." (339 U.S. at 649, 94 L.ed. 1161-1162.)
+We think a similar conclusion must follow in the case at
+bar.
+We are aware of decisions, cited by defendant, wherein
+the opposite result was reached on somewhat similar
+factual situations. (See Erlanger Mills, Inc. v. Cohoes
+Fibre Mills, Inc., 239 F.2d 502 (4th cir.); Hellriegel v.
+Sears Roebuck & Co.157 F.Supp. 718 (N.D. Ill., E.D.);
+Johns v. Bay State Abrasive Products Co.89 F.Supp. 654
+(D. Md., Civ. D.).) Little purpose can be served,
+however, by discussing such cases in detail, since the
+existence of sufficient "contact" depends upon the
+particular facts in each case. In any event we think the
+better rule supports jurisdiction in cases of the present
+kind. We conclude accordingly that defendant's
+association with this State is sufficient to support the
+exercise of jurisdiction.
+We construe section 17(1) (b) as providing for
+jurisdiction under the circumstances shown in this case,
+and we hold that as so construed the statute does not
+violate due process of law.
+The trial court erred in quashing service of summons
+and in dismissing the complaint and cross claim. The
+judgment is reversed and the cause is remanded to the
+circuit court of Cook County, with directions to deny
+the motion to quash.
+Reversed and remanded, with directions.

@@ -1,0 +1,43 @@
+Appellant, a third-party defendant in a product liability
+case, appeals a district court judgment in favor of the
+defendant. The jury found for the defendant on the
+ground that the defective aspects of the product at issue,
+a ladder, did not cause the plaintiff's injuries. The jury
+also found, via special verdict, that appellant made the
+ladder in question and that it was defective. Appellant
+argues that the district court should, somehow, have set
+aside the finding that the appellant made the ladder.
+Appellant cannot appeal the district court's failure to set
+aside this finding for the basic reason that appellant did
+not lose the case below; it won. A party cannot appeal a
+judgment entered in its favor, because it lacks a
+"personal stake in the appeal" sufficient to support
+appellate jurisdiction. Deposit Guaranty National Bank
+v. Roper, 445 U.S. 326, 336, 100 S.Ct. 1166, 1173, 63
+L.Ed.2d 427 (1980); see 9 J. Moore, Federal Practice ¶
+203.06, at 3-23 (2d ed. 1985).
+Appellant argues that an exception should be made, lest
+the jury's finding be used against it in some future
+litigation. But, the short and conclusive answer to this
+contention is that the challenged finding has no
+collateral estoppel effect, for it was not essential to the
+favorable judgment. See Raxton Corp. v. Anania
+Associates, Inc., 668 F.2d 622, 624 (1st Cir.1982); 18 C.
+Wright, A. Miller & E. Cooper, Federal Practice and
+Procedure § 4421, at 199-203 (1981); Scott, Collateral
+Estoppel by Judgment, 56 Harv.L.Rev. 1, 12-15 (1942).
+The cases that appellant cites to the contrary involve
+special circumstances not present here. See Deposit
+Guaranty National Bank v. Roper, 445 U.S. at 332-33,
+100 S.Ct. at 1170-71 [806 F.2d 1128] (allowing plaintiffs
+who received judgment in their favor to appeal denial of
+class action certification — a separate judicial holding
+that directly affected their "economic interest");
+Electrical Fittings Corp. v. Thomas & Betts Co., 307 U.S.
+241, 59 S.Ct. 860, 83 L.Ed. 1263 (1939) (allowing
+victorious defendants in patent infringement suit to
+appeal to eliminate from the decree the finding that the
+patent, though not infringed, was valid — a finding with
+direct and significant impact on the appellant). Thus, we
+follow the general rule, not the exceptions.
+Appeal Dismissed.

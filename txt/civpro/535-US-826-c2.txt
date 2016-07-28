@@ -1,0 +1,38 @@
+For reasons stated by Chief Judge Markey, writing for a
+unanimous en banc Federal Circuit in Aerojet-General
+Corp. v. Machine Tool Works, Oerlikon-Buehrle Ltd.,
+895 F.2d 736 (1990), I conclude that, when the claim
+stated in a compulsory counterclaim "aris[es] under"
+federal patent law and is adjudicated on the merits by a
+federal district court, the Federal Circuit has exclusive
+appellate jurisdiction over that adjudication and other
+determinations made in the same case. See id., at 741-
+744 (distinguishing Christianson v. Colt Industries
+Operating Corp., 486 U.S. 800 (1988), in which this
+Court affirmed the jurisdictional decision of the Federal
+Circuit; in discussing the "well-pleaded complaint rule,"
+the Federal Circuit observed that a patent infringement
+[535 U.S. 840] counterclaim, unlike a patent issue raised
+only as a defense, has as its own, independent
+jurisdictional base 28 U. S. C. § 1338, i. e., such a claim
+discretely "arises under the patent laws").
+The question now before this Court bears not at all on a
+plaintiff's choice of trial forum. The sole question
+presented here concerns Congress' allocation of
+adjudicatory authority among the federal courts of
+appeals. At that appellate level, Congress sought to
+eliminate forum shopping and to advance uniformity in
+the interpretation and application of federal patent law.
+See generally Dreyfuss, The Federal Circuit: A Case
+Study in Specialized Courts, 64 N. Y. U. L. Rev. 1, 30-37
+(1989).
+The Court's opinion dwells on district court authority.
+See ante, at 829-832. But, all agree, Congress left that
+authority entirely untouched. I would attend, instead, to
+the unique context at issue, and give effect to Congress'
+endeavor to grant the Federal Circuit exclusive appellate
+jurisdiction at least over district court adjudications of
+patent claims. See Dreyfuss, supra, at 36.
+In the instant case, however, no patent claim was
+actually adjudicated. For that sole reason, I join the
+Court's judgment.

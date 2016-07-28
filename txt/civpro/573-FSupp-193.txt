@@ -1,0 +1,283 @@
+Abbott Laboratories and Abbott Laboratories
+International Company (collectively "Abbott" in the
+singular) has brought this four-count diversity action
+challenging the refusal by its insurer, Granite State
+Insurance Company ("Granite"), to indemnify Abbott
+for certain insured losses:
+1. Count I is a contractual claim for the amount due on the
+insurance policy.
+2. Count II is based on Illinois Insurance Code § 155 ("Section
+155"), Ill.Rev. Stat. ch. 73, § 767, which permits certain
+extraordinary costs to be taxed against an insurer that vexatiously
+and unreasonably refuses to pay: attorneys' fees plus an additional
+amount not to exceed any of the three ceiling amounts prescribed
+in Section 155.
+3. Count III purports to be a tort claim seeking compensatory and
+punitive damages for Granite's wilful refusal to pay — a breach of its
+duty of good faith and fair dealing towards insureds.
+4. Count IV characterizes Granite's assertedly vexatious and
+unreasonable refusal to pay as an "improper claims practice"
+proscribed by Illinois Insurance Code § 154.6 ("Section 154.6"),
+Ill.Rev. Stat. ch. 73, § 766.6, and seeks punitive damages under that
+provision.
+Granite has now moved to dismiss Counts III and IV for
+failure to state a claim. For the reasons stated in this
+memorandum opinion and order, its motion is granted.
+Count III
+Granite contends Section 1551 has displaced the
+common law tort remedy for vexatious delay asserted in
+Count III. As this Court explained in Evaluation
+Systems, Inc. v. Aetna Life Insurance Co., 555 F.Supp.
+116, 120 (N.D.Ill.1982), the Illinois Appellate Courts are
+sharply divided on that issue:
+Without even addressing the preemptive implications of the
+statutory remedy, the Fifth District Appellate Court recognized
+[573 F.Supp. 195] an independent tort action against insurers for
+breach of their implied duty of good faith and fair dealing.
+Ledingham v. Blue Cross Plan for Hospital Care, 29 Ill.App.3d 339,
+330 N.E.2d 540 (5th Dist.1975). Ledingham has had a mixed
+reception in the other Illinois Appellate districts. Both the First and
+Third Districts have disapproved of Ledingham, concluding the
+original Section 155 foreclosed any judicial enhancement (via
+common law tort remedy) of recovery for vexatious delay. Tobolt v.
+Allstate Insurance Co., 75 Ill.App.3d 57 [30 Ill.Dec. 824], 393
+N.E.2d 1171 (1st Dist.1979); Debolt v. Mutual of Omaha, 56
+Ill.App.3d 111 [13 Ill.Dec. 656], 371 N.E.2d 373 (3d Dist.1978).
+Tobolt also found the 1977 amendment to Section 155 (its current
+version) also manifested a legislative intent to preempt the field.
+However the Fourth District has endorsed the availability of
+Ledingham's tort remedy in cases to which the amended Section
+155 cannot be retroactively applied (it has not yet ruled whether the
+present Section 155 has preemptive effect). Lynch v. Mid-America
+Fire & Marine, 94 Ill.App.3d 21 [49 Ill.Dec. 567], 418 N.E.2d 421
+(4th Dist.1981). And the Second District has said a tort remedy for
+compensatory damages may lie despite Section 155. Hoffman v.
+Allstate Insurance Co., 85 Ill.App.3d 631 [40 Ill.Dec. 925], 407
+N.E.2d 156 (2d Dist.1980).
+Employing the "Supreme Court-predictive" approach to
+the Erie problem posed by that split of authority, this
+Court's colleague Judge Marshall recently concluded
+Section 155 did not preempt the Ledingham tort. Kelly
+v. Stratton, 552 F.Supp. 641 (N.D.Ill.1982). However,
+for the reasons expounded at length in Commercial
+Discount Corp. v. King, 552 F.Supp. 841, 847-52
+(N.D.Ill.1982), this Court perceives its Erie obligations
+differently. In this Court's view Erie (as amplified in
+Klaxon Co. v. Stentor Electric Manufacturing Co., 313
+U.S. 487, 496, 61 S.Ct. 1020, 1021, 85 L.Ed. 1477 (1941))
+demands adherence to the Illinois "internal" choice of
+law rule that binds a state trial court to the decisions of
+the Appellate Court in its own district when the
+Appellate Courts diverge. In this case, this Court sits in
+the same position as a Cook County Circuit Judge in the
+First Appellate District, for the Illinois venue statute (Ill.
+Rev.Stat. ch. 110, § 2-101) would have permitted Abbott
+to sue Granite (a foreign corporation) in Cook County.2
+Consequently the position taken by the First Appellate
+District in Tobolt is dispositive here: Section 155
+preempts any tort remedy for vexatious and
+unreasonable refusal to pay insurance proceeds. Count
+III must therefore be dismissed.
+Count IV
+Tobolt, 75 Ill.App.3d at 71, 30 Ill. Dec. at 834, 393
+N.E.2d at 1181 also spells the demise of Count IV by
+refusing to find any private right of action for violations
+of Section 154.6:
+Plaintiffs cite the provisions of section 154.6 and its predecessor
+(Ill.Rev.Stat. 1977, ch. 73, par. 766.6), defining an improper claims
+practice as
+(d) not attempting in good faith to effectuate prompt, fair and
+equitable settlement of claims submitted in which liability has
+become reasonably clear,
+as showing that the legislature by it has expressly ratified the cause
+of action [for the insurer's breach of its duty to deal in good faith
+with its insureds]. We disagree. That section is a definition section.
+It provides no remedy. Section 155 does.
+No other Illinois appellate court appears to have
+addressed the issue. Under Erie principles that should
+settle the matter in Granite's favor.
+Abbott nonetheless urges an implied right of action is
+maintainable under Sawyer Realty Group, Inc. v. Jarvis
+Corp., 89 Ill.2d 379, 59 Ill.Dec. 905, 432 N.E.2d 849
+(1982).[573 F.Supp. 196] On the contrary, proper
+analysis of the Sawyer standard governing judicial
+recognition of an implied right of action fortifies Tobolt
+and defeats Abbott (89 Ill.2d at 386, 59 Ill.Dec. at 908,
+432 N.E.2d at 852; emphasis added, citations omitted):
+It is clear that it is not necessary to show a specific legislative intent
+to create a private right of action. If there is no indication that the
+remedies available are only those the legislature expressed in the
+Act, then where it is consistent with the underlying purpose of the
+Act and necessary to achieve the aim of the legislation, a private
+right of action can be implied.... The court looks to the totality of
+circumstances in endeavoring to discover legislative intent.
+No doubt authorizing private suits under Section 154.6
+would be "consistent with" its underlying purpose of
+protecting insureds. But a private remedy is scarcely
+"necessary" to further that purpose. As Tobolt indicated,
+insureds can resort to Section 155 to redress any injury
+flowing from the insurer's vexatious refusal to pay.
+Section 155's ceilings on the penalty (a form of punitive
+damages) assessed for vexatious conduct reflect the
+Illinois General Assembly's judgment as to the necessary
+insurer's incentive to refrain from such conduct. If
+anything, such limitations on punitive damages militate
+against a finding of legislative intent to permit private
+actions under Section 154.6, for those constraints would
+otherwise be rendered nugatory.3 Finally, Illinois
+Insurance Code § 154.8, Ill.Rev.Stat. ch. 73, § 766.8,
+empowers the Illinois Director of Insurance to issue
+cease and desist orders to any insurer who commits any
+"improper claims practice" enumerated in Section 154.6.
+Appendix
+Debates begin to grow tiresome even to the debaters (let
+alone the audience) whenever the debaters begin to
+repeat themselves.2 But so long as the ongoing efforts to
+eliminate (or to impose significant curbs on) federal
+diversity jurisdiction do not bear fruit, definition of the
+federal courts' proper role in diversity cases remains
+highly important. And when so ordinarily thoughtful a
+jurist as this Court's colleague Prentice Marshall can fall
+victim to what this Court sees as flawed analysis in this
+area, this Court may perhaps be pardoned a further brief
+response. This Appendix will not deal chapter and verse
+with Judge Marshall's Roberts opinion, for a few salient
+points (supplementing this Court's Commercial
+Discount discussion) should suffice.
+As a preliminary matter, this Court is of course keenly
+mindful that Erie v. Tompkins may forcefully be argued
+to undercut the Supremacy Clause. It does reduce the
+independent judging function of federal courts
+(including the Supreme Court) in diversity cases — the
+obligation to decide "cases" and "controversies" — to the
+task of slavish adherence to state court doctrine. But
+because this Court "writ[es] on [573 F.Supp. 197] the
+shores of Lake Michigan rather than the banks of the
+Potomac," Erie and its progeny must be followed. What
+does that mean to the litigant?
+Any proper response to that inquiry requires answering
+just why federal courts are obliged under Erie to apply
+state substantive law in disputes between diversity-ofcitizenship
+adversaries. Erie itself supplies the answer
+(304 U.S. at 74-75, 58 S.Ct. at 820-821):
+Diversity of citizenship jurisdiction was conferred in order to
+prevent apprehended discrimination in state courts against those
+not citizens of the State. Swift v. Tyson introduced grave
+discrimination by non-citizens against citizens. It made rights
+enjoyed under the unwritten "general law" vary according to
+whether enforcement was sought in the state or in the federal
+court; and the privilege of selecting the court in which the right
+should be determined was conferred upon the non-citizen. Thus,
+the doctrine rendered impossible equal protection of the law. In
+attempting to promote uniformity of law throughout the United
+States, the doctrine had prevented uniformity in the administration
+of the law of the State.
+Accord, Guaranty Trust Co. v. York, 326 U.S. 99, 109,
+65 S.Ct. 1464, 1470, 89 L.Ed. 2079 (1945):
+The nub of the policy that underlies Erie R. Co. v. Tompkins is that
+for the same transaction the accident of a suit by a non-resident
+litigant in a federal court instead of in a State court a block away
+should not lead to a substantially different result.
+Exactly the same idea was put succinctly in Klaxon Co.
+v. Stentor Electric Manufacturing Co., 313 U.S. 487,
+496, 61 S.Ct. 1020, 1021, 85 L.Ed. 1477 (1941) (treating
+choice-of-law rules as substantive, not procedural, for
+Erie purposes):
+Otherwise, the accident of diversity of citizenship would constantly
+disturb equal administration of justice in coordinate state and
+federal courts sitting side by side.
+If that concept of "equal administration of justice" is to
+have any meaning at all, it must mean the diversity
+plaintiff or defendant in the federal court system is
+required to be placed in as near a position as possible to
+the state court plaintiff or defendant asserting a like
+claim or defense.
+From that perspective the most curious, and most
+troublesome, aspect of Roberts lies in Judge Marshall's
+total failure to discuss the Thorpe-Garcia dichotomy,
+which under Erie and Klaxon is just as binding on us as
+any other Illinois choice-of-law, or other substantive
+law, rule. By what right may we federal judges ignore
+that clear and binding directive as to which Appellate
+Court decision to follow in case of conflict? Or is Judge
+Marshall somehow exercising the "predictive" approach
+sub silentio and deciding, despite any contrary
+indications from any Illinois appellate court at any level,
+that the Illinois Supreme Court would disapprove the
+rules enunciated in Thorpe and Garcia?
+That really ought to end the debate before it begins. It is
+really not this Court's doctrine, but that of the Illinois
+courts, with which Judge Marshall's analysis quarrels.
+And one of the restraints Erie imposes [573 F.Supp. 198]
+is to make such a federal quarrel with state rules of law
+(in this case choice-of-law rules) impermissible.
+Nonetheless, because Roberts has other doctrinal
+disabilities, this Appendix will proceed to touch on a
+few.
+For the vast majority of Illinois litigants the trial court
+(the Circuit Court) is the court of last resort. For the
+remaining small minority the Illinois Appellate Court is
+almost always the end of the litigation road. Only a
+comparative handful of cases finds its way to decision by
+the Illinois Supreme Court. Indeed even in the series of
+Illinois Appellate Court cases that has generated the
+specific split among Appellate Districts triggering
+Roberts and this decision — though all five Districts
+have spoken to the issue and despite extensive law
+review comment highlighting the problem — more
+than four years have elapsed since the split of authority
+first manifested itself, without the Illinois Supreme
+Court having settled the issue. In the meantime, if the
+experience in the federal courts is any indication, many
+litigants have had their rights determined under the
+present regime. And for those in the state court system,
+the "present regime" is precisely parallel to what a
+comparable litigant would receive in this Court, not in
+Judge Marshall's.
+Roberts posits a few hypotheticals to buttress its result.
+Those examples illustrate the possibility, in the Illinois
+system, that future appellate courts may differ with the
+existing appellate authority that, under Illinois internal
+choice-of-law rules, the Illinois trial courts must
+follow. That possibility of course exists (though neither
+Judge Marshall nor this Court is omniscient, so that his
+acting on that possibility poses a separate risk — if he is
+wrong in his prediction — that the federal litigant may
+get a different brand of justice than the Illinois courts
+would in fact deliver, not only at the trial court level
+commensurate with our own but at the Illinois
+Appellate [573 F.Supp. 199] Court level as well! ). But
+even granting the possibility of a future difference, what
+Judge Marshall's approach does is to apply to every
+present suitor in a diversity conflict-of-authority
+situation a wholly different set of rules than the identical
+suitor would get in the state system. And that disparate
+treatment is given solely because — on the false
+assumption that all cases go all the way to the top of the
+state judicial ladder — the occasional litigant might
+obtain a different result under the approach this Court
+follows (adhering as it does to the Illinois rules
+governing precedential value).
+That universalist approach, exemplified by Roberts, is
+the essence of forum-shopping. It is at war with the
+reason Erie overturned a century of practice under Swift
+v. Tyson. That is why Judge Marshall is simply wrong in
+saying (Roberts, 568 F.Supp. at 539):
+[W]e think that Commercial Discount begins with an erroneous
+premise: that a [573 F.Supp. 200] federal court sitting in diversity
+jurisdiction "must decide substantive questions in the same way that
+a state trial judge counterpart sitting at the same location would."
+That is not at all a premise, but rather a conclusion —
+one dictated by the force of Erie and the mandate it
+gives to follow the Thorpe-Garcia rules.
+Of course it is stifling for a free-spirited federal judge to
+be relegated to the position of a sounding board for state
+law — for the federal judiciary to be imprisoned by what
+we may view as the state law's inadequacies or injustices.
+However neither that subliminal level of impatience nor
+the kind of hypotheticals posed by Judge Marshall
+provides a warrant for indulging in the Roberts
+"solution."
+Conclusion
+Granite's motion to dismiss Counts III and IV is
+granted.

@@ -1,0 +1,892 @@
+Motorola, Inc. and Sports Team Analysis and Tracking
+Systems ("STATS") appeal from a permanent injunction
+entered by Judge Preska. The injunction concerns a
+handheld pager sold by Motorola and marketed under
+the name "SportsTrax," which displays updated
+information of professional basketball games in
+progress. The injunction prohibits appellants, absent
+authorization from the National Basketball Association
+and NBA Properties, Inc. (collectively the "NBA"), from
+transmitting scores or other data about NBA games in
+progress via the pagers, STATS's site on America OnLine's
+computer dial-up service, or "any equivalent
+means."
+The crux of the dispute concerns the extent to which a
+state law "hot-news" misappropriation claim based on
+International News Service v. Associated Press, 248 U.S.
+215, 39 S.Ct. 68, 63 L.Ed. 211 (1918) ("INS"), survives
+preemption by the federal Copyright Act and whether
+the NBA's claim fits within the surviving INS-type
+claims. We hold that a narrow "hot-news" exception
+does survive preemption. However, we also hold that
+appellants' transmission of "real-time" NBA game scores
+and information tabulated from television and radio
+broadcasts of games in progress does not constitute a
+misappropriation of "hot news" that is the property of
+the NBA.
+The NBA cross-appeals from the dismissal of its
+Lanham Act claim. We hold that any misstatements by
+Motorola in advertising its pager were not material and
+affirm.
+I. BACKGROUND
+The facts are largely undisputed. Motorola manufactures
+and markets the SportsTrax paging device while STATS
+supplies the game information that is transmitted to the
+pagers. The product became available to the public in
+January 1996, at a retail price of about $200.
+SportsTrax's pager has an inch-and-a-half by inch-anda-half
+screen and operates in four basic modes:
+"current," "statistics," "final scores" and "demonstration."
+It is the "current" mode that gives rise to the present
+dispute.1 In that mode, SportsTrax [105 F.3d 844]
+displays the following information on NBA games in
+progress: (i) the teams playing; (ii) score changes; (iii)
+the team in possession of the ball; (iv) whether the team
+is in the free-throw bonus; (v) the quarter of the game;
+and (vi) time remaining in the quarter. The information
+is updated every two to three minutes, with more
+frequent updates near the end of the first half and the
+end of the game. There is a lag of approximately two or
+three minutes between events in the game itself and
+when the information appears on the pager screen.
+SportsTrax's operation relies on a "data feed" supplied
+by STATS reporters who watch the games on television
+or listen to them on the radio. The reporters key into a
+personal computer changes in the score and other
+information such as successful and missed shots, fouls,
+and clock updates. The information is relayed by
+modem to STATS's host computer, which compiles,
+analyzes, and formats the data for retransmission. The
+information is then sent to a common carrier, which
+then sends it via satellite to various local FM radio
+networks that in turn emit the signal received by the
+individual SportsTrax pagers.
+Although the NBA's complaint concerned only the
+SportsTrax device, the NBA offered evidence at trial
+concerning STATS's America On-Line ("AOL") site.
+Starting in January, 1996, users who accessed STATS's
+AOL site, typically via a modem attached to a home
+computer, were provided with slightly more
+comprehensive and detailed real-time game information
+than is displayed on a SportsTrax pager. On the AOL
+site, game scores are updated every 15 seconds to a
+minute, and the player and team statistics are updated
+each minute. The district court's original decision and
+judgment, National Basketball Ass'n v. Sports Team
+Analysis and Tracking Sys. Inc., 931 F.Supp. 1124
+(S.D.N.Y.1996), did not address the AOL site, because
+"NBA's complaint and the evidence proffered at trial
+were devoted largely to SportsTrax." National Basketball
+Ass'n v. Sports Team Analysis and Tracking Sys. Inc.,
+939 F.Supp. 1071, 1074 n. 1 (S.D.N.Y.1996). Upon
+motion by the NBA, however, the district court
+amended its decision and judgment and enjoined use of
+the real-time game information on STATS's AOL site.
+Id. at 1075 n. 1. Because the record on appeal, the briefs
+of the parties, and oral argument primarily addressed
+the SportsTrax device, we similarly focus on that
+product. However, we regard the legal issues as identical
+with respect to both products, and our holding applies
+equally to SportsTrax and STATS's AOL site.
+The NBA's complaint asserted six claims for relief: (i)
+state law unfair competition by misappropriation; (ii)
+false advertising under Section 43(a) of the Lanham Act,
+15 U.S.C. § 1125(a); (iii) false representation of origin
+under Section 43(a) of the Lanham Act; (iv) state and
+common law unfair competition by false advertising and
+false designation of origin; (v) federal copyright
+infringement; and (vi) unlawful interception of
+communications under the Communications Act of
+1934, 47 U.S.C. § 605. Motorola counterclaimed,
+alleging that the NBA unlawfully interfered with
+Motorola's contractual relations with four individual
+NBA teams that had agreed to sponsor and advertise
+SportsTrax.
+The district court dismissed all of the NBA's claims
+except the first — misappropriation under New York
+law. The court also dismissed Motorola's counterclaim.
+Finding Motorola and STATS liable for
+misappropriation, Judge Preska entered the permanent
+injunction,2 reserved the calculation of damages for
+subsequent proceedings, and stayed execution of the
+injunction pending appeal. Motorola and STATS appeal
+from the injunction, while NBA cross-appeals from the
+district court's dismissal of its Lanham Act falseadvertising
+claim. The issues before us, therefore, are
+the state law misappropriation and Lanham Act claims.
+II. THE STATE LAW MISAPPROPRIATION CLAIM
+A. Summary of Ruling
+Because our disposition of the state law
+misappropriation claim rests in large part on [105 F.3d
+845] preemption by the Copyright Act, our discussion
+necessarily goes beyond the elements of a
+misappropriation claim under New York law, and a
+summary of our ruling here will perhaps render that
+discussion — or at least the need for it — more
+understandable.
+The issues before us are ones that have arisen in various
+forms over the course of this century as technology has
+steadily increased the speed and quantity of information
+transmission. Today, individuals at home, at work, or
+elsewhere, can use a computer, pager, or other device to
+obtain highly selective kinds of information virtually at
+will. International News Service v. Associated Press, 248
+U.S. 215, 39 S.Ct. 68, 63 L.Ed. 211 (1918) ("INS") was
+one of the first cases to address the issues raised by these
+technological advances, although the technology
+involved in that case was primitive by contemporary
+standards. INS involved two wire services, the
+Associated Press ("AP") and International News Service
+("INS"), that transmitted newsstories by wire to member
+newspapers. Id. INS would lift factual stories from AP
+bulletins and send them by wire to INS papers. Id. at
+231, 39 S.Ct. at 69-70. INS would also take factual
+stories from east coast AP papers and wire them to INS
+papers on the west coast that had yet to publish because
+of time differentials. Id. at 238, 39 S.Ct. at 72. The
+Supreme Court held that INS's conduct was a commonlaw
+misappropriation of AP's property. Id. at 242, 39
+S.Ct. at 73-74.
+With the advance of technology, radio stations began
+"live" broadcasts of events such as baseball games and
+operas, and various entrepreneurs began to use the
+transmissions of others in one way or another for their
+own profit. In response, New York courts created a
+body of misappropriation law, loosely based on INS,
+that sought to apply ethical standards to the use by one
+party of another's transmissions of events.
+Federal copyright law played little active role in this area
+until 1976. Before then, it appears to have been the
+general understanding — there being no caselaw of
+consequence — that live events such as baseball games
+were not copyrightable. Moreover, doubt existed even
+as to whether a recorded broadcast or videotape of such
+an event was copyrightable. In 1976, however, Congress
+passed legislation expressly affording copyright
+protection to simultaneously-recorded broadcasts of live
+performances such as sports events. See 17 U.S.C. § 101.
+Such protection was not extended to the underlying
+events.
+The 1976 amendments also contained provisions
+preempting state law claims that enforced rights
+"equivalent" to exclusive copyright protections when the
+work to which the state claim was being applied fell
+within the area of copyright protection. See 17 U.S.C. §
+301. Based on legislative history of the 1976
+amendments, it is generally agreed that a "hot-news"
+INS-like claim survives preemption. H.R. No. 94-1476
+at 132 (1976), reprinted in 1976 U.S.C.C.A.N. 5659,
+5748. However, much of New York misappropriation
+law after INS goes well beyond "hot-news" claims and is
+preempted.
+We hold that the surviving "hot-news" INS-like claim is
+limited to cases where: (i) a plaintiff generates or gathers
+information at a cost; (ii) the information is timesensitive;
+(iii) a defendant's use of the information
+constitutes free riding on the plaintiff's efforts; (iv) the
+defendant is in direct competition with a product or
+service offered by the plaintiffs; and (v) the ability of
+other parties to free-ride on the efforts of the plaintiff or
+others would so reduce the incentive to produce the
+product or service that its existence or quality would be
+substantially threatened. We conclude that SportsTrax
+does not meet that test.
+B. Copyrights in Events or Broadcasts of Events
+The NBA asserted copyright infringement claims with
+regard both to the underlying games and to their
+broadcasts. The district court dismissed these claims,
+and the NBA does not appeal from their dismissal.
+Nevertheless, discussion of the infringement claims is
+necessary to provide the framework for analyzing the
+viability of the NBA's state law misappropriation claim
+in light of the Copyright Act's preemptive effect.
+[105 F.3d 846] 1. Infringement of a Copyright in the
+Underlying Games
+In our view, the underlying basketball games do not fall
+within the subject matter of federal copyright protection
+because they do not constitute "original works of
+authorship" under 17 U.S.C. § 102(a). Section 102(a)
+lists eight categories of "works of authorship" covered
+by the act, including such categories as "literary works,"
+"musical works," and "dramatic works."3 The list does
+not include athletic events, and, although the list is
+concededly non-exclusive, such events are neither
+similar nor analogous to any of the listed categories.
+Sports events are not "authored" in any common sense
+of the word. There is, of course, at least at the
+professional level, considerable preparation for a game.
+However, the preparation is as much an expression of
+hope or faith as a determination of what will actually
+happen. Unlike movies, plays, television programs, or
+operas, athletic events are competitive and have no
+underlying script. Preparation may even cause mistakes
+to succeed, like the broken play in football that gains
+yardage because the opposition could not expect it.
+Athletic events may also result in wholly unanticipated
+occurrences, the most notable recent event being in a
+championship baseball game in which interference with
+a fly ball caused an umpire to signal erroneously a home
+run.
+What "authorship" there is in a sports event, moreover,
+must be open to copying by competitors if fans are to be
+attracted. If the inventor of the T-formation in football
+had been able to copyright it, the sport might have come
+to an end instead of prospering. Even where athletic
+preparation most resembles authorship — figure skating,
+gymnastics, and, some would uncharitably say,
+professional wrestling — a performer who conceives and
+executes a particularly graceful and difficult — or, in the
+case of wrestling, seemingly painful — acrobatic feat
+cannot copyright it without impairing the underlying
+competition in the future. A claim of being the only
+athlete to perform a feat doesn't mean much if no one
+else is allowed to try.
+For many of these reasons, Nimmer on Copyright
+concludes that the "[f]ar more reasonable" position is
+that athletic events are not copyrightable. 1 M. Nimmer
+& D. Nimmer, Nimmer on Copyright § 2.09[F] at 2-
+170.1 (1996). Nimmer notes that, among other
+problems, the number of joint copyright owners would
+arguably include the league, the teams, the athletes,
+umpires, stadium workers and even fans, who all
+contribute to the "work."
+Concededly, caselaw is scarce on the issue of whether
+organized events themselves are copyrightable, but what
+there is indicates that they are not. See Production
+Contractors, Inc. v. WGN Continental Broadcasting
+Co., 622 F.Supp. 1500 (N.D.Ill.1985) (Christmas parade
+is not a work of authorship entitled to copyright
+protection). In claiming a copyright in the underlying
+games, the NBA relied in part on a footnote in
+Baltimore Orioles, Inc. v. Major League Baseball Players
+Assn., 805 F.2d 663, 669 n. 7 (7th Cir. 1986), cert.
+denied, 480 U.S. 941, 107 S.Ct. 1593, 94 L.Ed.2d 782
+(1987), which stated that the "[p]layers' performances"
+contain the "modest creativity required for copyright
+ability." However, the court went on to state,
+"Moreover, even if the [p]layers' performances were not
+sufficiently creative, the [p]layers agree that the
+cameramen and director contribute creative labor to the
+telecasts." Id. This last sentence indicates that the court
+was considering the copyright ability of telecasts — not
+the underlying games, [105 F.3d 847] which obviously
+can be played without cameras.
+We believe that the lack of caselaw is attributable to a
+general understanding that athletic events were, and are,
+uncopyrightable. Indeed, prior to 1976, there was even
+doubt that broadcasts describing or depicting such
+events, which have a far stronger case for
+copyrightability than the events themselves, were
+entitled to copyright protection. Indeed, as described in
+the next subsection of this opinion, Congress found it
+necessary to extend such protection to recorded
+broadcasts of live events. The fact that Congress did not
+extend such protection to the events themselves
+confirms our view that the district court correctly held
+that appellants were not infringing a copyright in the
+NBA games.
+2. Infringement of a Copyright in the Broadcasts of NBA
+Games
+As noted, recorded broadcasts of NBA games — as
+opposed to the games themselves — are now entitled to
+copyright protection. The Copyright Act was amended
+in 1976 specifically to insure that simultaneouslyrecorded
+transmissions of live performances and
+sporting events would meet the Act's requirement that
+the original work of authorship be "fixed in any tangible
+medium of expression." 17 U.S.C. § 102(a). Accordingly,
+Section 101 of the Act, containing definitions, was
+amended to read:
+A work consisting of sounds, images, or both, that are being
+transmitted, is "fixed" for purposes of this title if a fixation of the
+work is being made simultaneously with its transmission.
+17 U.S.C. § 101. Congress specifically had sporting
+events in mind:
+[T]he bill seeks to resolve, through the definition of "fixation" in
+section 101, the status of live broadcasts — sports, news coverage,
+live performances of music, etc. — that are reaching the public in
+unfixed form but that are simultaneously being recorded.
+H.R. No. 94-1476 at 52, reprinted in 1976 U.S.C.C.A.N.
+at 5665. The House Report also makes clear that it is the
+broadcast, not the underlying game, that is the subject of
+copyright protection. In explaining how game
+broadcasts meet the Act's requirement that the subject
+matter be an "original work[ ] of authorship," 17 U.S.C.
+§ 102(a), the House Report stated:
+When a football game is being covered by four television cameras,
+with a director guiding the activities of the four cameramen and
+choosing which of their electronic images are sent out to the public
+and in what order, there is little doubt that what the cameramen
+and the director are doing constitutes "authorship."
+H.R. No. 94-1476 at 52, reprinted in 1976 U.S.C.C.A.N.
+at 5665.
+Although the broadcasts are protected under copyright
+law, the district court correctly held that Motorola and
+STATS did not infringe NBA's copyright because they
+reproduced only facts from the broadcasts, not the
+expression or description of the game that constitutes
+the broadcast. The "fact/expression dichotomy" is a
+bedrock principle of copyright law that "limits severely
+the scope of protection in fact-based works." Feist
+Publications, Inc. v. Rural Tel. Service Co., 499 U.S. 340,
+350, 111 S.Ct. 1282, 1290, 113 L.Ed.2d 358 (1991). "`No
+author may copyright facts or ideas. The copyright is
+limited to those aspects of the work — termed
+`expression' — that display the stamp of the author's
+originality.'" Id. (quoting Harper & Row, Publishers, Inc.
+v. Nation Enter., 471 U.S. 539, 547, 105 S.Ct. 2218,
+2224, 85 L.Ed.2d 588 (1985)).
+We agree with the district court that the "[d]efendants
+provide purely factual information which any patron of
+an NBA game could acquire from the arena without any
+involvement from the director, cameramen, or others
+who contribute to the originality of a broadcast." 939
+F.Supp. at 1094. Because the SportsTrax device and
+AOL site reproduce only factual information culled from
+the broadcasts and none of the copyrightable expression
+of the games, appellants did not infringe the copyright
+of the broadcasts.
+C. The State-Law Misappropriation Claim
+The district court's injunction was based on its
+conclusion that, under New York law, [105 F.3d 848]
+defendants had unlawfully misappropriated the NBA's
+property rights in its games. The district court reached
+this conclusion by holding: (i) that the NBA's
+misappropriation claim relating to the underlying games
+was not preempted by Section 301 of the Copyright Act;
+and (ii) that, under New York common law, defendants
+had engaged in unlawful misappropriation. Id. at 1094-
+1107. We disagree.
+1. Preemption Under the Copyright Act
+a) Summary
+When Congress amended the Copyright Act in 1976, it
+provided for the preemption of state law claims that are
+interrelated with copyright claims in certain ways.
+Under 17 U.S.C. § 301, a state law claim is preempted
+when: (i) the state law claim seeks to vindicate "legal or
+equitable rights that are equivalent" to one of the bundle
+of exclusive rights already protected by copyright law
+under 17 U.S.C. § 106 — styled the "general scope
+requirement"; and (ii) the particular work to which the
+state law claim is being applied falls within the type of
+works protected by the Copyright Act under Sections
+102 and 103 — styled the "subject matter requirement."4
+The district court concluded that the NBA's
+misappropriation claim was not preempted because,
+with respect to the underlying games, as opposed to the
+broadcasts, the subject matter requirement was not met.
+939 F.Supp. at 1097. The court dubbed as "partial
+preemption" its separate analysis of misappropriation
+claims relating to the underlying games and
+misappropriation claims relating to broadcasts of those
+games. Id. at 1098, n. 24. The district court then relied
+on a series of older New York misappropriation cases
+involving radio broadcasts that considerably broadened
+INS. We hold that where the challenged copying or
+misappropriation relates in part to the copyrighted
+broadcasts of the games, the subject matter requirement
+is met as to both the broadcasts and the games. We
+therefore reject the partial preemption doctrine and its
+anomalous consequence that "it is possible for a plaintiff
+to assert claims both for infringement of its copyright in
+a broadcast and misappropriation of its rights in the
+underlying event." Id. We do find that a properlynarrowed
+INS "hot-news" misappropriation claim
+survives preemption because it fails the general scope
+requirement, but that the broader theory of the radio
+broadcast cases relied upon by the district court were
+preempted when Congress extended copyright
+protection to simultaneously-recorded broadcasts.
+b) "Partial Preemption" and the Subject Matter
+Requirement
+The subject matter requirement is met when the work
+of authorship being copied or misappropriated "fall[s]
+within the ambit of copyright protection." Harper &
+Row, Publishers, Inc. v. Nation Enter., 723 F.2d 195,
+200 (1983), rev'd on other grounds, 471 U.S. 539, 105
+S.Ct. 2218, 85 L.Ed.2d 588 (1985). We believe that the
+subject matter requirement is met in the instant matter
+and that the concept of "partial preemption" is not
+consistent with Section 301 of the Copyright Act.
+Although game broadcasts are copyrightable while the
+underlying games are not, the Copyright Act should not
+be [105 F.3d 849] read to distinguish between the two
+when analyzing the preemption of a misappropriation
+claim based on copying or taking from the copyrightable
+work. We believe that:
+[O]nce a performance is reduced to tangible form, there is no
+distinction between the performance and the recording of the
+performance for the purposes of preemption under § 301(a). Thus,
+if a baseball game were not broadcast or were telecast without being
+recorded, the Players' performances similarly would not be fixed in
+tangible form and their rights of publicity would not be subject to
+preemption. By virtue of being videotaped, however, the Players'
+performances are fixed in tangible form, and any rights of publicity
+in their performances that are equivalent to the rights contained in
+the copyright of the telecast are preempted.
+Baltimore Orioles, 805 F.2d at 675 (citation omitted).
+Copyrightable material often contains uncopyrightable
+elements within it, but Section 301 preemption bars
+state law misappropriation claims with respect to
+uncopyrightable as well as copyrightable elements. In
+Harper & Row, for example, we held that state law
+claims based on the copying of excerpts from President
+Ford's memoirs were preempted even with respect to
+information that was purely factual and not
+copyrightable. We stated:
+[T]he [Copyright] Act clearly embraces "works of authorship,"
+including "literary works," as within its subject matter. The fact that
+portions of the Ford memoirs may consist of uncopyrightable
+material ... does not take the work as a whole outside the subject
+matter protected by the Act. Were this not so, states would be free
+to expand the perimeters of copyright protection to their own
+liking, on the theory that preemption would be no bar to state
+protection of material not meeting federal statutory standards.
+723 F.2d at 200 (citation omitted). The legislative
+history supports this understanding of Section 301(a)'s
+subject matter requirement. The House Report stated:
+As long as a work fits within one of the general subject matter
+categories of sections 102 and 103, the bill prevents the States from
+protecting it even if it fails to achieve Federal statutory copyright
+because it is too minimal or lacking in originality to qualify, or
+because it has fallen into the public domain.
+H.R. No. 94-1476 at 131, reprinted in 1976
+U.S.C.C.A.N. at 5747. See also Baltimore Orioles, 805
+F.2d at 676 (citing excerpts of House Report 94-1476).
+Adoption of a partial preemption doctrine —
+preemption of claims based on misappropriation of
+broadcasts but no preemption of claims based on
+misappropriation of underlying facts — would expand
+significantly the reach of state law claims and render the
+preemption intended by Congress unworkable. It is
+often difficult or impossible to separate the fixed
+copyrightable work from the underlying
+uncopyrightable events or facts. Moreover, Congress, in
+extending copyright protection only to the broadcasts
+and not to the underlying events, intended that the
+latter be in the public domain. Partial preemption turns
+that intent on its head by allowing state law to vest
+exclusive rights in material that Congress intended to be
+in the public domain and to make unlawful conduct that
+Congress intended to allow. This concern was recently
+expressed in ProCD, Inc. v. Zeidenberg, 86 F.3d 1447
+(7th Cir. 1996), a case in which the defendants
+reproduced non-copyrightable facts (telephone listings)
+from plaintiffs' copyrighted software. In discussing
+preemption under Section 301(a), Judge Easterbrook
+held that the subject matter requirement was met and
+noted:
+ProCD's software and data are "fixed in a tangible medium of
+expression", and the district judge held that they are "within the
+subject matter of copyright". The latter conclusion is plainly right
+for the copyrighted application program, and the judge thought that
+the data likewise are "within the subject matter of copyright" even
+if, after Feist, they are not sufficiently original to be copyrighted.
+[ProCD, Inc. v. Zeidenberg, ] 908 F.Supp. [640] at 656-57
+[(W.D.Wis. 1996)]. Baltimore Orioles, Inc. v. Major League
+Baseball Players Ass'n, 805 F.2d 663, 676 (7th Cir.1986), supports
+that conclusion, with which commentators [105 F.3d 850] agree....
+One function of § 301(a) is to prevent states from giving special
+protection to works of authorship that Congress has decided should
+be in the public domain, which it can accomplish only if "subject
+matter of copyright" includes all works of a type covered by sections
+102 and 103, even if federal law does not afford protection to them.
+ProCD, 86 F.3d at 1453 (citation omitted). We agree
+with Judge Easterbrook and reject the separate analysis
+of the underlying games and broadcasts of those games
+for purposes of preemption.
+c) The General Scope Requirement
+Under the general scope requirement, Section 301
+"preempts only those state law rights that `may be
+abridged by an act which, in and of itself, would infringe
+one of the exclusive rights' provided by federal
+copyright law." Computer Assoc. Int'l, Inc. v. Altai, Inc.,
+982 F.2d 693, 716 (2d Cir.1992) (quoting Harper & Row,
+723 F.2d at 200). However, certain forms of commercial
+misappropriation otherwise within the general scope
+requirement will survive preemption if an "extraelement"
+test is met. As stated in Altai:
+But if an "extra element" is "required instead of or in addition to the
+acts of reproduction, performance, distribution or display, in order
+to constitute a state-created cause of action, then the right does not
+lie `within the general scope of copyright,' and there is no
+preemption."
+Id. (quoting 1 Nimmer on Copyright § 1.01[B] at 1-15).
+ProCD was in part an application of the extra-element
+test. Having held the misappropriation claims to be
+preempted, Judge Easterbrook went on to hold that the
+plaintiffs could bring a state law contract claim. The
+court held that the defendants were bound by the
+software's shrink-wrap licenses as a matter of contract
+law and that the private contract rights were not
+preempted because they were not equivalent to the
+exclusive rights granted by copyright law. In other
+words, the contract right claims were not preempted
+because the general scope requirement was not met.
+ProCD, 86 F.3d at 1455.
+We turn, therefore, to the question of the extent to
+which a "hot-news" misappropriation claim based on
+INS involves extra elements and is not the equivalent of
+exclusive rights under a copyright. Courts are generally
+agreed that some form of such a claim survives
+preemption. Financial Information, Inc. v. Moody's
+Investors Service, Inc., 808 F.2d 204, 208 (2d Cir.1986),
+cert. denied, 484 U.S. 820, 108 S.Ct. 79, 98 L.Ed.2d 42
+(1987) ("FII"). This conclusion is based in part on the
+legislative history of the 1976 amendments. The House
+Report stated:
+"Misappropriation" is not necessarily synonymous with copyright
+infringement, and thus a cause of action labeled as
+"misappropriation" is not preempted if it is in fact based neither on
+a right within the general scope of copyright as specified by section
+106 nor on a right equivalent thereto. For example, state law should
+have the flexibility to afford a remedy (under traditional principles
+of equity) against a consistent pattern of unauthorized
+appropriation by a competitor of the facts (i.e., not the literary
+expression) constituting "hot" news, whether in the traditional
+mold of International News Service v. Associated Press, 248 U.S.
+215 [39 S.Ct. 68, 63 L.Ed. 211] (1918), or in the newer form of data
+updates from scientific, business, or financial data bases.
+H.R. No. 94-1476 at 132, reprinted in 1976
+U.S.C.C.A.N. at 5748 (footnote omitted),5 see also FII,
+808 F.2d at 209 ("`misappropriation' of `hot' news,
+under International News Service, [is] a branch of the
+unfair competition doctrine not preempted by the
+Copyright Act according to the House Report" (citation
+omitted)). The crucial question, therefore, is the breadth
+of the "hot-news" claim that survives preemption.
+[105 F.3d 851] In INS, the plaintiff AP and defendant INS
+were "wire services" that sold news items to client
+newspapers. AP brought suit to prevent INS from
+selling facts and information lifted from AP sources to
+INS-affiliated newspapers. One method by which INS
+was able to use AP's news was to lift facts from AP news
+bulletins. INS, 248 U.S. at 231, 39 S.Ct. at 69-70.
+Another method was to sell facts taken from justpublished
+east coast AP newspapers to west coast INS
+newspapers whose editions had yet to appear. Id. at 238,
+39 S.Ct. at 72. The Supreme Court held (prior to Erie R.
+Co. v. Tompkins, 304 U.S. 64, 58 S.Ct. 817, 82 L.Ed.
+1188 (1938)), that INS's use of AP's information was
+unlawful under federal common law. It characterized
+INS's conduct as
+amount[ing] to an unauthorized interference with the normal
+operation of complainant's legitimate business precisely at the point
+where the profit is to be reaped, in order to divert a material
+portion of the profit from those who have earned it to those who
+have not; with special advantage to defendant in the competition
+because of the fact that it is not burdened with any part of the
+expense of gathering the news.
+INS, 248 U.S. at 240, 39 S.Ct. at 72-73.
+The theory of the New York misappropriation cases
+relied upon by the district court is considerably broader
+than that of INS. For example, the district court quoted
+at length from Metropolitan Opera Ass'n v. WagnerNichols
+Recorder Corp., 199 Misc. 786, 101 N.Y.S.2d
+483 (N.Y.Sup.Ct.1950), aff'd, 279 A.D. 632, 107
+N.Y.S.2d 795 (1st Dep't 1951). Metropolitan Opera
+described New York misappropriation law as standing
+for the "broader principle that property rights of
+commercial value are to be and will be protected from
+any form of commercial immorality"; that
+misappropriation law developed "to deal with business
+malpractices offensive to the ethics of [] society"; and
+that the doctrine is "broad and flexible." 939 F.Supp. at
+1098-1110 (quoting Metropolitan Opera, 101 N.Y.S.2d
+at 492, 488-89).
+However, we believe that Metropolitan Opera's broad
+misappropriation doctrine based on amorphous
+concepts such as "commercial immorality" or society's
+"ethics" is preempted. Such concepts are virtually
+synonymous for wrongful copying and are in no
+meaningful fashion distinguishable from infringement
+of a copyright. The broad misappropriation doctrine
+relied upon by the district court is, therefore, the
+equivalent of exclusive rights in copyright law.
+Indeed, we said as much in FII. That decision involved
+the copying of financial information by a rival financial
+reporting service and specifically repudiated the broad
+misappropriation doctrine of Metropolitan Opera. We
+explained:
+We are not persuaded by FII's argument that misappropriation is
+not "equivalent" to the exclusive rights provided by the Copyright
+Act.... Nor do we believe that a possible exception to the general
+rule of preemption in the misappropriation area — for claims
+involving "any form of commercial immorality," ... quoting
+Metropolitan Opera Ass'n v. Wagner-Nichols Recorder Corp., 199
+Misc. 786, 101 N.Y.S.2d 483, ... — should be applied here. We
+believe that no such exception exists and reject its use here.
+Whether or not reproduction of another's work is "immoral"
+depends on whether such use of the work is wrongful. If, for
+example, the work is in the public domain, then its use would not
+be wrongful. Likewise, if, as here, the work is unprotected by
+federal law because of lack of originality, then its use is neither
+unfair nor unjustified.
+FII, 808 F.2d at 208. In fact, FII only begrudgingly
+concedes that even narrow "hot news" INS-type claims
+survive preemption. Id. at 209.
+Moreover, Computer Associates Intern., Inc. v. Altai
+Inc. indicated that the "extra element" test should not be
+applied so as to allow state claims to survive preemption
+easily. 982 F.2d at 717. "An action will not be saved from
+preemption by elements such as awareness or intent,
+which alter `the action's scope but not its nature'....
+Following this `extra element' test, we have held that
+unfair competition and misappropriation claims
+grounded solely in the copying of a plaintiff's protected
+expression are preempted by section 301." Id. (citation
+omitted).
+[105 F.3d 852] In light of cases such as FII and Altai that
+emphasize the narrowness of state misappropriation
+claims that survive preemption, most of the broadcast
+cases relied upon by the NBA are simply not good law.
+Those cases were decided at a time when
+simultaneously-recorded broadcasts were not protected
+under the Copyright Act and when the state law claims
+they fashioned were not subject to federal preemption.
+For example, Metropolitan Opera, 101 N.Y.S.2d 483,
+involved the unauthorized copying, marketing, and sale
+of opera radio broadcasts. As another example, in
+Mutual Broadcasting System v. Muzak Corp., 177 Misc.
+489, 30 N.Y.S.2d 419 (Sup. Ct.1941), the defendant
+simultaneously retransmitted the plaintiff's baseball
+radio broadcasts onto telephone lines. As discussed
+above, the 1976 amendments to the Copyright Act were
+specifically designed to afford copyright protection to
+simultaneously-recorded broadcasts, and Metropolitan
+Opera and Muzak could today be brought as copyright
+infringement cases. Moreover, we believe that they
+would have to be brought as copyright cases because the
+amendments affording broadcasts copyright protection
+also preempted the state law misappropriation claims
+under which they were decided.
+Our conclusion, therefore, is that only a narrow "hotnews"
+misappropriation claim survives preemption for
+actions concerning material within the realm of
+copyright.6 See also 1 McCarthy on Trademarks and
+Unfair Competition (4th ed. 1996), § 10:69, at 10-134
+(discussing National Exhibition Co. v. Fass, 133
+N.Y.S.2d 379 (Sup.Ct.1954), Muzak, 30 N.Y.S.2d 419,
+and other cases relied upon by NBA that pre-date the
+1976 amendment to the Copyright Act and concluding
+that after the amendment, "state misappropriation law
+would be unnecessary and would be preempted:
+protection is solely under federal copyright").7
+In our view, the elements central to an INS claim are: (i)
+the plaintiff generates or collects information at some
+cost or expense, see FII, 808 F.2d at 206; INS, 248 U.S. at
+240, 39 S.Ct. at 72-73; (ii) the value of the information is
+highly time-sensitive, see FII, 808 F.2d at 209; INS, 248
+U.S. at 231, 39 S.Ct. at 69-70; Restatement (Third)
+Unfair Competition, § 38 cmt. c.; (iii) the defendant's
+use of the information constitutes freeriding on the
+plaintiff's costly efforts to generate or collect it, see FII,
+808 F.2d at 207; INS, 248 U.S. at 239-40, 39 S.Ct. at 72-
+73; Restatement § 38 at cmt. c.; McCarthy, § 10:73 at
+10-139; (iv) the defendant's use of the information is in
+direct competition with a product or service offered by
+the plaintiff, FII, 808 F.2d at 209, INS, 248 U.S. at 240,
+39 S.Ct. at 72-73; (v) the ability of other parties to freeride
+on the efforts of the plaintiff would so reduce the
+incentive to produce the product or service that its
+existence or quality would be substantially threatened,
+FII, 808 F.2d at 209; Restatement, § 38 at cmt. c.; INS,
+248 U.S. at 241, 39 S.Ct. at 73 ("[INS's conduct] would
+render [AP's] publication profitless, or so little
+profitable as in effect to cut off the service by rendering
+the cost prohibitive in comparison with the return.")8
+[105 F.3d 853] INS is not about ethics; it is about the
+protection of property rights in time-sensitive
+information so that the information will be made
+available to the public by profit seeking entrepreneurs. If
+services like AP were not assured of property rights in
+the news they pay to collect, they would cease to collect
+it. The ability of their competitors to appropriate their
+product at only nominal cost and thereby to disseminate
+a competing product at a lower price would destroy the
+incentive to collect news in the first place. The
+newspaper-reading public would suffer because no one
+would have an incentive to collect "hot news."
+We therefore find the extra elements — those in
+addition to the elements of copyright infringement —
+that allow a "hot-news" claim to survive preemption are:
+(i) the time-sensitive value of factual information, (ii)
+the free-riding by a defendant, and (iii) the threat to the
+very existence of the product or service provided by the
+plaintiff.
+2. The Legality of SportsTrax
+We conclude that Motorola and STATS have not
+engaged in unlawful misappropriation under the "hotnews"
+test set out above. To be sure, some of the
+elements of a "hot-news" INS claim are met. The
+information transmitted to SportsTrax is not precisely
+contemporaneous, but it is nevertheless time-sensitive.
+Also, the NBA does provide, or will shortly do so,
+information like that available through SportsTrax. It
+now offers a service called "Gamestats" that provides
+official play-by-play game sheets and half-time and final
+box scores within each arena. It also provides such
+information to the media in each arena. In the future,
+the NBA plans to enhance Gamestats so that it will be
+networked between the various arenas and will support
+a pager product analogous to SportsTrax. SportsTrax
+will of course directly compete with an enhanced
+Gamestats.
+However, there are critical elements missing in the
+NBA's attempt to assert a "hot-news" INS-type claim. As
+framed by the NBA, their claim compresses and
+confuses three different informational products. The
+first product is generating the information by playing
+the games; the second product is transmitting live, full
+descriptions of those games; and the third product is
+collecting and retransmitting strictly factual information
+about the games. The first and second products are the
+NBA's primary business: producing basketball games for
+live attendance and licensing copyrighted broadcasts of
+those games. The collection and retransmission of
+strictly factual material about the games is a different
+product: e.g., box-scores in newspapers, summaries of
+statistics on television sports news, and real-time facts
+to be transmitted to pagers. In our view, the NBA has
+failed to show any competitive effect whatsoever from
+SportsTrax on the first and second products and a lack
+of any free-riding by SportsTrax on the third.
+With regard to the NBA's primary products —
+producing basketball games with live attendance and
+licensing copyrighted broadcasts of those games — there
+is no evidence [105 F.3d 854] that anyone regards
+SportsTrax or the AOL site as a substitute for attending
+NBA games or watching them on television. In fact,
+Motorola markets SportsTrax as being designed "for
+those times when you cannot be at the arena, watch the
+game on TV, or listen to the radio ..."
+The NBA argues that the pager market is also relevant
+to a "hot-news" INS-type claim and that SportsTrax's
+future competition with Gamestats satisfies any missing
+element. We agree that there is a separate market for
+the real-time transmission of factual information to
+pagers or similar devices, such as STATS's AOL site.
+However, we disagree that SportsTrax is in any sense
+free-riding off Gamestats.
+An indispensable element of an INS "hot-news" claim is
+free riding by a defendant on a plaintiff's product,
+enabling the defendant to produce a directly competitive
+product for less money because it has lower costs.
+SportsTrax is not such a product. The use of pagers to
+transmit real-time information about NBA games
+requires: (i) the collecting of facts about the games; (ii)
+the transmission of these facts on a network; (iii) the
+assembling of them by the particular service; and (iv) the
+transmission of them to pagers or an on-line computer
+site. Appellants are in no way free-riding on Gamestats.
+Motorola and STATS expend their own resources to
+collect purely factual information generated in NBA
+games to transmit to SportsTrax pagers. They have their
+own network and assemble and transmit data
+themselves.
+To be sure, if appellants in the future were to collect
+facts from an enhanced Gamestats pager to retransmit
+them to SportsTrax pagers, that would constitute freeriding
+and might well cause Gamestats to be
+unprofitable because it had to bear costs to collect facts
+that SportsTrax did not. If the appropriation of facts
+from one pager to another pager service were allowed,
+transmission of current information on NBA games to
+pagers or similar devices would be substantially deterred
+because any potential transmitter would know that the
+first entrant would quickly encounter a lower cost
+competitor free-riding on the originator's
+transmissions.9
+However, that is not the case in the instant matter.
+SportsTrax and Gamestats are each bearing their own
+costs of collecting factual information on NBA games,
+and, if one produces a product that is cheaper or
+otherwise superior to the other, that producer will
+prevail in the marketplace. This is obviously not the
+situation against which INS was intended to prevent:
+the potential lack of any such product or service because
+of the anticipation of free-riding.
+For the foregoing reasons, the NBA has not shown any
+damage to any of its products based on free-riding by
+Motorola and STATS, and the NBA's misappropriation
+claim based on New York law is preempted.10
+III. THE NBA'S CROSS-APPEAL
+The NBA cross-appeals from the district court's
+dismissal of its false advertising claim under Section
+43(a) of the Lanham Act, 15 U.S.C. § 1125(a).11 This
+claim was [105 F.3d 855] based on a January 1996
+Motorola press release stating that SportsTrax provides
+"updated game information direct from each arena"
+which "originate[s] from the press table in each arena"
+and on a statement appearing on the spine of the retail
+box and on the retail display stand that SportsTrax
+provides "game updates from the arena."
+NBA argues that because STATS reporters collect their
+information from television and radio broadcasts, the
+information is not "direct from each arena" or even
+"from the arena." Motorola responds that the statement
+about information coming from the press table was an
+isolated remark occurring only in that press release. It
+also claims that the assertion that the game updates
+come "from the arena" is not literally false, presumably
+because the factual information does originate in the
+arena.
+To establish a false advertising claim under Section
+43(a), the plaintiff must demonstrate that the statement
+in the challenged advertisement is false. "Falsity may be
+established by proving that (1) the advertising is literally
+false as a factual matter, or (2) although the
+advertisement is literally true, it is likely to deceive or
+confuse customers." Lipton v. Nature Co., 71 F.3d 464,
+474 (2d Cir.1995). However, in addition to proving
+falsity, the plaintiff must also show that the defendants
+"misrepresented an `inherent quality or characteristic'"
+of the product. National Assoc. of Pharmaceutical Mfrs.
+v. Ayerst Lab., 850 F.2d 904, 917 (2d Cir.1988) (quoting
+Vidal Sassoon, Inc. v. Bristol-Myers Co., 661 F.2d 272,
+278 (2d Cir.1981)). This requirement is essentially one
+of materiality, a term explicitly used in other circuits.
+See American Tel. & Tel. Co. v. Winback and Conserve
+Program, Inc., 42 F.3d 1421, 1428 n. 9 (3d Cir.1994)
+(plaintiff alleging false advertising must prove "that the
+deception is material in that it is likely to influence
+purchasing decisions") (citations and internal quotation
+marks omitted), cert. denied, ___ U.S. ___, 115 S.Ct.
+1838, 131 L.Ed.2d 757 (1995); ALPO Petfoods, Inc. v.
+Ralston Purina Co., 913 F.2d 958, 964 (D.C.Cir.1990)
+(false or misleading ads must be "material in their effects
+on buying decisions"); Taquino v. Teledyne Monarch
+Rubber, 893 F.2d 1488, 1500 (5th Cir.1990) (deception
+must be "material, in that it is likely to influence the
+purchasing decision"); see also 3 McCarthy on
+Trademarks § 27:35 at 27-54 (there must be "some
+showing that the defendant's misrepresentation was
+`material' in the sense that it would have some effect on
+consumers' purchasing decisions.").
+The district court found, "[a]fter viewing the
+complained-of statements in this action in their
+context," that "[t]he statements as to the particular
+origin of game updates constitute nothing more than
+minutiae about SportsTrax." 939 F.Supp. at 1110. We
+agree with the district court that the statements in
+question are not material in the present factual context.
+The inaccuracy in the statements would not influence
+consumers at the present time, whose interest in
+obtaining updated game scores on pagers is served only
+by SportsTrax. Whether the data is taken from
+broadcasts instead of being observed first-hand is,
+therefore, simply irrelevant. However, we note that if
+the NBA were in the future to market a rival pager with
+a direct datafeed from the arenas — perhaps with
+quicker updates than SportsTrax and official statistics —
+then Motorola's statements regarding source might well
+be materially misleading. On the present facts, however,
+the complained-of statements are not material and do
+not misrepresent an inherent quality or characteristic of
+the product.
+IV. CONCLUSION
+We vacate the injunction entered by the district court
+and order that the NBA's claim for misappropriation be
+dismissed. We affirm the district court's dismissal of the
+NBA's claim for false advertising under Section 43(a) of
+the Lanham Act.

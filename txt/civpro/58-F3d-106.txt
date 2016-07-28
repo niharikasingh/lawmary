@@ -1,0 +1,353 @@
+This appeal presents the question whether the district
+court properly dismissed plaintiff's case for lack of
+jurisdiction because of an insufficient amount in
+controversy under 28 U.S.C. § 1332(a). The trial court
+felt compelled to dismiss all of plaintiffs claims when
+one count was eliminated and the remaining liquidated
+damages totalled less than fifty thousand dollars. Because
+we think the district court had discretion to retain the
+remaining counts, we reverse and remand the case for
+an appropriate exercise of that discretion.
+I.
+In 1993, Kathleen Shanaghan brought this diversity
+action in Virginia against John Cahill and his company
+Cahill & Associates, Inc., seeking to recover on three
+separate debts. Her complaint alleged that in 1987 and
+1988 she made three loans to Cahill and his company, in
+the amounts of $40,000, $23,696, and $14,700. She
+further alleged that the defendants had refused payment
+despite repeated demands, and were in default on all
+three debts.
+The defendants filed an answer, and discovery
+proceeded through March of 1994. Plaintiff produced
+two promissory notes memorializing the loans of
+$23,696 and $14,700. She was unable, however, to
+provide a writing for the alleged loan of $40,000, though
+she has always maintained that such a writing exists.
+The defendants filed for partial [58 F.3d 109] summary
+judgment in March of 1994, arguing that the claim on
+the $40,000 loan was barred by the Virginia Statute of
+Frauds, Va.Code § 11-2(4), and the Statute of
+Limitations, Va.Code § 8.01-246. The district court
+agreed and granted summary judgment on the $40,000
+claim. Then, noting that the amount in controversy had
+fallen below fifty thousand dollars, the court dismissed
+the remaining claims for lack of subject matter
+jurisdiction. Plaintiff has appealed, challenging only the
+dismissal of her two smaller claims.
+II.
+A.
+Federal district courts possess jurisdiction over cases in
+diversity when "the matter in controversy exceeds the
+sum or value of $50,000." 28 U.S.C. § 1332(a) (1988). A
+plaintiff may aggregate smaller claims in order to reach
+this threshold, as was done in this case. Griffin v. Red
+Run Lodge, Inc., 610 F.2d 1198, 1204 (4th Cir. 1979).
+After Shanaghan's claim for $40,000 was dismissed,
+however, the district court concluded it was bound by §
+1332 to dismiss her remaining aggregated claims of
+$38,669. The court apparently believed it had no
+discretion in this matter, but rather was faced with a
+mandatory obligation to dismiss the case in its entirety,
+despite the possibility of a statute of limitations bar to
+refiling in state court, and regardless of the potential
+merit of the remaining claims.
+This assumption was in error. The basis for district
+court discretion in this context lies in the model of
+supplemental jurisdiction set forth in 28 U.S.C. § 1367.
+The doctrine of supplemental jurisdiction indicates that
+federal courts generally have discretion to retain or
+dismiss state law claims when the federal basis for an
+action drops away. See 28 U.S.C. § 1367 (1993). Federal
+supplemental jurisdiction was created by the Judicial
+Improvement Act of 1990, Pub.L. No. 101-650, Title III,
+§ 310(a), which codified the doctrine of pendent
+jurisdiction developed by the Supreme Court in the case
+of United Mine Workers of America v. Gibbs, 383 U.S.
+715, 86 S.Ct. 1130, 16 L.Ed.2d 218 (1966), and its
+progeny.1 Section 1367(a) provides that
+in any civil action of which the district courts have original
+jurisdiction, the district courts shall have supplemental jurisdiction
+over all other claims that are so related to claims in the action
+within such original jurisdiction that they form part of the same
+case or controversy under Article III of the United States
+Constitution.
+28 U.S.C. § 1367(a). Supplemental jurisdiction thus
+allows parties to append state law claims over which
+federal courts would otherwise lack jurisdiction, so long
+as they form part of the same case or controversy as the
+federal claims. Gibbs, 383 U.S. at 725, 86 S.Ct. at 1138.
+Moreover, the statute is not limited to cases where the
+original basis for federal jurisdiction was a federal
+question. It clearly provides for the operation of
+supplemental jurisdiction in diversity cases. First, §
+1367(a) is broadly phrased to provide for supplemental
+jurisdiction over claims appended to "any civil action"
+over which the court has "original jurisdiction." 28
+U.S.C. § 1367(a). Second, § 1367(b) imposes specific
+limits on the use of supplemental jurisdiction in
+diversity cases in order to prevent the addition of parties
+that would destroy complete diversity as required by §
+1332, but otherwise plainly contemplates the use of
+supplemental jurisdiction in that context. 28 U.S.C. §
+1367(b). See also 28 U.S.C.A. § 1367, David Seigel,
+Practice Commentary 832 (1993) (noting that "[b]y no
+means does [§ 1367(b)] exclude [supplemental
+jurisdiction] from diversity cases in general."). The only
+possible interpretation of this language is that state law
+claims between diverse parties that do not, however,
+satisfy the jurisdictional amount requirements appended
+to diversity actions are cognizable under supplemental
+jurisdiction.
+[58 F.3d 110] The statute then goes on to provide that
+courts "may decline" to exercise supplemental
+jurisdiction in certain circumstances. 28 U.S.C. §
+1367(c). In particular, a court has discretion to dismiss
+or keep a case when it "has dismissed all claims over
+which it has original jurisdiction." 28 U.S.C. §
+1367(c)(3). Recent case law has emphasized that trial
+courts enjoy wide latitude in determining whether or
+not to retain jurisdiction over state claims when all
+federal claims have been extinguished. See, e.g., Noble v.
+White, 996 F.2d 797, 799 (5th Cir.1993). Among the
+factors that inform this discretionary determination are
+convenience and fairness to the parties, the existence of
+any underlying issues of federal policy, comity, and
+considerations of judicial economy. Carnegie-Mellon
+University v. Cohill, 484 U.S. 343, 350 n. 7, 108 S.Ct.
+614, 619 n.7, 98 L.Ed.2d 720 (1988); Growth Horizons,
+Inc. v. Delaware County, 983 F.2d 1277, 1284 (3d
+Cir.1993). The doctrine of supplemental jurisdiction
+"thus is a doctrine of flexibility, designed to allow courts
+to deal with cases involving pendent claims in the
+manner that most sensibly accommodates a range of
+concerns and values." Cohill, 484 U.S. at 350, 108 S.Ct.
+at 619.
+B.
+There are several reasons why the supplemental
+jurisdiction model of discretion should apply when the
+amount in controversy falls below the fifty thousand
+dollar threshold, just as it does when a federal question
+or a diverse claim falls out of a case. First, the same basic
+pattern of circumstances exists in both contexts: the
+jurisdictional basis of the action fades away and the
+court is left with what would otherwise be a state law
+case. There is no way to distinguish a reduction of the
+amount in controversy from the disappearance of a
+federal claim as contemplated under § 1367(c)(3).
+Indeed, the factors applicable in the typical pendent
+jurisdiction case are equally applicable here — comity,
+the existence of a state limitations bar, and
+considerations of judicial economy. Whenever the basis
+for federal jurisdiction evaporates, Congress has
+provided for discretion. There are no situations wherein
+a federal court must retain jurisdiction over a state law
+claim, which would not by itself support jurisdiction. It
+makes little sense, then, to think of jurisdictional
+amounts as a separate category of cases when they so
+clearly fit into the congressional scheme of supplemental
+jurisdiction. It does make sense, however, to have one
+rule of district court discretion, not separate rules for
+separate jurisdictional bases when simple logic dictates
+that they be treated the same.
+This point is illustrated by the fact that the grant of
+discretion to retain or dismiss residual state law claims
+in § 1367(c)(3) would apply in cases closely analogous to
+the one before us. For example, § 1367(c)(3) provides on
+its own terms for supplemental jurisdiction over an
+inadequate amount in controversy if the claim that is
+dismissed is in excess of $50,000. See 28 U.S.C. § 1367(c)
+("courts may ... exercise supplemental jurisdiction ... if ...
+the district court has dismissed all claims over which it
+has original jurisdiction"). In such a case the remaining
+smaller claims would have been "pendent" to the larger
+dismissed claim, and thus the court could choose to
+exercise jurisdiction over them. See Worthams v.
+Atlanta Life Ins. Co., 533 F.2d 994, 997-98 (6th
+Cir.1976) (finding jurisdiction still existed over claim of
+$7,900 when other $100,000 claim was dismissed). Here,
+the only difference is that no single claim by itself
+carried plaintiff into federal court, and so she was forced
+to aggregate her various smaller claims to reach the
+jurisdictional threshold. Similarly, supplemental
+(ancillary) jurisdiction provides discretionary review of
+counterclaims of less than $50,000 even when the
+primary federal claim is dismissed. 28 U.S.C.A. § 1367,
+David Seigel, Practice Commentary 830 (1993). Hence, a
+reduction of the amount in controversy below the
+$50,000 limit simply does not affect the existence of
+discretion to either retain or dismiss the remaining
+claims.
+Second, when § 1332 (diversity jurisdiction) and § 1367
+(supplemental jurisdiction) are read together, the
+natural conclusion is that the discretionary model may
+be applied in the context of jurisdictional amounts in
+liquidated damages cases. Section 1332(a) provides
+positive, mandatory jurisdiction in diversity cases when
+the amount is over [58 F.3d 111] $50,000. 28 U.S.C. §
+1332(a). Section 1367(a) is a parallel to § 1332(a),
+providing a similar positive grant of supplementary
+jurisdiction. Section 1367(c), by contrast, is permissive,
+allowing a court to decline that mandatory jurisdiction
+when read in conjunction with § 1367(a). Thus, if §
+1332(a) is read with § 1367(a), it fits together with the
+permissive language of § 1367(c), allowing courts to
+"decline" jurisdiction when the amount falls below
+$50,000.
+Moreover, § 1367(b), which limits the use of
+supplemental jurisdiction in diversity cases, speaks only
+to preventing attempts by plaintiffs to circumvent
+complete diversity. It bars jurisdiction over certain
+claims against or by parties added through Fed. R.Civ.P.
+14, 19, 20, or 24. 28 U.S.C. § 1367(b). Nothing in §
+1367(b) precludes the use of a supplemental jurisdiction
+analysis in diversity cases when the issue is the amount
+in controversy rather than complete diversity. If
+Congress had wanted to limit the use of supplemental
+jurisdiction to prevent discretionary decisions in this
+context, § 1367(b) would have been the obvious place in
+which to do it.
+Case law on jurisdictional amounts that predates § 1367
+is in some tension with the statute. The case of St. Paul
+Mercury Indemnity Co. v. Red Cab Co., 303 U.S. 283,
+58 S.Ct. 586, 82 L.Ed. 845 (1938), required retention of
+jurisdiction over cases falling below the jurisdictional
+amount threshold so long as the amount alleged in the
+complaint was made in good faith. St. Paul, 303 U.S. at
+288, 58 S.Ct. at 590. See also Lynch v. Porter, 446 F.2d
+225, 228 (8th Cir.1971), cert. denied, 404 U.S. 1047, 92
+S.Ct. 711, 30 L.Ed.2d 739 (1972). St. Paul further held
+that a claim of good faith is negated only if it was a legal
+certainty that, at the time of the complaint, the plaintiff
+could not recover the requisite amount. St. Paul, 303
+U.S. at 289, 58 S.Ct. at 590. However, the St. Paul test
+was developed long before the modern concepts of
+supplemental jurisdiction expressed in Gibbs. Under the
+Gibbs approach, federal courts have discretion to
+dismiss or retain residual state law claims. Congress, by
+adopting § 1367, expressed an emphatic preference for
+the Gibbs approach. A straightforward application of
+the St. Paul rule would nevertheless mandate retention
+of cases falling below the jurisdictional amount despite,
+for example, the existence of novel or complex issues of
+state law. Divesting federal courts of discretion in such
+circumstances simply cannot be squared with the
+statutory language. See 28 U.S.C. § 1367(c)(1). Thus, the
+strict St. Paul rule is inconsistent with the statutory
+framework of § 1367 and so must be modified to fit the
+contemporary congressional view of federal jurisdiction.
+Indeed, any strict rule that mandates either retention or
+dismissal of residual claims in all cases operates in
+derogation of important competing interests. On the
+one hand, a standard tied exclusively to the St. Paul rule
+of good faith pleading fails to respect the congressional
+purpose in raising the jurisdictional amount to the fifty
+thousand dollar threshold. Congress recently raised the
+amount in an effort to prevent state law claims for
+modest sums from landing in federal court. See 136
+Cong. Rec. S16295 (Section-by-Section Analysis of
+Judicial Improvements and Access to Justice Act)
+(noting increase intended to reduce federal caseload).
+See also Snyder v. Harris, 394 U.S. 332, 339-40, 89 S.Ct.
+1053, 1058-59, 22 L.Ed.2d 319 (1969) (purpose of steady
+increases in jurisdictional amount is to stem rising
+caseload of federal courts). A strict rule, however, that
+required retention of all claims that pass the lenient
+threshold of "good faith" pleading violates this basic
+congressional purpose. It would require, for example,
+federal judges to resolve cases that Congress believed all
+along should be pressed in state court, because they
+involved both limited sums and purely state law claims.
+Thus, a rigid rule of retention would sacrifice the very
+purpose of a jurisdictional amount requirement, not to
+mention Congress' recent action in raising that amount
+five-fold. See U.S.C. § 1332(a).
+On the other hand, a rigid rule requiring dismissal once
+the jurisdictional amount falls below the statutory
+standard would work a serious injustice. It might result
+in valid claims going unheard or in significant wastes of
+judicial resources. These were the same [58 F.3d 112]
+concerns that motivated the creation of pendent
+jurisdiction in the first place. See Gibbs, 383 U.S. at 726,
+86 S.Ct. at 1139. Moreover, a rule of automatic dismissal
+would encourage defendants in attempts to bootstrap a
+win on a single liquidated claim into an overall victory.
+If district courts lacked discretion, they would be unable
+to combat such manipulations, and as a result
+meritorious claims might fall by the wayside. Thus, the
+potential injustice to litigants of a Rule of Dismissal is as
+undesirable as the flood of trivial claims that might
+result from a Rule of Retention. Justice is better served
+by a jurisdictional rule that includes some measure of
+discretion for the district court.
+C.
+The application of § 1367's discretionary analysis in the
+context of a jurisdictional amount case is quite
+straightforward. First, the court should look to the face
+of the complaint itself to determine whether it is a legal
+certainty that plaintiff's claims do not reach the required
+amount. See St. Paul, 303 U.S. at 288, 58 S.Ct. at 590.
+Unless the claim for an amount over the jurisdictional
+prerequisite is made in bad faith, or unless it is plain
+from the complaint that an amount less than the
+jurisdictional amount is all that is at issue, the district
+court has jurisdiction over the case. This is akin to a
+"well-pleaded complaint" rule. Of course, if plaintiff has
+alleged only a small amount of damages or it is
+otherwise obvious that the jurisdictional amount under
+§ 1332(a) cannot be satisfied, the court must dismiss the
+case outright for lack of jurisdiction. Wiggins v. North
+American Equitable Life Assurance Co., 644 F.2d 1014,
+1016-18 (4th Cir.1981). In this case, by contrast, it
+appears from the face of the complaint that Shanaghan
+had alleged claims totaling well over the $50,000 limit.
+Second, if some event subsequent to the complaint
+reduces the amount in controversy, such as the dismissal
+of one count based on the defendant's answer, the court
+must then decide in its discretion whether to retain
+jurisdiction over the remainder of the case. Here, courts
+should be guided by the same kind of factors that inform
+decisions in the supplemental jurisdiction context when
+the federal basis of a case disappears. In general, courts
+should weigh convenience and fairness to both parties,
+as well as the interests of judicial economy. See In Re
+Conklin, 946 F.2d 306, 322 (4th Cir.1991) (citing Gibbs,
+383 U.S. at 725, 86 S.Ct. at 1138). In particular, it is
+important to consider whether the amount claimed in
+the complaint was made in good faith, or whether
+plaintiff was consciously relying on flimsy grounds to
+get into federal court. See Rosado v. Wyman, 397 U.S.
+397, 404-05, 90 S.Ct. 1207, 1213-14, 25 L.Ed.2d 442
+(1970) (distinguishing initial "insubstantiality" from
+subsequent "mootness"). Another critical equitable
+factor is the existence of any state limitations bars to
+refiling in state court.2 See Ridenour v. Andrews Federal
+Credit Union, 897 F.2d 715, 722 (4th Cir.1990). Where,
+as here, a plaintiff might suffer serious prejudice from
+the dismissal of her action, courts should be more
+willing to retain the case despite the smaller amount in
+controversy. Next, courts should account for the
+amount of time and energy that has already been
+expended, and decide whether it might be more efficient
+to simply retain jurisdiction. See Washington v. Union
+Carbide Corp., 870 F.2d 957, 962 (4th Cir.1989). Finally,
+other considerations may arise on a case-by-case basis,
+such as the existence of some significant issue of state
+law best resolved in state court, that could inform the
+trial court's determination whether to keep or dismiss
+the case entirely. See McCullough v. Branch Banking &
+Trust Co., Inc., 844 F.Supp. 258, 260-62 (E.D.N.C.1993)
+(describing discretionary analysis under § 1367(c)(3)),
+aff'd, 35 F.3d 127 (4th Cir. 1994).
+In sum, we leave it to the sound judgment of the district
+court to decide whether to exercise jurisdiction over
+residual liquidated [58 F.3d 113] claims under $50,000, so
+long as it was not a legal certainty from the outset that
+the plaintiff had no business being in federal court.
+III.
+For the foregoing reasons, the judgment of the district
+court is reversed, and this matter is remanded with
+instructions to determine whether the court, in its
+discretion, should maintain jurisdiction over plaintiff's
+liquidated damages claims of $23,969 and $14,700.
+REVERSED AND REMANDED.

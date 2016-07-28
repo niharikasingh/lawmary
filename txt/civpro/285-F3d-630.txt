@@ -1,0 +1,451 @@
+In this diversity case, the Allstate Insurance Company
+("Allstate"), as subrogee of Sam Lakhia, appeals from the
+district court's dismissal of its claim for property damage
+founded on the doctrine of strict liability for a defective
+product. There is a disagreement among the
+intermediate courts of appeals in Illinois with respect to
+the applicable statute of limitations. The United States
+District Court for the Northern District of Illinois
+decided that it should follow the rule established by the
+state intermediate court for the state appellate district in
+which the lawsuit would have been brought.
+Accordingly, it determined that the present lawsuit had
+been filed beyond the time permitted by the statute of
+limitations and dismissed the action. Because we believe
+that the district court erred in its belief that it was
+required to follow the rule of the state intermediate
+court of appeals for the state appellate district in which
+the suit would have been brought, we reverse its
+decision on that issue. Finally, because of the
+importance of the question to the jurisprudence of
+Illinois, we certify to the Supreme Court of Illinois the
+issue of the applicable statute of limitations.
+I
+BACKGROUND
+Prior to December 18, 1994, Sam Lakhia or a member of
+his family purchased a torchiere halogen lamp in a
+Menards store in Hillsdale, Illinois. The lamp was placed
+in the family home in Bellwood, Illinois and situated
+along the south wall near the basement stairs for the
+purposes of providing ambient light. On December 18,
+there was a fire in the Lakhia home that resulted in a
+claim by Mr. Lakhia for $144,799.05 for property
+damage and related living expenses incurred as a result
+of the fire. Allstate, Lakhia's insurer and subrogee, paid
+the claim and then brought this action against Menards
+on March 10, 1999. The jurisdiction of the district court
+was based on the diverse citizenship of the [285 F.3d
+632] parties. Menards filed a motion to dismiss on the
+ground that the action was barred by the applicable
+statute of limitations.
+In a hearing before the district court, the parties
+disagreed with respect to the applicable statute of
+limitations period for a products liability action. In
+Allstate's view, the applicable statute of limitations was
+five years. It relied upon the decision of the Second
+District in American Family Insurance Co. v. Village
+Pontiac-GMC, Inc., 182 Ill.App.3d 385, 131 Ill.Dec. 484,
+538 N.E.2d 859 (1989). Menards, on the other hand,
+submitted that the applicable statute of limitations was
+two years. It relied on the decisions of the First District
+in McLeish v. Sony Corp. of America, 152 Ill.App.3d
+628, 105 Ill.Dec. 648, 504 N.E.2d 933 (1987) and
+Calumet Country Club v. Roberts Environmental
+Control Corp., 136 Ill.App.3d 610, 91 Ill.Dec. 267, 483
+N.E.2d 613 (1985).
+In discharging their responsibility to ascertain the
+content of state law in diversity cases, the sitting judges
+of the Northern District of Illinois have developed two
+conflicting approaches when confronted with no
+controlling decision of the Supreme Court of Illinois
+and with conflicting decisions of the Illinois Appellate
+Court. Some judges have followed the standard [285
+F.3d 633] practice for a district court sitting in diversity
+and have attempted to predict how the Supreme Court
+of Illinois would resolve the question. Others have
+deemed themselves bound by the prevailing rule of the
+state appellate district in which the suit would have been
+brought in state court, reasoning that this approach
+would prevent forum shopping. The district court in
+this case had followed the latter approach in earlier cases
+and decided that, in the absence of explicit guidance
+from this court, it would not alter its course.
+Accordingly, it followed the decisions of the First
+District and held that the applicable statute of
+limitations was two years and dismissed the action.
+II
+DISCUSSION
+A.
+We first address whether the district court was correct
+in its decision to consider itself bound by the view of the
+state intermediate appellate court with jurisdiction over
+the place where the action would be brought in the state
+court. Both parties before us, and all of the judges of the
+United States District Court for the Northern District of
+Illinois who have addressed the matter, acknowledge
+that the ultimate responsibility of the district courts is to
+apply the law of the state in which the court sits with
+respect to substantive matters. See Erie R.R. Co. v.
+Tompkins, 304 U.S. 64, 78, 58 S.Ct. 817, 82 L.Ed. 1188
+(1938). It is further beyond dispute that, as a general
+rule, statutes of limitation are considered to be
+substantive matters for purposes of the Erie doctrine.
+See Guaranty Trust v. York, 326 U.S. 99, 110, 65 S.Ct.
+1464, 89 L.Ed. 2079 (1945).
+As we have noted already, the district court, relying on
+its past practice as well as the practice of some other
+judges sitting in this particular district, took the view
+that, in the absence of a definite ruling by the Supreme
+Court of Illinois and faced with a conflict among the
+state's intermediate appellate courts, it was obliged to
+follow the rule established by the Illinois Appellate
+Court with jurisdiction over the [285 F.3d 634] place
+where the suit would have been filed, if it had been filed
+in state court. The view of the district court finds
+support in several published cases of the Northern
+District of Illinois. See, e.g., Abbott Labs. v. Granite
+State Ins. Co., 573 F.Supp. 193 (N.D.Ill.1983); Comm'l
+Discount Corp. v. King, 552 F.Supp. 841 (N.D.Ill.1982).
+As Menards points out in its brief, these cases consider
+the main focus of Erie to be a concern that "`for the
+same transaction the accident of suit by a nonresident
+litigant in a federal court instead of a State court a block
+away should not lead to a substantially different result.'"
+Abbott Labs., 573 F.Supp. at 197 (quoting Guaranty
+Trust, 326 U.S. at 109, 65 S.Ct. 1464). The same theme,
+noted the district court in Abbott Laboratories, was
+expressed by the Supreme Court in Klaxon v. Stentor
+Manufacturing Co., 313 U.S. 487, 496, 61 S.Ct. 1020, 85
+L.Ed. 1477 (1941), when the Supreme Court wrote that,
+unless state choice of law rules are treated as anything
+other than substantive, "the accident of diversity of
+citizenship would constantly disturb equal
+administration of justice in coordinate state and federal
+courts sitting side by side." Klaxon, 313 U.S. at 496, 61
+S.Ct. 1020. The rule articulated in Klaxon dealt with a
+state's choice of law rules governing when it would
+apply its own substantive law and when it would apply
+the substantive law of another state. The district court
+in Abbott Laboratories maintained, however, that Erie's
+concern with the equal administration of justice requires
+that the same approach be taken with respect to a state's
+"internal choice of law rule that requires the state trial
+courts in Illinois to follow the rule of the appellate court
+for the district in which it is located." Abbott Labs., 573
+F.Supp. at 195. Thus, when "`state law' itself contains a
+definitive rule as to the way to ascertain `state law' in
+case of intrastate appellate court disputes, we must
+follow that first `state law' in order to learn the second
+`state law.'" Comm'l Disc. Corp., 552 F.Supp. at 851. In
+short, said the district court, the "essential theory" of
+Erie is that "`a federal court must decide substantive
+questions in diversity cases in the same way that a state
+trial judge in the same location would.'" Id. at 847
+(quoting Nat'l Can Corp. v. Whittaker Corp., 505
+F.Supp. 147, 148 n. 2 (N.D.Ill.1981)).
+In assessing this perspective, we believe that the most
+appropriate course is to start with Erie itself. There can
+be no doubt that, in setting forth the rule that a district
+court sitting in diversity must apply the law of the state
+in which it sits, the Supreme Court was concerned with
+forum shopping. See Erie, 304 U.S. at 74-75, 58 S.Ct.
+817. It is necessary, however, to go behind this concern
+and to perceive the reasons for the Supreme Court's
+concern. Erie is not simply the product of a search for a
+salutary rule of judicial administration, but a holding
+that the Supreme Court explicitly said was
+constitutionally compelled: [285 F.3d 635] "If only a
+question of statutory construction were involved, we
+should not be prepared to abandon a doctrine so widely
+applied throughout nearly a century. But, the
+unconstitutionality of the course pursued has now been
+made clear, and compels us to do so." Erie, 304 U.S. at
+77-78, 58 S.Ct. 817. Noting the federal government's
+lack of constitutional authority to create substantive
+rules of law, the Supreme Court viewed its holding as
+restoring to the state governments the prerogative of
+fashioning principles of law in matters beyond the
+limited constitutional competence delineated for the
+federal government in the Constitution:
+Except in matters governed by the Federal Constitution or by acts
+of Congress, the law to be applied in any case is the law of the State.
+And, whether the law of the State shall be declared by its
+Legislature in a statute or by the highest court in a decision is not a
+matter of federal concern. There is no general federal common law.
+Congress has no power to declare substantive rules of common law
+applicable in a State whether they be local in their nature or
+"general," be they commercial law or part of the law of torts. And
+no clause in the Constitution purports to confer such a power upon
+the federal courts.
+Id. at 78, 58 S.Ct. 817; see also Bernhardt v. Polygraphic
+Co. of Am., 350 U.S. 198, 202, 76 S.Ct. 273, 100 L.Ed.
+199 (majority), 208 (Frankfurter, J., concurring) (1956).
+To maintain the constitutional line between limited
+federal lawmaking power and state residual lawmaking
+power, Erie requires that the federal court follow an
+analytical path that ensures that the law applied in
+federal proceedings is the law that "ultimately would be
+applied were the case to be litigated in the state courts."
+Roberts v. Western-Southern Life Ins. Co., 568 F.Supp.
+536, 539-40 (N.D.Ill.1983) (emphasis in original).
+Application of the approach employed by the district
+court in this case would not achieve this result because it
+would deny the litigant any opportunity to receive a
+judicial assessment about what the supreme court of the
+state might determine the law to be through a resolution
+of conflicting precedent in the lower state appellate
+courts. The litigant in an Illinois state court is no doubt
+bound by the approach articulated in People v. Thorpe,
+52 Ill.App.3d 576, 10 Ill.Dec. 351, 367 N.E.2d 960, 963
+(1977), and Garcia v. Hynes & Howes Real Estate, Inc.,
+29 Ill.App.3d 479, 331 N.E.2d 634, 636 (1975), and
+therefore can expect to be bound in the trial court by the
+substantive rule of law articulated by the state appellate
+court for the district in which the trial court is located.
+Upon rendition of judgment by the trial court, however,
+that litigant has the right to appeal to the intermediate
+appellate court and to convince that court that the
+prevailing rule ought to yield to that embraced by an
+appellate court in another district. Absent satisfactory
+relief in that court, yet a further attempt may be made to
+convince the state's highest tribunal to resolve the
+conflict among the districts. For the litigant in federal
+court, however, there is no such direct path to the
+Supreme Court of Illinois. If the mandate of Erie is to be
+satisfied and the law ultimately employed is to be the
+law of the state, the federal court, exercising its
+authority to hear diversity cases, must make a
+predictive judgment as to how the supreme court of the
+state would decide the matter if it were presented
+presently to that tribunal.
+[285 F.3d 636] In many instances, therefore, application
+of the rule employed in Abbott Laboratories would
+result in the precedent of the state intermediate
+appellate court being given more effect in federal court
+than it would receive in the state judicial system. Under
+the rationale of that case, both the district court and this
+court would be bound by the precedent of the state
+intermediate appellate court. If the case were brought in
+the state system, however, that court would be free to
+reevaluate its own precedent and determine that, despite
+the usual constraints of stare decisis and precedent, that
+decision ought not stand. See Geri J. Yonover,
+Ascertaining State Law: The Continuing Erie Dilemma,
+38 DePaul L.Rev. 1, 33 (1988).
+Although the Supreme Court of the United States has
+not had to confront the precise issue before us today, its
+decisions make it clear that the Court views the Erie
+doctrine as imposing on federal courts the responsibility
+to determine the content of state law at the state, not the
+local, level. Erie itself appears to have contemplated that
+the duty of the federal court, sitting in diversity, is to
+determine the content of state law as the highest court
+of the state would interpret it. See Erie, 304 U.S. at 78,
+80, 58 S.Ct. 817; see also Wichita Royalty Co. v. City
+Nat'l Bank, 306 U.S. 103, 59 S.Ct. 420, 83 L.Ed. 515
+(1938). In Bernhardt, the Court also focused on the
+clarity of the entire state's decisional law in ascertaining
+the content of state law. See Bernhardt, 350 U.S. at 205,
+76 S.Ct. 273. Most recently, and perhaps most pointedly,
+in holding that federal courts of appeals must review de
+novo the district court's determination of the content of
+state law, the Supreme Court noted that deferential
+review invites "divergent development of state law
+among the federal trial courts even within a single
+state." Salve Regina College v. Russell, 499 U.S. 225,
+234, 111 S.Ct. 1217, 113 L.Ed.2d 190 (1991).
+Finally, we do not think that the Supreme Court's
+decision in Klaxon is of any help to Menards. A fair
+reading of Klaxon makes clear that its focus is on
+ensuring that, in determining whether to apply the
+substantive law of the state in which it sits or the
+substantive law of another state, a district court should
+follow the choice of law rules of the forum state to
+ensure that the replacement of one state's law by
+another is based on a state policy decision and not a
+federal one. As the Court stated:
+Any other ruling would do violence to the principle of uniformity
+within a state, upon which the Tompkins decision is based.
+Whatever lack of uniformity this may produce between federal
+courts in different states is attributable to our federal system, which
+leaves to a state, within the limits permitted by the Constitution,
+the right to pursue local policies diverging from those of its
+neighbors. It is not for the federal courts to thwart such local
+policies by enforcing an independent "general law" of conflict of
+laws. Subject only to review by this Court on any federal question
+that may arise, Delaware is free to determine whether a given
+matter is to be governed by the law of the forum or some other law.
+Klaxon, 313 U.S. at 496-97, 61 S.Ct. 1020.
+As one scholar has written:
+All that was decided in Klaxon was that the federal court in
+Delaware should [285 F.3d 637] follow the conflict of laws rules
+prevailing in the state in which it sits. The conflict of laws rules
+contemplated by Klaxon are those rules, whether they be traditional
+First Restatement of conflict of Laws method or one of the more
+modern approaches, which would direct the forum jurisdiction to
+apply the law of another jurisdiction. The intrastate precedential
+effect of intermediate state court decisions on state courts as
+exemplified by Thorpe/Garcia is an apple, or better yet an
+asparagus, compared to Klaxon's orange!
+Yonover, supra at 35.
+Although we believe that the task of the federal court
+sitting in diversity is to ascertain the substantive content
+of state law as it either has been determined by the
+highest court of the state or as it would be by that court
+if the present case were before it now, we pause to
+emphasize that this determination in no way implies any
+erosion of our precedent that, in the absence of
+prevailing authority from the state's highest court,
+federal courts ought to give great weight to the holdings
+of the state's intermediate appellate courts and ought to
+deviate from those holdings only when there are
+persuasive indications that the highest court of the state
+would decide the case differently from the decision of
+the intermediate appellate court. See State Farm Mut.
+Auto. Ins. Co. v. Pate, 275 F.3d 666, 669 (7th Cir.2001);
+Lexington Ins. Co. v. Rugg & Knopp, Inc., 165 F.3d
+1087, 1090 (7th Cir.1999); Allen v. Transamerica Ins.
+Co., 128 F.3d 462, 466 (7th Cir.1997). See generally E.
+Chemerinsky, Federal Jurisdiction § 5.3 at 323-26 (3d
+ed.1999) (discussing Supreme Court authorities);
+Yonover, supra at 5 n. 21. As the Supreme Court has
+held, "[w]here an intermediate appellate state court rests
+its considered judgment upon the rule of which it
+announces, that is a datum for ascertaining state law
+which is not to be disregarded by a federal court unless
+it is convinced by other persuasive data that the highest
+court of the state would decide otherwise." West v. Am.
+Tel. & Tel. Co., 311 U.S. 223, 237, 61 S.Ct. 179, 85 L.Ed.
+139 (1940).
+In sum, we adhere today to the general rule, articulated
+and applied throughout the United States, that, in
+determining the content of state law, the federal courts
+must assume the perspective of the highest court in that
+state and attempt to ascertain the governing substantive
+law on the point in question. See Allen, 128 F.3d at 466-
+67. See generally 19 Charles Alan Wright, Arthur R.
+Miller & Edward H. Cooper, Federal Practice and
+Procedure: Jurisdiction 2d § 4507 at 157-61.
+B.
+As we have noted earlier, federal courts have, under
+Article III, the authority and, indeed, the duty to
+ascertain the content of state substantive law when
+called upon to do so in the exercise of the diversity
+jurisdiction of the federal courts. Exercising this
+responsibility is no easy task. As one jurist-author has
+noted, "[f]inding the applicable state law ... is a search
+that often proves elusive." Moreover, although often
+[285 F.3d 638] lost in the debate about the continued
+importance of diversity jurisdiction in our constitutional
+scheme — a debate that usually focuses on the number of
+cases involved — there is a significant impact on the
+health of our federalism as federal courts interpret, with
+increasing frequency, issues of state law. As the same
+author pointed out, there is some evidence that federal
+courts are not the best prognosticators of the future
+course of state doctrinal issues. Unless and until
+corrected, these missteps by federal courts can have a
+grave impact on the principled and orderly growth of
+state law principles. These decisions "inevitably skew
+the decisions of persons and businesses that rely on
+them and inequitably affect the losing federal litigant
+who cannot appeal the decision to the state supreme
+court; they may even mislead lower state courts that
+may be inclined to accept federal predictions as
+applicable precedent." It may be that, in the process of
+ascertaining the content of state law, federal judges
+make, on occasion, significant contributions to the
+growth of state jurisprudence. Yet, the potential for
+significant intrusion, sometimes with disastrous results,
+counsels that the task be undertaken with great care,
+thoroughness and a full realization of the impact that the
+process, even when executed adroitly, has on "Our
+Federalism." See Younger v. Harris, 401 U.S. 37, 44, 91
+S.Ct. 746, 27 L.Ed.2d 669 (1971).
+Certification of a controlling issue of state law to the
+highest court of the state is one method of reducing the
+possibility of error in making an "Erie guess." Many
+states have now enacted, through their state
+constitutions, statutes, or rules of court, specific
+provisions that permit a federal appellate court, and
+sometimes a federal district court, to seek such
+guidance. In this circuit we are the fortunate recipients
+of this option by all three states within the circuit. See
+Ind. R.App. P. 64; Ill. S.Ct. Rule 20; Wisc. Stat. ch.
+821.01. However, as we pointed out recently in Pate,
+although certification is a "useful tool of cooperative
+federalism," Pate, 275 F.3d at 671, because it permits the
+federal court to obtain a definitive ruling on the content
+of state law, see City of Houston v. Hill, 482 U.S. 451,
+470, 107 S.Ct. 2502, 96 L.Ed.2d 398 (1987), the use of
+the procedure is "not without its costs to the litigants
+and to the state court which already must contend with
+a crowded docket of its own." Pate, 275 F.3d at 671.
+Consequently, we wrote, "a respect for the burdens of
+our colleagues on the state bench and concern for the
+litigants before us counsel that we approach the decision
+to certify with circumspection." Id. We then set out a
+series of factors that federal courts ought to consider
+before deciding to certify an uncertain question of state
+law. See id. at 672-73. First, we said that the federal
+court ought to weigh the degree of uncertainty that
+exists on the state law issue. See id. We noted that, in
+the past, our cases have directed that a court also
+consider whether the issue presents a matter of public
+concern, whether the issue is likely to recur, whether
+the issue is outcome determinative, and whether the
+state supreme court has had an opportunity to [285 F.3d
+639] address the issue in other cases. See id. at 672. We
+must also consider whether the supreme court of the
+state would consider the issue an important one in the
+growth of the state's jurisprudence and whether
+resolution of the issue definitively will benefit future
+litigants or will almost exclusively affect the citizens of
+the state. See Pate, 275 F.3d at 672. Notably, we also
+said that, in determining whether an intrusion on the
+time of our colleagues on the state court is justifiable, we
+shall be more inclined to certify the question when the
+intermediate courts of the state are in disagreement on
+the issue or the issue is one of first impression for the
+court of last resort. See id. On the other hand, we have
+said that fact specific issues, as well as issues upon which
+there is no serious doubt or that are not dispositive of
+the case, are not candidates for certification. See id.
+After giving the matter considerable study, we believe
+that the present case justifies certification to the
+Supreme Court of Illinois. Statutes of limitations reflect
+significant policy choices by the state and have grave
+consequences for the administration of justice within
+the state. Certainly, our colleagues on the Supreme
+Court of Illinois are far more familiar with the policy
+choices that have been made, and have far more direct
+responsibility for the administration of justice within
+the state than do the members of this court. Moreover,
+as we have noted earlier, the intermediate appellate
+courts in the state are in disagreement about the
+applicable statute of limitations. The intrusion of
+unguided federal precedent into the situation will only
+serve to destabilize further the state of Illinois
+jurisprudence on this issue and make it more difficult
+for members of the Illinois bar to counsel their clients
+accurately. The issue is, moreover, a recurring one and
+is likely to arise with significant frequency both in state
+and federal forums. To this date, moreover, it appears
+that the Supreme Court of Illinois has not had an
+opportunity to address the question squarely. Before
+deciding to certify this issue, we asked counsel to
+confirm that none of the intermediate court decisions
+on this issue have been presented to the Supreme Court
+of Illinois.
+Conclusion
+Accordingly, pursuant to Circuit Rule 52 and Rule 20 of
+the Supreme Court of Illinois, having determined that
+there is no controlling precedent from the Supreme
+Court of Illinois on an issue that may be determinative
+of this litigation, we respectfully certify the following
+question:
+What is the applicable statute of limitations in Illinois for an action
+for damage to property based on the doctrine of strict liability in
+tort when that action is brought within the applicable statute of
+repose?
+QUESTION CERTIFIED.

@@ -1,0 +1,247 @@
+Bensusan Restaurant Corporation, located in New York
+City, appeals from a judgment of the United States
+District Court for the Southern District of New York
+(Stein, J.) dismissing its complaint against Richard B.
+King, a Missouri resident, pursuant to Fed. R.Civ.P.
+12(b)(2) for lack of personal jurisdiction. We affirm.
+Columbia, Missouri is a small to medium size city far
+distant both physically and substantively from
+Manhattan. It is principally a white-collar community,
+hosting among other institutions Stephens College,
+Columbia College and the University of Missouri. It
+would appear to be an ideal location for a small cabaret
+featuring live entertainment, and King, a Columbia
+resident, undoubtedly found this to be so. Since 1980, he
+has operated such a club under the name "The Blue
+Note" at 17 North Ninth Street in Columbia.
+Plaintiff alleges in its complaint that it is "the creator of
+an enormously successful jazz club in New York City
+called `The Blue Note,'" which name "was registered as a
+federal trademark for cabaret services on May 14, 1985."
+Around 1993, a Bensusan representative wrote to King
+demanding that he cease and desist from calling his club
+The Blue Note. King's attorney informed the [126 F.3d
+27] writer that Bensusan had no legal right to make the
+demand.
+Nothing further was heard from Bensusan until April
+1996, when King, at the suggestion of a local web-site
+design company, ThoughtPort Authority, Inc.,
+permitted that company to create a web-site or
+cyberspot on the internet for King's cabaret. This work
+was done in Missouri. Bensusan then brought the
+instant action in the Southern District of New York,
+alleging violations of sections 32(1) and 43(a) of the
+Lanham Act, 15 U.S.C. §§ 1114(1) & 1125(a), and
+section 3(c) of the Federal Trademark Dilution Act of
+1995, 15 U.S.C. § 1125(c), as well as common law unfair
+competition.
+In addition to seeking trebled compensatory damages,
+punitive damages, costs and attorney's fees, Bensusan
+requests that King be enjoined from:
+using the mark "The Blue Note", or any other indicia of the Blue
+Note in any manner likely to cause confusion, or to cause mistake,
+or to deceive, or from otherwise representing to the public in any
+way that [King's club] is in any way sponsored, endorsed, approved,
+or authorized by, or affiliated or connected with, Plaintiff or its
+CABARET, by means of using any name, trademark, or service
+mark of Plaintiff or any other names whatsoever, including but not
+limited to removal of Defendant's web-site....
+The web-site describes King's establishment as "MidMissouri's
+finest live entertainment venue, ... [l]ocated
+in beautiful Columbia, Missouri," and it contains
+monthly calendars of future events and the Missouri
+telephone number of King's box office. Initially, it
+contained the following text:
+The Blue Note's CyberSpot should not be confused with one of the
+world's finest jazz club Blue Note, located in the heart of New
+York's Greenwich Village. If you should ever find yourself in the
+big apple give them a visit.
+This text was followed by a hyperlink that could be
+used to connect a reader's computer to a web-site
+maintained by Bensusan. When Bensusan objected to
+the above-quoted language, King reworded the
+disclaimer and removed the hyperlink, substituting the
+following disclaimer that continues in use:
+The Blue Note, Columbia, Missouri should not be confused in any
+way, shape, or form with Blue Note Records or the jazz club, Blue
+Note, located in New York. The CyberSpot is created to provide
+information for Columbia, Missouri area individuals only, any
+other assumptions are purely coincidental.
+The district court dismissed the complaint in a scholarly
+opinion that was published in 937 F.Supp. 295 (1996).
+Although we realize that attempting to apply established
+trademark law in the fast-developing world of the
+internet is somewhat like trying to board a moving bus,
+we believe that well-established doctrines of personal
+jurisdiction law support the result reached by the district
+court.
+In diversity or federal question cases the court must look
+first to the long-arm statute of the forum state, in this
+instance, New York. PDK Labs, Inc. v. Friedlander, 103
+F.3d 1105, 1108 (2d Cir.1997). If the exercise of
+jurisdiction is appropriate under that statute, the court
+then must decide whether such exercise comports with
+the requisites of due process. See Metropolitan Life Ins.
+Co. v. Robertson-Ceco Corp., 84 F.3d 560, 567 (2d Cir.),
+cert. denied, ___ U.S. ___, 117 S.Ct. 508, 136 L.Ed.2d
+398 (1996). Because we believe that the exercise of
+personal jurisdiction in the instant case is proscribed by
+the law of New York, we do not address the issue of due
+process.
+The New York law dealing with personal jurisdiction
+based upon tortious acts of a non-domiciliary who does
+not transact business in New York is contained in subparagraphs
+(a)(2) and (a)(3) of CPLR § 302, and
+Bensusan claims jurisdiction with some degree of
+inconsistency under both sub-paragraphs. Because King
+does not transact business in New York State, Bensusan
+[126 F.3d 28] makes no claim under section 302(a)(1).
+The legislative intent behind the enactment of subparagraphs
+(a)(2) and (a)(3) best can be gleaned by
+reviewing their disparate backgrounds. Sub-paragraph
+(a)(2), enacted in 1962, provides in pertinent part that a
+New York court may exercise personal jurisdiction over
+a non-domiciliary who "in person or though an agent"
+commits a tortious act within the state. The New York
+Court of Appeals has construed this provision in several
+cases. In Feathers v. McLucas, 15 N.Y.2d 443, 458, 261
+N.Y.S.2d 8, 209 N.E.2d 68 (1965), the Court held that
+the language "commits a tortious act within the state," as
+contained in sub-paragraph (a)(2), is "plain and precise"
+and confers personal jurisdiction over non-residents
+"when they commit acts within the state." Id. at 460, 261
+N.Y.S.2d 8, 209 N.E.2d 68 (internal quotation marks
+omitted). Feathers adopted the view that CPLR §
+302(a)(2) reaches only tortious acts performed by a
+defendant who was physically present in New York
+when he performed the wrongful act. The official
+Practice Commentary to CPLR § 302 explains that "if a
+New Jersey domiciliary were to lob a bazooka shell
+across the Hudson River at Grant's tomb, Feathers
+would appear to bar the New York courts from asserting
+personal jurisdiction over the New Jersey domiciliary in
+an action by an injured New York plaintiff." C302:17.
+The comment goes on to conclude that:
+As construed by the Feathers decision, jurisdiction cannot be
+asserted over a non-resident under this provision unless the
+nonresident commits an act in this state. This is tantamount to a
+requirement that the defendant or his agent be physically present in
+New York.... In short, the failure to perform a duty in New York is
+not a tortious act in this state, under the cases, unless the defendant
+or his agent enters the state.
+The Court of Appeals adhered to the Feathers holding
+in Kramer v. Vogl, 17 N.Y.2d 27, 31, 267 N.Y.S.2d 900,
+215 N.E.2d 159 (1966), and again in Platt Corp. v. Platt,
+17 N.Y.2d 234, 237, 270 N.Y.S.2d 408, 217 N.E.2d 134
+(1966), where it said:
+The failure of a man to do anything at all when he is physically in
+one State is not an "act" done or "committed" in another State. His
+decision not to act and his not acting are both personal events
+occurring in the physical situs. That they may have consequences
+elsewhere does not alter their personal localization as acts.
+See also Ferrante Equip. Co. v. Lasker-Goldman Corp.,
+26 N.Y.2d 280, 285, 309 N.Y.S.2d 913, 258 N.E.2d 202
+(1970).
+In Harvey v. Chemie Grunenthal, G.m.b.H, 354 F.2d
+428, 431 (2d Cir.1965), cert. denied, 384 U.S. 1001, 86
+S.Ct. 1923, 16 L.Ed.2d 1015 (1966), we held that this
+construction of sub-paragraph (a)(2) should be followed.
+Numerous lower courts, both state and federal, have
+arrived at the same conclusion. See Beckett v. Prudential
+Ins. Co., 893 F.Supp. 234, 239 (S.D.N.Y.1995); Kinetic
+Instruments, Inc. v. Lares, 802 F.Supp. 976, 982-83
+(S.D.N.Y.1992); Department of Economic Dev. v.
+Arthur Andersen & Co., 747 F.Supp. 922, 929
+(S.D.N.Y.1990); Van Essche v. Leroy, 692 F.Supp. 320,
+324 (S.D.N.Y. 1988); Rolls-Royce Motors, Inc. v.
+Charles Schmitt & Co., 657 F.Supp. 1040, 1052-53
+(S.D.N.Y.1987); Bulk Oil (USA) Inc. v. Sun Oil Trading
+Co., 584 F.Supp. 36, 40-41 (S.D.N.Y.1983); Paul v.
+Premier Elec. Constr. Co., 576 F.Supp. 384, 389
+(S.D.N.Y. 1983); Bialek v. Racal-Milgo, Inc., 545 F.Supp.
+25, 35 (S.D.N.Y.1982); Selman v. Harvard Medical Sch.,
+494 F.Supp. 603, 612-13 (S.D.N.Y.), aff'd mem., 636
+F.2d 1204 (2d Cir.1980); Marine Midland Bank v.
+Keplinger & Assocs., Inc., 488 F.Supp. 699
+(S.D.N.Y.1980); Lynn v. Cohen, 359 F.Supp. 565, 568
+(S.D.N.Y.1973); Bauer Indus. Inc. v. Shannon Luminous
+Materials Co., 52 A.D.2d 897, 897-98 (2d Dep't 1976)
+(mem.); Glucoft v. Northside Sav. Bank, 86 Misc.2d
+1007, 1008-09, 382 N.Y.S.2d 690 (N.Y.Civ.Ct. 1976);
+Gluck v. Fasig Tipton Co., 63 Misc.2d 82, 84, 310
+N.Y.S.2d 809 (N.Y.Sup.Ct.1970); Balogh v. RaynerSmith,
+51 Misc.2d 1089, 1092, 274 N.Y.S.2d 920
+(N.Y.Sup.Ct.1966).
+In 1990, Judge McLaughlin, who wrote the abovequoted
+commentary on section 302(a)(2), further
+evidenced his belief that the commentary correctly
+interpreted the statute when he quoted its substance in
+Twine v. Levy, 746 F.Supp. 1202, 1206 (E.D.N.Y.1990).
+As recently as 1996, another of our district judges flatly
+stated: [126 F.3d 29] To subject non-residents to New
+York jurisdiction under § 302(a)(2) the defendant must
+commit the tort while he or she is physically in New
+York State.
+Carlson v. Cuevas, 932 F.Supp. 76, 80
+(S.D.N.Y.1996)(Baer, J.).
+Like the district court in Bulk Oil, supra, 584 F.Supp. at
+41, we recognize that the interpretation of subparagraph
+(a)(2) in the line of cases above cited has not
+been adopted by every district judge in the Second
+Circuit. However, the judges who differ are in the
+minority. In the absence of some indication by the New
+York Court of Appeals that its decisions in Feathers and
+Platt, as interpreted and construed in the above-cited
+majority of cases, no longer represent the law of New
+York, we believe it would be impolitic for this Court to
+hold otherwise. Applying these principles, we conclude
+that Bensusan has failed to allege that King or his agents
+committed a tortious act in New York as required for
+exercise of personal jurisdiction under CPLR §
+302(a)(2). The acts giving rise to Bensusan's lawsuit —
+including the authorization and creation of King's web
+site, the use of the words "Blue Note" and the Blue Note
+logo on the site, and the creation of a hyperlink to
+Bensusan's web site — were performed by persons
+physically present in Missouri and not in New York.
+Even if Bensusan suffered injury in New York, that does
+not establish a tortious act in the state of New York
+within the meaning of § 302(a)(2). See Feathers, 15
+N.Y.2d at 460, 261 N.Y.S.2d 8, 209 N.E.2d 68.
+Bensusan's claims under sub-paragraph (a)(3) can be
+quickly disposed of. Sub-paragraph (a)(2) left a
+substantial gap in New York's possible exercise of
+jurisdiction over non-residents because it did not cover
+the tort of a non-resident that took place outside of New
+York but caused injury inside the state. Accordingly, in
+1966 the New York Legislature enacted sub-paragraph
+(a)(3), which provides in pertinent part that New York
+courts may exercise jurisdiction over a non-domiciliary
+who commits a tortious act without the state, causing
+injury to person or property within the state. However,
+once again the Legislature limited its exercise of
+jurisdictional largess. Insofar as is pertinent herein it
+restricted the exercise of jurisdiction under subparagraph
+(a)(3) to persons who expect or should
+reasonably expect the tortious act to have consequences
+in the state and in addition derive substantial revenue
+from interstate commerce. To satisfy the latter
+requirement, Bensusan relies on the arguments that
+King participated in interstate commerce by hiring
+bands of national stature and received revenue from
+customers — students of the University of Missouri —
+who, while residing in Missouri, were domiciliaries of
+other states. These alleged facts were not sufficient to
+establish that substantial revenues were derived from
+interstate commerce, a requirement that "is intended to
+exclude non-domiciliaries whose business operations
+are of a local character." Report of the Administrative
+Board of the Judicial Conference of the State of New
+York for the Judicial Year July 1, 1965 through June 30,
+1966, Legislative Document (1967) No. 90. See United
+Bank of Kuwait v. James M. Bridges, Ltd., 766 F.Supp.
+113, 117-18 (S.D.N.Y.1991); Markham v. Gray, 393
+F.Supp. 163, 166 (W.D.N.Y.1975). King's "Blue Note"
+cafe was unquestionably a local operation.
+For all the reasons above stated, we affirm the judgment
+of the district court.
