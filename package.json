@@ -2,9 +2,9 @@
   "name": "lawmary",
   "version": "0.0.1",
   "description": "Machine-generated summaries of court opinions",
-  "main": "js/server_search.js",
+  "main": "server_search.js",
   "scripts": {
-    "start": "node js/server_search.js"
+    "start": "node server_search.js"
   },
   "dependencies": {
     "express": "4.14.0",

@@ -1,1 +1,1 @@
-web: node js/server_search.js
+web: node server_search.js
