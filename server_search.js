@@ -23,4 +23,4 @@ app.get('/nodesearch', function (req, res) {
   console.log("ENDING SEARCH: " + respstr);
 });
 
-app.listen(8080);
+app.listen(process.env.PORT || 8080);
