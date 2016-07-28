@@ -3,6 +3,7 @@ var casedict = require('./public/js/casedict.json');
 var keys = Object.keys(casedict);
 
 var app = express();
+app.use(express.static(__dirname + "/public"));
 
 app.get('/nodesearch', function (req, res) {
   console.log("STARTING SEARCH: " + JSON.stringify(req.query));
