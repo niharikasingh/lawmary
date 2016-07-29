@@ -53,7 +53,7 @@ $(function() {
                 $("#results").append("<li> <a id='resultlink' href ='summary.html?" + $.param({"txt":links[1], "exam":$('#examCheckbox').is(":checked")}) + "'>" + links[0] + "</a></li>");
                     }
             else if (links.length > 2){
-                appendStr = "<li> <a id='resultlink' href ='summary.html#" + links[1] + "'>" + links[0] + "</a><ul>";
+                appendStr = "<li> <a id='resultlink' href ='summary.html?" + $.param({"txt":links[1], "exam":$('#examCheckbox').is(":checked")}) + "'>" + links[0] + "</a><ul>";
                 for(var j = 2; j < links.length; j++) {
                     if (links[j].indexOf("-c") > -1) {
                         appendStr += "<li><a id='resultlink' href='summary.html?" + $.param({"txt":links[j], "exam":$('#examCheckbox').is(":checked")}) + "'>Concurrence</a></li>";
