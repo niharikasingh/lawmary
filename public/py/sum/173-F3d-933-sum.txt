@@ -1,0 +1,24 @@
+Alleging that Phillips agreed to arbitrate employment- related disputes, Hooters preemptively filed suit to compel arbitration under the Federal Arbitration Act, 9 U.S.C.
+Hooters responded that she was required to submit her claims to arbitration according to a binding agreement to arbitrate between the parties.
+The agreement provides that Hooters and the employee each agree to arbitrate all disputes arising out of employment, including "any claim of discrimination, sexual harassment, retaliation, or wrongful discharge, whether arising under federal or state law."
+Hooters filed suit in November 1996 to compel arbitration under 9 U.S.C.
+Phillips defended on the grounds that the agreement to arbitrate was unenforceable.
+Phillips also asserted individual and class counterclaims against Hooters for violations of Title VII and for a declaration that the arbitration agreements were unenforceable against the class.
+The court found that there was no meeting of the minds on all of the material terms of the agreement and even if there were, Hooters' promise to arbitrate was illusory.
+In Gilmer v. Interstate/Johnson Lane Corp., the Court noted that "`[b]y agreeing to arbitrate a statutory claim, a party does not forgo the substantive rights afforded by the statute; it only submits to their resolution in an arbitral, rather than a judicial, forum.'"
+The question remains whether a binding arbitration agreement between Phillips and Hooters exists and compels Phillips to submit her Title VII claims to arbitration.
+The FAA provides that agreements "to settle by arbitration a controversy thereafter arising out of such contract or transaction...shall be valid, irrevocable, and enforceable, save upon such grounds as exist at law or in equity for the revocation of any contract."
+1415, 89 L.Ed.2d 648 (1986); see also A.T. Massey Coal Co. v. International Union, 799 F.2d 142, 146 (4th Cir.1986) ("[W]hether there is a contract to arbitrate `is undeniably an issue for judicial determination.'"
+That contract provided for the resolution by arbitration of all employment-related disputes, including claims arising under Title VII.
+Hooters claims the agreement to arbitrate is valid because Phillips twice signed it voluntarily.
+In this case, the challenge goes to the validity of the arbitration agreement itself.
+Their agreement provided that Hooters was responsible for setting up such a forum by promulgating arbitration rules and procedures.
+The Hooters rules also provide a mechanism for selecting a panel of three arbitrators that is crafted to ensure a biased decisionmaker.
+The employee and Hooters each select an arbitrator, and the two arbitrators in turn select a third.
+Further, nothing in the rules restricts Hooters from punishing arbitrators who rule against the company by removing them from the list.
+Although Hooters may expand the scope of arbitration to any matter, "whether related or not to the Employee's Claim," the employee cannot raise "any matter not included in the Notice of Claim."
+The rules also grant Hooters the right to bring suit in court to vacate or modify an arbitral award when it can show, by a preponderance of the evidence, that the panel exceeded its authority.
+The National Academy of Arbitrators stated that the Hooters rules "violate fundamental concepts of fairness...and the integrity of the arbitration process."
+"[W]e are well past the time when judicial suspicion of the desirability of arbitration and of the competence of arbitral tribunals inhibited    the development of arbitration as an alternative means of dispute resolution."
+In the case before us, we only reach the content of the arbitration rules because their promulgation was the duty of one party under the contract.
+AFFIRMED AND REMANDED 

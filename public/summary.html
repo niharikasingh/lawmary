@@ -33,14 +33,15 @@
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
   <script src="js/summary.js"></script>
+  <script src="js/analytics.js"></script>
     
   <!-- Primary Page Layout
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
   <div class="u-full-width" id="main-title-bg">
     <div class="container">
       <div class="row">
-        <h1>lawmary</h1>
-        <p class="dark-text"><a href="index.html">Search</a> for summaries of court opinions.</p>
+        <a href="index.html" id="main-title"><h1>lawmary</h1></a>
+        <p class="dark-text"><a href="index.html">Search</a> for machine-generated summaries of court opinions</p>
       </div>
     </div>
   </div>
@@ -56,6 +57,25 @@
             </tbody>
           </table>
       </div>
+        
+      <div id="disqus_thread"></div>
+        <script>
+            var queryDict={};
+            window.location.search.replace(/[?&;]+([^=]+)=([^&;]*)/gi,function(str,key,value){queryDict[key] = value;});
+            
+            var disqus_config = function () {
+                this.page.url = window.location.href;  // canonical URL variable
+                this.page.identifier = queryDict["txt"]; // unique identifier variable
+            };
+            */
+            (function() { // DON'T EDIT BELOW THIS LINE
+                var d = document, s = d.createElement('script');
+                s.src = '//lawmary.disqus.com/embed.js';
+                s.setAttribute('data-timestamp', +new Date());
+                (d.head || d.body).appendChild(s);
+            })();
+        </script>
+        <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
     </div>
   </div>
 

@@ -1,0 +1,18 @@
+The central question presented by this appeal is whether a court may dismiss an action for failure to join an indispensable party, notwithstanding defendant's ability to join the party in question by asserting a compulsory counterclaim against it.
+Towers argued that the suit must be dismissed since joinder of the building's landlord, 417 Fifth Avenue Corp. ("417 Fifth") — which was required in order to afford the parties complete relief — would strip the court of diversity jurisdiction.
+In the alternative, Associated argues that Towers' ability to join 417 Fifth as a party — by asserting a compulsory counterclaim against it — precludes the court from dismissing the action "in equity and good conscience."
+Towers moved to dismiss the action, alleging that 417 Fifth was an indispensable party that if joined would destroy complete diversity, thereby divesting the court of jurisdiction.
+During the pendency of the Rule 12(b) and summary judgment motions, Towers initiated a state court action joining both Associated and 417 Fifth as defendants.
+DISCUSSION Associated argues that because Towers has the ability to join 417 Fifth by asserting a compulsory counterclaim against it, the court cannot in equity and good conscience dismiss the suit for failure to join an indispensable party.
+The district court found that 417 Fifth was a necessary party under Rule 19(a).
+The court based its decision on Towers' assertion in its motion to dismiss that if 417 Fifth was not joined Towers would be unable to obtain "full relief" on counterclaims it intended to bring against Associated and 417 Fifth.
+417 Fifth may be considered a party to be joined if feasible under Rule 19(a), since without 417 Fifth, Towers would not be able to obtain full injunctive relief on any counterclaim it asserts against Associated to increase electrical capacity.
+Therefore, if the action were to proceed in 417 Fifth's absence, Towers might be forced to bring an additional state court action against 417 Fifth in order to obtain full relief.
+Associated cannot join 417 Fifth as a party to the action, however, because the addition of 417 Fifth, a non-diverse party, would destroy complete diversity and strip the district court of subject matter jurisdiction over the suit.
+In this case, we view as dispositive Towers' ability to avoid all prejudice to itself by asserting a compulsory counterclaim against Associated pursuant to Rule 13(a) and adding 417 Fifth as a party to the counterclaim under Rule 13(h).
+Because we believe that "the Rule 19(b) notion of equity and good conscience contemplates that the parties actually before the court are obliged to pursue any avenues for eliminating the threat of prejudice," we find that the action cannot be dismissed under Rule 19.
+Towers contends that it may not assert counterclaims against 417 Fifth because, in light of Finley v. United States, 490 U.S. 545, 109 S.Ct.
+Prior to the Finley decision, it was wellsettled that when diversity between parties is lacking, a court could assert ancillary jurisdiction over an additional party joined to a compulsory counterclaim pursuant to Rule 13(h).
+See C. Wright & A. Miller, 7 Federal Practice & Procedure § 1436, at 276 (1990) (suggesting that Finley raises doubt as to the viability of ancillary jurisdiction in third party actions); see also Community Coffee Co., Inc. v. M/S Kriti Amethyst, 715 F.Supp. 772, 773 (E.D.La.1989).
+Therefore, we find that Finley does not bar the district court from exercising ancillary jurisdiction over any Rule 13(h) counterclaim that Towers asserts against 417 Fifth.
+In light of the foregoing, the district court's judgment is reversed and the action is remanded for further proceedings 

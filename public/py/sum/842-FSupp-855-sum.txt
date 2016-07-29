@@ -1,0 +1,8 @@
+This civil action is before the court on Third-Party Defendant's motion to dismiss the third-party action for lack of supplemental jurisdiction pursuant to 28 U.S.C.
+National Can removed the original action to federal court pursuant to 28 U.S.C.
+1441(a) and 1446 because the federal court had original jurisdiction over the original action under 28 U.S.C.
+If that action is within their jurisdiction solely on the basis of diversity, federal courts may not exercise supplemental jurisdiction over certain claims, including claims by plaintiffs against persons made parties under Rule 14 of the Federal Rules of Civil Procedure, when so doing would be inconsistent with the jurisdictional requirements of 28 U.S.C.
+The disputed issue is whether the court may exercise supplemental jurisdiction over the third-party state law claim between Plaintiff and Third-Party Defendant, whom Plaintiff, defending the counterclaim, has impleaded for indemnity or contribution in accordance with Rule 14(b) of the Federal Rules of Civil Procedure, when Plaintiff and Third-Party Defendant are nondiverse parties.
+Owen prohibits the court only from exercising jurisdiction over a state law claim by a plaintiff against a non-diverse third-party defendant impleaded for indemnity purposes by a defendant.
+The court believes,  [842 F.Supp. 858]  however, that such a construction would reach beyond the limits of Section 1367(b).
+An order in accordance with this memorandum opinion shall be entered contemporaneously herewith 
