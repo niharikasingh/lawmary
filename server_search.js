@@ -29,7 +29,7 @@ app.get('/nodesearch', function (req, res) {
     respstr += JSON.stringify(resparr);
     respstr += "});";
     res.send(respstr);
-    //console.log("ENDING SEARCH: " + respstr);
+    console.log("ENDING SEARCH: " + respstr);
   });
 });
 
