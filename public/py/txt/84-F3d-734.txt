@@ -1,0 +1,808 @@
+In what may be the largest class action ever attempted in
+federal court, the district court in this case embarked "on
+a road certainly less traveled, if ever taken at all,"
+Castano v. American Tobacco Co., 160 F.R.D. 544, 560
+(E.D.La.1995) (citing EDWARD C. LATHAM, THE
+POETRY OF ROBERT FROST, "THE ROAD NOT
+TAKEN" 105 (1969)), and entered a class certification
+order. The court defined the class as:
+(a) All nicotine-dependent persons in the United States ... who have
+purchased and smoked cigarettes manufactured by the defendants;
+(b) the estates, representatives, and administrators of these
+nicotine-dependent cigarette smokers; and
+(c) the spouses, children, relatives and "significant others" of these
+nicotine-dependent cigarette smokers as their heirs or survivors.
+Id. at 560-61. The plaintiffs limit the claims to years
+since 1943.1
+This matter comes before us on interlocutory appeal,
+under 28 U.S.C. § 1292(b), of the class certification
+order. Concluding that the district court abused its
+discretion in certifying the class, we reverse.
+I.
+A. The Class Complaint
+The plaintiffs2 filed this class complaint against the
+defendant tobacco companies3 and the Tobacco
+Institute, Inc., seeking compensation solely for the
+injury of nicotine addiction. The gravamen of their
+complaint is the novel and wholly untested theory that
+the defendants fraudulently failed to inform consumers
+that nicotine is addictive and manipulated the level of
+nicotine in cigarettes to sustain their addictive nature.
+The class complaint alleges nine causes of action: fraud
+and deceit, negligent misrepresentation, intentional
+infliction of emotional distress, negligence and negligent
+infliction of emotional distress, violation of state
+consumer protection statutes, breach of express
+warranty, breach of implied warranty, strict product
+liability, and redhibition pursuant to the Louisiana Civil
+Code.
+The plaintiffs seek compensatory4 and punitive
+damages5 and attorneys' fees.6 In [84 F.3d 738] addition,
+the plaintiffs seek equitable relief for fraud and deceit,
+negligent misrepresentation, violation of consumer
+protection statutes, and breach of express and implied
+warranty. The equitable remedies include a declaration
+that defendants are financially responsible for notifying
+all class members of nicotine's addictive nature, a
+declaration that the defendants manipulated nicotine
+levels with the intent to sustain the addiction of
+plaintiffs and the class members, an order that the
+defendants disgorge any profits made from the sale of
+cigarettes, restitution for sums paid for cigarettes, and
+the establishment of a medical monitoring fund.
+The plaintiffs initially defined the class as "all nicotine
+dependent persons in the United States," including
+current, former and deceased smokers since 1943.
+Plaintiffs conceded that addiction would have to be
+proven by each class member; the defendants argued
+that proving class membership will require individual
+mini-trials to determine whether addiction actually
+exists.
+In response to the district court's inquiry, the plaintiffs
+proposed a four-phase trial plan.7 In phase 1, a jury
+would determine common issues of "core liability."
+Phase 1 issues would include8 (1) issues of law and fact
+relating to defendants' course of conduct, fraud, and
+negligence liability (including duty, standard of care,
+misrepresentation and concealment, knowledge, intent);
+(2) issues of law and fact relating to defendants' alleged
+conspiracy and concert of action; (3) issues of fact
+relating to the addictive nature/dependency creating
+characteristics and properties of nicotine; (4) issues of
+fact relating to nicotine cigarettes as defective products;
+(5) issues of fact relating to whether defendants'
+wrongful conduct was intentional, reckless or negligent;
+(6) identifying which defendants specifically targeted
+their advertising and promotional efforts to particular
+groups (e.g. youths, minorities, etc.); (7) availability of a
+presumption of reliance; (8) whether defendants'
+misrepresentations/suppression of fact and/or of
+addictive properties of nicotine preclude availability of a
+"personal choice" defense; (9) defendants' liability for
+actual damages, and the categories of such damages; (10)
+defendants' liability for emotional distress damages; and
+(11) defendants' liability for punitive damages.
+Phase 1 would be followed by notice of the trial verdict
+and claim forms to class members. In phase 2, the jury
+would determine compensatory damages in sample
+plaintiff cases. The jury then would establish a ratio of
+punitive damages to compensatory damages, which ratio
+thereafter would apply to each class member.
+Phase 3 would entail a complicated procedure to
+determine compensatory damages for individual class
+members. The trial plan envisions determination of
+absent class members' compensatory economic and
+emotional distress damages on the basis of claim forms,
+"subject to verification techniques and assertion of
+defendants' affirmative defenses under grouping,
+sampling, or representative procedures to be determined
+by the Court."
+The trial plan left open how jury trials on class
+members' personal injury/wrongful death claims would
+be handled, but the trial plan discussed the possibility of
+bifurcation. In phase 4, the court would apply the
+punitive damage ratio based on individual damage
+awards and would conduct a review of the
+reasonableness of the award.
+B. The Class Certification Order
+Following extensive briefing, the district court granted,
+in part, plaintiffs' motion for class certification,
+concluding that the prerequisites of FED.R.CIV.P. 23(a)
+had been met.9 The court rejected certification, under
+[84 F.3d 739] FED.R.CIV.P. 23(b)(2), of the plaintiffs'
+claim for equitable relief, including the claim for medical
+monitoring. 160 F.R.D. at 552. Appellees have not
+cross-appealed that portion of the order.
+The court did grant the plaintiffs' motion to certify the
+class under FED.R.CIV.P. 23(b)(3),10 organizing the
+class action issues into four categories: (1) core liability;
+(2) injury-in-fact, proximate cause, reliance and
+affirmative defenses; (3) compensatory damages; and (4)
+punitive damages. Id. at 553-58. It then analyzed each
+category to determine whether it met the predominance
+and superiority requirements of rule 23(b)(3). Using its
+power to sever issues for certification under
+FED.R.CIV.P. 23(c)(4), the court certified the class on
+core liability and punitive damages, and certified the
+class conditionally pursuant to FED.R.CIV.P. 23(c)(1).
+1. Core Liability Issues
+The court defined core liability issues as "common
+factual issues [of] whether defendants knew cigarette
+smoking was addictive, failed to inform cigarette
+smokers of such, and took actions to addict cigarette
+smokers. Common legal issues include fraud,
+negligence, breach of warranty (express or implied),
+strict liability, and violation of consumer protection
+statutes." 160 F.R.D. at 553.
+The court found that the predominance requirement of
+rule 23(b)(3) was satisfied for the core liability issues.
+Without any specific analysis regarding the multitude of
+issues that make up "core liability," the court found that
+under Jenkins v. Raymark Indus., 782 F.2d 468 (5th
+Cir.1986), common issues predominate because
+resolution of core liability issues would significantly
+advance the individual cases. The court did not discuss
+why "core liability" issues would be a significant, rather
+than just common, part of each individual trial, nor why
+the individual issues in the remaining categories did not
+predominate over the common "core liability" issues.
+The only specific analysis on predominance analysis was
+on the plaintiffs' fraud claim. The court determined that
+it would be premature to hold that individual reliance
+issues predominate over common issues. Relying on
+Eisen v. Carlisle & Jacquelin, 417 U.S. 156, 94 S.Ct.
+2140, 40 L.Ed.2d 732 (1974), the court stated that it
+could not inquire into the merits of the plaintiffs' claim
+to determine whether reliance would be an issue in
+individual trials. 160 F.R.D. at 554. Moreover, the court
+recognized the possibility that under state law, reliance
+can be inferred when a fraud claim is based on an
+omission. Accordingly, the court was convinced that it
+could certify the class and defer the consideration of
+how reliance would affect predominance.
+The court also deferred substantial consideration of how
+variations in state law would affect predominance.
+Relying on two district court opinions,11 the court
+concluded that issues of fraud, breach of warranty,
+negligence, intentional tort, and strict liability do not
+vary so much from state to state as to cause individual
+issues to predominate. The court noted that any
+determination of how state law variations affect
+predominance was premature, as the court had yet to
+make a choice of law determination. As for the
+consumer protection claims, the court also deferred
+analysis of state law variations, because "there has been
+no showing that the [84 F.3d 740] consumer protection
+statutes differ so much as to make individual issues
+predominate." Id.
+The court also concluded that a class action is superior
+to other methods for adjudication of the core liability
+issues. Relying heavily on Jenkins, the court noted that
+having this common issue litigated in a class action was
+superior to repeated trials of the same evidence.
+Recognizing serious problems with manageability, it
+determined that such problems were outweighed by "the
+specter of thousands, if not millions, of similar trials of
+liability proceeding in thousands of courtrooms around
+the nation." Id. at 555-56.
+2. Injury-in-fact, Proximate Cause, Reliance,
+Affirmative Defenses, and Compensatory Damages
+Using the same methodology as it did for the core
+liability issues, the district court refused to certify the
+issues of injury-in-fact, proximate cause, reliance,
+affirmative defenses, and compensatory damages,
+concluding that the "issues are so overwhelmingly
+replete with individual circumstances that they quickly
+outweigh predominance and superiority." Id. at 556.
+Specifically, the court found that whether a person
+suffered emotional injury from addiction, whether his
+addiction was caused by the defendants' actions,
+whether he relied on the defendants'
+misrepresentations, and whether affirmative defenses
+unique to each class member precluded recovery were
+all individual issues. As to compensatory damages and
+the claim for medical monitoring, the court concluded
+that such claims were so intertwined with proximate
+cause and affirmative defenses that class certification
+would not materially advance the individual cases.
+3. Punitive Damages
+In certifying punitive damages for class treatment, the
+court adopted the plaintiffs' trial plan for punitive
+damages: The class jury would develop a ratio of
+punitive damages to actual damages, and the court
+would apply that ratio in individual cases. As it did with
+the core liability issues, the court determined that
+variations in state law, including differing burdens of
+proof, did not preclude certification. Rather than
+conduct an independent review of predominance or
+superiority, the court relied on Jenkins and on Watson
+v. Shell Oil Co., 979 F.2d 1014 (5th Cir.1992), vacated
+for rehearing en banc, 990 F.2d 805 (5th Cir.1993),
+appeal dismissed, 53 F.3d 663 (5th Cir.1994), for
+support of its certification order.12
+II.
+A district court must conduct a rigorous analysis of the
+rule 23 prerequisites before certifying a class. General
+Tel. Co. v. Falcon, 457 U.S. 147, 161, 102 S.Ct. 2364,
+2372, 72 L.Ed.2d 740 (1982); Applewhite v. Reichhold
+Chems., 67 F.3d 571, 573 (5th Cir. 1995). The decision
+to certify is within the broad discretion of the court, but
+that discretion must be exercised within the framework
+of rule 23. Gulf Oil Co. v. Bernard, 452 U.S. 89, 100, 101
+S.Ct. 2193, 2200, 68 L.Ed.2d 693 (1981). The party
+seeking certification bears the burden of proof. Horton
+v. Goose Creek Ind. Sch. Dist., 690 F.2d 470, 486 (5th
+Cir. 1982), cert. denied, 463 U.S. 1207, 103 S.Ct. 3536,
+77 L.Ed.2d 1387 (1983); In re American Medical Sys., 75
+F.3d 1069, 1086 (6th Cir.1996) (concluding that district
+court reversed the proper burden of proof by asking
+defendants to show cause why the court should not
+certify the class).
+The district court erred in its analysis in two distinct
+ways. First, it failed to consider how variations in state
+law affect predominance and superiority. Second, its
+predominance inquiry did not include consideration of
+how a trial on the merits would be conducted.
+Each of these defects mandates reversal. Moreover, at
+this time, while the tort is immature, the class complaint
+must be dismissed, [84 F.3d 741] as class certification
+cannot be found to be a superior method of
+adjudication.13
+A. Variations in State Law
+Although rule 23(c)(1) requires that a class should be
+certified "as soon as practicable" and allows a court to
+certify a conditional class, it does not follow that the
+rule's requirements are lessened when the class is
+conditional. As a sister circuit explained:
+Conditional certification is not a means whereby the District Court
+can avoid deciding whether, at that time, the requirements of the
+Rule have been substantially met. The purpose of conditional
+certification is to preserve the Court's power to revoke certification
+in those cases wherein the magnitude or complexity of the litigation
+may eventually reveal problems not theretofore apparent. But in
+this case the District Court seemed to brush aside one of the
+requirements of Rule 23(b)(3) by stating that at this time "analysis
+of the individual versus common questions would be for the Court
+to act as a seer." However difficult it may have been for the District
+Court to decide whether common questions predominate over
+individual questions, it should not have sidestepped this
+preliminary requirement of the Rule by merely stating that the
+problem of individual questions "lies far beyond the horizon in the
+realm of speculation."
+In re Hotel Tel. Charges, 500 F.2d 86, 90 (9th Cir.1974).
+In a multi-state class action, variations in state law may
+swamp any common issues and defeat predominance.
+See Georgine v. Amchem Prods., 83 F.3d 610, 618 (3d
+Cir.1996) (decertifying class because legal and factual
+differences in the plaintiffs' claims "when exponentially
+magnified by choice of law considerations, eclipse any
+common issues in this case"); American Medical Sys., 75
+F.3d at 1085 (granting mandamus in a multi-state
+products liability action, in part because "[t]he district
+court ... failed to consider how the law of negligence
+differs from jurisdiction to jurisdiction").
+Accordingly, a district court must consider how
+variations in state law affect predominance and
+superiority. Walsh v. Ford Motor Co., 807 F.2d 1000
+(D.C.Cir.1986) (Ruth Bader Ginsburg, J.), cert. denied,
+482 U.S. 915, 107 S.Ct. 3188, 96 L.Ed.2d 677 (1987). The
+Walsh court rejected the notion that a district court may
+defer considering variations in state law:
+Appellees see the "which law" matter as academic. They say no
+variations in state warranty laws relevant to this case exist. A court
+cannot accept such an assertion "on faith." Appellees, as class action
+proponents, must show that it is accurate. We have made no
+inquiry of our own on this score and, for the current purpose,
+simply note the general unstartling statement made in a leading
+treatise: "The Uniform Commercial Code is not uniform."
+Id. at 1016-17 (footnotes omitted).
+A district court's duty to determine whether the plaintiff
+has borne its burden on class certification requires that a
+court consider variations in state law when a class action
+involves multiple jurisdictions. "In order to make the
+findings required to certify a class action under Rule
+23(b)(3) ... one must initially identify the substantive law
+issues which will control the outcome of the litigation."
+Alabama v. Blue Bird Body Co., 573 F.2d 309, 316 (5th
+Cir.1978).
+A requirement that a court know which law will apply
+before making a predominance determination is
+especially important when there may be differences in
+state law. See In re Rhone-Poulenc Rorer, Inc. ("RhonePoulenc"),
+51 F.3d 1293, 1299-1302 (7th Cir.)
+(mandamus) (comparing differing state pattern
+instructions on negligence and differing formulations of
+the meaning of negligence), cert. denied, ___ U.S. ___,
+116 S.Ct. 184, 133 L.Ed.2d 122 (1995); In re [84 F.3d
+742] "Agent Orange" Prod. Liability Litig., 818 F.2d 145,
+165 (2d Cir.1987) (noting possibility of differences in
+state products liability law), cert. denied, 484 U.S. 1004,
+108 S.Ct. 695, 98 L.Ed.2d 647 (1988). Given the
+plaintiffs' burden, a court cannot rely on assurances of
+counsel that any problems with predominance or
+superiority can be overcome. Windham v. American
+Brands, Inc., 565 F.2d 59, 70 (4th Cir.1977), cert. denied,
+435 U.S. 968, 98 S.Ct. 1605, 56 L.Ed.2d 58 (1978).
+The able opinion in School Asbestos demonstrates what
+is required from a district court when variations in state
+law exist. There, the court affirmed class certification,
+despite variations in state law, because:
+To meet the problem of diversity in applicable state law, class
+plaintiffs have undertaken an extensive analysis of the variances in
+products liability among the jurisdictions. That review separates the
+law into four categories. Even assuming additional permutations
+and combinations, plaintiffs have made a creditable showing, which
+apparently satisfied the district court, that class certification does
+not present insuperable obstacles. Although we have some doubt on
+this score, the effort may nonetheless prove successful.
+789 F.2d at 1010; see also Georgine, 83 F.3d at 627 & n.
+13 (distinguishing School Asbestos because it involved
+few individualized questions, and class counsel had made
+a credible argument that the applicable law of the
+different states could be categorized into four patterns);
+Walsh, 807 F.2d at 1017 (holding that "nationwide class
+action movants must creditably demonstrate, through
+an `extensive analysis' of state law variances, `that class
+certification does not present insuperable obstacles'").
+A thorough review of the record demonstrates that, in
+this case, the district court did not properly consider
+how variations in state law affect predominance. The
+court acknowledged as much in its order granting class
+certification, for, in declining to make a choice of law
+determination, it noted that "[t]he parties have only
+briefly addressed the conflict of laws issue in this
+matter." 160 F.R.D. at 554. Similarly, the court stated
+that "there has been no showing that the consumer
+protection statutes differ so much as to make individual
+issues predominate." Id.14
+The district court's review of state law variances can
+hardly be considered extensive; it conducted a cursory
+review of state law variations and gave short shrift to
+the defendants' arguments concerning variations. In
+response to the defendants' extensive analysis of how
+state law varied on fraud, products liability, affirmative
+defenses, negligent infliction of emotional distress,
+consumer protection statutes, and punitive damages,15
+the court examined a sample phase 1 [84 F.3d 743] jury
+interrogatory and verdict form, a survey of medical
+monitoring decisions, a survey of consumer fraud class
+actions, and a survey of punitive damages law in the
+defendants' home states. The court also relied on two
+district court opinions granting certification in multistate
+class actions.
+The district court's consideration of state law variations
+was inadequate. The surveys provided by the plaintiffs
+failed to discuss, in any meaningful way, how the court
+could deal with variations in state law. The consumer
+fraud survey simply quoted a few state courts that had
+certified state class actions. The survey of punitive
+damages was limited to the defendants' home states.
+Moreover, the two district court opinions on which the
+court relied did not support the proposition that
+variations in state law could be ignored.16 Nothing in
+the record demonstrates that the court critically
+analyzed how variations in state law would affect
+predominance.
+The court also failed to perform its duty to determine
+whether the class action would be manageable in light of
+state law variations. The court's only discussion of
+manageability [84 F.3d 744] is a citation to Jenkins and
+the claim that "[w]hile manageability of the liability
+issues in this case may well prove to be difficult, the
+Court finds that any such difficulties pale in comparison
+to the specter of thousands, if not millions, of similar
+trials of liability proceeding in thousands of courtrooms
+around the nation." Id. at 555-56.
+The problem with this approach is that it substitutes
+case-specific analysis with a generalized reference to
+Jenkins. The Jenkins court, however, was not faced with
+managing a novel claim involving eight causes of action,
+multiple jurisdictions, millions of plaintiffs, eight
+defendants, and over fifty years of alleged wrongful
+conduct. Instead, Jenkins involved only 893 personal
+injury asbestos cases, the law of only one state, and the
+prospect of trial occurring in only one district.
+Accordingly, for purposes of the instant case, Jenkins is
+largely inapposite.
+In summary, whether the specter of millions of cases
+outweighs any manageability problems in this class is
+uncertain when the scope of any manageability
+problems is unknown. Absent considered judgment on
+the manageability of the class, a comparison to millions
+of individual trials is meaningless.
+B. Predominance
+The district court's second error was that it failed to
+consider how the plaintiffs' addiction claims would be
+tried, individually or on a class basis. See 160 F.R.D. at
+554. The district court, based on Eisen v. Carlisle &
+Jacquelin, 417 U.S. 156, 177-78, 94 S.Ct. 2140, 2152-53,
+40 L.Ed.2d 732 (1974), and Miller v. Mackey Int'l, 452
+F.2d 424 (5th Cir.1971), believed that it could not go
+past the pleadings for the certification decision. The
+result was an incomplete and inadequate predominance
+inquiry.
+The crux of the court's error was that it misinterpreted
+Eisen and Miller. Neither case suggests that a court is
+limited to the pleadings when deciding on certification.
+Both, instead, stand for the unremarkable proposition
+that the strength of a plaintiff's claim should not affect
+the certification decision. In Eisen, the Court held that it
+was improper to make a preliminary inquiry into the
+merits of a case, determine that the plaintiff was likely to
+succeed, and consequently shift the cost of providing
+notice to the defendant. 417 U.S. at 177, 94 S.Ct. at
+2152. In Miller, this court held that a district court could
+not deny certification based on its belief that the plaintiff
+could not prevail on the merits. 452 F.2d at 427.
+A district court certainly may look past the pleadings to
+determine whether the requirements of rule 23 have
+been met.17 Going beyond the pleadings is necessary, as
+a court must understand the claims, defenses, relevant
+facts, and applicable substantive law in order to make a
+meaningful determination of the certification issues. See
+MANUAL FOR COMPLEX LITIGATION § 30.11 (3d
+ed. 1995).
+The district court's predominance inquiry demonstrates
+why such an understanding is necessary. The premise of
+the court's opinion is a citation to Jenkins and a
+conclusion that class treatment of common issues would
+significantly advance the individual trials. [84 F.3d 745]
+Absent knowledge of how addiction-as-injury cases
+would actually be tried, however, it was impossible for
+the court to know whether the common issues would be
+a "significant" portion of the individual trials. The court
+just assumed that because the common issues would play
+a part in every trial, they must be significant.18 The
+court's synthesis of Jenkins and Eisen would write the
+predominance requirement out of the rule, and any
+common issue would predominate if it were common to
+all the individual trials.19
+The court's treatment of the fraud claim also
+demonstrates the error inherent in its approach.20
+According to both the advisory committee's notes to
+Rule 23(b)(3) and this court's decision in Simon v.
+Merrill Lynch, Pierce, Fenner & Smith, Inc., 482 F.2d
+880 (5th Cir.1973), a fraud class action cannot be
+certified when individual reliance will be an issue. The
+district court avoided the reach of this court's decision in
+Simon by an erroneous reading of Eisen; the court
+refused to consider whether reliance would be an issue
+in individual trials.
+The problem with the district court's approach is that
+after the class trial, it might have decided that reliance
+must be proven in individual trials. The court then
+would have been faced with the difficult choice of
+decertifying the class after phase 1 and wasting judicial
+resources, or continuing with a class action that would
+have failed the predominance requirement of rule
+23(b)(3).21
+[84 F.3d 746] III.
+In addition to the reasons given above, regarding the
+district court's procedural errors, this class must be
+decertified because it independently fails the superiority
+requirement of rule 23(b)(3). In the context of mass tort
+class actions, certification dramatically affects the stakes
+for defendants. Class certification magnifies and
+strengthens the number of unmeritorious claims. Agent
+Orange, 818 F.2d at 165-66. Aggregation of claims also
+makes it more likely that a defendant will be found liable
+and results in significantly higher damage awards.
+MANUAL FOR COMPLEX LITIGATION § 33.26 n.
+1056; Kenneth S. Bordens and Irwin A. Horowitz, Mass
+Tort Civil Litigation: The Impact of Procedural Changes
+on Jury Decisions, 73 JUDICATURE 22 (1989).
+In addition to skewing trial outcomes, class certification
+creates insurmountable pressure on defendants to settle,
+whereas individual trials would not. See Peter H.
+Schuck, Mass Torts: An Institutional Evolutionist
+Perspective, 80 CORNELL L.REV. 941, 958 (1995). The
+risk of facing an all-or-nothing verdict presents too high
+a risk, even when the probability of an adverse
+judgment is low. Rhone-Poulenc, 51 F.3d at 1298. These
+settlements have been referred to as judicial blackmail.22
+It is no surprise then, that historically, certification of
+mass tort litigation classes has been disfavored.23 The
+traditional concern [84 F.3d 747] over the rights of
+defendants in mass tort class actions is magnified in the
+instant case. Our specific concern is that a mass tort
+cannot be properly certified without a prior track record
+of trials from which the district court can draw the
+information necessary to make the predominance and
+superiority analysis required by rule 23. This is because
+certification of an immature tort results in a higher than
+normal risk that the class action may not be superior to
+individual adjudication.
+We first address the district court's superiority analysis.
+The court acknowledged the extensive manageability
+problems with this class. Such problems include difficult
+choice of law determinations, subclassing of eight claims
+with variations in state law, Erie guesses, notice to
+millions of class members, further subclassing to take
+account of transient plaintiffs, and the difficult
+procedure for determining who is nicotine-dependent.
+Cases with far fewer manageability problems have given
+courts pause. See, e.g., Georgine, 83 F.3d at 632; In re
+Hotel Tel., 500 F.2d at 90.
+The district court's rationale for certification in spite of
+such problems — i.e., that a class trial would preserve
+judicial resources in the millions of inevitable individual
+trials — is based on pure speculation. Not every mass
+tort is asbestos, and not every mass tort will result in the
+same judicial crises.24 The judicial crisis to which the
+district court referred is only theoretical.
+What the district court failed to consider, and what no
+court can determine at this time, is the very real
+possibility that the judicial crisis may fail to materialize.25
+The plaintiffs' [84 F.3d 748] claims are based on a new
+theory of liability and the existence of new evidence.
+Until plaintiffs decide to file individual claims, a court
+cannot, from the existence of injury, presume that all or
+even any plaintiffs will pursue legal remedies.26 Nor can
+a court make a superiority determination based on such
+speculation. American Medical Sys., 75 F.3d at 1085
+(opining that superiority is lacking where judicial
+management crisis does not exist and individual trials
+are possible).
+Severe manageability problems and the lack of a judicial
+crisis are not the only reasons why superiority is lacking.
+The most compelling rationale for finding superiority in
+a class action — the existence of a negative value suit —
+is missing in this case. Accord Phillips Petroleum Co. v.
+Shutts, 472 U.S. 797, 809, 105 S.Ct. 2965, 2973, 86
+L.Ed.2d 628 (1985); Rhone-Poulenc, 51 F.3d at 1299.
+As he stated in the record, plaintiffs' counsel in this case
+has promised to inundate the courts with individual
+claims if class certification is denied. Independently of
+the reliability of this self-serving promise, there is
+reason to believe that individual suits are feasible. First,
+individual damage claims are high, and punitive
+damages are available in most states. The expense of
+litigation does not necessarily turn this case into a
+negative value suit, in part because the prevailing party
+may recover attorneys' fees under many consumer
+protection statutes. See Boggs v. Alto Trailer Sales, 511
+F.2d 114, 118 (5th Cir.1975) (acknowledging that the
+availability of attorneys' fees is a common basis for
+finding non-superiority).
+In a case such as this one, where each plaintiff may
+receive a large award, and fee shifting often is available,
+we find Chief Judge Posner's analysis of superiority to be
+persuasive:
+For this consensus or maturing of judgment the district judge
+proposes to substitute a single trial before a single jury.... One jury
+... will hold the fate of an industry in the palm of its hand.... That
+kind of thing can happen in our system of civil justice.... But it need
+not be tolerated when the alternative exists of submitting an issue
+to multiple juries constituting in the aggregate a much larger and
+more diverse sample of decision-makers. That would not be a
+feasible option if the stakes to each class member were too slight to
+repay the cost of suit.... But this is not the case.... Each plaintiff if
+successful is apt to receive a judgment in the millions. With the
+aggregate stakes in the tens or hundreds of millions of dollars, or
+even in the billions, it is not a waste of judicial resources to conduct
+more than one trial, before more than six jurors, to determine
+whether a major segment of the international pharmaceutical
+industry is to follow the asbestos manufacturers into Chapter 11.
+Rhone-Poulenc, 51 F.3d at 1300. So too here, we cannot
+say that it would be a waste to allow individual trials to
+proceed, before a district court engages in the
+complicated predominance and superiority analysis
+necessary to certify a class.
+Fairness may demand that mass torts with few prior verdicts or
+judgments be litigated first in smaller units — even single-plaintiff,
+single-defendant trials — until general causation, typical injuries,
+and levels of damages become established. Thus, "mature" mass
+torts like asbestos or Dalkon Shield may call for procedures that are
+not appropriate for incipient mass tort cases, such as those
+involving injuries arising [84 F.3d 749] from new products,
+chemical substances, or pharmaceuticals.
+MANUAL FOR COMPLEX LITIGATION § 33.26.
+The remaining rationale for superiority — judicial
+efficiency27 — is also lacking. In the context of an
+immature tort, any savings in judicial resources is
+speculative, and any imagined savings would be
+overwhelmed by the procedural problems that
+certification of a sui generis cause of action brings with
+it.
+Even assuming arguendo that the tort system will see
+many more addiction-as-injury claims, a conclusion that
+certification will save judicial resources is premature at
+this stage of the litigation. Take for example the district
+court's plan to divide core liability from other issues
+such as comparative negligence and reliance. The
+assumption is that after a class verdict, the common
+issues will not be a part of follow-up trials. The court
+has no basis for that assumption.
+It may be that comparative negligence will be raised in
+the individual trials, and the evidence presented at the
+class trial will have to be repeated. The same may be
+true for reliance.28 The net result may be a waste, not a
+savings, in judicial resources. Only after the courts have
+more experience with this type of case can a court
+certify issues in a way that preserves judicial resources.
+See Jenkins, 782 F.2d 468 (certifying state of the art
+defense because experience had demonstrated that
+judicial resources could be saved by certification).
+Even assuming that certification at this time would
+result in judicial efficiencies in individual trials,
+certification of an immature tort brings with it unique
+problems that may consume more judicial resources
+than certification will save. These problems are not
+speculative; the district court faced, and ignored, many
+of the problems that immature torts can cause.
+The primary procedural difficulty created by immature
+torts is the inherent difficulty a district court will have
+in determining whether the requirements of rule 23
+have been met. We have already identified a number of
+defects with the district court's predominance and
+manageability inquires, defects that will continue to
+exist on remand because of the unique nature of the
+plaintiffs' claim.
+The district court's predominance inquiry, or lack of it,
+squarely presents the problems associated with
+certification of immature torts. Determining whether
+the common issues are a "significant" part of each
+individual case has an abstract quality to it when no
+court in this country has ever tried an injury-asaddiction
+claim. As the plaintiffs admitted to the district
+court, "we don't have the learning curb [sic] that is
+necessary to say to Your Honor `this is precisely how
+this case can be tried and that will not run afoul of the
+teachings of the 5th Circuit.'"
+Yet, an accurate finding on predominance is necessary
+before the court can certify a class. It may turn out that
+the defendant's conduct, while common, is a minor part
+of each trial. Premature certification deprives the
+defendant of the opportunity to present that argument
+to any court and risks decertification after considerable
+resources have been expended.
+The court's analysis of reliance also demonstrates the
+potential judicial inefficiencies in immature tort class
+actions. Individual trials will determine whether
+individual reliance will be an issue. Rather than guess
+that reliance may be inferred, a district court should base
+its determination that individual reliance does not
+predominate on the wisdom of such individual trials.
+The risk that a district court will make the wrong guess,
+that the parties will engage in years of litigation, and
+that the class ultimately will be decertified (because
+reliance predominates over common issues) prevents
+this class action from being a superior method of
+adjudication.
+The complexity of the choice of law inquiry also makes
+individual adjudication superior [84 F.3d 750] to class
+treatment. The plaintiffs have asserted eight theories of
+liability from every state. Prior to certification, the
+district court must determine whether variations in state
+law defeat predominance. While the task may not be
+impossible, its complexity certainly makes individual
+trials a more attractive alternative and, ipso facto,
+renders class treatment not superior. See Georgine, 83
+F.3d at 634 (recommending that Congress solve the
+problems inherent in multi-state class actions by
+federalizing choice of law rules, but rejecting such
+legislation when it masquerades as judicial innovation).
+Through individual adjudication, the plaintiffs can
+winnow their claims to the strongest causes of action.29
+The result will be an easier choice of law inquiry and a
+less complicated predominance inquiry. State courts can
+address the more novel of the plaintiffs' claims, making
+the federal court's Erie guesses less complicated. It is far
+more desirable to allow state courts to apply and develop
+their own law than to have a federal court apply "a kind
+of Esperanto [jury] instruction." Rhone-Poulenc, 51
+F.3d at 1300; MANUAL FOR COMPLEX
+LITIGATION § 33.26 (discussing the full cycle of
+litigation necessary for a tort to mature).
+The full development of trials in every state will make
+subclassing an easier process. The result of allowing
+individual trials to proceed is a more accurate
+determination of predominance. We have already seen
+the result of certifying this class without individual
+adjudications, and we are not alone in expressing
+discomfort with a district court's certification of a novel
+theory. See Rhone-Poulenc, 51 F.3d at 1300.
+Another factor weighing heavily in favor of individual
+trials is the risk that in order to make this class action
+manageable, the court will be forced to bifurcate issues
+in violation of the Seventh Amendment. This class
+action is permeated with individual issues, such as
+proximate causation, comparative negligence, reliance,
+and compensatory damages. In order to manage so
+many individual issues, the district court proposed to
+empanel a class jury to adjudicate common issues. A
+second jury, or a number of "second" juries, will pass on
+the individual issues, either on a case-by-case basis or
+through group trials of individual plaintiffs.
+The Seventh Amendment entitles parties to have fact
+issues decided by one jury, and prohibits a second jury
+from reexamining those facts and issues.30 Thus,
+Constitution allows bifurcation of issues that are so
+separable that the second jury will not be called upon to
+reconsider findings of fact by the first:
+[T]his Court has cautioned that separation of issues is not the usual
+course that should be followed, and that the issue to be tried must
+be so distinct and separable from the others that a trial of it alone
+may be had without injustice. This limitation on the use of
+bifurcation is a recognition of the fact that inherent in the Seventh
+Amendment guarantee of a trial by jury is the general right of a
+litigant to have only one jury pass on a common issue of fact. The
+Supreme Court recognized this principle in Gasoline Products [Co.,
+Inc. v. Champlin Refining Co., 283 U.S. 494, 51 S.Ct. 513, 75 L.Ed.
+1188 (1931)].... The Court explained ... that a partial new trial may
+not be "properly resorted to unless it clearly appears that the issue
+to be retried is so distinct and separable from the others that a trial
+of it alone may be had without injustice." Such a rule is dictated for
+the very practical reason that if separate juries are allowed to pass
+on issues involving overlapping legal and factual questions the [84
+F.3d 751] verdicts rendered by each jury could be inconsistent.
+Alabama v. Blue Bird Body Co., 573 F.2d 309, 318 (5th
+Cir.1978) (citations and footnotes omitted).
+The Seventh Circuit recently addressed Seventh
+Amendment limitations to bifurcation. In RhonePoulenc,
+51 F.3d at 1302-03, Chief Judge Posner
+described the constitutional limitation as one requiring a
+court to "carve at the joint" in such a way so that the
+same issue is not reexamined by different juries. "The
+right to a jury trial ... is a right to have juriable issues
+determined by the first jury impaneled to hear them
+(provided there are no errors warranting a new trial),
+and not reexamined by another finder of fact." Id. at
+1303.
+Severing a defendant's conduct from comparative
+negligence results in the type of risk that our court
+forbade in Blue Bird. Comparative negligence, by
+definition, requires a comparison between the
+defendant's and the plaintiff's conduct. Rhone-Poulenc,
+51 F.3d at 1303 ("Comparative negligence entails, as the
+name implies, a comparison of the degree of negligence
+of plaintiff and defendant."). At a bare minimum, a
+second jury will rehear evidence of the defendant's
+conduct. There is a risk that in apportioning fault, the
+second jury could reevaluate the defendant's fault,
+determine that the defendant was not at fault, and
+apportion 100% of the fault to the plaintiff. In such a
+situation, the second jury would be impermissibly
+reconsidering the findings of a first jury. The risk of
+such reevaluation is so great that class treatment can
+hardly be said to be superior to individual adjudication.31
+The plaintiffs' final retort is that individual trials are
+inadequate because time is running out for many of the
+plaintiffs.32 They point out that prior litigation against
+the tobacco companies has taken up to ten years to wind
+through the legal system. While a compelling rhetorical
+argument, it is ultimately inconsistent with the
+plaintiffs' own arguments and ignores the realities of the
+legal system. First, the plaintiffs' reliance on prior
+personal injury cases is unpersuasive, as they admit that
+they have new evidence and are pursuing a claim
+entirely different from that of past plaintiffs.
+Second, the plaintiffs' claim that time is running out
+ignores the reality of the class action device. In a
+complicated case involving multiple jurisdictions, the
+conflict of law question itself could take decades to work
+its way through the courts.33 Once that issue has been
+resolved, discovery, subclassing, and ultimately the class
+trial would take place. Next would come the appellate
+process. After the class trial, the individual trials and
+appeals on comparative negligence and damages would
+have to take place. The net result could be that the class
+action device would lengthen, not shorten, the time it
+takes for the plaintiffs to reach final judgment.
+[84 F.3d 752] IV.
+The district court abused its discretion by ignoring
+variations in state law and how a trial on the alleged
+causes of action would be tried. Those errors cannot be
+corrected on remand because of the novelty of the
+plaintiffs' claims. Accordingly, class treatment is not
+superior to individual adjudication.
+We have once before stated that "traditional ways of
+proceeding reflect far more than habit. They reflect the
+very culture of the jury trial...." In re Fibreboard Corp.,
+893 F.2d 706, 711 (5th Cir.1990). The collective wisdom
+of individual juries is necessary before this court
+commits the fate of an entire industry or, indeed, the
+fate of a class of millions, to a single jury. For the
+forgoing reasons, we REVERSE and REMAND with
+instructions that the district court dismiss the class
+complaint.

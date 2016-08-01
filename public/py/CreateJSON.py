@@ -5,13 +5,18 @@ import logging, sys
 #set up logging
 logging.basicConfig(stream=sys.stderr, level=logging.ERROR)
 
-casedict = {}
+casedict = []
 #translation_table = dict.fromkeys(map(ord, ".,:()-"), None)
 
-#TODO create summaries for all and change filenames to summaries
 i = 0
-#format: "key": ["caseName docketNumber (year)", "main opinion link", "OPTIONAL dissents/concurrances link etc."]
-with open("txt/index.txt", "r") as readfile, open("../js/casedict.json", "w") as writefile:
+#format: var CaseSchema = new Schema( {
+#        name: String,
+#        link: String,
+#        tags: [String],
+#        visited: Number,
+#        examMode: [Number]
+#    });
+with open("index.txt", "r") as readfile, open("../js/casedict.json", "w") as writefile:
     allLines = readfile.readlines()
     for j in range(0, len(allLines)): 
         line = allLines[j]
@@ -23,11 +28,11 @@ with open("txt/index.txt", "r") as readfile, open("../js/casedict.json", "w") as
             caseName = caseName.split(u'v.')
             caseName = [w.upper() for w in caseName]
             caseName = u'v.'.join(caseName)
-            caseNameKey = caseName.lower()
             #get docket number
             docketNumber = allLines[j+1][:-1].decode("utf8")
-            caseName += " " + docketNumber
-            #create filename
+            caseName += "   " + docketNumber
+            
+            #create main filename
             docketNumber = docketNumber.split(' ')
             fileName = docketNumber[:-1]
             logging.debug("fileName = {}".format(fileName))
@@ -35,14 +40,25 @@ with open("txt/index.txt", "r") as readfile, open("../js/casedict.json", "w") as
             fileName = '-'.join(fileName)
             fileName += "-sum.txt"
             fileName = "py/sum/" + fileName
-            caseArray = [caseName, fileName]
+            caseArray = [fileName]
+            
+            #create concur/dissent filenames
             if (j+2 < len(allLines)) and (len(allLines[j+2][:-1]) != 0):
                 dcLine = allLines[j+2][:-1].decode("utf8")
                 dcLine = dcLine.split(" ")
                 for dc in dcLine:
                     dcFileName = fileName[:-4] + "-" + dc + fileName[-4:]
                     caseArray.append(dcFileName)
-            casedict[caseNameKey] = caseArray
+            
+            #add in JSON format
+            for case in caseArray:
+                currCase = {"name": caseName, 
+                            "link": case, 
+                            "tags": [], 
+                            "visited": 0,
+                            "examMode": []}
+                casedict.append(currCase)
+                
         i = (i+1)%3
                 
     writefile.write(json.dumps(casedict, sort_keys=True, indent=4).encode("utf8"))

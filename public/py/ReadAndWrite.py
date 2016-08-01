@@ -83,9 +83,9 @@ def process(filename):
     summary = u'\n'.join(summary)
     logging.debug('Type of summary output is {}'.format(type(summary)))
     #add last sentence after making sure it is not "it is so ordered"
-    if (len(sentences) >= 1) and (sentences[-1] not in summary) and ("so ordered" not in sentences[-1].lower()):
+    if (len(sentences) >= 1) and (sentences[-1] not in summary) and ("order" not in sentences[-1].lower()):
         summary += (u'\n' + sentences[-1])
-    if (len(sentences) >= 2) and (sentences[-2] not in summary) and ("so ordered" in sentences[-1].lower()):
+    if (len(sentences) >= 2) and (sentences[-2] not in summary) and ("order" in sentences[-1].lower()):
         summary += (u'\n' + sentences[-2])
     sumFile = "sum/" + filename[4:-4] + "-sum.txt"
     with open(sumFile, "w") as sumFileOpen:

@@ -1,0 +1,57 @@
+While I agree with the result reached in this case, I write
+separately to state my views on two points.
+First, I, for one, would not close the door upon the
+possibility that there are cases in which the doctrine of
+res judicata [452 U.S. 403] must give way to what the
+Court of Appeals referred to as "overriding concerns of
+public policy and simple justice." 611 F.2d 1267, 1269
+(CA9 1980). Professor Moore has noted: "Just as res
+judicata is occasionally qualified by an overriding,
+competing principle of public policy, so occasionally it
+needs an equitable tempering." 1B J. Moore & T.
+Currier, Moore's Federal Practice ¶ 0.405 [12], p. 791
+(1980) (footnote omitted). See also Reed v. Allen, 286
+U.S. 191, 209 (1932) (Cardozo, J., joined by Brandeis and
+Stone, JJ., dissenting) ("A system of procedure is
+perverted from its proper function when it multiplies
+impediments to justice without the warrant of clear
+necessity"). But this case is clearly not one in which
+equity requires that the doctrine give way. Unlike the
+nonappealing party in Reed, respondents were not
+"caught in a mesh of procedural complexities." Ibid.
+Instead, they made a deliberate tactical decision not to
+appeal. Nor would public policy be served by making an
+exception to the doctrine in this case; to the contrary,
+there is a special need for strict application of res
+judicata in complex multiple party actions of this sort so
+as to discourage "break-away" litigation. Cf. Reiter v.
+Sonotone Corp., 442 U.S. 330, 345 (1979). Finally, this is
+not a case "where the rights of appealing and nonappealing
+parties are so interwoven or dependent on
+each other as to require a reversal of the whole
+judgment when a part thereof is reversed." See Ford
+Motor Credit Co. v. Uresti, 581 S.W.2d 298, 300 (Tex.
+Civ. App. 1979).*
+[452 U.S. 404] Second, and in contrast, I would flatly
+hold that Brown I is res judicata as to respondents' statelaw
+claims. Like the District Court, the Court of Appeals
+found that those state-law claims were simply disguised
+federal claims; since respondents have not crosspetitioned
+from that judgment, their argument that this
+case should be remanded to state court should be itself
+barred by res judicata. More important, even if the state
+and federal claims are distinct, respondents' failure to
+allege the state claims in Brown I manifestly bars their
+allegation in Brown II. The dismissal of Brown I is res
+judicata not only as to all claims respondents actually
+raised, but also as to all claims that could have been
+raised. See Commissioner v. Sunnen, 333 U.S. 591, 597
+(1948); Restatement (Second) of Judgments § 61.1
+(Tent. Draft No. 5, Mar. 10, 1978). Since there is no
+reason to believe that it was clear at the outset of this
+litigation that the District Court would have declined to
+exercise pendent jurisdiction over state claims,
+respondents were obligated to plead those claims if they
+wished to preserve them. See id., § 61.1, Comment e.
+Because they did not do so, I would hold the claims
+barred.

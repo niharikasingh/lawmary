@@ -1,0 +1,620 @@
+Petitioner, Sandra Adickes, a white school teacher from
+New York, brought this suit in the United States District
+Court for the Southern District of New York against
+respondent S. H. Kress & Co. ("Kress") to recover
+damages under 42 U. S. C. § 19831 for an alleged
+violation of her constitutional rights under the Equal
+Protection Clause of the Fourteenth Amendment. The
+suit arises out of Kress' refusal to serve lunch to Miss
+Adickes at its restaurant facilities in its Hattiesburg,
+Mississippi, store on August 14, 1964, and Miss Adickes'
+subsequent arrest upon her departure from the store by
+the Hattiesburg police on a charge of vagrancy. At the
+time of both the refusal to serve and the arrest, Miss
+Adickes was with six young people, all Negroes, who
+were her students in a Mississippi "Freedom School"
+where she was [398 U.S. 147] teaching that summer.
+Unlike Miss Adickes, the students were offered service,
+and were not arrested.
+Petitioner's complaint had two counts,2 each bottomed
+on § 1983, and each alleging that Kress had deprived her
+of the right under the Equal Protection Clause of the
+Fourteenth Amendment not to be discriminated against
+on the basis of race. The first count charged that Miss
+Adickes had been refused service by Kress because she
+was a "Caucasian in the company of Negroes." Petitioner
+sought, inter alia, to prove that the refusal to serve her
+was pursuant to a "custom of the community to
+segregate the races in public eating places." However, in
+a pretrial decision, 252 F.Supp. 140 (1966), the District
+Court ruled that to recover under this count, Miss
+Adickes would have to prove that at the time she was
+refused service, there was a specific "custom . . . of
+refusing service to whites in the company of Negroes"
+and that this custom was "enforced by the State" under
+Mississippi's criminal trespass statute.3 Because
+petitioner was unable to prove at the trial that there
+were other instances in Hattiesburg of a white person
+having been refused service while in the company of
+Negroes, [398 U.S. 148] the District Court directed a
+verdict in favor of respondent. A divided panel of the
+Court of Appeals affirmed on this ground, also holding
+that § 1983 "requires that the discriminatory custom or
+usage be proved to exist in the locale where the
+discrimination took place, and in the State generally,"
+and that petitioner's "proof on both points was
+deficient," 409 F.2d 121, 124 (1968).
+The second count of her complaint, alleging that both
+the refusal of service and her subsequent arrest were the
+product of a conspiracy between Kress and the
+Hattiesburg police, was dismissed before trial on a
+motion for summary judgment. The District Court
+ruled that petitioner had "failed to allege any facts from
+which a conspiracy might be inferred." 252 F. Supp., at
+144. This determination was unanimously affirmed by
+the Court of Appeals, 409 F. 2d, at 126-127.
+Miss Adickes, in seeking review here, claims that the
+District Court erred both in directing a verdict on the
+substantive count, and in granting summary judgment
+on the conspiracy count. Last Term we granted
+certiorari, 394 U.S. 1011 (1969), and we now reverse
+and remand for further proceedings on each of the two
+counts.
+As explained in Part I, because the respondent failed to
+show the absence of any disputed material fact, we think
+the District Court erred in granting summary judgment.
+With respect to the substantive count, for reasons
+explained in Part II, we think petitioner will have made
+out a claim under § 1983 for violation of her equal
+protection rights if she proves that she was refused
+service by Kress because of a state-enforced custom
+requiring racial segregation in Hattiesburg restaurants.
+We think the courts below erred (1) in assuming that
+the only proof relevant to showing that a custom was
+state-enforced related to the Mississippi criminal
+trespass statute; (2) in defining the relevant [398 U.S.
+149] state-enforced custom as requiring proof of a
+practice both in Hattiesburg and throughout Mississippi,
+of refusing to serve white persons in the company of
+Negroes rather than simply proof of state-enforced
+segregation of the races in Hattiesburg restaurants.
+I
+Briefly stated, the conspiracy count of petitioner's
+complaint made the following allegations: While
+serving as a volunteer teacher at a "Freedom School" for
+Negro children in Hattiesburg, Mississippi, petitioner
+went with six of her students to the Hattiesburg Public
+Library at about noon on August 14, 1964. The librarian
+refused to allow the Negro students to use the library,
+and asked them to leave. Because they did not leave, the
+librarian called the Hattiesburg chief of police who told
+petitioner and her students that the library was closed,
+and ordered them to leave. From the library, petitioner
+and the students proceeded to respondent's store where
+they wished to eat lunch. According to the complaint,
+after the group sat down to eat, a policeman came into
+the store "and observed [Miss Adickes] in the company
+of the Negro students." A waitress then came to the
+booth where petitioner was sitting, took the orders of
+the Negro students, but refused to serve petitioner
+because she was a white person "in the company of
+Negroes." The complaint goes on to allege that after this
+refusal of service, petitioner and her students left the
+Kress store. When the group reached the sidewalk
+outside the store, "the Officer of the Law who had
+previously entered [the] store" arrested petitioner on a
+groundless charge of vagrancy and took her into
+custody.
+On the basis of these underlying facts petitioner alleged
+that Kress and the Hattiesburg police had conspired (1)
+"to deprive [her] of her right to enjoy equal treatment
+and service in a place of public accommodation"; [398
+U.S. 150] and (2) to cause her arrest "on the false charge
+of vagrancy."
+A. CONSPIRACIES BETWEEN PUBLIC OFFICIALS
+AND PRIVATE PERSONS—GOVERNING
+PRINCIPLES
+The terms of § 1983 make plain two elements that are
+necessary for recovery. First, the plaintiff must prove
+that the defendant has deprived him of a right secured
+by the "Constitution and laws" of the United States.
+Second, the plaintiff must show that the defendant
+deprived him of this constitutional right "under color of
+any statute, ordinance, regulation, custom, or usage, of
+any State or Territory." This second element requires
+that the plaintiff show that the defendant acted "under
+color of law."4
+As noted earlier we read both counts of petitioner's
+complaint to allege discrimination based on race in
+violation of petitioner's equal protection rights.5 Few
+principles [398 U.S. 151] of law are more firmly stitched
+into our constitutional fabric than the proposition that a
+State must not discriminate against a person because of
+his race [398 U.S. 152] or the race of his companions, or
+in any way act to compel or encourage racial
+segregation.6 Although this is a lawsuit against a private
+party, not the State or one of its officials, our cases make
+clear that petitioner will have made out a violation of
+her Fourteenth Amendment rights and will be entitled
+to relief under § 1983 if she can prove that a Kress
+employee, in the course of employment, and a
+Hattiesburg policeman somehow reached an
+understanding to deny Miss Adickes service in the Kress
+store, or to cause her subsequent arrest because she was
+a white person in the company of Negroes.
+The involvement of a state official in such a conspiracy
+plainly provides the state action essential to show a
+direct violation of petitioner's Fourteenth Amendment
+equal protection rights, whether or not the actions of
+the police were officially authorized, or lawful; Monroe
+v. Pape, 365 U.S. 167 (1961); see United States v. Classic,
+313 U.S. 299, 326 (1941); Screws v. United States, 325
+U.S. 91, 107-111 (1945); Williams v. United States, 341
+U.S. 97, 99-100 (1951). Moreover, a private party
+involved in such a conspiracy, even though not an
+official of the State, can be liable under § 1983. "Private
+persons, jointly engaged with state officials in the
+prohibited action, are acting `under color' of law for
+purposes of the statute. To act `under color' of law does
+not require that the accused be an officer of the State. It
+is enough that he is a willful participant in joint activity
+with the State or its agents," United States v. Price, 383
+U.S. 787, 794 (1966).7
+[398 U.S. 153] B. SUMMARY JUDGMENT
+We now proceed to consider whether the District Court
+erred in granting summary judgment on the conspiracy
+count. In granting respondent's motion, the District
+Court simply stated that there was "no evidence in the
+complaint or in the affidavits and other papers from
+which a `reasonably-minded person' might draw an
+inference of conspiracy," 252 F. Supp., at 144, aff'd, 409
+F. 2d, at 126-127. Our own scrutiny of the factual
+allegations of petitioner's complaint, as well as the
+material found in the affidavits and depositions
+presented by Kress to the District Court, however,
+convinces us that summary judgment was improper
+here, for we think respondent failed to carry its burden
+of showing the absence of any genuine issue of fact.
+Before explaining why this is so, it is useful to state the
+factual arguments, made by the parties concerning
+summary judgment, and the reasoning of the courts
+below.
+In moving for summary judgment, Kress argued that
+"uncontested facts" established that no conspiracy
+existed between any Kress employee and the police. To
+support this assertion, Kress pointed first to the
+statements in the deposition of the store manager (Mr.
+Powell) that (a) he had not communicated with the
+police,8 and that (b) he had, by a prearranged tacit [398
+U.S. 154] signal,9 ordered the food counter supervisor to
+see that Miss Adickes was refused service only because
+he was fearful of a riot in the store by customers angered
+at seeing a "mixed group" of whites and blacks eating
+together.10 Kress also relied on affidavits from the
+Hattiesburg [398 U.S. 155] chief of police,11 and the two
+arresting officers,12 to the effect that store manager
+Powell had not requested that petitioner be arrested.
+Finally, Kress pointed to the statements in petitioner's
+own deposition that she had no knowledge of any
+communication between any Kress employee and any
+member of the Hattiesburg police, and was relying on
+circumstantial evidence to support her [398 U.S. 156]
+contention that there was an arrangement between
+Kress and the police.
+Petitioner, in opposing summary judgment, pointed out
+that respondent had failed in its moving papers to
+dispute the allegation in petitioner's complaint, a
+statement at her deposition,13 and an unsworn
+statement by a Kress employee,14 all to the effect that
+there was a policeman in the store at the time of the
+refusal to serve her, and that this was the policeman
+who subsequently [398 U.S. 157] arrested her. Petitioner
+argued that although she had no knowledge of an
+agreement between Kress and the police, the sequence
+of events created a substantial enough possibility of a
+conspiracy to allow her to proceed to trial, especially
+given the fact that the non-circumstantial evidence of
+the conspiracy could only come from adverse witnesses.
+Further, she submitted an affidavit specifically disputing
+the manager's assertion that the situation in the store at
+the time of the refusal was "explosive," thus creating an
+issue of fact as to what his motives might have been in
+ordering the refusal of service.
+We think that on the basis of this record, it was error to
+grant summary judgment. As the moving party,
+respondent had the burden of showing the absence of a
+genuine issue as to any material fact, and for these
+purposes the material it lodged must be viewed in the
+light most favorable to the opposing party.15
+Respondent here did not carry its burden because of its
+failure to foreclose the possibility that there was a
+policeman in the Kress store while petitioner was
+awaiting service, and that this policeman reached an
+understanding with some Kress employee that
+petitioner not be served.
+It is true that Mr. Powell, the store manager, claimed in
+his deposition that he had not seen or communicated
+with a policeman prior to his tacit signal to Miss
+Baggett, the supervisor of the food counter. But
+respondent did not submit any affidavits from Miss
+Baggett,16 or from [398 U.S. 158] Miss Freeman,17 the
+waitress who actually refused petitioner service, either
+of whom might well have seen and communicated with
+a policeman in the store. Further, we find it particularly
+noteworthy that the two officers involved in the arrest
+each failed in his affidavit to foreclose the possibility (1)
+that he was in the store while petitioner was there; and
+(2) that, upon seeing petitioner with Negroes, he
+communicated his disapproval to a Kress employee,
+thereby influencing the decision not to serve petitioner.
+Given these unexplained gaps in the materials submitted
+by respondent, we conclude that respondent failed to
+fulfill its initial burden of demonstrating what is a
+critical element in this aspect of the case—that there was
+no policeman in the store. If a policeman were present,
+we think it would be open to a jury, in light of the
+sequence that followed, to infer from the circumstances
+that the policeman and a Kress employee had a "meeting
+of the minds" and thus reached an understanding that
+petitioner should be refused service. Because "[o]n
+summary judgment the inferences to be drawn from the
+underlying facts contained in [the moving party's]
+materials must be viewed in the light [398 U.S. 159] most
+favorable to the party opposing the motion," United
+States v. Diebold, Inc., 369 U.S. 654, 655 (1962), we
+think respondent's failure to show there was no
+policeman in the store requires reversal.
+Pointing to Rule 56 (e), as amended in 1963,18
+respondent argues that it was incumbent on petitioner
+to come forward with an affidavit properly asserting the
+presence of the policeman in the store, if she were to
+rely on that fact to avoid summary judgment.
+Respondent notes in this regard that none of the
+materials upon which petitioner relied met the
+requirements of Rule 56 (e).19
+This argument does not withstand scrutiny, however,
+for both the commentary on and background of the
+1963 amendment conclusively show that it was not
+intended to modify the burden of the moving party
+under Rule 56 (c) to show initially the absence of a
+genuine issue concerning any material fact.20 The
+Advisory Committee [398 U.S. 160] note on the
+amendment states that the changes were not designed to
+"affect the ordinary standards applicable to the summary
+judgment." And, in a comment directed specifically to a
+contention like respondent's the Committee stated that
+"[w]here the evidentiary matter in support of the
+motion does not establish the absence of a genuine issue,
+summary judgment must be denied even if no opposing
+evidentiary matter is presented."21 Because respondent
+did not meet its initial burden of establishing the
+absence of a policeman in the store, petitioner here was
+not required to come forward with suitable opposing
+affidavits.22
+If respondent had met its initial burden by, for example,
+submitting affidavits from the policemen denying their
+presence in the store at the time in question, Rule 56 (e)
+would then have required petitioner to have done more
+than simply rely on the contrary allegation in her
+complaint. To have avoided conceding this fact for
+purposes of summary judgment, petitioner would have
+had to come forward with either (1) the affidavit of
+someone who saw the policeman in the store or (2) an
+affidavit under Rule 56 (f) explaining why at that time it
+was impractical to do so. Even though not essential here
+to defeat [398 U.S. 161] respondent's motion, the
+submission of such an affidavit would have been the
+preferable course for petitioner's counsel to have
+followed. As one commentator has said:
+"It has always been perilous for the opposing party neither to
+proffer any countering evidentiary materials nor file a 56 (f)
+affidavit. And the peril rightly continues [after the amendment to
+Rule 56 (e)]. Yet the party moving for summary judgment has the
+burden to show that he is entitled to judgment under established
+principles; and if he does not discharge that burden then he is not
+entitled to judgment. No defense to an insufficient showing is
+required." 6 J. Moore, Federal Practice ¶ 56.22 [2], pp. 2824-2825
+(2d ed. 1966).
+II
+There remains to be discussed the substantive count of
+petitioner's complaint, and the showing necessary for
+petitioner to prove that respondent refused her service
+"under color of any . . . custom, or usage, of [the] State"
+in violation of her rights under the Equal Protection
+Clause of the Fourteenth Amendment.23
+[398 U.S. 162] A. CUSTOM OR USAGE
+We are first confronted with the issue of whether a
+"custom" for purposes of § 1983 must have the force of
+law, or whether, as argued in dissent, no state
+involvement is required. Although this Court has never
+explicitly decided this question, we do not interpret the
+statute against an amorphous backdrop.
+What is now 42 U. S. C. § 1983 came into existence as §
+1 of the Ku Klux Klan Act of April 20, 1871, 17 Stat. 13.
+The Chairman of the House Select Committee which
+drafted this legislation described24 § 1 as modeled after §
+2 of the Civil Rights Act of 1866—a criminal provision
+that also contained language that forbade certain acts by
+any person "under color of any law, statute, ordinance,
+regulation, or custom," 14 Stat. 27. In the Civil Rights
+Cases, 109 U.S. 3, 16 (1883), the Court said of this 1866
+statute: "This law is clearly corrective in its [398 U.S.
+163] character, intended to counteract and furnish
+redress against State laws and proceedings, and customs
+having the force of law, which sanction the wrongful
+acts specified." (Emphasis added.) Moreover, after an
+exhaustive examination of the legislative history of the
+1866 Act, both the majority and dissenting opinions25 in
+Jones v. Alfred H. Mayer Co., 392 U.S. 409 (1968),
+concluded that § 2 of the 1866 Civil Rights Act was
+intended to be limited to "deprivations perpetrated
+`under color of law.' "26 (Emphasis added.)
+Quite apart from this Court's construction of the
+identical "under color of" provision of § 2 of the 1866
+Act, the legislative history of § 1 of the 1871 Act, the
+lineal ancestor of § 1983, also indicates that the
+provision in question here was intended to encompass
+only conduct supported by state action. That such a
+limitation was intended for § 1 can be seen from an
+examination of the statements and actions of both the
+supporters and opponents of the Ku Klux Klan Act.
+[398 U.S. 164] In first reporting the Committee's
+recommendations to the House, Representative
+Shellabarger, the Chairman of the House Select
+Committee which drafted the Ku Klux Klan Act, said
+that § 1 was "in its terms carefully confined to giving a
+civil action for such wrongs against citizenship as are
+done under color of State laws which abridge these
+rights."27 (Emphasis added.) Senator Edmunds,
+Chairman of the Senate Committee on the Judiciary,
+and also a supporter of the bill, said of this provision:
+"The first section is one that I believe nobody objects to,
+as defining the rights secured by the Constitution of the
+United States when they are assailed by any State law or
+under color of any State law, and it is merely carrying
+out the principles of the civil rights bill, which have
+since become a part of the Constitution."28 (Emphasis
+added.) Thus, in each House, the leader of those
+favoring the bill expressly stated his understanding that
+§ 1 was limited to deprivations of rights done under
+color of law.
+That Congress intended to limit the scope of § 1 to
+actions taken under color of law is further seen by
+contrasting its legislative history with that of other
+sections of the same Act. On the one hand, there was
+comparatively little debate over § 1 of the Ku Klux Klan
+Act, and it was eventually enacted in form identical to
+that in which it was introduced in the House.29 Its
+history thus stands in sharp contrast to that of other
+sections [398 U.S. 165] of the Act.30 For example, § 2 of
+the 1871 Act,31 a provision aimed at private conspiracies
+with no "under color of law" requirement, created a
+great storm of controversy, in part because it was
+thought to encompass private conduct. Senator
+Thurman, for example, one of the leaders of the
+opposition to the Act, although objecting to § 1 on other
+grounds, admitted its constitutionality32 and
+characterized it as "refer[ring] to a deprivation under
+color of law, either statute law or `custom or usage'
+which has become common law."33 (Emphasis added.)
+This same Senator insisted vociferously on the absence
+of congressional power under § 5 of the Fourteenth [398
+U.S. 166] Amendment to penalize a conspiracy of private
+individuals to violate state law.34 The comparative lack
+of controversy concerning § 1, in the context of the
+heated debate over the other provisions, suggests that
+the opponents of the Act, with minor exceptions, like its
+proponents understood § 1 to be limited to conduct
+under color of law.
+In addition to the legislative history, there exists an
+unbroken line of decisions, extending back many years,
+in which this Court has declared that action "under
+color of law" is a predicate for a cause of action under §
+1983,35 or its criminal counterpart, 18 U. S. C. § 242.36
+Moreover, with the possible exception of an exceedingly
+opaque district court opinion,37 every lower court
+opinion of which we are aware that has considered the
+issue, has concluded that a "custom or usage" for
+purposes of § 1983 requires state involvement and is not
+simply a practice that reflects longstanding social habits,
+generally [398 U.S. 167] observed by the people in a
+locality.38 Finally, the language of the statute itself points
+in the same direction for it expressly requires that the
+"custom or usage" be that "of any State, " not simply of
+the people living in a state. In sum, against this
+background, we think it clear that a "custom, or usage,
+of [a] State" for purposes of § 1983 must have the force
+of law by virtue of the persistent practices of state
+officials.
+Congress included customs and usages within its
+definition of law in § 1983 because of the persistent and
+widespread discriminatory practices of state officials in
+some areas of the post-bellum South. As Representative
+Garfield said: "[E]ven where the laws are just and equal
+on their face, yet, by a systematic maladministration of
+them, or a neglect or refusal to enforce their provisions,
+a portion of the people are denied equal protection
+under them."39 Although not authorized by written law,
+such [398 U.S. 168] practices of state officials could well
+be so permanent and well settled as to constitute a
+"custom or usage" with the force of law.
+This interpretation of custom recognizes that settled
+practices of state officials may, by imposing sanctions or
+withholding benefits, transform private predilections
+into compulsory rules of behavior no less than
+legislative pronouncements. If authority be needed for
+this truism, it can be found in Nashville, C. & St. L. R.
+Co. v. Browning, 310 U.S. 362 (1940), where the Court
+held that although a statutory provision suggested a
+different note, the "law" in Tennessee as established by
+longstanding practice of state officials was that railroads
+and public utilities were taxed at full cash value. What
+Justice Frankfurter wrote there seems equally apt here:
+"It would be a narrow conception of jurisprudence to confine the
+notion of `laws' to what is found written on the statute books, and
+to disregard the gloss which life has written upon it. Settled state
+practice . . . can establish what is state law. The Equal Protection
+Clause did not write an empty formalism into the Constitution.
+Deeply embedded traditional ways of carrying out state policy, such
+as those of which petitioner complains, are often tougher and truer
+law than the dead words of the written text." Id., at 369.
+And in circumstances more closely analogous to the case
+at hand, the statements of the chief of police and mayor
+of New Orleans, as interpreted by the Court [398 U.S.
+169] in Lombard v. Louisiana, 373 U.S. 267 (1963), could
+well have been taken by restaurant proprietors as
+articulating a custom having the force of law. Cf. Garner
+v. Louisiana, 368 U.S. 157, 176-185 (DOUGLAS, J.,
+concurring) (1961); Wright v. Georgia, 373 U.S. 284
+(1963); Baldwin v. Morgan, 287 F.2d 750, 754 (C. A. 5th
+Cir. 1961).
+B. STATE ACTION—14TH AMENDMENT
+VIOLATION
+For petitioner to recover under the substantive count of
+her complaint, she must show a deprivation of a right
+guaranteed to her by the Equal Protection Clause of the
+Fourteenth Amendment. Since the "action inhibited by
+the first section of the Fourteenth Amendment is only
+such action as may fairly be said to be that of the States,"
+Shelley v. Kraemer, 334 U.S. 1, 13 (1948), we must
+decide, for purposes of this case, the following "state
+action" issue: Is there sufficient state action to prove a
+violation of petitioner's Fourteenth Amendment rights
+if she shows that Kress refused her service because of a
+state-enforced custom compelling segregation of the
+races in Hattiesburg restaurants?
+In analyzing this problem, it is useful to state two polar
+propositions, each of which is easily identified and
+resolved. On the one hand, the Fourteenth Amendment
+plainly prohibits a State itself from discriminating
+because of race. On the other hand, § 1 of the
+Fourteenth Amendment does not forbid a private party,
+not acting against a backdrop of state compulsion or
+involvement, to discriminate on the basis of race in his
+personal affairs as an expression of his own personal
+predilections. As was said in Shelley v. Kraemer, supra,
+§ 1 of "[t]hat Amendment erects no shield against
+merely private conduct, however discriminatory or
+wrongful." 334 U. S., at 13.
+[398 U.S. 170] At what point between these two
+extremes a State's involvement in the refusal becomes
+sufficient to make the private refusal to serve a violation
+of the Fourteenth Amendment, is far from clear under
+our case law. If a State had a law requiring a private
+person to refuse service because of race, it is clear
+beyond dispute that the law would violate the
+Fourteenth Amendment and could be declared invalid
+and enjoined from enforcement. Nor can a State enforce
+such a law requiring discrimination through either
+convictions of proprietors who refuse to discriminate,
+or trespass prosecutions of patrons who, after being
+denied service pursuant to such a law, refuse to honor a
+request to leave the premises.40
+The question most relevant for this case, however, is a
+slightly different one. It is whether the decision of an
+owner of a restaurant to discriminate on the basis of
+race under the compulsion of state law offends the
+Fourteenth Amendment. Although this Court has not
+explicitly decided the Fourteenth Amendment state
+action issue implicit in this question, underlying the
+Court's decisions in the sit-in cases is the notion that a
+State is responsible for the discriminatory act of a
+private party when the State, by its law, has compelled
+the act. As the Court said in Peterson v. City of
+Greenville, 373 U.S. 244, 248 (1963): "When the State
+has commanded a particular result, it has saved to itself
+the power to determine that result and thereby `to a
+significant extent' has `become involved' in it."
+Moreover, there is much support in lower court
+opinions for the conclusion that discriminatory acts by
+private parties done under the compulsion of state law
+offend the Fourteenth [398 U.S. 171] Amendment. In
+Baldwin v. Morgan, supra, the Fifth Circuit held that
+"[t]he very act of posting and maintaining separate
+[waiting room] facilities when done by the [railroad]
+Terminal as commanded by these state orders is action
+by the state." The Court then went on to say: "As we
+have pointed out above the State may not use race or
+color as the basis for distinction. It may not do so by
+direct action or through the medium of others who are
+under State compulsion to do so." Id., at 755-756
+(emphasis added). We think the same principle governs
+here.
+For state action purposes it makes no difference of
+course whether the racially discriminatory act by the
+private party is compelled by a statutory provision or by
+a custom having the force of law—in either case it is the
+State that has commanded the result by its law. Without
+deciding whether less substantial involvement of a State
+might satisfy the state action requirement of the
+Fourteenth Amendment, we conclude that petitioner
+would show an abridgment of her equal protection
+right, if she proves that Kress refused her service
+because of a state-enforced custom of segregating the
+races in public restaurants.
+C. THREE ADDITIONAL POINTS
+For purposes of remand, we consider it appropriate to
+make three additional points.
+First, the District Court's pretrial opinion seems to
+suggest that the exclusive means available to petitioner
+for demonstrating that state enforcement of the custom
+relevant here would be by showing that the State used
+its criminal trespass statute for this purpose. We
+disagree with the District Court's implicit assumption
+that a custom can have the force of law only if it is
+enforced [398 U.S. 172] by a state statute.41 Any such
+limitation is too restrictive, for a state official might act
+to give a custom the force of law in a variety of ways, at
+least two examples of which are suggested by the record
+here. For one thing, petitioner may be able to show that
+the police subjected her to false arrest for vagrancy for
+the purpose of harassing and punishing her for
+attempting to eat with black people.42 Alternatively, it
+might be shown on remand that the Hattiesburg police
+would intentionally tolerate violence or threats of
+violence directed toward those who violated the practice
+of segregating the races at restaurants.43
+[398 U.S. 173] Second, we think the District Court was
+wrong in ruling that the only proof relevant to showing
+a custom in this case was that demonstrating a specific
+practice of not serving white persons who were in the
+company of black persons in public restaurants. As
+Judge Waterman pointed out in his dissent below,
+petitioner could not possibly prove a "long and
+unvarying" habit of serving only the black persons in a
+"mixed" party of whites and blacks for the simple reason
+that "it was only after the Civil Rights Act of 1964
+became law that Afro-Americans had an opportunity to
+be served in Mississippi `white' restaurants" at all, 409 F.
+2d, at 128. Like Judge Waterman we think the District
+Court viewed the matter too narrowly, for under
+petitioner's complaint the relevant inquiry is whether at
+the time of the episode in question there was a
+longstanding and still prevailing state-enforced custom
+of segregating the races in public eating places. Such a
+custom, of course, would perforce encompass the
+particular kind of refusal to serve challenged in this case.
+Third, both the District Court and the majority opinion
+in the Court of Appeals suggested that petitioner would
+have to show that the relevant custom existed
+throughout the State, and that proof that it had the force
+of law in Hattiesburg—a political subdivision of the
+State—was insufficient. This too we think was error. In
+the same way that a law whose source is a town
+ordinance can offend the Fourteenth Amendment even
+though it has less than state-wide application, so too can
+a custom with the force of law in a political subdivision
+of a State offend the Fourteenth Amendment even
+though it lacks state-wide application.
+In summary, if petitioner can show (1) the existence of a
+state-enforced custom of segregating the races in public
+eating places in Hattiesburg at the time of the incident
+[398 U.S. 174] in question; and (2) that Kress' refusal to
+serve her was motivated by that state-enforced custom,
+she will have made out a claim under § 1983.44
+For the foregoing reasons we think petitioner is entitled
+to a new trial on the substantive count of her complaint.
+The judgment of the Court of Appeals is reversed, and
+the case is remanded to that court for further
+proceedings consistent with this opinion.
+It is so ordered.

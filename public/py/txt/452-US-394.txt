@@ -1,0 +1,237 @@
+The only question presented in this case is whether the
+Court of Appeals for the Ninth Circuit validly created an
+exception to the doctrine of res judicata. The court held
+that res judicata does not bar relitigation of an
+unappealed adverse judgment where, as here, other
+plaintiffs in similar actions against common defendants
+successfully appeal the judgments against them. We
+disagree with the view taken by the Court of Appeals for
+the Ninth Circuit and reverse.
+I
+In 1976 the United States brought an antitrust action
+against petitioners, owners of various department
+stores, alleging that they had violated § 1 of the
+Sherman Act, 15 U. S. C. § 1, by agreeing to fix the retail
+price of women's clothing sold in northern California.
+Seven parallel civil actions were subsequently field by
+private plaintiffs seeking treble damages on behalf of
+proposed classes of retail purchasers, including that of
+respondent Moitie in state court (Moitie I) and
+respondent Brown (Brown I) in the United [452 U.S.
+396] States District Court for the Northern District of
+California. Each of these complaints tracked almost
+verbatim the allegations of the Government's complaint,
+though the Moitie I complaint referred solely to state
+law. All of the actions originally filed in the District
+Court were assigned to a single federal judge, and the
+Moitie I case was removed there on the basis of diversity
+of citizenship and federal-question jurisdiction. The
+District Court dismissed all of the actions "in their
+entirety" on the ground that plaintiffs had not alleged an
+"injury" to their "business or property" within the
+meaning of § 4 of the Clayton Act, 15 U. S. C. § 15.
+Weinberg v. Federated Department Stores, 426 F.Supp.
+880 (1977).
+Plaintiffs in five of the suits appealed that judgment to
+the Court of Appeals for the Ninth Circuit. The single
+counsel representing Moitie and Brown, however, chose
+not to appeal and instead refiled the two actions in state
+court, Moitie II and Brown II.1 Although the complaints
+purported to raise only state-law claims, they made
+allegations similar to those made in the prior
+complaints, including that of the Government.
+Petitioners removed these new actions to the District
+Court for the Northern District of California and moved
+to have them dismissed on the ground of res judicata. In
+a decision rendered July 8, 1977, the District Court first
+denied respondents' motion to remand. It held that the
+complaints, though artfully couched in terms of state
+law, were "in many respects identical" with the prior
+complaints, and were thus properly removed to federal
+court because they raised "essentially federal law" claims.
+The court then concluded that because Moitie II and
+Brown II involved the "same parties, the same alleged
+offenses, and the same time periods" as Moitie I and
+Brown I, the doctrine of res judicata [452 U.S. 397]
+required that they be dismissed. This time, Moitie and
+Brown appealed.
+Pending that appeal, this Court on June 11, 1979,
+decided Reiter v. Sonotone Corp., 442 U.S. 330, holding
+that retail purchasers can suffer an "injury" to their
+"business or property" as those terms are used in § 4 of
+the Clayton Act. On June 25, 1979, the Court of Appeals
+for the Ninth Circuit reversed and remanded the five
+cases which had been decided with Moitie I and Brown
+I, the cases that had been appealed, for further
+proceedings in light of Reiter.
+When Moitie II and Brown II finally came before the
+Court of Appeals for the Ninth Circuit, the court
+reversed the decision of the District Court dismissing
+the cases. 611 F.2d 1267.2 Though the court recognized
+that a "strict application of the doctrine of res judicata
+would preclude our review of the instant decision," id.,
+at 1269, it refused to apply the doctrine to the facts of
+this case. It observed that the other five litigants in the
+Weinberg cases had successfully [452 U.S. 398] appealed
+the decision against them. It then asserted that "nonappealing
+parties may benefit from a reversal when their
+position is closely interwoven with that of appealing
+parties," ibid., and concluded that "[b]ecause the instant
+dismissal rested on a case that has been effectively
+overruled," the doctrine of res judicata must give way to
+"public policy" and "simple justice." Id., at 1269-1270.
+We granted certiorari, 449 U.S. 991 (1980), to consider
+the validity of the Court of Appeals' novel exception to
+the doctrine of res judicata.
+II
+There is little to be added to the doctrine of res judicata
+as developed in the case law of this Court. A final
+judgment on the merits of an action precludes the
+parties or their privies from relitigating issues that were
+or could have been raised in that action. Commissioner
+v. Sunnen, 333 U.S. 591, 597 (1948); Cromwell v.
+County of Sac, 94 U.S. 351, 352-353 (1877). Nor are the
+res judicata consequences of a final, unappealed
+judgment on the merits altered by the fact that the
+judgment may have been wrong or rested on a legal
+principle subsequently overruled in another case. Angel
+v. Bullington, 330 U.S. 183, 187 (1947); Chicot County
+Drainage District v. Baxter State Bank, 308 U.S. 371
+(1940); Wilson's Executor v. Deen, 121 U.S. 525, 534
+(1887). As this Court explained in Baltimore S.S. Co. v.
+Phillips, 274 U.S. 316, 325 (1927), an "erroneous
+conclusion" reached by the court in the first suit does
+not deprive the defendants in the second action "of their
+right to rely upon the plea of res judicata. . . . A
+judgment merely voidable because based upon an
+erroneous view of the law is not open to collateral
+attack, but can be corrected only by a direct review and
+not by bringing another action upon the same cause [of
+action]." We have observed that "[t]he indulgence of a
+contrary view would result in creating elements of
+uncertainty and confusion and in undermining the
+conclusive character of judgments, [452 U.S. 399]
+consequences which it was the very purpose of the
+doctrine of res judicata to avert." Reed v. Allen, 286 U.S.
+191, 201 (1932).
+In this case, the Court of Appeals conceded that the
+"strict application of the doctrine of res judicata"
+required that Brown II be dismissed. By that, the court
+presumably meant that the "technical elements" of res
+judicata had been satisfied, namely, that the decision in
+Brown I was a final judgment on the merits and
+involved the same claims and the same parties as Brown
+II.3 The court, however, declined to dismiss Brown II
+because, in its view, it would be unfair to bar
+respondents from relitigating a claim so "closely
+interwoven" with that of the successfully appealing
+parties. We believe that such an unprecedented
+departure from accepted principles of res judicata is
+unwarranted. Indeed, the decision below is all but
+foreclosed by our prior case law.4
+In Reed v. Allen, supra, this Court addressed the issue
+presented here. The case involved a dispute over the
+rights to property left in a will. A won an interpleader
+action for rents derived from the property and, while an
+appeal was pending, brought an ejectment action against
+the rival claimant B. On [452 U.S. 400] the basis of the
+decree in the interpleader suit A won the ejectment
+action. B did not appeal this judgment, but prevailed on
+his earlier appeal from the interpleader decree and was
+awarded the rents which had been collected. When B
+sought to bring an ejectment action against A, the latter
+pleaded res judicata, based on his previous successful
+ejectment action. This Court held that res judicata was
+available as a defense and that the property belonged to
+A:
+"The judgment in the ejectment action was final and not open to
+assault collaterally, but subject to impeachment only through some
+form of direct attack. The appellate court was limited to a review of
+the interpleader decree; and it is hardly necessary to say that
+jurisdiction to review one judgment gives an appellate court no
+power to reverse or modify another and independent judgment. If
+respondent, in addition to appealing from the [interpleader] decree,
+had appealed from the [ejectment] judgment, the appellate court,
+having both cases before it, might have afforded a remedy. . . . But
+this course respondent neglected to follow." Id., at 198.
+This Court's rigorous application of res judicata in Reed,
+to the point of leaving one party in possession and the
+other party entitled to the rents, makes clear that this
+Court recognizes no general equitable doctrine, such as
+that suggested by the Court of Appeals, which
+countenances an exception to the finality of a party's
+failure to appeal merely because his rights are "closely
+interwoven" with those of another party. Indeed, this
+case presents even more compelling reasons to apply the
+doctrine of res judicata than did Reed. Respondents here
+seek to be the windfall beneficiaries of an appellate
+reversal procured by other independent parties, who
+have no interest in respondents' case, not a reversal in
+interrelated cases procured, as in Reed, by the same
+affected party. Moreover, in contrast to Reed, where it
+was unclear why no appeal was taken, it is apparent that
+respondents here made a [452 U.S. 401] calculated choice
+to forgo their appeals. See also Ackermann v. United
+States, 340 U.S. 193, 198 (1950) (holding that petitioners
+were not entitled to relief under Federal Rule of Civil
+Procedure 60 (b) when they made a "free, calculated,
+deliberate choic[e]" not to appeal).
+The Court of Appeals also rested its opinion in part on
+what it viewed as "simple justice." But we do not see the
+grave injustice which would be done by the application
+of accepted principles of res judicata. "Simple justice" is
+achieved when a complex body of law developed over a
+period of years is evenhandedly applied. The doctrine of
+res judicata serves vital public interests beyond any
+individual judge's ad hoc determination of the equities
+in a particular case. There is simply "no principle of law
+or equity which sanctions the rejection by a federal
+court of the salutary principle of res judicata." Heiser v.
+Woodruff, 327 U.S. 726, 733 (1946). The Court of
+Appeals' reliance on "public policy" is similarly
+misplaced. This Court has long recognized that "[p]ublic
+policy dictates that there be an end of litigation; that
+those who have contested an issue shall be bound by the
+result of the contest, and that matters once tried shall be
+considered forever settled as between the parties."
+Baldwin v. Traveling Men's Assn., 283 U.S. 522, 525
+(1931). We have stressed that "[the] doctrine of res
+judicata is not a mere matter of practice or procedure
+inherited from a more technical time than ours. It is a
+rule of fundamental and substantial justice, `of public
+policy and of private peace,' which should be cordially
+regarded and enforced by the courts . . . ." Hart Steel Co.
+v. Railroad Supply Co., 244 U.S. 294, 299 (1917). The
+language used by this Court half a century ago is even
+more compelling in view of today's crowded dockets:
+"The predicament in which respondent finds himself is of his own
+making . . . . [W]e cannot be expected, for his sole relief, to upset
+the general and well-established doctrine of res judicata, conceived
+in the light of the [452 U.S. 402] maxim that the interest of the state
+requires that there be an end to litigation—a maxim which
+comports with common sense as well as public policy. And the
+mischief which would follow the establishment of precedent for so
+disregarding this salutary doctrine against prolonging strife would
+be greater than the benefit which would result from relieving some
+case of individual hardship." Reed v. Allen, 286 U. S., at 198-199.
+Respondents make no serious effort to defend the
+decision of the Court of Appeals. They do not ask that
+the decision below be affirmed. Instead, they conclude
+that the "the writ of certiorari should be dismissed as
+improvidently granted." Brief for Respondents 31. In
+the alternative, they argue that "the district court's
+dismissal on grounds of res judicata should be reversed,
+and the district court directed to grant respondent's
+motion to remand to the California state court." Ibid. In
+their view, Brown I cannot be considered res judicata as
+to their state-law claims, since Brown I raised only
+federal-law claims and Brown II raised additional statelaw
+claims not decided in Brown I, such as unfair
+competition, fraud, and restitution.
+It is unnecessary for this Court to reach that issue. It is
+enough for our decision here that Brown I is res judicata
+as to respondents' federal-law claims. Accordingly, the
+judgment of the Court of Appeals is reversed, and the
+cause is remanded for proceedings consistent with this
+opinion.
+It is so ordered.

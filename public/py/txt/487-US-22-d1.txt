@@ -1,0 +1,263 @@
+I agree with the opinion of the Court that the initial
+question before us is whether the validity between the
+parties of a contractual forum-selection clause falls
+within the scope of 28 U. S. C. § 1404(a). See ante, at 26-
+27, 29. I cannot agree, however, that the answer to that
+question is yes. Nor do I believe that the federal courts
+can, consistent with the twin-aims test of Erie R. Co. v.
+Tompkins, 304 U.S. 64 (1938), fashion a judge-made
+rule to govern this issue of contract validity.
+[487 U.S. 34] I
+When a litigant asserts that state law conflicts with a
+federal procedural statute or formal Rule of Procedure, a
+court's first task is to determine whether the disputed
+point in question in fact falls within the scope of the
+federal statute or Rule. In this case, the Court must
+determine whether the scope of § 1404(a) is sufficiently
+broad to cause a direct collision with state law or
+implicitly to control the issue before the Court, i. e.,
+validity between the parties of the forum-selection
+clause, thereby leaving no room for the operation of
+state law. See Burlington Northern R. Co. v. Woods,
+480 U.S. 1, 4-5 (1987). I conclude that it is not.
+Although the language of § 1404(a) provides no clear
+answer, in my view it does provide direction. The
+provision vests the district courts with authority to
+transfer a civil action to another district "[f]or the
+convenience of parties and witnesses, in the interest of
+justice." This language looks to the present and the
+future. As the specific reference to convenience of
+parties and witnesses suggests, it requires consideration
+of what is likely to be just in the future, when the case is
+tried, in light of things as they now stand. Accordingly,
+the courts in applying § 1404(a) have examined a variety
+of factors, each of which pertains to facts that currently
+exist or will exist: e. g., the forum actually chosen by the
+plaintiff, the current convenience of the parties and
+witnesses, the current location of pertinent books and
+records, similar litigation pending elsewhere, current
+docket conditions, and familiarity of the potential courts
+with governing state law. See 15 C. Wright, A. Miller, &
+E. Cooper, Federal Practice and Procedure §§ 3848-
+3849, 3851, 3853-3854 (2d ed. 1986). In holding that the
+validity between the parties of a forum-selection clause
+falls within the scope of § 1404(a), the Court inevitably
+imports, in my view without adequate textual
+foundation, a new retrospective element into the court's
+deliberations, requiring examination of what the [487
+U.S. 35] facts were concerning, among other things, the
+bargaining power of the parties and the presence or
+absence of overreaching at the time the contract was
+made. See ante, at 28, and n. 7, 29.
+The Court largely attempts to avoid acknowledging the
+novel scope it gives to § 1404(a) by casting the issue as
+how much weight a district court should give a forumselection
+clause as against other factors when it makes
+its determination under § 1404(a). I agree that if the
+weight-among-factors issue were before us, it would be
+governed by § 1404 (a). That is because, while the
+parties may decide who between them should bear any
+inconvenience, only a court can decide how much
+weight should be given under § 1404(a) to the factor of
+the parties' convenience as against other relevant factors
+such as the convenience of witnesses. But the Court's
+description of the issue begs the question: what law
+governs whether the forum-selection clause is a valid or
+invalid allocation of any inconvenience between the
+parties. If it is invalid, i. e., should be voided, between
+the parties, it cannot be entitled to any weight in the §
+1404(a) determination. Since under Alabama law the
+forum-selection clause should be voided, see Redwing
+Carriers, Inc. v. Foster, 382 So.2d 554, 556 (Ala. 1980),
+in this case the question of what weight should be given
+the forum-selection clause can be reached only if as a
+preliminary matter federal law controls the issue of the
+validity of the clause between the parties.*
+[487 U.S. 36] Second, § 1404(a) was enacted against the
+background that issues of contract, including a contract's
+validity, are nearly always governed by state law. It is
+simply contrary to the practice of our system that such
+an issue should be wrenched from state control in
+absence of a clear conflict with federal law or explicit
+statutory provision. It is particularly instructive in this
+regard to compare § 1404(a) with another provision,
+enacted by the same Congress a year earlier, that did
+pre-empt state contract law, and in precisely the same
+field of agreement regarding forum selection. Section 2
+of the Federal Arbitration Act, 9 U. S. C. § 2, provides:
+"A written provision in . . . a contract evidencing a transaction
+involving commerce to settle by arbitration a controversy
+thereafter arising out of such contract or transaction, or the refusal
+to perform the whole or any part thereof, or an agreement in
+writing to submit to arbitration an existing controversy arising out
+of such a contract, transaction, or refusal, shall be valid, irrevocable,
+and enforceable, save upon such grounds as exist at law or in equity
+for the revocation of any contract."
+We have said that an arbitration clause is a "kind of
+forum-selection clause," Scherk v. Alberto-Culver Co.,
+417 U.S. 506, 519 (1974), and the contrast between this
+explicit pre-emption [487 U.S. 37] of state contract law
+on the subject and § 1404(a) could not be more stark.
+Section 1404(a) is simply a venue provision that
+nowhere mentions contracts or agreements, much less
+that the validity of certain contracts or agreements will
+be matters of federal law. It is difficult to believe that
+state contract law was meant to be pre-empted by this
+provision that we have said "should be regarded as a
+federal judicial housekeeping measure," Van Dusen v.
+Barrack, 376 U.S. 612, 636-637 (1964), that we have said
+did not change "the relevant factors" which federal
+courts used to consider under the doctrine of forum non
+conveniens, Norwood v. Kirkpatrick, 349 U.S. 29, 32
+(1955), and that we have held can be applied
+retroactively because it is procedural, Ex parte Collett,
+337 U.S. 55, 71 (1949). It seems to me the generality of
+its language — "[f]or the convenience of parties and
+witnesses, in the interest of justice" — is plainly
+insufficient to work the great change in law asserted
+here.
+Third, it has been common ground in this Court since
+Erie, 304 U. S., at 74-77, that when a federal procedural
+statute or Rule of Procedure is not on point, substantial
+uniformity of predictable outcome between federal and
+state courts in adjudicating claims should be striven for.
+See also Klaxon Co. v. Stentor Electric Mfg. Co., 313
+U.S. 487, 496 (1941). This rests upon a perception of the
+constitutional and congressional plan underlying the
+creation of diversity and pendent jurisdiction in the
+lower federal courts, which should quite obviously be
+carried forward into our interpretation of ambiguous
+statutes relating to the exercise of that jurisdiction. We
+should assume, in other words, when it is fair to do so,
+that Congress is just as concerned as we have been to
+avoid significant differences between state and federal
+courts in adjudicating claims. Cf. Southland Corp. v.
+Keating, 465 U.S. 1, 15 (1984) (interpreting Federal
+Arbitration Act to apply to claims brought in state
+courts in order to discourage forum shopping). Thus, in
+deciding whether a federal procedural statute or Rule of
+Procedure encompasses a particular [487 U.S. 38] issue, a
+broad reading that would create significant
+disuniformity between state and federal courts should be
+avoided if the text permits. See, e. g., Walker v. Armco
+Steel Corp., 446 U.S. 740, 750-751 (1980); Cohen v.
+Beneficial Industrial Loan Corp., 337 U.S. 541, 556
+(1949); Palmer v. Hoffman, 318 U.S. 109, 117 (1943); cf.
+P. Bator, D. Meltzer, P. Mishkin, & D. Shapiro, Hart and
+Wechsler's The Federal Courts and the Federal System
+828 (3d ed. 1988) ("The Supreme Court has continued
+since Hanna to interpret the federal rules to avoid
+conflict with important state regulatory policies"). As I
+have shown, the interpretation given § 1404(a) by the
+Court today is neither the plain nor the more natural
+meaning; at best, § 1404(a) is ambiguous. I would
+therefore construe it to avoid the significant
+encouragement to forum shopping that will inevitably
+be provided by the interpretation the Court adopts
+today.
+II
+Since no federal statute or Rule of Procedure governs
+the validity of a forum-selection clause, the remaining
+issue is whether federal courts may fashion a judgemade
+rule to govern the question. If they may not, the
+Rules of Decision Act, 28 U. S. C. § 1652, mandates use
+of state law. See Erie, supra, at 72-73; Hanna v. Plumer,
+380 U.S. 460, 471-472 (1965) (if federal courts lack
+authority to fashion a rule, "state law must govern
+because there can be no other law"); DelCostello v.
+Teamsters, 462 U.S. 151, 174, n. 1 (1983) (O'CONNOR,
+J., dissenting) (Rules of Decision Act "simply requires
+application of state law unless federal law applies"); see
+also id., at 159, n. 13.
+In general, while interpreting and applying substantive
+law is the essence of the "judicial Power" created under
+Article III of the Constitution, that power does not
+encompass the making of substantive law. Cf. Erie,
+supra, at 78-79. Whatever the scope of the federal
+courts' authority to create federal common law in other
+areas, it is plain that the mere [487 U.S. 39] fact that
+petitioner company here brought an antitrust claim,
+ante, at 24, does not empower the federal courts to make
+common law on the question of the validity of the
+forum-selection clause. See Campbell v. Haverhill, 155
+U.S. 610, 616 (1895) (Rules of Decision Act "itself
+neither contains nor suggests . . . a distinction" between
+federal-question cases and diversity cases); DelCostello,
+supra, at 173, n. 1 (STEVENS, J., dissenting) (same); cf.
+Texas Industries, Inc. v. Radcliff Materials, Inc., 451 U.S.
+630 (1981). The federal courts do have authority,
+however, to make procedural rules that govern the
+practice before them. See 28 U. S. C. § 2071 (federal
+courts may make rules "for the conduct of their
+business"); Fed. Rule Civ. Proc. 83 (districts courts have
+authority to "regulate their practice"); see generally
+Sibbach v. Wilson & Co., 312 U.S. 1, 9-10 (1941).
+In deciding what is substantive and what is procedural
+for these purposes, we have adhered to a functional test
+based on the "twin aims of the Erie rule: discouragement
+of forum-shopping and avoidance of inequitable
+administration of the laws." Hanna, supra, at 468; see
+also ante, at 27, n. 6; Walker v. Armco Steel Corp.,
+supra, at 747. Moreover, although in reviewing the
+validity of a federal procedural statute or Rule of
+Procedure we inquire only whether Congress or the
+rulemakers have trespassed beyond the wide latitude
+given them to determine that a matter is procedural, see
+Burlington Northern R. Co. v. Woods, 480 U. S., at 5;
+Hanna, supra, at 471-474, in reviewing the lower courts'
+application of the twin-aims test we apply our own
+judgment as a matter of law.
+Under the twin-aims test, I believe state law controls the
+question of the validity of a forum-selection clause
+between the parties. The Eleventh Circuit's rule clearly
+encourages forum shopping. Venue is often a vitally
+important matter, as is shown by the frequency with
+which parties contractually provide for and litigate the
+issue. Suit might well not be pursued, or might not be as
+successful, in a significantly less [487 U.S. 40]
+convenient forum. Transfer to such a less desirable
+forum is, therefore, of sufficient import that plaintiffs
+will base their decisions on the likelihood of that
+eventuality when they are choosing whether to sue in
+state or federal court. With respect to forum-selection
+clauses, in a State with law unfavorable to validity,
+plaintiffs who seek to avoid the effect of a clause will be
+encouraged to sue in state court, and non-resident
+defendants will be encouraged to shop for more
+favorable law by removing to federal court. In the
+reverse situation — where a State has law favorable to
+enforcing such clauses — plaintiffs will be encouraged to
+sue in federal court. This significant encouragement to
+forum shopping is alone sufficient to warrant
+application of state law. Cf. Walker v. Armco Steel
+Corp., supra, at 753 (failure to meet one part of the
+twin-aims test suffices to warrant application of state
+law).
+I believe creating a judge-made rule fails the second part
+of the twin-aims test as well, producing inequitable
+administration of the laws. The best explanation of what
+constitutes inequitable administration of the laws is that
+found in Erie itself: allowing an unfair discrimination
+between noncitizens and citizens of the forum state. 304
+U. S., at 74-75; see also Hanna, 380 U. S., at 468, n. 9.
+Whether discrimination is unfair in this context largely
+turns on how important is the matter in question. See
+id., at 467-468, and n. 9. The decision of an important
+legal issue should not turn on the accident of diversity of
+citizenship, see, e. g., Walker, supra, at 753, or the
+presence of a federal question unrelated to that issue. It
+is difficult to imagine an issue of more importance,
+other than one that goes to the very merits of the
+lawsuit, than the validity of a contractual forumselection
+provision. Certainly, the Erie doctrine has
+previously been held to require the application of state
+law on subjects of similar or obviously lesser
+importance. See, e. g., Walker, supra (whether filing of
+complaint or service tolls statute of limitations);
+Bernhardt v. Polygraphic Co. of America, 350 U.S. 198,
+202-204 (1956) [487 U.S. 41] (arbitrability); Cohen v.
+Beneficial Industrial Loan Corp., 337 U. S., at 555-556
+(indemnity bond for litigation expenses). Nor can or
+should courts ignore that issues of contract validity are
+traditionally matters governed by state law.
+For the reasons stated, I respectfully dissent.

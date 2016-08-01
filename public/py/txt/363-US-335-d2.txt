@@ -1,0 +1,605 @@
+The problem in this case is of important concern to the
+effective administration of justice in the federal courts.
+At issue is the scope of 28 U. S. C. § 1404 (a), providing
+for the transfer of litigation from one Federal District
+Court to another. The main federal venue statutes
+necessarily deal with classes of cases, without regard to
+the occasional situation in which a normally appropriate
+venue may operate vexatiously. Section 1404 (a) was
+devised to avoid needless hardship and even miscarriage
+of justice by empowering district judges to recognize
+special circumstances calling for special relief. It
+provides that an action, although begun in a place falling
+within the normally applicable venue rubric may be sent
+by the District Court to go forward in another district
+much more appropriate when judged by the criteria of
+judicial justice.
+The terms of § 1404 (a) are as follows:
+"For the convenience of parties and witnesses, in the interest of
+justice, a district court may transfer any civil action to any other
+district or division where it might have been brought."
+The part of § 1404 (a) the meaning of which is at issue
+here is its last phrase, "any other district or division
+where it [the action] might have been brought." The
+significance of this phrase is this: even though a place be
+found to be an overwhelmingly more appropriate forum
+from the standpoint of "convenience" and "justice," the
+litigation may not be sent to go forward there unless it is
+a [363 U.S. 352] place where the action "might have been
+brought." Upon the scope to be given this phrase thus
+depends almost entirely the effectiveness of § 1404 (a) to
+insure an appropriate place of trial, when the action is
+begun in an oppressive forum.
+One would have to be singularly unmindful of the
+treachery and versatility of our language to deny that as
+a mere matter of English the words "where it might
+have been brought" may carry more than one meaning.
+For example, under Rule 3 of the Federal Rules of Civil
+Procedure, civil actions are "commenced" by filing a
+complaint with the court. As a matter of English there is
+no reason why "commenced" so used should not be
+thought to be synonymous with "brought" as used in §
+1404 (a), so that an action "might have been brought" in
+any district where a complaint might have been filed, or
+perhaps only in districts with jurisdiction over the
+subject matter of the litigation. As a matter of English
+alone, the phrase might just as well be thought to refer
+either to those places where the defendant "might have
+been" served with process, or to those places where the
+action "might have been brought" in light of the
+applicable venue provision, for those provisions speak
+generally of where actions "may be brought." Or the
+phrase may be thought as a matter of English alone to
+refer to those places where the action "might have been
+brought" in light of the applicable statute of limitations,
+or other provisions preventing a court from reaching
+the merits of the litigation. On the face of its words
+alone, the phrase may refer to any one of these
+considerations, i. e., venue, amenability to service, or
+period of limitations, to all of them or to none of them,
+or to others as well.1 And to [363 U.S. 353] the extent
+that these are matters which may or may not be raised at
+the defendant's election, the English of the phrase surely
+does not tell whether the defendant's actual or potential
+waiver or failure to raise such objections is to be taken
+into account in determining whether a district is one in
+which the action "might have been brought," or whether
+the phrase refers only to those districts where the
+plaintiff "might have brought" the action even over a
+timely objection on the part of the defendant, that is,
+where he had "a right" to bring it.
+The particular problem in the present case has been a
+relatively commonplace one in the application of § 1404
+(a), and it demonstrates the failure of the words of the
+section, considered merely as words, to define with
+precision those places where an action "might have been
+brought." The problem here is this. Action was brought
+by plaintiff in district A, a proper venue under the
+applicable venue statute. Defendant objected and moved
+for transfer to district B, submitting that in the interests
+of "convenience" and "justice" to all concerned the
+action should go forward there instead of in district A.
+District B, however, is one in which, had the complaint
+been [363 U.S. 354] filed there, the plaintiff would have
+been unable without the defendant's consent to serve
+him with process. In addition, the defendant in District
+B, had the complaint been filed there, would have had
+an objection to the venue, under the applicable venue
+statute. In moving for transfer to B, the defendant
+stipulates to waiving all objections to venue there and to
+submitting his person to the jurisdiction of District
+Court B, should transfer be ordered. The District Court
+in A agrees that B, not A, is the appropriate place for
+trial and is disposed to transfer the action there, for in
+light of the defendant's stipulation there is no way in
+which the plaintiff can be prejudiced by the lack of
+venue in B or the impossibility, as an original matter, of
+serving defendant there. Is B a place where the action
+"might have been brought" so that the transfer can be
+effected? The Court finds it "plain," from the words of
+the phrase themselves, that B is not such a place, and
+that, for it, is the end of the matter.
+We would all agree that B would be a place where the
+action "might have been brought" if it were a place of
+statutory venue, if the defendant had always been
+amenable to process there, and if B had no other special
+characteristics whereby the defendant could prevent
+consideration there of the merits of the cause of action.
+Almost every statute has a core of indisputable
+application, and this statute plainly applies to permit
+transfer to a place where there could never have been
+any objection to the maintenance of the action. But is it
+clear, as the Court would have it, that, as a mere matter
+of English, because potential objections peculiar to the
+forum would have been present in B, it is not to be
+deemed a place where the action "might have been
+brought," although defendant not only might but is
+prepared to waive, as he effectively may, such
+objections?
+[363 U.S. 355] I submit that it is not clear from the words
+themselves, and the experience in the lower courts gives
+compelling proof of it. At least 28 District Courts,
+located in all parts of the Nation, have had to give
+concrete meaning to the set of words in controversy.
+These are the judges who are, to use a familiar but
+appropriate phrase, on the firing line, who are in much
+more intimate, continuous touch with the needs for the
+effective functioning of the federal judicial system at the
+trial level than is this Court. They have not found the
+last phrase of § 1404 (a) unambiguous. There has been
+anything but the substantial uniformity of views to be
+expected in the application of a clear and unambiguous
+direction. There have been severe differences with
+regard to whether § 1404 (a) is ever available as a
+remedy to a plaintiff forced into an inconvenient forum,
+and if so under what conditions.2 With regard to
+defendants' motions to transfer, it has been held that
+"brought" in § 1404 (a) is synonymous with
+"commenced" in Rule 3 so that transfer may be made to
+virtually any district dictated by "convenience" and
+"justice."3 It has been held that the phrase is to be
+applied as if it read "where it might have been brought
+now, " thus giving full effect to a waiver of objections by
+defendant [363 U.S. 356] in moving for transfer.4 It has
+been said, on the other hand, that "[s]ection 1404 (a) . . .
+contemplates statutory venue and not consent venue."5
+With regard to the particular problem in this case,
+which has arisen most often, a majority of the District
+Courts which have considered the problem have ruled
+against the Court's "plain" meaning of the statute. At
+least seven District Courts have ruled that, because of
+the defendant's consent to have the action go forward
+there, a district is one where the action "might have
+been brought," even though it is a place where the
+defendant might either have objected to the venue, or
+avoided process, or both had the action been brought
+there originally.6 At least three District Courts have held
+or implied to the contrary, that the defendant's consent
+is not relevant, and that such a district cannot be one
+where the action "might have been brought."7 Two
+others have simply denied motions by the defendant on
+the ground that the transferee court was not one where
+the action "might have been brought," without
+discussing whether [363 U.S. 357] in moving for transfer
+the defendant had consented to go forward in the
+transferee court, or what the effect of that consent
+would be.8 Two District Courts have granted the
+defendants' motion to transfer, making the matter turn
+on the presence of a number of defendants and the fact
+that some of them were suable as of right in the
+transferee court.9 Two others have found the
+amenability of the defendant to service of process in the
+place to which transfer is proposed to be wholly
+irrelevant to whether the action "might have been
+brought" there, and have ordered transfer to such a
+place on the plaintiff's motion even though the
+defendant did not consent.10 It simply cannot be said in
+the face of this experience that the words of the statute
+are so compellingly precise, so unambiguous, that §
+1404 (a) as a matter of "plain words" does not apply in
+the present case.
+The experience in the Courts of Appeals is also
+revealing. Of the six cases where defendants have moved
+for transfer, in only two has it been held that the
+defendant's consent to the transfer is not relevant in
+determining whether the place to which transfer is
+proposed is a place where the action "might have been
+brought," and these are the two decisions of the Seventh
+Circuit now before us. Blaski v. Hoffman, 260 F.2d 317
+(C. A. 7th Cir. 1958); Behimer v. Sullivan, 261 F.2d 467
+(C. A. 7th Cir. 1958). [363 U.S. 358] The Third Circuit
+has ruled in favor of transfer on the defendant's motion
+to a place where the defendant might have objected to
+the venue, Paramount Pictures v. Rodney, 186 F.2d 111
+(C. A. 3d Cir. 1951). The First and Second Circuits have
+ruled in favor of transfer on defendant's motion to a
+place where the defendant could not have been served
+with process, Torres v. Walsh, 221 F.2d 319 (C. A. 2d
+Cir. 1955); In re Josephson, 218 F.2d 174 (C. A. 1st Cir.
+1954). And the Second and Fifth Circuits have ruled in
+favor of transfer on defendant's motion to a place where
+there was neither statutory venue nor a chance to serve
+the defendant, Anthony v. Kaufman, 193 F.2d 85 (C. A.
+2d Cir. 1951); Ex parte Blaski, 245 F.2d 737 (C. A. 5th
+Cir. 1957). All these courts have considered the meaning
+of the phrase in detail and have held that the place to
+which transfer was proposed was a place where the
+action "might have been brought." Thus the Court's
+view of the meaning of § 1404 (a) is contrary to the
+rulings of every Court of Appeals but one which has
+considered the problem, and is contrary to the view of
+more than half the District Courts as well. Yet the Court
+maintains that the statute unambiguously means what
+its says it does.
+Surely, the Court creates its own verbal prison in
+holding that "the plain words" of § 1404 (a) dictate that
+transfer may not be made in this case although transfer
+concededly was in the interest of "convenience" and
+"justice." Moreover, the Court, while finding the
+statutory words "plain," decides the case by applying, not
+the statutory language, but a formula of words found
+nowhere in the statute, namely, whether plaintiffs had
+"a right to bring these actions in the respective
+transferee districts." This is the Court's language, not
+that of Congress. Although it is of course a
+grammatically plausible interpretation of the phrase
+"where it might have been brought," it has been, I
+submit, established that it is not [363 U.S. 359] by any
+means the only plausible interpretation. In fact, the
+Court's rephrasing, as distinguished from Congress'
+phrasing, gives the narrowest possible scope to the
+operation of § 1404 (a). There can be expected to be
+very few, if any, alternative forums in a given case
+where the plaintiff has a "right" to sue, considering that
+that means places of unobjectionable venue where the
+defendant is amenable to service of process and where
+there are no other impediments such as a statute of
+limitations which the defendant can rely on to defeat the
+action.
+This case, then, cannot be decided, and is not decided,
+by the short way of a mechanical application of
+Congress' words to the situation. Indeed, it would be
+extraordinary if a case which could be so decided were
+deemed worthy of this Court's attention twelve years
+after the applicable statute was enacted. To conclude, as
+the Court does, that the transferee court is inexorably
+designated by the inherent force of the words "where it
+might have been brought" is to state a conclusion that
+conceals the process by which the meaning is, as a
+matter of choice, extracted from the words.
+The problem in this case is one of resolving an
+ambiguity by all the considerations relevant to resolving
+an ambiguity concerning the conduct of litigation, and
+more particularly the considerations that are relevant to
+resolving an ambiguous direction for the fair conduct of
+litigation in the federal judicial system. At the crux of
+the business, as I see it, is the realization that we are
+concerned here not with a question of a limitation upon
+the power of a federal court but with the place in which
+that court may exercise its power. We are dealing, that
+is, not with the jurisdiction of the federal courts, which
+is beyond the power of litigants to confer, but with the
+locality of a lawsuit, the rules regulating which are
+designed mainly for the convenience of the litigants.
+"[T]he locality of a law suit—the place where judicial
+authority may be [363 U.S. 360] exercised—though
+defined by legislation relates to the convenience of
+litigants and as such is subject to their disposition. . . . [A
+venue statute] `merely accords to the defendant a
+personal privilege respecting the venue, or place of suit,
+which he may assert, or may waive, at his election.'
+Commercial Ins. Co. v. Stone Co., 278 U.S. 177, 179."
+Neirbo Co. v. Bethlehem Shipbuilding Corp., 308 U.S.
+165, 168. And in that case the Court was merely
+reiterating considerations already forcefully set out in
+General Investment Co. v. Lake Shore R. Co., 260 U.S.
+261, and Lee v. Chesapeake & Ohio R. Co., 260 U.S. 653.
+This basic difference "between the court's power and the
+litigant's convenience is historic in the federal courts."
+308 U. S., at 168.
+Applying these considerations to a problem under a
+different statute but relevant to the present one, namely,
+whether removal from a state court to a federal court
+might be had upon the motion of the defendant when
+the federal court was one where the venue would have
+been subject to objection, had the action originally been
+brought there, this Court, speaking unanimously
+through Mr. Justice Van Devanter, discriminatingly
+reminded that "[i]t therefore cannot be affirmed broadly
+that this suit could not have been brought . . . [in the
+federal court] but only that it could not have been
+brought and maintained in that court over a seasonable
+objection by the company to being sued there." This
+analysis has striking application to the present problem
+under § 1404 (a), and it is also relevant here that the
+Court sanctioned removal in that case to a federal court
+with no statutory venue, partly because "there could be
+no purpose in extending to removals the personal
+privilege accorded to defendants by [the venue statutes]
+. . . since removals are had only at the instance of
+defendants." General Investment Co. v. Lake Shore R.
+Co., 260 U.S. 261, 273, 275. See also, to the same effect,
+Lee v. Chesapeake & Ohio R. Co., 260 U.S. 653, [363
+U.S. 361] overruling Ex parte Wisner, 203 U.S. 449, and
+qualifying In re Moore, 209 U.S. 490. The rule that
+statutory venue rules governing the place of trial do not
+affect the power of a federal court to entertain an action,
+or of the plaintiff to bring it, but only afford the
+defendant a privilege to object to the place chosen, is
+now enacted as part of the Judicial Code. 28 U. S. C. §
+1406 (b). And of course it needs no discussion that a
+defendant is always free voluntarily to submit his person
+to the jurisdiction of a federal court.
+In light of the nature of rules governing the place of trial
+in the federal system, as thus expounded and codified, as
+distinguished from limitation upon the power of the
+federal courts to adjudicate, what are the competing
+considerations here? The transferee court in this case
+plainly had and has jurisdiction to adjudicate this action
+with the defendant's acquiescence. As the defendant,
+whose privilege it is to object to the place of trial, has
+moved for transfer, and has acquiesced to going forward
+with the litigation in the transferee court, it would
+appear presumptively, unless there are strong
+considerations otherwise, that there is no impediment
+to effecting the transfer so long as "convenience" and
+"justice" dictate that it be made. It does not counsel
+otherwise that here the plaintiff is to be sent to a venue
+to which he objects, whereas ordinarily, when the
+defendant waives his privilege to object to the place of
+trial, it is to acquiesce in the plaintiff's choice of forum.
+This would be a powerful argument if, under § 1404 (a),
+a transfer were to be made whenever requested by the
+defendant. Such is not the case, and this bears emphasis.
+A transfer can be made under § 1404 (a) to a place
+where the action "might have been brought" only when
+"convenience" and "justice" so dictate, not whenever the
+defendant so moves. A legitimate objection by the
+plaintiff to proceeding in the transferee forum will
+presumably be reflected in a decision that [363 U.S. 362]
+the interest of justice does not require the transfer, and
+so it becomes irrelevant that the proposed place of
+transfer is deemed one where the action "might have
+been brought." If the plaintiff's objection to proceedings
+in the transferee court is not consonant with the
+interests of justice, a good reason is wanting why the
+transfer should not be made.
+On the other hand, the Court's view restricts transfer,
+when concededly warranted in the interest of justice, to
+protect no legitimate interest on the part of the plaintiff.
+And by making transfer turn on whether the defendant
+could have been served with process in the transferee
+district on the day the action was brought, the Court's
+view may create difficult problems in ascertaining that
+fact, especially in the case of non-corporate defendants.
+These are problems which have no conceivable relation
+to the proper administration of a provision meant to
+assure the most convenient and just place for trial.
+Nor is it necessary to reach the Court's result in order to
+preserve an appropriate meaning for the phrase "where
+it might have been brought." I fully agree that the final
+words of § 1404 (a) are words of limitation upon the
+scope of the provision. But to hold as I would that a
+district is one where the action "might have been
+brought" when the defendant consents to going forward
+with the litigation there, does not remove the quality of
+those words as a limitation. The words compel the
+defendant in effect to waive any objections to going
+forward in the transferee district which he might have
+had if the action had been brought there, in order to
+obtain a transfer. The words therefore insure that
+transfer will not be a device for doing the plaintiff out of
+any forum in which to proceed, no matter how
+inconvenient. The words in any case, plainly limit the
+plaintiff's right to seek a transfer when the defendant
+does not consent to the change of venue. Moreover, the
+words may serve to prevent transfer to [363 U.S. 363]
+courts with a lack of federal power to adjudicate the
+matter of the dispute which the defendant cannot confer
+with his consent.11 In light of the fact that the venue
+statutes in Title 28, U. S. C., are phrased in terms of
+where the action "may be brought," or in some cases
+where it "shall" or "must" be brought,12 the most
+obvious limiting significance of the phrase "where it
+might have been brought" is that it refers to places
+where, under the venue provisions, the action, "may,"
+"shall," or "must" be brought assuming the existence of
+federal jurisdiction.13 In the meaning of federal venue
+provisions as expounded by this Court, and by Congress
+in § 1406 (b), these, as has been said, are not only places
+where, under the applicable provision, no objection to
+the venue is available to the defendant. They are also
+places where the defendant consents to be sued.
+The relevant legislative history of § 1404 (a) is found in
+the statement in the Reviser's Notes, accompanying the
+1948 Judicial Code, that § 1404 (a) "was drafted in
+accordance with the doctrine of forum non
+conveniens."14 Under that doctrine, the remedy for an
+inconvenient [363 U.S. 364] forum was not to transfer
+the action, but to dismiss it. In Gulf Oil Corp. v. Gilbert,
+330 U.S. 501, 506-507, we held that "[i]n all cases in
+which the doctrine of forum non conveniens comes into
+play, it presupposes at least two forums in which the
+defendant is amenable to process; the doctrine furnishes
+criteria for choice between them." It is entirely "in
+accordance" with this view of the doctrine of forum non
+conveniens to hold that transfer may be made at the
+instance of the defendant, regardless of the plaintiff's
+right as an original matter to sue him in the transferee
+court, so long as the defendant stipulates to going
+forward with the litigation there. Indeed, to hold
+otherwise as the Court does is to limit § 1404 (a) to a
+much narrower operation than the nonstatutory
+doctrine of forum non conveniens. Investigation has
+disclosed several forum non conveniens cases, one of
+them in this Court, where dismissal of the action on the
+defendant's motion was made upon the condition of the
+defendant's voluntary submission to the jurisdiction of
+another more convenient forum when that forum was
+not available to the plaintiff as of right over the
+defendant's objection. See Canada Malting Co. v.
+Paterson Steamships, Ltd., 49 F.2d 802, 804, affirmed,
+285 U.S. 413, 424; Giatilis v. The Darnie, 171 F.Supp.
+751, 754; Bulkley, Dunton Paper Co. v. The Rio Salado,
+67 F.Supp. 115, 116; Libby, McNeill & Libby v. Bristol
+City Line of Steamships, 41 F.Supp. 386, 389; The City
+of Agra, 35 F.Supp. 351; Strassburger v. Singer Mfg.
+Co., 263 App. Div. 518, 33 N. Y. Supp. 2d 424; Wendel
+v. Hoffman, 258 App. Div. 1084, 18 N. Y. Supp. 2d 96.
+See also Cerro de Pasco Copper Corp. v. Knut Knutsen,
+187 F.2d 990, and Swift & Co. v. Compania Caribe, 339
+U.S. 684, 697-698: "it was improper under the
+circumstances here shown to remit a United States
+citizen to the courts of a foreign country without
+assuring the citizen that respondents would appear in
+those courts and that security would be given [363 U.S.
+365] equal to what had been obtained by attachment in
+the District Court. The power of the District Court to
+give a libellant such assurance is shown by Canada
+Malting Co. v. Paterson Steamships, Ltd., 285 U.S. 413,
+424 [supra]." In view of the familiarity of this device of
+dismissing for forum non conveniens when as of right
+no other forum was available to plaintiff, upon the
+defendant's agreement to appear in the more convenient
+forum, it is almost necessary to suppose, in light of the
+Reviser's description of § 1404 (a) as "in accordance
+with the doctrine of forum non conveniens," that
+transfer under § 1404 (a) may likewise be made where
+the defendant consents to going forward with the case
+in the transferee court.
+The only consideration of the Court not resting on the
+"plain meaning" of § 1404 (a) is that it would constitute
+"gross discrimination" to permit transfer to be made
+with the defendant's consent and over the plaintiff's
+objection to a district to which the plaintiff could not
+similarly obtain transfer over the defendant's objection.
+To speak of such a situation as regards this statute as
+"discrimination" is a sterile use of the concept. Mutuality
+is not an empty or abstract doctrine; it summarizes the
+reality of fair dealing between litigants. Transfer cannot
+be made under this statute unless it is found to be in the
+interest of "convenience" and in the interest of "justice."
+Whether a party is in any sense being "discriminated"
+against through a transfer is certainly relevant to
+whether the interest of justice is being served. If the
+interest of justice is being served, as it must be for a
+transfer to be made, how can it be said that there is
+"discrimination" in any meaningful sense? Moreover,
+the transfer provision cannot be viewed in isolation in
+finding "discrimination." It, after all, operates to temper
+only to a slight degree the enormous "discrimination"
+inherent in our system of litigation, whereby the sole
+choice of forum, from among those where service is
+possible and venue unobjectionable, [363 U.S. 366] is
+placed with the plaintiff. The plaintiff may choose from
+among these forums at will; under § 1404 (a) the
+defendant must satisfy a very substantial burden of
+demonstrating where "justice" and "convenience" lie, in
+order to have his objection to a forum of hardship, in
+the particular situation, respected.
+In summary, then, the "plain meaning" of § 1404 (a)
+does not conclude the present case against the transfer,
+for the statute, as applied in this case, is not "plain" in
+meaning one way or another, but contains ambiguities
+which must be resolved by considerations relevant to
+the problem with which the statute deals. Moreover, the
+most obvious significance for the set of words here in
+question, considered as self-contained words, is that
+they have regard for the limitations contained in the
+regular statutory rules of venue. Those rules, it is
+beyond dispute, take into account the consent of the
+defendant to proceed in the forum, even if it is not a
+forum designated by statute. And the doctrine of forum
+non conveniens "in accordance with" which § 1404 (a)
+was drafted, also took into account the defendant's
+consent to proceed in another forum to which he was
+not obligated to submit. Nor can a decision against
+transfer be rested upon notions of "discrimination" or of
+unfairness to the plaintiff in wrenching him out of the
+forum of his choice to go forward in a place to which he
+objects. In the proper administration of § 1404 (a), such
+consequences cannot survive the necessity to find
+transfer to be in the interests of "convenience" and
+"justice," before it can be made. On the other hand, to
+restrict transfer as the Court does to those very few
+places where the defendant was originally amenable to
+process and could have had no objection to the venue is
+drastically to restrict the number of situations in which
+§ 1404 (a) may serve the interests of justice by relieving
+the parties from a vexatious forum. And it is to restrict
+the operation of the section capriciously, for [363 U.S.
+367] such a drastic limitation is not counseled by any
+legitimate interest of the plaintiff, or by any interest of
+the federal courts in their jurisdiction. The defendant's
+interest of course is not involved because he is the
+movant for transfer.
+The essence of this case is to give fair scope to the role
+of § 1404 (a) in our system of venue regulations, that is,
+a system whereby litigation may be brought in only a
+limited number of federal districts, which are chosen
+generally upon the basis of presumed convenience. Two
+extremes are possible in the administration of such a
+system, duly mindful of the fact that in our
+jurisprudence venue does not touch the power of the
+court. (1) All venue may be determined solely by rigid
+rules, which the defendant may invoke and which work
+for convenience in the generality of cases. In such an
+extreme situation there would be no means of
+responding to the special circumstances of particular
+cases when the rigid venue rules are inappropriate. (2)
+At the other extreme there may be no rigid venue
+provisions, but all venue may be determined, upon the
+defendant's objection to the plaintiff's choice of forum,
+by a finding of fact in each case of what is the most
+convenient forum from the point of view of the parties
+and the court. The element of undesirability in the
+second extreme is that it involves too much preliminary
+litigation; it is desirable in that it makes venue
+responsive to actual convenience. The first extreme is
+undesirable for according too little, in fact nothing, to
+actual convenience when the case is a special one; it is
+desirable in that it does away with preliminary litigation.
+If anything is plain, from its history and from its words,
+it is that § 1404 (a) means to afford a balance, a
+compromise, between these two extremes. It is in this
+spirit that its provisions must be read. In the ordinary
+course the regular venue rules are to prevail, with no
+preliminary litigation to determine the actual
+convenience. But the [363 U.S. 368] statute means to
+allow for cases where the ordinary rules are found to
+work a great hardship; there, actual convenience is to
+prevail. We should therefore not, as the Court has done,
+impose limitations upon the operation of § 1404 (a)
+which have no relation to ordinary considerations
+governing the place of trial in the federal system and
+which arbitrarily prevent actual convenience from
+determining the place of trial. The limitations upon the
+section should only be those which recognize legitimate
+countervailing considerations to the free reign of actual
+convenience, namely limitations regarding the power of
+the federal courts to adjudicate, and limitation
+recognizing the historic privilege of the defendant,
+should he choose to exercise it, to object to the place of
+trial unless it is affirmatively designated by the venue
+statute.
+It may be urged in answer to this analysis that if transfer
+is available as a matter of "convenience" and "justice" in
+every case in which the defendant consents to going
+forward in the transferee court, § 1404 (a) will entail
+burdensome preliminary litigation and may, if
+improperly administered, prove vexatious to plaintiffs.
+Thus, even arbitrary limitations, such as the Court
+imposes, may be said to be warranted. In effect this
+argument against transfer in situations like the present
+implies distrust in the ability and character of district
+judges to hold the balance even, that is, to dispose
+quickly of frivolous contentions and to prevent transfer
+from proving unduly prejudicial to plaintiffs while
+according it its proper scope to deal with cases of real
+inconvenience. "Such apprehension implies a lack of
+discipline and of disinterestedness on the part of the
+lower courts, hardly a worthy or wise basis for
+fashioning rules of procedure. It reflects an attitude
+against which we were warned by Mr. Justice Holmes,
+speaking for the whole Court, likewise in regard to a
+question of procedure: `Universal distrust creates
+universal incompetence.' [363 U.S. 369] Graham v.
+United States, 231 U.S. 474, 480." Kerotest Mfg. Co. v.
+C-O-Two Co., 342 U.S. 180, 185. As in that case, doubts
+here should be resolved in favor of the competence of
+the District Courts wisely to administer § 1404 (a).
+Whatever salutary effect that section is to have must in
+any event depend upon due appreciation by district
+judges of the relevant considerations involved in
+ordering a transfer. Nothing is to be gained by parceling
+out the areas of their discretion mechanically, making
+distinctions which have no relevance to the manner in
+which venue provisions are ordinarily administered in
+the federal courts. I would therefore permit
+considerations of "convenience" and "justice" to be
+operative whenever the defendant consents to going
+forward in the transferee court on the same terms on
+which he was sued in the original forum. Against a rare
+abuse, there will always be available the corrective
+supervisory power of the Courts of Appeals, and
+ultimately of this Court.

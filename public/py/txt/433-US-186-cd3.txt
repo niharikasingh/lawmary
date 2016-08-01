@@ -1,0 +1,276 @@
+I join Parts I-III of the Court's opinion. I fully agree that
+the minimum-contacts analysis developed in
+International Shoe Co. v. Washington, 326 U.S. 310
+(1945), represents a far more sensible construct for the
+exercise of state-court jurisdiction than the patchwork
+of legal and factual fictions that has been generated from
+the decision in Pennoyer v. Neff, 95 U.S. 714 (1878). It is
+precisely because [433 U.S. 220] the inquiry into
+minimum contacts is now of such overriding
+importance, however, that I must respectfully dissent
+from Part IV of the Court's opinion.
+I
+The primary teaching of Parts I-III of today's decision is
+that a State, in seeking to assert jurisdiction over a
+person located outside its borders, may only do so on
+the basis of minimum contacts among the parties, the
+contested transaction, and the forum State. The
+Delaware Supreme Court could not have made plainer,
+however, that its sequestration statute, Del. Code Ann.,
+Tit. 10, § 366 (1975), does not operate on this basis, but
+instead is strictly an embodiment of quasi in rem
+jurisdiction, a jurisdictional predicate no longer
+constitutionally viable:
+"[J]urisdiction under § 366 remains . . . quasi in rem founded on the
+presence of capital stock here, not on prior contact by defendants
+with this forum." Greyhound Corp. v. Heitner, 361 A.2d 225, 229
+(1976).
+This state-court ruling obviously comports with the
+understanding of the parties, for the issue of the
+existence of minimum contacts was never pleaded by
+appellee, made the subject of discovery, or ruled upon by
+the Delaware courts. These facts notwithstanding, the
+Court in Part IV reaches the minimum-contacts
+question and finds such contacts lacking as applied to
+appellants. Succinctly stated, once having properly and
+persuasively decided that the quasi in rem statute that
+Delaware admits to having enacted is invalid, the Court
+then proceeds to find that a minimum-contacts law that
+Delaware expressly denies having enacted also could not
+be constitutionally applied in this case.
+In my view, a purer example of an advisory opinion is
+not to be found. True, appellants do not deny having
+received actual notice of the action in question. Ante, at
+213 n. 40. [433 U.S. 221] However, notice is but one
+ingredient of a proper assertion of state-court
+jurisdiction. The other is a statute authorizing the
+exercise of the State's judicial power along
+constitutionally permissible grounds—which henceforth
+means minimum contacts. As of today, § 366 is not such
+a law.1 Recognizing that today's decision fundamentally
+alters the relevant jurisdictional ground rules, I certainly
+would not want to rule out the possibility that
+Delaware's courts might decide that the legislature's
+overriding purpose of securing the personal appearance
+in state courts of defendants would best be served by
+reinterpreting its statute to permit state jurisdiction on
+the basis of constitutionally permissible contacts rather
+than stock ownership. Were the state courts to take this
+step, it would then become necessary to address the
+question of whether minimum contacts exist here. But
+in the present posture of this case, the Court's decision
+of this important issue is purely an abstract ruling.
+My concern with the inappropriateness of the Court's
+action is highlighted by two other considerations. First,
+an inquiry into minimum contacts inevitably is highly
+dependent on creating a proper factual foundation
+detailing the contacts between the forum State and the
+controversy in question. Because neither the plaintiffappellee
+nor the state courts viewed such an inquiry as
+germane in this instance, the Court today is unable to
+draw upon a proper factual record in reaching its
+conclusion; moreover, its disposition denies appellee the
+normal opportunity to seek discovery on the contacts
+issue. Second, it must be remembered that the Court's
+ruling is a constitutional one and necessarily [433 U.S.
+222] will affect the reach of the jurisdictional laws of all
+50 States. Ordinarily this would counsel restraint in
+constitutional pronouncements. Ashwander v. TVA,
+297 U.S. 288, 345-348 (1936) (Brandeis, J., concurring).
+Certainly it should have cautioned the Court against
+reaching out to decide a question that, as here, has yet to
+emerge from the state courts ripened for review on the
+federal issue.
+II
+Nonetheless, because the Court rules on the minimumcontacts
+question, I feel impelled to express my view.
+While evidence derived through discovery might satisfy
+me that minimum contacts are lacking in a given case, I
+am convinced that as a general rule a state forum has
+jurisdiction to adjudicate a shareholder derivative action
+centering on the conduct and policies of the directors
+and officers of a corporation chartered by that State.
+Unlike the Court, I therefore would not foreclose
+Delaware from asserting jurisdiction over appellants
+were it persuaded to do so on the basis of minimum
+contacts.
+It is well settled that a derivative lawsuit as presented
+here does not inure primarily to the benefit of the
+named plaintiff. Rather, the primary beneficiaries are
+the corporation and its owners, the shareholders. "The
+cause of action which such a plaintiff brings before the
+court is not his own but the corporation's. . . . Such a
+plaintiff often may represent an important public and
+stockholder interest in bringing faithless managers to
+book." Koster v. Lumbermens Mutual Casualty Co., 330
+U.S. 518, 522, 524 (1947).
+Viewed in this light, the chartering State has an
+unusually powerful interest in insuring the availability
+of a convenient forum for litigating claims involving a
+possible multiplicity of defendant fiduciaries and for
+vindicating the State's substantive policies regarding the
+management of its domestic corporations. I believe that
+our cases fairly establish that [433 U.S. 223] the State's
+valid substantive interests are important considerations
+in assessing whether it constitutionally may claim
+jurisdiction over a given cause of action.
+In this instance, Delaware can point to at least three
+interrelated public policies that are furthered by its
+assertion of jurisdiction. First, the State has a substantial
+interest in providing restitution for its local
+corporations that allegedly have been victimized by
+fiduciary misconduct, even if the managerial decisions
+occurred outside the State. The importance of this
+general state interest in assuring restitution for its own
+residents previously found expression in cases that went
+outside the then-prevailing due process framework to
+authorize state-court jurisdiction over nonresident
+motorists who injure others within the State. Hess v.
+Pawloski, 274 U.S. 352 (1927); see Olberding v. Illinois
+Central R. Co., 346 U.S. 338, 341 (1953). More recently,
+it has led States to seek and to acquire jurisdiction over
+nonresident tortfeasors whose purely out-of-state
+activities produce domestic consequences. E. g., Gray v.
+American Radiator & Standard Sanitary Corp., 22 Ill.2d
+432, 176 N.E.2d 761 (1961). Second, state courts have
+legitimately read their jurisdiction expansively when a
+cause of action centers in an area in which the forum
+State possesses a manifest regulatory interest. E. g.,
+McGee v. International Life Ins. Co., 355 U.S. 220
+(1957) (insurance regulation); Travelers Health Assn. v.
+Virginia, 339 U.S. 643 (1950) (blue sky laws). Only this
+Term we reiterated that the conduct of corporate
+fiduciaries is just such a matter in which the policies and
+interests of the domestic forum are ordinarily presumed
+to be paramount. Santa Fe Industries, Inc. v. Green, 430
+U.S. 462, 478-480 (1977); see Cort v. Ash, 422 U.S. 66,
+84-85 (1975). Finally, a State like Delaware has a
+recognized interest in affording a convenient forum for
+supervising and overseeing the affairs of an entity that is
+purely the creation of that State's law. For example, even
+following our decision in [433 U.S. 224] International
+Shoe, New York courts were permitted to exercise
+complete judicial authority over nonresident
+beneficiaries of a trust created under state law, even
+though, unlike appellants here, the beneficiaries
+personally entered into no association whatsoever with
+New York. Mullane v. Central Hanover Bank & Trust
+Co., 339 U.S. 306, 313 (1950);2 cf. Hartford Life Ins. Co.
+v. Ibs, 237 U.S. 662, 671 (1915) (litigation concerning
+management of mortuary fund operated by locally
+chartered corporation rests in court of that State);
+Bernheimer v. Converse, 206 U.S. 516, 533 (1907) (state
+courts can oversee liquidation of state-chartered
+corporation). I, of course, am not suggesting that
+Delaware's varied interests would justify its acceptance
+of jurisdiction over any transaction touching upon the
+affairs of its domestic corporations. But a derivative
+action which raises allegations of abuses of the basic
+management of an institution whose existence is created
+by the State and whose powers and duties are defined by
+state law fundamentally implicates the public policies of
+that forum.
+To be sure, the Court is not blind to these
+considerations. It notes that the State's interests "may
+support the application of Delaware law to resolve any
+controversy over appellants' actions in their capacities as
+officers and directors." Ante, at 215. But this, the Court
+argues, pertains to choice of law, not jurisdiction. I
+recognize that the jurisdictional and choice-of-law
+inquiries are not identical. Hanson v. Denckla, 357 U.S.
+235, 254 (1958). But I would not compartmentalize
+thinking in this area quite so rigidly as it seems to me
+the Court does today, for both inquiries "are [433 U.S.
+225] often closely related and to a substantial degree
+depend upon similar considerations." Id., at 258 (Black,
+J., dissenting). In either case an important linchpin is the
+extent of contacts between the controversy, the parties,
+and the forum State. While constitutional limitations on
+the choice of law are by no means settled, see, e. g.,
+Home Ins. Co. v. Dick, 281 U.S. 397 (1930), important
+considerations certainly include the expectancies of the
+parties and the fairness of governing the defendants' acts
+and behavior by rules of conduct created by a given
+jurisdiction. See, e. g., Restatement (Second) of Conflict
+of Laws § 6 (1971) (hereafter Restatement). These same
+factors bear upon the propriety of a State's exercising
+jurisdiction over a legal dispute. At the minimum, the
+decision that it is fair to bind a defendant by a State's
+laws and rules should prove to be highly relevant to the
+fairness of permitting that same State to accept
+jurisdiction for adjudicating the controversy.
+Furthermore, I believe that practical considerations
+argue in favor of seeking to bridge the distance between
+the choice-of-law and jurisdictional inquiries. Even
+when a court would apply the law of a different forum,3
+as a general rule it will feel less knowledgeable and
+comfortable in interpretation, and less interested in
+fostering the policies of that foreign jurisdiction, than
+would the courts established by the State that provides
+the applicable law. See, e. g., Gulf Oil Co. v. Gilbert, 330
+U.S. 501, 509 (1947); Restatement § 313, p. 347;
+Traynor, Is This Conflict Really Necessary?, 37 Texas L.
+Rev. 657, 664 (1959). Obviously, such choice-of-law
+problems cannot entirely be avoided in a diverse legal
+system such as our own. Nonetheless, when a suitor
+[433 U.S. 226] seeks to lodge a suit in a State with a
+substantial interest in seeing its own law applied to the
+transaction in question, we could wisely act to minimize
+conflicts, confusion, and uncertainty by adopting a
+liberal view of jurisdiction, unless considerations of
+fairness or efficiency strongly point in the opposite
+direction.
+This case is not one where, in my judgment, this
+preference for jurisdiction is adequately answered.
+Certainly nothing said by the Court persuades me that it
+would be unfair to subject appellants to suit in
+Delaware. The fact that the record does not reveal
+whether they "set foot" or committed "act[s] related to
+[the] cause of action" in Delaware, ante, at 213, is not
+decisive, for jurisdiction can be based strictly on out-ofstate
+acts having foreseeable effects in the forum State.
+E. g., McGee v. International Life Ins. Co., supra; Gray
+v. American Radiator & Standard Sanitary Corp., supra;
+Restatement § 37. I have little difficulty in applying this
+principle to nonresident fiduciaries whose alleged
+breaches of trust are said to have substantial damaging
+effect on the financial posture of a resident corporation.4
+Further, I cannot understand how the existence of
+minimum contacts in a constitutional sense is at all
+affected by Delaware's failure statutorily to express an
+interest in controlling corporate fiduciaries. Ante, at
+214. To me this simply demonstrates that Delaware [433
+U.S. 227] did not elect to assert jurisdiction to the extent
+the Constitution would allow.5 Nor would I view as
+controlling or even especially meaningful Delaware's
+failure to exact from appellants their consent to be sued.
+Ante, at 216. Once we have rejected the jurisdictional
+framework created in Pennoyer v. Neff, I see no reason
+to rest jurisdiction on a fictional outgrowth of that
+system such as the existence of a consent statute,
+expressed or implied.6
+I, therefore, would approach the minimum-contacts
+analysis differently than does the Court. Crucial to me is
+the fact that appellants7 voluntarily associated
+themselves with the [433 U.S. 228] State of Delaware,
+"invoking the benefits and protections of its laws,"
+Hanson v. Denckla, 357 U. S., at 253; International Shoe
+Co. v. Washington, 326 U. S., at 319, by entering into a
+long-term and fragile relationship with one of its
+domestic corporations. They thereby elected to assume
+powers and to undertake responsibilities wholly derived
+from that State's rules and regulations, and to become
+eligible for those benefits that Delaware law makes
+available to its corporations' officials. E. g., Del. Code
+Ann., Tit. 8, § 143 (1975) (interestfree loans); § 145
+(1975 ed. and Supp. 1976) (indemnification). While it is
+possible that countervailing issues of judicial efficiency
+and the like might clearly favor a different forum, they
+do not appear on the meager record before us;8 and, of
+course, we are concerned solely with "minimum"
+contacts, not the "best" contacts. I thus do not believe
+that it is unfair to insist that appellants make themselves
+available to suit in a competent forum that Delaware
+might create for vindication of its important public
+policies directly pertaining to appellants' fiduciary
+associations with the State.

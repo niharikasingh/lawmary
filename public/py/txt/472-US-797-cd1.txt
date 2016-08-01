@@ -1,0 +1,510 @@
+For the reasons stated in Parts I and II of the Court's
+opinion, I agree that the Kansas courts properly
+exercised jurisdiction over this class action. I also
+recognize that the use of the word "compelling" in a
+portion of the Kansas Supreme Court's opinion, when
+read out of context, may create an inaccurate impression
+of that court's choice-of-law holding. See ante, at 821.
+Our job, however, is to review judgments, not to edit
+opinions, and I am firmly convinced that there is no
+constitutional defect in the judgment under review.
+As the Court recognizes, there "can be no
+[constitutional] injury in applying Kansas law if it is not
+in conflict with that [472 U.S. 824] of any other
+jurisdiction connected to this suit." Ante, at 816. A fair
+reading of the Kansas Supreme Court's opinion in light
+of its earlier opinion in Shutts v. Phillips Petroleum Co.,
+222 Kan. 527, 567 P.2d 1292 (1977) (hereinafter Shutts
+I), cert. denied, 434 U.S. 1068 (1978), reveals that the
+Kansas court has examined the laws of connected
+jurisdictions and has correctly concluded that there is no
+"direct" or "substantive" conflict between the law
+applied by Kansas and the laws of those other States. Cf.
+ante, at 816, 821-822. Kansas has merely developed
+general common-law principles to accommodate the
+novel facts of this litigation — other state courts either
+agree with Kansas or have not yet addressed precisely
+similar claims. Consequently, I conclude that the Full
+Faith and Credit Clause of the Constitution1 did not
+require Kansas to apply the law of any other State, and
+the Fourteenth Amendment's Due Process Clause2 did
+not prevent Kansas from applying its own law in this
+case.
+The Court errs today because it applies a loose
+definition of the sort of "conflict" of laws required to
+state a constitutional claim, allowing Phillips a tactical
+victory here merely on allegations of "putative" or
+"likely" conflicts. Ante, at 816, 817. The Court's choiceof-law
+analysis also treats the two relevant
+constitutional provisions as though they imposed the
+same constraints on the forum court. In my view,
+however, the potential impact of the Kansas choice on
+the interests of other sovereign States and the fairness of
+its decision to the litigants should be separately
+considered. See Allstate Insurance Co. v. Hague, 449
+U.S. 302, 320 (1981) (STEVENS, J., concurring in
+judgment). For both inquiries, it [472 U.S. 825] is
+essential to have a better understanding of the merits of
+the underlying dispute than can be gleaned from the
+Court's opinion. I therefore begin with an explanation
+of the background of this litigation.
+I
+Petitioner (Phillips) is a large independent producer,
+purchaser, and seller of natural gas. Beginning in 1954,
+the prices at which it sold natural gas to interstate
+pipeline companies were regulated by the Federal Power
+Commission (Commission).3 Phillips Petroleum Co. v.
+Wisconsin, 347 U.S. 672 (1954). As a party to a large
+number of producing oil and gas leases, Phillips is
+obligated to pay a percentage of the value of the
+production, usually one-eighth, to persons owning an
+interest in the leased areas, so-called "royalty owners."
+Some royalty owners are due monthly royalties by
+contractual agreements made directly with Phillips. See
+Shutts I, supra, at 532, 567 P. 2d, at 1298. Others are due
+royalties under contracts made with other gas producers
+who then sell their gas to Phillips — by separate contract
+with those producers, Phillips has "assumed the
+producer's responsibility to distribute the royalties . . . to
+the royalty owners." 235 Kan. 195, 218, 679 P.2d 1159,
+1178 (1984). The relationship between Phillips and the
+royalty owners is not regulated by the Commission
+although it is, of course, materially affected by the
+Commission's control over the pricing relationship
+between Phillips and its customers.
+In a series of orders entered after 1954, the Commission
+established a practice of suspending price increases
+proposed by Phillips until approved by the Commission,
+but allowing Phillips to collect the higher proposed
+prices upon the filing by Phillips with the Commission
+of a corporate undertaking to refund to its customers
+any portion of an increase [472 U.S. 826] that is
+ultimately disapproved by the Commission. Pursuant to
+Commission regulation, Phillips agrees that unapproved
+prices it collects are subject to refund "with interest at
+seven percent (7%) per annum from the date of receipt
+until September 18, 1970, and eight percent (8%) per
+annum thereafter until paid out, if the FPC [does] not
+approve the sales price." Shutts I, supra, at 533, 567 P.
+2d, at 1299 (emphasis deleted) (citing 18 CFR §
+154.102(c) (1977) and Commission opinion No. 586, 44
+F. P. C. 761, 791 (1970)). Phillips' receipts during
+periods when its proposed price increases have not yet
+received final approval therefore include two
+components — the "firm" proceeds and the "FPC
+suspense money." For example, while an increase in
+price from 11 cents per Mcf (thousand cubic feet) to 13
+cents is under consideration, the collection of the higher
+price would include firm proceeds of 11 cents and 2
+cents of FPC suspense money.
+In July 1961, while a price increase applicable to the
+tristate Hugoton-Anadarko area (Kansas, Oklahoma,
+and Texas) was pending, Phillips sent a notice to the
+royalty owners for that area advising them that "until
+further notice" they would be paid royalties on the basis
+of firm proceeds only and that royalties based on
+suspense money would be paid only after it was
+"determined that the sums collected are no longer
+subject to refund." The notice also advised the royalty
+owners that they could receive ongoing payment of
+royalties on the suspense money as well if they furnished
+Phillips with an "acceptable indemnity to cover their
+proportionate part of any required refunds, plus the
+required interest." Shutts I, 222 Kan., at 534, 567 P. 2d,
+at 1299 (emphasis added).4 The indemnity which
+Phillips required was a corporate [472 U.S. 827] security
+bond covering a principal amount based on estimated
+production for a 2-year period, plus the 7% interest rate
+Phillips would be required to pay to its customers if the
+price increase were not approved. Only 17 royalty
+owners provided Phillips with such an indemnity;
+approximately 6,400 royalty owners who did not do so
+did not receive royalties on the suspense proceeds until
+11 years later, after the price increase was finally
+approved. The situation was succinctly summarized by
+the Kansas Supreme Court in Shutts I:
+"From June 1, 1961, to October 1, 1970, Phillips deposited the
+increased rate monies collected in its general account and
+commingled it with its other funds, without ever giving notice of
+this fact to royalty owners during the time it was holding money. It
+is important to note that during this period of time Phillips had no
+entitlement to the gas royalty owners' share of the `suspense
+royalties,' whether or not the rates were approved by the FPC.
+Phillips never owned this money. While Phillips collected eighteighths
+(8/8) of the increased rates, under no condition was the
+one-eighth (1/8) of the increase attributable to the royalty owners
+ever to go to Phillips. That royalty share, according to eventual FPC
+ruling, was either to go to Phillips' royalty owners, or back to
+Phillips' gas purchasers with interest, or part to one and part to the
+other." Id., at 535, 567 P. 2d, at 1300 (emphasis in original).
+[472 U.S. 828] In 1970, the Commission entered an
+order approving Phillips' Hugoton-Anadarko price
+increases to the extent of approximately $153,000,000
+and disapproving them to the extent of approximately
+$29,000,000. Thus, over 18% of the suspense money had
+to be refunded to Phillips' customers, with interest at the
+rates to which Phillips had agreed under Commission
+regulation. Having no jurisdiction over the relationship
+between Phillips and the royalty owners, however, the
+Commission's order was silent on the subject of
+royalties on the $153 million of suspense money that did
+not have to be refunded. After the Commission's order
+was finally affirmed by the Ninth Circuit in 1972, In re
+Hugoton-Anadarko Area Rate Case, 466 F.2d 974,
+Phillips mailed checks to the royalty owners for their
+share of the suspense moneys based on the approved
+higher prices that had been collected since 1961.
+However, "Phillips neither paid nor offered to pay any
+interest for the use of the money, nor did Phillips say
+anything about interest or how long the money had
+been held or used by Phillips." Shutts I, supra, at 537,
+567 P. 2d, at 1301.
+The foregoing facts gave rise to Shutts I. This case
+(Shutts II) involves suspense royalties due on similar
+price increases approved in 1976, 1977, and 1978 to a
+larger number of royalty owners (28,100) with interests
+in leased areas located in 11 States, including Kansas.
+Otherwise, however, "[w]ith a few exceptions this case
+is similar in legal issues and factual situation to that
+presented in Shutts [I]." 235 Kan., at 198, 679 P. 2d, at
+1165. Both cases involve what the Kansas Supreme
+Court has characterized as a "common fund" consisting
+of the suspense royalties undeniably owed by Phillips
+[472 U.S. 829] but not paid for periods of several years
+while Commission approval of rate increases were
+pending.5 It is undisputed that Phillips enjoyed the
+unfettered use of that money. See 222 Kan., at 560, 567
+P. 2d, at 1316 (testimony of Phillips' Treasurer). It is also
+undisputed that when the Commission proceedings
+ended, none of the money could be retained by Phillips.
+To the extent that a price increase was disapproved, a
+refund to the purchasing pipelines, plus interest at the
+rate set by the Commission, would be required; to the
+extent that the increases were approved, the money was
+contractually owned to the royalty owners. As the
+Kansas court noted: "What is significant is these gas
+royalty suspense monies never did nor could belong to
+Phillips." Ibid. (emphasis deleted).6
+[472 U.S. 830] In Shutts I, the Kansas Supreme Court
+held that general equitable principles required the award
+of interest on royalties owned to royalty owners but
+used by Phillips for a number of years. In support of that
+conclusion it relied on general statements in two Kansas
+cases7 and a long line of federal cases applying Texas law
+and concluding that equity requires "the award of
+interest on suspense royalties under similar
+circumstances." Id., at 561, 567 P. 2d, at 1317.8 The
+court noted that Oklahoma had no decisions allowing
+interest on suspense royalties, but concluded that
+"several Oklahoma decisions hold that interest may be
+awarded on equitable grounds where necessary to arrive
+at a fair compensation. (Smith v. Owens, 397 P.2d 673
+[Okla. 1963]; and First Nat. Bank & T. Co. v. Exchange
+Nat. Bank and T. Co., 517 P.2d 805 [Okla. App.
+1973])."9 Finally, the court construed the royalty
+agreements at issue as containing a "contractual [472
+U.S. 831] obligation" to pay interest on the royalties "for
+the period of time the suspense money was held and
+used by Phillips." Id., at 562, 567 P. 2d, at 1317. Thus the
+Kansas court also found its result consistent with the
+only Texas state-court decision on point, Stahl
+Petroleum Co. v. Phillips Petroleum Co., 550 S.W.2d
+360 (Tex. Civ. App. 1977), which had "awarded interest
+on suspended royalties" based on "the terms of the
+royalty agreement . . . rather than unjust enrichment."
+222 Kan., at 561, 567 P. 2d, at 1317. Significantly, when
+the Texas Supreme Court subsequently affirmed the
+Stahl judgment, it relied on the Kansas Supreme Court's
+decision in Shutts I to decide that equity as well as
+contract law requires interest on suspense royalties.
+Phillips Petroleum Co. v. Stahl Petroleum Co., 569
+S.W.2d 480, 485-488, and n. 5 (1978).
+After determining that Phillips was liable for interest on
+the suspense royalties, the court reversed the trial
+court's decision that the rate should be 6% because that
+was the statutory interest rate in Kansas, Oklahoma, and
+Texas. The Kansas Supreme Court noted that the
+statutory rate in all three States expressly applied only
+when no other rate had been agreed upon,10 and that in
+this case Phillips had made an express agreement,
+evidenced by its corporate undertaking, to pay interest
+at the rate set by the Commission on suspense moneys
+found refundable. 222 Kan., at 564, 567 P. 2d, at 1319.
+The Kansas court therefore declined to apply any State's
+interest statute, including its own. "[E]quitable
+principles require, and contractual principles dictate,
+that the royalty owners receive the same treatment" as
+refunded purchasers, [472 U.S. 832] that is, payment at
+the same FPC rate of interest.11 Id., at 563, 567 P. 2d, at
+1318.
+Finally, the Kansas Supreme Court rejected Phillips'
+contention that royalty owners had "waived" their
+claims to interest by accepting payment of the royalties
+later or by failing to post an indemnity "acceptable" to
+Phillips in order to receive contemporaneous payment
+of suspense royalties. The court noted that the
+"conditions imposed by Phillips were far more stringent
+than the corporate undertaking Phillips filed with the
+FPC," id., at 567, 567 P. 2d, at 1320, and concluded that
+it was "apparent [that] Phillips' previous imposition of
+burdensome conditions upon royalty owners . . . was
+designed to accomplish precisely what the facts disclose.
+Virtually none of the royalty owners complied with the
+conditions, thereby leaving the suspense royalties in the
+hands of Phillips as stakeholder to use at its pleasure . . .
+." Id., at 566, 567 P. 2d, at 1320. The court found the rule
+that "payment of the principal sum is a legal bar to a
+subsequent action for interest" inapplicable on these
+facts. Id., at 567, 567 P. 2d, at 1321. Instead, because
+"payment of [the royalties due] to the plaintiff class
+members, instead of extinguishing the debt, constituted
+only a partial payment on an interest-bearing debt[,]
+[t]his situation invokes application of the so-called
+`United States Rule,' which provides that in applying
+partial payments to an interest-bearing debt which is
+due, in [472 U.S. 833] the absence of an agreement or
+statute to the contrary, the payment should be first
+applied to the interest due." Ibid.12
+In Shutts II, the case now under review, the Kansas
+Supreme Court adopted its earlier analysis in Shutts I
+without repeating it. "Although a larger class is involved
+than in Shutts I, the legal issues presented are
+substantially the same. While these issues are complex
+they were thoroughly reviewed in Shutts I." 235 Kan., at
+211, 679 P. 2d, at 1174.13 Noting that "Phillips has not
+satisfactorily established why this court should not apply
+the rule enunciated in Shutts I, " the Kansas court went
+on to state that once jurisdiction over [472 U.S. 834] a
+"nationwide class action" is properly asserted, "the law
+of the forum should be applied unless compelling
+reasons exist for applying a different law." Id., at 221,
+679 P. 2d, at 1181.
+II
+This Court, of course, can have no concern with the
+substantive merits of common-law decisions reached by
+state courts faithfully applying their own law or the law
+of another State. When application of purely state law is
+at issue, "[t]he power delegated to us is for the restraint
+of unconstitutional [action] by the States, and not for
+the correction of alleged errors committed by their
+judiciary." Commercial Bank of Cincinnati v.
+Buckingham's Executors, 5 How. 317, 343 (1847). The
+Constitution does not expressly mandate particular or
+correct choices of law. Rather, a state court's choice of
+law can invoke constitutional protections, and hence
+our jurisdiction, only if it contravenes some explicit
+constitutional limitation.14
+Thus it has long been settled that "a mere
+misconstruction by the forum of the laws of a sister
+State is not a violation of the Full Faith and Credit
+Clause." Carroll v. Lanza, 349 U.S. 408, 414, n. 1 (1955)
+(Frankfurter, J., dissenting).15 That Clause requires only
+that States accord "full faith and credit" to other States'
+laws — that is, acknowledge the validity and finality of
+such laws and attempt in good faith to apply them when
+necessary as they would be applied by home state [472
+U.S. 835] courts.16 But as Justice Holmes explained,
+when there is "nothing to suggest that [one State's
+court] was not candidly construing [another State's law]
+to the best of its ability, . . . even if it was wrong
+something more than an error of construction is
+necessary" to invoke the Constitution. Pennsylvania Fire
+Ins. Co. v. Gold Issue Mining & Milling Co., 243 U.S.
+93, 96 (1917).
+Merely to state these general principles is to refute any
+argument that Kansas' decision below violated the Full
+Faith and Credit Clause. As the opinion in Shutts I
+indicates, the Kansas court made a careful survey of the
+relevant laws of Oklahoma and Texas, the only other
+States whose law is proffered as relevant to this
+litigation. But, as the Court acknowledges, ante, at 816-
+818, no other State's laws or judicial decisions were
+precisely on point, and, in the Kansas court's judgment,
+roughly analogous Texas and Oklahoma cases supported
+the results the Kansas court reached. The Kansas court
+expressly declared that, in a multistate action, a "court
+should also give careful consideration, as we have
+attempted to do, to any possible conflict of law
+problems." 222 Kan., at 557, 567 P. 2d, at 1314.17 While
+a common-law judge might disagree with the
+substantive legal determinations made by the Kansas
+court (although nothing in its opinion seems erroneous
+to me), that court's approach to the possible choices of
+law evinces precisely the "full faith and credit" that the
+Constitution requires.
+[472 U.S. 836] It is imaginable that even a good-faith
+review of another State's law might still "unjustifiably
+infring[e] upon the legitimate interests of another State"
+so as to violate the Full Faith and Credit Clause. Allstate,
+449 U. S., at 323 (STEVENS, J., concurring in
+judgment). If, for example, a Texas oil company or a
+Texas royalty owner with an interest in a Texas lease
+were treated directly contrary to a stated policy of the
+State of Texas by a Kansas court through some honest
+blunder, the Constitution might bar such "parochial
+entrenchment" on Texas' interests. Thomas v.
+Washington Gas Light Co., 448 U.S. 261, 272 (1980)
+(plurality opinion).18 But this case is so distant from
+such a situation that I need not pursue this theoretical
+possibility. Even Phillips does not contend that any
+stated policies of other States have been plainly
+contravened, and the Court's discussion is founded
+merely on an absence of reported decisions and the
+Court's speculation of what Oklahoma or Texas courts
+might "most likely" do in a case like this. Ante, at 817.
+There is simply no demonstration here that the Kansas
+Supreme Court's decision has impaired the legitimate
+interests of any other States or infringed on their
+sovereignty in the slightest.
+[472 U.S. 837] III
+It is nevertheless possible for a State's choice of law to
+violate the Constitution because it is so "totally arbitrary
+or. . . fundamentally unfair" to a litigant that it violates
+the Due Process Clause. Allstate, 449 U. S., at 326
+(STEVENS, J., concurring in judgment). If the forum
+court has no connection to the lawsuit other than its
+jurisdiction over the parties, a decision to apply the
+forum State's law might so "frustrat[e] the justifiable
+expectations of the parties" as to be unconstitutional. Id.,
+at 327.19
+Again, however, a constitutional claim of "unfair
+surprise" cannot be based merely upon an unexpected
+choice of a particular State's law — it must rest on a
+persuasive showing of an unexpected result arrived at by
+application of that law. Thus, absent any conflict of
+laws, in terms of the results they produce, the Due
+Process Clause simply has not been violated. This is
+because the underlying theory of a choice-of-law due
+process claim must be that parties plan their conduct
+and contractual relations based upon their legitimate
+expectations [472 U.S. 838] concerning the subsequent
+legal consequences of their actions. For example, they
+might base a decision on the belief that the law of a
+particular State will govern. But a change in that State's
+law in the interim between the execution and the
+performance of the contract would not violate the Due
+Process Clause. Nor would the Constitution be violated
+simply because a state court made an unanticipated
+ruling on a previously unanswered question of law —
+perhaps a choice-of-law question.
+In this case it is perfectly clear that there has been no
+due process violation because this is a classic "false
+conflicts" case.20 Phillips has not demonstrated that any
+significant conflicts exist merely because Oklahoma and
+Texas state case law is silent concerning the equitable
+theories developed by the Kansas courts in this
+litigation, or even because the language of some
+Oklahoma and Texas statutes suggests that those States
+would "most likely" reach different results. Ante, at 816-
+818. The Court's heavy reliance on the characterization
+of the law provided by Phillips is not an adequate
+substitute for a neutral review. Ante, at 816, 817
+("Petitioner claims," "petitioner shows," "petitioner
+points to," "Petitioner also points out . . ."). As is
+unmistakable from a review of Shutts I, the Kansas
+Supreme Court has examined the same laws cited by the
+Court today as indicative of "direct" conflicts, and
+construed them as supportive of the [472 U.S. 839]
+Kansas result.21 Our precedents, to say nothing of the
+Constitution and our statutory jurisdiction to review
+state-court judgments, do not permit the Court to
+second-guess these substantive judgments. Moreover,
+an independent examination demonstrates solid support
+for the Kansas court's conclusions.22
+[472 U.S. 840] The crux of my disagreement with the
+Court is over the standard applied to evaluate the
+sufficiency of allegations of choice-of-law conflicts
+necessary to support a constitutional [472 U.S. 841]
+claim. Rather than potential, "putative," or even "likely"
+conflicts, I would require demonstration of an
+unambiguous conflict with the established law of
+another State as an essential element of a constitutional
+choice-of-law claim. Arguments that a state court has
+merely applied general common-law principles in a
+novel manner, or reconciled arguably [472 U.S. 842]
+conflicting laws erroneously in the face of
+unprecedented factual circumstances should not suffice
+to make out a constitutional issue.
+In this case, the Kansas Supreme Court's application of
+general principles of equity, its interpretation of the
+agreements, its reliance on the Commission's
+regulations,23 and its construction of general statutory
+terms contravened no established legal principles of
+other States and consequently cannot be characterized as
+either arbitrary or fundamentally unfair to Phillips. I
+therefore can find no due process violation in the
+Kansas court's decision.24
+[472 U.S. 843] IV
+In final analysis, the Court today may merely be
+expressing its disagreement with the Kansas Supreme
+Court's statement that in a "nationwide class action . . .
+the law of the forum should be applied unless
+compelling reasons exist for applying a different law."
+235 Kan., at 221, 679 P. 2d, at 1181. Considering this
+statement against the background of the Kansas
+Supreme Court's careful analysis in Shutts I, however, I
+am confident that court would agree that every state
+court has an obligation under the Full Faith and Credit
+Clause to "respect the legitimate interests of other States
+and avoid infringement upon their sovereignty."
+Allstate, 449 U. S., at 322 (STEVENS, J., concurring in
+judgment); see Nevada v. Hall, 440 U.S. 410, 421, 424, n.
+24 (1979).
+It is also agreed that "the fact that a choice-of-law
+decision may be unsound . . . does not necessarily
+implicate the federal concerns embodied in the Full
+Faith and Credit Clause." Allstate, 449 U. S., at 323
+(STEVENS, J., concurring in judgment); see ante, at 823
+("in many situations a state court may be free to apply
+one of several choices of law"); Allstate, 449 U. S., at 307
+(plurality opinion). When a suit involves claims
+connected to States other than the forum State, the
+Constitution requires only that the relevant laws of
+other States that are brought to the attention of the
+forum court be examined fairly prior to making a choice
+of law.25 Because this Court "reviews judgments, not
+opinions," Chevron U. S. A. Inc. v. Natural Resources
+Defense Council, Inc., 467 U.S. 837, 842 (1984),
+criticism of a portion of the Kansas [472 U.S. 844]
+court's opinion taken out of context provides an
+insufficient basis for reversing its judgment. Unless the
+actual choice of Kansas law violated substantial
+constitutional rights of the parties, see 28 U. S. C. §
+2111, our power to review judgments of state law —
+including the state law of choice of law — does not
+extend to reversal based on disagreement with the law's
+application. A review of the record and the underlying
+litigation here convincingly demonstrates that, despite
+Phillips' protestations regarding Kansas' development of
+common-law principles, no disregard for the laws of
+other States nor unfair application of Kansas law to the
+litigants has occurred.26 Phillips has no constitutional
+right to avoid judgment in Kansas because it might have
+convinced a court in another State to develop its law
+differently.
+I do not believe the Court should engage in detailed
+evaluations of various States' laws. To the contrary, I
+believe our limited jurisdiction to review state-court
+judgments should foreclose such review.27 Accordingly,
+I trust that today's [472 U.S. 845] decision is no more
+than a momentary aberration, and that the Court's
+opinion will not be read as a decision to
+constitutionalize novel state-court developments in the
+common law whenever a litigant can claim that another
+State connected to the litigation "most likely" would
+reach a different result. The Court long ago decided that
+state-court choices of law are unreviewable here absent
+demonstration of an unambiguous conflict in the
+established laws of connected States. See n. 15, supra.
+"To hold otherwise would render it possible to bring to
+this court every case wherein the defeated party claimed
+that the statute of another State had been construed to
+his detriment." Johnson v. New York Life Ins. Co., 187
+U.S. 491, 496 (1903). Having ignored this admonition
+today, the Court may be forced to renew its turn-of-thecentury
+efforts to convince the bar that state-court
+judgments based on fair evaluations of other States' laws
+are final.
+Accordingly, while I join Parts I and II of the Court's
+opinion, I respectfully dissent from Part III and from the
+judgment.

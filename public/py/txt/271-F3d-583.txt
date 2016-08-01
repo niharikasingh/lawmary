@@ -1,0 +1,651 @@
+Mark Silvestri filed this products liability action against
+General Motors Corporation, alleging that the airbag in
+a 1995 Chevrolet Monte Carlo he was driving did not
+deploy as warranted when he crashed into a utility pole
+and that, as a result, his injuries from the accident were
+enhanced. Because Silvestri failed, before the vehicle was
+repaired, to give General Motors notice of his claim and
+an opportunity to inspect the vehicle — which the
+district court concluded was "the sole piece of evidence
+in this case" — the court dismissed Silvestri's action,
+finding dismissal to be the appropriate sanction for the
+spoliation of evidence in this case. For the reasons that
+follow, we affirm.
+[271 F.3d 586] I
+On November 5, 1994, Mark Silvestri was involved in a
+single vehicle crash in Preble, New York. Driving his
+landlady's Chevrolet automobile while intoxicated and
+at an excessive rate of speed, Silvestri lost control of the
+vehicle on a curve and slid off the road. The vehicle
+crashed through a split-rail fence and, as it was spinning,
+the front of the vehicle obliquely struck a utility pole.
+The vehicle rotated around the pole and continued past
+it, coming to rest in the front yard of a residence.
+During the accident, the airbag in the Chevrolet did not
+deploy. Although it appears that Silvestri was wearing
+his seatbelt, he sustained severe facial lacerations and
+bone fractures, permanently disfiguring his face. He
+contends that, had the airbag deployed, he would not
+have sustained these disfiguring injuries.
+While Silvestri was in the hospital, his parents retained
+attorney William G. Moench to protect Silvestri's legal
+interests, both with respect to Silvestri's ticket for
+driving while intoxicated and his potential civil action
+against General Motors. When Moench later contacted
+Silvestri, Silvestri requested that Moench continue to
+represent him until his period of incapacitation ended
+and he was able to meet with Moench in person. Later,
+Silvestri discharged Moench, perhaps over a dispute
+with Moench about the advancement of litigation costs,
+which then had grown to $3000, and retained present
+counsel.
+While acting on behalf of Silvestri, Moench retained
+two accident reconstructionists, Erik Carlsson and
+Albert Godfrey, to inspect the damaged Chevrolet and
+to visit the crash scene so that they could render expert
+opinions regarding the circumstances of the crash.
+Carlsson later testified that it was his understanding that
+he was conducting his investigation "in anticipation of
+filing a lawsuit against General Motors." Carlsson and
+Godfrey inspected and photographed the vehicle and
+inspected the site, and each prepared a report of his
+findings. Because Carlsson considered it important that
+General Motors have an opportunity to see the car,
+Carlsson "suggested" to Attorney Moench, at the time
+he conducted his inspection, that "the car has to be
+kept"; and Carlsson stated, "General Motors needs to see
+the car." He also told Moench after the inspection that
+"he does indeed have a case [against General Motors]
+because the airbag should have deployed."
+At his inspection, which took place approximately a
+week after the accident, Carlsson examined the vehicle
+and took photographs. However, he took only one
+measurement of the vehicle and conducted no
+inspection of its undercarriage. While the one
+measurement he took was a "crush" measurement, he
+made no note of the measurement. At his deposition
+several years later, he "seem[ed] to recall" that the
+"crush" measurement was 18 inches, but he could not
+definitely remember the measurement. Similarly,
+Godfrey failed to make notes of any measurements that
+he may have taken during his inspection. He did,
+however, photograph a ruler on the hood of the vehicle
+to measure the extent to which the front of the hood
+was bent off centerline. When inspecting the site of the
+accident, Godfrey failed to measure the skid marks left
+by the vehicle, confessing that he formed his initial
+opinion about Silvestri's speed at the time of the
+accident by "eyeball[ing]" the skid marks.
+After their inspections, both Carlsson and Godfrey
+prepared written reports, dated December 6, 1994,
+which they submitted to Moench. In his report,
+Carlsson concluded that the vehicle had been subjected
+to two impacts at the accident, a side impact and a
+frontal collision. The report stated, "It is evident that the
+damage [271 F.3d 587] was caused by the vehicle striking
+a wooden fence. A piece of wood is stuck in the
+passenger side door, and another piece in the rear tire."
+"The frontal impact was evidently, as depicted in the
+police report, with the utility pole.... The damage
+indicates a collision with a narrow object, the initial
+point of impact being slightly to the right of the vehicle's
+center line." Carlsson explained further, "In spite of the
+substantial front end damage that affected the rails of the
+frame, the vehicle's airbag did not deploy at the accident.
+Yet, the diagnostics of the airbag showed no defect or
+malfunction." Carlsson concluded, "The failure by the
+airbag to deploy in this accident must be considered a
+defect that unnecessarily added to Mr. Silvestri's
+injuries."
+In Godfrey's written report, Godfrey stated his opinion
+that the vehicle "struck the utility pole at an angle of
+approximately 25 Degrees and rotated through the
+window of 30 Degrees either side of the center line of
+the vehicle whereby the dual airbags in the vehicle
+should have inflated, however, failed to do so." He
+concluded, "A major question arises as to why the air
+bags did not inflate upon impact with the utility pole.
+Had the air bags worked properly the operator would
+not have struck his face on the steering wheel causing
+the massive facial injuries that were incurred."
+Notwithstanding the anticipation of litigation against
+General Motors, neither Moench nor Silvestri took any
+steps to preserve the vehicle or to notify General Motors
+of the existence of the vehicle and Silvestri's potential
+claim. Indeed, General Motors was not notified about
+the accident until almost three years later when Silvestri
+commenced this action against the corporation. Yet, the
+vehicle remained in its damaged condition for more
+than three months after the accident. In early 1995, the
+title-owner of the vehicle, Carl E. Burhans, the husband
+of Silvestri's landlady, transferred title of the vehicle to
+his insurance company, and his insurance company in
+turn sold the vehicle to Prestige Collision, Inc., which
+repaired the vehicle and then sold it. General Motors
+ultimately found the vehicle in June 1998 in Quebec,
+Canada, in the possession of Real T. Durand. When, in
+1998, General Motors inspected the airbag sensing and
+diagnostic module, which monitors and retains in its
+memory defects in the airbag system, it found that the
+module had not been damaged in the accident. The
+module revealed that there had been no defect in the
+airbag system. Silvestri's expert, however, questioned
+whether this was the original module that had been in
+the vehicle at the time of the accident.
+After General Motors was named the defendant in this
+action, its reconstruction expert, Keith Schultz,
+evaluated the evidence collected by Carlsson and
+Godfrey, as well as the sensing and diagnostic module
+from the repaired vehicle. Based on the available
+evidence, Schultz concluded that the oblique impact of
+the vehicle with the utility pole did not meet the airbag
+deployment criteria set forth in General Motors'
+warranty to provide head and face protection in a
+frontal impact. He stated, "My investigation indicates
+that the impact speed and direction and conditions of
+the subject accident were not sufficient to cause the
+deployment of the SIR [Supplemental Inflatable
+Restraint] system and that the subject airbag properly
+did not deploy." He added, "It is my opinion that the
+injuries sustained by [Silvestri], due to the violent
+impact of wood from a fence impacting the vehicle
+compartment, could have been greater if the SIR had
+deployed as claimed by [Silvestri]." Schultz explained
+further that "the plaintiff was injured not by an impact
+with a telephone pole but rather when the vehicle ran
+[271 F.3d 588] through a wooden fence, violently
+projecting portions of the fence into the passenger
+compartment of the vehicle. The change in velocity, or
+the `delta V', of the vehicle when it impacted the
+telephone pole was not sufficient and not directionally
+correct to deploy the airbags." Schultz added a serious
+caveat to his opinions, however, indicating that
+Silvestri's failure to preserve the vehicle in its condition
+after the accident "hinders General Motors['] ability to
+defend plaintiff's claim of a product defect." He
+explained,
+Although the information stored in the SDM [Sensing and
+Diagnostic Module] indicates that the airbag system was operating
+properly at the time of the accident, a detailed inspection of the
+condition of the vehicle post-accident before any body repairs are
+performed is critical to performing a crush analysis of the vehicle. A
+crush analysis is performed by actually measuring the amount of
+crush at numerous points on the vehicle. These crush
+measurements are used to create a crush profile of the vehicle,
+which, in turn, is used to determine the change in velocity, or "delta
+V" of the vehicle in the accident. Such information is important to a
+detailed reconstruction of the accident.
+He concluded that the destruction of this evidence had
+prejudiced General Motors' defense.
+Following receipt of Schultz's report, both Carlsson and
+Godfrey changed some of their conclusions about their
+observations of the vehicle following the accident. For
+example, although Carlsson initially stated that the
+windshield on the vehicle had collapsed and fallen
+completely inward, making no reference to seeing any
+blood, he changed his report later to say that he saw
+blood on the windshield. Carlsson also originally
+concluded that Silvestri's face struck the windshield
+rather than the steering wheel and that he had not seen
+any deformation to the steering wheel nor any evidence
+that the steering column had been "stroked"
+(compressed) as a result of the accident. But in his later
+opinions, he concluded that Silvestri's face struck the
+steering wheel with a force sufficient to deform the
+steering wheel and cause the steering column to be
+stroked.
+Godfrey likewise changed his opinions as well as his
+"original" observations. In his deposition, taken before
+Schultz's report became available, Godfrey stated that he
+did not take any crush measurements of the car and
+therefore did not calculate the equivalent barrier speed
+of the vehicle as it struck the utility pole. After Schultz's
+report, however, Godfrey gave a specific crush
+measurement of "approximately" 24 inches and a
+calculation of the equivalent barrier speed of 24 miles
+per hour, based on "a rule of thumb" of one mile per
+hour for each inch of crush. Not only had Godfrey
+previously indicated that he never took a crush
+measurement, Carlsson, who did take a crush
+measurement but did not make a note of it, "seemed to
+recall" that it was probably 18 inches. Under Godfrey's
+"rule of thumb," this would result in an 18 miles-perhour
+barrier speed. In addition, Godfrey originally
+testified that he did not believe that anyone could
+calculate the angle at which Silvestri hit the steering
+wheel. But in a subsequent report, issued after Schultz's
+report, he stated that the front of Silvestri's skull and
+face hit the right side of the steering wheel.
+Following discovery, General Motors filed a motion for
+summary judgment on various grounds, including the
+ground that Silvestri could not establish a prima facie
+case for a product defect. General Motors also asked that
+the case be dismissed based on Silvestri's spoliation of
+evidence. The district court concluded that Silvestri had
+not stated a prima facie case and [271 F.3d 589] therefore
+did not address the spoliation issue. On appeal, we
+concluded that under the law of New York, which the
+parties agreed governed this case, Silvestri had stated a
+prima facie case. In response to General Motors'
+alternative request that we address the spoliation issue,
+we declined and remanded the case to the district court,
+stating that "the district court has broad discretion to
+address the matter, and in this case, the district court did
+not address spoliation in its ruling on General Motors'
+motion for summary judgment." Silvestri v. General
+Motors Corp., 210 F.3d 240, 245 (4th Cir.2000).
+On remand, the district court addressed General Motors'
+spoliation claim and dismissed the case on that basis.
+The district court concluded that Silvestri had breached
+his duty either to preserve the vehicle or to notify
+General Motors about its availability and his claim. The
+court concluded that Silvestri's failure to discharge this
+duty caused General Motors to be "highly prejudiced."
+After recognizing that the determination of whether the
+airbag should have deployed could only be determined
+by a reconstruction of the accident, the court explained
+that General Motors was denied the opportunity to
+reconstruct the accident accurately because of its
+inability to take the necessary crush measurements. As
+the court said:
+Therefore, Defendant is now forced to rely on the few
+measurements taken by Plaintiff's experts, Carlsson and Godfrey.
+As to these measurements, Carlsson admitted, during his
+deposition, that he only took one crush measurement — that of
+what he believed to be the area of "maximum crush." ... Not only
+was this lone measurement uncorroborated, but it was also
+inadequate. Defendant's expert opines, and plaintiff does not
+dispute, that crush measurements are generally taken at numerous
+points on the vehicle.... Based on the inability to take crush
+measurements alone, there is little doubt that defendant has been
+highly prejudiced.
+In addition, the court noted that General Motors was
+prejudiced in its examination of the sensing and
+diagnostic module which monitored the airbag
+deployment system because Silvestri's expert challenged
+the results of the examination. As the court explained:
+In his second report, Carlsson cast doubt on whether or not the
+airbag system inspected in 1998, which indicated no system faults,
+was, in fact, the same system in the car at the time of the accident....
+Defendant, at this late date, has no way of proving that the systems
+are the same. This is critical to Defendant's case as their defense
+rests, in large part, on the fact that, because the airbag system
+showed no faults, the conditions of the accident must not have met
+the threshold requirement to deploy the airbag.
+The court added that not only was Silvestri put on
+notice that the evidence should have been preserved or
+General Motors notified, but he also "remained silent
+until almost three years later when his suit was filed."
+From the district court's order of dismissal, Silvestri
+noticed this appeal.
+II
+On appeal, Silvestri contends that he is not responsible
+for any spoliation of evidence because (1) he had no duty
+to preserve the vehicle in question as he was not its
+owner, and (2) any act of spoliation was that of attorney
+Moench, hired by his parents, not him, and therefore
+was not imputable to him. He also argues that the
+sanction of dismissal was too harsh because General
+Motors was not so severely [271 F.3d 590] prejudiced
+that it could not adequately defend itself in the action.
+In their briefs and at oral argument, the parties have
+agreed that the law of New York — where the accident
+occurred — supplies the applicable principles of
+spoliation, and they have cited that law to the court. We
+conclude, however, that a federal law of spoliation
+applies because, as we note below, the power to sanction
+for spoliation derives from the inherent power of the
+court, not substantive law. Nevertheless, we have
+recognized the articulation of spoliation principles from
+some of the New York cases cited to us.
+A
+Spoliation refers to the destruction or material
+alteration of evidence or to the failure to preserve
+property for another's use as evidence in pending or
+reasonably foreseeable litigation. West v. Goodyear Tire
+& Rubber Co., 167 F.3d 776, 779 (2d Cir.1999) (citing
+Black's Law Dictionary 1401 (6th ed.1990)). The right to
+impose sanctions for spoliation arises from a court's
+inherent power to control the judicial process and
+litigation, but the power is limited to that necessary to
+redress conduct "which abuses the judicial process."
+Chambers v. NASCO, Inc., 501 U.S. 32, 45-46, 111 S.Ct.
+2123, 115 L.Ed.2d 27 (1991) (recognizing the inherent
+power of the courts to fashion appropriate sanctions for
+conduct that disrupts the judicial process); see also
+United States v. Shaffer Equip. Co., 11 F.3d 450, 462
+(4th Cir.1993) (recognizing "that when a party deceives
+a court or abuses the process at a level that is utterly
+inconsistent with the orderly administration of justice
+or undermines the integrity of the process, the court has
+the inherent power to dismiss the action"); cf.
+Fed.R.Civ.P. 37(b)(2) (authorizing sanctions for
+violations of discovery orders).
+The policy underlying this inherent power of the courts
+is the need to preserve the integrity of the judicial
+process in order to retain confidence that the process
+works to uncover the truth. "[B]ecause no one has an
+exclusive insight into truth, the process depends on the
+adversarial presentation of evidence, precedent and
+custom, and argument to reasoned conclusions — all
+directed with unwavering effort to what, in good faith,
+is believed to be true on matters material to the
+disposition." Shaffer Equipment, 11 F.3d at 457. The
+courts must protect the integrity of the judicial process
+because, "[a]s soon as the process falters ... the people
+are then justified in abandoning support for the system."
+Id.
+Thus, while the spoliation of evidence may give rise to
+court imposed sanctions deriving from this inherent
+power, the acts of spoliation do not themselves give rise
+in civil cases to substantive claims or defenses.
+While a district court has broad discretion in choosing
+an appropriate sanction for spoliation, "the applicable
+sanction should be molded to serve the prophylactic,
+punitive, and remedial rationales underlying the
+spoliation doctrine." West, 167 F.3d at 779. In addition,
+a court must find some degree of fault to impose
+sanctions. We have recognized that when imposing
+spoliation sanctions, "the trial court has discretion to
+pursue a wide range of responses both for the purpose
+of leveling the evidentiary playing field and for the
+purpose of sanctioning the improper conduct." Vodusek
+v. Bayliner Marine Corp., 71 F.3d 148, 156 (4th
+Cir.1995). But dismissal should be avoided if a lesser
+sanction will perform the necessary function. West, 167
+F.3d at 779.
+We review the district court's exercise of its discretion
+for abuse. Hartford [271 F.3d 591] Ins. Co. v. Am.
+Automatic Sprinkler Sys., Inc., 201 F.3d 538, 543-44
+(4th Cir.2000); West, 167 F.3d at 779.
+B
+Silvestri contends first that he had no duty to preserve
+the vehicle because he was not its owner and because
+neither he nor his agents were in any way engaged in
+the destruction of the evidence. This argument assumes
+too narrow an understanding of the duty at issue.
+The duty to preserve material evidence arises not only
+during litigation but also extends to that period before
+the litigation when a party reasonably should know that
+the evidence may be relevant to anticipated litigation.
+Kronisch v. United States, 150 F.3d 112, 126 (2d
+Cir.1998). If a party cannot fulfill this duty to preserve
+because he does not own or control the evidence, he still
+has an obligation to give the opposing party notice of
+access to the evidence or of the possible destruction of
+the evidence if the party anticipates litigation involving
+that evidence. See Andersen v. Schwartz, 179 Misc.2d
+1001, 687 N.Y.S.2d 232, 234-35 (N.Y.Sup.Ct.1999)
+(holding that in a products liability action arising from a
+vehicle collision where the vehicle was not owned by
+the plaintiffs, the plaintiffs nonetheless had an
+obligation to notify General Motors of the date and time
+of the initial and only inspection of the vehicle because
+the plaintiffs were aware that General Motors would be
+brought in as a defendant).
+In this case, it is true that Silvestri did not own the
+vehicle, nor did he even control it in a legal sense after
+the accident because the vehicle belonged to his
+landlady's husband. But it is apparent that Silvestri had
+access to the vehicle, as his attorney Moench and his
+retained experts were given apparently unlimited access
+to the vehicle for inspection purposes. Moreover, the
+vehicle was preserved in its post-accident condition for
+perhaps two to three months, or more, a period during
+which Silvestri, his lawyer, and his experts recognized
+not only that they would be suing General Motors but
+also that General Motors should be given an
+opportunity to inspect the vehicle. Within a couple of
+weeks of the accident, Silvestri's counsel had a
+conversation with his experts about the need to preserve
+the vehicle and have General Motors inspect it. One of
+Silvestri's expert witnesses, Erik Carlsson, testified that
+it was his understanding that his inspection of the
+vehicle was being conducted in anticipation of filing a
+lawsuit against General Motors and that he advised
+Moench that Silvestri had a valid case against General
+Motors "because the airbag should have deployed." In
+recognition of this, he stated to Moench, "therefore
+General Motors needs to see the car."
+Indeed, Silvestri himself, Silvestri's parents, Moench,
+and the experts all recognized the need to act quickly to
+preserve evidence. The reason why Moench was
+retained and why he promptly retained reconstruction
+experts was to collect evidence before it was lost. The
+relevance of the evidence and the type of lawsuit to file
+became clear when Silvestri's experts conducted their
+inspection and concluded that the "failure by the airbag
+to deploy in this accident must be considered a defect
+that unnecessarily added to Mr. Silvestri's injuries."
+Even after these experts completed their inspection and
+their reports, the vehicle remained in its post-accident
+condition, yet no notice of any claim was given to
+General Motors nor was General Motors advised of any
+opportunity to inspect the vehicle. Moreover, there is
+no evidence to indicate that Silvestri attempted to buy
+the damaged vehicle or to request that it be maintained
+in its post-accident condition until General Motors
+could inspect it. It is [271 F.3d 592] readily apparent,
+therefore, that Silvestri, his attorneys, and his expert
+witnesses anticipated filing suit against General Motors
+and were fully aware that the vehicle was material
+evidence in that litigation. Yet, they failed to take any
+steps to ensure that Silvestri discharged his duty to
+prevent the spoliation of evidence.
+Silvestri now argues, frivolously we conclude, that
+Moench was not his attorney and therefore that
+Moench's failure to preserve the evidence should not be
+imputed to Silvestri. The record belies any such
+contention. It is undisputed that following Silvestri's
+accident, he was incapacitated and his parents retained
+Moench to look after Silvestri's legal interests.
+Moreover, when Silvestri became aware of that fact, he
+explicitly ratified his parents' retention of Moench by
+instructing Moench to continue representing him until
+he and Moench could get together to discuss the matter.
+Apparently, when they finally did meet, some two
+months after the accident, they found themselves in
+disagreement about who would advance the quickly
+increasing litigation costs, which at that point had
+reached several thousand dollars. Silvestri discharged
+Moench and retained new counsel, but he did not
+disavow the existence of an attorney-client relationship
+and the benefits of that relationship. In fact, Moench
+also represented Silvestri in connection with the related
+criminal matter involving Silvestri's driving while
+intoxicated, and Silvestri continued to use the
+investigative materials that Moench and the experts
+developed. Moreover, when Moench later sued Silvestri
+for attorneys fees and costs, Silvestri filed a counterclaim
+alleging attorney malpractice, a claim that could arise
+only out of an attorney-client relationship. As the
+district court correctly pointed out, to allow Silvestri to
+partake in the benefits provided by Moench — the
+testimony and expert reports of Carlsson and Godfrey —
+and at the same time disavow the acts of Moench in
+failing to preserve the evidence or notify General
+Motors would be "particularly unjust."
+The district court concluded that even independent of
+Moench's conduct, the spoliation of evidence was
+imputable to Silvestri himself. First, Silvestri knew that
+Moench had retained experts to examine the vehicle,
+and he had authorized Moench to continue on his behalf
+to collect data in support of a potential lawsuit. Second,
+he knew the significance of preserving the automobile
+because when Moench sued him, he counterclaimed for
+malpractice, alleging that Moench had failed to preserve
+the vehicle which was to be evidence in this lawsuit.
+This all occurred long before General Motors was sued
+or had knowledge of the suit, and yet Silvestri took no
+steps to assure General Motors equal access to the
+evidence or to give General Motors notice of his claim.
+In sum, we agree with the district court that Silvestri
+failed to preserve material evidence in anticipation of
+litigation or to notify General Motors of the availability
+of this evidence, thus breaching his duty not to spoliate
+evidence.
+C
+Silvestri contends that dismissal was an unduly harsh
+sanction for the spoliation that occurred in this case and
+that the district court could have, instead, entered an
+order that designated facts be taken as established for
+purposes of the action or that presumptions be applied
+in connection with the burden of proof. In this vein,
+counsel for Silvestri made clear during oral argument
+that Silvestri was disavowing his experts' demand for
+proof that the sensing and diagnostic module that
+General Motors inspected in 1998 was the same one in
+the vehicle during the accident. Counsel stated during
+argument [271 F.3d 593] that Silvestri accepted the fact
+that the module that General Motors inspected in 1998
+was the original one and that it revealed no system
+defect. Although counsel was attempting to mitigate the
+prejudice found by the district court by conceding this
+fact on appeal, the district court did not have the benefit
+of that concession. Even so, this issue was only one of
+the factors relied upon by the district court to find
+prejudice. Even without this factor, we still conclude
+that General Motors was severely prejudiced by the
+spoliation of evidence that occurred.
+We agree with Silvestri that dismissal is severe and
+constitutes the ultimate sanction for spoliation. It is
+usually justified only in circumstances of bad faith or
+other "like action." Cole v. Keller Indus., Inc., 132 F.3d
+1044, 1047 (4th Cir.1998). But even when conduct is less
+culpable, dismissal may be necessary if the prejudice to
+the defendant is extraordinary, denying it the ability to
+adequately defend its case. As the Supreme Court noted
+in Chambers, the district court has discretion "to fashion
+an appropriate sanction for conduct which abuses the
+judicial process." 501 U.S. at 44-45, 111 S.Ct. 2123. And
+it went on to point out that "outright dismissal of a
+lawsuit, which we had upheld in Link [v. Wabash R.R.
+Co., 370 U.S. 626, 630-31, 82 S.Ct. 1386, 8 L.Ed.2d 734
+(1962)], is a particularly severe sanction, yet is within
+the court's discretion." Id. at 45, 111 S.Ct. 2123.
+As the New York courts have recognized, sometimes
+even the inadvertent, albeit negligent, loss of evidence
+will justify dismissal because of the resulting unfairness:
+"The expansion of sanctions for the inadvertent loss of
+evidence recognizes that such physical evidence often is
+the most eloquent impartial `witness' to what really
+occurred, and further recognizes the resulting unfairness
+inherent in allowing a party to destroy evidence and
+then to benefit from that conduct or omission."
+Kirkland v. New York City Housing Auth., 236 A.D.2d
+170, 173, 666 N.Y.S.2d 609 (N.Y.App.Div.1997). In
+fashioning an appropriate sanction, the New York
+courts have focused not only on the conduct of the
+spoliator but also on the prejudice resulting from the
+destruction of the evidence. See, e.g., Squitieri v. New
+York, 248 A.D.2d 201, 669 N.Y.S.2d 589, 590-91
+(N.Y.App.Div.1998) (finding dismissal appropriate
+where a party negligently disposed of the street sweeper
+at issue in the litigation, preventing the opposing party
+from countering the design defect claim with evidence
+of misuse, alteration, or poor maintenance of the
+sweeper); Kirkland, 236 A.D.2d at 173-74, 666 N.Y.S.2d
+609 (finding dismissal appropriate where a party
+unintentionally failed to preserve the crucial piece of
+evidence, a stove alleged to be defective, and, therefore,
+no actual inspection of the item at issue could be
+performed because "[i]ts loss `irrevocably stripped'[the
+defendant] of useful defenses").
+At bottom, to justify the harsh sanction of dismissal, the
+district court must consider both the spoliator's conduct
+and the prejudice caused and be able to conclude either
+(1) that the spoliator's conduct was so egregious as to
+amount to a forfeiture of his claim, or (2) that the effect
+of the spoliator's conduct was so prejudicial that it
+substantially denied the defendant the ability to defend
+the claim.
+In the case before us, the conduct of the spoliator may
+have been either deliberate or negligent. We know that
+Silvestri's attorney knew that the vehicle was the central
+piece of evidence in his case against General Motors and
+that he had been reminded that this piece of evidence
+should be preserved or that General Motors should be
+notified. As it turned out, [271 F.3d 594] the vehicle was
+not preserved, and neither Silvestri nor his attorneys
+notified General Motors of Silvestri's claim until almost
+three years after the accident; by then, the evidence had
+been destroyed by the repair of the vehicle. Whether
+Silvestri's counsel believed he was securing advantage to
+his client's case by deliberately remaining silent for three
+years or whether he simply ignored his responsibilities
+through carelessness is not revealed in the record. But
+what is revealed is a level of culpability that was at least
+negligent and may have been deliberate. Accordingly, it
+is not clear whether Silvestri's conduct alone would
+justify dismissal.
+When we turn to the prejudice suffered by General
+Motors, we agree with the district court's finding that
+the spoliation was "highly prejudicial." It denied General
+Motors access to the only evidence from which it could
+develop its defenses adequately. First, by not having
+access to the vehicle, General Motors could not develop
+a "crush" model to prove that the airbag properly failed
+to deploy. In order to establish this model, General
+Motors needed crush measurements taken at several
+places on the automobile. These measurements would
+reveal not only the speed at impact, but also the
+direction of forces imposed on the car. This information
+would lead to an ability to determine whether the airbag
+device acted as designed and therefore was critical to the
+central issue in the case.
+Silvestri's expert, Carlsson, testified that he took one
+crush measurement, but he did not write it down. At his
+deposition, however, he seemed to recollect the
+measurement to be around 18 inches. Godfrey made no
+such measurement. Yet, Godfrey later assumed a 24-
+inch crush measurement to conclude that the impact
+causing such a crush was a vehicle traveling at 24 miles
+per hour. Silvestri argues that General Motors could
+have used these same figures to determine its own crush
+model. But, as Silvestri acknowledges and General
+Motors has pointed out, General Motors needed more
+than one crush measurement to develop a crush model,
+and in this case the one crush measurement available
+was unreliable.
+In addition, because of the spoliation, General Motors
+could not resolve the critical question of how Silvestri
+injured his head. General Motors asserts that Silvestri's
+injuries were actually caused by pieces of wood that
+entered the vehicle from the side when the vehicle
+struck the fence. It points out that if the accident was
+caused by the fencing, then the airbag would not have
+prevented Silvestri's injuries. Silvestri's experts,
+however, have contended, inconsistently, that Silvestri
+either hit the steering wheel or hit the windshield. In
+support of their contention they rely on changed
+recollections about the vehicle's condition. At one point,
+they argued that the steering wheel had not been
+deformed nor had its steering column been stroked. Yet,
+at another point, they say that it had been deformed and
+stroked. These inconsistencies could have been resolved
+by a thorough examination of the vehicle cabin to look
+for wood in the car, to determine the location of blood
+and hair, and to take measurements of the steering
+column.
+Thus, not only was the evidence lost to General Motors,
+but the evidence that was preserved was incomplete and
+indefinite. To require General Motors to rely on the
+evidence collected by Silvestri's experts in lieu of what it
+could have collected would result in irreparable
+prejudice. Short of dismissal, the district court would
+have been left to formulate an order that created facts as
+established or that created presumptions. But when
+Silvestri presents vehicle data as his only evidence of a
+[271 F.3d 595] product defect and that data is incomplete
+and perhaps inaccurate, the court would have no basis
+for determining what facts should be taken as
+established. On the other hand, if the court denied
+Silvestri's experts from testifying, as would be an
+alternative, then Silvestri would have no case at all.
+In short, we conclude that the district court's finding
+that General Motors was "highly prejudiced" was not
+clearly erroneous and that in the peculiar circumstances
+of this case, the court's order dismissing this case,
+although severe, was not an abuse of discretion.
+Accordingly, the judgment of the district court is
+AFFIRMED.

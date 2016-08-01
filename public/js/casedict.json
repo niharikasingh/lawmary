@@ -1,535 +1,2116 @@
-{
-    "a.f.a. tours, inc. v. whitchurch": [
-        "A.F.A. TOURS, INC. v. WHITCHURCH 937 F.2d 82 (1991)", 
-        "py/sum/937-F2d-82-sum.txt"
-    ], 
-    "a.l.k. corporation v. columbia pictures industries, inc.": [
-        "A.L.K. CORPORATION v. COLUMBIA PICTURES INDUSTRIES, INC. 440 F.2d 761 (1971)", 
-        "py/sum/440-F2d-761-sum.txt"
-    ], 
-    "abbott laboratories v. granite state ins. co.": [
-        "ABBOTT LABORATORIES v. GRANITE STATE INS. CO. 573 F.Supp. 193 (1983)", 
-        "py/sum/573-FSupp-193-sum.txt"
-    ], 
-    "abney v. amgen inc. ": [
-        "ABNEY v. AMGEN INC.  443 F.3d 540 (2006)", 
-        "py/sum/443-F3d-540-sum.txt", 
-        "py/sum/443-F3d-540-sum-c1.txt"
-    ], 
-    "adams dairy co. v. national dairy products corp.": [
-        "ADAMS DAIRY CO. v. NATIONAL DAIRY PRODUCTS CORP. 293 F.Supp. 1164 (1968)", 
-        "py/sum/293-FSupp-1164-sum.txt"
-    ], 
-    "alabama great southern rail road co. v. carroll": [
-        "ALABAMA GREAT SOUTHERN RAIL ROAD CO. v. CARROLL 11 So 803 (1893)", 
-        "py/sum/11-So-803-sum.txt"
-    ], 
-    "aldinger v. howard": [
-        "ALDINGER v. HOWARD 427 U.S. 1 (1976)", 
-        "py/sum/427-US-1-sum.txt", 
-        "py/sum/427-US-1-sum-d1.txt"
-    ], 
-    "alldread v. city of grenada": [
-        "ALLDREAD v. CITY OF GRENADA 988 F.2d 1425 (1993)", 
-        "py/sum/988-F2d-1425-sum.txt"
-    ], 
-    "alliance to end repression v. rochford": [
-        "ALLIANCE TO END REPRESSION v. ROCHFORD 75 F.R.D. 438 (1976)", 
-        "py/sum/75-FRD-438-sum.txt"
-    ], 
-    "allred v. beigel": [
-        "ALLRED v. BEIGEL 219 S.W.2d 665 (1949)", 
-        "py/sum/219-SW2d-665-sum.txt"
-    ], 
-    "allstate ins. co. v. menards, inc.": [
-        "ALLSTATE INS. CO. v. MENARDS, INC. 285 F.3d 630 (2002)", 
-        "py/sum/285-F3d-630-sum.txt"
-    ], 
-    "alltel communications, inc. v. city of macon": [
-        "ALLTEL COMMUNICATIONS, INC. v. CITY OF MACON 345 F.3d 1219 (2003)", 
-        "py/sum/345-F3d-1219-sum.txt"
-    ], 
-    "american well works co. v. layne": [
-        "AMERICAN WELL WORKS CO. v. LAYNE 241 U.S. 257 (1916)", 
-        "py/sum/241-US-257-sum.txt", 
-        "py/sum/241-US-257-sum-d1.txt"
-    ], 
-    "anderson v. gouldberg": [
-        "ANDERSON v. GOULDBERG 53 N.W. 636 (1891)", 
-        "py/sum/53-NW-636-sum.txt"
-    ], 
-    "anderson v. liberty lobby, inc.": [
-        "ANDERSON v. LIBERTY LOBBY, INC. 477 U.S. 242 (1986)", 
-        "py/sum/477-US-242-sum.txt", 
-        "py/sum/477-US-242-sum-d1.txt", 
-        "py/sum/477-US-242-sum-d2.txt"
-    ], 
-    "asahi metal industry co. v. superior court": [
-        "ASAHI METAL INDUSTRY CO. v. SUPERIOR COURT 480 U.S. 102 (1987)", 
-        "py/sum/480-US-102-sum.txt"
-    ], 
-    "ashcroft v. iqbal": [
-        "ASHCROFT v. IQBAL 556 U.S. 662 (2009)", 
-        "py/sum/556-US-662-sum.txt", 
-        "py/sum/556-US-662-sum-d1.txt", 
-        "py/sum/556-US-662-sum-d2.txt"
-    ], 
-    "associated dry goods v. towers financial corp.": [
-        "ASSOCIATED DRY GOODS v. TOWERS FINANCIAL CORP. 920 F.2d 1121 (1990)", 
-        "py/sum/920-F2d-1121-sum.txt", 
-        "py/sum/920-F2d-1121-sum-c1.txt"
-    ], 
-    "b. & w. taxi. co. v. b. & y. taxi. co.": [
-        "B. & W. TAXI. CO. v. B. & Y. TAXI. CO. 276 U.S. 518 (1928)", 
-        "py/sum/276-US-518-sum.txt", 
-        "py/sum/276-US-518-sum-d1.txt"
-    ], 
-    "babcock v. jackson": [
-        "BABCOCK v. JACKSON 12 N.Y.2d 473 (1963)", 
-        "py/sum/12-NY2d-473-sum.txt", 
-        "py/sum/12-NY2d-473-sum-d1.txt"
-    ], 
-    "balcom v. lynn ladder and scaffolding co., inc.": [
-        "BALCOM v. LYNN LADDER AND SCAFFOLDING CO., INC. 806 F.2d 1127 (1986)", 
-        "py/sum/806-F2d-1127-sum.txt"
-    ], 
-    "baldwin v. traveling men's assn.": [
-        "BALDWIN v. TRAVELING MEN'S ASSN. 283 U.S. 522 (1931)", 
-        "py/sum/283-US-522-sum.txt"
-    ], 
-    "baltimore & c. line v. redman": [
-        "BALTIMORE & C. LINE v. REDMAN 295 U.S. 654 (1935)", 
-        "py/sum/295-US-654-sum.txt"
-    ], 
-    "bank u.s. v. deveaux": [
-        "BANK U.S. v. DEVEAUX 9 U.S. 61 (1809)", 
-        "py/sum/9-US-61-sum.txt"
-    ], 
-    "bean dredging corp. v. dredge technology corp.": [
-        "BEAN DREDGING CORP. v. DREDGE TECHNOLOGY CORP. 744 F.2d 1081 (1984)", 
-        "py/sum/744-F2d-1081-sum.txt"
-    ], 
-    "bell atlantic corp. v. twombly": [
-        "BELL ATLANTIC CORP. v. TWOMBLY 550 U.S. 544 (2007)", 
-        "py/sum/550-US-544-sum.txt"
-    ], 
-    "bell v. allstate life ins. co.": [
-        "BELL v. ALLSTATE LIFE INS. CO. 160 F.3d 452 (1998)", 
-        "py/sum/160-F3d-452-sum.txt"
-    ], 
-    "benjamin v. lindner aviation, inc.": [
-        "BENJAMIN v. LINDNER AVIATION, INC. 534 N.W.2d 400 (1995)", 
-        "py/sum/534-NW2d-400-sum.txt", 
-        "py/sum/534-NW2d-400-sum-d1.txt"
-    ], 
-    "bensusan restaurant corp. v. king": [
-        "BENSUSAN RESTAURANT CORP. v. KING 126 F.3d 25 (1997)", 
-        "py/sum/126-F3d-25-sum.txt"
-    ], 
-    "bernhard v. bank of america national trust and savings assn.": [
-        "BERNHARD v. BANK OF AMERICA NATIONAL TRUST AND SAVINGS ASSN. 122 P.2d 892 (1942)", 
-        "py/sum/122-P2d-892-sum.txt"
-    ], 
-    "blonder-tongue laboratories, inc. v. university of illinois foundation": [
-        "BLONDER-TONGUE LABORATORIES, INC. v. UNIVERSITY OF ILLINOIS FOUNDATION 402 U.S. 313 (1971)", 
-        "py/sum/402-US-313-sum.txt"
-    ], 
-    "boeing company v. shipman": [
-        "BOEING COMPANY v. SHIPMAN 411 F.2d 365 (1969)", 
-        "py/sum/411-F2d-365-sum.txt", 
-        "py/sum/411-F2d-365-sum-c1.txt", 
-        "py/sum/411-F2d-365-sum-c2.txt"
-    ], 
-    "boschetto v. hansing": [
-        "BOSCHETTO v. HANSING 539 F.3d 1011 (2008)", 
-        "py/sum/539-F3d-1011-sum.txt", 
-        "py/sum/539-F3d-1011-sum-c1.txt"
-    ], 
-    "briggs v. goodwin": [
-        "BRIGGS v. GOODWIN 569 F.2d 10 (1977)", 
-        "py/sum/569-F2d-10-sum.txt", 
-        "py/sum/569-F2d-10-sum-d1.txt"
-    ], 
-    "bright v. bechtel petroleum, inc.": [
-        "BRIGHT v. BECHTEL PETROLEUM, INC. 780 F.2d 766 (1986)", 
-        "py/sum/780-F2d-766-sum.txt"
-    ], 
-    "brown v. turner": [
-        "BROWN v. TURNER 497 So.2d 1119 (1986)", 
-        "py/sum/497-So2d-1119-sum.txt"
-    ], 
-    "burger king corp. v. rudzewicz": [
-        "BURGER KING CORP. v. RUDZEWICZ 471 U.S. 462 (1985)", 
-        "py/sum/471-US-462-sum.txt", 
-        "py/sum/471-US-462-sum-d1.txt"
-    ], 
-    "burlington northern r. r. co. v. woods": [
-        "BURLINGTON NORTHERN R. R. CO. v. WOODS 480 U.S. 1 (1987)", 
-        "py/sum/480-US-1-sum.txt"
-    ], 
-    "burnham v. superior court of cal., marin county": [
-        "BURNHAM v. SUPERIOR COURT OF CAL., MARIN COUNTY 495 U.S. 604 (1990)", 
-        "py/sum/495-US-604-sum.txt", 
-        "py/sum/495-US-604-sum-c1.txt", 
-        "py/sum/495-US-604-sum-c2.txt", 
-        "py/sum/495-US-604-sum-c3.txt"
-    ], 
-    "butler, fitzgerald & potter v. sequa corp.": [
-        "BUTLER, FITZGERALD & POTTER v. SEQUA CORP. 250 F.3d 171 (2001)", 
-        "py/sum/250-F3d-171-sum.txt"
-    ], 
-    "byrd v. blue ridge cooperative": [
-        "BYRD v. BLUE RIDGE COOPERATIVE 356 U.S. 525 (1958)", 
-        "py/sum/356-US-525-sum.txt", 
-        "py/sum/356-US-525-sum-c1.txt", 
-        "py/sum/356-US-525-sum-d1.txt", 
-        "py/sum/356-US-525-sum-d2.txt"
-    ], 
-    "chaplaincy of full gospel churches v. england": [
-        "CHAPLAINCY OF FULL GOSPEL CHURCHES v. ENGLAND 454 F.3d 290 (2006)", 
-        "py/sum/454-F3d-290-sum.txt"
-    ], 
-    "cheney bros. v. doris silk corporation": [
-        "CHENEY BROS. v. DORIS SILK CORPORATION 35 F.2d 279 (1929)", 
-        "py/sum/35-F2d-279-sum.txt"
-    ], 
-    "clark v. lacy": [
-        "CLARK v. LACY 376 F.3d 682 (2004)", 
-        "py/sum/376-F3d-682-sum.txt"
-    ], 
-    "colorado river water conserv. dist. v. united states ": [
-        "COLORADO RIVER WATER CONSERV. DIST. v. UNITED STATES  424 U.S. 800 (1976)", 
-        "py/sum/424-US-800-sum.txt", 
-        "py/sum/424-US-800-sum-d1.txt", 
-        "py/sum/424-US-800-sum-d2.txt"
-    ], 
-    "connecticut v. doehr": [
-        "CONNECTICUT v. DOEHR 501 U.S. 1 (1991)", 
-        "py/sum/501-US-1-sum.txt", 
-        "py/sum/501-US-1-sum-c1.txt", 
-        "py/sum/501-US-1-sum-c2.txt"
-    ], 
-    "cooper v. aaron ": [
-        "COOPER v. AARON  358 U.S. 1 (1958)", 
-        "py/sum/358-US-1-sum.txt", 
-        "py/sum/358-US-1-sum-d1.txt"
-    ], 
-    "corliss v. wenner": [
-        "CORLISS v. WENNER 34 P.3d 1100 (2001)", 
-        "py/sum/34-P3d-1100-sum.txt"
-    ], 
-    "doe v. united services life insurance company": [
-        "DOE v. UNITED SERVICES LIFE INSURANCE COMPANY 123 F.R.D. 437 (1988)", 
-        "py/sum/123-FRD-437-sum.txt"
-    ], 
-    "dusenbery v. united states": [
-        "DUSENBERY v. UNITED STATES 534 U.S. 161 (2002)", 
-        "py/sum/534-US-161-sum.txt", 
-        "py/sum/534-US-161-sum-d1.txt"
-    ], 
-    "empire healthchoice assurance, inc. v. mcveigh": [
-        "EMPIRE HEALTHCHOICE ASSURANCE, INC. v. MCVEIGH 547 U.S. 677 (2006)", 
-        "py/sum/547-US-677-sum.txt", 
-        "py/sum/547-US-677-sum-d1.txt"
-    ], 
-    "first federal savings and loan association of bowling green v. mcreynolds": [
-        "FIRST FEDERAL SAVINGS AND LOAN ASSOCIATION OF BOWLING GREEN v. MCREYNOLDS 297 F.Supp. 1159 (1969)", 
-        "py/sum/297-FSupp-1159-sum.txt"
-    ], 
-    "forbes v. eagleson": [
-        "FORBES v. EAGLESON 19 F.Supp.2d 352 (1998)", 
-        "py/sum/19-FSupp2d-352-sum.txt"
-    ], 
-    "fuentes v. shevin": [
-        "FUENTES v. SHEVIN 407 U.S. 67 (1972)", 
-        "py/sum/407-US-67-sum.txt", 
-        "py/sum/407-US-67-sum-d1.txt"
-    ], 
-    "ganter v. kapiloff": [
-        "GANTER v. KAPILOFF 516 A.2d 611 (1986)", 
-        "py/sum/516-A2d-611-sum.txt"
-    ], 
-    "garr v. u.s. healthcare": [
-        "GARR v. U.S. HEALTHCARE 22 F.3d. 1274 (1994)", 
-        "py/sum/22-F3d-1274-sum.txt", 
-        "py/sum/22-F3d-1274-sum-d1.txt"
-    ], 
-    "ghen v. rich": [
-        "GHEN v. RICH 8 F. 159 (1881)", 
-        "py/sum/8-F-159-sum.txt"
-    ], 
-    "gissel v. state": [
-        "GISSEL v. STATE 727 P.2d 1153 (1986)", 
-        "py/sum/727-P2d-1153-sum.txt", 
-        "py/sum/727-P2d-1153-sum-d1.txt"
-    ], 
-    "goldberg v. kelly ": [
-        "GOLDBERG v. KELLY  397 U.S. 254 (1970)", 
-        "py/sum/397-US-254-sum.txt", 
-        "py/sum/397-US-254-sum-d1.txt"
-    ], 
-    "goodyear dunlop tires operations, s.a. v. brown": [
-        "GOODYEAR DUNLOP TIRES OPERATIONS, S.A. v. BROWN 131 S.Ct. 2846 (2011)", 
-        "py/sum/131-SCt-2846-sum.txt"
-    ], 
-    "grable & sons metal products, inc. v. darue engineering & mfg.": [
-        "GRABLE & SONS METAL PRODUCTS, INC. v. DARUE ENGINEERING & MFG. 545 U.S. 308 (2005)", 
-        "py/sum/545-US-308-sum.txt", 
-        "py/sum/545-US-308-sum-c1.txt"
-    ], 
-    "grace v. macarthur": [
-        "GRACE v. MACARTHUR 170 F. Supp. 442 (1959)", 
-        "py/sum/170-F-Supp.-442-sum.txt"
-    ], 
-    "gray v. amer. radiator & standard sanitary corp.": [
-        "GRAY v. AMER. RADIATOR & STANDARD SANITARY CORP. 22 Ill.2d 432 (1961)", 
-        "py/sum/22-Ill2d-432-sum.txt"
-    ], 
-    "greene v. lindsey": [
-        "GREENE v. LINDSEY 456 U.S. 444 (1982)", 
-        "py/sum/456-US-444-sum.txt", 
-        "py/sum/456-US-444-sum-d1.txt"
-    ], 
-    "griffis v. luban": [
-        "GRIFFIS v. LUBAN 646 N.W.2d 527 (2002)", 
-        "py/sum/646-NW2d-527-sum.txt"
-    ], 
-    "guaranteed systems, inc. v. american nat. can co.": [
-        "GUARANTEED SYSTEMS, INC. v. AMERICAN NAT. CAN CO. 842 F. Supp. 855 (1994)", 
-        "py/sum/842-F-Supp.-855-sum.txt"
-    ], 
-    "gunn v. minton": [
-        "GUNN v. MINTON 133 S.Ct. 1059 (2013)", 
-        "py/sum/133-SCt-1059-sum.txt"
-    ], 
-    "hamdi v. rumsfeld": [
-        "HAMDI v. RUMSFELD 542 U.S. 507 (2004)", 
-        "py/sum/542-US-507-sum.txt", 
-        "py/sum/542-US-507-sum-c1.txt", 
-        "py/sum/542-US-507-sum-d1.txt", 
-        "py/sum/542-US-507-sum-d2.txt"
-    ], 
-    "hanson v. denckla": [
-        "HANSON v. DENCKLA 357 U.S. 235 (1958)", 
-        "py/sum/357-US-235-sum.txt", 
-        "py/sum/357-US-235-sum-d1.txt", 
-        "py/sum/357-US-235-sum-d2.txt"
-    ], 
-    "holmes group, inc. v. vornado air circulation systems, inc.": [
-        "HOLMES GROUP, INC. v. VORNADO AIR CIRCULATION SYSTEMS, INC. 535 U.S. 826 (2002)", 
-        "py/sum/535-US-826-sum.txt", 
-        "py/sum/535-US-826-sum-c1.txt", 
-        "py/sum/535-US-826-sum-c2.txt"
-    ], 
-    "hooters of america, inc. v. phillips": [
-        "HOOTERS OF AMERICA, INC. v. PHILLIPS 173 F.3d 933 (1999)", 
-        "py/sum/173-F3d-933-sum.txt"
-    ], 
-    "houchens v. american home assurance co.": [
-        "HOUCHENS v. AMERICAN HOME ASSURANCE CO. 927 F.2d 163 (1991)", 
-        "py/sum/927-F2d-163-sum.txt"
-    ], 
-    "iglesias v. mutual life ins. co. of new york": [
-        "IGLESIAS v. MUTUAL LIFE INS. CO. OF NEW YORK 156 F.3d 237 (1998)", 
-        "py/sum/156-F3d-237-sum.txt"
-    ], 
-    "insurance co. of north america v. s/s \"hellenic challenger\"": [
-        "INSURANCE CO. OF NORTH AMERICA v. S/S \"HELLENIC CHALLENGER\" 88 F.R.D. 545 (1980)", 
-        "py/sum/88-FRD-545-sum.txt"
-    ], 
-    "international news serv. v. associated press": [
-        "INTERNATIONAL NEWS SERV. v. ASSOCIATED PRESS 248 U.S. 215 (1918)", 
-        "py/sum/248-US-215-sum.txt", 
-        "py/sum/248-US-215-sum-d1.txt", 
-        "py/sum/248-US-215-sum-d2.txt"
-    ], 
-    "international shoe co. v. washington": [
-        "INTERNATIONAL SHOE CO. v. WASHINGTON 326 U.S. 310 (1945)", 
-        "py/sum/326-US-310-sum.txt", 
-        "py/sum/326-US-310-sum-d1.txt"
-    ], 
-    "j. mcintyre machinery, ltd. v. nicastro": [
-        "J. MCINTYRE MACHINERY, LTD. v. NICASTRO 131 S.Ct. 2780 (2011)", 
-        "py/sum/131-SCt-2780-sum.txt", 
-        "py/sum/131-SCt-2780-sum-c1.txt", 
-        "py/sum/131-SCt-2780-sum-d1.txt"
-    ], 
-    "jones v. flowers": [
-        "JONES v. FLOWERS 547 U.S. 220 (2006)", 
-        "py/sum/547-US-220-sum.txt", 
-        "py/sum/547-US-220-sum-d1.txt"
-    ], 
-    "jones v. ford motor credit co.": [
-        "JONES v. FORD MOTOR CREDIT CO. 358 F.3d 205 (2004)", 
-        "py/sum/358-F3d-205-sum.txt"
-    ], 
-    "kaufman v. lilly & co.": [
-        "KAUFMAN v. LILLY & CO. 65 N.Y.2d 449 (1985)", 
-        "py/sum/65-NY2d-449-sum.txt"
-    ], 
-    "lassiter v. department of social svcs. ": [
-        "LASSITER v. DEPARTMENT OF SOCIAL SVCS.  452 U.S. 18 (1981)", 
-        "py/sum/452-US-18-sum.txt", 
-        "py/sum/452-US-18-sum-c1.txt", 
-        "py/sum/452-US-18-sum-d1.txt", 
-        "py/sum/452-US-18-sum-c2.txt"
-    ], 
-    "louisville & nashville r.r. v. mottley": [
-        "LOUISVILLE & NASHVILLE R.R. v. MOTTLEY 211 U.S. 149 (1908)", 
-        "py/sum/211-US-149-sum.txt"
-    ], 
-    "mathews v. eldridge ": [
-        "MATHEWS v. ELDRIDGE  424 U.S. 319 (1976)", 
-        "py/sum/424-US-319-sum.txt", 
-        "py/sum/424-US-319-sum-d1.txt"
-    ], 
-    "mcgee v. international life ins. co.": [
-        "MCGEE v. INTERNATIONAL LIFE INS. CO. 355 U.S. 220 (1957)", 
-        "py/sum/355-US-220-sum.txt"
-    ], 
-    "merrell dow pharmaceuticals inc. v. thompson": [
-        "MERRELL DOW PHARMACEUTICALS INC. v. THOMPSON 478 U.S. 804 (1986)", 
-        "py/sum/478-US-804-sum.txt", 
-        "py/sum/478-US-804-sum-d1.txt"
-    ], 
-    "migra v. warren city sch. dist. bd. ": [
-        "MIGRA v. WARREN CITY SCH. DIST. BD.  465 U.S. 75 (1984)", 
-        "py/sum/465-US-75-sum.txt", 
-        "py/sum/465-US-75-sum-c1.txt"
-    ], 
-    "mine workers v. gibbs": [
-        "MINE WORKERS v. GIBBS 383 U.S. 715 (1966)", 
-        "py/sum/383-US-715-sum.txt", 
-        "py/sum/383-US-715-sum-c1.txt"
-    ], 
-    "moore v. chesapeake & ohio railway co.": [
-        "MOORE v. CHESAPEAKE & OHIO RAILWAY CO. 291 U.S. 205 (1934)", 
-        "py/sum/291-US-205-sum.txt"
-    ], 
-    "morrison v. circuit city stores, inc.": [
-        "MORRISON v. CIRCUIT CITY STORES, INC. 70 F. Supp. 2d 815 (1999)", 
-        "py/sum/70-F-Supp.-2d-815-sum.txt"
-    ], 
-    "mullane v. central hanover tr. co.": [
-        "MULLANE v. CENTRAL HANOVER TR. CO. 339 U.S. 306 (1950)", 
-        "py/sum/339-US-306-sum.txt", 
-        "py/sum/339-US-306-sum-d1.txt"
-    ], 
-    "national basketball association v. motorola, inc.": [
-        "NATIONAL BASKETBALL ASSOCIATION v. MOTOROLA, INC. 105 F.3d 841 (1997)", 
-        "py/sum/105-F3d-841-sum.txt"
-    ], 
-    "neumeier v. kuehner": [
-        "NEUMEIER v. KUEHNER 31 N.Y.2d 121 (1972)", 
-        "py/sum/31-NY2d-121-sum.txt", 
-        "py/sum/31-NY2d-121-sum-d1.txt", 
-        "py/sum/31-NY2d-121-sum-c1.txt"
-    ], 
-    "ochoa v. pv holding corporation": [
-        "OCHOA v. PV HOLDING CORPORATION 06 cv 10716 (2007)", 
-        "py/sum/06-cv-10716-sum.txt"
-    ], 
-    "osborn v. u.s. bank": [
-        "OSBORN v. U.S. BANK 22 U.S. 738 (1824)", 
-        "py/sum/22-US-738-sum.txt", 
-        "py/sum/22-US-738-sum-d1.txt"
-    ], 
-    "pennoyer v. neff": [
-        "PENNOYER v. NEFF 95 U.S. 714 (1878)", 
-        "py/sum/95-US-714-sum.txt", 
-        "py/sum/95-US-714-sum-d1.txt"
-    ], 
-    "pierson v. post": [
-        "PIERSON v. POST 3 Cai. 175 (1805)", 
-        "py/sum/3-Cai-175-sum.txt", 
-        "py/sum/3-Cai-175-sum-d1.txt"
-    ], 
-    "pruitt v. cheney": [
-        "PRUITT v. CHENEY 963 F.2d 1160 (1992)", 
-        "py/sum/963-F2d-1160-sum.txt"
-    ], 
-    "reeves v. sanderson plumbing products, inc. ": [
-        "REEVES v. SANDERSON PLUMBING PRODUCTS, INC.  530 U.S. 133 (2000)", 
-        "py/sum/530-US-133-sum.txt", 
-        "py/sum/530-US-133-sum-c1.txt"
-    ], 
-    "ritz v. selma united methodist church": [
-        "RITZ v. SELMA UNITED METHODIST CHURCH 467 N.W.2d 266 (1991)", 
-        "py/sum/467-NW2d-266-sum.txt"
-    ], 
-    "shanaghan v. cahill": [
-        "SHANAGHAN v. CAHILL 58 F.3d 106 (1995)", 
-        "py/sum/58-F3d-106-sum.txt"
-    ], 
-    "shaumyan v. o'neill": [
-        "SHAUMYAN v. O'NEILL 987 F.2d 122 (1993)", 
-        "py/sum/987-F2d-122-sum.txt"
-    ], 
-    "skelly oil co. v. phillips co.": [
-        "SKELLY OIL CO. v. PHILLIPS CO. 339 U.S. 667 (1950)", 
-        "py/sum/339-US-667-sum.txt", 
-        "py/sum/339-US-667-sum-d1.txt"
-    ], 
-    "smith v. kansas city title & trust co.": [
-        "SMITH v. KANSAS CITY TITLE & TRUST CO. 255 U.S. 180 (1921)", 
-        "py/sum/255-US-180-sum.txt", 
-        "py/sum/255-US-180-sum-d1.txt"
-    ], 
-    "sniadach v. family finance corp. ": [
-        "SNIADACH v. FAMILY FINANCE CORP.  395 U.S. 337 (1969)", 
-        "py/sum/395-US-337-sum.txt", 
-        "py/sum/395-US-337-sum-c1.txt", 
-        "py/sum/395-US-337-sum-d1.txt"
-    ], 
-    "state ex rel. haman v. fox": [
-        "STATE EX REL. HAMAN v. FOX 594 P.2d 1093 (1979)", 
-        "py/sum/594-P2d-1093-sum.txt"
-    ], 
-    "steelworkers v. r. h. bouligny, inc. ": [
-        "STEELWORKERS v. R. H. BOULIGNY, INC.  382 U.S. 145 (1965)", 
-        "py/sum/382-US-145-sum.txt"
-    ], 
-    "strawbridge v. curtiss ": [
-        "STRAWBRIDGE v. CURTISS  7 U.S. 267 (1806)", 
-        "py/sum/7-US-267-sum.txt"
-    ], 
-    "tai tran v. new rochelle hosp": [
-        "TAI TRAN v. NEW ROCHELLE HOSP 786 N.E.2d 444 (2003)", 
-        "py/sum/786-NE2d-444-sum.txt"
-    ], 
-    "texas dept. of commun. affairs v. burdine": [
-        "TEXAS DEPT. OF COMMUN. AFFAIRS v. BURDINE 450 U.S. 248 (1981)", 
-        "py/sum/450-US-248-sum.txt"
-    ], 
-    "university of tennessee v. elliott ": [
-        "UNIVERSITY OF TENNESSEE v. ELLIOTT  478 U.S. 788 (1986)", 
-        "py/sum/478-US-788-sum.txt", 
-        "py/sum/478-US-788-sum-c1.txt"
-    ], 
-    "valley nat. bank of ariz. v. j.c. penney ins.": [
-        "VALLEY NAT. BANK OF ARIZ. v. J.C. PENNEY INS. 628 P.2d 991 (1981)", 
-        "py/sum/628-P2d-991-sum.txt"
-    ], 
-    "vitek v. jones ": [
-        "VITEK v. JONES  445 U.S. 480 (1980)", 
-        "py/sum/445-US-480-sum.txt", 
-        "py/sum/445-US-480-sum-c1.txt", 
-        "py/sum/445-US-480-sum-d1.txt", 
-        "py/sum/445-US-480-sum-d2.txt"
-    ], 
-    "walden v. fiore": [
-        "WALDEN v. FIORE 134 S.Ct. 1115 (2014)", 
-        "py/sum/134-SCt-1115-sum.txt"
-    ], 
-    "world-wide volkswagen corp. v. woodson": [
-        "WORLD-WIDE VOLKSWAGEN CORP. v. WOODSON 444 U.S. 286 (1980)", 
-        "py/sum/444-US-286-sum.txt", 
-        "py/sum/444-US-286-sum-d1.txt", 
-        "py/sum/444-US-286-sum-d2.txt", 
-        "py/sum/444-US-286-sum-d3.txt"
-    ], 
-    "wyman v. newhouse": [
-        "WYMAN v. NEWHOUSE 93 F.2d 313 (1937)", 
-        "py/sum/93-F2d-313-sum.txt"
-    ]
-}
+[
+    {
+        "examMode": [], 
+        "link": "py/sum/573-FSupp-193-sum.txt", 
+        "name": "ABBOTT LABORATORIES v. GRANITE STATE INS. CO.   573 F.Supp. 193 (1983)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/293-FSupp-1164-sum.txt", 
+        "name": "ADAMS DAIRY CO. v. NATIONAL DAIRY PRODUCTS CORP.   293 F.Supp. 1164 (1968)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/427-US-1-sum.txt", 
+        "name": "ALDINGER v. HOWARD   427 U.S. 1 (1976)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/427-US-1-sum-d1.txt", 
+        "name": "ALDINGER v. HOWARD   427 U.S. 1 (1976)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/988-F2d-1425-sum.txt", 
+        "name": "ALLDREAD v. CITY OF GRENADA   988 F.2d 1425 (1993)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/75-FRD-438-sum.txt", 
+        "name": "ALLIANCE TO END REPRESSION v. ROCHFORD   75 F.R.D. 438 (1976)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/285-F3d-630-sum.txt", 
+        "name": "ALLSTATE INS. CO. v. MENARDS, INC.   285 F.3d 630 (2002)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/345-F3d-1219-sum.txt", 
+        "name": "ALLTEL COMMUNICATIONS, INC. v. CITY OF MACON   345 F.3d 1219 (2003)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/241-US-257-sum.txt", 
+        "name": "AMERICAN WELL WORKS CO. v. LAYNE   241 U.S. 257 (1916)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/241-US-257-sum-d1.txt", 
+        "name": "AMERICAN WELL WORKS CO. v. LAYNE   241 U.S. 257 (1916)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/477-US-242-sum.txt", 
+        "name": "ANDERSON v. LIBERTY LOBBY, INC.   477 U.S. 242 (1986)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/477-US-242-sum-d1.txt", 
+        "name": "ANDERSON v. LIBERTY LOBBY, INC.   477 U.S. 242 (1986)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/477-US-242-sum-d2.txt", 
+        "name": "ANDERSON v. LIBERTY LOBBY, INC.   477 U.S. 242 (1986)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/480-US-102-sum.txt", 
+        "name": "ASAHI METAL INDUSTRY CO. v. SUPERIOR COURT   480 U.S. 102 (1987)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/556-US-662-sum.txt", 
+        "name": "ASHCROFT v. IQBAL   556 U.S. 662 (2009)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/556-US-662-sum-d1.txt", 
+        "name": "ASHCROFT v. IQBAL   556 U.S. 662 (2009)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/556-US-662-sum-d2.txt", 
+        "name": "ASHCROFT v. IQBAL   556 U.S. 662 (2009)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/920-F2d-1121-sum.txt", 
+        "name": "ASSOCIATED DRY GOODS v. TOWERS FINANCIAL CORP.   920 F.2d 1121 (1990)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/920-F2d-1121-sum-c1.txt", 
+        "name": "ASSOCIATED DRY GOODS v. TOWERS FINANCIAL CORP.   920 F.2d 1121 (1990)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/806-F2d-1127-sum.txt", 
+        "name": "BALCOM v. LYNN LADDER AND SCAFFOLDING CO., INC.   806 F.2d 1127 (1986)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/283-US-522-sum.txt", 
+        "name": "BALDWIN v. TRAVELING MEN'S ASSN.   283 U.S. 522 (1931)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/295-US-654-sum.txt", 
+        "name": "BALTIMORE & C. LINE v. REDMAN   295 U.S. 654 (1935)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/744-F2d-1081-sum.txt", 
+        "name": "BEAN DREDGING CORP. v. DREDGE TECHNOLOGY CORP.   744 F.2d 1081 (1984)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/160-F3d-452-sum.txt", 
+        "name": "BELL v. ALLSTATE LIFE INS. CO.   160 F.3d 452 (1998)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/550-US-544-sum.txt", 
+        "name": "BELL ATLANTIC CORP. v. TWOMBLY   550 U.S. 544 (2007)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/126-F3d-25-sum.txt", 
+        "name": "BENSUSAN RESTAURANT CORP. v. KING   126 F.3d 25 (1997)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/122-P2d-892-sum.txt", 
+        "name": "BERNHARD v. BANK OF AMERICA NATIONAL TRUST AND SAVINGS ASSN.   122 P.2d 892 (1942)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/276-US-518-sum.txt", 
+        "name": "B. & W. TAXI. CO. v. B. & Y. TAXI. CO.   276 U.S. 518 (1928)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/276-US-518-sum-d1.txt", 
+        "name": "B. & W. TAXI. CO. v. B. & Y. TAXI. CO.   276 U.S. 518 (1928)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/402-US-313-sum.txt", 
+        "name": "BLONDER-TONGUE LABORATORIES, INC. v. UNIVERSITY OF ILLINOIS FOUNDATION   402 U.S. 313 (1971)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/411-F2d-365-sum.txt", 
+        "name": "BOEING COMPANY v. SHIPMAN   411 F.2d 365 (1969)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/411-F2d-365-sum-c1.txt", 
+        "name": "BOEING COMPANY v. SHIPMAN   411 F.2d 365 (1969)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/411-F2d-365-sum-c2.txt", 
+        "name": "BOEING COMPANY v. SHIPMAN   411 F.2d 365 (1969)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/539-F3d-1011-sum.txt", 
+        "name": "BOSCHETTO v. HANSING   539 F.3d 1011 (2008)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/539-F3d-1011-sum-c1.txt", 
+        "name": "BOSCHETTO v. HANSING   539 F.3d 1011 (2008)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/569-F2d-10-sum.txt", 
+        "name": "BRIGGS v. GOODWIN   569 F.2d 10 (1977)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/569-F2d-10-sum-d1.txt", 
+        "name": "BRIGGS v. GOODWIN   569 F.2d 10 (1977)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/19-FSupp2d-352-sum.txt", 
+        "name": "FORBES v. EAGLESON   19 F.Supp.2d 352 (1998)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/7-US-267-sum.txt", 
+        "name": "STRAWBRIDGE v. CURTISS    7 U.S. 267 (1806)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/12-NY2d-473-sum.txt", 
+        "name": "BABCOCK v. JACKSON   12 N.Y.2d 473 (1963)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/12-NY2d-473-sum-d1.txt", 
+        "name": "BABCOCK v. JACKSON   12 N.Y.2d 473 (1963)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/22-F3d-1274-sum.txt", 
+        "name": "GARR v. U.S. HEALTHCARE   22 F.3d. 1274 (1994)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/22-F3d-1274-sum-d1.txt", 
+        "name": "GARR v. U.S. HEALTHCARE   22 F.3d. 1274 (1994)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/31-NY2d-121-sum.txt", 
+        "name": "NEUMEIER v. KUEHNER   31 N.Y.2d 121 (1972)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/31-NY2d-121-sum-d1.txt", 
+        "name": "NEUMEIER v. KUEHNER   31 N.Y.2d 121 (1972)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/31-NY2d-121-sum-c1.txt", 
+        "name": "NEUMEIER v. KUEHNER   31 N.Y.2d 121 (1972)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/65-NY2d-449-sum.txt", 
+        "name": "KAUFMAN v. LILLY & CO.   65 N.Y.2d 449 (1985)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/70-F-Supp.-2d-815-sum.txt", 
+        "name": "MORRISON v. CIRCUIT CITY STORES, INC.   70 F. Supp. 2d 815 (1999)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/170-F-Supp.-442-sum.txt", 
+        "name": "GRACE v. MACARTHUR   170 F. Supp. 442 (1959)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/173-F3d-933-sum.txt", 
+        "name": "HOOTERS OF AMERICA, INC. v. PHILLIPS   173 F.3d 933 (1999)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/358-US-1-sum.txt", 
+        "name": "COOPER v. AARON    358 U.S. 1 (1958)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/358-US-1-sum-d1.txt", 
+        "name": "COOPER v. AARON    358 U.S. 1 (1958)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/376-F3d-682-sum.txt", 
+        "name": "CLARK v. LACY   376 F.3d 682 (2004)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/382-US-145-sum.txt", 
+        "name": "STEELWORKERS v. R. H. BOULIGNY, INC.    382 U.S. 145 (1965)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/395-US-337-sum.txt", 
+        "name": "SNIADACH v. FAMILY FINANCE CORP.    395 U.S. 337 (1969)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/395-US-337-sum-c1.txt", 
+        "name": "SNIADACH v. FAMILY FINANCE CORP.    395 U.S. 337 (1969)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/395-US-337-sum-d1.txt", 
+        "name": "SNIADACH v. FAMILY FINANCE CORP.    395 U.S. 337 (1969)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/397-US-254-sum.txt", 
+        "name": "GOLDBERG v. KELLY    397 U.S. 254 (1970)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/397-US-254-sum-d1.txt", 
+        "name": "GOLDBERG v. KELLY    397 U.S. 254 (1970)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/424-US-319-sum.txt", 
+        "name": "MATHEWS v. ELDRIDGE    424 U.S. 319 (1976)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/424-US-319-sum-d1.txt", 
+        "name": "MATHEWS v. ELDRIDGE    424 U.S. 319 (1976)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/424-US-800-sum.txt", 
+        "name": "COLORADO RIVER WATER CONSERV. DIST. v. UNITED STATES    424 U.S. 800 (1976)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/424-US-800-sum-d1.txt", 
+        "name": "COLORADO RIVER WATER CONSERV. DIST. v. UNITED STATES    424 U.S. 800 (1976)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/424-US-800-sum-d2.txt", 
+        "name": "COLORADO RIVER WATER CONSERV. DIST. v. UNITED STATES    424 U.S. 800 (1976)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/440-F2d-761-sum.txt", 
+        "name": "A.L.K. CORPORATION v. COLUMBIA PICTURES INDUSTRIES, INC.   440 F.2d 761 (1971)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/445-US-480-sum.txt", 
+        "name": "VITEK v. JONES    445 U.S. 480 (1980)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/445-US-480-sum-c1.txt", 
+        "name": "VITEK v. JONES    445 U.S. 480 (1980)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/445-US-480-sum-d1.txt", 
+        "name": "VITEK v. JONES    445 U.S. 480 (1980)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/445-US-480-sum-d2.txt", 
+        "name": "VITEK v. JONES    445 U.S. 480 (1980)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/450-US-248-sum.txt", 
+        "name": "TEXAS DEPT. OF COMMUN. AFFAIRS v. BURDINE   450 U.S. 248 (1981)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/452-US-18-sum.txt", 
+        "name": "LASSITER v. DEPARTMENT OF SOCIAL SVCS.    452 U.S. 18 (1981)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/452-US-18-sum-c1.txt", 
+        "name": "LASSITER v. DEPARTMENT OF SOCIAL SVCS.    452 U.S. 18 (1981)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/452-US-18-sum-d1.txt", 
+        "name": "LASSITER v. DEPARTMENT OF SOCIAL SVCS.    452 U.S. 18 (1981)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/452-US-18-sum-c2.txt", 
+        "name": "LASSITER v. DEPARTMENT OF SOCIAL SVCS.    452 U.S. 18 (1981)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/465-US-75-sum.txt", 
+        "name": "MIGRA v. WARREN CITY SCH. DIST. BD.    465 U.S. 75 (1984)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/465-US-75-sum-c1.txt", 
+        "name": "MIGRA v. WARREN CITY SCH. DIST. BD.    465 U.S. 75 (1984)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/478-US-788-sum.txt", 
+        "name": "UNIVERSITY OF TENNESSEE v. ELLIOTT    478 U.S. 788 (1986)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/478-US-788-sum-c1.txt", 
+        "name": "UNIVERSITY OF TENNESSEE v. ELLIOTT    478 U.S. 788 (1986)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/530-US-133-sum.txt", 
+        "name": "REEVES v. SANDERSON PLUMBING PRODUCTS, INC.    530 U.S. 133 (2000)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/530-US-133-sum-c1.txt", 
+        "name": "REEVES v. SANDERSON PLUMBING PRODUCTS, INC.    530 U.S. 133 (2000)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/628-P2d-991-sum.txt", 
+        "name": "VALLEY NAT. BANK OF ARIZ. v. J.C. PENNEY INS.   628 P.2d 991 (1981)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/646-NW2d-527-sum.txt", 
+        "name": "GRIFFIS v. LUBAN   646 N.W.2d 527 (2002)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/786-NE2d-444-sum.txt", 
+        "name": "TAI TRAN v. NEW ROCHELLE HOSP   786 N.E.2d 444 (2003)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/842-F-Supp.-855-sum.txt", 
+        "name": "GUARANTEED SYSTEMS, INC. v. AMERICAN NAT. CAN CO.   842 F. Supp. 855 (1994)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/927-F2d-163-sum.txt", 
+        "name": "HOUCHENS v. AMERICAN HOME ASSURANCE CO.   927 F.2d 163 (1991)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/963-F2d-1160-sum.txt", 
+        "name": "PRUITT v. CHENEY   963 F.2d 1160 (1992)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/297-FSupp-1159-sum.txt", 
+        "name": "FIRST FEDERAL SAVINGS AND LOAN ASSOCIATION OF BOWLING GREEN v. MCREYNOLDS   297 F.Supp. 1159 (1969)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/11-So-803-sum.txt", 
+        "name": "ALABAMA GREAT SOUTHERN RAIL ROAD CO. v. CARROLL   11 So 803 (1893)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/443-F3d-540-sum.txt", 
+        "name": "ABNEY v. AMGEN INC.    443 F.3d 540 (2006)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/443-F3d-540-sum-c1.txt", 
+        "name": "ABNEY v. AMGEN INC.    443 F.3d 540 (2006)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/3-Cai-175-sum.txt", 
+        "name": "PIERSON v. POST   3 Cai. 175 (1805)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/3-Cai-175-sum-d1.txt", 
+        "name": "PIERSON v. POST   3 Cai. 175 (1805)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/8-F-159-sum.txt", 
+        "name": "GHEN v. RICH   8 F. 159 (1881)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/594-P2d-1093-sum.txt", 
+        "name": "STATE EX REL. HAMAN v. FOX   594 P.2d 1093 (1979)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/248-US-215-sum.txt", 
+        "name": "INTERNATIONAL NEWS SERV. v. ASSOCIATED PRESS   248 U.S. 215 (1918)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/248-US-215-sum-d1.txt", 
+        "name": "INTERNATIONAL NEWS SERV. v. ASSOCIATED PRESS   248 U.S. 215 (1918)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/248-US-215-sum-d2.txt", 
+        "name": "INTERNATIONAL NEWS SERV. v. ASSOCIATED PRESS   248 U.S. 215 (1918)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/105-F3d-841-sum.txt", 
+        "name": "NATIONAL BASKETBALL ASSOCIATION v. MOTOROLA, INC.   105 F.3d 841 (1997)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/35-F2d-279-sum.txt", 
+        "name": "CHENEY BROS. v. DORIS SILK CORPORATION   35 F.2d 279 (1929)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/53-NW-636-sum.txt", 
+        "name": "ANDERSON v. GOULDBERG   53 N.W. 636 (1891)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/727-P2d-1153-sum.txt", 
+        "name": "GISSEL v. STATE   727 P.2d 1153 (1986)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/727-P2d-1153-sum-d1.txt", 
+        "name": "GISSEL v. STATE   727 P.2d 1153 (1986)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/219-SW2d-665-sum.txt", 
+        "name": "ALLRED v. BEIGEL   219 S.W.2d 665 (1949)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/467-NW2d-266-sum.txt", 
+        "name": "RITZ v. SELMA UNITED METHODIST CHURCH   467 N.W.2d 266 (1991)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/34-P3d-1100-sum.txt", 
+        "name": "CORLISS v. WENNER   34 P.3d 1100 (2001)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/516-A2d-611-sum.txt", 
+        "name": "GANTER v. KAPILOFF   516 A.2d 611 (1986)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/534-NW2d-400-sum.txt", 
+        "name": "BENJAMIN v. LINDNER AVIATION, INC.   534 N.W.2d 400 (1995)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/534-NW2d-400-sum-d1.txt", 
+        "name": "BENJAMIN v. LINDNER AVIATION, INC.   534 N.W.2d 400 (1995)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/497-So2d-1119-sum.txt", 
+        "name": "BROWN v. TURNER   497 So.2d 1119 (1986)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/471-US-462-sum.txt", 
+        "name": "BURGER KING CORP. v. RUDZEWICZ   471 U.S. 462 (1985)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/471-US-462-sum-d1.txt", 
+        "name": "BURGER KING CORP. v. RUDZEWICZ   471 U.S. 462 (1985)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/480-US-1-sum.txt", 
+        "name": "BURLINGTON NORTHERN R. R. CO. v. WOODS   480 U.S. 1 (1987)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/495-US-604-sum.txt", 
+        "name": "BURNHAM v. SUPERIOR COURT OF CAL., MARIN COUNTY   495 U.S. 604 (1990)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/495-US-604-sum-c1.txt", 
+        "name": "BURNHAM v. SUPERIOR COURT OF CAL., MARIN COUNTY   495 U.S. 604 (1990)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/495-US-604-sum-c2.txt", 
+        "name": "BURNHAM v. SUPERIOR COURT OF CAL., MARIN COUNTY   495 U.S. 604 (1990)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/495-US-604-sum-c3.txt", 
+        "name": "BURNHAM v. SUPERIOR COURT OF CAL., MARIN COUNTY   495 U.S. 604 (1990)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/250-F3d-171-sum.txt", 
+        "name": "BUTLER, FITZGERALD & POTTER v. SEQUA CORP.   250 F.3d 171 (2001)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/356-US-525-sum.txt", 
+        "name": "BYRD v. BLUE RIDGE COOPERATIVE   356 U.S. 525 (1958)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/356-US-525-sum-c1.txt", 
+        "name": "BYRD v. BLUE RIDGE COOPERATIVE   356 U.S. 525 (1958)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/356-US-525-sum-d1.txt", 
+        "name": "BYRD v. BLUE RIDGE COOPERATIVE   356 U.S. 525 (1958)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/356-US-525-sum-d2.txt", 
+        "name": "BYRD v. BLUE RIDGE COOPERATIVE   356 U.S. 525 (1958)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/123-FRD-437-sum.txt", 
+        "name": "DOE v. UNITED SERVICES LIFE INSURANCE COMPANY   123 F.R.D. 437 (1988)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/339-US-306-sum.txt", 
+        "name": "MULLANE v. CENTRAL HANOVER TR. CO.   339 U.S. 306 (1950)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/339-US-306-sum-d1.txt", 
+        "name": "MULLANE v. CENTRAL HANOVER TR. CO.   339 U.S. 306 (1950)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/534-US-161-sum.txt", 
+        "name": "DUSENBERY v. UNITED STATES   534 U.S. 161 (2002)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/534-US-161-sum-d1.txt", 
+        "name": "DUSENBERY v. UNITED STATES   534 U.S. 161 (2002)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/456-US-444-sum.txt", 
+        "name": "GREENE v. LINDSEY   456 U.S. 444 (1982)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/456-US-444-sum-d1.txt", 
+        "name": "GREENE v. LINDSEY   456 U.S. 444 (1982)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/547-US-220-sum.txt", 
+        "name": "JONES v. FLOWERS   547 U.S. 220 (2006)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/547-US-220-sum-d1.txt", 
+        "name": "JONES v. FLOWERS   547 U.S. 220 (2006)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/88-FRD-545-sum.txt", 
+        "name": "INSURANCE CO. OF NORTH AMERICA v. S/S \"HELLENIC CHALLENGER\"   88 F.R.D. 545 (1980)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/93-F2d-313-sum.txt", 
+        "name": "WYMAN v. NEWHOUSE   93 F.2d 313 (1937)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/407-US-67-sum.txt", 
+        "name": "FUENTES v. SHEVIN   407 U.S. 67 (1972)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/407-US-67-sum-d1.txt", 
+        "name": "FUENTES v. SHEVIN   407 U.S. 67 (1972)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/501-US-1-sum.txt", 
+        "name": "CONNECTICUT v. DOEHR   501 U.S. 1 (1991)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/501-US-1-sum-c1.txt", 
+        "name": "CONNECTICUT v. DOEHR   501 U.S. 1 (1991)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/501-US-1-sum-c2.txt", 
+        "name": "CONNECTICUT v. DOEHR   501 U.S. 1 (1991)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/987-F2d-122-sum.txt", 
+        "name": "SHAUMYAN v. O'NEILL   987 F.2d 122 (1993)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/542-US-507-sum.txt", 
+        "name": "HAMDI v. RUMSFELD   542 U.S. 507 (2004)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/542-US-507-sum-c1.txt", 
+        "name": "HAMDI v. RUMSFELD   542 U.S. 507 (2004)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/542-US-507-sum-d1.txt", 
+        "name": "HAMDI v. RUMSFELD   542 U.S. 507 (2004)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/542-US-507-sum-d2.txt", 
+        "name": "HAMDI v. RUMSFELD   542 U.S. 507 (2004)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/454-F3d-290-sum.txt", 
+        "name": "CHAPLAINCY OF FULL GOSPEL CHURCHES v. ENGLAND   454 F.3d 290 (2006)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/9-US-61-sum.txt", 
+        "name": "BANK U.S. v. DEVEAUX   9 U.S. 61 (1809)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/937-F2d-82-sum.txt", 
+        "name": "A.F.A. TOURS, INC. v. WHITCHURCH   937 F.2d 82 (1991)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/06-cv-10716-sum.txt", 
+        "name": "OCHOA v. PV HOLDING CORPORATION   06 cv 10716 (2007)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/22-US-738-sum.txt", 
+        "name": "OSBORN v. U.S. BANK   22 U.S. 738 (1824)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/22-US-738-sum-d1.txt", 
+        "name": "OSBORN v. U.S. BANK   22 U.S. 738 (1824)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/211-US-149-sum.txt", 
+        "name": "LOUISVILLE & NASHVILLE R.R. v. MOTTLEY   211 U.S. 149 (1908)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/535-US-826-sum.txt", 
+        "name": "HOLMES GROUP, INC. v. VORNADO AIR CIRCULATION SYSTEMS, INC.   535 U.S. 826 (2002)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/535-US-826-sum-c1.txt", 
+        "name": "HOLMES GROUP, INC. v. VORNADO AIR CIRCULATION SYSTEMS, INC.   535 U.S. 826 (2002)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/535-US-826-sum-c2.txt", 
+        "name": "HOLMES GROUP, INC. v. VORNADO AIR CIRCULATION SYSTEMS, INC.   535 U.S. 826 (2002)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/339-US-667-sum.txt", 
+        "name": "SKELLY OIL CO. v. PHILLIPS CO.   339 U.S. 667 (1950)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/339-US-667-sum-d1.txt", 
+        "name": "SKELLY OIL CO. v. PHILLIPS CO.   339 U.S. 667 (1950)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/780-F2d-766-sum.txt", 
+        "name": "BRIGHT v. BECHTEL PETROLEUM, INC.   780 F.2d 766 (1986)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/478-US-804-sum.txt", 
+        "name": "MERRELL DOW PHARMACEUTICALS INC. v. THOMPSON   478 U.S. 804 (1986)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/478-US-804-sum-d1.txt", 
+        "name": "MERRELL DOW PHARMACEUTICALS INC. v. THOMPSON   478 U.S. 804 (1986)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/133-SCt-1059-sum.txt", 
+        "name": "GUNN v. MINTON   133 S.Ct. 1059 (2013)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/291-US-205-sum.txt", 
+        "name": "MOORE v. CHESAPEAKE & OHIO RAILWAY CO.   291 U.S. 205 (1934)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/255-US-180-sum.txt", 
+        "name": "SMITH v. KANSAS CITY TITLE & TRUST CO.   255 U.S. 180 (1921)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/255-US-180-sum-d1.txt", 
+        "name": "SMITH v. KANSAS CITY TITLE & TRUST CO.   255 U.S. 180 (1921)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/545-US-308-sum.txt", 
+        "name": "GRABLE & SONS METAL PRODUCTS, INC. v. DARUE ENGINEERING & MFG.   545 U.S. 308 (2005)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/545-US-308-sum-c1.txt", 
+        "name": "GRABLE & SONS METAL PRODUCTS, INC. v. DARUE ENGINEERING & MFG.   545 U.S. 308 (2005)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/547-US-677-sum.txt", 
+        "name": "EMPIRE HEALTHCHOICE ASSURANCE, INC. v. MCVEIGH   547 U.S. 677 (2006)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/547-US-677-sum-d1.txt", 
+        "name": "EMPIRE HEALTHCHOICE ASSURANCE, INC. v. MCVEIGH   547 U.S. 677 (2006)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/383-US-715-sum.txt", 
+        "name": "MINE WORKERS v. GIBBS   383 U.S. 715 (1966)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/383-US-715-sum-c1.txt", 
+        "name": "MINE WORKERS v. GIBBS   383 U.S. 715 (1966)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/358-F3d-205-sum.txt", 
+        "name": "JONES v. FORD MOTOR CREDIT CO.   358 F.3d 205 (2004)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/58-F3d-106-sum.txt", 
+        "name": "SHANAGHAN v. CAHILL   58 F.3d 106 (1995)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/156-F3d-237-sum.txt", 
+        "name": "IGLESIAS v. MUTUAL LIFE INS. CO. OF NEW YORK   156 F.3d 237 (1998)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/95-US-714-sum.txt", 
+        "name": "PENNOYER v. NEFF   95 U.S. 714 (1878)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/95-US-714-sum-d1.txt", 
+        "name": "PENNOYER v. NEFF   95 U.S. 714 (1878)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/326-US-310-sum.txt", 
+        "name": "INTERNATIONAL SHOE CO. v. WASHINGTON   326 U.S. 310 (1945)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/326-US-310-sum-d1.txt", 
+        "name": "INTERNATIONAL SHOE CO. v. WASHINGTON   326 U.S. 310 (1945)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/22-Ill2d-432-sum.txt", 
+        "name": "GRAY v. AMER. RADIATOR & STANDARD SANITARY CORP.   22 Ill.2d 432 (1961)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/131-SCt-2846-sum.txt", 
+        "name": "GOODYEAR DUNLOP TIRES OPERATIONS, S.A. v. BROWN   131 S.Ct. 2846 (2011)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/355-US-220-sum.txt", 
+        "name": "MCGEE v. INTERNATIONAL LIFE INS. CO.   355 U.S. 220 (1957)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/357-US-235-sum.txt", 
+        "name": "HANSON v. DENCKLA   357 U.S. 235 (1958)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/357-US-235-sum-d1.txt", 
+        "name": "HANSON v. DENCKLA   357 U.S. 235 (1958)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/357-US-235-sum-d2.txt", 
+        "name": "HANSON v. DENCKLA   357 U.S. 235 (1958)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/444-US-286-sum.txt", 
+        "name": "WORLD-WIDE VOLKSWAGEN CORP. v. WOODSON   444 U.S. 286 (1980)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/444-US-286-sum-d1.txt", 
+        "name": "WORLD-WIDE VOLKSWAGEN CORP. v. WOODSON   444 U.S. 286 (1980)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/444-US-286-sum-d2.txt", 
+        "name": "WORLD-WIDE VOLKSWAGEN CORP. v. WOODSON   444 U.S. 286 (1980)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/444-US-286-sum-d3.txt", 
+        "name": "WORLD-WIDE VOLKSWAGEN CORP. v. WOODSON   444 U.S. 286 (1980)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/134-SCt-1115-sum.txt", 
+        "name": "WALDEN v. FIORE   134 S.Ct. 1115 (2014)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/131-SCt-2780-sum.txt", 
+        "name": "J. MCINTYRE MACHINERY, LTD. v. NICASTRO   131 S.Ct. 2780 (2011)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/131-SCt-2780-sum-c1.txt", 
+        "name": "J. MCINTYRE MACHINERY, LTD. v. NICASTRO   131 S.Ct. 2780 (2011)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/131-SCt-2780-sum-d1.txt", 
+        "name": "J. MCINTYRE MACHINERY, LTD. v. NICASTRO   131 S.Ct. 2780 (2011)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/293-F3d-707-sum.txt", 
+        "name": "ALS SCAN, INC. v. DIGITAL SERVICE CONSULTANTS   293 F.3d 707 (2002)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/433-US-186-sum.txt", 
+        "name": "SHAFFER v. HEITNER   433 U.S. 186 (1977)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/433-US-186-sum-c1.txt", 
+        "name": "SHAFFER v. HEITNER   433 U.S. 186 (1977)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/433-US-186-sum-c2.txt", 
+        "name": "SHAFFER v. HEITNER   433 U.S. 186 (1977)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/433-US-186-sum-c3.txt", 
+        "name": "SHAFFER v. HEITNER   433 U.S. 186 (1977)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/456-US-694-sum.txt", 
+        "name": "INSURANCE CORP. OF IRELAND, LTD. v. COMPAGNIE DES BAUXITES   456 U.S. 694 (1982)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/456-US-694-sum-c1.txt", 
+        "name": "INSURANCE CORP. OF IRELAND, LTD. v. COMPAGNIE DES BAUXITES   456 U.S. 694 (1982)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/407-US-1-sum.txt", 
+        "name": "THE BREMEN v. ZAPATA OFF-SHORE CO.   407 U.S. 1 (1972)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/407-US-1-sum-c1.txt", 
+        "name": "THE BREMEN v. ZAPATA OFF-SHORE CO.   407 U.S. 1 (1972)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/407-US-1-sum-d1.txt", 
+        "name": "THE BREMEN v. ZAPATA OFF-SHORE CO.   407 U.S. 1 (1972)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/499-US-585-sum.txt", 
+        "name": "CARNIVAL CRUISE LINES, INC. v. SHUTE   499 U.S. 585 (1991)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/499-US-585-sum-d1.txt", 
+        "name": "CARNIVAL CRUISE LINES, INC. v. SHUTE   499 U.S. 585 (1991)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/980-F2d-865-sum.txt", 
+        "name": "BATES v. C & S ADJUSTERS, INC.   980 F.2d 865 (1992)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/363-US-335-sum.txt", 
+        "name": "HOFFMAN v. BLASKI   363 U.S. 335 (1960)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/363-US-335-sum-c1.txt", 
+        "name": "HOFFMAN v. BLASKI   363 U.S. 335 (1960)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/363-US-335-sum-d1.txt", 
+        "name": "HOFFMAN v. BLASKI   363 U.S. 335 (1960)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/363-US-335-sum-d2.txt", 
+        "name": "HOFFMAN v. BLASKI   363 U.S. 335 (1960)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/330-US-501-sum.txt", 
+        "name": "GULF OIL CORP. v. GILBERT   330 U.S. 501 (1947)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/330-US-501-sum-d1.txt", 
+        "name": "GULF OIL CORP. v. GILBERT   330 U.S. 501 (1947)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/330-US-501-sum-d2.txt", 
+        "name": "GULF OIL CORP. v. GILBERT   330 U.S. 501 (1947)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/454-US-235-sum.txt", 
+        "name": "PIPER AIRCRAFT CO. v. REYNO   454 U.S. 235 (1981)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/454-US-235-sum-cd1.txt", 
+        "name": "PIPER AIRCRAFT CO. v. REYNO   454 U.S. 235 (1981)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/454-US-235-sum-d1.txt", 
+        "name": "PIPER AIRCRAFT CO. v. REYNO   454 U.S. 235 (1981)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/139-F2d-774-sum.txt", 
+        "name": "DIOGUARDI v. DURNING   139 F.2d 774 (1944)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/355-US-41-sum.txt", 
+        "name": "CONLEY v. GIBSON   355 U.S. 41 (1957)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/783-F2d-716-sum.txt", 
+        "name": "AMERICAN NURSES' ASSOCIATION v. STATE OF ILLINOIS   783 F.2d 716 (1986)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/127-SCt-1955-sum.txt", 
+        "name": "BELL ATLANTIC CORP. v. TWOMBLY   127 S.Ct. 1955 (2007)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/127-SCt-1955-sum-d1.txt", 
+        "name": "BELL ATLANTIC CORP. v. TWOMBLY   127 S.Ct. 1955 (2007)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/556-US-662-sum.txt", 
+        "name": "ASHCROFT v. IQBAL   556 U.S. 662 (2009)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/556-US-662-sum-d1.txt", 
+        "name": "ASHCROFT v. IQBAL   556 U.S. 662 (2009)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/556-US-662-sum-d2.txt", 
+        "name": "ASHCROFT v. IQBAL   556 U.S. 662 (2009)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/430-F2d-1077-sum.txt", 
+        "name": "UNITED STATES v. HEYWARD-ROBINSON COMPANY   430 F.2d 1077 (1970)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/430-F2d-1077-sum-c1.txt", 
+        "name": "UNITED STATES v. HEYWARD-ROBINSON COMPANY   430 F.2d 1077 (1970)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/545-US-546-sum.txt", 
+        "name": "EXXON MOBIL CORP. v. ALLAPATTAH SERVICES, INC.   545 U.S. 546 (2005)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/545-US-546-sum-d1.txt", 
+        "name": "EXXON MOBIL CORP. v. ALLAPATTAH SERVICES, INC.   545 U.S. 546 (2005)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/545-US-546-sum-d2.txt", 
+        "name": "EXXON MOBIL CORP. v. ALLAPATTAH SERVICES, INC.   545 U.S. 546 (2005)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/304-US-64-sum.txt", 
+        "name": "ERIE RAILROAD CO. v. TOMPKINS   304 U.S. 64 (1938)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/304-US-64-sum-c1.txt", 
+        "name": "ERIE RAILROAD CO. v. TOMPKINS   304 U.S. 64 (1938)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/304-US-64-sum-c2.txt", 
+        "name": "ERIE RAILROAD CO. v. TOMPKINS   304 U.S. 64 (1938)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/326-US-99-sum.txt", 
+        "name": "GUARANTY TRUST CO. v. YORK   326 U.S. 99 (1945)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/326-US-99-sum-d1.txt", 
+        "name": "GUARANTY TRUST CO. v. YORK   326 U.S. 99 (1945)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/380-US-460-sum.txt", 
+        "name": "HANNA v. PLUMER   380 U.S. 460 (1965)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/380-US-460-sum-c1.txt", 
+        "name": "HANNA v. PLUMER   380 U.S. 460 (1965)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/446-US-740-sum.txt", 
+        "name": "WALKER v. ARMCO STEEL CORP.   446 U.S. 740 (1980)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/487-US-22-sum.txt", 
+        "name": "STEWART ORGANIZATION, INC. v. RICOH CORP.   487 U.S. 22 (1988)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/487-US-22-sum-c1.txt", 
+        "name": "STEWART ORGANIZATION, INC. v. RICOH CORP.   487 U.S. 22 (1988)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/487-US-22-sum-d1.txt", 
+        "name": "STEWART ORGANIZATION, INC. v. RICOH CORP.   487 U.S. 22 (1988)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/11-So-803-sum.txt", 
+        "name": "ALABAMA GREAT SOUTHERN R. R. CO. v. CARROLL   11 So. 803 (1892)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/65-NY2d-189-sum.txt", 
+        "name": "SCHULTZ v. BOY SCOUTS OF AMERICA   65 N.Y.2d 189 (1985)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/65-NY2d-189-sum-d1.txt", 
+        "name": "SCHULTZ v. BOY SCOUTS OF AMERICA   65 N.Y.2d 189 (1985)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/369-US-463-sum.txt", 
+        "name": "GOLDLAWR, INC. v. HEIMAN   369 U.S. 463 (1962)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/369-US-463-sum-d1.txt", 
+        "name": "GOLDLAWR, INC. v. HEIMAN   369 U.S. 463 (1962)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/313-US-487-sum.txt", 
+        "name": "KLAXON CO. v. STENTOR CO.   313 U.S. 487 (1941)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/449-US-302-sum.txt", 
+        "name": "ALLSTATE INS. CO. v. HAGUE   449 U.S. 302 (1981)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/449-US-302-sum-c1.txt", 
+        "name": "ALLSTATE INS. CO. v. HAGUE   449 U.S. 302 (1981)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/449-US-302-sum-d1.txt", 
+        "name": "ALLSTATE INS. CO. v. HAGUE   449 U.S. 302 (1981)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/472-US-797-sum.txt", 
+        "name": "PHILLIPS PETROLEUM CO. v. SHUTTS   472 U.S. 797 (1985)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/472-US-797-sum-cd1.txt", 
+        "name": "PHILLIPS PETROLEUM CO. v. SHUTTS   472 U.S. 797 (1985)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/365-F3d-944-sum.txt", 
+        "name": "CUMMINGS v. GENERAL MOTORS CORP.   365 F.3d 944 (2004)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/271-F3d-583-sum.txt", 
+        "name": "SILVESTRI v. GENERAL MOTORS CORP.   271 F.3d 583 (2001)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/271-F3d-583-sum-cd1.txt", 
+        "name": "SILVESTRI v. GENERAL MOTORS CORP.   271 F.3d 583 (2001)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/398-US-144-sum.txt", 
+        "name": "ADICKES v. KRESS & CO.   398 U.S. 144 (1970)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/398-US-144-sum-c1.txt", 
+        "name": "ADICKES v. KRESS & CO.   398 U.S. 144 (1970)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/398-US-144-sum-d1.txt", 
+        "name": "ADICKES v. KRESS & CO.   398 U.S. 144 (1970)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/398-US-144-sum-cd1.txt", 
+        "name": "ADICKES v. KRESS & CO.   398 U.S. 144 (1970)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/477-US-317-sum.txt", 
+        "name": "CELOTEX CORP. v. CATRETT   477 U.S. 317 (1986)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/477-US-317-sum-c1.txt", 
+        "name": "CELOTEX CORP. v. CATRETT   477 U.S. 317 (1986)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/477-US-317-sum-d1.txt", 
+        "name": "CELOTEX CORP. v. CATRETT   477 U.S. 317 (1986)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/477-US-317-sum-d2.txt", 
+        "name": "CELOTEX CORP. v. CATRETT   477 U.S. 317 (1986)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/475-US-574-sum.txt", 
+        "name": "MATSUSHITA ELEC. INDUSTRIAL CO. v. ZENITH RADIO CORP.   475 U.S. 574 (1986)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/475-US-574-sum-d1.txt", 
+        "name": "MATSUSHITA ELEC. INDUSTRIAL CO. v. ZENITH RADIO CORP.   475 U.S. 574 (1986)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/127-SCt-1769-sum.txt", 
+        "name": "SCOTT v. HARRIS   127 S.Ct. 1769 (2007)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/127-SCt-1769-sum-c1.txt", 
+        "name": "SCOTT v. HARRIS   127 S.Ct. 1769 (2007)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/127-SCt-1769-sum-c2.txt", 
+        "name": "SCOTT v. HARRIS   127 S.Ct. 1769 (2007)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/127-SCt-1769-sum-d1.txt", 
+        "name": "SCOTT v. HARRIS   127 S.Ct. 1769 (2007)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/248-F3d-621-sum.txt", 
+        "name": "THOMPSON v. ALTHEIMER & GRAY   248 F.3d 621 (2001)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/248-F3d-621-sum-c1.txt", 
+        "name": "THOMPSON v. ALTHEIMER & GRAY   248 F.3d 621 (2001)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/511-US-127-sum.txt", 
+        "name": "J. E. B. v. ALABAMA EX REL. T. B.   511 U.S. 127 (1994)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/511-US-127-sum-c1.txt", 
+        "name": "J. E. B. v. ALABAMA EX REL. T. B.   511 U.S. 127 (1994)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/511-US-127-sum-c2.txt", 
+        "name": "J. E. B. v. ALABAMA EX REL. T. B.   511 U.S. 127 (1994)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/511-US-127-sum-d1.txt", 
+        "name": "J. E. B. v. ALABAMA EX REL. T. B.   511 U.S. 127 (1994)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/511-US-127-sum-d2.txt", 
+        "name": "J. E. B. v. ALABAMA EX REL. T. B.   511 U.S. 127 (1994)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/319-US-372-sum.txt", 
+        "name": "GALLOWAY v. UNITED STATES   319 U.S. 372 (1943)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/319-US-372-sum-d1.txt", 
+        "name": "GALLOWAY v. UNITED STATES   319 U.S. 372 (1943)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/190-FSupp2d-430-sum.txt", 
+        "name": "TESSER v. BOARD OF EDUCATION OF CITY SCHOOL DIST.   190 F.Supp.2d 430 (2002)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/24-NJ-66-sum.txt", 
+        "name": "FISCH v. MANGER   24 N.J. 66 (1957)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/24-NJ-66-sum-c1.txt", 
+        "name": "FISCH v. MANGER   24 N.J. 66 (1957)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/424-US-737-sum.txt", 
+        "name": "LIBERTY MUTUAL INS. CO. v. WETZEL   424 U.S. 737 (1976)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/337-US-541-sum.txt", 
+        "name": "COHEN v. BENEFICIAL LOAN CORP.   337 U.S. 541 (1949)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/337-US-541-sum-d1.txt", 
+        "name": "COHEN v. BENEFICIAL LOAN CORP.   337 U.S. 541 (1949)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/337-US-541-sum-d2.txt", 
+        "name": "COHEN v. BENEFICIAL LOAN CORP.   337 U.S. 541 (1949)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/546-US-345-sum.txt", 
+        "name": "WILL v. HALLOCK   546 U.S. 345 (2006)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/167-Ohio-St.-221-sum.txt", 
+        "name": "RUSH v. CITY OF MAPLE HEIGHTS   167 Ohio St. 221 (1958)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/167-Ohio-St.-221-sum-c1.txt", 
+        "name": "RUSH v. CITY OF MAPLE HEIGHTS   167 Ohio St. 221 (1958)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/167-Ohio-St.-221-sum-d1.txt", 
+        "name": "RUSH v. CITY OF MAPLE HEIGHTS   167 Ohio St. 221 (1958)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/452-US-394-sum.txt", 
+        "name": "FEDERATED DEPARTMENT STORES INC. v. MOITIE   452 U.S. 394 (1981)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/452-US-394-sum-c1.txt", 
+        "name": "FEDERATED DEPARTMENT STORES INC. v. MOITIE   452 U.S. 394 (1981)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/452-US-394-sum-d1.txt", 
+        "name": "FEDERATED DEPARTMENT STORES INC. v. MOITIE   452 U.S. 394 (1981)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/94-US-351-sum.txt", 
+        "name": "CROMWELL v. COUNTY OF SAC   94 U.S. 351 (1877)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/94-US-351-sum-d1.txt", 
+        "name": "CROMWELL v. COUNTY OF SAC   94 U.S. 351 (1877)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/19-Cal-2d-807-sum.txt", 
+        "name": "BERNHARD v. BANK OF AMERICA NATIONAL TRUST & SAVING ASSOCIATION   19 Cal. 2d 807 (1942)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/439-US-322-sum.txt", 
+        "name": "PARKLANE HOSIERY CO. v. SHORE   439 U.S. 322 (1979)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/439-US-322-sum-d1.txt", 
+        "name": "PARKLANE HOSIERY CO. v. SHORE   439 U.S. 322 (1979)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/131-SCt-2541-sum.txt", 
+        "name": "WAL-MART STORES, INC. v. DUKES   131 S.Ct. 2541 (2011)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/131-SCt-2541-sum-cd1.txt", 
+        "name": "WAL-MART STORES, INC. v. DUKES   131 S.Ct. 2541 (2011)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/84-F3d-734-sum.txt", 
+        "name": "CASTANO v. AMERICAN TOBACCO CO.   84 F.3d 734 (1996)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/311-US-32-sum.txt", 
+        "name": "HANSBERRY v. LEE   311 U.S. 32 (1940)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/130-SCt-1431-sum.txt", 
+        "name": "SHADY GROVE ORTHOPEDIC ASSOCIATES v. ALLSTATE INS.   130 S.Ct. 1431 (2010)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/130-SCt-1431-sum-c1.txt", 
+        "name": "SHADY GROVE ORTHOPEDIC ASSOCIATES v. ALLSTATE INS.   130 S.Ct. 1431 (2010)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/130-SCt-1431-sum-d1.txt", 
+        "name": "SHADY GROVE ORTHOPEDIC ASSOCIATES v. ALLSTATE INS.   130 S.Ct. 1431 (2010)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/156-Ind-416-sum.txt", 
+        "name": "HURLEY v. EDDINGFIELD   156 Ind. 416 (1901)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/14-F2d-40-sum.txt", 
+        "name": "CREAM OF WHEAT CO. v. FEDERAL TRADE COMMISSION   14 F.2d 40 (1926)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/250-US-300-sum.txt", 
+        "name": "UNITED STATES v. COLGATE & CO.   250 U.S. 300 (1919)", 
+        "tags": [], 
+        "visited": 0
+    }, 
+    {
+        "examMode": [], 
+        "link": "py/sum/205-Misc-982-sum.txt", 
+        "name": "POUGHKEEPSIE BUYING SERVICE v. POUGHKEEPSIE NEWSPAPERS   205 Misc. 982 (1954)", 
+        "tags": [], 
+        "visited": 0
+    }
+]

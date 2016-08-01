@@ -1,0 +1,67 @@
+The Due Process Clause affords protection against
+"judgments without notice." International Shoe Co. v.
+Washington, 326 U.S. 310, 324 (opinion of Black, J.).
+Throughout our history the acceptable exercise of in
+rem and quasi in rem [433 U.S. 218] jurisdiction has
+included a procedure giving reasonable assurance that
+actual notice of the particular claim will be conveyed to
+the defendant.* Thus, publication, notice by registered
+mail, or extraterritorial personal service has been an
+essential ingredient of any procedure that serves as a
+substitute for personal service within the jurisdiction.
+The requirement of fair notice also, I believe, includes
+fair warning that a particular activity may subject a
+person to the jurisdiction of a foreign sovereign. If I visit
+another State, or acquire real estate or open a bank
+account in it, I knowingly assume some risk that the
+State will exercise its power over my property or my
+person while there. My contact with the State, though
+minimal, gives rise to predictable risks.
+Perhaps the same consequences should flow from the
+purchase of stock of a corporation organized under the
+laws of a foreign nation, because to some limited extent
+one's property and affairs then become subject to the
+laws of the nation of domicile of the corporation. As a
+matter of international law, that suggestion might be
+acceptable because a foreign investment is sufficiently
+unusual to make it appropriate to require the investor to
+study the ramifications of his decision. But a purchase of
+securities in the domestic market is an entirely different
+matter.
+One who purchases shares of stock on the open market
+can hardly be expected to know that he has thereby
+become subject to suit in a forum remote from his
+residence and unrelated to the transaction. As a practical
+matter, the Delaware sequestration statute creates an
+unacceptable risk of judgment without notice. Unlike
+the 49 other States, Delaware treats the place of
+incorporation as the situs of the stock, even though both
+the owner and the custodian of the shares are elsewhere.
+Moreover, Delaware denies the defendant [433 U.S. 219]
+the opportunity to defend the merits of the suit unless
+he subjects himself to the unlimited jurisdiction of the
+court. Thus, it coerces a defendant either to submit to
+personal jurisdiction in a forum which could not
+otherwise obtain such jurisdiction or to lose the
+securities which have been attached. If its procedure
+were upheld, Delaware would, in effect, impose a duty
+of inquiry on every purchaser of securities in the
+national market. For unless the purchaser ascertains
+both the State of incorporation of the company whose
+shares he is buying, and also the idiosyncrasies of its law,
+he may be assuming an unknown risk of litigation. I
+therefore agree with the Court that on the record before
+us no adequate basis for jurisdiction exists and that the
+Delaware statute is unconstitutional on its face.
+How the Court's opinion may be applied in other
+contexts is not entirely clear to me. I agree with MR.
+JUSTICE POWELL that it should not be read to
+invalidate quasi in rem jurisdiction where real estate is
+involved. I would also not read it as invalidating other
+long-accepted methods of acquiring jurisdiction over
+persons with adequate notice of both the particular
+controversy and the fact that their local activities might
+subject them to suit. My uncertainty as to the reach of
+the opinion, and my fear that it purports to decide a
+great deal more than is necessary to dispose of this case,
+persuade me merely to concur in the judgment.

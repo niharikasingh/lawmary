@@ -1,0 +1,235 @@
+To relieve against what was apparently thought to be
+the harshness of dismissal, under the doctrine of forum
+[363 U.S. 336] non conveniens, of an action brought in
+an inconvenient one of two or more legally available
+forums, Gulf Oil Corp. v. Gilbert, 330 U.S. 501, and
+concerned by the reach of Baltimore & Ohio R. Co. v.
+Kepner, 314 U.S. 44,1 Congress, in 1948, enacted 28 U.
+S. C. § 1404 (a), which provides:
+"§ 1404. Change of venue.
+"(a) For the convenience of parties and witnesses, in the interest of
+justice, a district court may transfer any civil action to any other
+district or division where it might have been brought."
+The instant cases present the question whether a
+District Court, in which a civil action has been properly
+brought, is empowered by § 1404 (a) to transfer the
+action, on the motion of the defendant, to a district in
+which the plaintiff did not have a right to bring it.
+No. 25, Blaski.—Respondents, Blaski and others,
+residents of Illinois, brought this patent infringement
+action in the United States District Court for the
+Northern District of Texas against one Howell and a
+Texas corporation controlled by him, alleging that the
+defendants are residents of, and maintain their only
+place of business in, the City of Dallas, in the Northern
+District of Texas, where they are infringing
+respondents' patents. After being served with process
+and filing their answer, the defendants moved, under §
+1404 (a), to transfer the action to the United States
+District Court for the Northern District of Illinois.2
+Respondents objected to the [363 U.S. 337] transfer on
+the ground that, inasmuch as the defendants did not
+reside, maintain a place of business, or infringe the
+patents in, and could not have been served with process
+in, the Illinois district, the courts of that district lacked
+venue over the action3 and ability to command
+jurisdiction over the defendants;4 that therefore that
+district was not a forum in which the respondents had a
+right to bring the action, and, hence, the court was
+without power to transfer it to that district. Without
+mentioning that objection or the question it raised, the
+District Court found that "the motion should be granted
+for the convenience of the parties and witnesses in the
+interest of justice," and ordered the case transferred to
+the Illinois district. Thereupon, respondents moved in
+the Fifth Circuit for leave to file a petition for a writ of
+mandamus directing the vacation of that order. That
+court, holding that "[t]he purposes for which § 1404 (a)
+was enacted would be unduly circumscribed if a transfer
+could not be made `in the interest of justice' to a district
+where the defendants not only waive venue but to
+which they seek the transfer," denied the motion. Ex
+parte Blaski, 245 F.2d 737, 738.
+Upon receipt of a certified copy of the pleadings and
+record, the Illinois District Court assigned the action to
+Judge Hoffman's calendar. Respondents promptly
+moved for an order remanding the action on the ground
+that the Texas District Court did not have power to
+make the transfer order and, hence, the Illinois District
+Court was not thereby vested with jurisdiction of the
+action. [363 U.S. 338] After expressing his view that the
+"weight of reason and logic" favored "retransfer of this
+case to Texas," Judge Hoffman, with misgivings, denied
+the motion. Respondents then filed in the Seventh
+Circuit a petition for a writ of mandamus directing
+Judge Hoffman to reverse his order. After hearing and
+rehearing, the Seventh Circuit, holding that "[w]hen
+Congress provided [in § 1404 (a)] for transfer [of a civil
+action] to a district `where it might have been brought,'
+it is hardly open to doubt but that it referred to a district
+where the plaintiff . . . had a right to bring the case," and
+that respondents did not have a right to bring this action
+in the Illinois district, granted the writ, one judge
+dissenting. 260 F.2d 317.
+No. 26, Behimer.—Diversity of citizenship then existing,
+respondents, Behimer and Roberts, residents of Illinois
+and New York, respectively, brought this stockholders'
+derivative action, as minority stockholders of Utah Oil
+Refining Corporation, a Utah corporation, on behalf of
+themselves and others similarly situated, in the United
+States District Court for the Northern District of Illinois
+against Standard Oil Company and Standard Oil
+Foundation, Inc., Indiana corporations but licensed to
+do and doing business in the Northern District of
+Illinois, for damages claimed to have been sustained
+through the alleged illegal acquisition by defendants of
+the assets of the Utah corporation at an inadequate
+price.
+After being served with process and filing their answer,
+the defendants moved, under § 1404 (a), to transfer the
+action to the United States District Court for the
+District of Utah.5 Respondents objected to the transfer
+on the [363 U.S. 339] ground that, inasmuch as the
+defendants were not incorporated in or licensed to do or
+doing business in, and could not be served with process
+in. the district of Utah, the courts of that district lacked
+venue over the action6 and ability to command
+jurisdiction over the defendants;7 that therefore that
+district was not a forum in which the respondents had a
+right to bring the action, and, hence, the court was
+without power to transfer it to that district. Without
+mentioning the question raised by that objection, the
+court found that the proposed transfer would be "for the
+convenience of the parties and witnesses and in the
+interest of justice," and ordered the case transferred to
+the district of Utah.
+Respondents then filed in the Seventh Circuit a petition
+for a writ of mandamus directing the District Court to
+reverse its order. After hearing, the Seventh Circuit,
+following its decision in Blaski v. Hoffman, supra,
+granted the writ. 261 F.2d 467.
+To settle the conflict that has arisen among the circuits
+respecting the proper interpretation and application of §
+1404 (a),8 we granted certiorari. 359 U.S. 904; 361 U.S.
+809.
+[363 U.S. 340] Without sacrifice or slight of any tenable
+position, the parties have in this Court commendably
+narrowed their contentions to the scope of the only
+relevant inquiry. The points of contention may be
+sharpened by first observing what is not in contest.
+Discretion of the district judges concerned is not
+involved. Propriety of the remedy of mandamus is not
+assailed. No claim is made here that the order of the
+Fifth Circuit denying the motion of respondents in the
+Blaski case for leave to file a petition for writ of
+mandamus, 245 F.2d 737, precluded Judge Hoffman or
+the Seventh Circuit from remanding that case.9
+Petitioners concede that these actions were [363 U.S.
+341] properly brought in the respective transferor
+forums; that statutory venue did not exist over either of
+these actions in the respective transferee districts,10 and
+that the respective defendants were not within the reach
+of the process of the respective transferee courts.11 They
+concede, too, [363 U.S. 342] that § 1404 (a), being "not
+unlimited," "may be utilized only to direct an action to
+any other district or division `where it might have been
+brought,' " and that, like the superseded doctrine of
+forum non conveniens, Gulf Oil Corp. v. Gilbert, 330
+U.S. 501, 507, the statute requires "an alternative forum
+in which plaintiff might proceed."
+Petitioners' "thesis" and sole claim is that § 1404 (a),
+being remedial, Ex parte Collett, 337 U.S. 55, 71, should
+be broadly construed, and, when so construed, the
+phrase "where it might have been brought" should be
+held to relate not only to the time of the bringing of the
+action, but also to the time of the transfer; and that "if at
+such time the transferee forum has the power to
+adjudicate the issues of the action, it is a forum in which
+the action might then have been brought."12 (Emphasis
+added.) They argue that in the interim between the
+bringing of the action and the filing of a motion to
+transfer it, the defendants may move their residence to,
+or, if corporations, may begin the transaction of
+business in, some other district, and, if such is done, the
+phrase "where it might have been brought" should be
+construed to empower the District Court to transfer the
+action, on motion of the defendants, to such other
+district; and that, similarly, if, as here, the defendants
+move to transfer the action to some other district and
+consent to submit to the jurisdiction of such other
+district, the latter district should be held one "in which
+the action might then have been brought." (Emphasis
+added.)
+We do not agree. We do not think the § 1404 (a) phrase
+"where it might have been brought" can be interpreted
+to mean, as petitioners' theory would require, [363 U.S.
+343] "where it may now be rebrought, with defendants'
+consent." This Court has said, in a different context, that
+§ 1404 (a) is "unambiguous, direct [and] clear," Ex parte
+Collett, 337 U. S., at 58, and that "the unequivocal words
+of § 1404 (a) and the legislative history . . . [establish]
+that Congress indeed meant what it said." United States
+v. National City Lines, Inc., 337 U.S. 78, 84. Like the
+Seventh Circuit, 260 F. 2d, at 322, we think the
+dissenting opinion of Judges Hastie and McLaughlin in
+Paramount Pictures, Inc., v. Rodney, 186 F.2d 111 (C. A.
+3d Cir.), correctly answered this contention:
+"But we do not see how the conduct of a defendant after suit has
+been instituted can add to the forums where `it might have been
+brought.' In the normal meaning of words this language of Section
+1404 (a) directs the attention of the judge who is considering a
+transfer to the situation which existed when suit was instituted."
+It is not to be doubted that the transferee courts, like
+every District Court, had jurisdiction to entertain
+actions of the character involved, but it is obvious that
+they did not acquire jurisdiction over these particular
+actions when they were brought in the transferor
+courts. The transferee courts could have acquired
+jurisdiction over these actions only if properly brought
+in those courts, or if validly transferred thereto under §
+1404 (a). Of course, venue, like jurisdiction over the
+person, may be waived. A defendant, properly served
+with process by a court having subject matter
+jurisdiction, waives venue by failing seasonably to assert
+it, or even simply by making default. Commercial Ins.
+Co. v. Stone Co., 278 U.S. 177, 179-180; Neirbo Co. v.
+Bethlehem Shipbuilding Corp., Ltd., 308 U.S. 165. But
+the power of a District Court under § 1404 (a) to
+transfer an action to another district is made to depend
+not upon the wish or waiver of the defendant but,
+rather, upon whether the transferee district was one
+[363 U.S. 344] in which the action "might have been
+brought" by the plaintiff.
+The thesis urged by petitioners would not only do
+violence to the plain words of § 1404 (a), but would also
+inject gross discrimination. That thesis, if adopted,
+would empower a District Court, upon a finding of
+convenience, to transfer an action to any district desired
+by the defendants and in which they were willing to
+waive their statutory defenses as to venue and
+jurisdiction over their persons, regardless of the fact that
+such transferee district was not one in which the action
+"might have been brought" by the plaintiff. Conversely,
+that thesis would not permit the court, upon motion of
+the plaintiffs and a like showing of convenience, to
+transfer the action to the same district, without the
+consent and waiver of venue and personal jurisdiction
+defenses by the defendants. Nothing in § 1404 (a), or in
+its legislative history, suggests such a unilateral objective
+and we should not, under the guise of interpretation,
+ascribe to Congress any such discriminatory purpose.
+We agree with the Seventh Circuit that:
+"If when a suit is commenced, plaintiff has a right to sue in that
+district, independently of the wishes of defendant, it is a district
+`where [the action] might have been brought.' If he does not have
+that right, independently of the wishes of defendant, it is not a
+district `where it might have been brought,' and it is immaterial
+that the defendant subsequently [makes himself subject, by consent,
+waiver of venue and personal jurisdiction defenses or otherwise, to
+the jurisdiction of some other forum]." 260 F. 2d, at 321 and 261 F.
+2d, at 469.
+Inasmuch as the respondents (plaintiffs) did not have a
+right to bring these actions in the respective transferee
+districts, it follows that the judgments of the Court of
+Appeals were correct and must be
+Affirmed.

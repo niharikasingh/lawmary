@@ -1,0 +1,421 @@
+The Seventh Amendment to the Constitution provides:
+"In suits at common law, where the value in controversy
+shall exceed twenty dollars, the right of trial by jury shall
+be preserved, and no fact tried by a jury shall [319 U.S.
+397] be otherwise re-examined in any Court of the
+United States, than according to the rules of the
+common law."
+The Court here re-examines testimony offered in a
+common law suit, weighs conflicting evidence, and
+holds that the litigant may never take this case to a jury.
+The founders of our government thought that trial of
+fact by juries rather than by judges was an essential
+bulwark of civil liberty.1 For this reason, among others,
+they adopted Article III, § 2 of the Constitution, and the
+Sixth and Seventh Amendments. Today's decision
+marks a continuation of the gradual process of judicial
+erosion which in one-hundred-fifty years has slowly
+worn away a major portion of the essential guarantee of
+the Seventh Amendment.
+I.
+Alexander Hamilton in The Federalist emphasized his
+loyalty to the jury system in civil cases and declared that
+jury verdicts should be re-examined, if at all, only "by a
+second jury, either by remanding the cause to the court
+below for a second trial of the fact, or by directing an
+issue immediately out of the Supreme Court." He
+divided the citizens of his time between those who
+thought that [319 U.S. 398] jury trial was a "valuable
+safeguard to liberty" and those who thought it was "the
+very palladium of free government." However, he felt it
+unnecessary to include in the Constitution a specific
+provision placing jury trial in civil cases in the same high
+position as jury trial in criminal cases.2
+Hamilton's view, that constitutional protection of jury
+trial in civil cases was undesirable, did not prevail. On
+the contrary, in response to widespread demands from
+the various State Constitutional Conventions, the first
+Congress adopted the Bill of Rights containing the Sixth
+and Seventh Amendments, intended to save trial in both
+criminal and common law cases from legislative or
+judicial abridgment.3 The first Congress expected the
+Seventh Amendment to meet the objections of men like
+Patrick Henry to the Constitution itself. Henry, speaking
+in the Virginia Constitutional Convention, had
+expressed the general conviction of the people of the
+Thirteen States when he said, "Trial by jury is the best
+appendage of freedom. . . . We are told that we are to
+part with that trial by jury with which our ancestors
+secured their lives and property. . . . I hope we shall
+never be induced, by such arguments, to part with that
+excellent mode of trial. No appeal can now be made as to
+fact in common law suits. The unanimous verdict of
+impartial men cannot be reversed."4 The first Congress,
+therefore, [319 U.S. 399] provided for trial of common
+law cases by a jury, even when such trials were in the
+Supreme Court itself. 1 Stat. 73, 81.
+In 1789, juries occupied the principal place in the
+administration of justice. They were frequently in both
+criminal5 and civil cases the arbiters not only of fact but
+of law. Less than three years after the ratification of the
+Seventh Amendment, this Court called a jury in a civil
+case brought under our original jurisdiction. There was
+no disagreement as to the facts of the case. Chief Justice
+Jay, charging the jury for a unanimous Court, three of
+whose members had sat in the Constitutional
+Convention, said: "For as, on the one hand, it is
+presumed that juries are the best judges of facts; it is, on
+the other hand, presumable that the court are the best
+judges of law. But still, both objects are lawfully within
+your power of decision." Georgia v. Brailsford, 3 Dall. 1,
+4. Similar views were held by state courts in
+Connecticut, Massachusetts, Illinois, Louisiana and
+presumably elsewhere.6
+The principal method by which judges prevented cases
+from going to the jury in the Seventeenth and
+Eighteenth Centuries was by the demurrer to the
+evidence, under [319 U.S. 400] which the defendant at
+the end of the trial admitted all facts shown by the
+plaintiff as well as all inferences which might be drawn
+from the facts, and asked for a ruling of the Court on the
+"law of the case."7 See for example Wright v. Pindar,
+(1647) Aleyn 18 and Pawling v. United States, 4 Cranch
+219. This practice fell into disuse in England in 1793,
+Gibson v. Hunter, 2 H. B1. 187, and in the United States
+federal courts in 1826, Fowle v. Alexandria, 11 Wheat.
+320. The power of federal judges to comment to the jury
+on the evidence gave them additional influence.
+M'Lanahan v. Universal Insurance Co., 1 Pet. 170
+(1828). The right of involuntary non-suit of a plaintiff,
+which might have been used to expand judicial power at
+jury expense was at first denied federal courts. Elmore v.
+Grymes, 1 Pet. 469; DeWolf v. Rabaud, 1 Pet. 476; but
+cf. Coughran v. Bigelow, 164 U.S. 301 (1896).
+As Hamilton had declared in The Federalist, the basic
+judicial control of the jury function was in the court's
+power to order a new trial.8 In 1830, this Court said:
+"The only modes known to the common law to reexamine
+such facts, are the granting of a new trial by the
+court where the issue was tried, or to which the record
+was properly returnable; or the award of a venire facias
+de novo, by an appellate court, for some error of law
+which intervened in the proceedings." Parsons v.
+Bedford, supra, at 448.9 That retrial by a new jury rather
+than factual [319 U.S. 401] reevaluation by a court is a
+constitutional right of genuine value was restated as
+recently as Slocum v. New York Life Insurance Co., 228
+U.S. 364.10
+A long step toward the determination of fact by judges
+instead of by juries was the invention of the directed
+verdict.11 In 1850, what seems to have been the first
+directed [319 U.S. 402] verdict case considered by this
+Court, Parks v. Ross, 11 How. 362, was presented for
+decision. The Court held that the directed verdict serves
+the same purpose as the demurrer to the evidence, and
+that since there was "no evidence whatever"12 on the
+critical issue in the case, the directed verdict was
+approved.13 The decision was an innovation, a
+departure from the traditional rule restated only fifteen
+years before in Greenleaf v. Birth, 9 Pet. 292, 299
+(1835), in which this Court had said: "Where there is no
+evidence tending to prove a particular fact, the court are
+bound so to instruct the jury, when requested; but they
+cannot legally give any instruction which shall take from
+the jury the right of weighing the evidence and
+determining what effect it shall have."
+This new device contained potentialities for judicial
+control of the jury which had not existed in the
+demurrer to the evidence. In the first place, demurring
+to the evidence [319 U.S. 403] was risky business, for in
+so doing the party not only admitted the truth of all the
+testimony against him but also all reasonable inferences
+which might be drawn from it; and upon joinder in
+demurrer the case was withdrawn from the jury while
+the court proceeded to give final judgment either for or
+against the demurrant. Hopkins v. Railroad, 96 Tenn.
+409, 34 S.W. 1029; Suydam v. Williamson, 20 How.
+427, 436; Bass v. Rublee, 76 Vt. 395, 400, 57 A. 965.
+Imposition of this risk was no mere technicality; for by
+making withdrawal of a case from the jury dangerous to
+the moving litigant's cause, the early law went far to
+assure that facts would never be examined except by a
+jury. Under the directed verdict practice, the moving
+party takes no such chance, for if his motion is denied,
+instead of suffering a directed verdict against him, his
+case merely continues into the hands of the jury. The
+litigant not only takes no risk by a motion for a directed
+verdict, but in making such a motion gives himself two
+opportunities to avoid the jury's decision; for under the
+federal variant of judgment notwithstanding the verdict,
+the judge may reserve opinion on the motion for a
+directed verdict and then give judgment for the moving
+party after the jury has formally found against him.14 In
+the second place, under the directed verdict practice the
+courts soon abandoned the "admission of all facts and
+reasonable inferences" standard referred to, and created
+the so-called "substantial evidence" rule which permitted
+directed verdicts even though there was far more
+evidence in the case than a plaintiff would have needed
+to withstand a demurrer.
+The substantial evidence rule did not spring into
+existence immediately upon the adoption of the directed
+verdict device. For a few more years15 federal judges [319
+U.S. 404] held to the traditional rule that juries might
+pass finally on facts if there was "any evidence" to
+support a party's contention. The rule that a case must
+go to the jury unless there was "no evidence" was
+completely repudiated in Improvement Co. v. Munson,
+14 Wall. 442, 447 (1871), upon which the Court today
+relies in part. There the Court declared that "some"
+evidence was not enough — there must be evidence
+sufficiently persuasive to the judge so that he thinks "a
+jury can properly proceed." The traditional rule was
+given an ugly name, "the scintilla rule," to hasten its
+demise. For a time, traces of the old formula remained,
+as in Randall v. B. & O.R. Co., 109 U.S. 478, but the new
+spirit prevailed. See for example Pleasants v. Fant, supra,
+and Commissioners v. Clark, 94 U.S. 278. The same
+transition from jury supremacy to jury subordination
+through judicial decisions took place in state courts.16
+Later cases permitted the development of added judicial
+control.17 New and totally unwarranted formulas, which
+should surely be eradicated from the law at the first
+opportunity, were added as recently as 1929 in Gunning
+v. Cooley, 281 U.S. 90, which, by sheerest dictum, made
+new encroachments on the jury's constitutional
+functions. There it was announced that a judge might
+weigh the evidence to determine whether he, and not
+the jury, [319 U.S. 405] thought it was "overwhelming"
+for either party, and then direct a verdict. Cf. Pence v.
+United States, 316 U.S. 332, 340. Gunning v. Cooley, at
+94, also suggests, quite unnecessarily for its decision,
+that "When a plaintiff produces evidence that is
+consistent with an hypothesis that the defendant is not
+negligent, and also with one that he is, his proof tends to
+establish neither." This dictum, which assumes that a
+judge can weigh conflicting evidence with mathematical
+precision and which wholly deprives the jury of the
+right to resolve that conflict, was applied in
+Pennsylvania R. Co. v. Chamberlain, 288 U.S. 333. With
+it, and other tools, jury verdicts on disputed facts have
+been set aside or directed verdicts authorized so
+regularly as to make the practice commonplace, while
+the motion for directed verdict itself has become
+routine. See for example Southern Railway Co. v.
+Walters, 284 U.S. 190; Atlantic Coast Line v. Temple,
+285 U.S. 143; Lumbra v. United States, 290 U.S. 551;
+Pence v. United States, supra; and De Zon v. United
+States, 318 U.S. 660.
+Even Gunning v. Cooley, at 94, acknowledged that
+"issues that depend on the credibility of witnesses . . . are
+to be decided by the jury."18 Today the Court comes
+dangerously close to weighing the credibility of a
+witness and rejecting his testimony because the majority
+do not believe it.
+The story thus briefly told depicts the constriction of a
+constitutional civil right and should not be continued.
+[319 U.S. 406] Speaking of an aspect of this problem, a
+contemporary writer saw the heart of the issue: "Such a
+reversal of opinion [as that of a particular state court
+concerning the jury function], if it were isolated, might
+have little significance, but when many other courts
+throughout the country are found to be making the
+same shift and to be doing so despite the provisions of
+statutes and constitutions there is revealed one aspect of
+that basic conflict in the legal history of America — the
+conflict between the people's aspiration for democratic
+government,19 and the judiciary's desire for the orderly
+supervision of public affairs by judges."20
+The language of the Seventh Amendment cannot easily
+be improved by formulas.21 The statement of a district
+judge in Tarter v. United States, 17 F.Supp. 691, 692-
+693, represents, in my opinion, the minimum meaning
+of the Seventh Amendment:
+"The Seventh Amendment to the Constitution
+guarantees a jury trial in law cases, where there is
+substantial [319 U.S. 407] evidence to support the claim
+of the plaintiff in an action. If a single witness testifies to
+a fact sustaining the issue between the parties, or if
+reasoning minds might reach different conclusions from
+the testimony of a single witness, one of which would
+substantially support the issue of the contending party,
+the issue must be left to the jury. Trial by jury is a
+fundamental guaranty of the rights of the people, and
+judges should not search the evidence with meticulous
+care to deprive litigants of jury trials."
+The call for the true application of the Seventh
+Amendment is not to words, but to the spirit of honest
+desire to see that constitutional right preserved. Either
+the judge or the jury must decide facts and, to the extent
+that we take this responsibility, we lessen the jury
+function. Our duty to preserve this one of the Bill of
+Rights may be peculiarly difficult, for here it is our own
+power which we must restrain. We should not fail to
+meet the expectation of James Madison, who, in
+advocating the adoption of the Bill of Rights, said:
+"Independent tribunals of justice will consider
+themselves in a peculiar manner the guardians of those
+rights; . . . they will be naturally led to resist every
+encroachment upon rights expressly stipulated for in the
+Constitution by the declaration of right." So few of these
+cases come to this Court that, as a matter of fact, the
+judges of the District Courts and the Circuit Courts of
+Appeals are the primary custodians of the Amendment.
+As for myself, I believe that a verdict should be directed,
+if at all, only when, without weighing the credibility of
+the witnesses, there is in the evidence no room
+whatever for honest difference of opinion over the
+factual issue in controversy. I shall continue to believe
+that in all other cases a judge should, in obedience to the
+command of the Seventh Amendment, not interfere
+with the jury's function. Since this is a matter of high
+constitutional importance, appellate courts should be
+alert to insure the preservation of this constitutional
+right even though each case necessarily turns on its
+peculiar circumstances.
+[319 U.S. 408] II.
+The factual issue for determination here is whether the
+petitioner incurred a total and permanent disability not
+later than May 31, 1919. It is undisputed that the
+petitioner's health was sound in 1918, and it is evidently
+conceded that he was disabled at least since 1930. When,
+in the intervening period, did the disability take place?
+A doctor who testified diagnosed the petitioner's case as
+a schizophrenic form of dementia praecox. He declared
+it to be sound medical theory that while a normal man
+can retain his sanity in the face of severe mental or
+physical shock, some persons are born with an inherent
+instability so that they are mentally unable to stand
+sudden and severe strain. The medical testimony was
+that this petitioner belongs to the latter class and that
+the shock of actual conflict on the battle front brought
+on the incurable affliction from which he now suffers.
+The medical witness testified that the dominant
+symptoms of the condition are extreme introversion and
+preoccupation with personal interests, a persecution
+complex, and an emotional instability which may be
+manifested by extreme exhilaration alternating with
+unusual depression or irrational outbursts. Persons
+suffering from this disease are therefore unable to
+engage in continuous employment.
+The petitioner relies on the testimony of wartime and
+postwar companions and superiors to show that his
+present mental condition existed on the crucial date.
+There is substantial testimony from which reasonable
+men might conclude that the petitioner was insane from
+the date claimed.
+Two witnesses testify as to the petitioner's mental
+irresponsibility while he was in France. The most
+striking incident in this testimony is the account of his
+complete breakdown while on guard duty as a result of
+which he falsely alarmed his military unit by screaming
+that the [319 U.S. 409] Germans were coming when they
+were not and was silenced only by being forceably
+bound and gagged. There was also other evidence that
+Galloway became nervous, irritable, quarrelsome and
+turbulent after he got to France. The Court disposes of
+this testimony, which obviously indicates some degree
+of mental unbalance, by saying no more than that it
+"does not prove he was insane." No reason is given, nor
+can I imagine any, why a jury should not be entitled to
+consider this evidence and draw its own conclusions.
+The testimony of another witness, O'Neill, was offered
+to show that the witness had known the petitioner both
+before and after the war, and that after the war the
+witness found the petitioner a changed man; that the
+petitioner imagined that he was being persecuted; and
+that the petitioner suffered from fits of melancholia,
+depression and weeping. If O'Neill's testimony is to be
+believed, the petitioner suffered the typical symptoms of
+a schizophreniac for some years after his return to this
+country; therefore if O'Neill's testimony is believed,
+there can be no reasonable doubt about the right of a
+jury to pass on this case. The Court analyzes O'Neill's
+testimony for internal consistency, criticizes his failure
+to remember the details of his association with the
+petitioner fifteen years before his appearance in this
+case, and concludes that O'Neill's evidence shows no
+more than that "petitioner was subject to alternating
+periods of gaiety and depression for some indefinite
+period." This extreme emotional instability is an
+accepted symptom of the disease from which the
+petitioner suffers. If he exhibited the same symptoms in
+1922, it is, at the minimum, probable that the condition
+has been continuous since an origin during the war.
+O'Neill's testimony coupled with the petitioner's present
+condition presents precisely the type of question which
+a jury should resolve.
+[319 U.S. 410] The petitioner was in the Navy for six
+months in 1920, until he was discharged for bad
+conduct; and later was in the Army during 1921 and a
+part of 1922, until he deserted. The testimony of his
+Commanding Officer while he was in the Army, Col.
+Matthews, is that the petitioner had "periods of gaiety
+and exhilaration" and was then "depressed as if he had
+had a hangover"; that petitioner tried to create
+disturbances and dissatisfy the men; that he suffered
+from a belief that he was being treated unfairly; and that
+generally his actions "were not those of a normal man."
+The Colonel was not a doctor and might well not have
+recognized insanity had he seen it; as it was, he
+concluded that the petitioner was an alcoholic and a
+narcotic addict. However, the officer was unable, upon
+repeated investigations, to discover any actual use of
+narcotics. A jury fitting this information into the general
+pattern of the testimony might well have been driven to
+the conclusion that the petitioner was insane at the time
+the Colonel had him under observation.
+All of this evidence, if believed, showed a man, healthy
+and normal before he went to the war, suffering for
+several years after he came back from a disease which
+had the symptoms attributed to schizophrenia and who
+was insane from 1930 until his trial. Under these
+circumstances, I think that the physician's testimony of
+total and permanent disability by reason of continuous
+insanity from 1918 to 1938 was reasonable. The fact that
+there was no direct testimony for a period of five years,
+while it might be the basis of fair argument to the jury
+by the Government, does not, as the Court seems to
+believe, create a presumption against the petitioner so
+strong that his case must be excluded from the jury
+entirely. Even if during these five years the petitioner
+was spasmodically employed, we could not conclude that
+he was not totally and permanently disabled. Berry v.
+United States, 312 U.S. 450, 455. It is not doubted that
+[319 U.S. 411] schizophrenia is permanent even though
+there may be a momentary appearance of recovery.
+The court below concluded that the petitioner's
+admission into the military service between 1920 and
+1923 showed conclusively that he was not totally and
+permanently disabled. Any inference which may be
+created by the petitioner's admission into the Army and
+the Navy is more than met by his record of courtmartial,
+dishonorable discharge, and desertion, as well as
+by the explicit testimony of his Commanding Officer,
+Colonel Matthews.
+This case graphically illustrates the injustice resulting
+from permitting judges to direct verdicts instead of
+requiring them to await a jury decision and then, if
+necessary, allow a new trial. The chief reason given for
+approving a directed verdict against this petitioner is
+that no evidence except expert medical testimony was
+offered for a five to eight year period. Perhaps, now that
+the petitioner knows he has insufficient evidence to
+satisfy a judge even though he may have enough to
+satisfy a jury, he would be able to fill this time gap to
+meet any judge's demand. If a court would point out on
+a motion for new trial that the evidence as to this
+particular period was too weak, the petitioner would be
+given an opportunity to buttress the physician's
+evidence. If, as the Court believes, insufficient evidence
+has been offered to sustain a jury verdict for the
+petitioner, we should at least authorize a new trial. Cf.
+Garrison v. United States, 62 F.2d 41, 42.
+I believe that there is a reasonable difference of opinion
+as to whether the petitioner was totally and permanently
+disabled by reason of insanity on May 31, 1919, and that
+his case therefore should have been allowed to go to the
+jury. The testimony of fellow soldiers, friends,
+supervisors, and of a medical expert whose integrity and
+ability is not challenged cannot be rejected by any
+process available to me as a judge.

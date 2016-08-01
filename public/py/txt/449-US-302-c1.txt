@@ -1,0 +1,203 @@
+As I view this unusual case—in which neither precedent
+nor constitutional language provides sure
+guidance—two separate questions must be answered.
+First, does the Full Faith and Credit Clause1 require
+Minnesota, the forum State, to apply Wisconsin law?
+Second, does the Due Process Clause2 of the Fourteenth
+Amendment prevent Minnesota from applying its own
+law? The first inquiry implicates the federal interest in
+ensuring that Minnesota respect the sovereignty of the
+State of Wisconsin; the second implicates the litigants'
+interest in a fair adjudication of their rights.3
+[449 U.S. 321] I realize that both this Court's analysis of
+choice-of-law questions4 and scholarly criticism of those
+decisions5 have treated these two inquiries as though
+they were indistinguishable.6 [449 U.S. 322]
+Nevertheless, I am persuaded that the two constitutional
+provisions protect different interests and that proper
+analysis requires separate consideration of each.
+I
+The Full Faith and Credit Clause is one of several
+provisions in the Federal Constitution designed to
+transform the several States from independent
+sovereignties into a single, unified Nation. See Thomas
+v. Washington Gas Light Co., 448 U.S. 261, 271-272
+(1980) (plurality opinion); Milwaukee County v. M. E.
+White Co., 296 U.S. 268, 276-277 (1935).7 The Full
+Faith and Credit Clause implements this design by
+directing that a State, when acting as the forum for
+litigation having multistate aspects or implications,
+respect the legitimate interests of other States and avoid
+infringement upon their sovereignty. The Clause does
+not, however, rigidly [449 U.S. 323] require the forum
+State to apply foreign law whenever another State has a
+valid interest in the litigation. See Nevada v. Hall, 440
+U.S. 410, 424 (1979); Alaska Packers Assn. v. Industrial
+Accident Comm'n, 294 U.S. 532, 546-548 (1935); Pacific
+Employers Ins. Co. v. Industrial Accident Comm'n, 306
+U.S. 493, 501-502 (1939).8 On the contrary, in view of
+the fact that the forum State is also a sovereign in its
+own right, in appropriate cases it may attach paramount
+importance to its own legitimate interests.9
+Accordingly, the fact that a choice-of-law decision may
+be unsound as a matter of conflicts law does not
+necessarily implicate the federal concerns embodied in
+the Full Faith and Credit Clause. Rather, in my opinion,
+the Clause should not invalidate a state court's choice of
+forum law unless that choice threatens the federal
+interest in national unity by unjustifiably infringing
+upon the legitimate interests of another State.10
+[449 U.S. 324] In this case, I think the Minnesota courts'
+decision to apply Minnesota law was plainly unsound as
+a matter of normal conflicts law. Both the execution of
+the insurance contract and the accident giving rise to the
+litigation took place in Wisconsin. Moreover, when
+both of those events occurred, the plaintiff, the
+decedent, and the operators of both vehicles were all
+residents of Wisconsin. Nevertheless, I do not believe
+that any threat to national unity or Wisconsin's
+sovereignty ensues from allowing the substantive
+question presented by this case to be determined by the
+law of another State.
+The question on the merits is one of interpreting the
+meaning of the insurance contract. Neither the contract
+itself, nor anything else in the record, reflects any
+express understanding of the parties with respect to
+what law would be applied or with respect to whether
+the separate uninsured motorist coverage for each of the
+decedent's three cars could be "stacked." Since the policy
+provided coverage for accidents that might occur in
+other States, it was obvious to the parties at the time of
+contracting that it might give rise to the application of
+the law of States other than Wisconsin. Therefore,
+while Wisconsin may have an interest in ensuring that
+contracts formed in Wisconsin in reliance upon
+Wisconsin law are interpreted in accordance with that
+law, that interest is not implicated in this case.11
+[449 U.S. 325] Petitioner has failed to establish that
+Minnesota's refusal to apply Wisconsin law poses any
+direct12 or indirect threat to Wisconsin's sovereignty.13
+In the absence of any such [449 U.S. 326] threat, I find it
+unnecessary to evaluate the forum State's interest in the
+litigation in order to reach the conclusion that the Full
+Faith and Credit Clause does not require the Minnesota
+courts to apply Wisconsin law to the question of
+contract interpretation presented in this case.
+II
+It may be assumed that a choice-of-law decision would
+violate the Due Process Clause if it were totally arbitrary
+or if it were fundamentally unfair to either litigant. I
+question whether a judge's decision to apply the law of
+his own State could ever be described as wholly
+irrational. For judges are presumably familiar with their
+own state law and may find it difficult and time
+consuming to discover and apply correctly the law of
+another State.14 The forum State's interest in the fair
+and efficient administration of justice is therefore
+sufficient, in my judgment, to attach a presumption of
+validity to a forum State's decision to apply its own law
+to a dispute over which it has jurisdiction.
+The forum State's interest in the efficient operation of
+its judicial system is clearly not sufficient, however, to
+justify the application of a rule of law that is
+fundamentally unfair to one of the litigants. Arguably, a
+litigant could demonstrate such unfairness in a variety of
+ways. Concern about the fairness of the forum's choice
+of its own rule might arise [449 U.S. 327] if that rule
+favored residents over nonresident, if it represented a
+dramatic departure from the rule that obtains in most
+American jurisdictions, or if the rule itself was unfair on
+its face or as applied.15
+The application of an otherwise acceptable rule of law
+may result in unfairness to the litigants if, in engaging in
+the activity which is the subject of the litigation, they
+could not reasonably have anticipated that their actions
+would later be judged by this rule of law. A choice-oflaw
+decision that frustrates the justifiable expectations of
+the parties can be fundamentally unfair. This desire to
+prevent unfair surprise to a litigant has been the central
+concern in this Court's review of choice-of-law
+decisions under the Due Process Clause.16
+Neither the "stacking" rule itself, nor Minnesota's
+application of that rule to these litigants, raises any
+serious question of fairness. As the plurality observes,
+"[s]tacking was [449 U.S. 328] the rule in most States at
+the time the policy was issued." Ante, at 316, n. 22.17
+Moreover, the rule is consistent with the economics of a
+contractual relationship in which the policyholder paid
+three separate premiums for insurance coverage for
+three automobiles, including a separate premium for
+each uninsured motorist coverage.18 Nor am I persuaded
+that the decision of the Minnesota courts to apply the
+"stacking" rule in this case can be said to violate due
+process because that decision frustrates the reasonable
+expectations of the contracting parties.
+Contracting parties can, of course, make their
+expectations explicit by providing in their contract
+either that the law of a particular jurisdiction shall
+govern questions of contract interpretation,19 or that a
+particular substantive rule, for instance "stacking," shall
+or shall not apply.20 In the absence [449 U.S. 329] of such
+express provisions, the contract nonetheless may
+implicitly reveal the expectations of the parties. For
+example, if a liability insurance policy issued by a
+resident of a particular State provides coverage only
+with respect to accidents within that State, it is
+reasonable to infer that the contracting parties expected
+that their obligations under the policy would be
+governed by that State's law.21
+In this case, no express indication of the parties'
+expectations is available. The insurance policy provided
+coverage for accidents throughout the United States;
+thus, at the time of contracting, the parties certainly
+could have anticipated that the law of States other than
+Wisconsin would govern particular claims arising under
+the policy.22 By virtue of doing business [449 U.S. 330]
+in Minnesota, Allstate was aware that it could be sued in
+the Minnesota courts; Allstate also presumably was
+aware that Minnesota law, as well as the law of most
+States, permitted "stacking." Nothing in the record
+requires that a different inference be drawn. Therefore,
+the decision of the Minnesota courts to apply the law of
+the forum in this case does not frustrate the reasonable
+expectations of the contracting parties, and I can find no
+fundamental unfairness in that decision requiring the
+attention of this Court.23
+[449 U.S. 331] In terms of fundamental fairness, it seems
+to me that two factors relied upon by the plurality—the
+plaintiff's post-accident move to Minnesota and the
+decedent's Minnesota employment—are either
+irrelevant to or possibly even tend to undermine the
+plurality's conclusion. When the expectations of the
+parties at the time of contracting are the central due
+process concern, as they are in this case, an
+unanticipated postaccident occurrence is clearly
+irrelevant for due process purposes. The fact that the
+plaintiff became a resident of the forum State after the
+accident surely cannot justify a ruling in her favor that
+would not be made if the plaintiff were a nonresident.
+Similarly, while the fact that the decedent regularly
+drove into Minnesota might be relevant to the
+expectations of the contracting parties,24 the fact that he
+did so because he was employed in Minnesota adds
+nothing to the due process analysis. The choice-of-law
+decision of the Minnesota courts is consistent with due
+process because it does not result in unfairness to either
+litigant, not because Minnesota now has an interest in
+the plaintiff as resident or formerly had an interest in
+the decedent as employee.
+III
+Although I regard the Minnesota courts' decision to
+apply forum law as unsound as a matter of conflicts law,
+and there [449 U.S. 332] is little in this record other than
+the presumption in favor of the forum's own law to
+support that decision, I concur in the plurality's
+judgment. It is not this Court's function to establish and
+impose upon state courts a federal choice-of-law rule,
+nor is it our function to ensure that state courts
+correctly apply whatever choice-of-law rules they have
+themselves adopted.25 Our authority may be exercised in
+the choice-of-law area only to prevent a violation of the
+Full Faith and Credit or the Due Process Clause. For the
+reasons stated above, I find no such violation in this
+case.

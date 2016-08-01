@@ -1,0 +1,355 @@
+The case presented by the evidence is a simple one.
+Plaintiff was severely injured in Pennsylvania. While
+walking on defendant's right of way along a much-used
+path at the end of the cross ties of its main track, he
+came into collision with an open door swinging from
+the side of a car in a train going in the opposite
+direction. Having been warned by whistle and headlight,
+he saw the locomotive [304 U.S. 81] approaching and
+had time and space enough to step aside and so avoid
+danger. To justify his failure to get out of the way, he
+says that upon many other occasions he had safely
+walked there while trains passed.
+Invoking jurisdiction on the ground of diversity of
+citizenship, plaintiff, a citizen and resident of
+Pennsylvania, brought this suit to recover damages
+against defendant, a New York corporation, in the
+federal court for the southern district of that State. The
+issues were whether negligence of defendant was a
+proximate cause of his injuries and whether negligence
+of plaintiff contributed. He claimed that, by hauling the
+car with the open door, defendant violated a duty to
+him. The defendant insisted that it violated no duty and
+that plaintiff's injuries were caused by his own
+negligence. The jury gave him a verdict on which the
+trial court entered judgment; the circuit court of appeals
+affirmed. 90 F.2d 603.
+Defendant maintained, citing Falchetti v. Pennsylvania
+R. Co., 307 Pa. 203; 160 A. 859, and Koontz v. B. & O.R.
+Co., 309 Pa. 122; 163 A. 212, that the only duty owed
+plaintiff was to refrain from willfully or wantonly
+injuring him; it argued that the courts of Pennsylvania
+had so ruled with respect to persons using a customary
+longitudinal path, as distinguished from one crossing
+the track. The plaintiff insisted that the Pennsylvania
+decisions did not establish the rule for which the
+defendant contended. Upon that issue the circuit court
+of appeals said (p. 604): "We need not go into this
+matter since the defendant concedes that the great
+weight of authority in other states is to the contrary.
+This concession is fatal to its contention, for upon
+questions of general law the federal courts are free, in
+absence of a local statute, to exercise their independent
+judgment as to what the law is; and it is well settled that
+the question of the responsibility of a railroad for
+injuries caused by its servants is one of general law."
+[304 U.S. 82] Upon that basis the court held the evidence
+sufficient to sustain a finding that plaintiff's injuries
+were caused by the negligence of defendant. It also held
+the question of contributory negligence one for the jury.
+Defendant's petition for writ of certiorari presented two
+questions: Whether its duty toward plaintiff should
+have been determined in accordance with the law as
+found by the highest court of Pennsylvania, and whether
+the evidence conclusively showed plaintiff guilty of
+contributory negligence. Plaintiff contends that, as
+always heretofore held by this Court, the issues of
+negligence and contributory negligence are to be
+determined by general law against which local decisions
+may not be held conclusive; that defendant relies on a
+solitary Pennsylvania case of doubtful applicability and
+that, even if the decisions of the courts of that State
+were deemed controlling, the same result would have to
+be reached.
+No constitutional question was suggested or argued
+below or here. And as a general rule, this Court will not
+consider any question not raised below and presented by
+the petition. Olson v. United States, 292 U.S. 246, 262.
+Johnson v. Manhattan Ry. Co., 289 U.S. 479, 494.
+Gunning v. Cooley, 281 U.S. 90, 98. Here it does not
+decide either of the questions presented but, changing
+the rule of decision in force since the foundation of the
+Government, remands the case to be adjudged according
+to a standard never before deemed permissible.
+The opinion just announced states that "the question for
+decision is whether the oft-challenged doctrine of Swift
+v. Tyson [1842, 16 Pet. 1] shall now be disapproved."
+That case involved the construction of the Judiciary Act
+of 1789, § 34: "The laws of the several states, except
+where the Constitution, treaties, or statutes of the
+United States otherwise require or provide, shall be
+regarded as rules of decision in trials at common law in
+the courts of [304 U.S. 83] the United States in cases
+where they apply." Expressing the view of all the
+members of the Court, Mr. Justice Story said (p. 18): "In
+the ordinary use of language it will hardly be contended
+that the decisions of Courts constitute laws. They are, at
+most, only evidence of what the laws are, and not of
+themselves laws. They are often re-examined, reversed,
+and qualified by the Courts themselves, whenever they
+are found to be either defective, or ill-founded, or
+otherwise incorrect. The laws of a state are more usually
+understood to mean the rules and enactments
+promulgated by the legislative authority thereof, or long
+established local customs having the force of laws. In all
+the various cases, which have hitherto come before us
+for decision, this Court have uniformly supposed, that
+the true interpretation of the thirty-fourth section
+limited its application to state laws strictly local, that is
+to say, to the positive statutes of the state, and the
+construction thereof adopted by the local tribunals, and
+to rights and titles to things having a permanent locality,
+such as the rights and titles to real estate, and other
+matters immovable and intraterritorial in their nature
+and character. It never has been supposed by us, that the
+section did apply, or was designed to apply, to questions
+of a more general nature, not at all dependent upon local
+statutes or local usages of a fixed and permanent
+operation, as, for example, to the construction of
+ordinary contracts or other written instruments, and
+especially to questions of general commercial law, where
+the state tribunals are called upon to perform the like
+functions as ourselves, that is, to ascertain upon general
+reasoning and legal analogies, what is the true
+exposition of the contract or instrument, or what is the
+just rule furnished by the principles of commercial law
+to govern the case. And we have not now the slightest
+difficulty in holding, that this section, upon its true
+intendment and construction, is strictly limited to local
+statutes and local usages of the character [304 U.S. 84]
+before stated, and does not extend to contracts and other
+instruments of a commercial nature, the true
+interpretation and effect whereof are to be sought, not
+in the decisions of the local tribunals, but in the general
+principles and doctrines of commercial jurisprudence.
+Undoubtedly, the decisions of the local tribunals upon
+such subjects are entitled to, and will receive, the most
+deliberate attention and respect of this Court; but they
+cannot furnish positive rules, or conclusive authority, by
+which our own judgments are to be bound up and
+governed." (Italics added.)
+The doctrine of that case has been followed by this
+Court in an unbroken line of decisions. So far as
+appears, it was not questioned until more than 50 years
+later, and then by a single judge.1 Baltimore & Ohio R.
+Co. v. Baugh, 149 U.S. 368, 390. In that case, Mr. Justice
+Brewer, speaking for the Court, truly said (p. 373):
+"Whatever differences of opinion may have been
+expressed, have not been on the question whether a
+matter of general law should be settled by the
+independent judgment of this court, rather than through
+an adherence to the decisions of the state courts, but
+upon the other question, whether a given matter is one
+of local or of general law."
+And since that decision, the division of opinion in this
+Court has been one of the same character as it was
+before. In 1910, Mr. Justice Holmes, speaking for
+himself and two other Justices, dissented from the
+holding that a [304 U.S. 85] court of the United States
+was bound to exercise its own independent judgment in
+the construction of a conveyance made before the state
+courts had rendered an authoritative decision as to its
+meaning and effect. Kuhn v. Fairmont Coal Co., 215
+U.S. 349. But that dissent accepted (p. 371) as "settled"
+the doctrine of Swift v. Tyson, and insisted (p. 372)
+merely that the case under consideration was by nature
+and necessity peculiarly local.
+Thereafter, as before, the doctrine was constantly
+applied.2 In Black & White Taxicab Co. v. Brown &
+Yellow Taxicab Co., 276 U.S. 518, three judges
+dissented. The writer of the dissent, Mr. Justice Holmes,
+said, however (p. 535): "I should leave Swift v. Tyson
+undisturbed, as I indicated in Kuhn v. Fairmont Coal
+Co., but I would not allow it to spread the assumed
+dominion into new fields."
+No more unqualified application of the doctrine can be
+found than in decisions of this Court speaking through
+Mr. Justice Holmes. United Zinc Co. v. Britt, 258 U.S.
+268. Baltimore & Ohio R. Co. v. Goodman, 275 U.S. 66,
+70. Without in the slightest departing from that
+doctrine, but implicitly applying it, the strictness of the
+rule laid down in the Goodman case was somewhat
+ameliorated by Pokora v. Wabash Ry. Co., 292 U.S. 98.
+Whenever possible, consistently with standards
+sustained by reason and authority constituting the
+general law, this Court has followed applicable decisions
+of state courts. Mutual Life Ins. Co. v. Johnson, 293 U.S.
+335, 339. See Burgess v. Seligman, 107 U.S. 20, 34. Black
+& White Taxicab Co. v. Brown & Yellow Taxicab Co.,
+supra, 530. Unquestionably the issues of negligence and
+contributory negligence upon which decision of this
+case [304 U.S. 86] depends are questions of general law.
+Hough v. Railway Co., 100 U.S. 213, 226. Lake Shore &
+M.S. Ry. Co. v. Prentice, 147 U.S. 101. Baltimore &
+Ohio R. Co. v. Baugh, supra. Gardner v. Michigan
+Central R. Co., 150 U.S. 349, 358. Central Vermont Ry.
+Co. v. White, 238 U.S. 507, 512. Baltimore & Ohio R.
+Co. v. Goodman, supra. Pokora v. Wabash Ry. Co.,
+supra.
+While amendments to § 34 have from time to time been
+suggested, the section stands as originally enacted.
+Evidently Congress has intended throughout the years
+that the rule of decision as construed should continue to
+govern federal courts in trials at common law. The
+opinion just announced suggests that Mr. Warren's
+research has established that from the beginning this
+Court has erroneously construed § 34. But that author's
+"New Light on the History of the Federal Judiciary Act
+of 1789" does not purport to be authoritative and was
+intended to be no more than suggestive. The weight to
+be given to his discovery has never been discussed at this
+bar. Nor does the opinion indicate the ground disclosed
+by the research. In his dissenting opinion in the Taxicab
+case, Mr. Justice Holmes referred to Mr. Warren's work
+but failed to persuade the Court that "laws" as used in §
+34 included varying and possibly ill-considered rulings
+by the courts of a State on questions of common law.
+See, e.g., Swift v. Tyson, supra, 16-17. It well may be
+that, if the Court should now call for argument of
+counsel on the basis of Mr. Warren's research, it would
+adhere to the construction it has always put upon § 34.
+Indeed, the opinion in this case so indicates. For it
+declares: "If only a question of statutory construction
+were involved, we should not be prepared to abandon a
+doctrine so widely applied throughout a century. But the
+unconstitutionality of the course pursued has now been
+made clear and compels us to do so." This means that, so
+far as concerns the rule of decision now condemned, the
+Judiciary Act of 1789, passed to establish judicial [304
+U.S. 87] courts to exert the judicial power of the United
+States, and especially § 34 of that Act as construed, is
+unconstitutional; that federal courts are now bound to
+follow decisions of the courts of the State in which the
+controversies arise; and that Congress is powerless
+otherwise to ordain. It is hard to foresee the
+consequences of the radical change so made. Our
+opinion in the Taxicab case cites numerous decisions of
+this Court which serve in part to indicate the field from
+which it is now intended forever to bar the federal
+courts. It extends to all matters of contracts and torts
+not positively governed by state enactments. Counsel
+searching for precedent and reasoning to disclose
+common-law principles on which to guide clients and
+conduct litigation are by this decision told that as to all
+of these questions the decisions of this Court and other
+federal courts are no longer anywhere authoritative.
+This Court has often emphasized its reluctance to
+consider constitutional questions, and that legislation
+will not be held invalid as repugnant to the fundamental
+law if the case may be decided upon any other ground.
+In view of grave consequences liable to result from
+erroneous exertion of its power to set aside legislation,
+the Court should move cautiously, seek assistance of
+counsel, act only after ample deliberation, show that the
+question is before the Court, that its decision cannot be
+avoided by construction of the statute assailed or
+otherwise, indicate precisely the principle or provision
+of the Constitution held to have been transgressed, and
+fully disclose the reasons and authorities found to
+warrant the conclusion of invalidity. These safeguards
+against the improvident use of the great power to
+invalidate legislation are so well-grounded and familiar
+that statement of reasons or citation of authority to
+support them is no longer necessary. But see e.g.:
+Charles River Bridge v. Warren Bridge, 11 Pet. 420,
+553; Township of Pine Grove v. Talcott, 19 Wall. 666,
+673; Chicago & G.T. Ry. Co. v. Wellman, 143 U.S. 339,
+345; [304 U.S. 88] Baker v. Grice, 169 U.S. 284, 292;
+Martin v. District of Columbia, 205 U.S. 135, 140.
+So far as appears, no litigant has ever challenged the
+power of Congress to establish the rule as construed. It
+has so long endured that its destruction now without
+appropriate deliberation cannot be justified. There is
+nothing in the opinion to suggest that consideration of
+any constitutional question is necessary to a decision of
+the case. By way of reasoning, it contains nothing that
+requires the conclusion reached. Admittedly, there is no
+authority to support that conclusion. Against the protest
+of those joining in this opinion, the Court declines to
+assign the case for reargument. It may not justly be
+assumed that the labor and argument of counsel for the
+parties would not disclose the right conclusion and aid
+the Court in the statement of reasons to support it.
+Indeed, it would have been appropriate to give Congress
+opportunity to be heard before devesting it of power to
+prescribe rules of decision to be followed in the courts of
+the United States. See Myers v. United States, 272 U.S.
+52, 176.
+The course pursued by the Court in this case is
+repugnant to the Act of Congress of August 24, 1937, 50
+Stat. 751. It declares: "That whenever the
+constitutionality of any Act of Congress affecting the
+public interest is drawn in question in any court of the
+United States in any suit or proceeding to which the
+United States, or any agency thereof, or any officer or
+employee thereof, as such officer or employee, is not a
+party, the court having jurisdiction of the suit or
+proceeding shall certify such fact to the Attorney
+General. In any such case the court shall permit the
+United States to intervene and become a party for
+presentation of evidence (if evidence is otherwise
+receivable in such suit or proceeding) and argument
+upon the question of the constitutionality of such Act.
+In any such suit or proceeding the United States shall,
+subject to the applicable provisions of law, have all the
+rights of a [304 U.S. 89] party and the liabilities of a
+party as to court costs to the extent necessary for a
+proper presentation of the facts and law relating to the
+constitutionality of such Act." That provision extends to
+this Court. § 5. If defendant had applied for and
+obtained the writ of certiorari upon the claim that, as
+now held, Congress has no power to prescribe the rule
+of decision, § 34 as construed, it would have been the
+duty of this Court to issue the prescribed certificate to
+the Attorney General in order that the United States
+might intervene and be heard on the constitutional
+question. Within the purpose of the statute and its true
+intent and meaning, the constitutionality of that
+measure has been "drawn in question." Congress
+intended to give the United States the right to be heard
+in every case involving constitutionality of an Act
+affecting the public interest. In view of the rule that, in
+the absence of challenge of constitutionality, statutes
+will not here be invalidated on that ground, the Act of
+August 24, 1937 extends to cases where constitutionality
+is first "drawn in question" by the Court. No
+extraordinary or unusual action by the Court after
+submission of the cause should be permitted to frustrate
+the wholesome purpose of that Act. The duty it imposes
+ought here to be willingly assumed. If it were doubtful
+whether this case is within the scope of the Act, the
+Court should give the United States opportunity to
+intervene and, if so advised, to present argument on the
+constitutional question, for undoubtedly it is one of
+great public importance. That would be to construe the
+Act according to its meaning.
+The Court's opinion in its first sentence defines the
+question to be whether the doctrine of Swift v. Tyson
+shall now be disapproved; it recites (p. 72) that Congress
+is without power to prescribe rules of decision that have
+been followed by federal courts as a result of the
+construction of § 34 in Swift v. Tyson and since; after
+discussion, it declares (pp. 77-78) that "the
+unconstitutionality of the course pursued [meaning the
+rule of decision [304 U.S. 90] resulting from that
+construction] compels" abandonment of the doctrine so
+long applied; and then near the end of the last page the
+Court states that it does not hold § 34 unconstitutional,
+but merely that, in applying the doctrine of Swift v.
+Tyson construing it, this Court and the lower courts
+have invaded rights which are reserved by the
+Constitution to the several States. But, plainly through
+the form of words employed, the substance of the
+decision appears; it strikes down as unconstitutional §
+34 as construed by our decisions; it divests the Congress
+of power to prescribe rules to be followed by federal
+courts when deciding questions of general law. In that
+broad field it compels this and the lower federal courts
+to follow decisions of the courts of a particular State.
+I am of opinion that the constitutional validity of the
+rule need not be considered, because under the law, as
+found by the courts of Pennsylvania and generally
+throughout the country, it is plain that the evidence
+required a finding that plaintiff was guilty of negligence
+that contributed to cause his injuries and that the
+judgment below should be reversed upon that ground.

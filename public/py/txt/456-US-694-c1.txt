@@ -1,0 +1,228 @@
+The Court rests today's decision on a constitutional
+distinction between "subject matter" and "in personam"
+jurisdiction. Under this distinction, subject-matter
+jurisdiction defines an Art. III limitation on the power
+of federal courts. By contrast, the Court characterizes
+the limits on in personam jurisdiction solely in terms of
+waivable personal rights and notions of "fair play."
+Having done so, it determines [456 U.S. 710] that
+fundamental questions of judicial power do not arise in
+this case concerning the personal jurisdiction of a
+federal district court.
+In my view the Court's broadly theoretical decision
+misapprehends the issues actually presented for
+decision. Federal courts are courts of limited
+jurisdiction. Their personal jurisdiction, no less than
+their subject-matter jurisdiction, is subject both to
+constitutional and to statutory definition. When the
+applicable limitations on federal jurisdiction are
+identified, it becomes apparent that the Court's theory
+could require a sweeping but largely unexplicated
+revision of jurisdictional doctrine. This revision could
+encompass not only the personal jurisdiction of federal
+courts but "sovereign" limitations on state jurisdiction as
+identified in World-Wide Volkswagen Corp. v.
+Woodson, 444 U.S. 286, 291-293 (1980). Fair resolution
+of this case does not require the Court's broad holding.
+Accordingly, although I concur in the Court's judgment,
+I cannot join its opinion.
+I
+This lawsuit began when the respondent Compagnie des
+Bauxites brought a contract action against the petitioner
+insurance companies in the United States District Court
+for the Western District of Pennsylvania. Alleging
+diversity jurisdiction, respondent averred that the
+District Court had personal jurisdiction of the
+petitioners, all foreign corporations, under the long-arm
+statute of the State of Pennsylvania. See Compagnie des
+Bauxites de Guinea v. Insurance Co. of North America,
+651 F.2d 877, 880-881 (CA3 1981). Petitioners,
+however, denied that they were subject to the court's
+personal jurisdiction under that or any other statute.
+Viewing the question largely as one of fact, the court
+ordered discovery to resolve the dispute.
+Meantime, while respondent unsuccessfully sought
+compliance with its discovery requests, petitioners
+brought a parallel action in England's High Court of
+Justice, Queens Bench [456 U.S. 711] Division. It was at
+this juncture that the current issues arose. Seeking to
+enjoin the English proceedings, respondent sought an
+injunction in the District Court. Petitioners protested
+that they were not subject to that court's personal
+jurisdiction and thus that they lay beyond its injunctive
+powers. But the District Court disagreed. As a
+jurisdictional prerequisite to its entry of the injunction,
+the court upheld its personal jurisdiction over
+petitioners.1 It characterized its finding of jurisdiction
+partly as a sanction for petitioners' noncompliance with
+its discovery orders under Federal Rule of Civil
+Procedure 37(b).2
+Rule 37(b) is not, however, a jurisdictional provision. As
+recognized by the Court of Appeals, the governing
+jurisdictional statute remains the long-arm statute of the
+State of Pennsylvania. See 651 F. 2d, at 881. In my view
+the Court fails to make clear the implications of this
+central fact: that the District Court in this case relied on
+state law to obtain personal jurisdiction.
+As courts of limited jurisdiction, the federal district
+courts possess no warrant to create jurisdictional law of
+their own. Under the Rules of Decision Act, 28 U. S. C.
+§ 1652, they must apply state law "except where the
+Constitution or treaties of the United States or Acts of
+Congress otherwise require or provide . . . ." See
+generally Erie R. Co. v. Tompkins, 304 U.S. 64 (1938).
+Thus, in the absence of a federal rule or statute
+establishing a federal basis for the assertion of personal
+jurisdiction, the personal jurisdiction of the district
+courts is determined in diversity cases by the law of the
+forum State. See, e. g., Intermeat, Inc. v. American
+Poultry Co., 575 F.2d 1017 (CA2 1978); Wilkerson v.
+Fortuna Corp., 554 F.2d 745 (CA5),[456 U.S. 712] cert.
+denied, 434 U.S. 939 (1977); Poyner v. Erma Werke
+Gmbh, 618 F.2d 1186, 1187 (CA6 1980); Lakeside
+Bridge & Steel Co. v. Mountain State Constr. Co., 597
+F.2d 596 (CA7 1979), cert. denied, 445 U.S. 907 (1980);
+Lakota Girl Scout Council, Inc. v. Havey Fundraising
+Management, Inc., 519 F.2d 634 (CA8 1975);
+Arrowsmith v. United Press International, 320 F.2d 219,
+226 (CA2 1963); Forsythe v. Overmyer, 576 F.2d 779,
+782 (CA9), cert. denied, 439 U.S. 864 (1978); Quarles v.
+Fuqua Industries, Inc., 504 F.2d 1358 (CA10 1974).3
+As a result of the District Court's dependence on the law
+of Pennsylvania to establish personal jurisdiction — a
+dependence mandated by Congress under 28 U. S. C. §
+1652 — its jurisdiction in this case normally would be
+subject to the same due process limitations as a state
+court. See, e. g., Forsythe v. Overmyer, supra, at 782;
+Washington v. Norton Mfg., Inc., 588 F.2d 441, 445
+(CA5 1979); Fisons Ltd. v. United States, 458 F.2d 1241,
+1250 (CA7 1972).4 Thus, the question arises how today's
+decision is related to cases restricting the personal
+jurisdiction of the States.
+Before today our decisions had established that
+"minimum contacts" represented a constitutional
+prerequisite to the exercise of in personam jurisdiction
+over an unconsenting defendant. See, e. g., World-Wide
+Volkswagen Corp. v. Woodson, 444 U. S., at 291-
+293;[456 U.S. 713] Hanson v. Denckla, 357 U.S. 235, 251
+(1958); International Shoe Co. v. Washington, 326 U.S.
+310, 316 (1945). In the absence of a showing of
+minimum contacts, a finding of personal jurisdiction
+over an unconsenting defendant, even as a sanction,
+therefore would appear to transgress previously
+established constitutional limitations. The cases cannot
+be reconciled by a simple distinction between the
+constitutional limits on state and federal courts. Because
+of the District Court's reliance on the Pennsylvania
+long-arm statute — the applicable jurisdictional
+provision under the Rules of Decisions Act — the
+relevant constitutional limits would not be those
+imposed directly on federal courts by the Due Process
+Clause of the Fifth Amendment, but those applicable to
+state jurisdictional law under the Fourteenth.
+The Court's decision apparently must be understood as
+related to our state jurisdictional cases in one of two
+ways. Both involve legal theories that fail to justify the
+doctrine adopted by the Court in this case.
+A
+Under traditional principles, the due process question in
+this case is whether "minimum contacts" exist between
+petitioners and the forum State that would justify the
+State in exercising personal jurisdiction. See, e. g.,
+World-Wide Volkswagen Corp. v. Woodson, supra, at
+291-293; Shaffer v. Heitner, 433 U.S. 186, 216 (1977);
+Hanson v. Denckla, supra, at 251. By finding that the
+establishment of minimum contacts is not a prerequisite
+to the exercise of jurisdiction to impose sanctions under
+Federal Rule of Civil Procedure 37, the Court may be
+understood as finding that "minimum contacts" no
+longer are a constitutional requirement for the exercise
+by a state court of personal jurisdiction over an
+unconsenting defendant.5 Whenever the Court's
+notions [456 U.S. 714] of fairness are not offended,
+jurisdiction apparently may be upheld.
+Before today, of course, our cases had linked minimum
+contacts and fair play as jointly defining the "sovereign"
+limits on state assertions of personal jurisdiction over
+unconsenting defendants. See World-Wide Volkswagen
+Corp. v. Woodson, supra, at 292-293; see Hanson v.
+Denckla, supra, at 251. The Court appears to abandon
+the rationale of these cases in a footnote. See ante, at
+702-703, n. 10. But it does not address the implications
+of its action. By eschewing reliance on the concept of
+minimum contacts as a "sovereign" limitation on the
+power of States — for, again, it is the State's long-arm
+statute that is invoked to obtain personal jurisdiction in
+the District Court — the Court today effects a potentially
+substantial change of law. For the first time it defines
+personal jurisdiction solely by reference to abstract
+notions of fair play. And, astonishingly to me, it does so
+in a case in which this rationale for decision was neither
+argued nor briefed by the parties.
+B
+Alternatively, it is possible to read the Court opinion,
+not as affecting state jurisdiction, but simply as asserting
+that Rule 37 of the Federal Rules of Civil Procedure
+represents a congressionally approved basis for the
+exercise of personal jurisdiction by a federal district
+court. On this view Rule 37 vests the federal district
+courts with authority to take jurisdiction over persons
+not in compliance with discovery orders. This of course
+would be a more limited holding. Yet the Court does
+not cast its decision in these terms. And it provides no
+support for such an interpretation, either in the
+language or in the history of the Federal Rules.
+[456 U.S. 715] In the absence of such support, I could not
+join the Court in embracing such a construction of the
+Rules of Civil Procedure.6 There is nothing in Rule 37
+to suggest that it is intended to confer a grant of
+personal jurisdiction. Indeed, the clear language of Rule
+82 seems to establish that Rule 37 should not be
+construed as a jurisdictional grant: "These rules shall not
+be construed to extend . . . the jurisdiction of the United
+States district courts or the venue of actions therein."
+Moreover, assuming that minimum contacts remain a
+constitutional predicate for the exercise of a State's in
+personam jurisdiction over an unconsenting defendant,
+constitutional questions would arise if Rule 37 were
+read to permit a plaintiff in a diversity action to subject a
+defendant to a "fishing expedition" in a foreign
+jurisdiction. A plaintiff is not entitled to discovery to
+establish essentially speculative allegations necessary to
+personal jurisdiction. Nor would the use of Rule 37
+sanctions to enforce discovery orders constitute a mere
+abuse of discretion in such a case.7 For me at least, such
+a use of discovery would raise serious questions as to the
+constitutional as well as the statutory authority of a
+federal court — in a diversity case — to exercise personal
+jurisdiction [456 U.S. 716] absent some showing of
+minimum contacts between the unconsenting defendant
+and the forum State.
+II
+In this case the facts alone — unaided by broad
+jurisdictional theories — more than amply demonstrate
+that the District Court possessed personal jurisdiction to
+impose sanctions under Rule 37 and otherwise to
+adjudicate this case. I would decide the case on this
+narrow basis.
+As recognized both by the District Court and the Court
+of Appeals, the respondent adduced substantial support
+for its jurisdictional assertions. By affidavit and other
+evidence, it made a prima facie showing of "minimum
+contacts." See 651 F. 2d, at 881-882, 886, and n. 9. In the
+view of the District Court, the evidence adduced actually
+was sufficient to sustain a finding of personal
+jurisdiction independently of the Rule 37 sanction. App.
+to Pet. for Cert. 51a, 53a.8
+Where the plaintiff has made a prima facie showing of
+minimum contacts, I have little difficulty in holding that
+its showing was sufficient to warrant the District
+Court's entry of discovery orders. And where a
+defendant then fails to comply with those orders, I agree
+that the prima facie showing may be held adequate to
+sustain the court's finding that minimum contacts exist,
+either under Rule 37 or under a theory of "presumption"
+or "waiver."
+Finding that the decision of the Court of Appeals should
+be affirmed on this ground, I concur in the judgment of
+the Court.

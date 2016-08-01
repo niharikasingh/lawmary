@@ -1,0 +1,468 @@
+The eighth error assigned by the defendant is that "the
+trial and appellate courts committed error in permitting
+plaintiff to split her cause of action and to file a separate
+action in the Cleveland Municipal Court for her
+property damage and reduce same to judgment, and,
+thereafter, to proceed, in the Cuyahoga County
+Common Pleas Court, with a separate action for
+personal injuries, both claims arising out of a single
+accident."
+Other facets of this question have been before the court
+before.
+In the case of Vasu v. Kohlers, Inc., 145 Ohio St. 321, 61
+N.E.2d 707, 166 A. L. R., 855,[167 Ohio St. 225]
+plaintiff operating an automobile came into collision
+with defendant's truck, in which collision he suffered
+personal injuries and also damage to his automobile. At
+the time of collision, plaintiff had coverage of a $50
+deductible collision policy on his automobile. The
+insurance company paid the plaintiff a sum covering the
+damage to his automobile, whereupon, in accordance
+with a provision of the policy, the plaintiff assigned to
+the insurer his claim for such damage.
+In February 1942, the insurance company commenced
+an action in the Common Pleas Court of Mahoning
+County against Kohlers, Inc., the defendant in the
+reported case, to recoup the money paid by it to cover
+the damage to Vasu's automobile.
+In August 1942, Vasu commenced an action in the same
+court against Kohlers, Inc., to recover for personal
+injuries which he suffered in the same collision.
+In March 1943, in the insurance company's action, a
+verdict was rendered in favor of the defendant, followed
+by judgment.
+Two months later an amended answer was filed in the
+Vasu case, setting out as a bar to the action for recovery
+of damages for the personal injuries suffered by plaintiff
+the judgment rendered in favor of defendant in the
+insurance company case. A motion to strike that defense
+having been sustained, a second amended answer was
+filed omitting allegations as to such judgment. A trial of
+the action resulted in a verdict for plaintiff, upon which
+judgment was entered.
+On appeal to the Court of Appeals the defendant
+claimed that the Court of Common Pleas erred in
+sustaining plaintiff's motion to strike from the
+defendant's answer the defense of res judicata claimed to
+have arisen by reason of the judgment in favor of the
+defendant in the action by the insurance company.
+The Court of Appeals reversed the judgment of the
+Court of Common Pleas and entered final judgment in
+favor of defendant.
+This court reversed the judgment of the Court of
+Appeals, holding in the syllabus, in part, as follows:
+"1. If the owner of a single cause of action arising out of
+[167 Ohio St. 226] a single tortious act brings an action
+against his tort-feasor, he may have but one recovery;
+and, in case he fails to recover, he may not maintain a
+subsequent action on the same cause of action, even
+though he has failed to include his entire cause of action
+or elements of damage in his original action.
+"2. If an owner of a single cause of action has a recovery
+thereon, the cause of action is merged in the judgment;
+but if he fails to recover on his claimed cause of action
+and judgment goes against him, such judgment is res
+judicata and a bar to a second action on the same cause
+of action.
+"* * *
+"4. Injuries to both person and property suffered by the
+same person as a result of the same wrongful act are
+infringements of different rights and give rise to distinct
+causes of action, with the result that the recovery or
+denial of recovery of compensation for damages to the
+property is no bar to an action subsequently prosecuted
+for the personal injury, unless by an adverse judgment in
+the first action issues are determined against the plaintiff
+which operate as an estoppel against him in the second
+action.
+"5. A right, question or fact in issue which was
+necessarily determined by a court of competent
+jurisdiction in a judgment which has become final,
+cannot be disputed or litigated in a subsequent suit
+between the same parties, although the subsequent suit
+is based upon a different cause of action.
+"6. Where an injury to person and to property through a
+single wrongful act causes a prior contract of indemnity
+and subrogation as to the injury to property, to come
+into operation for the benefit of the person injured, the
+indemnitor may prosecute a separate action against the
+party causing such injury for reimbursement for
+indemnity moneys paid under such contract.
+"7. Parties in privy, in the sense that they are bound by a
+judgment, are those who acquired an interest in the
+subject matter after the beginning of the action or the
+rendition of the judgment; and if their title or interest
+attached before that fact, they are not bound unless
+made parties.
+"8. A grantor or assignor is not bound, as to third
+persons, [167 Ohio St. 227] by any judgment which such
+third persons may obtain against his grantee or assignee
+adjudicating the title to or claim for the interest
+transferred, unless he participated in the action in such
+manner as to become, in effect, a party."
+The foregoing syllabus is set forth at considerable length
+for subsequent reference herein. The first two
+paragraphs, although not pertinent there because of the
+fourth paragraph, are not only applicable but persuasive
+in our determination here. The sixth, seventh and
+eighth paragraphs deal with the factual situation which
+existed in the Vasu case, i. e., a prior contract of
+indemnity and subrogation. Although, as discussed
+infra, it was not actually necessary to the determination
+of the issue in that case, attention centers on the fourth
+paragraph.
+The Vasu case was distinguished in the case of Markota
+v. East Ohio Gas Co., 154 Ohio St. 546, 97 N.E.2d 13,
+and explained in the case of Mansker v. Dealers
+Transport Co., 160 Ohio St. 255, 116 N.E.2d 3. In the
+Markota case, plaintiffs commenced an action for
+damages alleged to have been caused by the defendant in
+constructing and installing a pipeline over the plaintiffs'
+premises. Plaintiffs and defendant had entered into a
+right of way agreement giving the defendant the right to
+lay, maintain and operate the pipeline, the defendant
+agreeing to reimburse, indemnify and save plaintiffs
+harmless from and against any loss, damage or expense
+in connection therewith.
+Plaintiffs' amended petition had seven causes of action,
+each for damages resulting from injuries to plaintiffs'
+property. Judgment was entered on the verdicts. The
+trial court granted a new trial on two causes of action,
+reducing the judgment by the amounts claimed in such
+causes of action. The question presented to this court
+was whether "the trial court erred in failing to grant a
+new trial in toto." This court reversed the judgment of
+the Court of Appeals which had affirmed the judgment
+of the Court of Common Pleas.
+The pertinent portion of the syllabus in that case,
+decided by a unanimous court, is paragraph three:
+"Although a right of action may arise at each time that
+damage covered by a single indemnity agreement
+occurs, a [167 Ohio St. 228] plaintiff may maintain only
+one action to enforce any such rights existing at the time
+such action is commenced. (Vasu v. Kohlers, Inc., 145
+Ohio St. 321, distinguished.)"
+The opinion in the Markota case states (page 551):
+"However, paragraphs four and six of the syllabus in
+Vasu v. Kohlers, Inc., 145 Ohio St. 321, 61 N.E.2d 707,
+do tend to support the defendant's contention that the
+separate causes of action, stated in the second amended
+petition in the instant case, were actually separate causes
+of action. It should be noted, however, that the plaintiff,
+in the Vasu case, had not been a party to the action
+brought by his indemnitor against the defendant; and, as
+indicated by paragraph eight of the syllabus in the Vasu
+case, the plaintiff was not, therefore, bound by the
+judgment against his indemnitor who had sought to
+recover from that defendant the portion of the plaintiff's
+claim assigned to such indemnitor."
+The facts in the Mansker case are the converse of those
+in the instant case. In that case, Mansker commenced an
+action for personal injuries sustained by him in a
+collision of two motor vehicles and recovered a verdict
+and judgment, prevailing over the claim that he was
+estopped from prosecuting his action for the reason that
+the controlling issue of negligence therein had been fully
+litigated in a prior action between the same parties and
+had been determined by verdict and judgment adverse
+to him. Cf. paragraph five of the syllabus in the Vasu
+case, supra.
+Two separate actions involving the same collision had
+previously been commenced against Mansker and his
+employer, Summit Fast Freight, Inc., one by Dealers
+Transport Company and the other by its driver, Dow,
+Dealers' action being for property damage and Dow's for
+personal injuries. In the action initiated by Dealers, in
+addition to a cross-petition filed by Summit for damages
+to its fire truck, a cross-petition was filed by Mansker to
+recover for damage to his tractor, due to the collision.
+The two previous cases were tried together by
+agreement and resulted in verdicts in favor of Dealers
+and Dow, respectively, which verdicts, after remittiturs
+were ordered and accepted, were reduced to judgments,
+and the judgments subsequently paid.
+[167 Ohio St. 229] In the Mansker case (160 Ohio St.
+255) the issue of res judicata was raised. This court
+reversed the judgment of the Court of Appeals which
+had affirmed the judgment of the Court of Common
+Pleas, and entered judgment for Dealers.
+As stated in the opinion, both lower courts relied on the
+fourth paragraph of the syllabus of the Vasu case and
+reached the conclusion that "such case is authority for
+the proposition that where the same person sustains
+injury to both his property and his person as a result of
+the same incident and due to the claimed negligence of
+another, an infringement of different rights occurs, so
+that he has two causes of action—one for damage to his
+property and the other for injury to his person; that,
+hence, where he prosecutes those causes of action
+separately, a verdict and judgment against him in one
+case do not preclude him from litigating the other, and
+his success in the other case is not prevented by an
+adverse result in the first, and that in such a situation res
+judicata or estoppel may not be invoked by his
+opponent."
+The syllabus states:
+"1. In a second action between the same parties on a
+claim, demand or cause of action different from that
+involved in the first action, a final judgment in the first
+action does not constitute a bar to the prosecution of the
+second, but does operate as an estoppel with regard to
+the relitigation of controlling points or questions
+actually determined in the first action. (Paragraph four
+of the syllabus of Vasu v. Kohlers, Inc., 145 Ohio St. 321,
+explained.)
+"2. The final adjudication of a material issue by a court
+of competent jurisdiction binds the parties in any
+subsequent proceeding between or among them,
+irrespective of a difference in forms or causes of action."
+Thus, the Markota and Mansker cases, distinguishing
+and explaining the Vasu case, have not changed the rule
+established in paragraph four of the syllabus of the latter
+case, holding that injuries to both person and property
+suffered by the same person as a result of the same
+wrongful act are infringements of different rights and
+give rise to distinct causes of action.
+However, it is contended here that that rule is in conflict
+with the great weight of authority in this country and
+has [167 Ohio St. 230] caused vexatious litigation. The
+following quotation from 1 American Jurisprudence,
+494, Section 114, states this question well:
+"It sometimes happens that a single wrongful or
+negligent act causes damage in respect of both the
+person and the property of the same individual, as, for
+instance, where the owner of a vehicle is injured in a
+collision which also damages the vehicle. In such a case,
+the question arises as to whether there are two causes of
+action or only one, and the authorities are in conflict
+concerning it. The majority rule is that only one cause of
+action arises, the reason of the rule being that as the
+defendant's wrongful act is single, the cause of action
+must be single, and that the different injuries occasioned
+by it are merely items of damage proceeding from the
+same wrong. * * *
+"In other jurisdictions, the rule is that two causes of
+action result from a negligent act which inflicts injury
+on a person and his property at the same time. This
+conclusion has been reached in different jurisdictions by
+different lines of reasoning."
+Upon examination of decisions of courts of last resort,
+we find that the majority rule is followed in the
+following cases in each of which the action was between
+the person suffering injury and the person committing
+the tort, and where insurers were not involved, as in the
+case here.
+Birmingham Southern Ry. Co. v. Lintner (1904), 141
+Ala., 420, 38 So., 363, 109 Am. St. Rep., 40; Jenkins v.
+Skelton (1920), 21 Ariz. 663, 192 P., 249; Gregory v.
+Schnurstein (1956), 212 Ga. 497, 93 S.E.2d 680; Georgia
+Ry. & Power Co. v. Endsley (1928), 167 Ga. 439, 145 S.
+E., 851, 62 A. L. R., 256; Fiscus v. Kansas City Public
+Service Co. (1941), 153 Kan. 493, 112 P.2d 83; Cassidy v.
+Berkovitz (1916), 169 Ky. 785, 185 S. W., 129; Pillsbury
+v. Kesslen Shoe Co. (1939), 136 Me., 235, 7 A.2d 898;
+Doran v. Cohen (1888), 147 Mass. 342, 17 N. E., 647;
+Dearden v. Hey (1939), 304 Mass. 659, 24 N.E.2d 644,
+127 A. L. R., 1077; Tuttle v. Everhot Heater Co. (1933),
+264 Mich. 60, 249 N. W., 467; King v. Chicago,
+Milwaukee & St. Paul Ry. Co. (1900), 80 Minn. 83, 82 N.
+W., 1113, 81 Am. St. Rep., 238, 50 L. R. A., 161;
+Kimball v. Louisville & Nashville Rd. Co. (1909), 94
+Miss. 396, 48 So., 230; Chamberlain v. Mo.-Ark. Coach
+Lines, Inc. (1945), 354 Mo., 461, 189 S.W.2d 538, 161 A.
+L. R., 204;[167 Ohio St. 231] Underwood v. Dooley
+(1929), 197 N.C. 100, 147 S. E., 686, 64 A. L. R., 656;
+Anderson v. Jacobson (1919), 42 N. D., 87, 172 N. W.,
+64; Fields v. Philadelphia Rapid Transit Co. (1922), 273
+Pa. 282, 117 A., 59; Farmers Ins. Exchange v. Arlt (N.
+D., 1953), 61 N.W.2d 429; Holcombe v. Garland &
+Denwiddie, Inc. (1931), 162 S.C. 379, 160 S. E., 881;
+Mobile & Ohio Rd. Co. v. Matthews (1906), 115 Tenn.,
+172, 91 S. W., 194; Smith v. Lenzi (1929), 74 Utah. 362,
+279 P., 893; Moultroup, Admx., v. Gorham (1943), 113
+Vt. 317, 34 A.2d 96; Sprague v. Adams (1926), 139 Wn.
+510, 247 P., 960, 47 A. L. R., 529; Larzo v. Swift & Co.
+(1946), 129 W.Va. 436, 40 S.E.2d 811.
+The minority rule, that separate actions may be
+maintained to recover for personal injuries and for
+damages to property resulting from the same wrongful
+act, is set forth in the following cases:
+Thelin v. Stewart (1893), 100 Cal., 372, 34 P., 861; Lamb
+v. Harbaugh (1895), 105 Cal., 680, 39 P., 56; Ochs v.
+Public Service Ry. Co. (1911), 81 N. J. L., 661, 80 A.,
+495, 36 L. R. A. (N. S.). 240, Ann. Cas. 1912D, 255;
+Reilly v. Sicilian Asphalt Paving Co. (1902), 170 N.Y. 40,
+62 N. E., 772, 88 Am. St. Rep., 636, 57 L. R. A., 176;
+Watson v. Texas & Pacific Ry. Co. (1894), 8 Tex. Cir.
+App., 144, 27 S. W., 924; Carter v. Hinkle (1949), 189
+Va. 1, 52 S.E.2d 135.
+As to the rule in New York, however, it is noted in the
+opinion in the Vasu case (page 331) that "the court, in
+deciding the Reilly case, took a position contra to an
+earlier holding in the same state in the case of Howe v.
+Peckham (N. Y. Supreme Court), 6 How. Pr., 229, 10
+Barb., 656, a case frequently cited (see quotation from
+Phillips' Pleading, infra) as supporting the single-causeof-action
+rule."
+The reasoning behind the majority rule seems to be well
+stated in the case of Mobile & Ohio Rd. Co. v.
+Matthews, supra, as follows:
+"The negligent action of the plaintiff in error
+constituted but one tort. The injuries to the person and
+property of the defendant in error were the several
+results and effects of one wrongful act. A single tort can
+be the basis of but one action. It is not improper to
+declare in different counts for damages to the person
+and property when both result from the same tort, [167
+Ohio St. 232] and it is the bettor practice to do so where
+there is any difference in the measure of damages, and
+all the damages sustained must be sued for in one suit.
+This is necessary to prevent multiplicity of suits,
+burdensome expense, and delays to plaintiffs, and
+vexatious litigation against defendants. * * *
+"Indeed, if the plaintiff fail to sue for the entire damage
+done him by the tort, a second action for the damages
+omitted will be precluded by the judgment in the first
+suit brought and tried."
+The minority rule would seem to stem from the English
+case of Brunsden v. Humphrey (1884), 14 Q. B., 141.
+The facts in that case are set forth in the opinion in the
+Vasu case (page 329), concluding with the statement:
+"The Master of the Rolls, in his opinion, stated that the
+test is `whether the same sort of evidence would prove
+the plaintiff's case in the two actions,' and that, in the
+action relating to the cab, it would be necessary to give
+evidence of the damage done to the plaintiff's vehicle. In
+the present action it would be necessary to give evidence
+of the bodily injury occasioned to the plaintiff, and of
+the sufferings which he has undergone, and for this
+purpose to call medical witnesses. This one test shows
+that the causes of action as to the damage done to the
+plaintiff's cab, and as to the injury occasioned to the
+plaintiff's person, are distinct.'"
+The fallacy of the reasoning in the English court is best
+portrayed in the dissenting opinion of Lord Coleridge,
+as follows:
+"It appears to me that whether the negligence of the
+servant, or the impact of the vehicle which the servant
+drove, be the technical cause of action, equally the cause
+is one and the same: that the injury done to the plaintiff
+is injury done to him at one and the same moment by
+one and the same act in respect of different rights, i. e.
+his person and his goods, 1 do not in the least deny; but
+it seems to me a subtlety not warranted by law to hold
+that a man cannot bring two actions, if he is injured in
+his arm and in his leg, but can bring two, if besides his
+arm and leg being injured, his trousers which contain
+his leg, and his coat-sleeve which contains his arm, have
+been torn."
+[167 Ohio St. 233] There appears to be no valid reason
+in these days of code pleading to adhere to the old
+English rule as to distinctions between injuries to the
+person and damages to the person's property resulting
+from a single tort. It would seem that the minority rule
+is bottomed on the proposition that the right of bodily
+security is fundamentally different from the right of
+security of property and, also, that, in actions predicated
+upon a negligent act, damages are a necessary element of
+each independent cause of action and no recovery may
+be had unless and until actual consequential damages are
+shown.
+Whether or not injuries to both person and property
+resulting from the same wrongful act are to be treated as
+injuries to separate rights or as separate items of
+damage, paragraph three of the syllabus in the Markota
+case gives us the answer that a plaintiff may maintain
+only one action to enforce his rights existing at the time
+such action is commenced.
+The decision of the question actually in issue in the Vasu
+case is found in paragraphs six, seven and eight of the
+syllabus, as it is quite apparent from the facts there that
+the first judgment, claimed to be res judicata in Vasu's
+action against the defendant, was rendered against
+Vasu's insurer in an action initiated by it after having
+paid Vasu for the damages to his automobile. That case
+is considered and discussed at length in 166 A. L. R.,
+870.
+Upon further examination of the cases from other
+jurisdictions, it appears that in those instances where the
+courts have held to the majority rule, a separation of
+causes of action is almost universally recognized where
+an insurer has acquired by an assignment or by
+subrogation the right to recover for money it has
+advanced to pay for property damage.
+In some instances those jurisdictions recognize the right
+of the insurer to become a party to the action and
+recover in the single action that part of the damages to
+which it has become subrogated. See Moultroup, Admx.,
+v. Gorham, supra; Farmer v. Union Ins. Co. of Indiana
+(1927), 146 Miss. 600, 111 So., 584; Sprague v. Adams,
+supra.
+In other states, and particularly in those having statutes
+requiring actions to be brought by the real party in
+interest, the courts have recognized the right of the
+insurer to bring [167 Ohio St. 234] a separate action to
+recover in its own name for that part of a single cause of
+action to which it has become entitled by payment of
+damages. The following cases are illustrative:
+Travelers Indemnity Co. v. Moore (1947), 304 Ky. 456,
+201 S.W.2d 7; Underwriters at Lloyds Ins. Co. v.
+Vicksburg Traction Co. (1913), 106 Miss. 244, 63 So..
+455; General Exchange Ins. Corp. v. Young (1948), 357
+Mo., 1099, 212 S.W.2d 396; Underwood v. Dooley,
+supra; Farmers Ins. Exchange v. Arlt, supra; Tobin,
+Admr., v. Glerich (1931), 162 Tenn., 96, 34 S.W.2d
+1058.
+Section 2307.05, Revised Code, requires actions to be
+prosecuted in the name of the real party in interest, as
+was done by Vasu's insurer.
+The reason why the exception is recognized that, where
+the plaintiff has recovered from an insurance company a
+part of his damage, he is not estopped from prosecuting
+his own action, is well stated in the North Carolina case
+of Underwood v. Dooley, supra, as follows:
+"It cannot be held as law in this state that the owner of
+an automobile, who, as the result of the wrong or tort of
+another, has sustained damages both to his automobile
+and to his person, and whose automobile is insured
+against the loss or damage which he has sustained
+because of injuries to his automobile, is put to an
+election whether or not he shall, in order to maintain an
+action against the wrongdoer to recover damages for
+injuries to his person, release the insurance company
+from all liability to him under its policy. He does not
+lose his right of action to recover for the injuries to his
+person, by accepting from the insurance company the
+amount for which it is liable to him * * *."
+Coming again to the defendant's eighth assignment of
+error, it is noted that the rule attributed to the Ohio
+courts, as it is stated in 1 Ohio Jurisprudence (2d), 360,
+is based primarily on the Vasu case, although prior
+lower court decisions reaching a different conclusion are
+cited and recognized therein with the statement that
+"these cases are impliedly overruled."
+Apparently, much of the vexatious litigation, with its
+attendant confusion, which has resulted in recent years
+from the filing of separate petitions by the same
+plaintiff, one for personal [167 Ohio St. 235] injuries and
+one for property damage although sustained
+simultaneously, has grown from that one decision, this
+case presenting a good example.
+In the light of the foregoing, it is the view of this court
+that the so-called majority rule conforms much more
+properly to modern practice, and that the rule declared
+in the fourth paragraph of the syllabus in the Vasu case,
+on a point not actually at issue therein, should not be
+followed.
+We, therefore, conclude and hold that, where a person
+suffers both personal injuries and property damage as a
+result of the same wrongful act, only a single cause of
+action arises, the different injuries occasioned thereby
+being separate items of damage from such act. It follows
+that paragraph four of the syllabus in the Vasu case must
+be overruled.
+It is not necessary in view of this conclusion to consider
+the other errors assigned herein.
+Accordingly, the judgment of the Court of Appeals is
+reversed, and final judgment is entered for defendant.
+Judgment reversed and final judgment for defendant.

@@ -1,0 +1,245 @@
+This case requires the Court to determine whether
+Celotex satisfied its initial burden of production in
+moving for summary judgment on the ground that the
+plaintiff lacked evidence to establish an essential element
+of her case at trial. I do not disagree with the Court's
+legal analysis. The Court clearly rejects the ruling of the
+Court of Appeals that the defendant must provide
+affirmative evidence disproving the plaintiff's case.
+Beyond this, however, the Court has not clearly
+explained what is required of a moving party seeking
+summary judgment on the ground that the nonmoving
+party cannot prove its case.1 This lack of clarity is
+unfortunate: district courts must routinely decide
+summary judgment motions, and the Court's opinion
+will very likely create confusion. For this reason, even if
+I agreed with the Court's result, I would have written
+separately to explain more clearly the law in this area.
+However, because I believe that Celotex did not meet its
+burden of production under Federal Rule of Civil
+Procedure 56, I respectfully dissent from the Court's
+judgment.
+[477 U.S. 330] I
+Summary judgment is appropriate where the court is
+satisfied "that there is no genuine issue as to any
+material fact and that the moving party is entitled to a
+judgment as a matter of law." Fed. Rule Civ. Proc. 56(c).
+The burden of establishing the nonexistence of a
+"genuine issue" is on the party moving for summary
+judgment. 10A C. Wright, A. Miller, & M. Kane,
+Federal Practice and Procedure § 2727, p. 121 (2d ed.
+1983) (hereinafter Wright) (citing cases); 6 J. Moore,
+W. Taggart & J. Wicker, Moore's Federal Practice ¶
+56.15[3] (2d ed. 1985) (hereinafter Moore) (citing
+cases). See also, ante, at 323; ante, at 328 (WHITE, J.,
+concurring). This burden has two distinct components:
+an initial burden of production, which shifts to the
+nonmoving party if satisfied by the moving party; and
+an ultimate burden of persuasion, which always remains
+on the moving party. See 10A Wright § 2727. The court
+need not decide whether the moving party has satisfied
+its ultimate burden of persuasion2 unless and until the
+court finds that the moving party has discharged its
+initial [477 U.S. 331] burden of production. Adickes v. S.
+H. Kress & Co., 398 U.S. 144, 157-161 (1970); 1963
+Advisory Committee's Notes on Fed. Rule Civ. Proc.
+56(e), 28 U. S. C. App., p. 626.
+The burden of production imposed by Rule 56 requires
+the moving party to make a prima facie showing that it
+is entitled to summary judgment. 10A Wright § 2727.
+The manner in which this showing can be made
+depends upon which party will bear the burden of
+persuasion on the challenged claim at trial. If the
+moving party will bear the burden of persuasion at trial,
+that party must support its motion with credible
+evidence — using any of the materials specified in Rule
+56(c) — that would entitle it to a directed verdict if not
+controverted at trial. Ibid. Such an affirmative showing
+shifts the burden of production to the party opposing
+the motion and requires that party either to produce
+evidentiary materials that demonstrate the existence of a
+"genuine issue" for trial or to submit an affidavit
+requesting additional time for discovery. Ibid.; Fed.
+Rules Civ. Proc. 56(e), (f).
+If the burden of persuasion at trial would be on the
+nonmoving party, the party moving for summary
+judgment may satisfy Rule 56's burden of production in
+either of two ways. First, the moving party may submit
+affirmative evidence that negates an essential element of
+the nonmoving party's claim. Second, the moving party
+may demonstrate to the court that the nonmoving
+party's evidence is insufficient to establish an essential
+element of the nonmoving party's claim. See 10A
+Wright § 2727, pp. 130-131; Louis, Federal Summary
+Judgment Doctrine: A Critical Analysis, 83 Yale L. J.
+745, 750 (1974) (hereinafter Louis). If the nonmoving
+party cannot muster sufficient evidence to make out its
+claim, a trial would be useless and the moving party is
+entitled to summary judgment as a matter of law.
+Anderson v. Liberty Lobby, Inc., ante, at 249.
+Where the moving party adopts this second option and
+seeks summary judgment on the ground that the
+nonmoving party — who will bear the burden of
+persuasion at trial — has [477 U.S. 332] no evidence, the
+mechanics of discharging Rule 56's burden of
+production are somewhat trickier. Plainly, a conclusory
+assertion that the nonmoving party has no evidence is
+insufficient. See ante, at 328 (WHITE, J., concurring).
+Such a "burden" of production is no burden at all and
+would simply permit summary judgment procedure to
+be converted into a tool for harassment. See Louis 750-
+751. Rather, as the Court confirms, a party who moves
+for summary judgment on the ground that the
+nonmoving party has no evidence must affirmatively
+show the absence of evidence in the record. Ante, at
+323. This may require the moving party to depose the
+nonmoving party's witnesses or to establish the
+inadequacy of documentary evidence. If there is literally
+no evidence in the record, the moving party may
+demonstrate this by reviewing for the court the
+admissions, interrogatories, and other exchanges
+between the parties that are in the record. Either way,
+however, the moving party must affirmatively
+demonstrate that there is no evidence in the record to
+support a judgment for the nonmoving party.
+If the moving party has not fully discharged this initial
+burden of production, its motion for summary judgment
+must be denied, and the court need not consider
+whether the moving party has met its ultimate burden
+of persuasion. Accordingly, the nonmoving party may
+defeat a motion for summary judgment that asserts that
+the nonmoving party has no evidence by calling the
+court's attention to supporting evidence already in the
+record that was overlooked or ignored by the moving
+party. In that event, the moving party must respond by
+making an attempt to demonstrate the inadequacy of
+this evidence, for it is only by attacking all the record
+evidence allegedly supporting the nonmoving party that
+a party seeking summary judgment satisfies Rule 56's
+burden of production.3 Thus, if the record disclosed that
+the moving [477 U.S. 333] party had overlooked a
+witness who would provide relevant testimony for the
+nonmoving party at trial, the court could not find that
+the moving party had discharged its initial burden of
+production unless the moving party sought to
+demonstrate the inadequacy of this witness' testimony.
+Absent such a demonstration, summary judgment
+would have to be denied on the ground that the moving
+party had failed to meet its burden of production under
+Rule 56.
+The result in Adickes v. S. H. Kress & Co., supra, is fully
+consistent with these principles. In that case, petitioner
+was refused service in respondent's lunchroom and then
+was arrested for vagrancy by a local policeman as she
+left. Petitioner brought an action under 42 U. S. C. §
+1983 claiming that the refusal of service and subsequent
+arrest were the product of a conspiracy between
+respondent and the police; as proof of this conspiracy,
+petitioner's complaint alleged that the arresting officer
+was in respondent's store at the time service was
+refused. Respondent subsequently moved for summary
+judgment on the ground that there was no actual
+evidence in the record from which a jury could draw an
+inference of conspiracy. In response, petitioner pointed
+to a statement from her own deposition and an unsworn
+statement by a Kress employee, both already in the
+record and both ignored by respondent, that the
+policeman who arrested petitioner was in the store at
+the time she was refused service. We agreed that "[i]f a
+policeman were present, . . . it would be open to a jury,
+in light of the sequence that followed, [477 U.S. 334] to
+infer from the circumstances that the policeman and
+Kress employee had a `meeting of the minds' and thus
+reached an understanding that petitioner should be
+refused service." 398 U. S., at 158. Consequently, we
+held that it was error to grant summary judgment "on
+the basis of this record" because respondent had "failed
+to fulfill its initial burden" of demonstrating that there
+was no evidence that there was a policeman in the store.
+Id., at 157-158.
+The opinion in Adickes has sometimes been read to
+hold that summary judgment was inappropriate because
+the respondent had not submitted affirmative evidence
+to negate the possibility that there was a policeman in
+the store. See Brief for Respondent 20, n. 30 (citing
+cases). The Court of Appeals apparently read Adickes
+this way and therefore required Celotex to submit
+evidence establishing that plaintiff's decedent had not
+been exposed to Celotex asbestos. I agree with the Court
+that this reading of Adickes was erroneous and that
+Celotex could seek summary judgment on the ground
+that plaintiff could not prove exposure to Celotex
+asbestos at trial. However, Celotex was still required to
+satisfy its initial burden of production.
+II
+I do not read the Court's opinion to say anything
+inconsistent with or different than the preceding
+discussion. My disagreement with the Court concerns
+the application of these principles to the facts of this
+case.
+Defendant Celotex sought summary judgment on the
+ground that plaintiff had "failed to produce" any
+evidence that her decedent had ever been exposed to
+Celotex asbestos.4 App. 170. Celotex supported this
+motion with a [477 U.S. 335] two-page "Statement of
+Material Facts as to Which There is No Genuine Issue"
+and a three-page "Memorandum of Points and
+Authorities" which asserted that the plaintiff had failed
+to identify any evidence in responding to two sets of
+interrogatories propounded by Celotex and that
+therefore the record was "totally devoid" of evidence to
+support plaintiff's claim. See id., at 171-176.
+Approximately three months earlier, Celotex had filed
+an essentially identical motion. Plaintiff responded to
+this earlier motion by producing three pieces of
+evidence which she claimed "[a]t the very least . . .
+demonstrate that there is a genuine factual dispute for
+trial," id., at 143: (1) a letter from an insurance
+representative of another defendant describing asbestos
+products to which plaintiff's decedent had been exposed,
+id., at 160; (2) a letter from T. R. Hoff, a former
+supervisor of decedent, describing asbestos products to
+which decedent had been exposed, id., at 162; and (3) a
+copy of decedent's deposition from earlier workmen's
+compensation proceedings, id., at 164. Plaintiff also
+apparently indicated [477 U.S. 336] at that time that she
+intended to call Mr. Hoff as a witness at trial. Tr. of Oral
+Arg. 6-7, 27-29.
+Celotex subsequently withdrew its first motion for
+summary judgment. See App. 167.5 However, as a result
+of this motion, when Celotex filed its second summary
+judgment motion, the record did contain evidence —
+including at least one witness — supporting plaintiff's
+claim. Indeed, counsel for Celotex admitted to this
+Court at oral argument that Celotex was aware of this
+evidence and of plaintiff's intention to call Mr. Hoff as a
+witness at trial when the second summary judgment
+motion was filed. Tr. of Oral Arg. 5-7. Moreover,
+plaintiff's response to Celotex' second motion pointed to
+this evidence — noting that it had already been provided
+to counsel for Celotex in connection with the first
+motion — and argued that Celotex had failed to "meet its
+burden of proving that there is no genuine factual
+dispute for trial." App. 188.
+On these facts, there is simply no question that Celotex
+failed to discharge its initial burden of production.
+Having chosen to base its motion on the argument that
+there was no evidence in the record to support plaintiff's
+claim, Celotex was not free to ignore supporting
+evidence that the record clearly contained. Rather,
+Celotex was required, as an initial matter, to attack the
+adequacy of this evidence. Celotex' failure to fulfill this
+simple requirement constituted a failure to discharge its
+initial burden of production under Rule 56, and thereby
+rendered summary judgment improper.6
+[477 U.S. 337] This case is indistinguishable from
+Adickes. Here, as there, the defendant moved for
+summary judgment on the ground that the record
+contained no evidence to support an essential element of
+the plaintiff's claim. Here, as there, the plaintiff
+responded by drawing the court's attention to evidence
+that was already in the record and that had been ignored
+by the moving party. Consequently, here, as there,
+summary judgment should be denied on the ground that
+the moving party failed to satisfy its initial burden of
+production.7

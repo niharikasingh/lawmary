@@ -1,0 +1,145 @@
+The defendant corporation is organized under the laws
+of Pennsylvania, but is qualified to do business and
+maintains an office in New York. Plaintiff is an
+individual residing and doing business in Virginia. The
+accident in which plaintiff alleges to have been damaged
+occurred in Lynchburg, Virginia. Plaintiff brought this
+action in the Federal District Court in New York.
+Section 11 of the Judiciary Act of 1789, 1 Stat. 78,
+carried over into the Judicial Code, § 24, 28 U.S.C. § 41
+(1), confers jurisdiction upon federal district courts of all
+actions at law between citizens of different states. The
+Court does not suggest that the federal district court in
+New York lacks jurisdiction under this statute or that
+the venue was improper in this case. 28 U.S.C. § 112. Cf.
+Neirbo Co. v. Bethlehem Corp., 308 U.S. 165.[330 U.S.
+513] But it holds that a district court may abdicate its
+jurisdiction when a defendant shows to the satisfaction
+of a district court that it would be more convenient and
+less vexatious for the defendant if the trial were held in
+another jurisdiction. Neither the venue statute nor the
+statute which has governed jurisdiction since 1789
+contains any indication or implication that a federal
+district court, once satisfied that jurisdiction and venue
+requirements have been met, may decline to exercise its
+jurisdiction. Except in relation to the exercise of the
+extraordinary admiralty and equity powers of district
+courts, this Court has never before held contrary to the
+general principle that "the courts of the United States
+are bound to proceed to judgment, and to afford redress
+to suitors before them, in every case to which their
+jurisdiction extends. They cannot abdicate their
+authority or duty in any case in favor of another
+jurisdiction." Hyde v. Stone, 20 How. 170, 175, quoted
+with approval in Chicot County v. Sherwood, 148 U.S.
+529, 534. See also Dennick v. Railroad Co., 103 U.S. 11;
+Baltimore & O.R. Co. v. Kepner, 314 U.S. 44; Evey v.
+Mexican C.R. Co., 81 F. 294.1 Never until today has this
+Court held, in actions for money damages for violations
+of common law or statutory rights, that a district court
+can abdicate its statutory duty to exercise its jurisdiction
+for the alleged convenience of the defendant to a
+lawsuit. Compare Slater v. Mexican National R. Co., 194
+U.S. 120.
+For reasons peculiar to the special problems of admiralty
+and to the extraordinary remedies of equity, the courts
+exercising admiralty and equity powers have been
+permitted [330 U.S. 514] at times to decline to exercise
+their jurisdiction. Canada Malting Co. v. Paterson S.S.
+Co., 285 U.S. 413; Rogers v. Guaranty Trust Co., 288
+U.S. 123; cf. Williams v. Green Bay & W.R. Co., 326
+U.S. 549. This exception is rooted in the kind of relief
+which these courts grant and the kinds of problems
+which they solve. See Meredith v. Winter Haven, 320
+U.S. 228, 235; Burford v. Sun Oil Co., 319 U.S. 315, 333
+n. 29. Courts of equity developed to afford relief where a
+money judgment in the common law courts provided no
+adequate remedy for an injured person.2 From the
+beginning of equitable jurisdiction up to now, the
+chancery courts have generally granted or withheld their
+special remedies at their discretion; and "courts of
+admiralty .. . act upon enlarged principles of equity."
+O'Brien v. Miller, 168 U.S. 287, 297. But this Court has,
+on many occasions, severely restricted the discretion of
+district courts to decline to grant even the extraordinary
+equitable remedies. Meredith v. Winter Haven, supra,
+and cases there cited at 234, 235. Previously federal
+courts have not generally been allowed the broad and
+indefinite discretion to dispose even of equity cases
+solely on a trial court's judgment of the relative
+convenience of the forum for the parties themselves.
+For a major factor in these equity decisions has been the
+relative ability of the forum to shape and execute its
+equitable remedy. Cf. Rogers v. Guaranty Trust Co.,
+supra.
+[330 U.S. 515] No such discretionary authority to decline
+to decide a case, however, has, before today, been vested
+in federal courts in actions for money judgments
+deriving from statutes or the common law.3 To engraft
+the doctrine of forum non conveniens upon the statutes
+fixing jurisdiction and proper venue in the district
+courts in such actions, seems to me to be far more than
+the mere filling in of the interstices of those statutes.4
+It may be that a statute should be passed authorizing the
+federal district courts to decline to try so-called common
+law cases according to the convenience of the parties.
+But whether there should be such a statute, and
+determination of its scope and the safeguards which
+should surround it, are, in my judgment, questions of
+policy which Congress should decide. There are strong
+arguments presented by the Court in its opinion why
+federal courts exercising their common law jurisdiction
+should have the discretionary powers which equity
+courts have always possessed in dispensing equitable
+relief. I think equally strong arguments could be
+advanced to show that they should not. For any
+individual or corporate defendant who does part of his
+business in states other than the one in which he [330
+U.S. 516] is sued will almost invariably be put to some
+inconvenience to defend himself. It will be a poorly
+represented multi-state defendant who cannot produce
+substantial evidence and good reasons fitting the rule
+now adopted by this Court tending to establish that the
+forum of the action against him is most inconvenient.
+The Court's new rule will thus clutter the very threshold
+of the federal courts with a preliminary trial of fact
+concerning the relative convenience of forums. The
+preliminary disposition of this factual question will, I
+believe, produce the very kind of uncertainty, confusion,
+and hardship which stalled and handicapped persons
+seeking compensation for maritime injuries following
+this Court's decision in Southern Pacific Co. v. Jensen,
+244 U.S. 205. The broad and indefinite discretion left to
+federal courts to decide the question of convenience
+from the welter of factors which are relevant to such a
+judgment, will inevitably produce a complex of close and
+indistinguishable decisions from which accurate
+prediction of the proper forum will become difficult, if
+not impossible. Yet plaintiffs will be asked "to determine
+with certainty before bringing their actions that factual
+question over which courts regularly divide among
+themselves and within their own membership. As
+penalty for error, the injured individual may not only
+suffer serious financial loss through the delay and
+expense of litigation, but discover that his claim has
+been barred by the statute of limitations in the prmper
+forum while he was erroneously pursuing it elsewhere."
+Davis v. Dept. of Labor & Industries, 317 U.S. 249, 254.
+This very case illustrates the hazards of delay. It must be
+begun anew in another forum after the District Court,
+the Circuit Court of Appeals, and now this Court, have
+had their time-consuming say as to the relative
+convenience of the forum in which the plaintiff chose to
+seek redress. Whether the statute of limitations has run
+[330 U.S. 517] against the plaintiff, we do not know. The
+convenience which the individual defendant will enjoy
+from the Court's new rule of forum non conveniens in
+law actions may be thought to justify its inherent delays,
+uncertainties, administrative complications and
+hardships. But in any event, Congress has not yet said
+so; and I do not think that this Court should, 150 years
+after the passage of the Judiciary Act, fill in what it
+thinks is a deficiency in the deliberate policy which
+Congress adopted.5 Whether the doctrine of forum non
+conveniens is good or bad, I should wait for Congress to
+adopt it.

@@ -1,0 +1,177 @@
+I agree with the Court that the Equal Protection Clause
+prohibits the government from excluding a person from
+jury service on account of that person's gender. Ante, at
+135— 137. The State's proffered justifications for its
+genderbased peremptory challenges are far from the
+"`exceedingly persuasive' " showing required to sustain a
+gender-based [511 U.S. 147] classification. Mississippi
+Univ. for Women v. Hogan, 458 U.S. 718, 724 (1982);
+ante, at 137-140. I therefore join the Court's opinion in
+this case. But today's important blow against gender
+discrimination is not costless. I write separately to
+discuss some of these costs, and to express my belief that
+today's holding should be limited to the government's
+use of gender-based peremptory strikes.
+Batson v. Kentucky, 476 U.S. 79 (1986), itself was a
+significant intrusion into the jury selection process.
+Batson minihearings are now routine in state and
+federal trial courts, and Batson appeals have proliferated
+as well. Demographics indicate that today's holding may
+have an even greater impact than did Batson itself. In
+further constitutionalizing jury selection procedures, the
+Court increases the number of cases in which jury
+selection—once a sideshow— will become part of the
+main event.
+For this same reason, today's decision further erodes the
+role of the peremptory challenge. The peremptory
+challenge is "a practice of ancient origin" and is "part of
+our common law heritage." Edmonson v. Leesville
+Concrete Co., 500 U.S. 614, 639 (1991) (O'Connor, J.,
+dissenting). The principal value of the peremptory is
+that it helps produce fair and impartial juries. Swain v.
+Alabama, 380 U.S. 202, 218-219 (1965); Babcock, Voir
+Dire: Preserving "Its Wonderful Power," 27 Stan. L.
+Rev. 545, 549-558 (1975). "Peremptory challenges, by
+enabling each side to exclude those jurors it believes will
+be most partial toward the other side, are a means of
+eliminat[ing] extremes of partiality on both sides,
+thereby assuring the selection of a qualified and
+unbiased jury." Holland v. Illinois, 493 U.S. 474, 484
+(1990) (emphasis deleted; internal quotation marks and
+citations omitted). The peremptory's importance is
+confirmed by its persistence: It was well established at
+the time of Blackstone and continues to endure in all the
+States. Id., at 481.
+Moreover, "[t]he essential nature of the peremptory
+challenge is that it is one exercised without a reason
+stated, without [511 U.S. 148] inquiry and without being
+subject to the court's control." Swain, 380 U. S., at 220.
+Indeed, often a reason for it cannot be stated, for a trial
+lawyer's judgments about a juror's sympathies are
+sometimes based on experienced hunches and educated
+guesses, derived from a juror's responses at voir dire or a
+juror's "`bare looks and gestures.' " Ibid. That a trial
+lawyer's instinctive assessment of a juror's
+predisposition cannot meet the high standards of a
+challenge for cause does not mean that the lawyer's
+instinct is erroneous. Cf. V. Starr & M. McCormick,
+Jury Selection 522 (1993) (nonverbal cues can be better
+than verbal responses at revealing a juror's disposition).
+Our belief that experienced lawyers will often correctly
+intuit which jurors are likely to be the least sympathetic,
+and our understanding that the lawyer will often be
+unable to explain the intuition, are the very reason we
+cherish the peremptory challenge. But, as we add, layer
+by layer, additional constitutional restraints on the use
+of the peremptory, we force lawyers to articulate what
+we know is often inarticulable.
+In so doing we make the peremptory challenge less
+discretionary and more like a challenge for cause. We
+also increase the possibility that biased jurors will be
+allowed onto the jury, because sometimes a lawyer will
+be unable to provide an acceptable gender-neutral
+explanation even though the lawyer is in fact correct
+that the juror is unsympathetic. Similarly, in
+jurisdictions where lawyers exercise their strikes in open
+court, lawyers may be deterred from using their
+peremptories, out of the fear that if they are unable to
+justify the strike the court will seat a juror who knows
+that the striking party thought him unfit. Because I
+believe the peremptory remains an important litigator's
+tool and a fundamental part of the process of selecting
+impartial juries, our increasing limitation of it gives me
+pause.
+Nor is the value of the peremptory challenge to the
+litigant diminished when the peremptory is exercised in
+a genderbased manner. We know that like race, gender
+matters. A [511 U.S. 149] plethora of studies make clear
+that in rape cases, for example, female jurors are
+somewhat more likely to vote to convict than male
+jurors. See R. Hastie, S. Penrod, & N. Pennington, Inside
+the Jury 140-141 (1983) (collecting and summarizing
+empirical studies). Moreover, though there have been
+no similarly definitive studies regarding, for example,
+sexual harassment, child custody, or spousal or child
+abuse, one need not be a sexist to share the intuition
+that in certain cases a person's gender and resulting life
+experience will be relevant to his or her view of the case.
+"`Jurors are not expected to come into the jury box and
+leave behind all that their human experience has taught
+them.' " Beck v. Alabama, 447 U.S. 625, 642 (1980).
+Individuals are not expected to ignore as jurors what
+they know as men— or women.
+Today's decision severely limits a litigant's ability to act
+on this intuition, for the import of our holding is that
+any correlation between a juror's gender and attitudes is
+irrelevant as a matter of constitutional law. But to say
+that gender makes no difference as a matter of law is not
+to say that gender makes no difference as a matter of
+fact. I previously have said with regard to Batson: "That
+the Court will not tolerate prosecutors' racially
+discriminatory use of the peremptory challenge, in
+effect, is a special rule of relevance, a statement about
+what this Nation stands for, rather than a statement of
+fact." Brown v. North Carolina, 479 U.S. 940, 941-942
+(1986) (opinion concurring in denial of certiorari).
+Today's decision is a statement that, in an effort to
+eliminate the potential discriminatory use of the
+peremptory, see Batson, 476 U. S., at 102 (Marshall, J.,
+concurring), gender is now governed by the special rule
+of relevance formerly reserved for race. Though we gain
+much from this statement, we cannot ignore what we
+lose. In extending Batson to gender we have added an
+additional burden to the state and federal trial process,
+taken a step closer to eliminating the peremptory
+challenge, and diminished the ability of litigants [511 U.S.
+150] to act on sometimes accurate gender-based
+assumptions about juror attitudes.
+These concerns reinforce my conviction that today's
+decision should be limited to a prohibition on the
+government's use of gender-based peremptory
+challenges. The Equal Protection Clause prohibits only
+discrimination by state actors. In Edmonson, supra, we
+made the mistake of concluding that private civil
+litigants were state actors when they exercised
+peremptory challenges; in Georgia v. McCollum, 505
+U.S. 42, 50-55 (1992), we compounded the mistake by
+holding that criminal defendants were also state actors.
+Our commitment to eliminating discrimination from
+the legal process should not allow us to forget that not
+all that occurs in the courtroom is state action. Private
+civil litigants are just that—private litigants. "The
+government erects the platform; it does not thereby
+become responsible for all that occurs upon it."
+Edmonson, 500 U. S., at 632 (O'Connor, J., dissenting).
+Clearly, criminal defendants are not state actors. "From
+arrest, to trial, to possible sentencing and punishment,
+the antagonistic relationship between government and
+the accused is clear for all to see. . . . [T]he unique
+relationship between criminal defendants and the State
+precludes attributing defendants' actions to the State . . .
+." McCollum, supra, at 67 (O'Connor, J., dissenting).
+The peremptory challenge is "`one of the most
+important of the rights secured to the accused. ` " Swain,
+380 U. S., at 219 (emphasis added); Goldwasser,
+Limiting a Criminal Defendant's Use of Peremptory
+Challenges: On Symmetry and the Jury in a Criminal
+Trial, 102 Harv. L. Rev. 808, 826-833 (1989). Limiting
+the accused's use of the peremptory is "a serious
+misordering of our priorities," for it means "we have
+exalted the right of citizens to sit on juries over the
+rights of the criminal defendant, even though it is the
+defendant, not the jurors, who faces imprisonment or
+even death." McCollum, supra, at 61-62 (Thomas, J.,
+concurring in judgment).
+[511 U.S. 151] Accordingly, I adhere to my position that
+the Equal Protection Clause does not limit the exercise
+of peremptory challenges by private civil litigants and
+criminal defendants. This case itself presents no state
+action dilemma, for here the State of Alabama itself filed
+the paternity suit on behalf of petitioner. But what of
+the next case? Will we, in the name of fighting gender
+discrimination, hold that the battered wife—on trial for
+wounding her abusive husband—is a state actor? Will
+we preclude her from using her peremptory challenges
+to ensure that the jury of her peers contains as many
+women members as possible? I assume we will, but I
+hope we will not.

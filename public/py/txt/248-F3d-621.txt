@@ -1,0 +1,337 @@
+The plaintiff brought suit against her employer under
+Title VII of the Civil Rights Act of 1964, charging racial
+discrimination. The case was tried, the jury returned a
+verdict for the defendant, and the plaintiff appeals,
+arguing that a juror named Leiter should have been
+struck for cause. If the plaintiff is right, she is entitled to
+a new trial without having to show that Leiter's
+presence on the jury caused the jury to side with the
+defendant. Denial of the right to an unbiased tribunal is
+one of those trial errors that is not excused by being
+shown to have been harmless. Gray v. Mississippi, 481
+U.S. 648, 668, 107 S.Ct. 2045, 95 L.Ed.2d 622 (1987);
+Grancorvitz v. Franklin, 890 F.2d 34, 41 (7th Cir.1989);
+Fietzer v. Ford Motor Co., 622 F.2d 281, 286 (7th
+Cir.1980); Dyer v. Calderon, 151 F.3d 970, 973 and n. 2
+(9th Cir.1998) (en banc).
+But what of the plaintiff's failure to use any of her three
+peremptory challenges to strike Leiter? She says that she
+used up her peremptory challenges on jurors whom she
+considered even less likely to favor her cause than Leiter
+was. This acknowledgment might seem to imply — since
+the plaintiff is not contending that any of those [248
+F.3d 623] jurors had to be stricken for cause — that she
+can't really think that Leiter was biased; for if Leiter was
+biased and those other three were not, surely the
+plaintiff would have used a peremptory challenge to get
+rid of Leiter first. That doesn't follow. Bias is only one
+factor in deciding whether to challenge a juror. A lawyer
+might be utterly convinced that a member of the jury
+venire would vote against his client no matter what the
+evidence showed, and yet his belief might be based on a
+hunch that he could not articulate as a ground for a
+challenge for cause. He might be more eager to strike
+that juror than one who had an evident bias (though the
+judge hadn't been convinced of this), for he might think
+he could overcome the hurdle posed by that bias more
+readily than he could persuade the stubborn but not
+demonstrably biased juror.
+A plaintiff may have a duty to use a peremptory
+challenge to remove a juror whom the judge correctly or
+incorrectly has failed to remove for cause, in which
+event a plaintiff who fails to use a peremptory challenge
+for this purpose will have forfeited the right to appeal
+the denial of the challenge for cause. In Ross v.
+Oklahoma, 487 U.S. 81, 108 S.Ct. 2273, 101 L.Ed.2d 80
+(1988), the Supreme Court in a capital-punishment case
+upheld against constitutional challenge a state rule
+imposing just such a duty. On the basis of Ross we then
+held that the loss of a peremptory challenge because the
+challenge was used to "cure" the judge's error in failing
+to remove a juror challenged for cause did not impair
+the right to an impartial tribunal. United States v.
+Nururdin, 8 F.3d 1187, 1191 (7th Cir.1993). That
+became the law of the nation in United States v.
+Martinez-Salazar, 528 U.S. 304, 120 S.Ct. 774, 145
+L.Ed.2d 792 (2000); see also United States v. Polichemi,
+219 F.3d 698, 705-06 (7th Cir.2000); Walzer v. St.
+Joseph State Hospital, 231 F.3d 1108, 1111 (8th
+Cir.2000). All but Ross are different cases from the
+present one, however. In those cases the peremptory
+challenge had been exercised and the biased juror
+removed. As a result, the jury that decided the
+defendant's guilt was impartial. But could a defendant
+preserve the issue of bias simply by failing to use his
+peremptory challenge to remove the biased juror? Since
+the use of a peremptory challenge to remove that juror
+would cure the judge's error, the defendant's failure to
+use a peremptory challenge to do this might well be
+thought to make the error a self-inflicted wound, as
+argued in a concurring opinion in Martinez-Salazar, 528
+U.S. at 318-19, 120 S.Ct. 774. The majority opinion,
+however, suggests a different view — that the litigant
+can let the biased juror be seated and seek to reverse the
+adverse judgment (if one results) on appeal on grounds
+of bias. See id. at 314-17, 120 S.Ct. 774. The suggestion
+is dictum, and can be questioned as putting the litigant
+in a heads-I-win-tails-you-lose position: if he wins a
+jury verdict, he can pocket his victory, and if he loses, he
+can get a new trial.
+But this is not the case in which to consider whether to
+take on the Supreme Court's dictum, since the defendant
+is not arguing that the plaintiff's failure to use a
+peremptory challenge against Leiter prevents the
+plaintiff from challenging Leiter's presence on the jury.
+It argues the distinct point that the plaintiff cannot
+complain about a violation of her statutory right to
+three peremptory challenges. 28 U.S.C. § 1870; see also
+Fed.R.Civ.P. 47(b). The defendant is of course right.
+Martinez-Salazar states that securing an impartial jury is
+one of the intended uses of peremptory challenges, 528
+U.S. at 316, 120 S.Ct. 774; see also Walzer v. St. Joseph
+State Hospital, supra, 231 F.3d at 1111; United States v.
+Quinn, 230 F.3d 862, 865 (6th Cir.2000), and hence may
+be [248 F.3d 624] a reason why the statutory allotment is
+three rather than one or two or none. (Martinez-Salazar
+was a criminal case, but we cannot think of any
+difference which that would make.) But the statutory
+question is a side issue. The important question is
+whether the plaintiff's constitutional right to an
+impartial tribunal was infringed. Let us see.
+During the voir dire of the jury, the judge asked the
+members of the venire whether "there is something
+about this kind of lawsuit for money damages that
+would start any of you leaning for or against a particular
+party?" Leiter raised her hand and explained that she has
+"been an owner of a couple of businesses and am
+currently an owner of a business, and I feel that as an
+employer and owner of a business that will definitely
+sway my judgment in this case." The judge asked her
+whether "if I instructed you as to what the law is that
+you would be able to apply the law recognizing that you
+are a business owner?" To which she replied, "I think
+my experience will cloud my judgment, but I can do my
+best." The judge permitted the lawyers also to ask
+questions of the prospective jurors and Thompson's
+lawyer asked Leiter, "And you said earlier that you were
+concerned that your position as a business owner may
+cloud your judgment. Can you tell me how?" And she
+replied, "I am constantly faced with people that want
+various benefits or different positions in the company
+[what Thompson was seeking from her employer, the
+defendant, Altheimer & Gray] or better contacts or, you
+know, a myriad of issues that employers face on a
+regular basis, and I have to decide whether or not that
+person should get them." The lawyer then asked Leiter
+whether she was concerned "that if somebody doesn't
+get them [benefits sought from their employer] they're
+going to sue you," and she answered, "Of course." Asked
+then whether "you believe that people file lawsuits just
+because they don't get something they want?", she
+answered, "I believe there are some people that do." In
+answer to the next and last question, "Are you
+concerned that that might cloud your judgment in this
+case?" she said, "I think I bring a lot of background to
+this case, and I can't say that it's not going to cloud my
+judgment. I can try to be as fair as I can, as I do every
+day."
+That was the end of the voir dire of Leiter. After
+refusing to strike her for cause (though urged to do so
+by the plaintiff's lawyer), and releasing the jurors who
+had not been selected for the jury (the defendant had
+also exercised its three peremptory challenges, none
+overlapping with the plaintiff's), the judge asked the
+eight remaining jurors, that is, the jurors selected to
+hear the case, whether they would follow his
+instructions on the law even if they didn't agree with
+them and whether they would be able to suspend
+judgment until they had heard all the evidence. The
+question was asked to the jurors at large and all either
+nodded their heads or said yes. The defendant, again
+perhaps dropping the ball, makes nothing of Leiter's
+failure at this stage to reiterate her doubts about her
+ability to exercise an unclouded judgment. The
+defendant is content to argue that the answers that
+Leiter gave to the earlier questions by the judge, and the
+questions by Thompson's lawyer, did not require that
+Leiter be struck for cause.
+Our review of the trial judge's ruling with respect to a
+challenge for cause is deferential, Salvato v. Illinois
+Dept. of Human Rights, 155 F.3d 922, 927 (7th Cir.
+1998); Pitsonbarger v. Gramley, 141 F.3d 728, 734-35
+(7th Cir.1998); United States v. Vega, 72 F.3d 507, 512
+(7th Cir.1995); United States v. Blom, 242 F.3d 799, 805
+(8th Cir.2001); United States v. Beasley, 48 F.3d 262,
+266 (7th Cir.1995); Wolfe v. Brigano, 232 F.3d 499, 502
+(6th Cir.2000),[248 F.3d 625] but not completely supine,
+and it is pertinent to note that no issue of credibility is
+presented. There is no argument that Leiter was not
+telling the truth. The issue is interpretive: did what she
+say manifest a degree of bias such that the judge abused
+his discretion in failing to strike her for cause?
+In defense of his ruling, the defendant has come up with
+only one case, United States v. Ricketts, 146 F.3d 492,
+496 (7th Cir. 1998), where we upheld the trial judge's
+refusal to strike for cause jurors who, in a trial for
+complicity in a prison riot, said on voir dire that they
+would tend to believe prison guards over inmates. The
+defendant says in its brief that we did this even though
+the jurors in question "never testified to their
+willingness or capacity to put this tendency aside for the
+purposes of trial." That is an inaccurate description of
+our decision, and leaves the defendant startlingly bereft
+of apposite case law. The trial judge in Ricketts had
+faulted defense counsel for failing to follow up the
+question about the juror's tendency to believe guards
+over inmates, and as a result of that failure the jurors
+had never had a chance to affirm their willingness or
+capacity to judge impartially. The tendency was not
+itself a sign of bias. There is a critical difference between
+a "prior [belief]" in the Bayesian statistician's sense and
+"bias" in the sense that requires disqualification of a
+juror or judge. Everyone brings to a case a set of beliefs
+that may incline him in one direction or another. A
+person told that X had been indicted, and asked whether
+he thought X guilty, might reply that he thought X
+probably was guilty because few innocent people are
+indicted. That would be a prior. It would be a bias only
+if it were irrational or unshakable, so that the
+prospective juror "would be unable to faithfully and
+impartially apply the law," Wainwright v. Witt, 469
+U.S. 412, 424, 105 S.Ct. 844, 83 L.Ed.2d 841 (1985)
+(emphasis added), would be, in other words, "adamant,"
+Fleenor v. Anderson, 171 F.3d 1096, 1099 (7th Cir.1999)
+— in our hypothetical if, for example, the person added,
+"Nothing will ever convince me that the government
+would indict an innocent person." Cf. Ross v.
+Oklahoma, supra, 487 U.S. at 83-84, 108 S.Ct. 2273.
+When Leiter said that she believed that some people sue
+their employer just because they haven't gotten a
+promotion or a raise or some other benefit, she was not
+manifesting bias. She was expressing a prior belief
+(prior, that is, to hearing any evidence in this case) that
+was not only not irrational, but was undoubtedly true —
+there are indeed some people who will sue their
+employer just because of disappointment over the
+failure of the employer to give them something they
+want. In other words, there are spurious suits, in the
+employment domain as elsewhere. Leiter could not be
+thought biased for holding a true belief, or even for
+holding it unshakably if it is indubitably true. The belief
+that some employees make bogus claims against
+employers is so obviously true that it could not be
+shaken; but inability to set aside a clearly sound belief
+does not make for a biased juror. It makes for a realistic
+one.
+Suppose a member of the venire in a case involving
+alleged sex discrimination by a fire department stated his
+belief that men on average have greater upper-body
+strength than women. Suppose he added that this belief
+was unshakable in the sense that if some social scientist
+testified otherwise, he would conclude that he was being
+fed junk science. Should this juror be disqualified? Not
+automatically, surely. The relevant questions would be
+whether he could distinguish averages from individuals,
+[248 F.3d 626] and thus recognize the possibility that a
+given woman might have greater upper-body strength
+than a given man, and whether he was so fixated on the
+average sex difference in upper-body strength that he
+was not open to the possibility that a woman whose
+upper-body strength was indeed less than that of the
+least strong firefighter in the fire department could
+nevertheless be as good a firefighter, or even a better
+one.
+The question in this case was not whether Leiter's belief
+that some claims against employers are spurious was
+true or false (it was, as we have noted, true), but
+whether this belief would somehow impede her in
+giving due weight to the evidence and following the
+judge's instructions. That question was not adequately
+explored. The last thing Leiter said before the judge
+refused to strike her for cause was that she couldn't say
+the "background" she brought to this case wasn't going
+to "cloud" her judgment. She said she would try to be
+fair, but she expressed no confidence in being able to
+succeed in the attempt. She may have realized that
+because of bad experiences in the past, she might have
+difficulty separating the logically distinct propositions
+that some claims against employers are bogus and that
+this claim must be bogus because it is a claim against an
+employer.
+Had she said she could not be fair, the judge would of
+course have had to strike her for cause. She did not say
+that, and so the judge (the defendant, though citing
+Ricketts, does not argue that the plaintiff's lawyer was at
+fault in failing to follow up his question whether Leiter's
+background would cloud her judgment) should have
+followed up by asking her, as he later asked the jury en
+masse, whether she would follow his instructions on the
+law and suspend judgment until she had heard all the
+evidence.
+Instead the matter was left dangling, just as it had been
+in Martinez-Salazar. That juror whom the defendant in
+that case used a peremptory challenge to excuse after the
+judge refused to excuse him for cause, when asked
+"whether, if he were a defendant facing jurors with
+backgrounds and opinions similar to his own, he
+thought he would get a fair trial," answered: "I think
+that's a difficult question. I don't think I know the
+answer to that." 528 U.S. at 308, 120 S.Ct. 774 (emphasis
+added). And when asked whether he "would feel more
+comfortable erring on the side of the prosecution or the
+defense," he said he "would probably be more favorable
+to the prosecution." Id. (emphasis added). When the
+judge then scolded him for reversing the presumption of
+innocence, the juror said, "I understand that in theory."
+Id. (emphasis added). The judge nevertheless refused to
+excuse the juror for cause because "he said ... he could
+follow the instructions, and he said ... `I don't think I
+know what I would do,' et cetera." Id. at 309, 120 S.Ct.
+774. The Supreme Court held that in these
+circumstances the judge had erred in not allowing the
+challenge for cause. It is just like our case. The judge
+didn't push hard enough to determine whether Leiter
+could relinquish her prior beliefs for purposes of
+deciding the case.
+Had the judge pushed Leiter and had she finally given
+unequivocal assurances that he deemed credible, his
+ruling could not be disturbed. See Lockett v. Ohio, 438
+U.S. 586, 595-96, 98 S.Ct. 2954, 57 L.Ed.2d 973 (1978);
+Salvato v. Illinois Dept. of Human Rights, supra, 155
+F.3d at 926-27; Pitsonbarger v. Gramley, supra, 141 F.3d
+at 735; Art Press, Ltd. v. Western Printing Machinery
+Co., 791 F.2d 616, 619 (7th Cir.1986); United States v.
+Blom, supra, 242 F.3d at 805. But he failed to do that.
+The venire contained 20 prospective jurors, [248 F.3d
+627] and more than enough were left to make up a full
+jury of 8 when he refused to excuse her. A candid and
+thoughtful person, if one may judge from the transcript,
+Leiter would probably have made an excellent juror —
+in another case.
+When a prospective juror manifests a prior belief that is
+both material and contestable (for, to repeat an earlier
+point, it is not bias to cling to a belief that no rational
+person would question), it is the judge's duty to
+determine whether the juror is capable of suspending
+that belief for the duration of the trial. When as in this
+case the record contains no assurances that the belief is
+"shakable," that the prospective juror can exercise a
+judgment unclouded by that belief, the verdict cannot
+stand. See Art Press, Ltd. v. Western Printing
+Machinery Co., supra, 791 F.2d at 619; Wolfe v.
+Brigano, supra, 232 F.3d at 502-03; United States v.
+Gonzalez, 214 F.3d 1109, 1113-14 (9th Cir.2000);
+United States v. Padilla-Mendoza, 157 F.3d 730, 733-34
+(9th Cir.1998); United States v. Salamone, 800 F.2d
+1216, 1226-27 (3d Cir. 1986). "When a juror is unable to
+state that she will serve fairly and impartially despite
+being asked repeatedly for such assurances, we can have
+no confidence that the juror will `lay aside' her biases or
+her prejudicial personal experiences and render a fair
+and impartial verdict." United States v. Gonzalez, supra,
+214 F.3d at 1114. That's this case. Missing are those
+"unwavering affirmations of impartiality" that permitted
+the district judge in United States v. Garcia, 936 F.2d
+648, 653 (2d Cir.1991), to find the challenged juror
+unbiased.
+REVERSED AND REMANDED.

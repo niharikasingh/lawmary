@@ -1,0 +1,223 @@
+It is indeed remarkable that the Court, in the face of the
+long and careful opinion of the Court of Appeals,
+reaches the result it does. The Court of Appeals
+faithfully followed the relevant precedents, including
+First National Bank of Arizona v. Cities Service Co., 391
+U.S. 253 (1968), and Monsanto Co. v. Spray-Rite
+Service Corp., 465 U.S. 752 (1984), and it kept firmly in
+mind the principle that proof of a conspiracy should not
+be fragmented, see Continental Ore Co. v. Union
+Carbide & Carbon Corp., 370 U.S. 690, 699 (1962).
+After surveying the massive record, including very [475
+U.S. 599] significant evidence that the District Court
+erroneously had excluded, the Court of Appeals
+concluded that the evidence taken as a whole creates a
+genuine issue of fact whether petitioners engaged in a
+conspiracy in violation of §§ 1 and 2 of the Sherman Act
+and § 2(a) of the Robinson-Patman Act. In my view, the
+Court of Appeals' opinion more than adequately
+supports this judgment.
+The Court's opinion today, far from identifying
+reversible error, only muddies the waters. In the first
+place, the Court makes confusing and inconsistent
+statements about the appropriate standard for granting
+summary judgment. Second, the Court makes a number
+of assumptions that invade the factfinder's province.
+Third, the Court faults the Third Circuit for nonexistent
+errors and remands the case although it is plain that
+respondents' evidence raises genuine issues of material
+fact.
+I
+The Court's initial discussion of summary judgment
+standards appears consistent with settled doctrine. I
+agree that "[w]here the record taken as a whole could
+not lead a rational trier of fact to find for the
+nonmoving party, there is no `genuine issue for trial.' "
+Ante, at 587 (quoting Cities Service, supra, at 289). I also
+agree that " `[o]n summary judgment the inferences to
+be drawn from the underlying facts . . . must be viewed
+in the light most favorable to the party opposing the
+motion.' " Ante, at 587 (quoting United States v.
+Diebold, Inc., 369 U.S. 654, 655 (1962)). But other
+language in the Court's opinion suggests a departure
+from traditional summary judgment doctrine. Thus, the
+Court gives the following critique of the Third Circuit's
+opinion:
+"[T]he Court of Appeals concluded that a reasonable factfinder
+could find a conspiracy to depress prices in the American market in
+order to drive out American competitors, which conspiracy was
+funded by excess profits obtained in the Japanese market. The court
+apparently did not consider whether it was as plausible to conclude
+[475 U.S. 600] that petitioners' price-cutting behavior was
+independent and not conspiratorial." Ante, at 581.
+In a similar vein, the Court summarizes Monsanto Co.
+v. Spray-Rite Service Corp., supra, as holding that
+"courts should not permit factfinders to infer
+conspiracies when such inferences are implausible . . . ."
+Ante, at 593. Such language suggests that a judge
+hearing a defendant's motion for summary judgment in
+an antitrust case should go beyond the traditional
+summary judgment inquiry and decide for himself
+whether the weight of the evidence favors the plaintiff.
+Cities Service and Monsanto do not stand for any such
+proposition. Each of those cases simply held that a
+particular piece of evidence standing alone was
+insufficiently probative to justify sending a case to the
+jury.1 These holdings in no way undermine [475 U.S.
+601] the doctrine that all evidence must be construed in
+the light most favorable to the party opposing summary
+judgment.
+If the Court intends to give every judge hearing a
+motion for summary judgment in an antitrust case the
+job of determining if the evidence makes the inference
+of conspiracy more probable than not, it is overturning
+settled law. If the Court does not intend such a
+pronouncement, it should refrain from using
+unnecessarily broad and confusing language.
+II
+In defining what respondents must show in order to
+recover, the Court makes assumptions that invade the
+factfinder's province. The Court states with very little
+discussion that respondents can recover under § 1 of the
+Sherman Act only if they prove that "petitioners
+conspired to drive respondents out of the relevant
+markets by (i) pricing below the level necessary to sell
+their products, or (ii) pricing below some appropriate
+measure of cost." Ante, at 585, n. 8. This statement is
+premised on the assumption that "[a]n agreement
+without these features would either leave respondents in
+the same position as would market forces or would
+actually benefit respondents by raising market prices."
+Ibid. In making this assumption, the Court ignores the
+contrary conclusions of respondents' expert DePodwin,
+whose report in very relevant part was erroneously
+excluded by the District Court.
+The DePodwin Report, on which the Court of Appeals
+relied along with other material, indicates that
+respondents were harmed in two ways that are
+independent of whether petitioners priced their
+products below "the level necessary to sell their products
+or . . . some appropriate measure of cost." Ibid. First, the
+Report explains that the price-raising scheme in Japan
+resulted in lower consumption of petitioners' goods in
+that country and the exporting of more of petitioners'
+goods to this country than would have occurred had
+prices in Japan been at the competitive level. Increasing
+[475 U.S. 602] exports to this country resulted in
+depressed prices here, which harmed respondents.2
+Second, the DePodwin Report indicates that petitioners
+exchanged confidential proprietary information and
+entered into agreements such as the five company rule
+with the goal of avoiding intragroup competition in the
+United States market. The Report explains that
+petitioners' restrictions on intragroup competition
+caused respondents to lose business that they would not
+have lost had petitioners competed with one another.3
+[475 U.S. 603] The DePodwin Report alone creates a
+genuine factual issue regarding the harm to respondents
+caused by Japanese cartelization and by agreements
+restricting competition among petitioners in this
+country. No doubt the Court prefers its own economic
+theorizing to Dr. DePodwin's, but that is not a reason to
+deny the factfinder an opportunity to consider Dr.
+DePodwin's views on how petitioners' alleged collusion
+harmed respondents.4
+[475 U.S. 604] The Court, in discussing the unlikelihood
+of a predatory conspiracy, also consistently assumes that
+petitioners valued profit-maximization over growth.
+See, e. g., ante, at 595. In light of the evidence that
+petitioners sold their goods in this country at substantial
+losses over a long period of time, see Part III-B, infra, I
+believe that this is an assumption that should be argued
+to the factfinder, not decided by the Court.
+III
+In reversing the Third Circuit's judgment, the Court
+identifies two alleged errors: "(i) [T]he `direct evidence'
+on which the [Court of Appeals] relied had little, if any,
+relevance to the alleged predatory pricing conspiracy;
+and (ii) the court failed to consider the absence of a
+plausible motive to engage in predatory pricing." Ante,
+at 595. The Court's position is without substance.
+A
+The first claim of error is that the Third Circuit treated
+evidence regarding price fixing in Japan and the socalled
+five company rule and check prices as " `direct
+evidence' of a conspiracy that injured respondents."
+Ante, at 583 (citing In re Japanese Electronics Products
+Antitrust Litigation, 723 F.2d 238, 304-305 (1983)). The
+passage from the Third [475 U.S. 605] Circuit's opinion
+in which the Court locates this alleged error makes what
+I consider to be a quite simple and correct observation,
+namely, that this case is distinguishable from traditional
+"conscious parallelism" cases, in that there is direct
+evidence of concert of action among petitioners. Ibid.
+The Third Circuit did not, as the Court implies, jump
+unthinkingly from this observation to the conclusion
+that evidence regarding the five company rule could
+support a finding of antitrust injury to respondents.5
+The Third Circuit twice specifically noted that
+horizontal agreements allocating customers, though
+illegal, do not ordinarily injure competitors of the
+agreeing parties. Id., at 306, 310-311. However, after
+reviewing evidence of cartel activity in Japan, collusive
+establishment of dumping prices in this country, and
+longterm, below-cost sales, the Third Circuit held that a
+factfinder could reasonably conclude that the five
+company rule was not a simple price-raising device:
+"[A] factfinder might reasonably infer that the allocation of
+customers in the United States, combined with price-fixing in
+Japan, was intended to permit concentration of the effects of
+dumping upon American competitors while eliminating
+competition among the Japanese manufacturers in either market."
+Id., at 311.
+I see nothing erroneous in this reasoning.
+B
+The Court's second charge of error is that the Third
+Circuit was not sufficiently skeptical of respondents'
+allegation that petitioners engaged in predatory pricing
+conspiracy. But [475 U.S. 606] the Third Circuit is not
+required to engage in academic discussions about
+predation; it is required to decide whether respondents'
+evidence creates a genuine issue of material fact. The
+Third Circuit did its job, and remanding the case so that
+it can do the same job again is simply pointless.
+The Third Circuit indicated that it considers
+respondents' evidence sufficient to create a genuine
+factual issue regarding long-term, below-cost sales by
+petitioners. Ibid. The Court tries to whittle away at this
+conclusion by suggesting that the "expert opinion
+evidence of below-cost pricing has little probative value
+in comparison with the economic factors. . . that suggest
+that such conduct is irrational." Ante, at 594, n. 19. But
+the question is not whether the Court finds respondents'
+experts persuasive, or prefers the District Court's
+analysis; it is whether, viewing the evidence in the light
+most favorable to respondents, a jury or other factfinder
+could reasonably conclude that petitioners engaged in
+long-term, below-cost sales. I agree with the Third
+Circuit that the answer to this question is "yes."
+It is misleading for the Court to state that the Court of
+Appeals "did not disturb the District Court's analysis of
+the factors that substantially undermine the probative
+value of [evidence in the DePodwin Report respecting
+below-cost sales]." Ibid. The Third Circuit held that the
+exclusion of the portion of the DePodwin Report
+regarding below-cost pricing was erroneous because
+"the trial court ignored DePodwin's uncontradicted
+affidavit that all data relied on in his report were of the
+type on which experts in his field would reasonably
+rely." 723 F. 2d, at 282. In short, the Third Circuit found
+DePodwin's affidavit sufficient to create a genuine
+factual issue regarding the correctness of his conclusion
+that petitioners sold below cost over a long period of
+time. Having made this determination, the court saw no
+need — nor do I — to address the District Court's
+analysis point by point. The District Court's criticisms of
+DePodwin's [475 U.S. 607] methods are arguments that
+a factfinder should consider.
+IV
+Because I believe that the Third Circuit was correct in
+holding that respondents have demonstrated the
+existence of genuine issues of material fact, I would
+affirm the judgment below and remand this case for
+trial.

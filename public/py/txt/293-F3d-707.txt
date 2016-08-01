@@ -1,0 +1,485 @@
+The question presented in this appeal is whether a
+Georgia-based Internet Service Provider subjected itself
+to personal jurisdiction in Maryland by enabling a
+website owner to publish photographs on the Internet,
+in violation of a Maryland corporation's copyrights.
+Adapting the traditional due process principles used to
+determine a State's authority to exercise personal
+jurisdiction over out-of-state persons to the Internet
+context, we hold that in the circumstances of this case, a
+Maryland court cannot constitutionally exercise
+jurisdiction over the Georgia Internet Service Provider.
+Accordingly, we affirm the district court's order
+dismissing the complaint against the Internet Service
+Provider for lack of personal jurisdiction.
+I
+ALS Scan, Inc., a Maryland corporation with its place of
+business in Columbia, Maryland, commenced this action
+for copyright infringement against Digital Service
+Consultants, Inc. ("Digital"), and Digital's customers,
+Robert Wilkins and Alternative Products, Inc.
+(collectively, "Alternative Products"). ALS Scan, which
+creates and markets adult photographs of female models
+for distribution over the Internet, claims that
+Alternative Products appropriated copies of hundreds of
+ALS Scan's copyrighted photographs and placed them
+on its websites, www.abpefarc.net and
+www.abpeuarc.com, thereby gaining revenue from
+them through membership fees and advertising. ALS
+Scan further alleges that Digital, as the Internet Service
+Provider ("ISP") for Alternative Products, "enabled"
+Alternative Products to publish ALS Scan's copyrighted
+photographs on the Internet by providing Alternative
+Products with the bandwidth service1 needed to
+maintain its websites. ALS Scan thus alleges that all of
+the defendants have infringed and are infringing its
+copyrights within Maryland and elsewhere by selling,
+publishing, and displaying its copyrighted photographs.
+Digital filed a motion to dismiss the complaint against it
+under Federal Rule of Civil Procedure 12(b)(2),
+asserting that the district court lacked personal
+jurisdiction over it. In support of its motion, Digital
+provided affidavits demonstrating that Digital is a
+Georgia corporation with its only place of business in
+Atlanta. Digital asserts that it is an ISP which provided
+bandwidth service to Alternative Products as a customer
+but that it is not affiliated in any way with Alternative
+Products except through an arms-length customer
+relationship. In addition, Digital states that it did not
+select the infringing photographs for publication; it did
+not have knowledge that they were posted on
+Alternative Products' website; and it received no income
+from Alternative Products' subscribers. Digital
+acknowledges that it does maintain its own website,
+www.dscga.com, but asserts that its website "contains
+no means for any person to enter into a contract with,
+transfer funds to, or otherwise transact business with,
+Digital."
+Digital also states that, other than through the Internet,
+it has no contacts with the State of Maryland. It avers
+that it conducts no business and has no offices in
+Maryland; that it has no contracts with any persons or
+entities in Maryland; that [293 F.3d 710] it derives no
+income from any clients or business in Maryland; that it
+does not advertise in Maryland (other than through its
+website); and that it owns no property in Maryland.
+In a responding affidavit, ALS Scan asserts that copies of
+its copyrighted photographs have appeared on
+Alternative Products' two web-sites, www.abpefarc.net
+and www.abpeuarc.com. It also alleges that one of its
+employees in Maryland purchased an "on-line"
+membership to www.abpefarc.net, using a credit card,
+and, by obtaining that membership, the employee
+received a "user name" and a "password" to access the
+website. That website, it asserts, displayed ALS Scan's
+copyrighted photographs, allegedly in violation of the
+Copyright Act.
+The district court granted Digital's motion to dismiss for
+lack of personal jurisdiction. The court found that it had
+neither specific nor general jurisdiction over Digital
+because "Digital does not engage in any continuous and
+systematic activities within Maryland, and there is no
+evidence that [ALS Scan's] claim arises out of any
+contacts which Digital may have with Maryland."
+From the district court's ruling, ALS Scan filed this
+interlocutory appeal.2
+II
+The district court's decision to dismiss the complaint
+against Digital for lack of personal jurisdiction presents
+a legal question that we review de novo, see Christian
+Science Bd. of Dirs. of the First Church of Christ,
+Scientist v. Nolan, 259 F.3d 209, 215 (4th Cir.2001),
+although we review any underlying factual findings for
+clear error, see In re Celotex Corp., 124 F.3d 619, 627
+(4th Cir.1997).
+Under Federal Rule of Civil Procedure 4(k)(1)(A), a
+federal court may exercise personal jurisdiction over a
+defendant in the manner provided by state law. See
+ESAB Group, Inc. v. Centricut, Inc., 126 F.3d 617, 622
+(4th Cir.1997). Maryland courts have concluded that the
+State's longarm statute, Md.Code Ann., Courts & Jud.
+Proc. § 6-103, expands Maryland's exercise of personal
+jurisdiction to the extent allowed by the Due Process
+Clause of the Fourteenth Amendment. See Androutsos
+v. Fairfax Hosp., 323 Md. 634, 594 A.2d 574, 576 (1991).
+"Because the limits of Maryland's statutory
+authorization for the exercise of personal jurisdiction
+are coterminous with the limits of the Due Process
+Clause, the statutory inquiry necessarily merges with the
+constitutional inquiry, and the two inquiries essentially
+become one." Stover v. O'Connell Assocs., Inc., 84 F.3d
+132, 135-36 (4th Cir.1996). Thus, we apply the
+constitutional limitations on state service of process
+incorporated in Rule 4(k)(1)(A), and our inquiry
+coalesces into the question of whether Digital has
+sufficient minimum contacts with Maryland. See
+Diamond Healthcare of Ohio, Inc. v. Humility of Mary
+Health Partners, 229 F.3d 448, 450 (4th Cir.2000); Ciena
+Corp. v. Jarrard, 203 F.3d 312, 317 (4th Cir.2000).
+Historically, the limits on personal jurisdiction were
+grounded in a court's power over the actual person of
+the defendant. Thus, a person's "presence within the
+territorial jurisdiction of a court was prerequisite to its
+rendition of a judgment personally [293 F.3d 711]
+binding him." Int'l Shoe Co. v. Washington, 326 U.S.
+310, 316, 66 S.Ct. 154, 90 L.Ed. 95 (1945) (citing
+Pennoyer v. Neff, 95 U.S. 714, 733, 24 L.Ed. 565 (1877)).
+Over time, however, and with the introduction of
+personal service of summons or other forms of notice,
+the Supreme Court recognized that "due process
+requires only that in order to subject a defendant to a
+judgment in personam, if he be not present within the
+territory of the forum, he have certain minimum
+contacts with it such that the maintenance of the suit
+does not offend `traditional notions of fair play and
+substantial justice.'" Int'l Shoe, 326 U.S. at 316, 66 S.Ct.
+154 (quoting Milliken v. Meyer, 311 U.S. 457, 463, 61
+S.Ct. 339, 85 L.Ed. 278 (1940)). With respect to
+corporations, the Court has recognized that "unlike an
+individual, its `presence' without, as well as within, the
+state of its origin can be manifested only by activities
+carried on in its behalf by those who are authorized to
+act for it." Id. Thus, "the terms `present' or `presence'
+are used merely to symbolize those activities of the
+corporation's agent within the state which courts will
+deem to be sufficient to satisfy the demands of due
+process." Id. at 316-17, 66 S.Ct. 154.
+Although the courts have recognized that the standards
+used to determine the proper exercise of personal
+jurisdiction may evolve as technological progress occurs,
+it nonetheless has remained clear that technology cannot
+eviscerate the constitutional limits on a State's power to
+exercise jurisdiction over a defendant. In Hanson v.
+Denckla, 357 U.S. 235, 78 S.Ct.1228, 2 L.Ed.2d 1283
+(1958), the Court explored the problem of reconciling
+technological advances with the limits of personal
+jurisdiction and stated:
+As technological progress has increased the flow of commerce
+between States, the need for jurisdiction over nonresidents has
+undergone a similar increase. At the same time, progress in
+communications and transportation has made the defense of a suit
+in a foreign tribunal less burdensome. In response to these changes,
+the requirements for personal jurisdiction over nonresidents have
+evolved from the rigid rule of Pennoyer v. Neff to the flexible
+standard of International Shoe Co. v. State of Washington. But it is
+a mistake to assume that this trend heralds the eventual demise of
+all restrictions on the personal jurisdiction of state courts. Those
+restrictions are more than a guarantee of immunity from
+inconvenient or distant litigation. They are a consequence of
+territorial limitations on the power of the respective States.
+However minimal the burden of defending in a foreign tribunal, a
+defendant may not be called upon to do so unless he has had the
+"minimal contacts" with that State that are a prerequisite to its
+exercise of power over him.
+Id. at 250-51, 78 S.Ct. 1228 (internal citations omitted);
+see also McGee v. Int'l Life Ins. Co., 355 U.S. 220, 222,
+78 S.Ct. 199, 2 L.Ed.2d 223 (1957) (noting that the trend
+toward expanding the permissible scope of personal
+jurisdiction is, in part, "attributable to the fundamental
+transformation of our national economy over the
+years"). The Court has thus mandated that limits on the
+states' power to exercise personal jurisdiction over
+nonresidents must be maintained, despite the growing
+ease with which business is conducted across state lines.
+Determining the extent of a State's judicial power over
+persons outside of its borders under the International
+Shoe standard can be undertaken through two different
+approaches — by finding specific jurisdiction based on
+conduct connected to the suit or by finding general
+jurisdiction. See Helicopteros Nacionales de Colombia,
+S.A. v. Hall, 466 U.S. 408, 414, 104 S.Ct. 1868, 80
+L.Ed.2d 404 (1984);[293 F.3d 712] Christian Science Bd.,
+259 F.3d at 216. If the defendant's contacts with the
+State are also the basis for the suit, those contacts may
+establish specific jurisdiction. In determining specific
+jurisdiction, we consider (1) the extent to which the
+defendant "purposefully avail[ed]" itself of the privilege
+of conducting activities in the State; (2) whether the
+plaintiffs' claims arise out of those activities directed at
+the State; and (3) whether the exercise of personal
+jurisdiction would be constitutionally "reasonable." See
+Christian Science Bd., 259 F.3d at 216; see also
+Helicopteros, 466 U.S. at 414 & n. 8, 104 S.Ct. 1868
+(describing a basis for jurisdiction where "a controversy
+is related to or `arises out of a defendant's contacts with
+the forum").
+On the other hand, if the defendant's contacts with the
+State are not also the basis for suit, then jurisdiction
+over the defendant must arise from the defendant's
+general, more persistent, but unrelated contacts with the
+State. To establish general jurisdiction over the
+defendant, the defendant's activities in the State must
+have been "continuous and systematic," a more
+demanding standard than is necessary for establishing
+specific jurisdiction. See Helicopteros, 466 U.S. at 414 &
+n. 9, 104 S.Ct. 1868; ESAB Group, 126 F.3d at 623.
+III
+In this case, ALS Scan argues that Digital's activity in
+enabling Alternative Products' publication of the
+infringing photographs on the Internet, thereby causing
+ALS Scan injury in Maryland, forms a proper basis for
+the district court's specific jurisdiction over Digital. The
+question thus becomes whether a person electronically
+transmitting or enabling the transmission of
+information via the Internet to Maryland, causing injury
+there, subjects the person to the jurisdiction of a court in
+Maryland, a question of first impression in the Fourth
+Circuit.
+Applying the traditional due process principles
+governing a State's jurisdiction over persons outside of
+the State based on Internet activity requires some
+adaptation of those principles because the Internet is
+omnipresent — when a person places information on
+the Internet, he can communicate with persons in
+virtually every jurisdiction. If we were to conclude as a
+general principle that a person's act of placing
+information on the Internet subjects that person to
+personal jurisdiction in each State in which the
+information is accessed, then the defense of personal
+jurisdiction, in the sense that a State has geographically
+limited judicial power, would no longer exist. The
+person placing information on the Internet would be
+subject to personal jurisdiction in every State.
+But under current Supreme Court jurisprudence, despite
+advances in technology, State judicial power over
+persons appears to remain limited to persons within the
+State's boundaries and to those persons outside of the
+State who have minimum contacts with the State such
+that the State's exercise of judicial power over the
+person would not offend traditional notions of fair play
+and substantial justice. See Hanson, 357 U.S. at 250-51,
+78 S.Ct. 1228 (noting that "it is a mistake to assume that
+[the technological] trend heralds the demise of all
+restrictions"). But even under the limitations articulated
+in International Shoe and retained by Hanson, the
+argument could still be made that the Internet's
+electronic signals are surrogates for the person and that
+Internet users conceptually enter a State to the extent
+that they send their electronic signals into the State,
+establishing those minimum contacts sufficient to
+subject the sending person to personal jurisdiction in the
+State where the [293 F.3d 713] signals are received.
+Under this argument, the electronic transmissions
+"symbolize those activities ... within the state which
+courts will deem to be sufficient to satisfy the demands
+of due process." Int'l Shoe, 326 U.S. at 316-17, 66 S.Ct.
+154. But if that broad interpretation of minimum
+contacts were adopted, State jurisdiction over persons
+would be universal, and notions of limited State
+sovereignty and personal jurisdiction would be
+eviscerated.
+In view of the traditional relationship among the States
+and their relationship to a national government with its
+nationwide judicial authority, it would be difficult to
+accept a structural arrangement in which each State has
+unlimited judicial power over every citizen in each other
+State who uses the Internet. That thought certainly
+would have been considered outrageous in the past
+when interconnections were made only by telephones.
+See, e.g., Stover, 84 F.3d at 137 (finding a defendant's
+"occasional telephonic requests for information from
+Maryland-based investigation services" to be insufficient
+to subject the defendant to personal jurisdiction in a
+Maryland court). But now, even though the medium is
+still often a telephone wire, the breadth and frequency of
+electronic contacts through computers has resulted in
+billions of interstate connections and millions of
+interstate transactions entered into solely through the
+vehicle of the Internet. The convergence of commerce
+and technology thus tends to push the analysis to
+include a "stream-of-commerce" concept, under which
+each person who puts an article into commerce is held
+to anticipate suit in any jurisdiction where the stream
+takes the article. But the "stream-of-commerce" concept,
+although considered, has never been adopted by the
+Supreme Court as the controlling principle for defining
+the reach of a State's judicial power. See generally Asahi
+Metal Indus. Co. v. Superior Court of Cal., 480 U.S. 102,
+107 S.Ct. 1026, 94 L.Ed.2d 92 (1987).
+Until the due process concepts of personal jurisdiction
+are reconceived and rearticulated by the Supreme Court
+in light of advances in technology, we must develop,
+under existing principles, the more limited
+circumstances when it can be deemed that an out-ofstate
+citizen, through electronic contacts, has
+conceptually "entered" the State via the Internet for
+jurisdictional purposes. Such principles are necessary to
+recognize that a State does have limited judicial
+authority over out-of-state persons who use the Internet
+to contact persons within the State. Drawing on the
+requirements for establishing specific jurisdiction, see
+Helicopteros, 466 U.S. at 414 & n. 8, 104 S.Ct. 1868,
+which requires purposeful conduct directed at the State
+and that the plaintiff's claims arise from the purposeful
+conduct, we adopt today the model developed in Zippo
+Manufacturing Co. v. Zippo Dot Com, Inc., 952 F.Supp.
+1119 (W.D.Pa. 1997).
+In Zippo, the court concluded that "the likelihood that
+personal jurisdiction can be constitutionally exercised is
+directly proportionate to the nature and quality of
+commercial activity that an entity conducts over the
+Internet." 952 F.Supp. at 1124. Recognizing a "sliding
+scale" for defining when electronic contacts with a State
+are sufficient, the court elaborated:
+At one end of the spectrum are situations where a defendant clearly
+does business over the Internet. If the defendant enters into
+contracts with residents of a foreign jurisdiction that involve the
+knowing and repeated transmission of computer files over the
+Internet, personal jurisdiction is proper. At the opposite end are
+situations where a defendant has simply posted information on an
+Internet [293 F.3d 714] Web site which is accessible to users in
+foreign jurisdictions. A passive Web site that does little more than
+make information available to those who are interested in it is not
+grounds for the exercise [of] personal jurisdiction. The middle
+ground is occupied by interactive Web sites where a user can
+exchange information with the host computer. In these cases, the
+exercise of jurisdiction is determined by examining the level of
+interactivity and commercial nature of the exchange of information
+that occurs on the Web site.
+Id. (internal citations omitted); accord Soma Med. Int'l
+v. Standard Chartered Bank, 196 F.3d 1292, 1297 (10th
+Cir.1999) (citing the Zippo standard for "passive" Web
+sites and thus finding a corporation's Web site an
+insufficient basis for an exercise of personal
+jurisdiction); Mink v. AAAA Dev. LLC, 190 F.3d 333,
+336 (5th Cir.1999) (applying Zippo's sliding scale test to
+the case before it); Cybersell, Inc. v. Cybersell, Inc., 130
+F.3d 414, 418 (9th Cir.1997) (quoting Zippo for the
+proposition that "[c]ourts that have addressed
+interactive sites have looked to the `level of interactivity
+and commercial nature of the exchange of information
+that occurs on the Web site' to determine if sufficient
+contacts exist to warrant the exercise of jurisdiction").
+Thus, adopting and adapting the Zippo model, we
+conclude that a State may, consistent with due process,
+exercise judicial power over a person outside of the State
+when that person (1) directs electronic activity into the
+State, (2) with the manifested intent of engaging in
+business or other interactions within the State, and (3)
+that activity creates, in a person within the State, a
+potential cause of action cognizable in the State's courts.
+Under this standard, a person who simply places
+information on the Internet does not subject himself to
+jurisdiction in each State into which the electronic signal
+is transmitted and received. Such passive Internet
+activity does not generally include directing electronic
+activity into the State with the manifested intent of
+engaging business or other interactions in the State thus
+creating in a person within the State a potential cause of
+action cognizable in courts located in the State.
+This standard for reconciling contacts through
+electronic media with standard due process principles is
+not dissimilar to that applied by the Supreme Court in
+Calder v. Jones, 465 U.S. 783, 104 S.Ct. 1482, 79 L.Ed.2d
+804 (1984). In Calder, the Court held that a California
+court could constitutionally exercise personal
+jurisdiction over a Florida citizen whose only material
+contact with California was to write a libelous story in
+Florida, directed at a California citizen, for a publication
+circulated in California, knowing that the "injury would
+be felt by [the Californian] in the State in which she
+lives and works." Id. at 789-90, 104 S.Ct. 1482.
+Analogously, under the standard we adopt and apply
+today, specific jurisdiction in the Internet context may
+be based only on an out-of-state person's Internet
+activity directed at Maryland and causing injury that
+gives rise to a potential claim cognizable in Maryland.
+Applying this standard to the present case, we conclude
+that Digital's activity was, at most, passive and therefore
+does not subject it to the judicial power of a Maryland
+court even though electronic signals from Digital's
+facility were concededly received in Maryland. Digital
+functioned from Georgia as an ISP, and in that role
+provided bandwidth to Alternative Products, also
+located in Georgia, to enable Alternative Products to
+create a website and send information over the Internet.
+It did not select or knowingly transmit infringing
+photographs specifically to Maryland [293 F.3d 715] with
+the intent of engaging in business or any other
+transaction in Maryland. Rather, its role as an ISP was at
+most passive. Surely, it cannot be said that Digital
+"purposefully availed" itself of the privilege of
+conducting business or other transactions in Maryland.
+See ESAB Group, 126 F.3d at 623 (quoting Hanson, 357
+U.S. at 253, 78 S.Ct. 1228).
+Indeed, the only direct contact that Digital had with
+Maryland was through the general publication of its
+website on the Internet. But that website is unrelated to
+ALS Scan's claim in this case because Digital's website
+was not involved in the publication of any infringing
+photographs. See Christian Science Bd., 259 F.3d at 216.
+Thus, under the standard articulated in this case, Digital
+did not direct its electronic activity specifically at any
+target in Maryland; it did not manifest an intent to
+engage in a business or some other interaction in
+Maryland; and none of its conduct in enabling a website
+created a cause of action in Maryland, although on this
+last point, facts would have to be developed about
+whether Digital continued to enable the website after
+receiving notice. See ALS Scan, Inc. v. RemarQ
+Communities, Inc., 239 F.3d 619, 620 (4th Cir.2001).
+This factual issue, however, need not be resolved
+because Digital's conduct does not satisfy the first two
+prongs of the test.
+Accordingly, we agree with the district court that
+Digital's contacts in Maryland do not justify a Maryland
+court's exercise of specific jurisdiction over Digital.
+IV
+It is not clear whether ALS Scan contends that, even if it
+is unable to establish specific jurisdiction over Digital, a
+Maryland court should nevertheless assert general
+jurisdiction over Digital. At one point in its brief, ALS
+Scan acknowledged that Digital's contacts with
+Maryland are "perhaps not extensive enough" to justify a
+finding of general jurisdiction. But, somewhat in tension
+with this acknowledgment, ALS Scan continues to argue
+that Digital's general contacts with Maryland through
+the maintenance of its own website are sufficient to
+justify the district court's exercise of general jurisdiction
+over Digital.
+It is true that even in the absence of specific jurisdiction,
+general jurisdiction may exist when the defendant has
+sufficient contacts with the forum State. See
+Helicopteros, 466 U.S. at 414 & n. 9, 104 S.Ct. 1868.
+General jurisdiction may be asserted over a defendant
+"whose activities in the forum state have been
+continuous and systematic.... But the threshold level of
+minimum contacts sufficient to confer general
+jurisdiction is significantly higher than for specific
+jurisdiction." ESAB Group, 126 F.3d at 623 (internal
+quotation marks and citation omitted).
+We are not prepared at this time to recognize that a
+State may obtain general jurisdiction over out-of-state
+persons who regularly and systematically transmit
+electronic signals into the State via the Internet based
+solely on those transmissions. Something more would
+have to be demonstrated. And we need not decide today
+what that "something more" is because ALS Scan has
+shown no more.
+Other than maintain its website on the Internet, Digital
+has engaged in no activity in Maryland, and its only
+contacts with the State occur when persons in Maryland
+access Digital's website. Even though electronic
+transmissions from maintenance of a website on the
+Internet may have resulted in numerous and repeated
+electronic connections with persons in Maryland, such
+transmissions do not add up to the quality of contacts
+necessary for a State to have jurisdiction over the person
+for all purposes. See GTE New Media Servs., Inc. v.
+BellSouth Corp., 199 F.3d 1343, 1349 (D.C.Cir.2000)
+(finding that "personal jurisdiction surely cannot be
+based solely on [293 F.3d 716] the ability of District [of
+Columbia] residents to access the defendants' websites,
+for this does not by itself show any persistent course of
+conduct by the defendants in the District"); Mink, 190
+F.3d at 336 (finding AAAA's website to be "insufficient
+to subject it to personal jurisdiction" because AAAA
+merely posted information about its products, provided
+users with a printable mail-in order form, and provided
+contact information for the company, including an email
+address).
+V
+For the foregoing reasons, we affirm the order of the
+district court dismissing the complaint against Digital
+for lack of personal jurisdiction.3
+AFFIRMED.

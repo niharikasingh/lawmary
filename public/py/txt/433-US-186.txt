@@ -1,0 +1,729 @@
+The controversy in this case concerns the
+constitutionality of a Delaware statute that allows a
+court of that State to take jurisdiction of a lawsuit by
+sequestering any property of the defendant that happens
+to be located in Delaware. Appellants contend that the
+sequestration statute as applied in this case violates the
+Due Process Clause of the Fourteenth Amendment both
+because it permits the state courts to exercise
+jurisdiction despite the absence of sufficient contacts
+among the defendants, the litigation, and the State of
+Delaware and because it authorizes the deprivation of
+defendants' property without providing adequate
+procedural safeguards. We find it necessary to consider
+only the first of these contentions.
+I
+Appellee Heitner, a nonresident of Delaware, is the
+owner of one share of stock in the Greyhound Corp., a
+business incorporated under the laws of Delaware with
+its principal place of business in Phoenix, Ariz. On May
+22, 1974, he filed a shareholder's derivative suit in the
+Court of Chancery for New Castle County, Del., in
+which he named as defendants Greyhound, its wholly
+owned subsidiary Greyhound Lines, Inc.,1 and 28
+present or former officers or directors of one or [433
+U.S. 190] both of the corporations. In essence, Heitner
+alleged that the individual defendants had violated their
+duties to Greyhound by causing it and its subsidiary to
+engage in actions that resulted in the corporations being
+held liable for substantial damages in a private antitrust
+suit2 and a large fine in a criminal contempt action.3
+The activities which led to these penalties took place in
+Oregon.
+Simultaneously with his complaint, Heitner filed a
+motion for an order of sequestration of the Delaware
+property of the individual defendants pursuant to Del.
+Code Ann., Tit. 10, § 366 (1975).4 This motion was
+accompanied by a supporting [433 U.S. 191] affidavit of
+counsel which stated that the individual defendants were
+nonresidents of Delaware. The affidavit identified the
+property to be sequestered as
+"common stock, 3% Second Cumulative Preferenced Stock and
+stock unit credits of the Defendant Greyhound Corporation, a
+Delaware corporation, as well as all options and all warrants to
+purchase said stock issued to said individual Defendants and all
+contractural [sic] obligations, all rights, debts or credits due or
+accrued to or for the benefit of any of the said Defendants under
+any type of written agreement, contract or other legal instrument of
+any kind whatever between any of the individual Defendants and
+said corporation."
+The requested sequestration order was signed the day
+the motion was filed.5 Pursuant to that order, the
+sequestrator6 [433 U.S. 192] "seized" approximately
+82,000 shares of Greyhound common stock belonging to
+19 of the defendants,7 and options belonging to another
+2 defendants.8 These seizures were accomplished by
+placing "stop transfer" orders or their equivalents on the
+books of the Greyhound Corp. So far as the record
+shows, none of the certificates representing the seized
+property was physically present in Delaware. The stock
+was considered to be in Delaware, and so subject to
+seizure, by virtue of Del. Code Ann., Tit. 8, § 169
+(1975), which makes Delaware the situs of ownership of
+all stock in Delaware corporations.9
+All 28 defendants were notified of the initiation of the
+suit by certified mail directed to their last known
+addresses and by publication in a New Castle County
+newspaper. The 21 defendants whose property was
+seized (hereafter referred to as appellants) responded by
+entering a special appearance for [433 U.S. 193] the
+purpose of moving to quash service of process and to
+vacate the sequestration order. They contended that the
+ex parte sequestration procedure did not accord them
+due process of law and that the property seized was not
+capable of attachment in Delaware. In addition,
+appellants asserted that under the rule of International
+Shoe Co. v. Washington, 326 U.S. 310 (1945), they did
+not have sufficient contacts with Delaware to sustain the
+jurisdiction of that State's courts.
+The Court of Chancery rejected these arguments in a
+letter opinion which emphasized the purpose of the
+Delaware sequestration procedure:
+"The primary purpose of `sequestration' as authorized by 10 Del. C.
+§ 366 is not to secure possession of property pending a trial
+between resident debtors and creditors on the issue of who has the
+right to retain it. On the contrary, as here employed, `sequestration'
+is a process used to compel the personal appearance of a
+nonresident defendant to answer and defend a suit brought against
+him in a court of equity. Sands v. Lefcourt Realty Corp., Del. Supr.,
+117 A.2d 365 (1955). It is accomplished by the appointment of a
+sequestrator by this Court to seize and hold property of the
+nonresident located in this State subject to further Court order. If
+the defendant enters a general appearance, the sequestered property
+is routinely released, unless the plaintiff makes special application to
+continue its seizure, in which event the plaintiff has the burden of
+proof and persuasion." App. 75-76.
+This limitation on the purpose and length of time for
+which sequestered property is held, the court concluded,
+rendered inapplicable the due process requirements
+enunciated in Sniadach v. Family Finance Corp., 395
+U.S. 337 (1969); Fuentes v. Shevin, 407 U.S. 67 (1972);
+and Mitchell v. W. T. Grant Co., 416 U.S. 600 (1974).
+App. 75-76, 80, 83-85. The court also found no statelaw
+or federal constitutional barrier to the sequestrator's
+reliance on Del. Code Ann., Tit. 8, § 169 [433 U.S. 194]
+(1975). App. 76-79. Finally, the court held that the
+statutory Delaware situs of the stock provided a
+sufficient basis for the exercise of quasi in rem
+jurisdiction by a Delaware court. Id., at 85-87.
+On appeal, the Delaware Supreme Court affirmed the
+judgment of the Court of Chancery. Greyhound Corp. v.
+Heitner, 361 A.2d 225 (1976). Most of the Supreme
+Court's opinion was devoted to rejecting appellants'
+contention that the sequestration procedure is
+inconsistent with the due process analysis developed in
+the Sniadach line of cases. The court based its rejection
+of that argument in part on its agreement with the
+Court of Chancery that the purpose of the sequestration
+procedure is to compel the appearance of the defendant,
+a purpose not involved in the Sniadach cases. The court
+also relied on what it considered the ancient origins of
+the sequestration procedure and approval of that
+procedure in the opinions of this Court,10 Delaware's
+interest in asserting jurisdiction to adjudicate claims of
+mismanagement of a Delaware corporation, and the
+safeguards for defendants that it found in the Delaware
+statute. 361 A. 2d, at 230-236.
+[433 U.S. 195] Appellants' claim that the Delaware courts
+did not have jurisdiction to adjudicate this action
+received much more cursory treatment. The court's
+analysis of the jurisdictional issue is contained in two
+paragraphs:
+"There are significant constitutional questions at issue here but we
+say at once that we do not deem the rule of International Shoe to be
+one of them. . . . The reason, of course, is that jurisdiction under §
+366 remains . . . quasi in rem founded on the presence of capital
+stock here, not on prior contact by defendants with this forum.
+Under 8 Del. C. § 169 the `situs of the ownership of the capital
+stock of all corporations existing under the laws of this State . . . [is]
+in this State,' and that provides the initial basis for jurisdiction.
+Delaware may constitutionally establish situs of such shares here, . .
+. it has done so and the presence thereof provides the foundation
+for § 366 in this case. . . . On this issue we agree with the analysis
+made and the conclusion reached by Judge Stapleton in U. S.
+Industries, Inc. v. Gregg, D. Del., 348 F.Supp. 1004 (1972).[11 ]
+"We hold that seizure of the Greyhound shares is not invalid
+because plaintiff has failed to meet the prior contacts tests of
+International Shoe." Id., at 229.
+We noted probable jurisdiction. 429 U.S. 813.12 We
+reverse.
+[433 U.S. 196] II
+The Delaware courts rejected appellants' jurisdictional
+challenge by noting that this suit was brought as a quasi
+in rem proceeding. Since quasi in rem jurisdiction is
+traditionally based on attachment or seizure of property
+present in the jurisdiction, not on contacts between the
+defendant and the State, the courts considered
+appellants' claimed lack of contacts with Delaware to be
+unimportant. This categorical analysis assumes the
+continued soundness of the conceptual structure
+founded on the century-old case of Pennoyer v. Neff, 95
+U.S. 714 (1878).
+Pennoyer was an ejectment action brought in federal
+court under the diversity jurisdiction. Pennoyer, the
+defendant in that action, held the land under a deed
+purchased in a sheriff's sale conducted to realize on a
+judgment for attorney's fees obtained against Neff in a
+previous action by one Mitchell. At the time of
+Mitchell's suit in an Oregon State court, Neff was a
+nonresident of Oregon. An Oregon statute allowed
+service by publication on nonresidents who had
+property in the State,13 and Mitchell had used that
+procedure to bring Neff [433 U.S. 197] before the court.
+The United States Circuit Court for the District of
+Oregon, in which Neff brought his ejectment action,
+refused to recognize the validity of the judgment against
+Neff in Mitchell's suit, and accordingly awarded the land
+to Neff.14 This Court affirmed.
+Mr. Justice Field's opinion for the Court focused on the
+territorial limits of the States' judicial powers. Although
+recognizing that the States are not truly independent
+sovereigns, Mr. Justice Field found that their
+jurisdiction was defined by the "principles of public law"
+that regulate the relationships among independent
+nations. The first of those principles was "that every
+State possesses exclusive jurisdiction and sovereignty
+over persons and property within its territory." The
+second was "that no State can exercise direct jurisdiction
+and authority over persons or property without its
+territory." Id., at 722. Thus, "in virtue of the State's
+jurisdiction over the property of the non-resident
+situated within its limits," the state courts "can inquire
+into that non-resident's obligations to its own citizens . .
+. to the extent necessary to control the disposition of the
+property." Id., at 723. The Court recognized that if the
+conclusions of that inquiry were adverse to the
+nonresident property owner, his interest in the property
+would be affected. Ibid. Similarly, if the defendant
+consented to the jurisdiction of the state courts or was
+personally served within the State, a judgment could
+affect his interest in property outside the State. But any
+attempt "directly" to assert extraterritorial jurisdiction
+over persons or property would offend sister States and
+exceed the inherent limits of the State's power. A
+judgment resulting from such an attempt, Mr. Justice
+Field concluded, was not only unenforceable [433 U.S.
+198] in other States,15 but was also void in the rendering
+State because it had been obtained in violation of the
+Due Process Clause of the Fourteenth Amendment. Id.,
+at 732-733. See also, e. g., Freeman v. Alderson, 119 U.S.
+185, 187-188 (1886).
+This analysis led to the conclusion that Mitchell's
+judgment against Neff could not be validly based on the
+State's power over persons within its borders, because
+Neff had not been personally served in Oregon, nor had
+he consensually appeared before the Oregon court. The
+Court reasoned that even if Neff had received personal
+notice of the action, service of process outside the State
+would have been ineffectual since the State's power was
+limited by its territorial boundaries. Moreover, the
+Court held, the action could not be sustained on the
+basis of the State's power over property within its
+borders because that property had not been brought
+before the court by attachment or any other procedure
+prior to judgment.16 Since the judgment which
+authorized the sheriff's sale was therefore invalid, the
+sale transferred no title. Neff regained his land.
+From our perspective, the importance of Pennoyer is
+not its result, but the fact that its principles and
+corollaries derived from them became the basic elements
+of the constitutional [433 U.S. 199] doctrine governing
+state-court jurisdiction. See, e. g., Hazard, A General
+Theory of State-Court Jurisdiction, 1965 Sup. Ct. Rev.
+241 (hereafter Hazard). As we have noted, under
+Pennoyer state authority to adjudicate was based on the
+jurisdiction's power over either persons or property.
+This fundamental concept is embodied in the very
+vocabulary which we use to describe judgments. If a
+court's jurisdiction is based on its authority over the
+defendant's person, the action and judgment are
+denominated "in personam" and can impose a personal
+obligation on the defendant in favor of the plaintiff. If
+jurisdiction is based on the court's power over property
+within its territory, the action is called "in rem" or "quasi
+in rem." The effect of a judgment in such a case is
+limited to the property that supports jurisdiction and
+does not impose a personal liability on the property
+owner, since he is not before the court.17 In Pennoyer's
+terms, the owner is affected only "indirectly" by an in
+rem judgment adverse to his interest in the property
+subject to the court's disposition.
+By concluding that "[t]he authority of every tribunal is
+necessarily restricted by the territorial limits of the State
+in which it is established," 95 U. S., at 720, Pennoyer
+sharply limited the availability of in personam
+jurisdiction over defendants not resident in the forum
+State. If a nonresident defendant could not be found in a
+State, he could not be sued there. On the other hand,
+since the State in which property [433 U.S. 200] was
+located was considered to have exclusive sovereignty
+over that property, in rem actions could proceed
+regardless of the owner's location. Indeed, since a State's
+process could not reach beyond its borders, this Court
+held after Pennoyer that due process did not require any
+effort to give a property owner personal notice that his
+property was involved in an in rem proceeding. See, e.
+g., Ballard v. Hunter, 204 U.S. 241 (1907); Arndt v.
+Griggs, 134 U.S. 316 (1890); Huling v. Kaw Valley R.
+Co., 130 U.S. 559 (1889).
+The Pennoyer rules generally favored nonresident
+defendants by making them harder to sue. This
+advantage was reduced, however, by the ability of a
+resident plaintiff to satisfy a claim against a nonresident
+defendant by bringing into court any property of the
+defendant located in the plaintiff's State. See, e. g.,
+Zammit, Quasi-In-Rem Jurisdiction: Outmoded and
+Unconstitutional?, 49 St. John's L. Rev. 668, 670 (1975).
+For example, in the well-known case of Harris v. Balk,
+198 U.S. 215 (1905), Epstein, a resident of Maryland,
+had a claim against Balk, a resident of North Carolina.
+Harris, another North Carolina resident, owed money to
+Balk. When Harris happened to visit Maryland, Epstein
+garnished his debt to Balk. Harris did not contest the
+debt to Balk and paid it to Epstein's North Carolina
+attorney. When Balk later sued Harris in North
+Carolina, this Court held that the Full Faith and Credit
+Clause, U. S. Const., Art. IV, § 1, required that Harris'
+payment to Epstein be treated as a discharge of his debt
+to Balk. This Court reasoned that the debt Harris owed
+Balk was an intangible form of property belonging to
+Balk, and that the location of that property traveled with
+the debtor. By obtaining personal jurisdiction over
+Harris, Epstein had "arrested" his debt to Balk, 198 U. S.,
+at 223, and brought it into the Maryland court. Under
+the structure established by Pennoyer, Epstein was then
+entitled to proceed against that debt to vindicate his
+claim against Balk, even though Balk himself was not
+subject to the jurisdiction [433 U.S. 201] of a Maryland
+tribunal.18 See also, e. g., Louisville & N. R. Co. v. Deer,
+200 U.S. 176 (1906); Steele v. G. D. Searle & Co., 483
+F.2d 339 (CA5 1973), cert. denied, 415 U.S. 958 (1974).
+Pennoyer itself recognized that its rigid categories, even
+as blurred by the kind of action typified by Harris, could
+not accommodate some necessary litigation.
+Accordingly, Mr. Justice Field's opinion carefully noted
+that cases involving the personal status of the plaintiff,
+such as divorce actions, could be adjudicated in the
+plaintiff's home State even though the defendant could
+not be served within that State. 95 U. S., at 733-735.
+Similarly, the opinion approved the practice of
+considering a foreign corporation doing business in a
+State to have consented to being sued in that State. Id.,
+at 735-736; see Lafayette Ins. Co. v. French, 18 How.
+404 (1856). This [433 U.S. 202] basis for in personam
+jurisdiction over foreign corporations was later
+supplemented by the doctrine that a corporation doing
+business in a State could be deemed "present" in the
+State, and so subject to service of process under the rule
+of Pennoyer. See, e. g., International Harvester Co. v.
+Kentucky, 234 U.S. 579 (1914); Philadelphia & Reading
+R. Co. v. McKibbin, 243 U.S. 264 (1917). See generally
+Note, Developments in the Law, State-Court
+Jurisdiction, 73 Harv. L. Rev. 909, 919-923 (1960)
+(hereafter Developments).
+The advent of automobiles, with the concomitant
+increase in the incidence of individuals causing injury in
+States where they were not subject to in personam
+actions under Pennoyer, required further moderation of
+the territorial limits on jurisdictional power. This
+modification, like the accommodation to the realities of
+interstate corporate activities, was accomplished by use
+of a legal fiction that left the conceptual structure
+established in Pennoyer theoretically unaltered. Cf.
+Olberding v. Illinois Central R. Co., 346 U.S. 338, 340-
+341 (1953). The fiction used was that the out-of-state
+motorist, who it was assumed could be excluded
+altogether from the State's highways, had by using those
+highways appointed a designated state official as his
+agent to accept process. See Hess v. Pawloski, 274 U.S.
+352 (1927). Since the motorist's "agent" could be
+personally served within the State, the state courts could
+obtain in personam jurisdiction over the nonresident
+driver.
+The motorists' consent theory was easy to administer
+since it required only a finding that the out-of-state
+driver had used the State's roads. By contrast, both the
+fictions of implied consent to service on the part of a
+foreign corporation and of corporate presence required
+a finding that the corporation was "doing business" in
+the forum State. Defining the criteria for making that
+finding and deciding whether they were met absorbed
+much judicial energy. See, e. g., International Shoe Co.
+v. Washington, 326 U. S., at 317-319.[433 U.S. 203]
+While the essentially quantitative tests which emerged
+from these cases purported simply to identify
+circumstances under which presence or consent could
+be attributed to the corporation, it became clear that
+they were in fact attempting to ascertain "what dealings
+make it just to subject a foreign corporation to local
+suit." Hutchinson v. Chase & Gilbert, 45 F.2d 139, 141
+(CA2 1930) (L. Hand, J.). In International Shoe, we
+acknowledged that fact.
+The question in International Shoe was whether the
+corporation was subject to the judicial and taxing
+jurisdiction of Washington. Mr. Chief Justice Stone's
+opinion for the Court began its analysis of that question
+by noting that the historical basis of in personam
+jurisdiction was a court's power over the defendant's
+person. That power, however, was no longer the central
+concern:
+"But now that the capias ad respondendum has given way to
+personal service of summons or other form of notice, due process
+requires only that in order to subject a defendant to a judgment in
+personam, if he be not present within the territory of the forum, he
+have certain minimum contacts with it such that the maintenance
+of the suit does not offend `traditional notions of fair play and
+substantial justice.' Milliken v. Meyer, 311 U.S. 457, 463." 326 U. S.,
+at 316.
+Thus, the inquiry into the State's jurisdiction over a
+foreign corporation appropriately focused not on
+whether the corporation was "present" but on whether
+there have been
+"such contacts of the corporation with the state of the forum as
+make it reasonable, in the context of our federal system of
+government, to require the corporation to defend the particular suit
+which is brought there." Id., at 317.
+[433 U.S. 204] Mechanical or quantitative evaluations of
+the defendant's activities in the forum could not resolve
+the question of reasonableness:
+"Whether due process is satisfied must depend rather upon the
+quality and nature of the activity in relation to the fair and orderly
+administration of the laws which it was the purpose of the due
+process clause to insure. That clause does not contemplate that a
+state may make binding a judgment in personam against an
+individual or corporate defendant with which the state has no
+contacts, ties, or relations." Id., at 319.19
+Thus, the relationship among the defendant, the forum,
+and the litigation, rather than the mutually exclusive
+sovereignty of the States on which the rules of Pennoyer
+rest, became the central concern of the inquiry into
+personal jurisdiction.20 The immediate effect of this
+departure from Pennoyer's conceptual apparatus was to
+increase the ability of the state courts to obtain personal
+jurisdiction over nonresident defendants. See, e. g.,
+Green, Jurisdictional Reform in California, [433 U.S.
+205] 21 Hastings L. J. 1219, 1231-1233 (1970); Currie,
+The Growth of the Long Arm: Eight Years of Extended
+Jurisdiction in Illinois, 1963 U. Ill. L. F. 533;
+Developments 1000-1008.
+No equally dramatic change has occurred in the law
+governing jurisdiction in rem. There have, however,
+been intimations that the collapse of the in personam
+wing of Pennoyer has not left that decision unweakened
+as a foundation for in rem jurisdiction. Well-reasoned
+lower court opinions have questioned the proposition
+that the presence of property in a State gives that State
+jurisdiction to adjudicate rights to the property
+regardless of the relationship of the underlying dispute
+and the property owner to the forum. See, e. g., U. S.
+Industries, Inc. v. Gregg, 540 F.2d 142 (CA3 1976), cert.
+pending, No. 76-359; Jonnet v. Dollar Savings Bank, 530
+F.2d 1123, 1130-1143 (CA3 1976) (Gibbons, J.,
+concurring); Camire v. Scieszka, 116 N.H. 281, 358 A.2d
+397 (1976); Bekins v. Huish, 1 Ariz.App. 258, 401 P.2d
+743 (1965); Atkinson v. Superior Court, 49 Cal.2d 338,
+316 P.2d 960 (1957), appeal dismissed and cert. denied
+sub nom. Columbia Broadcasting System v. Atkinson,
+357 U.S. 569 (1958). The overwhelming majority of
+commentators have also rejected Pennoyer's premise
+that a proceeding "against" property is not a proceeding
+against the owners of that property. Accordingly, they
+urge that the "traditional notions of fair play and
+substantial justice" that govern a State's power to
+adjudicate in personam should also govern its power to
+adjudicate personal rights to property located in the
+State. See, e. g., Von Mehren & Trautman, Jurisdiction
+to Adjudicate: A Suggested Analysis, 79 Harv. L. Rev.
+1121 (1966) (hereafter Von Mehren & Trautman);
+Traynor, Is This Conflict Really Necessary?, 37 Texas L.
+Rev. 657 (1959) (hereafter Traynor); Ehrenzweig, The
+Transient Rule of Personal Jurisdiction: The "Power"
+Myth and Forum Conveniens, 65 Yale L. J. 289 (1956);
+Developments; Hazard.
+[433 U.S. 206] Although this Court has not addressed
+this argument directly, we have held that property
+cannot be subjected to a court's judgment unless
+reasonable and appropriate efforts have been made to
+give the property owners actual notice of the action.
+Schroeder v. City of New York, 371 U.S. 208 (1962);
+Walker v. City of Hutchinson, 352 U.S. 112 (1956);
+Mullane v. Central Hanover Bank & Trust Co., 339 U.S.
+306 (1950). This conclusion recognizes, contrary to
+Pennoyer, that an adverse judgment in rem directly
+affects the property owner by divesting him of his rights
+in the property before the court. Schroeder v. City of
+New York, supra, at 213; cf. Continental Grain Co. v.
+Barge FBL-585, 364 U.S. 19 (1960) (separate actions
+against barge and barge owner are one "civil action" for
+purpose of transfer under 28 U. S. C. § 1404 (a)).
+Moreover, in Mullane we held that Fourteenth
+Amendment rights cannot depend on the classification
+of an action as in rem or in personam, since that is
+"a classification for which the standards are so elusive and confused
+generally and which, being primarily for state courts to define, may
+and do vary from state to state." 339 U. S., at 312.
+It is clear, therefore, that the law of state-court
+jurisdiction no longer stands securely on the foundation
+established in Pennoyer.21 We think that the time is ripe
+to consider whether the standard of fairness and
+substantial justice set forth in International Shoe should
+be held to govern actions in rem as well as in personam.
+[433 U.S. 207] III
+The case for applying to jurisdiction in rem the same
+test of "fair play and substantial justice" as governs
+assertions of jurisdiction in personam is simple and
+straightforward. It is premised on recognition that
+"[t]he phrase, `judicial jurisdiction over a thing,' is a
+customary elliptical way of referring to jurisdiction over
+the interests of persons in a thing." Restatement
+(Second) of Conflict of Laws § 56, Introductory Note
+(1971) (hereafter Restatement).22 This recognition leads
+to the conclusion that in order to justify an exercise of
+jurisdiction in rem, the basis for jurisdiction must be
+sufficient to justify exercising "jurisdiction over the
+interests of persons in a thing."23 The standard for
+determining whether an exercise of jurisdiction over the
+interests of persons is consistent with the Due Process
+Clause is the minimum-contacts standard elucidated in
+International Shoe.
+This argument, of course, does not ignore the fact that
+the presence of property in a State may bear on the
+existence of jurisdiction by providing contacts among
+the forum State, the defendant, and the litigation. For
+example, when claims to the property itself are the
+source of the underlying controversy between the
+plaintiff and the defendant,24 it would be unusual for the
+State where the property is located not to have
+jurisdiction. In such cases, the defendant's claim to
+property [433 U.S. 208] located in the State would
+normally25 indicate that he expected to benefit from the
+State's protection of his interest.26 The State's strong
+interests in assuring the marketability of property
+within its borders27 and in providing a procedure for
+peaceful resolution of disputes about the possession of
+that property would also support jurisdiction, as would
+the likelihood that important records and witnesses will
+be found in the State.28 The presence of property may
+also favor jurisdiction in cases, such as suits for injury
+suffered on the land of an absentee owner, where the
+defendant's ownership of the property is conceded but
+the cause of action is otherwise related to rights and
+duties growing out of that ownership.29
+It appears, therefore, that jurisdiction over many types
+of actions which now are or might be brought in rem
+would not be affected by a holding that any assertion of
+state-court jurisdiction must satisfy the International
+Shoe standard.30 For the type of quasi in rem action
+typified by Harris v. Balk and the present case, however,
+accepting the proposed analysis would result in
+significant change. These are cases where [433 U.S. 209]
+the property which now serves as the basis for statecourt
+jurisdiction is completely unrelated to the
+plaintiff's cause of action. Thus, although the presence
+of the defendant's property in a State might suggest the
+existence of other ties among the defendant, the State,
+and the litigation, the presence of the property alone
+would not support the State's jurisdiction. If those other
+ties did not exist, cases over which the State is now
+thought to have jurisdiction could not be brought in that
+forum.
+Since acceptance of the International Shoe test would
+most affect this class of cases, we examine the arguments
+against adopting that standard as they relate to this
+category of litigation.31 Before doing so, however, we
+note that this type of case also presents the clearest
+illustration of the argument in favor of assessing
+assertions of jurisdiction by a single standard. For in
+cases such as Harris and this one, the only role played by
+the property is to provide the basis for bringing the
+defendant into court.32 Indeed, the express purpose of
+the Delaware sequestration procedure is to compel the
+defendant to enter a personal appearance.33 In such
+cases, if a direct assertion of personal jurisdiction over
+the defendant would violate the Constitution, it would
+seem that an indirect assertion of that jurisdiction
+should be equally impermissible.
+[433 U.S. 210] The primary rationale for treating the
+presence of property as a sufficient basis for jurisdiction
+to adjudicate claims over which the State would not
+have jurisdiction if International Shoe applied is that a
+wrongdoer
+"should not be able to avoid payment of his obligations by the
+expedient of removing his assets to a place where he is not subject
+to an in personam suit." Restatement § 66, Comment a.
+Accord, Developments 955. This justification, however,
+does not explain why jurisdiction should be recognized
+without regard to whether the property is present in the
+State because of an effort to avoid the owner's
+obligations. Nor does it support jurisdiction to
+adjudicate the underlying claim. At most, it suggests that
+a State in which property is located should have
+jurisdiction to attach that property, by use of proper
+procedures,34 as security for a judgment being sought in
+a forum where the litigation can be maintained
+consistently with International Shoe. See, e. g., Von
+Mehren & Trautman 1178; Hazard 284-285; Beale,
+supra, n. 18, at 123-124. Moreover, we know of nothing
+to justify the assumption that a debtor can avoid paying
+his obligations by removing his property to a State in
+which his creditor cannot obtain personal jurisdiction
+over him.35 The Full Faith and Credit Clause, after all,
+makes the valid in personam judgment of one State
+enforceable in all other States.36
+[433 U.S. 211] It might also be suggested that allowing in
+rem jurisdiction avoids the uncertainty inherent in the
+International Shoe standard and assures a plaintiff of a
+forum.37 See Folk & Moyer, supra, n. 10, at 749, 767.
+We believe, however, that the fairness standard of
+International Shoe can be easily applied in the vast
+majority of cases. Moreover, when the existence of
+jurisdiction in a particular forum under International
+Shoe is unclear, the cost of simplifying the litigation by
+avoiding the jurisdictional question may be the sacrifice
+of "fair play and substantial justice." That cost is too
+high.
+We are left, then, to consider the significance of the
+long history of jurisdiction based solely on the presence
+of property in a State. Although the theory that
+territorial power is both essential to and sufficient for
+jurisdiction has been undermined, we have never held
+that the presence of property in a State does not
+automatically confer jurisdiction over the owner's
+interest in that property.38 This history must be [433
+U.S. 212] considered as supporting the proposition that
+jurisdiction based solely on the presence of property
+satisfies the demands of due process, cf. Ownbey v.
+Morgan, 256 U.S. 94, 111 (1921), but it is not decisive.
+"[T]raditional notions of fair play and substantial
+justice" can be as readily offended by the perpetuation of
+ancient forms that are no longer justified as by the
+adoption of new procedures that are inconsistent with
+the basic values of our constitutional heritage. Cf.
+Sniadach v. Family Finance Corp., 395 U. S., at 340;
+Wolf v. Colorado, 338 U.S. 25, 27 (1949). The fiction
+that an assertion of jurisdiction over property is
+anything but an assertion of jurisdiction over the owner
+of the property supports an ancient form without
+substantial modern justification. Its continued
+acceptance would serve only to allow state-court
+jurisdiction that is fundamentally unfair to the
+defendant.
+We therefore conclude that all assertions of state-court
+jurisdiction must be evaluated according to the
+standards set forth in International Shoe and its
+progeny.39
+[433 U.S. 213] IV
+The Delaware courts based their assertion of jurisdiction
+in this case solely on the statutory presence of
+appellants' property in Delaware. Yet that property is
+not the subject matter of this litigation, nor is the
+underlying cause of action related to the property.
+Appellants' holdings in Greyhound do not, therefore,
+provide contacts with Delaware sufficient to support the
+jurisdiction of that State's courts over appellants. If it
+exists, that jurisdiction must have some other
+foundation.40
+Appellee Heitner did not allege and does not now claim
+that appellants have ever set foot in Delaware. Nor does
+he identify any act related to his cause of action as
+having taken place in Delaware. Nevertheless, he
+contends that appellants' positions as directors and
+officers of a corporation chartered in Delaware41
+provide sufficient "contacts, ties, or relations,"
+International Shoe Co. v. Washington, 326 U. S., at
+319,[433 U.S. 214] with that State to give its courts
+jurisdiction over appellants in this stockholder's
+derivative action. This argument is based primarily on
+what Heitner asserts to be the strong interest of
+Delaware in supervising the management of a Delaware
+corporation. That interest is said to derive from the role
+of Delaware law in establishing the corporation and
+defining the obligations owed to it by its officers and
+directors. In order to protect this interest, appellee
+concludes, Delaware's courts must have jurisdiction over
+corporate fiduciaries such as appellants.
+This argument is undercut by the failure of the
+Delaware Legislature to assert the state interest appellee
+finds so compelling. Delaware law bases jurisdiction, not
+on appellants' status as corporate fiduciaries, but rather
+on the presence of their property in the State. Although
+the sequestration procedure used here may be most
+frequently used in derivative suits against officers and
+directors, Hughes Tool Co. v. Fawcett Publications, Inc.,
+290 A.2d 693, 695 (Del. Ch. 1972), the authorizing
+statute evinces no specific concern with such actions.
+Sequestration can be used in any suit against a
+nonresident,42 see, e. g., U. S. Industries, Inc. v. Gregg,
+540 F.2d 142 (CA3 1976), cert. pending, No. 76-359
+(breach of contract); Hughes Tool Co. v. Fawcett
+Publications, Inc., supra (same), and reaches corporate
+fiduciaries only if they happen to own interests in a
+Delaware corporation, or other property in the State.
+But as Heitner's failure to secure jurisdiction over seven
+of the defendants named in his complaint demonstrates,
+there is no necessary relationship between holding a
+position as a corporate fiduciary and owning stock or
+other interests in the corporation.43 If Delaware
+perceived its interest in securing jurisdiction over
+corporate fiduciaries [433 U.S. 215] to be as great as
+Heitner suggests, we would expect it to have enacted a
+statute more clearly designed to protect that interest.
+Moreover, even if Heitner's assessment of the
+importance of Delaware's interest is accepted, his
+argument fails to demonstrate that Delaware is a fair
+forum for this litigation. The interest appellee has
+identified may support the application of Delaware law
+to resolve any controversy over appellants' actions in
+their capacities as officers and directors.44 But we have
+rejected the argument that if a State's law can properly
+be applied to a dispute, its courts necessarily have
+jurisdiction over the parties to that dispute.
+"[The State] does not acquire . . . jurisdiction by being the `center of
+gravity' of the controversy, or the most convenient location for
+litigation. The issue is personal jurisdiction, not choice of law. It is
+resolved in this case by considering the acts of the [appellants]."
+Hanson v. Denckla, 357 U.S. 235, 254 (1958).45
+Appellee suggests that by accepting positions as officers
+or directors of a Delaware corporation, appellants
+performed the acts required by Hanson v. Denckla. He
+notes that Delaware law provides substantial benefits to
+corporate officers and directors,46 and that these benefits
+were at least in part [433 U.S. 216] the incentive for
+appellants to assume their positions. It is, he says, "only
+fair and just" to require appellants, in return for these
+benefits, to respond in the State of Delaware when they
+are accused of misusing their power. Brief for Appellee
+15.
+But like Heitner's first argument, this line of reasoning
+establishes only that it is appropriate for Delaware law
+to govern the obligations of appellants to Greyhound
+and its stockholders. It does not demonstrate that
+appellants have "purposefully avail[ed themselves] of the
+privilege of conducting activities within the forum
+State," Hanson v. Denckla, supra, at 253, in a way that
+would justify bringing them before a Delaware tribunal.
+Appellants have simply had nothing to do with the State
+of Delaware. Moreover, appellants had no reason to
+expect to be haled before a Delaware court. Delaware,
+unlike some States,47 has not enacted a statute that treats
+acceptance of a directorship as consent to jurisdiction in
+the State. And "[i]t strains reason . . . to suggest that
+anyone buying securities in a corporation formed in
+Delaware `impliedly consents' to subject himself to
+Delaware's. . . jurisdiction on any cause of action." Folk
+& Moyer, supra, n. 10, at 785. Appellants, who were not
+required to acquire interests in Greyhound in order to
+hold their positions, did not by acquiring those interests
+surrender their right to be brought to judgment only in
+States with which they had had "minimum contacts."
+The Due Process Clause
+"does not contemplate that a state may make binding a judgment . . .
+against an individual or corporate defendant with which the state
+has no contacts, ties, or relations." International Shoe Co. v.
+Washington, 326 U. S., at 319.
+Delaware's assertion of jurisdiction over appellants in
+this case is inconsistent with that constitutional
+limitation on [433 U.S. 217] state power. The judgment
+of the Delaware Supreme Court must, therefore, be
+reversed.
+It is so ordered.

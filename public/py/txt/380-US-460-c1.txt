@@ -1,0 +1,161 @@
+It is unquestionably true that up to now Erie and the
+cases following it have not succeeded in articulating a
+workable doctrine governing choice of law in diversity
+actions. I respect the Court's effort to clarify the
+situation in today's opinion. However, in doing so I
+think it has misconceived the constitutional premises of
+Erie and has failed to deal adequately with those past
+decisions upon which the courts below relied.
+Erie was something more than an opinion which
+worried about "forum-shopping and avoidance of
+inequitable administration of the laws," ante, p. 468,
+although to be sure these were important elements of
+the decision. I have always regarded that decision as one
+of the modern cornerstones of our federalism,
+expressing policies that profoundly touch the allocation
+of judicial power between the state and federal systems.
+Erie recognized that there should not be two conflicting
+systems of law controlling the primary activity of
+citizens, for such alternative governing authority must
+necessarily give rise to a debilitating uncertainty in the
+planning of everyday affairs.1 And it recognized that the
+scheme of our Constitution envisions an allocation of
+law-making functions between state and federal
+legislative processes which is undercut if the federal
+judiciary can make substantive law affecting [380 U.S.
+475] state affairs beyond the bounds of congressional
+legislative powers in this regard. Thus, in diversity cases
+Erie commands that it be the state law governing
+primary private activity which prevails.
+The shorthand formulations which have appeared in
+some past decisions are prone to carry untoward results
+that frequently arise from oversimplification. The Court
+is quite right in stating that the "outcomedeterminative"
+test of Guaranty Trust Co. v. York, 326
+U.S. 99, if taken literally, proves too much, for any rule,
+no matter how clearly "procedural," can affect the
+outcome of litigation if it is not obeyed. In turning from
+the "outcome" test of York back to the unadorned
+forum-shopping rationale of Erie, however, the Court
+falls prey to like over-simplification, for a simple forumshopping
+rule also proves too much; litigants often
+choose a federal forum merely to obtain what they
+consider the advantages of the Federal Rules of Civil
+Procedure or to try their cases before a supposedly more
+favorable judge. To my mind the proper line of
+approach in determining whether to apply a state or a
+federal rule, whether "substantive" or "procedural," is to
+stay close to basic principles by inquiring if the choice of
+rule would substantially affect those primary decisions
+respecting human conduct which our constitutional
+system leaves to state regulation.2 If so, Erie and the
+Constitution require that the state rule prevail, even in
+the face of a conflicting federal rule.
+The Court weakens, if indeed it does not submerge, this
+basic principle by finding, in effect, a grant of
+substantive legislative power in the constitutional
+provision for a federal [380 U.S. 476] court system
+(compare Swift v. Tyson, 16 Pet. 1), and through it,
+setting up the Federal Rules as a body of law inviolate.
+"[T]he constitutional provision for a federal court system . . . carries
+with it congressional power . . . to regulate matters which, though
+falling within the uncertain area between substance and procedure,
+are rationally capable of classification as either." Ante, p. 472.
+(Emphasis supplied.)
+So long as a reasonable man could characterize any duly
+adopted federal rule as "procedural," the Court, unless I
+misapprehend what is said, would have it apply no
+matter how seriously it frustrated a State's substantive
+regulation of the primary conduct and affairs of its
+citizens. Since the members of the Advisory Committee,
+the Judicial Conference, and this Court who formulated
+the Federal Rules are presumably reasonable men, it
+follows that the integrity of the Federal Rules is
+absolute. Whereas the unadulterated outcome and
+forum-shopping tests may err too far toward honoring
+state rules, I submit that the Court's "arguably
+procedural, ergo constitutional" test moves too fast and
+far in the other direction.
+The courts below relied upon this Court's decisions in
+Ragan v. Merchants Transfer Co., 337 U.S. 530, and
+Cohen v. Beneficial Loan Corp., 337 U.S. 541. Those
+cases deserve more attention than this Court has given
+them, particularly Ragan which, if still good law, would
+in my opinion call for affirmance of the result reached
+by the Court of Appeals. Further, a discussion of these
+two cases will serve to illuminate the "diversity" thesis I
+am advocating.
+In Ragan a Kansas statute of limitations provided that an
+action was deemed commenced when service was made
+on the defendant. Despite Federal Rule 3 which
+provides that an action commences with the filing of the
+complaint, [380 U.S. 477] the Court held that for
+purposes of the Kansas statute of limitations a diversity
+tort action commenced only when service was made
+upon the defendant. The effect of this holding was that
+although the plaintiff had filed his federal complaint
+within the state period of limitations, his action was
+barred because the federal marshal did not serve a
+summons on the defendant until after the limitations
+period had run. I think that the decision was wrong. At
+most, application of the Federal Rule would have meant
+that potential Kansas tort defendants would have to
+defer for a few days the satisfaction of knowing that they
+had not been sued within the limitations period. The
+choice of the Federal Rule would have had no effect on
+the primary stages of private activity from which torts
+arise, and only the most minimal effect on behavior
+following the commission of the tort. In such
+circumstances the interest of the federal system in
+proceeding under its own rules should have prevailed.
+Cohen v. Beneficial Loan Corp. held that a federal
+diversity court must apply a state statute requiring a
+small stockholder in a stockholder derivative suit to post
+a bond securing payment of defense costs as a condition
+to prosecuting an action. Such a statute is not "outcome
+determinative"; the plaintiff can win with or without it.
+The Court now rationalizes the case on the ground that
+the statute might affect the plaintiff's choice of forum
+(ante, p. 469, n. 10), but as has been pointed out, a
+simple forum-shopping test proves too much. The
+proper view of Cohen is, in my opinion, that the statute
+was meant to inhibit small stockholders from instituting
+"strike suits," and thus it was designed and could be
+expected to have a substantial impact on private primary
+activity. Anyone who was at the trial bar during the
+period when Cohen arose can appreciate the strong state
+policy reflected in the statute. I think it wholly
+legitimate to view Federal Rule 23 as not purporting to
+deal [380 U.S. 478] with the problem. But even had the
+Federal Rules purported to do so, and in so doing
+provided a substantially less effective deterrent to strike
+suits, I think the state rule should still have prevailed.
+That is where I believe the Court's view differs from
+mine; for the Court attributes such overriding force to
+the Federal Rules that it is hard to think of a case where
+a conflicting state rule would be allowed to operate,
+even though the state rule reflected policy
+considerations which, under Erie, would lie within the
+realm of state legislative authority.
+It remains to apply what has been said to the present
+case. The Massachusetts rule provides that an executor
+need not answer suits unless in-hand service was made
+upon him or notice of the action was filed in the proper
+registry of probate within one year of his giving bond.
+The evident intent of this statute is to permit an
+executor to distribute the estate which he is
+administering without fear that further liabilities may be
+outstanding for which he could be held personally liable.
+If the Federal District Court in Massachusetts applies
+Rule 4 (d) (1) of the Federal Rules of Civil Procedure
+instead of the Massachusetts service rule, what effect
+would that have on the speed and assurance with which
+estates are distributed? As I see it, the effect would not
+be substantial. It would mean simply that an executor
+would have to check at his own house or the federal
+courthouse as well as the registry of probate before he
+could distribute the estate with impunity. As this does
+not seem enough to give rise to any real impingement
+on the vitality of the state policy which the
+Massachusetts rule is intended to serve, I concur in the
+judgment of the Court.

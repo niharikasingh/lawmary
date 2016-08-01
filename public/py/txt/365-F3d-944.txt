@@ -1,0 +1,688 @@
+Gregory and Tracey Cummings brought this suit against
+General Motors Corporation ("GM") to recover for
+injuries Mrs. Cummings sustained in an automobile
+accident involving a 1995 Pontiac Grand Am. The
+Cummings allege that Mrs. Cummings's injuries
+resulted from a flawed seat belt system and seat designed
+by GM, as well as inadequate warnings of the dangers
+inherent in the product. A jury returned a verdict in
+favor of GM, and the Cummings appeal, asserting that
+the court should have directed a verdict in their favor
+based on the evidence, and that the district court abused
+its discretion with regard to several discovery rulings.
+Approximately eight months after the trial, the
+Cummings filed a motion in the district court for relief
+under Federal Rule of Civil Procedure 60(b) based on
+alleged discovery misconduct on GM's part. The district
+[365 F.3d 947] court denied relief, and the Cummings
+appeal. We have jurisdiction under 28 U.S.C. § 1291
+over both appeals and consider them in turn below,
+affirming in all respects.
+Background
+Gregory and Tracey Cummings were involved in a car
+accident on the evening of September 13, 1998 in rural
+Carter County, Oklahoma. Mr. Cummings was driving
+a 1995 Pontiac Grand Am with his wife, Tracey, in the
+front passenger seat. Their children were in the back
+seat, with the three-month-old in a car seat behind Mrs.
+Cummings. Mr. Cummings ran a "partially obscured"
+stop sign at a T-type intersection and drove off the road,
+through a ditch, and into a field. I Aplt.App. at 191.
+Although the other passengers sustained only minor
+injuries, Mrs. Cummings sustained a compression
+fracture of the third vertebra resulting in paraplegia. I
+Aplt. Br. at 12.
+The Cummings brought this suit against GM, asserting
+that Mrs. Cummings sustained such severe injuries as a
+result of the design of the seat belt and the seat, as well
+as GM's failure to warn. Prior to trial, the parties
+engaged in multiple discovery disputes, including
+disputes over the adequacy of responses to requests for
+production, expert witness designations, depositions,
+and electronic discovery. See I Aplt.App. at 17-37. These
+disputes resulted in three motions to compel by the
+Cummings and several motions for protective orders by
+GM. The magistrate judge addressed the majority of
+these disputes in an order dated June 18, 2002, in which
+the judge denied Plaintiffs' motions, granted Defendant's
+motions for protective orders, and granted Defendant's
+their attorney's fees and costs. Id. The district court
+reviewed the Plaintiffs' motions de novo and affirmed
+the magistrate's findings in all respects. Id. at 3.
+At trial, GM countered the Cummings' claims with
+evidence that there was no defect in either the seat, the
+seat belt system, or the warning. See id. at 714-15, 725,
+865, 889-90, 1030-32. GM contended that Mrs.
+Cummings's injuries resulted not from any defect, but
+rather from a combination of the forces exerted on her
+during the accident and her position and posture at the
+time of the accident. Although the Cummings offered
+evidence that Mrs. Cummings had her seat angled back
+approximately 25 degrees, id. at 157, 524, GM's experts
+testified that she was most likely reclined at 40-45
+degrees at the time of the accident, id. at 689; sitting
+slouched in the seat, id. at 686-87, 900-02; and/or
+turned to attend to the children in the back seat, I Aplee.
+Supp.App. at 316. The Cummings argued that such a
+conclusion was impossible because there was a rearfacing
+child safety seat located behind Mrs. Cummings
+that prevented her from reclining her seat. GM offered
+evidence that the child seat was actually installed in a
+forward-facing direction at the time of the accident, thus
+allowing the front passenger seat to recline.
+At the close of all the evidence, out of the presence and
+hearing of the jury, both the Cummings and GM moved
+for judgment as a matter of law. I Aplt.App. at 1041-49.
+GM made its motion first, moving for judgment as a
+matter of law with regard to all claims, including the
+alleged defective seat, seat belt, failure to warn, and
+punitive damages claims. The Cummings responded to
+GM's contentions, and then the court directed them to
+make their motion for judgment as a matter of law.
+Counsel for the Cummings stated:
+Your Honor, I would move for judgment as a matter of law on the
+foreseeable misuse or the so-called misuse defense. [365 F.3d 948]
+Throughout the trial we have had to listen to [General Motors]
+accuse Mrs. Cummings of reclining the seat. I don't need to tell
+Your Honor. Your Honor knows foreseeable misuse is not a
+defense. No one denies that this is foreseeable misuse of a seat. No
+one denies that they built the capability into the seat to do it. They
+knew the risk, that they knew people would be injured if they did
+that. No one whatsoever denies that in this trial. This jury should
+be instructed that reclining the seat is not a defense, and that if this
+Defendant built a recliner seat that is dangerous, this Defendant
+should be held legally responsible for the consequences. That's the
+law in Oklahoma.
+Id. at 1047-48. The court denied both motions.
+The jury returned a verdict for GM, finding GM not
+liable for any design defect or failure to warn. I Aplee.
+Supp.App. at 324. The Cummings failed to make any
+motions following the return of the verdict. Id. at 327.
+The Cummings filed a timely appeal, asserting that (1)
+they were entitled to judgment as a matter of law with
+regard to liability, and (2) the trial court abused its
+discretion in its rulings on various discovery motions.
+One month after the verdict, and after filing the appeal,
+the Cummings discovered six videos of child safety seat
+acceleration tests conducted by GM and produced by
+GM in an unrelated trial. The videos show tests by GM
+involving child-sized dummies in forward-facing child
+car seats placed in the back seat. In the videos, the
+children are thrown from the car seat during various
+accident simulations. The Cummings argue the tests fall
+within their prior requests for production and would
+have demonstrated that it was impossible for Mrs.
+Cummings to have her seat fully reclined at the time of
+the accident, as their child would have been injured had
+the child been in a forward-facing child restraint.
+The Cummings did not immediately move for relief
+upon discovery of the videos. Instead, they waited seven
+months to file a motion for relief under Federal Rule of
+Civil Procedure 60(b). The district court, finding the
+motion both untimely and lacking in support, denied
+the motion, and the Cummings appeal. The appeals
+have been consolidated and are addressed jointly below.
+Discussion
+A. Preserving Appellate Review of Sufficiency of the
+Evidence
+The Cummings assert the trial court erred in not
+granting judgment in their favor, arguing that the
+"[e]vidence of defect and causation presented at trial
+entitled [them] to judgment as a matter of law." I Aplt.
+Br. at 26. GM contends that the Cummings have failed
+to preserve this issue for appeal, stating (1) the
+Cummings moved for judgment as a matter of law at the
+close of evidence only on the defense of product misuse
+and not on liability generally, and (2) the Cummings
+failed to renew their motion for judgment as a matter of
+law after the verdict. I Aplee. Br. at 5, 6.
+A party challenging the sufficiency of the evidence
+during a civil trial must make a motion for judgment as
+a matter of law before the case is submitted to the jury,
+in accordance with Federal Rule of Civil Procedure
+50(a). "If, for any reason, the court does not grant a
+motion for judgment as a matter of law made at the
+close of all the evidence, the court is considered to have
+submitted the action to the jury subject to the court's
+later deciding the legal questions raised by the motion."
+Fed.R.Civ.P. 50(b). If the court denies the motion and
+submits the case to the jury, the party may nevertheless
+renew its motion [365 F.3d 949] after the verdict if the
+jury finds for the opposing party or fails to reach a
+verdict. Id.
+Because a motion for judgment as a matter of law at the
+close of evidence and following a verdict are closely
+intertwined, we consider both in turn. A motion for
+judgment as a matter of law at the close of the evidence,
+formerly referred to as a motion for a directed verdict,
+serves several purposes. Anderson v. United Tel. Co. of
+Kan., 933 F.2d 1500, 1503 (10th Cir.1991) (collecting
+cases). A motion under Rule 50(a) protects the Seventh
+Amendment right to trial by jury. Such a motion alerts
+the opposing party to any deficiencies in the case,
+thereby giving the party an opportunity to rectify any
+deficiencies prior to the case being submitted to the jury.
+Id. A motion for judgment as a matter of law also alerts
+the court to a claim of insufficient evidence before the
+case is submitted to the jury so the court is not faced
+with such a claim after the fact when the court's ability
+to address the motion is limited. Id. Finally, a motion at
+the close of evidence preserves the issue as a question of
+law for appeal. Id.
+These purposes are met when the moving party alerts
+the court and the opposing party to the insufficiency of
+the evidence prior to submission of the case to the jury.
+Greenwood v. Societe Francaise De, 111 F.3d 1239,
+1244-45 (5th Cir.1997). Upon such a motion, the court
+"may grant a directed verdict only if the evidence points
+but one way and is susceptible to no reasonable
+inferences which may support the opposing party's
+position," with the evidence and inferences construed in
+the light most favorable to the nonmoving party.
+Q.E.R., Inc. v. Hickerson, 880 F.2d 1178, 1180 (10th
+Cir.1989). On appeal, this court reviews de novo the
+district court's denial of a motion for judgment as a
+matter of law, Cadena v. Pacesetter Corp., 224 F.3d
+1203, 1208 (10th Cir.2000), applying the same standard
+as applied in the district court, Q.E.R., 880 F.2d at 1180.
+"[W]e ... will reverse only if there is no legally sufficient
+evidentiary basis ... with respect to a claim or defense ...
+under the controlling law.'" Cadena, 224 F.3d at 1208
+(internal quotations and citations omitted).
+Where a party fails to move for judgment as a matter of
+law before the close of the evidence, however, we have
+repeatedly held that such a failure bars appellate review
+of the sufficiency of the evidence. F.D.I.C. v. United Pac.
+Ins. Co., 20 F.3d 1070, 1076 (10th Cir.1994); Green
+Constr. Co. v. Kan. Power & Light Co., 1 F.3d 1005,
+1012 (10th Cir.1993); Comcoa, Inc. v. NEC Tels., Inc.,
+931 F.2d 655, 663 n. 11 (10th Cir.1991). The motion
+must also be sufficiently certain as to the issues raised.
+Rule 50(a) requires that a motion for judgment as a
+matter of law at the close of the evidence "specify the
+judgment sought and the law and the facts on which the
+moving party is entitled to the judgment." Fed.R.Civ.P.
+50(a)(2). The motion must include all issues challenged,
+as the "failure to move for a directed verdict [now
+judgment as a matter of law] on a particular issue will
+bar appellate review of that issue." Davoll v. Webb, 194
+F.3d 1116, 1136 (10th Cir.1999).
+When determining whether a particular issue has been
+raised in a motion for judgment as a matter of law, the
+court has liberally construed such motions, Aguinaga v.
+United Food & Commercial Workers Int'l Union, 993
+F.2d 1463, 1470 (10th Cir.1993), stating that "[t]echnical
+precision is not necessary in stating grounds for the
+motion so long as the trial court is aware of the
+movant's position," United States v. Fenix & Scisson,
+Inc., 360 F.2d 260, 266 (10th Cir.1966); see also
+Anderson, 933 F.2d at 1504. While technical [365 F.3d
+950] precision is not required, "merely moving for
+directed verdict is not sufficient to preserve any and all
+issues that could have been, but were not raised in the
+directed verdict motion." United Int'l Holdings, Inc. v.
+Wharf Ltd., 210 F.3d 1207, 1229 (10th Cir.2000). Rule
+50 "does require that [the grounds for a motion] be
+stated with sufficient certainty to apprise the court and
+opposing counsel of the movant's position with respect
+to the motion." Id.
+In this case, the Cummings moved for judgment as a
+matter of law with regard to the defense of misuse only
+and requested a jury instruction on this issue. Counsel
+did not move for judgment as a matter of law with
+regard to GM's liability generally. The Cummings assert
+that the motion should be read liberally in accordance
+with Aguinaga to include the issue of liability generally.
+Although technical precision is not required, the
+moving party must adequately notify the court of the
+issues being raised in order to satisfy the purposes of the
+rule. The Plaintiffs' motion was limited to a motion for
+judgment as a matter of law on the issue of misuse, and
+therefore any appeal is so limited. See Dilley v.
+SuperValu, Inc., 296 F.3d 958, 962 (10th Cir.2002);
+Smith v. Northwest Fin. Acceptance, Inc., 129 F.3d
+1408, 1415-16 (10th Cir.1997); United Pac. Ins., 20 F.3d
+at 1076. Beyond the issue of foreseeable misuse, we are
+limited to review for "`plain error constituting a
+miscarriage of justice.'" Dilley, 296 F.3d at 962 (quoting
+First Sec. Bank v. Taylor, 964 F.2d 1053, 1057 (10th
+Cir.1992)); see also Smith, 129 F.3d at 1416.
+GM also asserts that the Cummings' failure to renew
+their motion after the verdict results in a waiver. While
+true in most circuits,1 under Tenth Circuit precedent,
+even where a party fails to make a post-verdict motion
+for judgment as a matter of law, it is not barred from
+appealing the issue of the sufficiency of the evidence, at
+least where an appropriate motion has been made prior
+to the submission of the case to the jury. See Morrison
+Knudsen Corp. v. Fireman's Fund Ins. Co., 175 F.3d
+1221, 1246 (10th Cir.1999) (holding such a failure does
+not bar appellant "from appealing the issue of the
+sufficiency of the [365 F.3d 951] evidence"); Marshall v.
+El Paso Natural Gas Co., 874 F.2d 1373, 1385 (10th
+Cir.1989) (holding "failure to move for judgment
+notwithstanding the verdict does not bar an appeal");
+Hansen v. Vidal, 237 F.2d 453, 454 (10th Cir.1956)
+(holding motion for judgment as a matter of law not a
+"condition precedent to appeal from a final judgment").
+Thus the Cummings' failure to move for judgment as a
+matter of law following the adverse jury verdict does not
+bar their appeal regarding the sufficiency of the evidence
+to support the misuse defense.
+In the absence of a Rule 50(b) motion, however, we are
+limited in the relief we may grant. The Supreme Court
+has repeatedly noted that in the absence of a motion for
+judgment as a matter of law following an adverse jury
+verdict "made in the trial court within ten days after
+reception of a verdict [, Rule 50(b)] forbids the trial
+judge or an appellate court to enter such a judgment."
+Johnson, 344 U.S. at 50, 73 S.Ct. 125; see also Globe
+Liquor Co. v. San Roman, 332 U.S. 571, 574, 68 S.Ct.
+246, 92 L.Ed. 177 (1948); Cone v. W. Va. Pulp & Paper
+Co., 330 U.S. 212, 218, 67 S.Ct. 752, 91 L.Ed. 849 (1947)
+(holding appellate court is "without power to direct the
+District Court to enter judgment contrary to the one it
+had permitted to stand"). Thus, "[t]his court has no
+authority to direct a verdict contrary to that of the trial
+court where, as here, the complaining party has not
+given the trial court an opportunity to first correct its
+own error." Fortier v. Dona Anna Plaza Partners, 747
+F.2d 1324, 1334 (10th Cir.1984). In this situation, the
+only remedy available is a new trial. Johnson, 344 U.S. at
+50-51, 73 S.Ct. 125; Morrison Knudsen, 175 F.3d at
+1246; Fortier, 747 F.2d at 1334.
+As to whether the court should have granted the
+Cummings judgment as a matter of law with regard to
+GM's liability generally, because the Cummings' Rule
+50(a) motion was limited to the issue of GM's misuse
+defense, we review the sufficiency of the evidence only
+for plain error constituting a miscarriage of justice. In
+addition, we are limited to determining whether a new
+trial is required, as we are without power to grant
+judgment in the Cummings' favor. As noted previously,
+judgment as a matter of law is appropriate only "if the
+evidence points but one way and is susceptible to no
+reasonable inferences which may support the opposing
+party's position." Davis v. United States Postal Serv., 142
+F.3d 1334, 1339 (10th Cir.1998) (internal quotations and
+citations omitted). "This stringent standard of review is
+further heightened under plain error review, which has
+been limited to errors which seriously affect the fairness,
+integrity or public reputation of judicial proceedings."
+Dilley, 296 F.3d at 963 (internal quotations and citations
+omitted). After a thorough review of the record in this
+case, we find nothing that rises to the level of such a
+miscarriage of justice. Therefore we conclude the
+district court did not commit plain error in allowing the
+Cummings' products liability claims to go to the jury.
+We review the district court's denial of the Cummings'
+motion for judgment as a matter of law as to GM's
+defense of misuse de novo, although as above noted we
+are limited to determining whether the Cummings are
+entitled to a new trial. Under Oklahoma law, to establish
+a manufacturer's product liability, a plaintiff must prove
+that (1) "the product was the cause of the injury," (2) the
+defect existed in the product "at the time the product left
+the manufacturer's possession and control," and (3) "the
+defect made the article unreasonably dangerous."
+Kirkland v. Gen. Motors Corp., 521 P.2d 1353, 1363
+(Okla.1975). However, where a plaintiff is using [365
+F.3d 952] a product for a purpose for which it was not
+intended, and is injured, the plaintiff may not recover.
+Id. at 1366. Misuse of a product is a "defense subject to
+being pleaded and proved by defendant." Stewart v.
+Scott-Kitz Miller Co., 626 P.2d 329, 331
+(Okla.App.1981). "Abnormal or misuse of a product
+occurs where the method of using a product is not that
+which the maker intended or is a use that could not
+reasonably be anticipated by a manufacturer." Treadway
+v. Uniroyal Tire Co., 766 P.2d 938, 941 (Okla.1988).
+Oklahoma has drawn a distinction between "use for an
+abnormal purpose" or misuse, and "use for a proper
+purpose but in a careless manner." Id. Use for a proper
+purpose but in a careless manner is considered
+contributory negligence, id., and contributory
+negligence is not a defense to a products liability claim,
+Fields v. Volkswagen of Am., Inc., 555 P.2d 48, 56
+(Okla.1976).
+Although GM's main defense was that there was no
+defect in the seat or seat restraint system, GM also
+asserted that Mrs. Cummings's injuries may have
+resulted from either her posture or position at the time
+of the accident. GM presented evidence that Mrs.
+Cummings was reclined in her seat and that the injury
+resulted due to her position at the time of the accident.
+GM presented evidence of a warning in the owner's
+manual against such use, which contained a picture of a
+person reclined and a warning that "[e]ven if you buckle
+up, your safety belts can't do their job when you're
+reclined like this." I Aplt.App. at 809. The experts
+testified that riding with the seat reclined was not an
+advised use of the seat given the warning and safety
+concerns, id. at 406-07, and that the seat reclined for
+uses while the car was parked rather than moving, id. at
+760-61, 998. The Cummings countered with evidence
+that such a use was foreseeable by manufacturers. I
+Aplee. Supp.App. at 319. The Cummings' own
+statements were that such a use was "unsafe" and that
+Mrs. Cummings would never ride in this position. Id. at
+154.
+A motion for judgment as a matter of law at the close of
+the evidence may only be granted if "the evidence points
+but one way and is susceptible to no reasonable
+inferences which may support the opposing party's
+position." Q.E.R., 880 F.2d at 1180. Construing the
+evidence and inferences in the light most favorable to
+GM, and refraining "from weighing the evidence,
+passing on the credibility of witnesses, or substituting
+our judgment for that of the jury," Brown v. Wal-Mart
+Stores, Inc., 11 F.3d 1559, 1563 (10th Cir.1993), we find
+there was evidence supporting both parties' positions,
+and consequently the court did not err in denying the
+motion for judgment as a matter of law and submitting
+the issue to the jury.
+B. Discovery Rulings
+With regard to the Cummings' appeal of the trial court's
+discovery rulings, we discern three main arguments: (1)
+GM failed to respond adequately to requests for
+discovery; (2) GM withheld names and locations of
+persons responsible for the design and implementation
+of the seat system; and (3) GM failed timely to produce
+research, development, and testing, including the failure
+to provide access to GM's databases. I Aplt. Br. at 39-40.
+The district court has broad discretion over the control
+of discovery, and we will not set aside discovery rulings
+absent an abuse of that discretion. GWN Petroleum
+Corp. v. OK-Tex Oil & Gas, Inc., 998 F.2d 853, 858
+(10th Cir.1993). This standard of review applies equally
+to the denial of a motion to compel, Motley v. Marathon
+Oil Co., 71 F.3d 1547, 1550 (10th Cir.1995) (noting a
+denial of a motion to compel discovery will not be
+disturbed [365 F.3d 953] absent an abuse of discretion),
+and the grant of a protective order, Kidd v. Taos Ski
+Valley, Inc., 88 F.3d 848, 853 (10th Cir.1996) ("The
+decision of a district court to enter a protective order
+under Rule 26(c) is reviewed for an abuse of
+discretion."). Under this standard, "we will not disturb a
+trial court's decision absent a definite and firm
+conviction that the lower court made a clear error of
+judgment or exceeded the bounds of permissible choice
+in the circumstances." Id. (internal quotations and
+citations omitted). Such an abuse will occur only when
+the judge renders "an arbitrary, capricious, whimsical, or
+manifestly unreasonable" judgment. Coletti v. Cudd
+Pressure Control, 165 F.3d 767, 777 (10th Cir.1999)
+(internal quotations and citations omitted).
+We do not find such an abuse of discretion in this case.
+The Cummings assert that GM abused the discovery
+process and failed to adequately respond to discovery
+requests, yet they fail to point to anything in the record
+to support this proposition. We agree with the district
+court's conclusion that "numerous miscommunications
+and unnecessary disputes have been caused by Plaintiffs'
+failure to frame precise discovery requests and notices in
+accordance with the provisions of the rules." I Aplt.App.
+at 24.
+We similarly find no support for the Cummings'
+assertion that GM failed to provide the names and
+locations of persons, including a Mr. Zurkiwskyj,
+responsible for the design and implementation of the
+seat system. GM provided several representatives from
+the company to be deposed under Rule 30(b)(6) on the
+issues of the seat design, seat restraint system, and the
+All-Belts-To-Seats design. I Aplt.App. at 27-28, 30. The
+Cummings cannot place the blame on GM for their own
+failure to depose the designated representatives.
+To the extent the Cummings attempted to depose
+specific individuals, their service of notice to GM was in
+error. Under Federal Rule of Civil Procedure 30(b)(6), a
+party may issue a notice of intent to take a deposition to
+an organization, and then the organization shall
+designate "one or more officers, directors or managing
+agents, or other persons who consent to testify on its
+behalf." The corporate entity itself designates the
+representative. Id. To the extent a party wants to
+subpoena an individual of its choice for a deposition, it
+must do so under Rule 30(a)(1), which states that a party
+"may take the testimony of any person, including a
+party, by deposition upon oral examination without
+leave of court." Rule 30(a) allows the Cummings to take
+the deposition of nonparty witnesses, including
+employees. "Except where the employee has been
+designated by the corporation under Rule 30(b)(6), an
+employee is treated in the same way as any other
+witness. His or her presence must be obtained by
+subpoena rather than by notice...." 8A Wright, Miller &
+Marcus, Federal Practice and Procedure Civ.2d § 2103.
+Mr. Zurkiwskyj's attendance must be compelled as any
+other nonparty witness-by subpoena. Fed.R.Civ.P. 45.
+The Cummings' reliance on Rule 26 is similarly
+misplaced. The magistrate ruled the newest version of
+Rule 26 would govern in this case, including the 2000
+amendments, I Aplt.App. at 26 n. 5, and the Cummings
+did not object to this holding. Under the 2000
+amendments, a party's "initial disclosure obligation ...
+has been narrowed." Fed.R.Civ.P. 26 advisory
+committee's note, 2000 amends. Rule 26(a)(1) only
+requires automatic disclosure of "the name and, if
+known, the address and telephone number of each
+individual likely to have discoverable information that
+the disclosing party may use to support its claims or
+defenses." Fed.R.Civ.P. 26(a)(1)(A). [365 F.3d 954]
+Under this rule, a party is not obligated "to disclose
+witnesses or documents, whether favorable or
+unfavorable, that it does not intend to use." Fed.R.Civ.P.
+26 advisory committee's note, 2000 amends.; see Gluck
+v. Ansett Austl. Ltd., 204 F.R.D. 217, 221-22
+(D.D.C.2001) (holding under the new version of Rule 26
+that the opposing party was not required to produce
+information with regard to potential witnesses because
+"the essential inquiry is whether the disclosing party
+intends to use the witness.").
+Finally, we find no abuse of discretion in the denial of
+the motion to compel access to GM's databases and the
+grant of a protective order to GM. As noted by the
+magistrate judge, "Plaintiffs' proposed computer
+database searches are overly broad in scope, duplicative
+of prior requests and unduly burdensome." I Aplt.App.
+at 35. "It is the unusual or exceptional case where the
+reviewing court will vacate a protective order entered
+by a trial court under Fed.R.Civ.P. 26(c)," In re
+Coordinated Pretrial Proceedings in Petroleum Prods.
+Antitrust Litig., 669 F.2d 620, 623 (10th Cir.1982), and
+there is no support for such a conclusion in this case.
+Rather than an abuse of discretion, the record reveals a
+thorough and reasoned disposition on the part of the
+court, especially given the multiple motions before the
+court and the breakdown of communication between
+the parties.
+C. Rule 60(b) Motion
+Federal Rule of Civil Procedure 60(b) provides that
+"[o]n motion and upon such terms as are just, the court
+may relieve a party or a party's legal representative from
+a final judgment, order or proceeding for ... fraud ...,
+misrepresentation, or other misconduct of an adverse
+party." We review a district court's denial of a Rule
+60(b) motion for an abuse of discretion. Amoco Oil Co.
+v. EPA, 231 F.3d 694, 697 (10th Cir.2000); see also
+Stubblefield v. Windsor Capital Group, 74 F.3d 990, 994
+(10th Cir.1996) (collecting cases). In undertaking such a
+review, we are guided by the principle that "[r]elief
+under Rule 60(b) is extraordinary and may only be
+granted in exceptional circumstances." Bud Brooks
+Trucking, Inc. v. Bill Hodges Trucking Co., 909 F.2d
+1437, 1440 (10th Cir.1990).
+1. Timeliness of Rule 60(b) Motion
+In denying the Cummings' Rule 60(b) motion, the
+district court relied in part on counsel's delay in filing
+the motion. II Aplt. Br., Att. 1 at 3-4. Rule 60 requires
+that such a motion be "made within a reasonable time,
+and for reasons (1), (2), and (3) not more than one year
+after the judgment, order, or proceeding was entered or
+taken." Fed.R.Civ.P. 60(b). Because the Cummings have
+argued misconduct under Rule 60(b)(3), the motion
+must have been filed within a "reasonable time," and not
+more than a year after the judgment.
+The Cummings filed the Rule 60(b) motion within a
+year of the judgment. However, "[a] motion is not
+timely merely because it has been filed within one year
+of the judgment." White v. Am. Airlines, Inc., 915 F.2d
+1414, 1425 (10th Cir.1990). The Cummings waited
+seven months after discovery of the tests to file the
+motion. This court has upheld several Rule 60(b) denials
+based on delay where the motion was nevertheless filed
+prior to the one year deadline. See White, 915 F.2d at
+1425 (finding motion untimely where delay of almost a
+year with only justification that party needed time to
+raise a defense); Sec. Mutual Cas. Co. v. Century Cas.
+Co., 621 F.2d 1062, 1067-68 (10th Cir.1980) (finding
+motion untimely where unexplained delay of 115 days
+after [365 F.3d 955] received notice of grounds for
+motion). Where a party delays in filing a Rule 60(b)
+motion after discovery of the grounds for the motion, it
+must offer sufficient justification for the delay. White,
+915 F.2d at 1425. The Cummings argue their motion
+was presented in a "reasonable time in light of their
+numerous attempts at securing relief through other
+procedural channels." II Aplt. Br. at 20. However, the
+Cummings fail to explain what "other procedural
+channels" were explored. Id. at 20-21. They also state
+that they did not want to rush for relief "lest they risk
+the imposition of sanctions" under Rule 11. Id. at 21.
+Although it is true Rule 11 imposes a duty on attorneys
+to conduct "a reasonable inquiry" into the facts and law
+prior to signing any pleading filed with the court,
+Cooter & Gell v. Hartmarx Corp., 496 U.S. 384, 392, 110
+S.Ct. 2447, 110 L.Ed.2d 359 (1990), the Cummings do
+not explain why seven months were needed to conduct
+such an inquiry. They merely assert that, given the
+extraordinary nature of the remedy under Rule 60, they
+did not want to rush into filing such a motion. Such an
+assertion, without more, is insufficient to justify the
+delay. See White, 915 F.2d at 1425 (concluding party's
+asserted need for more time to assess defense was
+insufficient justification for delay). Given this court's
+precedent, and the failure of the Cummings to offer
+sufficient justification for the delay, it was not an abuse
+of the court's discretion to consider the Cummings'
+delay in denying the motion.
+2. Denial of Rule 60(b) Motion on Merits
+In addition to finding the motion untimely, the district
+court concluded that the motion should be denied "more
+importantly, because the plaintiffs have failed to
+establish misconduct by GMC." II Aplt. Br., Att. 1 at 4.
+As noted above, "[r]elief under Rule 60(b) is
+extraordinary and may only be granted in exceptional
+circumstances." Bud Brooks, 909 F.2d at 1440. Parties
+seeking relief under Rule 60(b) have a higher hurdle to
+overcome because such a motion is not a substitute for
+an appeal. Id. Given the lower court's discretion, the
+district court's ruling is only reviewed to determine if a
+"definite, clear or unmistakable error occurred below."
+Amoco Oil Co., 231 F.3d at 697. The burden is on the
+moving party, Wilkin v. Sunbeam Corp., 466 F.2d 714,
+717 (10th Cir.1972), and they must show "clear and
+convincing proof" of fraud, misrepresentation, or
+misconduct, Anderson v. Dep't of Health & Human
+Servs., 907 F.2d 936, 952 (10th Cir.1990); Yapp v. Excel
+Corp., 186 F.3d 1222, 1231 (10th Cir.1999). The
+application must be "clearly substantiated by adequate
+proof," Wilkin, 466 F.2d at 717, and the challenged
+behavior must substantially have interfered with the
+aggrieved party's ability fully and fairly to prepare for
+and proceed at trial." Woodworker's Supply, Inc. v.
+Principal Mut. Life Ins. Co., 170 F.3d 985, 993 (10th
+Cir.1999)(internal quotation marks and citations
+omitted).
+Failure to disclose information requested during
+discovery may constitute "misconduct" under Rule
+60(b)(3). Woodworker's Supply, Inc. v. Principal Mut.
+Life Ins. Co., 170 F.3d 985, 993 (10th Cir.1999).
+However, the Cummings have failed to provide clear
+and convincing evidence that GM's failure to disclose
+the videos in this case constitutes misconduct. The
+Cummings assert that the videos in question show
+"infant-sized crash dummies squirt[ing] out of their
+safety seats in simulated accidents similar to that
+suffered by the Cummings," II Aplt. Br. at 6; they argue
+such evidence would have been crucial in countering
+GM's defense, as the videos show that a scenario
+involving a forward facing child seat would have
+resulted in injury to the infant in this case. GM counters
+that the videos are irrelevant, as they involve child
+dummies ages [365 F.3d 956] three and above, in
+dissimilar car seats, in dissimilar cars. II Aplee. Br. at 14-
+15.
+Even assuming the videos were relevant, GM was under
+no duty to produce the videos given the requests for
+production in this case. Plaintiffs offer various requests
+for production and a subpoena duces tecum, arguing the
+tests fall within the requested documents. However, the
+requests are either overly broad or focus solely on the
+"seat, shoulder anchorages, seat bottom/pan, the seat
+back, the seat belt anchorages and seat belt angles." II
+Aplt.App. at 123-24. The Cummings have failed to point
+to any discovery requests that would encompass the
+videos in question.
+This is particularly true given that the scope of the
+discovery in this case was limited to 1992-1998 N-cars,
+which included the 1995 Pontiac Grand Am. The
+magistrate judge stated during discovery that
+"[i]nformation about "N" cars that do not share
+pertinent designs and component parts with the car
+model at issue would not be relevant to the claims and
+defenses in this case." I Aplee. Br. at 18 (quoting I
+Aplt.App. at 34). Given the scope of discovery set forth
+by the district court, it does not appear the failure to
+produce the videos in response to the Cummings'
+discovery requests was "misconduct" on the part of GM.
+The Cummings point to two cases, Anderson v.
+Cryovac, Inc., 862 F.2d 910, 925-26 (1st Cir.1988), and
+Rozier v. Ford Motor Co., 573 F.2d 1332, 1339 (5th
+Cir.1978), to support their argument that GM's conduct
+constituted "misconduct." We are unpersuaded. The
+particular documents at issue in those cases were clearly
+requested during discovery. In Anderson, the court
+specifically found that "[e]ach and all of these Rule 34
+demands, fairly read, necessitated divulgement of the
+Report." 862 F.2d at 928. In Rozier, the court
+determined that "[b]y any fair reading, the district
+court's ... discovery order called for production of this
+Trend Cost Estimate." 573 F.2d at 1339. These cases
+merely stand for the principle that the failure to disclose
+in response to a request for production, where proven
+with clear and convincing evidence, may constitute
+misconduct under Rule 60(b)(3).
+We similarly find lacking the Cummings' argument that
+GM was required to disclose the video tapes under
+Federal Rule of Civil Procedure 26. To the extent the
+Cummings argue GM is required to automatically
+produce any document "relevant" to the disputed facts at
+issue in this case, see II Aplee. Br. at 10-11, as discussed
+above, their reference to the prior version of the rule is
+inappropriate. Rule 26(a)(1) requires that parties make
+initial disclosures of "all documents, data compilations,
+and tangible things that are in the possession, custody,
+or control of the party and that the disclosing party may
+use to support its claim or defenses, unless solely for
+impeachment." Fed.R.Civ.P. 26(a)(1)(B). Under the
+applicable version of the rule, GM was not required to
+automatically disclose documents that it did not intend
+to use. Id., advisory committee's note, 2000 amends.
+Although a party "may obtain discovery regarding any
+matter, not privileged, that is relevant to the claim or
+defense of any party" under Federal Rule of Civil
+Procedure 26(b)(1), it is the party's own responsibility to
+seek such discovery through depositions and
+interrogatories.
+The Cummings argue that "the letter and the spirit of
+the federal rules" require a new trial in this case. II Aplt.
+Br. at 22. The policies of full and fair disclosure,
+however, do not relieve them of their burden to prove
+misconduct. The district court concluded that the
+Cummings failed to satisfy this burden. Given the
+extraordinary nature of this remedy, and the lack [365
+F.3d 957] of support for the motion, this conclusion was
+not an abuse of discretion. All outstanding motions are
+denied.
+AFFIRMED.

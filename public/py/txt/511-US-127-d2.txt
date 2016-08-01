@@ -1,0 +1,244 @@
+Today's opinion is an inspiring demonstration of how
+thoroughly up-to-date and right-thinking we Justices
+are in matters pertaining to the sexes (or as the Court
+would have it, the genders), and how sternly we
+disapprove the male chauvinist attitudes of our
+predecessors. The price to be paid for this display—a
+modest price, surely—is that most of the opinion is quite
+irrelevant to the case at hand. The hasty reader will be
+surprised to learn, for example, that this lawsuit
+involves a complaint about the use of peremptory
+challenges to exclude men from a petit jury. To be sure,
+[511 U.S. 157] petitioner, a man, used all but one of his
+peremptory strikes to remove women from the jury (he
+used his last challenge to strike the sole remaining male
+from the pool), but the validity of his strikes is not
+before us. Nonetheless, the Court treats itself to an
+extended discussion of the historic exclusion of women
+not only from jury service, but also from service at the
+bar (which is rather like jury service, in that it involves
+going to the courthouse a lot). See ante, at 131— 136. All
+this, as I say, is irrelevant, since the case involves state
+action that allegedly discriminates against men. The
+parties do not contest that discrimination on the basis of
+sex1 is subject to what our cases call "heightened
+scrutiny," and the citation of one of those cases
+(preferably one involving men rather than women, see,
+e. g., Mississippi Univ. for Women v. Hogan, 458 U.S.
+718, 723-724 (1982)) is all that was needed.
+The Court also spends time establishing that the use of
+sex as a proxy for particular views or sympathies is
+unwise and perhaps irrational. The opinion stresses the
+lack of statistical evidence to support the widely held
+belief that, at least in certain types of cases, a juror's sex
+has some statistically significant predictive value as to
+how the juror will behave. See ante, at 137-139, and n.
+9. This assertion seems to place the Court in opposition
+to its earlier Sixth Amendment "fair cross-section" cases.
+See, e. g., Taylor v. Louisiana, 419 U.S. 522, 532, n. 12
+(1975) ("Controlled studies . . . have concluded that
+women bring to juries their own perspectives and values
+that influence both jury deliberation [511 U.S. 158] and
+result"). But times and trends do change, and unisex is
+unquestionably in fashion. Personally, I am less inclined
+to demand statistics, and more inclined to credit the
+perceptions of experienced litigators who have had
+money on the line. But it does not matter. The Court's
+fervent defense of the proposition iln'ya pasde différence
+entre les hommes et les femmes (it stereotypes the
+opposite view as hateful "stereotyping") turns out to be,
+like its recounting of the history of sex discrimination
+against women, utterly irrelevant. Even if sex was a
+remarkably good predictor in certain cases, the Court
+would find its use in peremptories unconstitutional. See
+ante, at 139, n. 11; cf. ante , at 148-149 (O'Connor, J.,
+concurring).
+Of course the relationship of sex to partiality would
+have been relevant if the Court had demanded in this
+case what it ordinarily demands: that the complaining
+party have suffered some injury. Leaving aside for the
+moment the reality that the defendant himself had the
+opportunity to strike women from the jury, the
+defendant would have some cause to complain about the
+prosecutor's striking male jurors if male jurors tend to
+be more favorable toward defendants in paternity suits.
+But if men and women jurors are (as the Court thinks)
+fungible, then the only arguable injury from the
+prosecutor's "impermissible" use of male sex as the basis
+for his peremptories is injury to the stricken juror, not
+to the defendant. Indeed, far from having suffered harm,
+petitioner, a state actor under our precedents, see
+Georgia v. McCollum, 505 U.S. 42, 50-51 (1992); cf.
+Edmonson v. Leesville Concrete Co., 500 U.S. 614, 626-
+627 (1991), has himself actually inflicted harm on female
+jurors.2 The Court today [511 U.S. 159] presumably
+supplies petitioner with a cause of action by applying the
+uniquely expansive third-party standing analysis of
+Powers v. Ohio, 499 U.S. 400, 415 (1991), according
+petitioner a remedy because of the wrong done to male
+jurors. This case illustrates why making restitution to
+Paul when it is Peter who has been robbed is such a bad
+idea. Not only has petitioner, by implication of the
+Court's own reasoning, suffered no harm, but the
+scientific evidence presented at trial established
+petitioner's paternity with 99.92% accuracy. Insofar as
+petitioner is concerned, this is a case of harmless error if
+there ever was one; a retrial will do nothing but divert
+the State's judicial and prosecutorial resources, allowing
+either petitioner or some other malefactor to go free.
+The core of the Court's reasoning is that peremptory
+challenges on the basis of any group characteristic
+subject to heightened scrutiny are inconsistent with the
+guarantee of the Equal Protection Clause. That
+conclusion can be reached only by focusing
+unrealistically upon individual exercises of the
+peremptory challenge, and ignoring the totality of the
+practice. Since all groups are subject to the peremptory
+challenge (and will be made the object of it, depending
+upon the nature of the particular case) it is hard to see
+how any group is denied equal protection. See id., at
+423-424 (Scalia, J., dissenting); Batson v. Kentucky, 476
+U.S. 79, 137-138 (1986) (Rehnquist, J., dissenting). That
+explains why peremptory challenges coexisted with the
+Equal Protection Clause for 120 years. This case is a
+perfect example of how the system as a whole is
+evenhanded. While the only claim before the Court is
+petitioner's complaint that the prosecutor struck male
+jurors, for every man [511 U.S. 160] struck by the
+government petitioner's own lawyer struck a woman.
+To say that men were singled out for discriminatory
+treatment in this process is preposterous. The situation
+would be different if both sides systematically struck
+individuals of one group, so that the strikes evinced
+groupbased animus and served as a proxy for segregated
+venire lists. See Swain v. Alabama, 380 U.S. 202, 223-
+224 (1965). The pattern here, however, displays not a
+systemic sex-based animus but each side's desire to get a
+jury favorably disposed to its case. That is why the
+Court's characterization of respondent's argument as
+"reminiscent of the arguments advanced to justify the
+total exclusion of women from juries," ante, at 138, is
+patently false. Women were categorically excluded from
+juries because of doubt that they were competent;
+women are stricken from juries by peremptory
+challenge because of doubt that they are well disposed to
+the striking party's case. See Powers, supra, at 424
+(Scalia, J., dissenting). There is discrimination and
+dishonor in the former, and not in the latter—which
+explains the 106-year interlude between our holding
+that exclusion from juries on the basis of race was
+unconstitutional, Strauder v. West Virginia, 100 U.S.
+303 (1880), and our holding that peremptory challenges
+on the basis of race were unconstitutional, Batson v.
+Kentucky, supra .
+Although the Court's legal reasoning in this case is
+largely obscured by anti-male-chauvinist oratory, to the
+extent such reasoning is discernible it invalidates much
+more than sexbased strikes. After identifying unequal
+treatment (by separating individual exercises of
+peremptory challenge from the process as a whole), the
+Court applies the "heightened scrutiny" mode of equal
+protection analysis used for sexbased discrimination,
+and concludes that the strikes fail heightened scrutiny
+because they do not substantially further an important
+government interest. The Court says that the only
+important government interest that could be served by
+peremptory strikes is "securing a fair and impartial [511
+U.S. 161] jury," ante, at 137, and n. 8.3 It refuses to accept
+respondent's argument that these strikes further that
+interest by eliminating a group (men) which may be
+partial to male defendants, because it will not accept any
+argument based on "`the very stereotype the law
+condemns.' " Ante, at 138 (quoting Powers, 499 U. S., at
+410). This analysis, entirely eliminating the only
+allowable argument, implies that sexbased strikes do not
+even rationally further a legitimate government interest,
+let alone pass heightened scrutiny. That places all
+peremptory strikes based on any group characteristic at
+risk, since they can all be denominated "stereotypes."
+Perhaps, however (though I do not see why it should be
+so), only the stereotyping of groups entitled to
+heightened or strict scrutiny constitutes "the very
+stereotype the law condemns"—so that other
+stereotyping (e. g., wide-eyed blondes and football
+players are dumb) remains OK. Or perhaps when the
+Court refers to "impermissible stereotypes," ante, at 139,
+n. 11, it means the adjective to be limiting rather than
+descriptive—so that we can expect to learn from the
+Court's peremptory/stereotyping jurisprudence in the
+future which stereotypes the Constitution frowns upon
+and which it does not.
+Even if the line of our later cases guaranteed by today's
+decision limits the theoretically boundless Batson
+principle to race, sex, and perhaps other classifications
+subject to heightened scrutiny (which presumably would
+include religious belief, see Larson v. Valente, 456 U.S.
+228, 244-246 (1982)), much damage has been done. It
+has been done, first and foremost, to the peremptory
+challenge system, which [511 U.S. 162] loses its whole
+character when (in order to defend against
+"impermissible stereotyping" claims) "reasons" for
+strikes must be given. The right of peremptory
+challenge "`is, as Blackstone says, an arbitrary and
+capricious right; and it must be exercised with full
+freedom, or it fails of its full purpose.' " Lewis v. United
+States, 146 U.S. 370, 378 (1892), quoting Lamb v. State,
+36 Wis. 424, 427 (1874). See also Lewis, supra, at 376;
+United States v. Marchant, 12 Wheat. 480, 482 (1827)
+(Story, J.); 4 W. Blackstone, Commentaries *353. The
+loss of the real peremptory will be felt most keenly by
+the criminal defendant, see Georgia v. McCollum, 505
+U.S. 42 (1992), whom we have until recently thought
+"should not be held to accept a juror, apparently
+indifferent, whom he distrusted for any reason or for no
+reason." Lamb, supra, at 426. And make no mistake
+about it: there really is no substitute for the peremptory.
+Voir dire (though it can be expected to expand as a
+consequence of today's decision) cannot fill the gap. The
+biases that go along with group characteristics tend to be
+biases that the juror himself does not perceive, so that it
+is no use asking about them. It is fruitless to inquire of a
+male juror whether he harbors any subliminal prejudice
+in favor of unwed fathers.
+And damage has been done, secondarily, to the entire
+justice system, which will bear the burden of the
+expanded quest for "reasoned peremptories" that the
+Court demands. The extension of Batson to sex, and
+almost certainly beyond, cf. Batson, 476 U. S., at 124
+(Burger, C. J., dissenting), will provide the basis for
+extensive collateral litigation, which especially the
+criminal defendant (who litigates full time and cost free)
+can be expected to pursue. While demographic reality
+places some limit on the number of cases in which racebased
+challenges will be an issue, every case contains a
+potential sex-based claim. Another consequence, as I
+have mentioned, is a lengthening of the voir dire
+process that already burdens trial courts.
+[511 U.S. 163] The irrationality of today's strike-by-strike
+approach to equal protection is evident from the
+consequences of extending it to its logical conclusion. If
+a fair and impartial trial is a prosecutor's only legitimate
+goal; if adversarial trial stratagems must be tested against
+that goal in abstraction from their role within the
+system as a whole; and if, so tested, sex-based stratagems
+do not survive heightened scrutiny—then the prosecutor
+presumably violates the Constitution when he selects a
+male or female police officer to testify because he
+believes one or the other sex might be more convincing
+in the context of the particular case, or because he
+believes one or the other might be more appealing to a
+predominantly male or female jury. A decision to stress
+one line of argument or present certain witnesses before
+a mostly female jury—for example, to stress that the
+defendant victimized women—becomes, under the
+Court's reasoning, intentional discrimination by a state
+actor on the basis of gender.
+* * *
+In order, it seems to me, not to eliminate any real denial
+of equal protection, but simply to pay conspicuous
+obeisance to the equality of the sexes, the Court imperils
+a practice that has been considered an essential part of
+fair jury trial since the dawn of the common law. The
+Constitution of the United States neither requires nor
+permits this vandalizing of our people's traditions.
+For these reasons, I dissent.

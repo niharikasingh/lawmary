@@ -1,0 +1,126 @@
+I cannot agree that, as maintained in Part I of the
+majority opinion, the counterclaim relating to the
+Stelma job was compulsory under F.R.Civ.P. 13(a). Of
+course, it is tempting to stretch a point when a
+jurisdictional objection is so belatedly raised by the very
+party who clamored for the exercise of jurisdiction until
+the decision went against it. But we must consider the
+question as if Heyward had not pleaded the Stelma
+counterclaim and proceeded to sue D'Agostino in some
+other court for failure to perform that subcontract, and
+D'Agostino then claimed that Heyward's failure to bring
+the Stelma transaction into this Miller Act suit barred
+the later action. Despite the desirability of requiring that
+all claims which in fact arise "out of the transaction or
+occurrence that is the subject matter of the opposing
+party's claim" be litigated in a single action, courts must
+be wary of extending these words in a way that could
+cause unexpectedly harsh results.
+Even on a liberal notion of "logical relation," see C.
+Wright, Federal Courts, § 79 at 346-47 (2d ed. 1970), I
+am unable to perceive how Heyward's claim for breach
+of the Stelma subcontract arose "out of the transaction
+or occurrence" to wit, the Navy subcontract, that was
+the subject matter of D'Agostino's Miller Act claim.
+Whatever historical interest there may be in the
+circumstances that the two subcontracts were entered
+into between the same parties for the same type of work
+and were carried on during substantially the same
+period, these facts seem to me to be lacking in legal
+significance. So likewise do D'Agostino's having
+furnished a single insurance policy to cover both jobs
+and Heyward's having cancelled the subcontracts in one
+letter rather than two. The boiler-plate in each
+subcontract, whereby "if one or more other contracts,
+now or hereafter, exist between the parties," a breach of
+any such contract by D'Agostino might, at Heyward's
+option, be considered a breach of the contract at issue
+and Heyward might terminate any or all contracts so
+breached and withhold moneys due on any contract and
+apply these to damages on any other, might meet the
+[430 F.2d 1088] test if Heyward had availed itself of these
+rights, but it did not.
+All that is left is that, as the trial proceeded, it turned out
+that some of Heyward's payments were not earmarked
+as between the two subcontracts. However, the
+determination whether a counterclaim is compulsory
+must be made at the pleading stage. The complaint was
+specific on how much Heyward owed on the Navy
+subcontract, and the counterclaims were equally so on
+how much D'Agostino owed for failure to complete this
+and how much it owed for failure to complete the
+Stelma subcontract. To say that the failure to earmark
+some payments made it impossible to try the claims
+separately ignores the law on application of payments. If
+Heyward did not specify the application of its payments,
+as it could, and D'Agostino had not made an application
+of them, as it could in default of specification by
+Heyward, the court would do this. Williston, Contracts,
+§§ 1795, 1796, 1800 (rev. ed. 1938).
+Against all this appellee relied heavily on Southern
+Construction Co. v. Pickard, 371 U.S. 57, 83 S.Ct. 108, 9
+L.Ed.2d 31 (1962). Since the counterclaim there at issue
+was held not compulsory, the decision can scarcely be
+authority that a claim like Heyward's on the Stelma
+subcontract was. I think it not only is not such authority
+but points just the other way. The Court there held that
+where a subcontractor on two federal projects was
+obliged to bring Miller Act suits in different districts
+because of venue requirements, the contractor was not
+obliged to counterclaim for an unallocated payment in
+the first suit. I do not see how the Court could have
+reached a different result if the subcontractor had one
+Miller Act subcontract and another in which he could
+sue only in a state or a different federal district court.
+Nevertheless I think the court below had jurisdiction of
+the Stelma counterclaim. I would now reject the
+conventional learning, which I followed too readily in
+O'Connell v. Erie Lackawanna R. R., 391 F.2d 156, 163
+(1968), that the permissive counterclaim "needs
+independent jurisdictional grounds to support it, with
+one exception," to wit, set-off, 3 Moore, Federal Practice
+¶ 13.19 at 53-54 (2d ed. 1968). The Supreme Court left
+this question open in Moore v. New York Cotton
+Exchange, 270 U.S. 593, 609, 46 S.Ct. 367, 70 L.Ed. 750
+(1926). I read Judge Clark's fine opinion for this court in
+Lesnick v. Public Industrial Corp., 144 F.2d 968, 976 n.
+10 (2 Cir. 1944), as also doing this, although we cited it
+in O'Connell as upholding the conventional view, as do
+Professor Wright, Federal Courts 351 n. 56 (2d ed.
+1970) and the majority here.
+The reasons why the conventional view is wrong are set
+out in detail in an article by Professor Thomas F. Green,
+Jr., Federal Jurisdiction over Counterclaims, 48
+N.W.U.L.Rev. 271 (1953), and nothing would be gained
+by repetition. I mention only two points. One is that for
+reasons there developed, id. at 277-81, Professor
+Moore's sound recognition — perhaps more accurately
+creation — of the exception that set-off requires no
+independent jurisdictional basis, see 3 Moore, Federal
+Practice, ¶ 13.19 at 54-55 n. 3; Marks v. Spitz, 4 F.R.D.
+348 (D.Mass. 1945); Fraser v. Astra S. S. Corp., 18
+F.R.D. 240 (S.D.N.Y.1955), carries the seeds of
+destruction of the supposed general rule. The other is
+that at least since United Mine Workers v. Gibbs, 383
+U.S. 715, 86 S.Ct. 1130, 16 L.Ed.2d 218 (1966), it is no
+longer thought the heavens will fall if a federal court
+deals with a non-federal claim when it is convenient to
+do so. The only argument I see against Professor Green's
+position is the possibility of snowballing through a
+plaintiff's permissive counterclaim in reply to the
+defendant's permissive counterclaim etc. Id. at 289-90.
+But that is more theoretical than real. In a diversity case
+the plaintiff in all probability would already have
+pleaded this in his complaint; while the problem could
+arise in a federal question action, for example, if
+D'Agostino had a claim against Heyward on still another
+subcontract, such cases are extremely rare.
+[430 F.2d 1089] If the decision were mine, I would
+therefore ask that the court sit in banc and overrule the
+holding in O'Connell, supra, 391 F.2d at 163, that a
+permissive counterclaim requires independent
+jurisdictional grounds. Since my brothers find
+themselves able to affirm without doing this, I join in
+the result and leave the issue for another day. On all
+other points I concur in Judge Bryan's thorough
+opinion.

@@ -1,0 +1,198 @@
+This appeal concerns venue in an action brought under
+the Fair Debt Collection Practices Act, 15 U.S.C. §§
+1692-1692o (1988). Specifically, the issue is whether
+venue exists in a district in which the debtor resides and
+to which a bill collector's demand for payment was
+forwarded. The issue arises on an appeal by Phillip E.
+Bates from the May 21, 1992, judgment of the District
+Court for the Western District of New York (William
+M. Skretny, Judge), dismissing his complaint because of
+improper venue. We conclude that venue was proper
+under 28 U.S.C.A. § 1391(b)(2) (West Supp.1992) and
+therefore reverse and remand.
+Background
+Bates commenced this action in the Western District of
+New York upon receipt of a collection notice from C &
+S Adjusters, Inc. ("C & S"). Bates alleged violations of the
+Fair Debt Collection Practices Act, and demanded
+statutory damages, costs, and attorney's fees. The facts
+relevant to venue are not in dispute. Bates incurred the
+debt in question while he was a resident of the Western
+District of Pennsylvania. The creditor, a corporation
+with its principal place of business in that District,
+referred the account to C & S, a local collection agency
+which transacts no regular business in New York. Bates
+had meanwhile moved to the Western District of New
+York. When C & S mailed a collection notice to Bates at
+his Pennsylvania address, the Postal Service forwarded
+the notice to Bates' new address in New York.
+In its answer, C & S asserted two affirmative defenses
+and also counterclaimed for costs, alleging that the
+action was instituted in bad faith and for purposes of
+harassment. C & S subsequently filed a motion to
+dismiss for improper venue, which the District Court
+granted.
+Discussion
+1. Venue and the 1990 amendments to 28 U.S.C. §
+1391(b)
+Bates concedes that the only plausible venue provision
+for this action is 28 U.S.C.A. § 1391(b)(2), which allows
+an action to be brought in "a judicial district in which a
+substantial part of the events or omissions giving rise to
+the claim occurred." Prior to 1990, section 1391 allowed
+for venue in "the judicial district ... in which the claim
+arose." 28 U.S.C. § 1391(b) (1988). This case represents
+our first opportunity to consider the significance of the
+1990 amendments.
+Prior to 1966, venue was proper in federal question
+cases, absent a special venue statute, only in the
+defendant's state of citizenship. If a plaintiff sought to
+sue multiple defendants who were citizens of different
+states, there might be no district where the entire action
+could be brought. See 1A Part 2 James W. Moore,
+Moore's Federal Practice, ¶ 0.342[4] at 4091-95 (2d ed.
+1991). Congress closed this "venue gap" by adding a
+provision allowing suit in the district "in which the
+claim arose." This phrase gave rise to a variety of
+conflicting interpretations. Some courts thought it
+meant that there could be only one such district; others
+believed there could be several. Different tests
+developed, with courts looking for "substantial
+contacts," the "weight of contacts," the place of injury or
+performance, or even to the boundaries of personal
+jurisdiction under state law. See Moore ¶ 0.342[5.-2-1]
+at 4142-45. District courts within the Second Circuit
+used at least three of these approaches. See Weil v. New
+York State Department of Transportation, 400 F.Supp.
+1364, 1365 (S.D.N.Y.1975) (weight of contacts); Rosen
+v. Savant Instruments, Inc., 264 F.Supp. 232, 237
+(E.D.N.Y. 1967) (place of injury); Honda Associates, Inc.
+v. Nozawa Trading, Inc., 374 F.Supp. 886, 890-92
+(S.D.N.Y.1974) (discussing substantial contacts test, but
+declining to adopt it since result was same under
+substantial [980 F.2d 867] contacts and weight of
+contacts tests).
+The Supreme Court gave detailed attention to section
+1391(b) in Leroy v. Great Western United Corp., 443
+U.S. 173, 99 S.Ct. 2710, 61 L.Ed.2d 464 (1979). The
+specific holding of Leroy was that Great Western, a
+Texas corporation, which had attempted to take over an
+Idaho corporation, could not bring suit in Texas against
+Idaho officials who sought to enforce a state antitakeover
+law. Although the effect of the Idaho officials'
+action might be felt in Texas, the Court rejected this
+factor as a basis for venue, since it would allow the
+Idaho officials to be sued anywhere a shareholder of the
+target corporation could allege that he wanted to accept
+Great Western's tender offer. Leroy, 443 U.S. at 186, 99
+S.Ct. at 2718. The Court made several further
+observations: (1) the purpose of the 1966 statute was to
+close venue gaps and should not be read more broadly
+than necessary to close those gaps, id. at 184, 99 S.Ct. at
+2717; (2) the general purpose of the venue statute was to
+protect defendants against an unfair or inconvenient
+trial location, id. at 183-84, 99 S.Ct. at 2716; (3) location
+of evidence and witnesses was a relevant factor, id. at
+186, 99 S.Ct. at 2718; (4) familiarity of the Idaho federal
+judges with the Idaho anti-takeover statute was a
+relevant factor, id. at 186, 99 S.Ct. at 2718; (5) plaintiff's
+convenience was not a relevant factor, id. at 183, 99
+S.Ct. at 2716; and (6) in only rare cases should there be
+more than one district in which a claim can be said to
+arise, id. at 184-85, 99 S.Ct. at 2717.
+Subsequent to Leroy and prior to the 1990 amendment
+to section 1391(b), most courts have applied at least a
+form of the "weight of contacts" test, see, e.g., Transistor
+Devices, Inc. v. Tracor, Inc., 654 F.Supp. 601, 604, 605
+n. 4 (E.D.N.Y.1987). Courts continued to have difficulty
+in determining whether more than one district could be
+proper. See Moore ¶ 0.342[5.-2-2] at 4150-53.
+Against this background, we understand Congress' 1990
+amendment to be at most a marginal expansion of the
+venue provision. The House Report indicates that the
+new language was first proposed by the American Law
+Institute in a 1969 Study, and observes:
+The great advantage of referring to the place where things
+happened ... is that it avoids the litigation breeding phrase "in which
+the claim arose." It also avoids the problem created by the frequent
+cases in which substantial parts of the underlying events have
+occurred in several districts.
+H.R.Rep. No. 734, 101st Cong., 2d Sess. 23, reprinted in
+1990 U.S.C.C.A.N. 6860, 6869. Thus it seems clear that
+Leroy's strong admonition against recognizing multiple
+venues has been disapproved. Many of the factors in
+Leroy — for instance, the convenience of defendants and
+the location of evidence and witnesses — are most useful
+in distinguishing between two or more plausible venues.
+Since the new statute does not, as a general matter,
+require the District Court to determine the best venue,
+these factors will be of less significance. See Magic
+Toyota, Inc. v. Southeast Toyota Distributors, Inc., 784
+F.Supp. 306, 316-17 (D.S.C.1992). Apart from this
+point, however, Leroy and other precedents remain
+important sources of guidance. See American Trade
+Partners, L.P. v. A-1 International Importing
+Enterprises Ltd., 757 F.Supp. 545, 557 n. 18 (E.D.Pa.
+1991).
+2. Fair Debt Collection Practices Act
+Under the version of the venue statute in force from
+1966 to 1990, at least three District Courts held that
+venue was proper under the Fair Debt Collection
+Practices Act in the plaintiff's home district if a
+collection agency had mailed a collection notice to an
+address in that district or placed a phone call to a
+number in that district. See Murphy v. Allen County
+Claims & Adjustments, Inc., 550 F.Supp. 128, 130-32
+(S.D.Ohio 1982); Gachette v. Tri-City Adjustment
+Bureau, 519 F.Supp. 311, 313-14 (N.D.Ga.1981);
+Lachman v. Bank of Louisiana in New Orleans, 510
+F.Supp. 753, 760 (N.D.Ohio 1981). None of these cases
+involved the unusual fact, present in this case, that the
+defendant did not [980 F.2d 868] deliberately direct a
+communication to the plaintiff's district.
+We conclude, however, that this difference is
+inconsequential, at least under the current venue statute.
+The statutory standard for venue focuses not on
+whether a defendant has made a deliberate contact — a
+factor relevant in the analysis of personal jurisdiction1
+ —
+but on the location where events occurred. Under the
+new version of section 1391(b)(2), we must determine
+only whether a "substantial part of the events ... giving
+rise to the claim" occurred in the Western District of
+New York.
+In adopting this statute, Congress was concerned about
+the harmful effect of abusive debt practices on
+consumers. See 15 U.S.C. § 1692(a) ("Abusive debt
+collection practices contribute to the number of
+personal bankruptcies, to marital instability, to the loss
+of jobs, and to invasions of individual privacy."). This
+harm does not occur until receipt of the collection
+notice. Indeed, if the notice were lost in the mail, it is
+unlikely that a violation of the Act would have
+occurred.2 Moreover, a debt collection agency sends its
+dunning letters so that they will be received.
+Forwarding such letters to the district to which a debtor
+has moved is an important step in the collection process.
+If the bill collector prefers not to be challenged for its
+collection practices outside the district of a debtor's
+original residence, the envelope can be marked "do not
+forward." We conclude that receipt of a collection notice
+is a substantial part of the events giving rise to a claim
+under the Fair Debt Collection Practices Act.
+The relevant factors identified in Leroy add support to
+our conclusion. Although "bona fide error" can be a
+defense to liability under the Act, 15 U.S.C. § 1692k(c),
+the alleged violations of the Act turn largely not on the
+collection agency's intent, but on the content of the
+collection notice. The most relevant evidence — the
+collection notice — is located in the Western District of
+New York. Because the collection agency appears not to
+have marked the notice with instructions not to
+forward, and has not objected to the assertion of
+personal jurisdiction, trial in the Western District of
+New York would not be unfair.
+Conclusion
+The judgment of the District Court is reversed, and the
+matter is remanded for further proceedings consistent
+with this decision.

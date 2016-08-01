@@ -1,0 +1,377 @@
+I respectfully dissent. In my view, the majority
+overstates the significance of New Jersey's interests in
+having its law apply in this case and understates the
+interests of New York. While I agree with much of the
+majority's general exposition of the rules governing
+conflicts of law, nevertheless I believe that its
+application of these rules to the facts of this case and the
+resulting analysis are uneven. By casting the issue almost
+exclusively in terms of New Jersey's law of charitable
+immunity and the policy purposes represented thereby,
+the majority preordains its decision that the application
+of New Jersey law would best serve the interests deemed
+relevant. A more balanced approach, which recognizes
+that the conflict in this case involves not only New
+Jersey's law of charitable immunity but also New York's
+law of charitable nonimmunity, and which accords a
+proper analysis and fairer significance to the policies
+underlying the latter, would dictate a different result.
+Because New Jersey's interests in having its law of
+charitable immunity apply are rather attenuated in this
+case and, by sharp contrast, New York's interests as the
+"locus-forum" in applying its rule of charitable
+nonimmunity are overriding — especially in light of the
+heinous nature of the alleged tortious conduct involved
+and the repugnancy of immunizing those responsible
+from liability — it is my view that New York law should
+govern this case. A brief highlighting of those factors
+which I believe to be most pertinent illustrates what, in
+my view, the majority has either understated or
+overlooked.
+[65 N.Y.2d 206] New Jersey's interests, denominated by
+the majority as loss-distribution, are hardly pressing
+under the circumstances. While it is true that laws
+providing for charitable immunity typically are intended
+to serve the purpose of protecting and promoting the
+charities incorporated within a state's jurisdiction, that
+function is virtually irrelevant in this case. Presently,
+neither corporate defendant is a resident of New Jersey.
+The Brothers of the Poor of St. Francis (the Franciscan
+Brothers) has at all relevant times been a resident of the
+State of Ohio, a jurisdiction which recognizes only a
+limited charitable immunity that does not extend to
+negligence in the selection and retention of personnel.
+(Williams v First United Church, 40 Ohio App.2d 187,
+318 N.E.2d 562, affd37 Ohio St.2d 150, 309 N.E.2d 924;
+Cullen v Schmit, 139 Ohio St. 194, 39 N.E.2d 146.) The
+Boy Scouts of America, although originally incorporated
+in New Jersey at the time of its alleged tortious conduct,
+has since relocated in Texas, a State which has wholly
+rejected charitable immunity. (Howle v Camp Amon
+Carter, 470 S.W.2d 629 [Tex].) While ordinarily a
+change in residence subsequent to the events upon
+which a lawsuit is predicated ought not to affect the
+rights and liabilities of the parties in order to avoid
+forum-shopping, there is no such reason to deny giving
+effect to the change in residence here. Rather, a
+defendant's post-tort change in residence — as opposed
+to that of a plaintiff — is often critical insofar as it affects
+state interest analysis. (See, Weintraub, Commentary on
+the Conflict of Laws § 6.28, at 331, 334 [2d ed]; Sedler,
+The Governmental Interest Approach to Choice of Law:
+An Analysis and a Reformulation, 25 UCLA L Rev 181,
+241-242; Note, Post Transaction or Occurrence Events
+in Conflicts of Laws, 69 Colum L Rev 843, 865.) Indeed,
+as this court stated in Miller v Miller (22 N.Y.2d 12, 21-
+22): "To the extent that the [foreign State's] limitation
+evinced a desire to protect its residents in wrongful
+death actions, that purpose cannot be defeated here
+since no judgment in this action will be entered against a
+* * * resident [of that State. It] would have no concern
+with the nature of the recovery awarded against
+defendants who are no longer residents of that State and
+who are, therefore, no longer proper objects of its
+legislative concern. It is true that, at the time of the
+accident, the defendants were residents of [that State]
+but they would have no vested right to the application of
+the law of their former residence unless it could be
+demonstrated that they had governed their conduct in
+reliance upon it (Griffith v. United Air Lines, supra) — a
+reliance which is neither present nor claimed in the case
+at bar. Any claim that [the foreign State] has a
+paternalistic interest in protecting its residents [65
+N.Y.2d 207] against liability for acts committed while
+they were in [that State] should they move to another
+jurisdiction, is highly speculative."
+It simply cannot be disputed that New Jersey presently
+has a much diminished interest, if any at all, in shielding
+the Boy Scouts of America from liability — let alone the
+Franciscan Brothers which has never been a New Jersey
+resident. The majority does not question that
+conclusion, but merely states that the change in
+residence does not enhance New York's interest.
+(Majority opn, at p 194.) While the latter may be true in
+the abstract, the point, of course, is that New Jersey's
+interest in the application of its charitable immunity law
+has been substantially reduced.
+Consequently, because the majority cannot in actuality
+rely upon New Jersey's interest in protecting resident
+charities — into which category neither corporate
+defendant now falls — the decision today is, in effect,
+predicated almost exclusively upon the plaintiffs' New
+Jersey domicile. What emerges from the majority's
+holding is an entirely untoward rule that nonresident
+plaintiffs are somehow less entitled to the protections of
+this State's law while they are within our borders.
+Besides smacking of arbitrary and injudicious
+discrimination against guests in this State and before our
+courts (see, Ely, Choice of Law and the State's Interest in
+Protecting Its Own, 23 Wm & Mary L Rev 173, 186-
+187; cf.Tooker v Lopez, 24 N.Y.2d 569, 575; Smith v
+Loughman, 245 N.Y. 486, 491-492, cert denied 275 U.S.
+560), such a position, without more, has severely
+limited, if any, validity in resolving conflicts questions.
+(See, Neumeier v Kuehner, 31 N.Y.2d 121, 131 [Breitel,
+J., concurring]; Rosenthal v Warren, 475 F.2d 438, 445
+[2d Cir]; Juenger, Choice of Law in Interstate Torts, 118
+U of Pa L Rev 202, 209-210; Weintraub, supra, § 6.23, n
+13; Ausubel, Conflict of Laws Trends — Torts, 19 De
+Paul L Rev 684, 692; cf.Labree v Major, 111 R.I. 657,
+306 A.2d 808; Hurtado v Superior Ct., 11 Cal.3d 574,
+522 P.2d 666.) This is especially so where, as here, the
+defendants' contacts with the foreign State are
+insignificant for the purposes of interest analysis while,
+at the same time, the parties' contacts with New York
+are so clear and direct, and the resulting interests of this
+State so strong.
+There can be no question that this State has a
+paramount interest in preventing and protecting against
+injurious misconduct within its borders. This interest is
+particularly vital and compelling where, as here, the
+tortious misconduct involves sexual abuse and
+exploitation of children, regardless of the residency of
+the victims and the tort-feasors. (See, New York v
+Ferber, 458 U.S. 747, 756-760, on remand57 N.Y.2d
+256.) [65 N.Y.2d 208] Despite the majority's denial, New
+York's law in question is intimately connected to this
+overriding interest.
+As the majority stresses, a charitable immunity law such
+as New Jersey's typically serves a loss-distribution
+purpose reflecting a legislative paternalism toward
+resident charities. But that is obviously not true with
+regard to a rule, such as New York's, which denies
+charitable immunity. Consequently, it is mistaken to
+adjudge the propriety of applying the latter law by
+giving weight only to the interests served by the former.
+(But see, e.g., majority opn, at p 200.) A closer attention
+to the specific policy purposes of New York's charitable
+nonimmunity rule is essential to a more appropriate
+resolution of the conflict.
+These purposes, to which the majority refuses to accord
+any significance (see, e.g., majority opn, at pp 200, 201),
+are preventive, protective and compensatory. Indeed, in
+Bing v Thunig (2 N.Y.2d 656), where New York's prior
+rule of charitable immunity was abolished, this court
+held that "[i]t is not alone good morals but sound law
+that individuals and organizations should be just before
+they are generous, and there is no reason why that
+should not apply to charitable [institutions] * * *
+Insistence upon * * * damages for negligent injury
+serves a two-fold purpose, for it both assures payment
+of an obligation to the person injured and gives warning
+that justice and the law demand exercise of care." (Id., at
+p 666 [emphasis added].)
+As previously discussed, there can be little doubt that
+New York has an interest in insuring that justice be
+done to nonresidents who have come to this State and
+suffered serious injuries herein. There is no cogent
+reason to deem that interest any weaker whether such
+guests are here for the purpose of conducting business
+or personal affairs, or, as in this case, have chosen to
+spend their vacation in New York. (See additionally,
+Korn, The Choice of Law Revolution: A Critique, 83
+Colum L Rev 772, 789, n 40.) Likewise, it cannot be
+denied that this State has a strong legitimate interest in
+deterring serious tortious misconduct, including the
+kind of reprehensible malfeasance that has victimized
+the nonresident infant plaintiffs in this case. Indeed, this
+deterrence function of tort law, whether it be in the
+form of imposing liability or denying immunity, is a
+substantial interest of the locus state which is almost
+universally acknowledged by both commentators and
+the courts to be a prominent factor deserving significant
+consideration in the resolution of conflicts problems.
+(See, Cavers, The Choice of Law Process, at 144;
+Weintraub, supra, § 6.10, at 288; Horowitz, The Law of
+Choice of [65 N.Y.2d 209] Law in California — A
+Restatement, 21 UCLA L Rev 719, 757; Baade, CounterRevolution
+or Alliance for Progress? Reflections on
+Reading Cavers, The Choice of Law Process, 46 Tex L
+Rev 141, 156; Restatement [Second] of Conflict of Laws
+§ 145 comment c; Rosenthal v Warren, 475 F.2d 438,
+445, supra; Bray v Cox, 39 A.D.2d 299, appeal
+dismissed33 N.Y.2d 789; Hurtado v Superior Ct., 11
+Cal.3d 574, 522 P.2d 666, supra; Gagne v Berry, 112
+N.H. 125, 290 A.2d 624; Hunker v Royal Indem. Co., 57
+Wis.2d 588, 204 N.W.2d 897.) While the majority
+mentions New York's interest in deterrence, it dismisses
+that interest in short fashion by referring to the "rule in
+conflict" as being "loss-allocating rather than conductregulating."
+(See, majority opn, at p 200.) Of course,
+there is not one but two rules at issue, and the majority's
+characterization is accurate only with regard to New
+Jersey's law granting immunity, not with regard to New
+York's rule denying the same. (Bing v Thunig, supra, at
+p 666.)
+Moreover, New York's strong interest in deterring
+injurious misconduct, as well as in providing
+compensatory justice and protection to persons
+victimized by wrongdoing within this State, is reflected
+in the traditional principle of lex loci which, despite the
+majority's sub silentio disavowal, remains in this State
+"the general rule in tort cases to be displaced only in
+extraordinary circumstances". (Cousins v Instrument
+Flyers, 44 N.Y.2d 698, 699; see also, Neumeier v
+Kuehner, 31 N.Y.2d 121, 129, 131-132, supra; Tooker v
+Lopez, 24 N.Y.2d 569, 585, supra.) Indeed, despite the
+so-called "choice of law revolution" (see, Korn, supra),
+lex loci is still acknowledged almost universally as a
+central factor in determining the state, or states, in
+which the significant interests lie. (See, Restatement
+[Second] of Conflict of Laws § 145 [2] [a], [b]; § 146.)
+This rule ought not to be applied mechanically or rigidly
+to reach absurd results. But, neither ought it to be
+disregarded indiscriminately, without giving due
+consideration to the nature or extent of the relationship
+which accrues between the tort in question and a
+particular jurisdiction because that jurisdiction is the
+locus state. (See, Reese, The Second Restatement of
+Laws Revisited, 34 Mercer L Rev 501, 513-515.)
+Here, there are no extraordinary circumstances
+justifying displacement of the usual rule of lex loci and
+the consequent disregard of New York's interest as the
+jurisdiction in which the infant plaintiffs were
+victimized. The majority merely discounts New York's
+interests as the locus state by characterizing the parties'
+contacts in New York as "only isolated and infrequent".
+Reliance on such characterization, however, is both
+factually [65 N.Y.2d 210] and legally misplaced. The
+infant plaintiffs' visit to New York with defendants'
+tort-feasor was entirely deliberate, planned and not
+merely transitory. They visited in order to remain for a
+period of time. Defendants are alleged to have permitted
+their tort-feasor to take the children into New York,
+failed to supervise him while the children were in his
+care in New York, authorized or sponsored the scouting
+activity at a campground in New York which they
+approved, and failed to prevent the sexual abuse of the
+children taking place in New York. The nexus of the
+parties and the alleged torts with New York can hardly
+be gainsaid.
+This is clearly not a case in which the locus can be
+discounted as purely fortuitous or adventitious.
+(Cf.Long v Pan Am. World Airways, 16 N.Y.2d 337,
+342, n 3; Babcock v Jackson, 12 N.Y.2d 473, 483; Kilberg
+v Northeast Airlines, 9 N.Y.2d 34, 39; contrast with,
+Dym v Gordon, 16 N.Y.2d 120, 125.) The infant
+plaintiffs and the defendants' tort-feasor were not
+merely in transitu in New York. Rather, they were here
+for a stay, albeit a short one, and as such they
+deliberately submitted themselves to the protections and
+responsibilities of this State's laws which should now
+govern the consequences of the tortious conduct
+committed while within New York's borders.
+Contrary to what the majority states, it is hardly clear
+that the parties' only reasonable expectation was that
+New Jersey's law would apply despite the contacts with
+this State. Indeed, it would surely seem that the parties
+who came to New York, and those who sponsored their
+visit here, would have been quite surprised to learn that
+their conduct while in New York, or that which had a
+direct impact in New York, was not governed by the
+laws of this State. In any event, this court has
+unequivocably rejected the notion that the fictional
+expectation of the parties should determine the choice of
+law in tort cases. (Tooker v Lopez, supra, at p 577;
+Miller v Miller, 22 N.Y.2d 12, 20, supra; see also, Cavers,
+The Choice of Law Process, 119, 302, supra.)
+Consequently, in my view, the majority does not
+adequately explain why the law of New York, the locus
+state, ought not to govern this case.
+Additionally, apart from the foregoing, I believe that
+this court ought not to apply New Jersey's law of
+charitable immunity by reason of its incompatibility
+with this State's settled public policy. Almost 30 years
+ago, when this court abolished charitable immunity for
+this State, we explained that the rule was inherently
+incongruous, contrary to both good morals and sound
+law, out of tune with modern day needs, unfair and [65
+N.Y.2d 211] confused. (Bing v Thunig, 2 N.Y.2d 656, at
+pp 663, 666-667, supra.) Surely, a rule deemed so archaic
+and anachronistic by this court ought not now to be
+given effect and, thereby, insulate defendants from
+whatever responsibility they should bear for the heinous
+acts of misconduct performed in this State.
+Indeed, this court has not hesitated in the past to refuse
+a request to apply a foreign law considered contrary to
+established public policy. We have held unequivocally
+that where a conflict exists, this State's public policy
+prevails. (Erlich-Bober & Co. v University of Houston,
+49 N.Y.2d 574, 580; see also, Zeevi & Sons v Grindlays
+Bank [Uganda], 37 N.Y.2d 220, 227; Kilberg v Northeast
+Airlines, 9 N.Y.2d 34, 40, supra.) Likewise, the
+commentators have recognized the validity, indeed the
+wisdom and propriety of the forum state's refusal, on
+public policy grounds, to apply an anachronistic or
+aberrant rule of the foreign State whose law would
+otherwise apply. (See, e.g., Weintraub, supra, §§ 6.6,
+6.27; Leflar, American Conflicts Law § 107, at 214 [3d
+ed]; Freund, Chief Justice Stone and The Conflict of
+Laws, 59 Harv L Rev 1210, 1216; Paulsen & Sovern,
+"Public Policy" in the Conflict of Laws, 56 Colum L Rev
+969; Cheatham & Reese, Choice of the Applicable Law,
+52 Colum L Rev 959, 980; Restatement [Second] of
+Conflict of Laws § 6 [2] [b], [e]; Juenger, supra, at 230-
+235.) Similarly, the courts of other jurisdictions have
+noted the imperative of avoiding application of a foreign
+state's law that is repugnant to the forum state's public
+policy or that is fairly deemed to be obsolete or
+senseless. (See, e.g., Clark v Clark, 107 N.H. 351, 355,
+222 A.2d 205, 209; Conklin v Horner, 38 Wis.2d 468,
+484-485, 157 N.W.2d 579, 587; see also, Tiernan v
+Westext Transp., 295 F.Supp. 1256; Skahill v Capital
+Airlines, 234 F.Supp. 906, 907; Schneider v Nichols, 280
+Minn. 139, 158 N.W.2d 254; Mitchell v Craft, 211 So.2d
+509 [Miss]; Arnett v Thompson, 433 S.W.2d 109 [Ky].)
+As this court has already held, the charitable immunity
+law is one which is anachronistic, obsolete and senseless,
+and it appears that there is virtual judicial unanimity
+among the States that this is so. (See, Prosser and
+Keeton, Torts § 133, at 1070 [5th ed]; Ann., 25 ALR2d
+29; 25 ALR4th 517; see also, Restatement [Second] of
+Torts § 895E, providing that charities ought not to be
+immunized.) It is not surprising, therefore, that other
+courts which have considered the immunity doctrine in
+a conflict of laws context have held that its application
+should be avoided as violative of New York's public
+policy. (See, e.g., Rosenthal v Warren, 374 F.Supp. 522,
+525-526; Rakaric v Croatian Cultural Club, 76 A.D.2d
+619; Dowd v Boy Scouts of Am., [65 N.Y.2d 212] NYLJ,
+Mar. 21, 1984, p 13, col 1 [Trial Term, Kings County];
+cf.Pearson v Northeast Airlines, 309 F.2d 553, 561.) This
+court ought now to hold the same. Having already held
+that charitable immunity is "out of tune with the life
+about us, at variance with modern-day needs and with
+concepts of justice and fair dealing" (Bing v Thunig,
+supra, at p 667 [emphasis added]), it would now be
+incongruous, in my view, for this court to apply it here
+to deny compensatory justice to nonresidents who were
+injured while vacationing in New York.
+Finally, I find no merit to defendants' arguments for the
+application of collateral estoppel. First, as the majority
+acknowledges, collateral estoppel is not a bar to a second
+action in a different forum where the latter applies its
+own law or refuses to give effect to the law of the first
+forum on public policy grounds. (See, Gilberg v
+Barbieri, 53 N.Y.2d 285, 292; Restatement [Second] of
+Judgments § 29.) Inasmuch as New York law should be
+applied in this case by reason of this State's significant
+interests and because application of New Jersey's law
+would contravene this State's public policy, collateral
+estoppel is inapplicable. Secondly, plaintiffs' allegations,
+the parties, and the precise issue in this litigation — i.e.,
+whether New York law provides plaintiffs with a
+remedy for injuries suffered in this State from
+defendants' alleged tort-feasance — are not the same as
+those involved in the prior litigation in New Jersey.
+(See, Schultz v Roman Catholic Archdiocese, 95 N.J.
+530, 472 A.2d 531.) Necessarily then, the prerequisites
+to the application of collateral estoppel have not been
+satisfied. (See, Ryan v New York Tel. Co., 62 N.Y.2d
+494, 500-501; Schwartz v Public Administrator, 24
+N.Y.2d 65, 71.)
+For all these reasons, I would reverse the order of the
+Appellate Division, apply the law of New York denying
+immunity to defendant charities, and permit plaintiffs to
+proceed on their complaint.
+Order affirmed, with costs.

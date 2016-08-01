@@ -1,3 +1,194 @@
+Following the September 11, 2001, terrorist attacks,
+respondent Iqbal, a Pakistani Muslim, was arrested on
+criminal charges and detained by federal officials under
+restrictive conditions. Iqbal filed a Bivens action against
+numerous federal officials, including petitioner
+Ashcroft, the former Attorney General, and petitioner
+Mueller, the Director of the Federal Bureau of
+Investigation (FBI). See Bivens v. Six Unknown Fed.
+Narcotics Agents, 403 U.S. 388, 91 S.Ct. 1999, 29
+L.Ed.2d 619. The complaint alleged, inter alia, that
+petitioners designated Iqbal a person “of high interest”
+on account of his race, religion, or national origin, in
+contravention of the First and Fifth Amendments; that
+the FBI, under Mueller's direction, arrested and detained
+thousands of Arab Muslim men as part of its
+September–11th investigation; that petitioners knew of,
+condoned, and willfully and maliciously agreed to
+subject Iqbal to harsh conditions of confinement as a
+matter of policy, solely on account of the prohibited
+factors and for no legitimate penological interest; and
+that Ashcroft was the policy's “principal architect” and
+Mueller was “instrumental” in its adoption and
+execution. After the District Court denied petitioners'
+motion to dismiss on qualified-immunity grounds, they
+invoked the collateral order doctrine to file an
+interlocutory appeal in the Second Circuit. Affirming,
+that court assumed without discussion that it had
+jurisdiction and focused on the standard set forth in Bell
+Atlantic Corp. v. Twombly, 550 U.S. 544, 127 S.Ct.
+1955, 167 L.Ed.2d 929, for evaluating whether a
+complaint is sufficient to survive a motion to dismiss.
+Concluding that Twombly 's “flexible plausibility
+standard” obliging a pleader to amplify a claim with
+factual allegations where necessary to render it plausible
+was inapplicable in the context of petitioners' appeal, the
+court held that Iqbal's complaint was adequate to allege
+petitioners' personal involvement in discriminatory
+decisions which, if true, violated clearly established
+constitutional law.
+Held:
+1. The Second Circuit had subject-matter jurisdiction to
+affirm the District Court's order denying petitioners'
+motion to dismiss. Pp. 1944 – 1947.
+(a) Denial of a qualified-immunity claim can fall within
+the narrow class of prejudgment orders reviewable
+under the collateral-order doctrine
+[556 U.S. 663] so long as the order “turns on an issue of
+law.” Mitchell v. Forsyth, 472 U.S. 511, 530, 105 S.Ct.
+2806, 86 L.Ed.2d 411. The doctrine's applicability in this
+context is well established; an order rejecting qualified
+immunity at the motion-to-dismiss stage is a “final
+decision” under 28 U.S.C. § 1291, which vests courts of
+appeals with “jurisdiction of appeals from all final
+decisions of the district courts.” Behrens v. Pelletier, 516
+U.S. 299, 307, 116 S.Ct. 834, 133 L.Ed.2d 773. Pp. 1945 –
+1946.
+(b) Under these principles, the Court of Appeals had,
+and this Court has, jurisdiction over the District Court's
+order. Because the order turned on an issue of law and
+rejected the qualified-immunity defense, it was a final
+decision “subject to immediate appeal.” Behrens, supra,
+at 307, 116 S.Ct. 834. Pp. 1946 – 1947.
+2. Iqbal's complaint fails to plead sufficient facts to state
+a claim for purposeful and unlawful discrimination. Pp.
+1947 – 1954.
+(a) This Court assumes, without deciding, that Iqbal's
+First Amendment claim is actionable in a Bivens action,
+see Hartman v. Moore, 547 U.S. 250, 254, n. 2, 126 S.Ct.
+1695, 164 L.Ed.2d 441. Because vicarious liability is
+inapplicable to Bivens and § 1983 suits, see, e.g., Monell
+v. New York City Dept. of Social Servs., 436 U.S. 658,
+691, 98 S.Ct. 2018, 56 L.Ed.2d 611, the plaintiff in a suit
+such as the present one must plead that each
+Government-official defendant, through his own
+individual actions, has violated the Constitution.
+Purposeful discrimination requires more than “intent as
+volition or intent as awareness of consequences”; it
+involves a decisionmaker's undertaking a course of
+action “ ‘because of,’ not merely ‘in spite of,’ [the
+action's] adverse effects upon an identifiable group.”
+Personnel Administrator of Mass. v. Feeney, 442 U.S.
+256, 279, 99 S.Ct. 2282, 60 L.Ed.2d 870. Iqbal must plead
+sufficient factual matter to show that petitioners
+adopted and implemented the detention policies at issue
+not for a neutral, investigative reason, but for the
+purpose of discriminating on account of race, religion,
+or national origin. Pp. 1947 – 1949.
+(b) Under Federal Rule of Civil Procedure 8(a)(2), a
+complaint must contain a “short and plain statement of
+the claim showing that the pleader is entitled to relief.”
+“[D]etailed factual allegations” are not required,
+Twombly, 550 U.S., at 555, 127 S.Ct. 1955, but the Rule
+does call for sufficient factual matter, accepted as true, to
+“state a claim to relief that is plausible on its face,” id., at
+570, 127 S.Ct. 1955. A claim has facial plausibility when
+the pleaded factual content allows the court to draw the
+reasonable inference that the defendant is liable for the
+misconduct alleged. Id., at 556, 127 S.Ct. 1955. Two
+working principles underlie Twombly. First, the tenet
+that a court must accept a complaint's allegations as true
+is inapplicable to threadbare recitals of a cause of
+action's elements, supported by mere conclusory
+statements. Id., at 555, 127 S.Ct. 1955. Second,
+determining whether a complaint states a plausible
+claim is context-specific, requiring the
+[556 U.S. 664] reviewing court to draw on its experience
+and common sense. Id., at 556, 127 S.Ct. 1955. A court
+considering a motion to dismiss may begin by
+identifying allegations that, because they are mere
+conclusions, are not entitled to the assumption of truth.
+While legal conclusions can provide the complaint's
+framework, they must be supported by factual
+allegations. When there are well- pleaded factual
+allegations, a court should assume their veracity and
+then determine whether they plausibly give rise to an
+entitlement to relief. Pp. 1948 – 1951.
+(c) Iqbal's pleadings do not comply with Rule 8 under
+Twombly. Several of his allegations—that petitioners
+agreed to subject him to harsh conditions as a matter of
+policy, solely on account of discriminatory factors and
+for no legitimate penological interest; that Ashcroft was
+that policy's “principal architect”; and that Mueller was
+“instrumental” in its adoption and execution—are
+conclusory and not entitled to be assumed true.
+Moreover, the factual allegations that the FBI, under
+Mueller, arrested and detained thousands of Arab
+Muslim men, and that he and Ashcroft approved the
+detention policy, do not plausibly suggest that
+petitioners purposefully discriminated on prohibited
+grounds. Given that the September 11 attacks were
+perpetrated by Arab Muslims, it is not surprising that a
+legitimate policy directing law enforcement to arrest
+and detain individuals because of their suspected link to
+the attacks would produce a disparate, incidental impact
+on Arab Muslims, even though the policy's purpose was
+to target neither Arabs nor Muslims. Even if the
+complaint's well-pleaded facts gave rise to a plausible
+inference that Iqbal's arrest was the result of
+unconstitutional discrimination, that inference alone
+would not entitle him to relief: His claims against
+petitioners rest solely on their ostensible policy of
+holding detainees categorized as “of high interest,” but
+the complaint does not contain facts plausibly showing
+that their policy was based on discriminatory factors. Pp.
+1950 – 1953.
+(d) Three of Iqbal's arguments are rejected. Pp. 1952 –
+1954.
+(i) His claim that Twombly should be limited to its
+antitrust context is not supported by that case or the
+Federal Rules. Because Twombly interpreted and
+applied Rule 8, which in turn governs the pleading
+standard “in all civil actions,” Rule 1, the case applies to
+antitrust and discrimination suits alike, see 550 U.S., at
+555–556, and n. 14, 127 S.Ct. 1955. Pp. 1952 – 1953.
+(ii) Rule 8's pleading requirements need not be relaxed
+based on the Second Circuit's instruction that the
+District Court cabin discovery to preserve petitioners'
+qualified-immunity defense in anticipation of a
+summary judgment motion. The question presented by
+a motion to dismiss for insufficient pleadings does not
+turn on the controls placed on the discovery process.
+Twombly, supra, at 559, 127 S.Ct. 1955. And because
+Iqbal's
+[556 U.S. 665] complaint is deficient under Rule 8, he is
+not entitled to discovery, cabined or otherwise. Pp. 1952
+– 1954.
+(iii) Rule 9(b)—which requires particularity when
+pleading “fraud or mistake” but allows “other conditions
+of a person's mind [to] be alleged generally”—does not
+require courts to credit a complaint's conclusory
+statements without reference to its factual context. Rule
+9 merely excuses a party from pleading discriminatory
+intent under an elevated pleading standard. It does not
+give him license to evade Rule 8's less rigid, though still
+operative, strictures. Pp. 1953 – 1954.
+(e) The Second Circuit should decide in the first
+instance whether to remand to the District Court to
+allow Iqbal to seek leave to amend his deficient
+complaint. P. 1954.
+490 F.3d 143, reversed and remanded.
+KENNEDY, J., delivered the opinion of the Court, in
+which ROBERTS, C.J., and SCALIA, THOMAS, and
+ALITO, JJ., joined. SOUTER, J., filed a dissenting
+opinion, in which STEVENS, GINSBURG, and
+BREYER, JJ., joined. BREYER, J., filed a dissenting
+opinion.
+Gregory G. Garre, Solicitor General, Washington, DC,
+for Petitioners.
+Alexander A. Reinert, for Respondents.
+Justice KENNEDY delivered the opinion of
+the Court.
 [556 U.S. 666] Respondent Javaid Iqbal is a citizen of
 Pakistan and a Muslim. In the wake of the September
 11, 2001, terrorist attacks he was arrested in the United
@@ -489,19 +680,19 @@ We turn to respondent's complaint. Under Federal Rule
 of Civil Procedure 8(a)(2), a pleading must contain a
 “short and plain statement of the claim showing that the
 pleader is
-[556 U.S. 678] entitled to relief.” As the Court held in
-Twombly, 550 U.S. 544, 127 S.Ct. 1955, 167 L.Ed.2d
-929, the pleading standard Rule 8 announces does not
-require “detailed factual allegations,” but it demands
-more than an unadorned, the-defendant-unlawfullyharmed-me
-accusation. Id., at 555, 127 S.Ct. 1955 (citing
-Papasan v. Allain, 478 U.S. 265, 286, 106 S.Ct. 2932, 92
-L.Ed.2d 209 (1986)). A pleading that offers “labels and
-conclusions” or “a formulaic recitation of the elements of
-a cause of action will not do.” 550 U.S., at 555, 127 S.Ct.
-1955. Nor does a complaint suffice if it tenders “naked
-assertion[s]” devoid of “further factual enhancement.”
-Id., at 557, 127 S.Ct. 1955.
+entitled to relief.” As the Court held in Twombly, 550
+U.S. 544, 127 S.Ct. 1955, 167 L.Ed.2d 929, the pleading
+standard Rule 8 announces does not require “detailed
+factual allegations,” but it demands more than an
+unadorned, the-defendant-unlawfully-harmed-me
+accusation. Id., at 555, 127 S.Ct. 1955 (citing Papasan v.
+Allain, 478 U.S. 265, 286, 106 S.Ct. 2932, 92 L.Ed.2d 209
+(1986)). A pleading that offers “labels and conclusions”
+or “a formulaic recitation of the elements of a cause of
+action will not do.” 550 U.S., at 555, 127 S.Ct. 1955. Nor
+does a complaint suffice if it tenders “naked assertion[s]”
+devoid of “further factual enhancement.” Id., at 557, 127
+S.Ct. 1955.
 To survive a motion to dismiss, a complaint must
 contain sufficient factual matter, accepted as true, to
 “state a claim to relief that is plausible on its face.” Id., at
@@ -531,19 +722,18 @@ quotation marks omitted)). Rule 8 marks a notable and
 generous departure from the hyper-technical, codepleading
 regime of a prior era, but it does not unlock the
 doors of discovery for
-[556 U.S. 679] a plaintiff armed with nothing more than
-conclusions. Second, only a complaint that states a
-plausible claim for relief survives a motion to dismiss.
-Id., at 556, 127 S.Ct. 1955. Determining whether a
-complaint states a plausible claim for relief will, as the
-Court of Appeals observed, be a context-specific task
-that requires the reviewing court to draw on its judicial
-experience and common sense. 490 F.3d, at 157–158.
-But where the well-pleaded facts do not permit the
-court to infer more than the mere possibility of
-misconduct, the complaint has alleged—but it has not
-“show[n]”—“that the pleader is entitled to relief.” Fed.
-Rule Civ. Proc. 8(a)(2).
+a plaintiff armed with nothing more than conclusions.
+Second, only a complaint that states a plausible claim for
+relief survives a motion to dismiss. Id., at 556, 127 S.Ct.
+1955. Determining whether a complaint states a
+plausible claim for relief will, as the Court of Appeals
+observed, be a context-specific task that requires the
+reviewing court to draw on its judicial experience and
+common sense. 490 F.3d, at 157–158. But where the
+well-pleaded facts do not permit the court to infer more
+than the mere possibility of misconduct, the complaint
+has alleged—but it has not “show[n]”—“that the pleader
+is entitled to relief.” Fed. Rule Civ. Proc. 8(a)(2).
 In keeping with these principles a court considering a
 motion to dismiss can choose to begin by identifying
 pleadings that, because they are no more than

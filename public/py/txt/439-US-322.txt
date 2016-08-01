@@ -1,0 +1,363 @@
+This case presents the question whether a party who has
+had issues of fact adjudicated adversely to it in an
+equitable action may be collaterally estopped from
+relitigating the same issues before a jury in a subsequent
+legal action brought against it by a new party.
+The respondent brought this stockholder's class action
+against the petitioners in a Federal District Court. The
+complaint alleged that the petitioners, Parklane Hosiery
+Co., Inc. (Parklane), and 13 of its officers, directors, and
+stockholders, had issued a materially false and
+misleading proxy statement in connection with a
+merger.1 The proxy statement, according to the
+complaint, had violated §§ 14 (a), 10 (b), and 20 (a) of
+the Securities Exchange Act of 1934, 48 Stat. 895, 891,
+899, as amended, 15 U. S. C. §§ 78n (a), 78j (b), and 78t
+(a), as well as various rules and regulations promulgated
+by the Securities and Exchange Commission (SEC). The
+complaint sought damages, rescission of the merger, and
+recovery of costs.
+Before this action came to trial, the SEC filed suit
+against the same defendants in the Federal District
+Court, alleging that the proxy statement that had been
+issued by Parklane was materially false and misleading in
+essentially the same respects as those that had ben
+alleged in the respondent's complaint. Injunctive relief
+was requested. After a 4-day [439 U.S. 325] trial, the
+District Court found that the proxy statement was
+materially false and misleading in the respects alleged,
+and entered a declaratory judgment to that effect. SEC v.
+Parklane Hosiery Co., 422 F.Supp. 477. The Court of
+Appeals for the Second Circuit affirmed this judgment.
+558 F.2d 1083.
+The respondent in the present case then moved for
+partial summary judgment against the petitioners,
+asserting that the petitioners were collaterally estopped
+from relitigating the issues that had been resolved
+against them in the action brought by the SEC.2 The
+District Court denied the motion on the ground that
+such an application of collateral estoppel would deny the
+petitioners their Seventh Amendment right to a jury
+trial. The Court of Appeals for the Second Circuit
+reversed, holding that a party who has had issues of fact
+determined against him after a full and fair opportunity
+to litigate in a nonjury trial is collaterally estopped from
+obtaining a subsequent jury trial of these same issues of
+fact. 565 F.2d 815. The appellate court concluded that
+"the Seventh Amendment preserves the right to jury
+trial only with respect to issues of fact, [and] once those
+issues have been fully and fairly adjudicated in a prior
+proceeding, nothing remains for trial, either with or
+without a jury." Id., at 819. Because of an intercircuit
+conflict,3 we granted certiorari. 435 U.S. 1006.
+[439 U.S. 326] I
+The threshold question to be considered is whether,
+quite apart from the right to a jury trial under the
+Seventh Amendment, the petitioners can be precluded
+from relitigating facts resolved adversely to them in a
+prior equitable proceeding with another party under the
+general law of collateral estoppel. Specifically, we must
+determine whether a litigant who was not a party to a
+prior judgment may nevertheless use that judgment
+"offensively" to prevent a defendant from relitigating
+issues resolved in the earlier proceeding.4
+A
+Collateral estoppel, like the related doctrine of res
+judicata,5 has the dual purpose of protecting litigants
+from the burden of relitigating an identical issue with
+the same party or his privy and of promoting judicial
+economy by preventing needless litigation. BlonderTongue
+Laboratories, Inc. v. University of Illinois
+Foundation, 402 U.S. 313, 328-329. Until relatively
+recently, however, the scope of collateral estoppel was
+limited by the doctrine of mutuality of parties. Under
+this mutuality doctrine, neither party could use a prior
+judgment [439 U.S. 327] as an estoppel against the other
+unless both parties were bound by the judgment.6 Based
+on the premise that it is somehow unfair to allow a
+party to use a prior judgment when he himself would
+not be so bound,7 the mutuality requirement provided a
+party who had litigated and lost in a previous action an
+opportunity to relitigate identical issues with new
+parties.
+By failing to recognize the obvious difference in position
+between a party who has never litigated an issue and
+one who has fully litigated and lost, the mutuality
+requirement was criticized almost from its inception.8
+Recognizing the validity of this criticism, the Court in
+Blonder-Tongue Laboratories, Inc. v. University of
+Illinois Foundation, supra, abandoned the mutuality
+requirement, at least in cases where a patentee seeks to
+relitigate the validity of a patent after a federal court in a
+previous lawsuit has already declared it invalid.9 The
+[439 U.S. 328] "broader question" before the Court,
+however, was "whether it is any longer tenable to afford
+a litigant more than one full and fair opportunity for
+judicial resolution of the same issue." 402 U. S., at 328.
+The Court strongly suggested a negative answer to that
+question:
+"In any lawsuit where a defendant, because of the mutuality
+principle, is forced to present a complete defense on the merits to a
+claim which the plaintiff has fully litigated and lost in a prior action,
+there is an arguable misallocation of resources. To the extent the
+defendant in the second suit may not win by asserting, without
+contradiction, that the plaintiff had fully and fairly, but
+unsuccessfully, litigated the same claim in the prior suit, the
+defendant's time and money are diverted from alternative
+uses—productive or otherwise—to relitigation of a decided issue.
+And, still assuming that the issue was resolved correctly in the first
+suit, there is reason to be concerned about the plaintiff's allocation
+of resources. Permitting repeated litigation of the same issue as long
+as the supply of unrelated defendants holds out reflects either the
+aura of the gaming table or `a lack of discipline and of
+disinterestedness on the part of the lower courts, hardly a worthy
+or wise basis for fashioning rules of procedure.' Kerotest Mfg. Co.
+v. C-O-Two Co., 342 U.S. 180, 185 (1952). Although neither
+judges, the parties, nor the adversary system performs perfectly in
+all cases, the requirement of determining whether the party against
+whom an estoppel is asserted had a full and fair opportunity to
+litigate is a most significant safeguard." Id., at 329.10
+[439 U.S. 329] B
+The Blonder-Tongue case involved defensive use of
+collateral estoppel—a plaintiff was estopped from
+asserting a claim that the plaintiff had previously
+litigated and lost against another defendant. The present
+case, by contrast, involves offensive use of collateral
+estoppel—a plaintiff is seeking to estop a defendant from
+relitigating the issues which the defendant previously
+litigated and lost against another plaintiff. In both the
+offensive and defensive use situations, the party against
+whom estoppel is asserted has litigated and lost in an
+earlier action. Nevertheless, several reasons have been
+advanced why the two situations should be treated
+differently.11
+First, offensive use of collateral estoppel does not
+promote judicial economy in the same manner as
+defensive use does. Defensive use of collateral estoppel
+precludes a plaintiff from relitigating identical issues by
+merely "switching adversaries." Bernhard v. Bank of
+America Nat. Trust & Savings Assn., 19 Cal. 2d, at 813,
+122 P. 2d, at 895.12 Thus defensive collateral estoppel
+gives a plaintiff a strong incentive to join [439 U.S. 330]
+all potential defendants in the first action if possible.
+Offensive use of collateral estoppel, on the other hand,
+creates precisely the opposite incentive. Since a plaintiff
+will be able to rely on a previous judgment against a
+defendant but will not be bound by that judgment if the
+defendant wins, the plaintiff has every incentive to
+adopt a "wait and see" attitude, in the hope that the first
+action by another plaintiff will result in a favorable
+judgment. E. g., Nevarov v. Caldwell, 161 Cal.App.2d
+762, 767-768, 327 P.2d 111, 115; Reardon v. Allen, 88
+N.J.Super. 560, 571-572, 213 A.2d 26, 32. Thus offensive
+use of collateral estoppel will likely increase rather than
+decrease the total amount of litigation, since potential
+plaintiffs will have everything to gain and nothing to
+lose by not intervening in the first action.13
+A second argument against offensive use of collateral
+estoppel is that it may be unfair to a defendant. If a
+defendant in the first action is sued for small or nominal
+damages, he may have little incentive to defend
+vigorously, particularly if future suits are not
+foreseeable. The Evergreens v. Nunan, 141 F.2d 927,
+929 (CA2); cf. Berner v. British Commonwealth Pac.
+Airlines, 346 F.2d 532 (CA2) (application of offensive
+collateral estoppel denied where defendant did not
+appeal an adverse judgment awarding damages of
+$35,000 and defendant was later sued for over $7
+million). Allowing offensive collateral estoppel may also
+be unfair to a defendant if the judgment relied upon as a
+basis for the estoppel is itself inconsistent with one or
+more previous judgments in favor of the defendant.14
+Still another situation where it might be [439 U.S. 331]
+unfair to apply offensive estoppel is where the second
+action affords the defendant procedural opportunities
+unavailable in the first action that could readily cause a
+different result.15
+C
+We have concluded that the preferable approach for
+dealing with these problems in the federal courts is not
+to preclude the use of offensive collateral estoppel, but
+to grant trial courts broad discretion to determine when
+it should be applied.16 The general rule should be that in
+cases where a plaintiff could easily have joined in the
+earlier action or where, either for the reasons discussed
+above or for other reasons, the application of offensive
+estoppel would be unfair to a defendant, a trial judge
+should not allow the use of offensive collateral estoppel.
+In the present case, however, none of the circumstances
+that might justify reluctance to allow the offensive use of
+collateral estoppel is present. The application of
+offensive collateral [439 U.S. 332] estoppel will not here
+reward a private plaintiff who could have joined in the
+previous action, since the respondent probably could
+not have joined in the injunctive action brought by the
+SEC even had he so desired.17 Similarly, there is no
+unfairness to the petitioners in applying offensive
+collateral estoppel in this case. First, in light of the
+serious allegations made in the SEC's complaint against
+the petitioners, as well as the foreseeability of
+subsequent private suits that typically follow a successful
+Government judgment, the petitioners had every
+incentive to litigate the SEC lawsuit fully and
+vigorously.18 Second, the judgment in the SEC action
+was not inconsistent with any previous decision. Finally,
+there will in the respondent's action be no procedural
+opportunities available to the petitioners that were
+unavailable in the first action of a kind that might be
+likely to cause a different result.19
+We conclude, therefore, that none of the considerations
+that would justify a refusal to allow the use of offensive
+collateral estoppel is present in this case. Since the
+petitioners received a "full and fair" opportunity to
+litigate their claims in the [439 U.S. 333] SEC action, the
+contemporary law of collateral estoppel leads
+inescapably to the conclusion that the petitioners are
+collaterally estopped from relitigating the question of
+whether the proxy statement was materially false and
+misleading.
+II
+The question that remains is whether, notwithstanding
+the law of collateral estoppel, the use of offensive
+collateral estoppel in this case would violate the
+petitioners' Seventh Amendment right to a jury trial.20
+A
+"[T]he thrust of the [Seventh] Amendment was to
+preserve the right to jury trial as it existed in 1791."
+Curtis v. Loether, 415 U.S. 189, 193. At common law, a
+litigant was not entitled to have a jury determine issues
+that had been previously adjudicated by a chancellor in
+equity. Hopkins v. Lee, 6 Wheat. 109; Smith v.
+Kernochen, 7 How. 198, 217-218; Brady v. Daly, 175
+U.S. 148, 158-159; Shapiro & Coquillette, The Fetish of
+Jury Trial in Civil Cases: A Comment on Rachal v. Hill,
+85 Harv. L. Rev. 442, 448-458 (1971).21
+Recognition that an equitable determination could have
+collateral-estoppel effect in a subsequent legal action was
+the major premise of this Court's decision in Beacon
+Theatres, Inc. v. Westover, 359 U.S. 500. In that case
+the plaintiff sought a declaratory judgment that certain
+arrangements between it [439 U.S. 334] and the
+defendant were not in violation of the antitrust laws,
+and asked for an injunction to prevent the defendant
+from instituting an antitrust action to challenge the
+arrangements. The defendant denied the allegations and
+counter-claimed for treble damages under the antitrust
+laws, requesting a trial by jury of the issues common to
+both the legal and equitable claims. The Court of
+Appeals upheld denial of the request, but this Court
+reversed, stating:
+"[T]he effect of the action of the District Court could be, as the
+Court of Appeals believed, `to limit the petitioner's opportunity
+fully to try to a jury every issue which has a bearing upon its treble
+damage suit,' for determination of the issue of clearances by the
+judge might `operate either by way of res judicata or collateral
+estoppel so as to conclude both parties with respect thereto at the
+subsequent trial of the treble damage claim.' " Id., at 504.
+It is thus clear that the Court in the Beacon Theatres
+case thought that if an issue common to both legal and
+equitable claims was first determined by a judge,
+relitigation of the issue before a jury might be foreclosed
+by res judicata or collateral estoppel. To avoid this
+result, the Court held that when legal and equitable
+claims are joined in the same action, the trial judge has
+only limited discretion in determining the sequence of
+trial and "that discretion . . . must, wherever possible, be
+exercised to preserve jury trial." Id., at 510.22
+Both the premise of Beacon Theatres, and the fact that it
+enunciated no more than a general prudential rule were
+confirmed by this Court's decision in Katchen v. Landy,
+382 U.S. 323. In that case the Court held that a
+bankruptcy court, sitting as a statutory court of equity, is
+empowered to adjudicate [439 U.S. 335] equitable claims
+prior to legal claims, even though the factual issues
+decided in the equity action would have been triable by a
+jury under the Seventh Amendment if the legal claims
+had been adjudicated first. The Court stated:
+"Both Beacon Theatres and Dairy Queen recognize that there might
+be situations in which the Court could proceed to resolve the
+equitable claim first even though the results might be dispositive of
+the issues involved in the legal claim." Id., at 339.
+Thus the Court in Katchen v. Landy recognized that an
+equitable determination can have collateral-estoppel
+effect in a subsequent legal action and that this estoppel
+does not violate the Seventh Amendment.
+B
+Despite the strong support to be found both in history
+and in the recent decisional law of this Court for the
+proposition that an equitable determination can have
+collateral-estoppel effect in a subsequent legal action, the
+petitioners argue that application of collateral estoppel
+in this case would nevertheless violate their Seventh
+Amendment right to a jury trial. The petitioners
+contend that since the scope of the Amendment must be
+determined by reference to the common law as it existed
+in 1791, and since the common law permitted collateral
+estoppel only where there was mutuality of parties,
+collateral estoppel cannot constitutionally be applied
+when such mutuality is absent.
+The petitioners have advanced no persuasive reason,
+however, why the meaning of the Seventh Amendment
+should depend on whether or not mutuality of parties is
+present. A litigant who has lost because of adverse
+factual findings in an equity action is equally deprived of
+a jury trial whether he is estopped from relitigating the
+factual issues against the same party or a new party. In
+either case, the party against whom estoppel is asserted
+has litigated questions of fact, and has had the facts
+determined against him in an earlier proceeding. [439
+U.S. 336] In either case there is no further factfinding
+function for the jury to perform, since the common
+factual issues have been resolved in the previous action.
+Cf. Ex parte Peterson, 253 U.S. 300, 310 ("No one is
+entitled in a civil case to trial by jury unless and except
+so far as there are issues of fact to be determined").
+The Seventh Amendment has never been interpreted in
+the rigid manner advocated by the petitioners. On the
+contrary, many procedural devices developed since 1791
+that have diminished the civil jury's historic domain
+have been found not to be inconsistent with the Seventh
+Amendment. See Galloway v. United States, 319 U.S.
+372, 388-393 (directed verdict does not violate the
+Seventh Amendment); Gasoline Products Co. v.
+Champlin Refining Co., 283 U.S. 494, 497-498 (retrial
+limited to question of damages does not violate the
+Seventh Amendment even though there was no practice
+at common law for setting aside a verdict in part);
+Fidelity & Deposit Co. v. United States, 187 U.S. 315,
+319-321 (summary judgment does not violate the
+Seventh Amendment).23
+The Galloway case is particularly instructive. There the
+party against whom a directed verdict had been entered
+argued that the procedure was unconstitutional under
+the Seventh Amendment. In rejecting this claim, the
+Court said:
+"The Amendment did not bind the federal courts to the exact
+procedural incidents or details of jury trial according [439 U.S. 337]
+to the common law in 1791, any more than it tied them to the
+common-law system of pleading or the specific rules of evidence
+then prevailing. Nor were `the rules of the common law' then
+prevalent, including those relating to the procedure by which the
+judge regulated the jury's role on questions of fact, crystallized in a
+fixed and immutable system. . . .
+"The more logical conclusion, we think, and the one which both
+history and the previous decisions here support, is that the
+Amendment was designed to preserve the basic institution of jury
+trial in only its most fundamental elements, not the great mass of
+procedural forms and details, varying even then so widely among
+common-law jurisdictions." 319 U. S., at 390, 392 (footnote
+omitted).
+The law of collateral estoppel, like the law in other
+procedural areas defining the scope of the jury's
+function, has evolved since 1791. Under the rationale of
+the Galloway case, these developments are not
+repugnant to the Seventh Amendment simply for the
+reason that they did not exist in 1791. Thus if, as we
+have held, the law of collateral estoppel forecloses the
+petitioners from relitigating the factual issues
+determined against them in the SEC action, nothing in
+the Seventh Amendment dictates a different result, even
+though because of lack of mutuality there would have
+been no collateral estoppel in 1791.24
+The judgment of the Court of Appeals is
+Affirmed.
