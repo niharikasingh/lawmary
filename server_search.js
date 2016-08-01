@@ -23,7 +23,10 @@ app.get('/nodesearch', function (req, res) {
       var caseRes = cases[i];
       // add name only to beginning of array
       if (prevName != caseRes.name) {
-        if (resparr.length > 0) respstr += JSON.stringify(resparr);
+        if (resparr.length > 0){
+          respstr += JSON.stringify(resparr);
+          respstr += ",";
+        } 
         resparr = [];
         resparr.push(caseRes.name);
         prevName = caseRes.name;
