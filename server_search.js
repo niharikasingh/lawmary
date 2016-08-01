@@ -44,7 +44,7 @@ db.on( 'error', console.error.bind( console, 'connection error:' ) );
 db.once( 'open', function callback() {
 
     // independent schema
-    var CaseSchema = new Schema( {
+    var CaseSchema = new mongoose.Schema( {
         name: String,
         link: String,
         tags: [String],
