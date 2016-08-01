@@ -18,15 +18,18 @@ app.get('/nodesearch', function (req, res) {
   CaseCollection.find({name: {$regex:r}},function(err, cases){
     var respstr = 'callbackDisplay({"results":';
     var resparr = [];
+    var prevName = "";
     for (var i = 0; i < cases.length; i++) {
       var caseRes = cases[i];
-      if (i == 0) {
+      // add name only to beginning of array
+      if (prevName != caseRes.name) {
+        if (resparr.length > 0) respstr += JSON.stringify(resparr);
+        resparr = [];
         resparr.push(caseRes.name);
+        prevName = caseRes.name;
       }
-      var link = caseRes.link;
-      resparr.push(link);
+      resparr.push(caseRes.link);
     }
-    respstr += JSON.stringify(resparr);
     respstr += "});";
     res.send(respstr);
     console.log("ENDING SEARCH: " + respstr);
