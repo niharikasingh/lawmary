@@ -5,8 +5,7 @@ import logging, sys
 #set up logging
 logging.basicConfig(stream=sys.stderr, level=logging.ERROR)
 
-casedict = []
-#translation_table = dict.fromkeys(map(ord, ".,:()-"), None)
+casedict = {}
 
 i = 0
 #format: var CaseSchema = new Schema( {

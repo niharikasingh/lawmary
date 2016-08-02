@@ -14,7 +14,7 @@ app.get('/nodesearch', function (req, res) {
   // use find function
   var CaseCollection = mongoose.model('casedict');
   var r = new RegExp(q,'i');
-  CaseCollection.find({name: {$regex:r}},function(err, cases){
+  CaseCollection.find({name: {$regex:r}}, {sort:{name:1}}, function(err, cases){
     var respstr = 'callbackDisplay({"results":[';
     var resparr = [];
     var prevName = "";
@@ -93,17 +93,17 @@ app.get('/casedict', function(req, res) {
 
 // UPDATE
 app.put('/casedict', function(req, res) {
-  console.log("STARTING CASEDICT-PUT: " + JSON.stringify(req.body));
+  console.log("STARTING CASEDICT-PUT: " + JSON.stringify(req));
   var CaseCollection = mongoose.model('casedict');
-  CaseCollection.find({link: req.body.link}, function(err, caseRes){
+  CaseCollection.find({link: req.link}, function(err, caseRes){
     if (err) return res.send(err);
     else {
       caseRes.visited += 1;
       if (caseRes.examMode.length == 0) {
-          caseRes.examMode = new Array(req.body.senLength);
+          caseRes.examMode = new Array(req.senLength);
       }
-      for (i=0; i<req.body.examMode.length; i++) {
-          if(req.body.examMode[i] == true) {
+      for (i=0; i<req.examMode.length; i++) {
+          if(req.examMode[i] == true) {
             if (caseRes.examMode[i] == null) caseRes.examMode = 1;
             else caseRes.examMode += 1;
           } 
