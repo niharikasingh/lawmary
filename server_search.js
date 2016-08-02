@@ -65,6 +65,7 @@ db.once( 'open', function callback() {
 
 app.use('/casedict', function(req, res) {
     res.setHeader("Access-Control-Allow-Origin", "http://www.lawmary.com");
+    res.setHeader('Access-Control-Allow-Methods', 'GET,PUT,POST,DELETE');
 });
 
 // CREATE
