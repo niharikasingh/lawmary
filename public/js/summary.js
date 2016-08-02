@@ -100,7 +100,8 @@ $(function() {
             data: JSON.stringify({
                 link: fileLocation,
                 senLength: $('td').length,
-                examMode: selectedRows
+                examMode: selectedRows,
+                format: "json"
             }),
             dataType: "JSON",
             async: false,
