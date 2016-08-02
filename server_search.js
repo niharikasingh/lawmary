@@ -16,7 +16,7 @@ app.get('/nodesearch', function (req, res) {
   var CaseCollection = mongoose.model('casedict');
   var r = new RegExp(q,'i');
   CaseCollection.find({name: {$regex:r}},function(err, cases){
-    var respstr = 'callbackDisplay({"results":';
+    var respstr = 'callbackDisplay({"results":[';
     var resparr = [];
     var prevName = "";
     for (var i = 0; i < cases.length; i++) {
@@ -33,7 +33,8 @@ app.get('/nodesearch', function (req, res) {
       }
       resparr.push(caseRes.link);
     }
-    respstr += "});";
+    respstr += JSON.stringify(resparr);
+    respstr += "]});";
     res.send(respstr);
     console.log("ENDING SEARCH: " + respstr);
   });
@@ -101,9 +102,9 @@ app.put('/casedict', function(req, res) {
       if (caseRes.examMode.length == 0) {
           caseRes.examMode = new Array(req.body.senLength);
       }
-      for (i=0; i<caseRes.examMode.length; i++) {
+      for (i=0; i<req.body.examMode.length; i++) {
           if(req.body.examMode[i] == true) {
-            if (caseRes.examMode[i] == null) caseRes.examMode = 0;
+            if (caseRes.examMode[i] == null) caseRes.examMode = 1;
             else caseRes.examMode += 1;
           } 
       }

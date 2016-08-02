@@ -90,6 +90,25 @@ $(function() {
             }
         });
     }
+    
+    //REQUIRES: link, senLength, examMode[]
+    $.unload(function() {
+        $.ajax({
+            url: "http://lawmary.herokuapp.com/casedict",
+            type: "PUT",
+            data: JSON.stringify({
+                link: queryDict["txt"],
+                senLength: $('td').length,
+                examMode: selectedRows
+            }),
+            dataType: "JSON",
+            contentType:"application/json",
+            // Work with the response
+            success: function(response) {
+                console.log("SUMMARY.JS SUCCESS"); 
+            }
+        });
+    });
 
 });
 
