@@ -1,10 +1,10 @@
 var express = require('express');
 var mongoose = require('mongoose');
 
-// SEARCH FUNCTION
-
 var app = express();
 app.use(express.static(__dirname + "/public"));
+
+// SEARCH FUNCTION
 
 app.get('/nodesearch', function (req, res) {
   console.log("STARTING SEARCH: " + JSON.stringify(req.query));
@@ -61,11 +61,6 @@ db.once( 'open', function callback() {
     // create Mongoose models from our schemas
     var CaseCollection = mongoose.model('casedict', CaseSchema);
 
-});
-
-app.use('/casedict', function(req, res) {
-    res.setHeader("Access-Control-Allow-Origin", "http://www.lawmary.com");
-    res.setHeader('Access-Control-Allow-Methods', 'GET,PUT,POST,DELETE');
 });
 
 // CREATE

@@ -22,7 +22,7 @@ $(function() {
         q = q.toLowerCase();
         if (q.length >= 3) {
             $.ajax({
-                url: 'http://lawmary.herokuapp.com/nodesearch',
+                url: 'http://www.lawmary.com/nodesearch',
                 jsonp: 'callbackDisplay',
                 type: 'GET',
                 dataType: "jsonp",

@@ -95,7 +95,7 @@ $(function() {
     window.onbeforeunload = function() {
         console.log("SUMMARY.JS: starting unload function.")
         $.ajax({
-            url: "http://lawmary.herokuapp.com/casedict",
+            url: "http://www.lawmary.com/casedict",
             type: "PUT",
             data: JSON.stringify({
                 link: fileLocation,
