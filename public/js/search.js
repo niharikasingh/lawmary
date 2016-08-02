@@ -76,7 +76,7 @@ $(function() {
             }
         }
         //save state when navigating away
-        $("#resultlink").click(function(e) {
+        $("a").click(function(e) {
             // Create a new history item.
             window.location.hash = $("#searchbox").val();
         });   
