@@ -93,6 +93,7 @@ app.get('/casedict', function(req, res) {
 
 // UPDATE
 app.put('/casedict', function(req, res) {
+  console.log("STARTING CASEDICT-PUT: " + JSON.stringify(req.body));
   var CaseCollection = mongoose.model('casedict');
   CaseCollection.find({link: req.body.link}, function(err, caseRes){
     if (err) return res.send(err);

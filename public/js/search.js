@@ -1,6 +1,6 @@
 $(function() {
     
-    console.log("SEARCH.JS: JS started");
+    //console.log("SEARCH.JS: JS started");
     $("#results").empty();
     $("#searchbox").keyup(processInputs);
     $("#examCheckbox").click(processInputs);
@@ -32,10 +32,10 @@ $(function() {
                 },
                 // Work with the response
                 success: function(response) {
-                    console.log("SEARCH.JS SUCCESS"); 
+                    //console.log("SEARCH.JS SUCCESS"); 
                 }
             });
-            console.log("SEARCH.JS: GET function completed");
+            //console.log("SEARCH.JS: GET function completed");
         }
         else {
             $("#results").empty();
@@ -43,8 +43,8 @@ $(function() {
     }
     
     callbackDisplay = function(data){
-        console.log("SEARCH.JS starting callback function");
-        console.log("SEARCH.JS checkbox is " + $('#examCheckbox').is(":checked"));
+        //console.log("SEARCH.JS starting callback function");
+        //console.log("SEARCH.JS checkbox is " + $('#examCheckbox').is(":checked"));
         allResults = data["results"];
         $("#results").empty();
         for (var i = 0; i < allResults.length; i++) {
@@ -53,7 +53,7 @@ $(function() {
             links = links.slice(1);
             links.sort();
             links.unshift(links.pop());
-            console.log("SEARCH.JS - sorted links: " + links);
+            //console.log("SEARCH.JS - sorted links: " + links);
             if (links.length == 1) {
                 $("#results").append("<li> <a id='resultlink' href ='summary.html?" + $.param({"txt":links[0], "exam":$('#examCheckbox').is(":checked")}) + "'>" + linkName + "</a></li>");
                     }
@@ -73,14 +73,15 @@ $(function() {
                 appendStr += "</ul>";
                 $("#results").append(appendStr);
             }
-            //save state when navigating away
-            $("#resultlink").each(function() {
-                this.addEventListener('click', function(e) {
-                    // Create a new history item.
-                    window.location.hash = $("#searchbox").val();
-                });   
-            });
         }
-    }
+        //save state when navigating away
+        $("#resultlink").each(function() {
+            this.addEventListener('click', function(e) {
+                // Create a new history item.
+                console.log("created listener.");
+                window.location.hash = $("#searchbox").val();
+            });   
+        });
+    };
 
 });
