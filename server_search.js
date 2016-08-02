@@ -14,7 +14,7 @@ app.get('/nodesearch', function (req, res) {
   // use find function
   var CaseCollection = mongoose.model('casedict');
   var r = new RegExp(q,'i');
-  CaseCollection.find({name: {$regex:r}}, {sort:{name:1}}, function(err, cases){
+  CaseCollection.find({name: {$regex:r}}, null, {sort:{name:1}}, function(err, cases){
     var respstr = 'callbackDisplay({"results":[';
     var resparr = [];
     var prevName = "";
