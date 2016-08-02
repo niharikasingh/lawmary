@@ -49,9 +49,11 @@ $(function() {
         $("#results").empty();
         for (var i = 0; i < allResults.length; i++) {
             links = allResults[i];
-            linkName = links[0]
-            links = links.slice(1)
-            links.sort()
+            linkName = links[0];
+            links = links.slice(1);
+            links.sort();
+            links.unshift(links.pop());
+            console.log("SEARCH.JS - sorted links: " + links);
             if (links.length == 1) {
                 $("#results").append("<li> <a id='resultlink' href ='summary.html?" + $.param({"txt":links[0], "exam":$('#examCheckbox').is(":checked")}) + "'>" + linkName + "</a></li>");
                     }
@@ -68,7 +70,7 @@ $(function() {
                         appendStr += "<li><a id='resultlink' href='summary.html?" + $.param({"txt":links[j], "exam":$('#examCheckbox').is(":checked")}) + "'>Dissent</a></li>";
                     }
                 }
-                appendStr += "</ul>"
+                appendStr += "</ul>";
                 $("#results").append(appendStr);
             }
             //save state when navigating away

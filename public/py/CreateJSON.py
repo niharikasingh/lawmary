@@ -47,7 +47,7 @@ with open("index.txt", "r") as readfile, open("../js/casedict.json", "w") as wri
                 dcLine = allLines[j+2][:-1].decode("utf8")
                 dcLine = dcLine.split(" ")
                 for dc in dcLine:
-                    dcFileName = fileName[:-4] + "-" + dc + fileName[-4:]
+                    dcFileName = fileName[:-8] + "-" + dc + fileName[-8:]
                     caseArray.append(dcFileName)
             
             #add in JSON format

@@ -9,7 +9,7 @@ $(function() {
         $("table").before('<div class="search-text">Please note: Exam mode has not been created for this summary yet.  Please click on the sections below to highlight facts and create your own exam mode.  Once enough people have done so, exam mode will automatically be created.  </div><br/>');
     }
     
-    var fileLocation = queryDict["txt"];
+    var fileLocation = decodeURIComponent(queryDict["txt"]);
     //console.log(fileLocation);
     $.get(fileLocation,function(txt){
         //console.log(txt);
@@ -98,7 +98,7 @@ $(function() {
             url: "http://lawmary.herokuapp.com/casedict",
             type: "PUT",
             data: JSON.stringify({
-                link: queryDict["txt"],
+                link: fileLocation,
                 senLength: $('td').length,
                 examMode: selectedRows
             }),
