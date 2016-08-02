@@ -93,6 +93,7 @@ $(function() {
     
     //REQUIRES: link, senLength, examMode[]
     $.unload(function() {
+        console.log("SUMMARY.JS: starting unload function.")
         $.ajax({
             url: "http://lawmary.herokuapp.com/casedict",
             type: "PUT",
@@ -102,6 +103,7 @@ $(function() {
                 examMode: selectedRows
             }),
             dataType: "JSON",
+            async: false,
             contentType:"application/json",
             // Work with the response
             success: function(response) {

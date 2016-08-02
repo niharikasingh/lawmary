@@ -1,5 +1,4 @@
 var express = require('express');
-var casedict = require('./public/js/casedict.json');
 var mongoose = require('mongoose');
 
 // SEARCH FUNCTION
