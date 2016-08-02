@@ -64,23 +64,7 @@ db.once( 'open', function callback() {
 });
 
 // CREATE
-app.post('/casedict', function(req, res) {
-  var CaseCollection = mongoose.model('casedict');
-  // Create a new instance 
-  var newCase = new CaseCollection();
-
-  // Set the properties that came from the POST data
-  newCase.name = req.body.name;
-  newCase.link = req.body.link;
-  newCase.tags = req.body.tags;
-  newCase.visited = req.body.visited;
-  newCase.examMode = req.body.examMode;
-
-  // Save the beer and check for errors
-  newCase.save(function(err) {
-  if (err) res.send(err);
-  });
-});
+// NOT YET IMPLEMENTED
 
 // READ
 app.get('/casedict', function(req, res) {
@@ -92,8 +76,8 @@ app.get('/casedict', function(req, res) {
 });
 
 // UPDATE
-app.put('/casedict', function(req, res) {
-  console.log("STARTING CASEDICT-PUT: " + JSON.stringify(req.query));
+app.post('/casedict', function(req, res) {
+  console.log("STARTING CASEDICT POST: " + JSON.stringify(req.query));
   reqJSON = req.query;
   var CaseCollection = mongoose.model('casedict');
   CaseCollection.find({link: reqJSON["link"]}, function(err, caseRes){

@@ -96,19 +96,18 @@ $(function() {
         console.log("SUMMARY.JS: starting unload function.")
         $.ajax({
             url: "http://www.lawmary.com/casedict",
-            type: "PUT",
+            type: "POST",
             data: JSON.stringify({
                 link: fileLocation,
                 senLength: $('td').length,
                 examMode: selectedRows,
                 format: "json"
             }),
-            dataType: "JSON",
+            dataType: "json",
             async: false,
             contentType:"application/json",
-            // Work with the response
             success: function(response) {
-                console.log("SUMMARY.JS SUCCESS"); 
+                console.log("SUMMARY.JS PUT SUCCESS"); 
             }
         });
     };
