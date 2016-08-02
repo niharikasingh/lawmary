@@ -49,12 +49,15 @@ $(function() {
         $("#results").empty();
         for (var i = 0; i < allResults.length; i++) {
             links = allResults[i];
-            if (links.length == 2) {
-                $("#results").append("<li> <a id='resultlink' href ='summary.html?" + $.param({"txt":links[1], "exam":$('#examCheckbox').is(":checked")}) + "'>" + links[0] + "</a></li>");
+            linkName = links[0]
+            links = links.slice(1)
+            links.sort()
+            if (links.length == 1) {
+                $("#results").append("<li> <a id='resultlink' href ='summary.html?" + $.param({"txt":links[0], "exam":$('#examCheckbox').is(":checked")}) + "'>" + linkName + "</a></li>");
                     }
-            else if (links.length > 2){
-                appendStr = "<li> <a id='resultlink' href ='summary.html?" + $.param({"txt":links[1], "exam":$('#examCheckbox').is(":checked")}) + "'>" + links[0] + "</a><ul>";
-                for(var j = 2; j < links.length; j++) {
+            else if (links.length > 1){
+                appendStr = "<li> <a id='resultlink' href ='summary.html?" + $.param({"txt":links[0], "exam":$('#examCheckbox').is(":checked")}) + "'>" + linkName + "</a><ul>";
+                for(var j = 1; j < links.length; j++) {
                     if (links[j].indexOf("-cd") > -1) {
                         appendStr += "<li><a id='resultlink' href='summary.html?" + $.param({"txt":links[j], "exam":$('#examCheckbox').is(":checked")}) + "'>Concurrence in Part, Dissent in Part</a></li>";
                     }

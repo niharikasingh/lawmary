@@ -92,7 +92,7 @@ $(function() {
     }
     
     //REQUIRES: link, senLength, examMode[]
-    $.unload(function() {
+    window.onbeforeunload = function() {
         console.log("SUMMARY.JS: starting unload function.")
         $.ajax({
             url: "http://lawmary.herokuapp.com/casedict",
@@ -110,7 +110,7 @@ $(function() {
                 console.log("SUMMARY.JS SUCCESS"); 
             }
         });
-    });
+    };
 
 });
 
