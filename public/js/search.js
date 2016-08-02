@@ -47,6 +47,7 @@ $(function() {
         //console.log("SEARCH.JS checkbox is " + $('#examCheckbox').is(":checked"));
         allResults = data["results"];
         $("#results").empty();
+        if (allResults[0].length == 0) return;
         for (var i = 0; i < allResults.length; i++) {
             links = allResults[i];
             linkName = links[0];
@@ -75,13 +76,10 @@ $(function() {
             }
         }
         //save state when navigating away
-        $("#resultlink").each(function() {
-            this.addEventListener('click', function(e) {
-                // Create a new history item.
-                console.log("created listener.");
-                window.location.hash = $("#searchbox").val();
-            });   
-        });
+        $("#resultlink").click(function(e) {
+            // Create a new history item.
+            window.location.hash = $("#searchbox").val();
+        });   
     };
 
 });

@@ -63,6 +63,10 @@ db.once( 'open', function callback() {
 
 });
 
+app.use('/casedict', function(req, res) {
+    res.setHeader("Access-Control-Allow-Origin", "http://www.lawmary.com");
+});
+
 // CREATE
 app.post('/casedict', function(req, res) {
   var CaseCollection = mongoose.model('casedict');
