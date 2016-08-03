@@ -104,7 +104,6 @@ $(function() {
                 format: "json"
             }),
             dataType: "json",
-            async: false,
             contentType:"application/json",
             success: function(response) {
                 console.log("SUMMARY.JS PUT SUCCESS"); 
