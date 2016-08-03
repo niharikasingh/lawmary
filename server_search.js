@@ -102,6 +102,7 @@ app.post('/casedict', function(req, res) {
           } 
       }
       caseRes.examMode = tempArray;
+      caseRes.markModified('examMode');
       console.log("IN CASEDICT UPDATEDRESULT: " + JSON.stringify(caseRes));
       caseRes.save(function (err) {
         if (err) {
