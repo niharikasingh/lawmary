@@ -98,7 +98,13 @@ app.post('/casedict', function(req, res) {
           } 
       }
     }
-    caseRes.save();
+    caseRes.save(function (err) {
+        if (err) {
+          console.log(err);
+        } else {
+          console.log('Updated', caseRes);
+        }
+      });
   });
 });
 
