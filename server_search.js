@@ -71,8 +71,8 @@ db.once( 'open', function callback() {
 
 // READ
 app.get('/casedict', function(req, res) {
-  console.log("STARTING CASEDICT GET: " + JSON.stringify(req.body));
-  reqJSON = req.body;
+  console.log("STARTING CASEDICT GET: " + JSON.stringify(req));
+  reqJSON = req.query;
   var CaseCollection = mongoose.model('casedict');
   CaseCollection.findOne({link: reqJSON["link"]}, function(err, caseRes){
     if (err) return res.send(err);
