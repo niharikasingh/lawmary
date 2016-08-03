@@ -104,8 +104,17 @@ $(function() {
                     $("table").before('<div class="search-text">Please note: Exam mode has not been created for this summary yet.  Please click on the sections below to highlight facts and create your own exam mode.  Once enough people have done so, exam mode will automatically be created.  </div><br/>');
                 }
                 else {
-                    selectedRows = response;
-                    $("#examButton").trigger('click');
+                    $("#examButton").val('READ MODE');
+                    $("#examButtonLabelText").html(" Click to show entire summary ");
+                    for (var i = 0; i < response.length; i++) {
+                        if (response[i] < 10) {
+                            $('td').index(i).toggle(300);
+                        }
+                        else {
+                            $('td').index(i).css("background-color", "#f4b305");
+                            $('td').index(i).css("border-radius", "4px");
+                        }
+                    }
                 }
             }
         });  
