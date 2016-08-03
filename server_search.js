@@ -1,8 +1,11 @@
 var express = require('express');
 var mongoose = require('mongoose');
+var bodyParser = require('body-parser');
 
 var app = express();
 app.use(express.static(__dirname + "/public"));
+//app.use(bodyParser.urlencoded({ extended: false }));
+app.use(bodyParser.json());
 
 // SEARCH FUNCTION
 
@@ -77,8 +80,8 @@ app.get('/casedict', function(req, res) {
 
 // UPDATE
 app.post('/casedict', function(req, res) {
-  console.log("STARTING CASEDICT POST: " + JSON.stringify(req.query));
-  reqJSON = req.query;
+  console.log("STARTING CASEDICT POST: " + JSON.stringify(req.body));
+  reqJSON = req.body;
   var CaseCollection = mongoose.model('casedict');
   CaseCollection.find({link: reqJSON["link"]}, function(err, caseRes){
     if (err) return res.send(err);
