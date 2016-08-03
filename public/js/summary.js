@@ -35,7 +35,7 @@ $(function() {
                         $(this).css("border-radius", "4px");
                     }
                 }
-                console.log(selectedRows);
+                //console.log(selectedRows);
             });
         });
     });    
@@ -99,9 +99,9 @@ $(function() {
             dataType: "json",
             contentType:"application/json",
             success: function(response) {
-                console.log(response);
+                //console.log(response);
                 if (response.length == 0) {
-                    $("table").before('<div class="search-text">Please note: Exam mode has not been created for this summary yet.  Please click on the sections below to highlight facts and create your own exam mode.  Once enough people have done so, exam mode will automatically be created.  </div><br/>');
+                    $("table").before('<div class="search-text">Please note: Exam mode has not been created for this summary yet.  Please click on passages below to highlight facts and use the "EXAM MODE" button above to create a personalized exam mode.  Once enough people have done so, exam mode will automatically be created.  </div><br/>');
                 }
                 else {
                     $("#examButton").val('READ MODE');
@@ -123,7 +123,7 @@ $(function() {
     
     //REQUIRES: link, senLength, examMode[]
     window.onbeforeunload = function() {
-        console.log("SUMMARY.JS: starting unload function.")
+        //console.log("SUMMARY.JS: starting unload function.")
         $.ajax({
             url: "http://www.lawmary.com/casedict",
             type: "POST",
@@ -136,7 +136,7 @@ $(function() {
             dataType: "json",
             contentType:"application/json",
             success: function(response) {
-                console.log("SUMMARY.JS PUT SUCCESS"); 
+                //console.log("SUMMARY.JS PUT SUCCESS"); 
             }
         });
     };
