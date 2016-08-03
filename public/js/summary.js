@@ -113,6 +113,7 @@ $(function() {
                         else {
                             $('td').eq(i).css("background-color", "#f4b305");
                             $('td').eq(i).css("border-radius", "4px");
+                            selectedRows[i] = true;
                         }
                     }
                 }
