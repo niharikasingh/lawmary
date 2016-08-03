@@ -92,10 +92,10 @@ $(function() {
         $.ajax({
             url: "http://www.lawmary.com/casedict",
             type: "GET",
-            data: JSON.stringify({
+            data: {
                 link: fileLocation,
                 format: "json"
-            }),
+            },
             dataType: "json",
             contentType:"application/json",
             success: function(response) {
