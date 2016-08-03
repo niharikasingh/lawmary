@@ -88,17 +88,20 @@ app.post('/casedict', function(req, res) {
     else {
       console.log("IN CASEDICT FINDRESULT: " + JSON.stringify(caseRes));
       caseRes.visited += 1;
-      if (caseRes.examMode.length == 0) {
-          caseRes.examMode = new Array(reqJSON["senLength"]);
+      var tempArray = [];
+      if (caseRes.examMode.length != reqJSON["senLength"]) {
+        tempArray = new Array(reqJSON["senLength"]);
           for (var i=0; i<reqJSON["senLength"]; i++) {
-              caseRes.examMode[i] = 0;
+              tempArray[i] = 0;
           }
       }
+      else tempArray = caseRes.examMode;
       for (var i=0; i<reqJSON["examMode"].length; i++) {
           if(reqJSON["examMode"][i] == true) {
-            caseRes.examMode[i] += 1;
+            tempArray[i] += 1;
           } 
       }
+      caseRes.examMode = tempArray;
       console.log("IN CASEDICT UPDATEDRESULT: " + JSON.stringify(caseRes));
       caseRes.save(function (err) {
         if (err) {
