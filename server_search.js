@@ -86,6 +86,7 @@ app.post('/casedict', function(req, res) {
   CaseCollection.find({link: reqJSON["link"]}, function(err, caseRes){
     if (err) return res.send(err);
     else {
+      console.log("IN CASEDICT FINDRESULT: " + JSON.stringify(caseRes));
       caseRes.visited += 1;
       if (caseRes.examMode.length == 0) {
           caseRes.examMode = new Array(reqJSON["senLength"]);
