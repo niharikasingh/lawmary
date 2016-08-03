@@ -71,10 +71,19 @@ db.once( 'open', function callback() {
 
 // READ
 app.get('/casedict', function(req, res) {
+  console.log("STARTING CASEDICT GET: " + JSON.stringify(req.body));
+  reqJSON = req.body;
   var CaseCollection = mongoose.model('casedict');
-  CaseCollection.find({link: req.body.link}, function(err, caseRes){
-    if (err) return res.send(err); 
-    res.send(caseRes.examMode);
+  CaseCollection.findOne({link: reqJSON["link"]}, function(err, caseRes){
+    if (err) return res.send(err);
+    else {
+      console.log("IN CASEDICT FINDRESULT: " + JSON.stringify(caseRes));
+      var tempArray = caseRes.examMode;
+      if ((tempArray.length == 0) || (Math.max.apply(null, tempArray) >= 10)) {
+        res.send(tempArray);
+      }
+      else res.send(null);
+    }  
   });
 });
 
