@@ -83,7 +83,7 @@ app.post('/casedict', function(req, res) {
   console.log("STARTING CASEDICT POST: " + JSON.stringify(req.body));
   reqJSON = req.body;
   var CaseCollection = mongoose.model('casedict');
-  CaseCollection.find({link: reqJSON["link"]}, function(err, caseRes){
+  CaseCollection.findOne({link: reqJSON["link"]}, function(err, caseRes){
     if (err) return res.send(err);
     else {
       console.log("IN CASEDICT FINDRESULT: " + JSON.stringify(caseRes));
