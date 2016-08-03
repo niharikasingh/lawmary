@@ -87,14 +87,14 @@ app.post('/casedict', function(req, res) {
     if (err) return res.send(err);
     else {
       console.log("IN CASEDICT FINDRESULT: " + JSON.stringify(caseRes));
-      caseRes.visited += 1;
-      if (caseRes.examMode.length == 0) {
-          caseRes.examMode = new Array(reqJSON["senLength"]);
+      caseRes[0].visited += 1;
+      if (caseRes[0].examMode.length == 0) {
+          caseRes[0].examMode = new Array(reqJSON["senLength"]);
       }
       for (i=0; i<reqJSON["examMode"].length; i++) {
           if(reqJSON["examMode"][i] == true) {
-            if (caseRes.examMode[i] == null) caseRes.examMode = 1;
-            else caseRes.examMode += 1;
+            if (caseRes[0].examMode[i] == null) caseRes[0].examMode[i] = 1;
+            else caseRes[0].examMode[i] += 1;
           } 
       }
     }
