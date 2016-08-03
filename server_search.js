@@ -99,15 +99,15 @@ app.post('/casedict', function(req, res) {
             caseRes.examMode[i] += 1;
           } 
       }
-    }
-    console.log("IN CASEDICT UPDATEDRESULT: " + JSON.stringify(caseRes));
-    caseRes.save(function (err) {
+      console.log("IN CASEDICT UPDATEDRESULT: " + JSON.stringify(caseRes));
+      caseRes.save(function (err) {
         if (err) {
           console.log(err);
         } else {
           console.log('Updated', caseRes);
         }
       });
+    }  
   });
 });
 
