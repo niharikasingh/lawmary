@@ -100,7 +100,7 @@ $(function() {
             contentType:"application/json",
             success: function(response) {
                 console.log(response);
-                if (response == null) {
+                if (response.length == 0) {
                     $("table").before('<div class="search-text">Please note: Exam mode has not been created for this summary yet.  Please click on the sections below to highlight facts and create your own exam mode.  Once enough people have done so, exam mode will automatically be created.  </div><br/>');
                 }
                 else {

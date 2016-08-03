@@ -59,6 +59,8 @@ db.once( 'open', function callback() {
         tags: [String],
         visited: Number,
         examMode: [Number]
+    }, {
+        versionKey: false 
     });
 
     // create Mongoose models from our schemas
@@ -79,10 +81,10 @@ app.get('/casedict', function(req, res) {
     else {
       console.log("IN CASEDICT FINDRESULT: " + JSON.stringify(caseRes));
       var tempArray = caseRes.examMode;
-      if ((tempArray.length == 0) || (Math.max.apply(null, tempArray) >= 10)) {
-        res.send(tempArray);
+      if (Math.max.apply(null, tempArray) >= 10) {
+        res.send(JSON.stringify(tempArray));
       }
-      else res.send(null);
+      else res.send(JSON.stringify([]));
     }  
   });
 });
