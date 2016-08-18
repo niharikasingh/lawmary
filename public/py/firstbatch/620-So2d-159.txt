@@ -1,0 +1,35 @@
+We have for review Securities & Exchange Commission v. Elliott, 953 F.2d 1556 (11th Cir.1992), in which the United States Court of Appeals for the Eleventh Circuit certified a question of law which is determinative of the cause and for which there is no controlling precedent of the Supreme Court of Florida. We have jurisdiction. Art. V, § 3(b)(6), Fla. Const.
+
+The Eleventh Circuit certified the question:
+
+    Does a Florida tax certificate represent an interest in land for purposes of the Florida Uniform Commercial Code, so that Article 9 does not govern the creation of a security interest therein by virtue of § 679.104(10)[, Florida Statutes (1991)?]
+
+Id. at 1560. We answer the question in the affirmative.
+
+Appellants Howard Dore, Ruth Dore, Gerald J. Braun, Christie Braun, and Monica Brooke Braun challenge the district court's finding that tax certificates are general intangibles under section 679.106, Florida Statutes (1991). The appellants loaned money to Charles Elliott[1] and as collateral for the loans, Elliott tendered tax certificates which he had endorsed in blank before a notary public. When Elliott's assets were put into an equitable receivership, the appellants attempted to collect taxes paid on the liened properties, but the tax certificates were frozen by the district court's order. In its final order, the district
+ court found that tax certificates are general intangibles, that the only way to perfect a security interest in general intangibles is by filing a financing statement with the Secretary of State, and that the appellants having failed to file are unsecured creditors. Id. at 1557.
+
+Three statutes lead us to the conclusion that the legislature intended to exclude tax certificates from the operation of article 9[2] of Florida's Uniform Commercial Code (UCC).[3] First, section 197.102(3), Florida Statutes (1991), defines a tax certificate:
+
+    "Tax certificate" means a legal document, representing unpaid delinquent real property taxes .. . issued in accordance with this chapter against a specific parcel of real property and becoming a first lien thereon, superior to all other liens, except as provided by s. 197.573(2) [governing restrictions and covenants running with the land].
+
+Second, section 679.104, Florida Statutes (1991), governing secured transactions under Florida's UCC, provides in relevant part:
+
+This chapter does not apply:
+
+    ... .
+
+    (10) Except to the extent that provision is made for fixtures in s. 679.313, to the creation or transfer of an interest in or lien on real estate, including a lease or rents thereunder[.]
+
+Third, section 679.102(2), Florida Statutes (1991), governing the "policy and subject matter" of chapter 679, states: "This chapter does not apply to statutory liens except as provided in s. 679.310."[4] Because section 197.102(3) clearly defines a tax certificate as a first lien on real property, the plain language of sections 679.104(10) and 679.102(2) expressly excludes tax certificates (a lien on real property and a statutory lien) from the chapter governing secured transactions. We are not free to ignore the plain language of these statutes. Appellee's attempt to bring tax certificates under the purview of Florida's article 9 of the UCC, thereby requiring filing to perfect one's interest, must fail.
+
+The appellee nevertheless argues that a tax certificate comes within the scope of article 9 when the certificate is offered as security for a loan. It points to the language of subsection 679.102(3) for support: "The application of this chapter to a security interest in a secured obligation is not affected by the fact that the obligation is itself secured by a transaction or interest to which this chapter does not apply."[5] We find this section to be inapplicable to the tax certificate itself. If the question presented to us had been whether a note secured by a tax certificate is a transaction within the scope of article 9, our answer would be governed by this statutory provision. But the question here is whether the tax certificate itself is exempt and we must conclude that it is.
+
+The appellee nonetheless argues that if filing is not required pursuant to chapter 679, then commercial lenders are not protected because they have no notice of outstanding liens. We disagree. The only thing the commercial lender needs to know in order to be protected is that a tax certificate
+ has been issued on a borrower's land. The tax collector keeps a record of all tax certificates sold. Issuance of the certificate is notice to creditors. Once the lender knows that a tax certificate has been sold, the lender knows that there is a "first lien" on the land, "superior to all other liens." The identity of the holder of the certificate is irrelevant to the business decision of the creditor to lend or not to lend.
+
+This reality is borne out by the underlying facts of this case. No creditor is claiming it was misled in handing over stocks and bonds to Elliott by any representation relative to who owned the outstanding tax certificates. Securities & Exchange Comm'n v. Elliott, 953 F.2d 1560 (11th Cir.1992). The creditors were misled by Elliott's representation that their stocks and bonds were being held by him in exchange for higher periodic payments than the coupons would warrant. The number of persons defrauded by Elliott's scheme is so large that the receiver in bankruptcy is justifiably concerned that there may be insufficient assets to satisfy so large a number of creditors. Nevertheless, the language of the statutes requires that the receiver look elsewhere than to the tax certificates held by the appellants.
+
+Having answered the certified question, we return this case to the United States Court of Appeals for the Eleventh Circuit for disposition.
+
+It is so ordered.

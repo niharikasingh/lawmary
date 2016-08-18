@@ -1,0 +1,71 @@
+PER CURIAM:
+
+This case arises out of a plan by the Detroit Economic Development Corporation to acquire, by condemnation if necessary, a large tract of land to be conveyed to General Motors Corporation as a site for construction of an assembly plant. The plaintiffs, a neighborhood association and several individual residents of the affected area, brought suit in Wayne Circuit Court to challenge the project on a number of grounds, not all of which have been argued to this Court. Defendants' motions for summary judgment were denied pending trial on a single question of fact: whether, under 1980 PA 87; MCL 213.51 et seq.; MSA 8.265(1) et seq., the city abused its discretion in determining that condemnation of plaintiffs' property was necessary to complete the project.
+
+The trial lasted 10 days and resulted in a judgment for defendants and an order on December 9, 1980, dismissing plaintiffs' complaint. The plaintiffs filed a claim of appeal with the Court of Appeals on December 12, 1980, and an application for bypass with this Court on December 15, 1980.
+
+We granted a motion for immediate consideration
+ and an application for leave to appeal prior to decision by the Court of Appeals to consider the following questions:
+
+Does the use of eminent domain in this case constitute a taking of private property for private use and, therefore, contravene Const 1963, art 10, § 2?
+
+Did the court below err in ruling that cultural, social and historical institutions were not protected by the Michigan Environmental Protection Act?
+
+We conclude that these questions must be answered in the negative and affirm the trial court's decision.
+
+I
+
+This case raises a question of paramount importance to the future welfare of this state and its residents: Can a municipality use the power of eminent domain granted to it by the Economic Development Corporations Act, MCL 125.1601 et seq.; MSA 5.3520(1) et seq., to condemn property for transfer to a private corporation to build a plant to promote industry and commerce, thereby adding jobs and taxes to the economic base of the municipality and state?
+
+Const 1963, art 10, § 2, states in pertinent part that "[p]rivate property shall not be taken for public use without just compensation therefor being first made or secured in a manner prescribed by law". Art 10, § 2 has been interpreted as requiring that the power of eminent domain not be invoked except to further a public use or purpose.[1] Plaintiffs-appellants urge us to distinguish between the terms "use" and "purpose", asserting
+ they are not synonymous and have been distinguished in the law of eminent domain. We are persuaded the terms have been used interchangeably in Michigan statutes and decisions in an effort to describe the protean concept of public benefit. The term "public use" has not received a narrow or inelastic definition by this Court in prior cases.[2] Indeed, this Court has stated that "`[a] public use changes with changing conditions of society'" and that "`[t]he right of the public to receive and enjoy the benefit of the use determines whether the use is public or private'".[3]
+
+The Economic Development Corporations Act is a part of the comprehensive legislation dealing with planning, housing and zoning whereby the State of Michigan is attempting to provide for the general health, safety, and welfare through alleviating unemployment, providing economic assistance to industry, assisting the rehabilitation of blighted areas, and fostering urban redevelopment.
+
+Section 2 of the act provides:
+
+"There exists in this state the continuing need for programs to alleviate and prevent conditions of unemployment, and that it is accordingly necessary to assist and retain local industries and commercial enterprises to strengthen and revitalize the economy of this state and its municipalities; that accordingly it is necessary to provide means and methods for the encouragement and assistance of industrial and commercial enterprises in locating, purchasing, constructing, reconstructing, modernizing, improving, maintaining, repairing, furnishing, equipping, and expanding in this state and in
+ its municipalities; and that it is also necessary to encourage the location and expansion of commercial enterprises to more conveniently provide needed services and facilities of the commercial enterprises to municipalities and the residents thereof. Therefore, the powers granted in this act constitute the performance of essential public purposes and functions for this state and its municipalities." MCL 125.1602; MSA 5.3520(2). (Emphasis added.)
+
+To further the objectives of this act, the Legislature has authorized municipalities to acquire property by condemnation in order to provide industrial and commercial sites and the means of transfer from the municipality to private users. MCL 125.1622; MSA 5.3520(22).
+
+Plaintiffs-appellants do not challenge the declaration of the Legislature that programs to alleviate and prevent conditions of unemployment and to preserve and develop industry and commerce are essential public purposes. Nor do they challenge the proposition that legislation to accomplish this purpose falls within the constitutional grant of general legislative power to the Legislature in Const 1963, art 4, § 51, which reads as follows:
+
+"The public health and general welfare of the people of the state are hereby declared to be matters of primary public concern. The legislature shall pass suitable laws for the protection and promotion of the public health."
+
+What plaintiffs-appellants do challenge is the constitutionality of using the power of eminent domain to condemn one person's property to convey it to another private person in order to bolster the economy. They argue that whatever incidental benefit may accrue to the public, assembling land to General Motors' specifications for conveyance to
+ General Motors for its uncontrolled use in profit making is really a taking for private use and not a public use because General Motors is the primary beneficiary of the condemnation.
+
+The defendants-appellees contend, on the other hand, that the controlling public purpose in taking this land is to create an industrial site which will be used to alleviate and prevent conditions of unemployment and fiscal distress. The fact that it will be conveyed to and ultimately used by a private manufacturer does not defeat this predominant public purpose.
+
+There is no dispute about the law. All agree that condemnation for a public use or purpose is permitted. All agree that condemnation for a private use or purpose is forbidden. Similarly, condemnation for a private use cannot be authorized whatever its incidental public benefit and condemnation for a public purpose cannot be forbidden whatever the incidental private gain. The heart of this dispute is whether the proposed condemnation is for the primary benefit of the public or the private user.
+
+The Legislature has determined that governmental action of the type contemplated here meets a public need and serves an essential public purpose. The Court's role after such a determination is made is limited.
+
+"`The determination of what constitutes a public purpose is primarily a legislative function, subject to review by the courts when abused, and the determination of the legislative body of that matter should not be reversed except in instances where such determination is palpable and manifestly arbitrary and incorrect.'" Gregory Marina, Inc v Detroit, 378 Mich 364, 396; 144 NW2d 503 (1966).
+ The United States Supreme Court has held that when a legislature speaks, the public interest has been declared in terms "well-nigh conclusive". Berman v Parker, 348 US 26, 32; 75 S Ct 98; 99 L Ed 27 (1954).
+
+The Legislature has delegated the authority to determine whether a particular project constitutes a public purpose to the governing body of the municipality involved.[4] The plaintiffs concede that this project is the type contemplated by the Legislature[5] and that the procedures set forth in the Economic Development Corporations Act have been followed.[6] This further limits our review.
+
+In the court below, the plaintiffs-appellants challenged the necessity for the taking of the land for the proposed project. In this regard the city presented substantial evidence of the severe economic conditions facing the residents of the city and state, the need for new industrial development to revitalize local industries, the economic boost the proposed project would provide, and the lack of other adequate available sites to implement the project.
+
+As Justice COOLEY stated over a hundred years ago "the most important consideration in the case of eminent domain is the necessity of accomplishing some public good which is otherwise impracticable, and * * * the law does not so much regard the means as the need". People ex rel Detroit & Howell R Co v Salem Twp Board, 20 Mich 452, 480-481 (1870).
+
+When there is such public need, "[t]he abstract right [of an individual] to make use of his own property in his own way is compelled to yield to
+ the general comfort and protection of community, and to a proper regard to relative rights in others". Id. Eminent domain is an inherent power of the sovereign of the same nature as, albeit more severe than, the power to regulate the use of land through zoning or the prohibition of public nuisances.
+
+In the instant case the benefit to be received by the municipality invoking the power of eminent domain is a clear and significant one and is sufficient to satisfy this Court that such a project was an intended and a legitimate object of the Legislature when it allowed municipalities to exercise condemnation powers even though a private party will also, ultimately, receive a benefit as an incident thereto.
+
+The power of eminent domain is to be used in this instance primarily to accomplish the essential public purposes of alleviating unemployment and revitalizing the economic base of the community. The benefit to a private interest is merely incidental.
+
+Our determination that this project falls within the public purpose, as stated by the Legislature, does not mean that every condemnation proposed by an economic development corporation will meet with similar acceptance simply because it may provide some jobs or add to the industrial or commercial base. If the public benefit was not so clear and significant, we would hesitate to sanction approval of such a project. The power of eminent domain is restricted to furthering public uses and purposes and is not to be exercised without substantial proof that the public is primarily to be benefited. Where, as here, the condemnation power is exercised in a way that benefits specific and identifiable private interests, a court inspects with
+ heightened scrutiny the claim that the public interest is the predominant interest being advanced. Such public benefit cannot be speculative or marginal but must be clear and significant if it is to be within the legitimate purpose as stated by the Legislature. We hold this project is warranted on the basis that its significance for the people of Detroit and the state has been demonstrated.
+
+II
+
+Plaintiffs' complaint also alleged that the proposed project violates the Michigan Environmental Protection Act (MEPA), MCL 691.1201 et seq.; MSA 14.528(201) et seq., because it "will have a major adverse impact on the adjoining social and cultural environment which is referred to as Poletown". The trial court dismissed this claim, stating that "`social and cultural environments' are matters not within the purview of the MEPA and outside its legislative intent". We agree.
+
+MCL 691.1202(1); MSA 14.528(202)(1) permits maintenance of an action for declaratory and equitable relief against the state, its political subdivisions, or private entities, "for the protection of the air, water and other natural resources and the public trust therein from pollution, impairment or destruction". (Emphasis supplied.) The reference to "air, water and other natural resources" is also made in other sections of the act and in its title. Given its plain meaning, the term "natural resources" does not encompass a "social and cultural environment". Moreover, under the principle of ejusdem generis, where a statute contains a general term supplementing a more specific enumeration, the general term will not be construed to refer to objects not of like kind with those enumerated.
+2A Sutherland, Statutory Construction (4th ed), §§ 47.18-47.19, pp 109-114.
+
+The decision of the trial court is affirmed.

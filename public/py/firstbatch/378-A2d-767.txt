@@ -1,0 +1,108 @@
+We granted certification in these cases to consider whether a landlord seeking damages from a defaulting tenant is under a duty to mitigate damages by making reasonable efforts to re-let an apartment wrongfully vacated by the tenant. Separate parts of the Appellate Division held that, in accordance with their respective leases, the landlords in both cases could recover rents due under the leases regardless of whether they had attempted to re-let the vacated apartments. Although they were of different
+ minds as to the fairness of this result, both parts agreed that it was dictated by Joyce v. Bauman, 113 N.J.L. 438 (E. & A. 1934), a decision by the former Court of Errors and Appeals. We now reverse and hold that a landlord does have an obligation to make a reasonable effort to mitigate damages in such a situation. We therefore overrule Joyce v. Bauman to the extent that it is inconsistent with our decision today.
+
+I
+
+A.
+
+Sommer v. Kridel
+
+This case was tried on stipulated facts. On March 10, 1972 the defendant, James Kridel, entered into a lease with the plaintiff, Abraham Sommer, owner of the "Pierre Apartments" in Hackensack, to rent apartment 6-L in that building.[1] The term of the lease was from May 1, 1972 until April 30, 1974, with a rent concession for the first six weeks, so that the first month's rent was not due until June 15, 1972.
+
+One week after signing the agreement, Kridel paid Sommer $690. Half of that sum was used to satisfy the first month's rent. The remainder was paid under the lease provision requiring a security deposit of $345. Although defendant had expected to begin occupancy around May 1, his plans were changed. He wrote to Sommer on May 19, 1972, explaining
+
+I was to be married on June 3, 1972. Unhappily the engagement was broken and the wedding plans cancelled. Both parents were to assume responsibility for the rent after our marriage. I was discharged from the U.S. Army in October 1971 and am now a student.
+ I have no funds of my own, and am supported by my stepfather.
+
+In view of the above, I cannot take possession of the apartment and am surrendering all rights to it. Never having received a key, I cannot return same to you.
+
+I beg your understanding and compassion in releasing me from the lease, and will of course, in consideration thereof, forfeit the 2 month's rent already paid.
+
+Please notify me at your earliest convenience.
+
+Plaintiff did not answer the letter.
+
+Subsequently, a third party went to the apartment house and inquired about renting apartment 6-L. Although the parties agreed that she was ready, willing and able to rent the apartment, the person in charge told her that the apartment was not being shown since it was already rented to Kridel. In fact, the landlord did not re-enter the apartment or exhibit it to anyone until August 1, 1973. At that time it was rented to a new tenant for a term beginning on September 1, 1973. The new rental was for $345 per month with a six week concession similar to that granted Kridel.
+
+Prior to re-letting the new premises, plaintiff sued Kridel in August 1972, demanding $7,590, the total amount due for the full two-year term of the lease. Following a mistrial, plaintiff filed an amended complaint asking for $5,865, the amount due between May 1, 1972 and September 1, 1973. The amended complaint included no reduction in the claim to reflect the six week concession provided for in the lease or the $690 payment made to plaintiff after signing the agreement. Defendant filed an amended answer to the complaint, alleging that plaintiff breached the contract, failed to mitigate damages and accepted defendant's surrender of the premises. He also counterclaimed to demand repayment of the $345 paid as a security deposit.
+
+The trial judge ruled in favor of defendant. Despite his conclusion that the lease had been drawn to reflect "the `settled law' of this state," he found that "justice and fair dealing" imposed upon the landlord the duty to attempt to re-let the premises and thereby mitigate damages. He also
+ held that plaintiff's failure to make any response to defendant's unequivocal offer of surrender was tantamount to an acceptance, thereby terminating the tenancy and any obligation to pay rent. As a result, he dismissed both the complaint and the counterclaim. The Appellate Division reversed in a per curiam opinion, 153 N.J. Super. 1 (1976), and we granted certification. 69 N.J. 395 (1976).
+
+B.
+
+Riverview Realty Co. v. Perosio
+
+This controversy arose in a similar manner. On December 27, 1972, Carlos Perosio entered into a written lease with plaintiff Riverview Realty Co. The agreement covered the rental of apartment 5-G in a building owned by the realty company at 2175 Hudson Terrace in Fort Lee. As in the companion case, the lease prohibited the tenant from subletting or assigning the apartment without the consent of the landlord. It was to run for a two-year term, from February 1, 1973 until January 31, 1975, and provided for a monthly rental of $450. The defendant took possession of the apartment and occupied it until February 1974. At that time he vacated the premises, after having paid the rent through January 31, 1974.
+
+The landlord filed a complaint on October 31, 1974, demanding $4,500 in payment for the monthly rental from February 1, 1974 through October 31, 1974. Defendant answered the complaint by alleging that there had been a valid surrender of the premises and that plaintiff failed to mitigate damages. The trial court granted the landlord's motion for summary judgment against the defendant, fixing the damages at $4,050 plus $182.25 interest.[2]
+
+ The Appellate Division affirmed the trial court, holding that it was bound by prior precedents, including Joyce v. Bauman, supra. 138 N.J. Super. 270 (App. Div. 1976). Nevertheless, it freely criticized the rule which it found itself obliged to follow:
+
+There appears to be no reason in equity or justice to perpetuate such an unrealistic and uneconomic rule of law which encourages an owner to let valuable rented space lie fallow because he is assured of full recovery from a defaulting tenant. Since courts in New Jersey and elsewhere have abandoned ancient real property concepts and applied ordinary contract principles in other conflicts between landlord and tenant there is no sound reason for a continuation of a special real property rule to the issue of mitigation. * * *
+
+[138 N.J. Super. at 273-74; citations omitted]
+
+We granted certification. 70 N.J. 145 (1976).
+
+II
+
+As the lower courts in both appeals found, the weight of authority in this State supports the rule that a landlord is under no duty to mitigate damages caused by a defaulting tenant. See Joyce v. Bauman, supra; Weiss v. I. Zapinski, Inc., 65 N.J. Super. 351 (App. Div. 1961); Heyman v. Linwood Park, 41 N.J. Super. 437 (App. Div. 1956); Zucker v. Dehm, 128 N.J.L. 435 (Sup. Ct. 1942); Heckel v. Griese, 12 N.J. Misc. 211 (Sup. Ct. 1934); Muller v. Beck, 94 N.J.L. 311 (Sup. Ct. 1920); Tanella v. Rettagliata, 120 N.J. Super. 400, 407 (Cty. Ct. 1972); but see Zabriskie v. Sullivan, 80 N.J.L. 673, 675 (Sup. Ct. 1910) (characterized as dictum and rejected in Muller v. Beck, supra), aff'd 82 N.J.L. 545 (E. & A. 1911); Carey v. Hejke, 119 N.J.L. 594, 596 (Sup. Ct. 1938). This rule has been followed in a majority of states, Annot. 21 A.L.R.3d 534, § 2[a] at 541 (1968), and has been tentatively adopted in the American Law Institute's Restatement of Property. Restatement
+ (Second) of Property, § 11.1(3) (Tent. Draft No. 3, 1975).
+
+Nevertheless, while there is still a split of authority over this question, the trend among recent cases appears to be in favor of a mitigation requirement. Compare Dushoff v. Phoenix Co., 23 Ariz. App. 238, 532 P.2d 180 (App. 1975); Hirsch v. Merchants National Bank & Trust Co., 336 N.E.2d 833 (Ind. App. 1975); Wilson v. Ruhl, 277 Md. 607, 356 A.2d 544 (1976) (by statute); Bernstein v. Seglin, 184 Neb. 673, 171 N.W.2d 247 (1969); Lefrak v. Lambert, 89 Misc.2d 197, 390 N.Y.S.2d 959 (N.Y. Cty. Ct. 1976); Howard Stores Corp. v. Rayon Co., Inc., 36 A.D.2d 911, 320 N.Y.S.2d 861 (App. Div. 1971); Ross v. Smigelski, 42 Wis.2d 185, 166 N.W.2d 243 (1969); with Chandler Leas. Div. v. Florida-Vanderbilt Dev. Corp., 464 F.2d 267 (5 Cir.1972) cert. den. 409 U.S. 1041, 93 S.Ct. 527, 34 L.Ed.2d 491 (1972) (applying Florida law to the rental of a yacht); Winshall v. Ampco Auto Parks, Inc., 417 F. Supp. 334 (E.D. Mich. 1976) (finding that under Michigan law a landlord has a duty to mitigate damages where he is suing for a breach of contract, but not where it is solely a suit to recover rent); Ryals v. Laney, 338 So.2d 413 (Ala. Civ. App. 1976); B.K.K. Co. v. Schultz, 7 Cal. App.3d 786, 86 Cal. Rptr. 760 (App. 1970) (dictum); Carpenter v. Riddle, 527 P.2d 592 (Okl. Sup. Ct. 1974); Hurwitz v. Kohm, 516 S.W. 2d 33 (Mo. App. 1974).
+
+The majority rule is based on principles of property law which equate a lease with a transfer of a property interest in the owner's estate. Under this rationale the lease conveys to a tenant an interest in the property which forecloses any control by the landlord; thus, it would be anomalous to require the landlord to concern himself with the tenant's abandonment of his own property. Wright v. Baumann, 239 Or. 410, 398 P.2d 119, 120-21, 21 A.L.R.3d 527 (1965).
+
+For instance, in Muller v. Beck, supra, where essentially the same issue was posed, the court clearly treated the lease
+as governed by property, as opposed to contract, precepts.[3] The court there observed that the "tenant had an estate for years, but it was an estate qualified by this right of the landlord to prevent its transfer," 94 N.J.L. at 313, and that "the tenant has an estate with which the landlord may not interfere." Id. at 314. Similarly, in Heckel v. Griese, supra, the court noted the absolute nature of the tenant's interest in the property while the lease was in effect, stating that "when the tenant vacated, ... no one, in the circumstances, had any right to interfere with the defendant's possession of the premises." 12 N.J. Misc. at 213. Other cases simply cite the rule announced in Muller v. Beck, supra, without discussing the underlying rationale. See Joyce v. Bauman, supra, 113 N.J.L. at 440; Weiss v. I. Zapinski, Inc., supra, 65 N.J. Super. at 359; Heyman v. Linwood Park, supra, 41 N.J. Super. at 411; Zucker v. Dehm, supra, 128 N.J.L. at 436; Tanella v. Rettagliata, supra, 120 N.J. Super. at 407.
+
+Yet the distinction between a lease for ordinary residential purposes and an ordinary contract can no longer be considered viable. As Professor Powell observed, evolving "social factors have exerted increasing influence on the law of estates for years." 2 Powell on Real Property (1977 ed.), § 221[1] at 180-81. The result has been that
+
+[t]he complexities of city life, and the proliferated problems of modern society in general, have created new problems for lessors and lessees and these have been commonly handled by specific clauses in leases. This growth in the number and detail of specific lease covenants has reintroduced into the law of estates for years a predominantly contractual ingredient.
+
+[Id. at 181]
+Thus, in 6 Williston on Contracts (3 ed. 1962), § 890A at 592, it is stated:
+
+There is a clearly discernible tendency on the part of courts to cast aside technicalities in the interpretation of leases and to concentrate their attention, as in the case of other contracts, on the intention of the parties, * * *.
+
+See also Javins v. First National Realty Corp., 138 U.S. App. D.C. 369, 428 F.2d 1071, 1075 (D.C. Cir.1970), cert. den. 400 U.S. 925, 91 S.Ct. 186, 27 L.Ed.2d 185 (1970) ("the trend toward treating leases as contracts is wise and well considered"); 57 E. 54 Realty Corp. v. Gay Nineties Realty Corp., 71 Misc.2d 353, 335 N.Y.S.2d 872, 874 (App. Div. 1972); Parkwood Realty Co. v. Marcano, 77 Misc.2d 690, 353 N.Y.S.2d 623, 626 (Cty. Ct. 1974); 3 Thompson on Real Property (1959 ed.), § 1110 at 377; Hicks, "The Contractual Nature of Real Property Leases," 24 Baylor L. Rev. 443 (1972); Note, "Right of Lessor to Refuse any Subtenant When Lease Prohibits Transfer Without Consent," 41 Minn. L. Rev. 355, 357 (1957).
+
+This Court has taken the lead in requiring that landlords provide housing services to tenants in accordance with implied duties which are hardly consistent with the property notions expressed in Muller v. Beck, supra, and Heckel v. Griese, supra. See Braitman v. Overlook Terrace Corp., 68 N.J. 368 (1975) (liability for failure to repair defective apartment door lock); Berzito v. Gambino, 63 N.J. 460 (1973) (construing implied warranty of habitability and covenant to pay rent as mutually dependent); Marini v. Ireland, 56 N.J. 130 (1970) (implied covenant to repair); Reste Realty Corp. v. Cooper, 53 N.J. 444 (1969) (implied warranty of fitness of premises for leased purpose). In fact, in Reste Realty Corp. v. Cooper, supra, we specifically noted that the rule which we announced there did not comport with the historical notion of a lease as an estate for years. 53 N.J. at 451-52. And in Marini v. Ireland, supra, we found that the "guidelines employed to construe contracts have
+been modernly applied to the construction of leases." 56 N.J. at 141.
+
+Application of the contract rule requiring mitigation of damages to a residential lease may be justified as a matter of basic fairness.[4] Professor McCormick first commented upon the inequity under the majority rule when he predicted in 1925 that eventually
+
+the logic, inescapable according to the standards of a `jurisprudence of conceptions' which permits the landlord to stand idly by the vacant, abandoned premises and treat them as the property of the tenant and recover full rent, will yield to the more realistic notions of social advantage which in other fields of the law have forbidden a recovery for damages which the plaintiff by reasonable efforts could have avoided.
+
+[McCormick, "The Rights of the Landlord Upon Abandonment of the Premises by the Tenant," 23 Mich. L. Rev. 211, 221-22 (1925)]
+
+Various courts have adopted this position. See Annot., supra, § 7(a) at 565, and ante at 453-454.
+
+The pre-existing rule cannot be predicated upon the possibility that a landlord may lose the opportunity to rent another empty apartment because he must first rent the apartment vacated by the defaulting tenant. Even where the breach occurs in a multi-dwelling building, each apartment may have unique qualities which make it attractive to certain individuals. Significantly, in Sommer v. Kridel, there was a specific request to rent the apartment vacated by the defendant; there is no reason to believe that absent this vacancy the landlord could have succeeded in renting a different apartment to this individual.
+
+We therefore hold that antiquated real property concepts which served as the basis for the pre-existing rule, shall
+ no longer be controlling where there is a claim for damages under a residential lease. Such claims must be governed by more modern notions of fairness and equity. A landlord has a duty to mitigate damages where he seeks to recover rents due from a defaulting tenant.
+
+If the landlord has other vacant apartments besides the one which the tenant has abandoned, the landlord's duty to mitigate consists of making reasonable efforts to re-let the apartment. In such cases he must treat the apartment in question as if it was one of his vacant stock.
+
+As part of his cause of action, the landlord shall be required to carry the burden of proving that he used reasonable diligence in attempting to re-let the premises. We note that there has been a divergence of opinion concerning the allocation of the burden of proof on this issue. See Annot., supra, § 12 at 577. While generally in contract actions the breaching party has the burden of proving that damages are capable of mitigation, see Sandler v. Lawn-A-Mat Chem. & Equip. Corp., 141 N.J. Super. 437, 455 (App. Div. 1976); McCormick, Damages, § 33 at 130 (1935), here the landlord will be in a better position to demonstrate whether he exercised reasonable diligence in attempting to re-let the premises. Cf. Kulm v. Coast to Coast Stores Central Org., 248 Or. 436, 432 P.2d 1006 (1967) (burden on lessor in contract to renew a lease).
+
+III
+
+The Sommer v. Kridel case presents a classic example of the unfairness which occurs when a landlord has no responsibility to minimize damages. Sommer waited 15 months and allowed $4658.50 in damages to accrue before attempting to re-let the apartment. Despite the availability of a tenant who was ready, willing and able to rent the apartment, the landlord needlessly increased the damages by turning her away. While a tenant will not necessarily be excused from his obligations under a lease simply by finding another person who is willing to rent the vacated premises, see, e.g.,
+Reget v. Dempsey-Tegler & Co., 70 Ill. App.2d 32, 216 N.E. 2d 500 (Ill. App. 1966) (new tenant insisted on leasing the premises under different terms); Edmands v. Rust & Richardson Drug Co., 191 Mass. 123, 77 N.E. 713 (1906) (landlord need not accept insolvent tenant), here there has been no showing that the new tenant would not have been suitable. We therefore find that plaintiff could have avoided the damages which eventually accrued, and that the defendant was relieved of his duty to continue paying rent. Ordinarily we would require the tenant to bear the cost of any reasonable expenses incurred by a landlord in attempting to re-let the premises, see Ross v. Smigelski, supra, 166 N.W.2d at 248-49; 22 Am. Jur.2d, Damages, § 169 at 238, but no such expenses were incurred in this case.[5]
+
+In Riverview Realty Co. v. Perosio, no factual determination was made regarding the landlord's efforts to mitigate damages, and defendant contends that plaintiff never answered his interrogatories. Consequently, the judgment is reversed and the case remanded for a new trial. Upon remand and after discovery has been completed, R. 4:17 et seq., the trial court shall determine whether plaintiff attempted to mitigate damages with reasonable diligence, see Wilson v. Ruhl, supra, 356 A.2d at 546, and if so, the extent of damages remaining and assessable to the tenant. As we have held above, the burden of proving that reasonable diligence was used to re-let the premises shall be upon the plaintiff. See Annot., supra, § 11 at 575.
+
+In assessing whether the landlord has satisfactorily carried his burden, the trial court shall consider, among other factors, whether the landlord, either personally or
+through an agency, offered or showed the apartment to any prospective tenants, or advertised it in local newspapers. Additionally, the tenant may attempt to rebut such evidence by showing that he proffered suitable tenants who were rejected. However, there is no standard formula for measuring whether the landlord has utilized satisfactory efforts in attempting to mitigate damages, and each case must be judged upon its own facts. Compare Hershorin v. La Vista, Inc., 110 Ga. App. 435, 138 S.E.2d 703 (App. 1964) ("reasonable effort" of landlord by showing the apartment to all prospective tenants); Carpenter v. Wisniewski, 139 Ind. App. 325, 215 N.E.2d 882 (App. 1966) (duty satisfied where landlord advertised the premises through a newspaper, placed a sign in the window, and employed a realtor); Re Garment Center Capitol, Inc., 93 F.2d 667, 115 A.L.R. 202 (2 Cir.1938) (landlord's duty not breached where higher rental was asked since it was known that this was merely a basis for negotiations); Foggia v. Dix, 265 Or. 315, 509 P.2d 412, 414 (1973) (in mitigating damages, landlord need not accept less than fair market value or "substantially alter his obligations as established in the pre-existing lease"); with Anderson v. Andy Darling Pontiac, Inc., 257 Wis. 371, 43 N.W.2d 362 (1950) (reasonable diligence not established where newspaper advertisement placed in one issue of local paper by a broker); Scheinfeld v. Muntz T.V., Inc., 67 Ill. App.2d 8, 214 N.E.2d 506 (Ill. App. 1966) (duty breached where landlord refused to accept suitable subtenant); Consolidated Sun Ray, Inc. v. Oppenstein, 335 F.2d 801, 811 (8 Cir.1964) (dictum) (demand for rent which is "far greater than the provisions of the lease called for" negates landlord's assertion that he acted in good faith in seeking a new tenant).
+
+IV
+
+The judgment in Sommer v. Kridel is reversed. In Riverview Realty Co. v. Perosio, the judgment is reversed and the
+case is remanded to the trial court for proceedings in accordance with this opinion.
+
+For reversal in Sommer and reversal and remandment in Riverview Realty Co. — Chief Justice HUGHES, Justices MOUNTAIN, PASHMAN, CLIFFORD and SCHREIBER and Judge CONFORD — 6.
+
+For affirmance — None.

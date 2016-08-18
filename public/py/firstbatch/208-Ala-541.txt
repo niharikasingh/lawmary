@@ -1,0 +1,78 @@
+The plaintiff, appellee here, entered into a contract with the defendant, appellant here, for the purchase from defendant of a certain house and lot in the city of Birmingham. It was stipulated that the title should be "good and merchantable." that the seller should furnish abstract to purchaser within 10 days, and that the purchaser should pass on title within 10 days after the abstract was furnished; and that, if the title should not be merchantable, the seller should refund the cash payment of $1,000 to the purchaser.
+
+Acting on the opinion of its attorney, based on the abstract furnished, the purchaser declined to accept the title and complete the purchase on the ground that the title was not good and merchantable; and this action is brought by the purchaser to recover the earnest money paid by it under the condition stipulated.
+
+The abstract shows that the Elyton Land Company, a domestic corporation, conveyed the lot to Charles A. Johnston, by a deed dated May 29, 1883, without any attesting witnesses, and without any acknowledgment by the grantor. It notes that the deed was proven "by W. E. Cooner on June 5, 1883, before W. S. Earnest."
+
+It shows further that Charles A. Johnston conveyed the lot to Alabama Trust Savings Company on March 29, 1901; that said company conveyed it to H. L. McConnell on August 13, 1902; and that H. L. McConnell executed a mortgage thereon to the United States Mortgage Trust Company, to secure a loan of $14,000, on March 29, 1904.
+
+With respect to this mortgage, the abstract shows a marginal entry of satisfaction by "United States Mortgage Trust Company, by Clement Gazzam, Atty. in Fact," and shows a power of attorney therefor from said company to said Gazzam, dated February 17, 1909, witnessed by A. W. Keenil and E. L. Smith, and acknowledged on the same day by J. W. Platten, vice president, before "E. L. Smith. N. P. for N.Y. County, N.Y.," with seal attached.
+
+Examination of the record of this instrument shows a notarial certificate which does not refer to the notarial seal, nor is there anything to show that the seal was attached by the notary.
+
+These are the defects of record noted by plaintiff's attorney, the existence of which led to plaintiff's rejection of the title.
+
+The sole question therefore to be determined is whether, notwithstanding these defects in the record of title, the title was good and merchantable, as the contract stipulated it should be, and as the law would have required even without such a stipulation.
+
+The principles of law which govern in such an inquiry have often been stated by the courts, and the decisions which illustrate the application of those principles are very numerous indeed. Unfortunately they exhibit many shadings of judicial opinion, and not a little contrariety of view.
+
+2
+In 39 Cyc. 1450 (c), the law is thus stated:
+
+"In equity a good title means a marketable title, and such a title is necessary and sufficient. And, according to the weight of authority, the same is now true at law, although it was formerly held, and seems to be still held in some jurisdictions, that at law a good title is any title not absolutely bad, and that a title which is not marketable may still be good. * * * Accepting the prevailing rule that a good title is a marketable title, a good or marketable title is a title which is free from reasonable doubt either in law or fact. In some jurisdictions it is held that it must be fairly deducible of record, while elsewhere it may in a clear case rest partly in parol unless the contract calls for a record title. It must consist of both the legal and equitable title. And it must not be in litigation, or be such as may subject the purchaser to the hazard and expense of future litigation. The rule that the title must be free from reasonable doubt does not require a title absolutely free from all suspicion or possible defect, but only requires a title which a reasonable purchaser, well informed as to the facts and their legal bearings, willing and anxious to perform his contract, would, in the exercise of that prudence which business men ordinarily bring to bear upon such transactions, be willing to accept and ought to accept. The fact that in the action between the vendor and the purchaser the court may consider the title good does not render it marketable. In the absence of an express stipulation therefor, a marketable title does not mean a title which satisfies the purchaser, or which his attorney pronounces marketable."
+
+The same authority says (page 1458):
+
+"As a general rule a purchaser will not be compelled to take, or be considered in default for refusing to take, a title resting in parol, or a defective record title which can be cured only by a resort to parol evidence; but it is otherwise, according to the weight of authority, where the title depends upon a question of fact, and it is demonstrated to a reasonable degree of certainty that the evidence cannot be contradicted, and that it will be easily available if needed in the future, unless the contract expressly or impliedly calls for a record title."
+
+1
+The law deduced by the editors of Ruling Case Law from many of the leading cases is thus stated:
+
+"A title is not necessarily rendered unmarketable because it is dependent on the proof of a fact not of record, if there is no reasonable doubt as to how the fact is and the proof is readily accessible at any time to show how it is. If, however, the title is dependent on the proof of a fact not of record, the proof must be very clear to warrant the court in ordering the purchaser to accept the title. If a title depends on a fact which is not capable of satisfactory proof, a purchaser cannot be compelled to take it.
+1
+If a trial is necessary to ascertain the fact, and especially if its character be such, or if the evidence to show it be such, that it may be decided either way, or if the evidence be not readily accessible to the purchaser so that he can establish the fact at any time when called on it would certainly affect the marketable value of the title." 27 R. C. L. 493, § 211.
+
+By the great weight of authority, a title may be marketable, although it rests upon parol evidence of adverse possession or prescriptive holding. 39 Cyc. 1460 (c); 27 R. C. L. 502, § 225; note to Justice v. Button (Neb.) 38 L.R.A. (N.S.) 3-40, especially pages 26-29; Freeman's note to Cummings v. Dolan (Wash.) 132 Am. St. Rep. 1022-1034, wherein many cases are collected and reviewed. We cite only a few of the leading cases: Hedderly v. Johnson, 42 Minn. 443, 44 N.W. 527, 18 Am. St. Rep. 521; Moore v. Williams, 115 N.Y. 586, 22 N.E. 233, 5 L.R.A. 654, 12 Am. St. Rep. 844; Barnard v. Brown, 112 Mich. 452, 70 N.W. 1038, 67 Am. St. Rep. 432; Simis v. McElroy, 160 N.Y. 156, 54 N.E. 674, 73 Am. St. Rep. 673; Conley v. Finn, 171 Mass. 70, 50 N.E. 460, 68 Am. St. Rep. 399; Attebery v. Blair, 244 Ill. 363, 91 N.E. 475, 135 Am. St. Rep. 342.
+
+We find nothing in our own cases in conflict with the rules and principles above stated.
+
+In Chapman v. Lee's Adm'r, 55 Ala. 616, 621, Manning, J., said:
+
+"I do not know of any case, in which a purchaser of land, by an executory contract, * * * and without any stipulation to that effect, has been held bound to take a parcel, which, without any color of title to it, the vendor claimed to have had in his possession long enough to have acquired, by the statute of limitations, a right to hold and convey it as his own." (Italics supplied.)
+
+Dealing with the case before him, he further said:
+
+"The purchaser, then, having the right to require a good title, and not being bound to accept a doubtful one, can he be compelled to accept and pay for land which the seller claims to own only by having had possession of it himself for the time prescribed by the statute of limitations as a bar to a suit to recover it, against him? Apart from any scruples of conscience which a buyer might be supposed to entertain against keeping the true owner out of his property upon such a title, how is its validity to be established against the true owner? Only by the oral evidence of witnesses, who may die, or move away, or whose memories may fail."
+
+On the facts of the case, the adverse possession relied on by the seller was held to be too doubtful of proof to require the purchaser to accept and pay for the property.
+
+In Boylan v. Wilson, 202 Ala. 26, 79 So. 364, it was held that a "good" title is a "marketable" title, and that a misdescription in the chain of the seller's immediate muniments of title, which could be corrected only by litigation, was not a marketable title within the requirement of the contract; and the general rule was approved that a title need not be accepted if it "is the subject of reasonable doubt, or where it is reasonable to anticipate that the purchaser will be exposed to litigation with respect thereto." Further than the applicability of the general rule stated, that case throws no light on the marketability of titles resting upon adverse possession.
+
+In Cudd v. Wood, 205 Ala. 682, 89 So. 52, specific performance was denied because the seller's bill of complaint itself showed a reasonable doubt as to his title, quoting the excerpt above taken from Boylan v. Wilson, supra. The doubt, however, was grounded on the form and insufficiency of the averments of title generally, and not upon any specific defect.
+
+1
+In McDennis v. Finch, 197 Ala. 76, 72 So. 352, the contract required a title satisfactory to the purchaser's attorney, and the holding was that his dissatisfaction with and rejection of the title because it rested upon an asserted adverse possession alone was within the legal import of the contract for satisfaction.
+
+In Meeks v. Garner, 93 Ala. 17, 8 So. 378, 11 L.R.A. 196, in response to the seller's bill for enforcement of his vendor's lien, the purchaser filed his cross-bill asking for a rescission of the contract on account of false and fraudulent representations by the seller that his title was perfect and good, and because the seller's title was defective at the time of the sale. It was held that relief under the cross-bill was properly denied, notwithstanding the seller had, 22 years previously, deeded the land to his brother-in-law, the deed never having been proven, acknowledged, or recorded, the grantee never having made claim to the land until after this bill was filed, the grantor having remained in open, notorious, adverse possession, claiming it as his own for over 17 years, and the present purchaser never having heard of the previous deed, and being fully protected as a bona fide purchaser for value. It is readily apparent that the decision in that case has no bearing on the present inquiry, because the issues there were different.
+
+In the instant case it appears that the record is fatally defective in not showing such a conveyance of the property from the Elyton Land Company to Charles A. Johnston as can be used in evidence as a muniment of title by a purchaser. The record does exhibit a deed which purports to have been executed in 1883, but it shows an absence of any attesting witness, and of any acknowledgment, and thus effectually vitiates the accompanying certificate of probate. Neither the original of such a deed nor a certified copy of its record was at the time this contract was made, or within the period of its performance, admissible in evidence as self-proving under our statute (Code, § 3374), nor under the rule as to ancient documents (O'Neal v. Tenn., etc., Co., 140 Ala. 378, 37 So. 275, 1 Ann. Cas. 319).
+
+It is conceded that the original deed is lost, or its whereabouts unknown; but plaintiff offered in evidence an entry made on the margin of the record by the probate judge certifying on April 1, 1901, that the original deed had been that day brought to his office, and that a comparison of it with the record showed that the recorder had omitted the names of the two witnesses appearing on the original, viz. L. P. Ward and M. E. Cooner. Such an entry being unauthorized by law, and therefore without legal effect, was but a hearsay statement, and could not operate as a correction of the record, nor render it self-proving.
+
+Nor could the defect be cured, nor the original deed proven, by introducing in evidence a "supposed copy" of the original deed, supposed to have been kept by the Elyton Land Company as a record of the sale, the supposed copy being found in the office of the Birmingham Realty Company.
+
+The situation, then, is that the purchaser is without any available documentary evidence of a conveyance divesting the title out of the Elyton Land Company; and the seller has not suggested the existence or availability of any parol evidence to establish the existence of a valid deed from that company.
+
+The seller's title must therefore be rested upon an adverse possession under the statute of limitations of 10 years; the evidence before the trial court showing that the seller's grantor, McConnell, erected a building on the lot in 1903, and that since that time McConnell (till 1907) and Schuessler (since 1907) "have been in open, exclusive, adverse possession of the same, claiming as owners thereof, without break in their possession. * * * And no one has ever contested his right thereto, by litigation or otherwise, so far as the parties know. But it is recognized that it may not be possible always in the future to produce witnesses to prove the above possession by Schuessler and his predecessors."
+
+The fact of an adverse possession for 17 years is sufficiently shown by the seller in the instant case, and is persuasive of the existence of the title asserted by him. But, to establish a marketable title by adverse possession, the burden of proof is on the vendor, not only to show adverse possession, but to make it clear that the purchaser will have the means at hand at all times to establish his title, if it should be attacked by a third person. Shriver v. Shriver, 86 N.Y. 575; McLaughlin v. Brown (Tex.Civ.App.) 126 S.W. 292; 39 Cyc. 1458; 27 R. C. L. 493, § 211; note to Justice v. Button, 38 L.R.A. (N.S.) 29.
+
+In order to meet this requirement, it was obviously not enough for the seller to show the fact merely of an uncontested adverse possession. He should have gone further and showed the degree of its notoriety, and the names, number, and residences of the witnesses by whom the proof could be made, and the fact established. On no other foundation could the court have grounded the conclusions invoked by the seller, viz. that his title by adverse possession is not subject to any reasonable doubt; that the evidence supporting it is clear and incontestable, and is and will be for a sufficient length of time accessible to the purchaser and available for use, either in exhibiting a clear and marketable title to future purchasers, or in defending against any possible claimant under a superior paper title. No offer was made of such evidence, nor any suggestion of its existence, apart from the supposed knowledge of the seller himself.
+
+On the contrary, it is conceded in the agreed statement of facts, that "it may not be possible always in the future to produce witnesses to prove the above possession by Schuessler and his predecessors."
+
+On this showing as to the state of the title, we think that any reasonable purchaser, though willing and anxious to buy, would, "in the exercise of that prudence which business men ordinarily bring to bear upon such transactions," be unwilling to accept it, and that its marketability would be seriously impaired.
+
+The trial court, sitting without a jury, so found and adjudged, and we think the judgment should be affirmed.
+
+Affirmed.

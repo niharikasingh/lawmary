@@ -1,7 +1,5 @@
-Although I share the majority's view that Levin and Sklar's conduct fell far short of the ideal, I do not share its belief that Rule 11 sanctions are appropriate in this situation.
 Instead, I believe that, when a court finds that an attorney has filed a meritorious complaint, the court should not go on to inquire whether the attorney conducted an adequate investigation prior to filing the complaint.
-Moreover, in several cases the Second Circuit has suggested that Rule 11 sanctions are inappropriate in cases where, as here, some basis for a claim exists despite the failure of an attorney to undertake an adequate prefiling investigation into whether that basis actually existed.
-I believe the majority is mistaken in asserting that this rule would frustrate the purposes of Rule 11.
-The deterrent function of Rule 11 to prevent baseless filings will not be undermined by not sanctioning when a complaint on its face does have merit.
+See also Rush v. McDonald's Corp., 966 F.2d 1104, 1122 n. 67 (7th Cir.1992). Moreover, in several cases the Second Circuit has suggested that Rule 11 sanctions are inappropriate in cases where, as here, some basis for a claim exists despite the failure of an attorney to undertake an adequate prefiling investigation into whether that basis actually existed.
+Pavelic & LeFlore v. Marvel Entertainment Group, 493 U.S. 120, 110 S.Ct. 456, 107 L.Ed.2d 438 (1989), Judge Winter noted that [i]n considering sanctions regarding a factual claim, the initial focus of the district court should be on whether an objectively reasonable basis for the claim was demonstrated in pretrial proceedings or at trial.
 Simply stated, I believe that the majority, in its eagerness to uphold sanctions against the inexcusable behavior by the attorneys in this case, overlooks the fact that its holding will frustrate rather than further the goals of Rule 11.
 I would reverse the district court's imposition of Rule 11 sanctions against Levin and Sklar 

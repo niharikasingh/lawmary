@@ -1,0 +1,105 @@
+In 1925, a corporation conveyed certain land to the city of Klamath Falls as a gift for use as the site for a city library. The deed provided, among other things, that the city should hold the land "so long as" it complied with that condition with regard to its use.
+
+In 1969, the city terminated the use of the land for a library, and the question presented by this appeal is, "Does the title to the land remain in the city or did the termination of use as a library cause title to pass to the descendants of the shareholders of the donor-corporation (now dissolved)?"
+
+The issue was presented to the trial court in the form of an agreed narrative statement, pertinent portions of which, in addition to the facts set forth above, are: the donor-corporation was known as the Daggett-Schallock Investment Company; the corporate deed provided that if at any time the city ceased to use the land for library purposes, title to the land should pass to Fred Schallock and Floy R. Daggett, their heirs and assigns; on September 19, 1927, the corporation was voluntarily dissolved, all creditors paid, and all assets (which we interpret as including the rights of the corporation, if any, in the land in question) were distributed in accordance with law to the sole shareholders Schallock and Daggett.
+
+The city of Klamath Falls built a library on the land in 1926 in compliance with the conditions set out in the deed. The library continued in use from that date until July 1, 1969, when the books were moved to the County Library Building. Since that time, the city library services have been provided by Klamath County on a contract basis. The City Library building has not been used for any other purpose and now stands vacant.
+
+After the library closure, the city of Klamath Falls filed a complaint against all the heirs of Schallock and Daggett for declaratory judgment pursuant to ORS ch. 28, asking the court to adjudicate the respective rights of the parties under the deed. The city joined Constance F. Bell, the sole heir of Fred Schallock, and Marijane Flitcraft and Caroline Crapo, the sole heirs of Floy R. Daggett, along with George C. Flitcraft, the husband of Marijane Flitcraft, and Paul Crapo, the husband of Caroline Crapo, as all the necessary parties to the suit.
+
+The defendants Constance F. Bell, Caroline Crapo, and Paul Crapo conveyed their interests in the real property to the defendant Marijane Flitcraft in May and June 1970.
+
+The trial court found that title to the real property was vested in the city of Klamath Falls. Its decision was based on a finding that the gift over to Fred Schallock and Floy R. Daggett was void under the rule against perpetuities.
+
+The deed, in pertinent part, is as follows:
+
+    "KNOW ALL MEN BY THESE PRESENTS That Daggett-Schallock Investment Company a corporation organized and existing under the laws of the State of Oregon, for and as a gift and
+     without any consideration, does hereby give, grant and convey unto the City of Klamath Falls, Oregon, so long as it complies with the conditions hereinafter set forth, and thereafter unto Fred Schallock and Floy R. Daggett, their heirs and assigns, the following described parcel of real estate, in Klamath County Oregon, to-wit
+
+    "* * *
+
+    "To have and to hold the same unto the said City of Klamath Falls, Oregon (and to any other municipal corporation which may lawfully succeed it) so long as it complies with the conditions above set forth, and thereafter unto Fred Schallock and Floy R. Daggett, their heirs and assigns forever.
+
+    "* * *."
+
+I
+
+We conclude that the estate that passed to the city under this deed was a fee simple on a special limitation, which is also known as a fee simple determinable, or a base or qualified fee.[1]
+
+The "magic" words "so long as" have generally been held to create such an estate. Simes and Smith, The Law of Future Interests 345, § 287 (2d ed. 1956), states:
+
+    "* * * The words of duration `so long as' will almost certainly be judicially recognized as the distinctive insignia of such an estate, and, if coupled with a provision which clearly calls for an automatic termination of the estate granted, there is little room for construction. * * *"
+
+O'Connell, Estates on Condition Subsequent and Estates on Special Limitation in Oregon, 18 Or.L.Rev. 63, 73 (1939), stresses the use of words:
+
+    "* * * [T]he creation of an estate on a special limitation is characterized generally by the use of certain words. Typical words are `so long as,' `until,' or `during.' However, any language in the instrument indicating an intent that the estate shall automatically end upon the occurrence of a designated event will be sufficient."
+
+See also, Magness v. Kerr et al., 121 Or. 373, 380, 254 P. 1012, 51 A.L.R. 1466 (192).
+
+One of the features of the fee simple on a special limitation thus created is that it terminates automatically upon breach of condition.[2] Fremont Lbr. Co. v. Starrell Pet. Co., 228 Or. 180, 186, 364 P.2d 773 (1961), and cases cited therein; Clark v. Jones, 173 Or. 106, 107, 144 P.2d 498 (1943); see Wagner v. Wallowa County, 76 Or. 453, 461-466, 148 P. 1140, L.R.A. 1916F, 303 (1915).
+
+II
+
+Upon breach of the condition, the deed provided for a gift over to Fred Schallock and Floy R. Daggett or their heirs and assigns. This gift over was an attempt to grant an executory interest since only an executory interest can follow an earlier grant in fee simple.
+
+The rule against perpetuities applies to executory interests. Agan et al. v. United States National Bank, 227 Or. 619, 626, 363 P.2d 765 (1961); Closset et al. v. Burtchaell et al., 112 Or. 585, 604, 230 P. 554 (1924).
+
+ Gray's classic statement of the rule is as follows:
+
+    "NO INTEREST IS GOOD UNLESS IT MUST VEST, IF AT ALL, NOT LATER THAN TWENTY-ONE YEARS AFTER SOME LIFE IN BEING AT THE CREATION OF THE INTEREST." Gray, The Rule Against Perpetuities 191, § 201 (4th ed. 1942).
+
+One of the main characteristics of a defeasible fee simple estate is that the first grantee might continue in possession in perpetuity. The city of Klamath Falls could have maintained a library on the site for an indefinite time in the future, or even forever. Therefore, the trial judge correctly found that the gift over to Fred Schallock and Floy R. Daggett, their heirs and assigns, was void ab initio under the rule against perpetuities.
+
+III
+
+The trial court's conclusion does not, however, dispose of the case at bar. Just because the gift over is invalid, it does not follow that the city of Klamath Falls now has an absolute interest in the property in question. There remains the question of whether under the deed a possibility of reverter remained in the grantor corporation.
+
+When a deed reveals an unquestionable intent to limit the interest of the first grantee (here the city of Klamath Falls) to a fee simple on a special limitation, the courts of the United States do not create an indefeasible estate in the first grantee when a subsequent executory interest (here that of Schallock and Daggett) is void under the rule against perpetuities. Instead, the grantor (here the corporation) retains an interest known as a possibility of reverter.[3]
+
+The general rule has been stated to be:
+
+    "* * * [W]hen an executory interest, following a fee simple interest in land * * * is void under the rule against perpetuities, the prior interest becomes absolute unless the language of the creating instrument makes it very clear that the prior interest is to terminate whether the executory interest takes effect or not. * * *" Simes and Smith, The Law of Future Interests 316, 318, § 827 (2d ed. 1956).
+
+All the jurisdictions in the United States which have dealt with a determinable fee and an executory interest void under the rule against perpetuities have followed this rule. Fletcher v. Ferrill, 216 Ark. 583, 227 S.W.2d 448, 449, 16 A.L.R.2d 1240 (1950); Brown v. Independent Baptist Church of Woburn, 325 Mass. 645, 91 N.E.2d 922 (1950) (which followed the earlier Massachusetts cases); Institution for Savings in Roxbury and its Vicinity v. Roxbury Home for Aged Women, 244 Mass. 583, 139 N.E.
+ 301 (1923); First Universalist Society of North Adams v. Boland, 155 Mass. 171, 29 N.E. 524, 15 L.R.A. 231 (1892); Leonard v. Burr, 18 N.Y. 96 (1858); Yarbrough v. Yarbrough, 151 Tenn. 221, 269 S.W. 36 (1924). This conclusion is favored by Restatement, 2 Property, app. 34-47, §§ 228, 229.
+
+IV
+
+However, before this conclusion can be reached, an unusual Oregon rule must be considered. Oregon is one of a small minority of states that holds that a possibility of reverter cannot be alienated, Magness v. Kerr, 121 Or. 373, 383, 254 P. 1012, 51 A.L.R. 1466 (1927); see, Annotation, 53 A.L.R.2d 224 (1957), but the Oregon Supreme Court has never held that an attempt to alienate a possibility of reverter destroys it. In the case at bar, the grantor-corporation did attempt to alienate the possibility of reverter with its abortive gift over to Schallock and Daggett.[4] Thus, the question of whether an attempt to alienate a possibility of reverter destroys it is presented to an Oregon appellate court for the first time.
+
+The Oregon Supreme Court has dealt with the consequences that follow a grantor's attempt to transfer the interest that remains in him when he grants a defeasible fee on two occasions.
+
+Wagner v. Wallowa County, supra, involved a fee simple estate on a condition subsequent. The grantors gave land to the county for a high school. The county had taken possession of the land and had built and operated a high school on the property until the electorate voted to abolish the school. The election was held November 5, 1912. Prior to the election, during October 1912, the plaintiff and his wife had executed a deed to a Wallowa County school district. The court there applied a strict rule of construction and found that the grantors destroyed their right to re-enter when they attempted to convey it before the breach of the condition.
+
+In Magness v. Kerr et al., supra, the Oregon Supreme Court dealt with a fee simple determinable:
+
+    "* * * [T]he rule applied in the Wallowa County cases that an attempted conveyance by the grantor of his possibility of reverter, operates to destroy his right and vest an indefeasible estate in his first grantee, ought not to be applied in this case. First, the rule is a harsh one and produces a result not contemplated by the parties to the transaction, and therefore ought not to be applied unless required by some positive rule of law; secondly, in this case under the admitted facts in the case, the estate granted to the Equity Queen Canning Company had been determined by its failure to use the property for co-operative purposes, which was the contingency by which the estate was to be divested, and since by the happening of such a contingency the estate had been determined and the property had reverted. * * *" 121 Or. at 383, 254 P. at 1016.
+
+While Magness criticizes the holding in Wagner as harsh, that portion of Magness is dictum, for Magness turned on the fact that the event upon which the estate was to end had occurred before the transfer of the future interest.
+
+Nothing in Wagner or Magness is conclusive in determining whether an attempt to alienate a possibility of reverter destroys it.
+
+In Pure Oil Co. v. Miller-McFarland Drilling Co., 376 Ill. 486, 34 N.E.2d 854, 135 A.L.R. 567 (1941), the Illinois court held that a possibility of reverter is not destroyed when the grantor tries to transfer it, even though the possibility of reverter is not alienable under Illinois law. In Reichard v. Chicago, B. & Q.R. Co., 231 Iowa 563, 729, 1 N.W.2d 721 (1942), which involved a conveyance after termination of
+ a fee simple subject to a special limitation, the same facts as in Magness v. Kerr et al., supra, the court said:
+
+    "* * * It seems rather fantastic to us, that a conveyance which is ineffective to convey what it attempts to convey is nevertheless an effective means of destroying it. * * *" 231 Iowa at 576, 1 N.W.2d at 729.
+
+We hold that an attempt by a grantor to transfer his possibility of reverter does not destroy it.
+
+V
+
+The remaining issue is the city's contention that upon dissolution of the corporation in 1927, or at the latest, upon the post-dissolution, winding-up period, ORS 57.630(2),[5] the corporation was civilly dead and without a successor to whom the possibility of reverter could descend. As is pointed out in Addy and Errett v. Short et al., 8 Terry 157, 47 Del. 157, 162, 89 A.2d 136, 139 (1952), the statutory provision for distribution of corporate assets upon dissolution,
+
+    "* * * is in effect a statutory expansion of the equitable doctrine that upon dissolution of a corporation its property, notwithstanding the technical rules of the early common law, does not escheat to the sovereign or revert to the original grantor, and will be administered * * * for the purpose of winding up the corporate affairs and distributing the assets to those equitably entitled to them. * * *"
+
+In Addy, the corporation owning a possibility of reverter was dissolved and five years later the event (the abandonment of the use upon which the deed was conditioned) occurred. Delaware had only a three-year corporate dissolution winding-up period. The Delaware statutes did contain a provision that even after the three-year period, upon application of creditors or shareholders of a dissolved corporation, the court could appoint a receiver to take charge of the estate of the corporation and to collect debts and property due and belonging to the company. Addy held that neither the dissolution of the corporation nor the expiration of the three-year dissolution period worked an extinguishment of the possibility of reverter retained by the deed in question, and that upon the abandonment of the land by the grantee, the possibility of reverter was enlarged to a fee simple title. It further held that as statutory successors to the rights and powers of the corporation the receivers were entitled to the land.
+
+Oregon has no such receivership statute, but the Oregon statutes make it clear that corporate assets no longer escheat or revert to the original grantor upon dissolution. In this case, the parties agree that the corporation was lawfully dissolved, all the creditors paid, and that Daggett and Schallock, the sole shareholders of the corporation, were statutorily entitled to and did receive all of the remaining assets of the corporation. One such asset was the possibility of reverter of the land in question.
+
+The parties further agree that the defendants in this case were all of the heirs of Daggett and Schallock. As is pointed out in 18 Or.L.Rev. 63, supra, there is no
+ Oregon decision on the issue of the descendability of the possibility of reverter. However, the weight of authority recognizes that such an interest is descendable. Restatement, 2 Property 606, Comment a, § 164, and 3 Simes 144-45, § 707 (1936). We discern no sound policy considerations which lead us to a contrary conclusion.[6]
+
+Marijane Flitcraft acquired all rights to the property when the other defendants conveyed their interests to her in 1970.
+
+Reversed.

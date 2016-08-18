@@ -30,12 +30,21 @@ def clean(sentences):
         currS = re.sub(r'\[\d.*?\]', '', currS)
         #remove footnotes after periods, commas
         currS = re.sub(r'([\.,;"a-z])([1-9][0-9]?)( )', r'\1 ', currS)
-        #roll up weird endings
-        if (i+1 < len(sentences)) and ((currS[-4:]==u'Arg.') or (currS[-4:]==u'App.') or (currS[-4:]==u'Pet.') or (currS[-5:]==u'Cert.') or (currS[-3:]==u'Tr.') or (currS[-3:]==u'pp.') or (currS[-3:]==u'No.')):
+        #roll up weird endings - check if abbreviation by checking if last word in sentence has an upper case first letter
+        currSWords = currS.replace('.', '')
+        currSWords = currSWords.split(" ")
+        lastWord = currSWords[-1]
+        if (i+1 < len(sentences)) and (((len(lastWord) > 0) and (u'A' <= lastWord[0] <= u'Z')) or (currS[-3:]==u'pp.') or (currS[-3:]==u'no.')):
             logging.debug('clean Function:\t joined improperly split sentence {}'.format(currS.encode("utf8")))
             currS += ( u' ' + sentences[i+1] )
             sentences[i+1] = u''
-        sentences[i] = currS
+            sentences[i] = currS
+        #roll up weird endings - check if abbreviation by checking if first letter of current sentence is lower case
+        elif ((i-1 >= 0) and (len(currS) > 0) and ((u'a' <= currS[0] <= u'z') or (u'0' <= currS[0] <= u'9'))):
+            sentences[i-1] += ( u' ' + currS )
+            sentences[i] = u''
+        else:
+            sentences[i] = currS
     sentences = [s for s in sentences if len(s) > 0]
     return sentences
 
@@ -100,8 +109,4 @@ def process(filename):
     #with open(sumFile1, "w") as sumFileOpen1:
     #    sumFileOpen1.write(summary1.encode("utf8"))
     
-#process("test1.txt")
-#process("test2.txt")
-#process("test3.txt")
-#process("test4.txt")
-#process("test5.txt")
+#process("txt/24-NJ-66.txt")

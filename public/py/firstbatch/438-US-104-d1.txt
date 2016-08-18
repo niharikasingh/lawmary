@@ -1,0 +1,169 @@
+Of the over one million buildings and structures in the city of New York, appellees have singled out 400 for designation as official landmarks. [n1] The owner of a building might initially be pleased that his property has been chosen by a distinguished committee of architects, historians, and city [p139] planners for such a singular distinction. But he may well discover, as appellant Penn Central Transportation Co. did here, that the landmark designation imposes upon him a substantial cost, with little or no offsetting benefit except for the honor of the designation. The question in this case is whether the cost associated with the city of New York's desire to preserve a limited number of "landmarks" within its borders must be borne by all of its taxpayers, or whether it can, instead, be imposed entirely on the owners of the individual properties.
+
+Only in the most superficial sense of the word can this case be said to involve "zoning." [n2] Typical zoning restrictions may, it is true, so limit the prospective uses of a piece of property as to diminish the value of that property in the abstract because it may not be used for the forbidden purposes. But any such abstract decrease in value will more than likely be at least partially offset by an increase in value which flows from similar restrictions as to use on neighboring [p140] properties. All property owners in a designated area are placed under the same restrictions, not only for the benefit of the municipality as a whole, but also for the common benefit of one another. In the words of Mr. Justice Holmes, speaking for the Court in Pennsylvania Coal Co. v. Mahon, 260 U.S. 393, 415 (1922), there is "an average reciprocity of advantage."
+
+Where a relatively few individual buildings, all separated from one another, are singled out and treated differently from surrounding buildings, no such reciprocity exists. The cost to the property owner which results from the imposition of restrictions applicable only to his property and not that of his neighbors may be substantial -- in this case, several million dollars -- with no comparable reciprocal benefits. And the cost associated with landmark legislation is likely to be of a completely different order of magnitude than that which results from the imposition of normal zoning restrictions. Unlike the regime affected by the latter, the landowner is not simply prohibited from using his property for certain purposes, while allowed to use it for all other purposes. Under the historic landmark preservation scheme adopted by New York, the property owner is under an affirmative duty to preserve his property as a landmark at his own expense. To suggest that, because traditional zoning results in some limitation of use of the property zoned, the New York City landmark preservation scheme should likewise be upheld, represents the ultimate in treating as alike things which are different. The rubric of "zoning" has not yet sufficed to avoid the well established proposition that the Fifth Amendment bars the "Government from forcing some people alone to bear public burdens which, in all fairness and justice, should be borne by the public as a whole." Armstrong v. United States, 364 U.S. 40, 49 (1960). See discussion infra at 147-150.
+
+In August, 1967, Grand Central Terminal was designated a landmark over the objections of its owner Penn Central. Immediately upon this designation, Penn Central, like all [p141] owners of a landmark site, was placed under an affirmative duty, backed by criminal fines and penalties, to keep "exterior portions" of the landmark "in good repair." Even more burdensome, however, were the strict limitations that were thereupon imposed on Penn Central's use of its property. At the time Grand Central was designated a landmark, Penn Central was in a precarious financial condition. In an effort to increase its sources of revenue, Penn Central had entered into a lease agreement with appellant UGP Properties, Inc., under which UGP would construct and operate a multistory office building cantilevered above the Terminal building. During the period of construction, UGP would pay Penn Central $1 million per year. Upon completion, UGP would rent the building for 50 years, with an option for another 25 years, at a guaranteed minimum rental of $3 million per year. The record is clear that the proposed office building was in full compliance with all New York zoning laws and height limitations. Under the Landmarks Preservation Law, however, appellants could not construct the proposed office building unless appellee Landmarks Preservation Commission issued either a "Certificate of No Exterior Effect" or a "Certificate of Appropriateness." Although appellants' architectural plan would have preserved the facade of the Terminal, the Landmarks Preservation Commission has refused to approve the construction.
+
+I
+
+The Fifth Amendment provides in part: "nor shall private property be taken for public use, without just compensation." [n3] [p142] In a very literal sense, the actions of appellees violated this constitutional prohibition. Before the city of New York declared Grand Central Terminal to be a landmark, Penn Central could have used its "air rights" over the Terminal to build a multistory office building, at an apparent value of several million dollars per year. Today, the Terminal cannot be modified in any form, including the erection of additional stories, without the permission of the Landmark Preservation Commission, a permission which appellants, despite good faith attempts, have so far been unable to obtain. Because the Taking Clause of the Fifth Amendment has not always been read literally, however, the constitutionality of appellees' actions requires a closer scrutiny of this Court's interpretation of the three key words in the Taking Clause -- "property," "taken," and "just compensation." [n4]
+
+A
+
+Appellees do not dispute that valuable property rights have been destroyed. And the Court has frequently emphasized that the term "property" as used in the Taking Clause includes the entire "group of rights inhering in the citizen's [ownership]." United States v. General Motors Corp., 323 U.S. 373 (1945). The term is not used in the
+
+vulgar and untechnical sense of the physical thing with respect to which the citizen exercises rights recognized by law. [Instead, it] . . . denote[s] the group of rights inhering in the citizen's relation to the physical thing, as [p143] the right to possess, use and dispose of it. . . . The constitutional provision is addressed to every sort of interest the citizen may possess.
+
+Id. at 377-378 (emphasis added). While neighboring landowners are free to use their land and "air rights" in any way consistent with the broad boundaries of New York zoning, Penn Central, absent the permission of appellees, must forever maintain its property in its present state. [n5] The property has been thus subjected to a nonconsensual servitude not borne by any neighboring or similar properties. [n6]
+
+B
+
+Appellees have thus destroyed -- in a literal sense, "taken" -- substantial property rights of Penn Central. While the term "taken" might have been narrowly interpreted to include only physical seizures of property rights,
+
+the construction of the phrase has not been so narrow. The courts have held that the deprivation of the former owner, rather than the accretion of a right or interest to the sovereign, constitutes the taking.
+
+Id. at 378. See also United States v. Lynah, 188 U.S. 445, 469 [p144] (1903); [n7] Dugan v. Rank, 372 U.S. 609, 625 (1963). Because "not every destruction or injury to property by governmental action has been held to be a ‘taking' in the constitutional sense," Armstrong v. United States, 364 U.S. at 48, however, this does not end our inquiry. But an examination of the two exceptions where the destruction of property does not constitute a taking demonstrates that a compensable taking has occurred here.
+1
+
+As early as 1887, the Court recognized that the government can prevent a property owner from using his property to injure others without having to compensate the owner for the value of the forbidden use.
+
+A prohibition simply upon the use of property for purposes that are declared, by valid legislation, to be injurious to the health, morals, or safety of the community, cannot, in any just sense, be deemed a taking or an appropriation of property for the public benefit. Such legislation does not disturb the owner in the control or use of his property for lawful purposes, nor restrict his right to dispose of it, but is only a declaration by the State that its use by anyone, for certain forbidden purposes, is prejudicial to the public interests. . . . The power which the States have of prohibiting such use by individuals of their property as will be prejudicial to the health, the morals, or the safety of the public, is not -- and, consistently with the existence and safety of organized society, cannot be -- burdened with the condition that the State must compensate such individual owners for pecuniary losses they may sustain, by reason of their not being permitted, by a noxious use of [p145] their property, to inflict injury upon the community.
+
+Mugler v. Kansas, 123 U.S. 623, 668-669. Thus, there is no "taking" where a city prohibits the operation of a brickyard within a residential area, see Hadacheck v. Sebastian, 239 U.S. 394 (1915), or forbids excavation for sand and gravel below the water line, see Goldblatt v. Hempstead, 369 U.S. 590 (1962). Nor is it relevant, where the government is merely prohibiting a noxious use of property, that the government would seem to be singling out a particular property owner. Hadacheck, supra at 413. [n8]
+
+The nuisance exception to the taking guarantee is not coterminous with the police power itself. The question is whether the forbidden use is dangerous to the safety, health, or welfare of others. Thus, in Curtin v. Benson, 222 U.S. 78 (1911), the Court held that the Government, in prohibiting the owner of property within he boundaries of Yosemite National Park from grazing cattle on his property, had taken the owner's property. The Court assumed that the Government could constitutionally require the owner to fence his land or take other action to prevent his cattle from straying onto others' land without compensating him.
+
+Such laws might be considered as strictly regulations of the use of property, of so using it that no injury could result to others. They would have the effect of making the owner of land herd his cattle on his own land, and of making him responsible for a neglect of it.
+
+Id. at 86. The prohibition in question, however, was "not a prevention of a misuse or illegal use, but the prevention of a legal and essential use, an attribute of its ownership." Ibid.
+
+Appellees are not prohibiting a nuisance. The record is [p146] clear that the proposed addition to the Grand Central Terminal would be in full compliance with zoning, height limitations, and other health and safety requirements. Instead, appellees are seeking to preserve what they believe to be an outstanding example of beaux arts architecture. Penn Central is prevented from further developing its property basically because too good a job was done in designing and building it. The city of New York, because of its unadorned admiration for the design, has decided that the owners of the building must preserve it unchanged for the benefit of sightseeing New Yorkers and tourists.
+
+Unlike land use regulations, appellees' actions do not merely prohibit Penn Central from using its property in a narrow set of noxious ways. Instead, appellees have placed an affirmative duty on Penn Central to maintain the Terminal in its present state and in "good repair." Appellants are not free to use their property as they see fit within broad outer boundaries, but must strictly adhere to their past use except where appellees conclude that alternative uses would not detract from the landmark. While Penn Central may continue to use the Terminal as it is presently designed, appellees otherwise "exercise complete dominion and control over the surface of the land," United States v. Causby, 328 U.S. 256, 262 (1946), and must compensate the owner for his loss. Ibid.
+
+Property is taken in the constitutional sense when inroads are made upon an owner's use of it to an extent that, as between private parties, a servitude has been acquired.
+
+United States v. Dickinson, 331 U.S. 745, 748 (1947). See also Dugan v. Rank, supra at 625. [n9] [p147]
+2
+
+Even where the government prohibits a noninjurious use, the Court has ruled that a taking does not take place if the prohibition applies over a broad cross-section of land, and thereby "secure[s] an average reciprocity of advantage." Pennsylvania Coal Co. v. Mahon, 260 U.S. at 415. [n10] It is for this reason that zoning does not constitute a "taking." While zoning at times reduces individual property values, the burden is shared relatively evenly, and it is reasonable to conclude that, on the whole, an individual who is harmed by one aspect of the zoning will be benefited by another.
+
+Here, however, a multimillion dollar loss has been imposed on appellants; it is uniquely felt, and is not offset by any benefits flowing from the preservation of some 400 other "landmarks" in New York City. Appellees have imposed a substantial cost on less than one one-tenth of one percent of the buildings in New York City for the general benefit of all its people. It is exactly this imposition of general costs on a few individuals at which the "taking" protection is directed. The Fifth Amendment
+
+prevents the public from loading upon one individual more than his just share of the burdens of government, [p148] and says that, when he surrenders to the public something more and different from that which is exacted from other members of the public, a full and just equivalent shall be returned to him.
+
+Monongahela Navigation Co. v. United States, 148 U.S. 312, 325 (1893). Less than 20 years ago, this Court reiterated that the
+
+Fifth Amendment's guarantee that private property shall not be taken for a public use without just compensation was designed to bar Government from forcing some people alone to bear public burdens which, in all fairness and justice, should be borne by the public as a whole.
+
+Armstrong v. United States, 364 U.S. at 49. Cf. Nashville, C. & St. L. R. Co. v. Walters, 294 U.S. 405, 428-430 (1935). [n11]
+
+As Mr. Justice Holmes pointed out in Pennsylvania Coal Co. v. Mahon, "the question at bottom" in an eminent domain case "is upon whom the loss of the changes desired should fall." 260 U.S. at 416. The benefits that appellees believe will flow from preservation of the Grand Central Terminal will accrue to all the citizens of New York City. There is no reason to believe that appellants will enjoy a substantially greater share of these benefits. If the cost of preserving Grand Central Terminal were spread evenly across the entire population of the city of New York, the burden per person would be in cents per year -- a minor cost appellees would [p149] surely concede for the benefit accrued. Instead, however, appellees would impose the entire cost of several million dollars per year on Penn Central. But it is precisely this sort of discrimination that the Fifth Amendment prohibits. [n12]
+
+Appellees in response would argue that a taking only occurs where a property owner is denied all reasonable value of his property. [n13] The Court has frequently held that, even where a destruction of property rights would not otherwise constitute a taking, the inability of the owner to make a reasonable return on his property requires compensation under the Fifth Amendment. See, e.g., United States v. Lynah, 188 U.S. at 470. But the converse is not true. A taking does not become a noncompensable exercise of police power simply because the government, in its grace, allows the owner to make some "reasonable" use of his property.
+
+[I]t is the character of the invasion, not the amount of damage resulting from it, [p150] so long as the damage is substantial, that determines the question whether it is a taking.
+
+United States v. Cress, 243 U.S. 316, 328 (1917); United States v. Causby, 328 U.S. at 266. See also Goldblatt v. Hempstead, 369 U.S. at 594.
+
+C
+
+Appellees, apparently recognizing that the constraints imposed on a landmark site constitute a taking for Fifth Amendment purposes, do not leave the property owner empty-handed. As the Court notes, ante at 113-114, the property owner may theoretically "transfer" his previous right to develop the landmark property to adjacent properties if they are under his control. Appellees have coined this system "Transfer Development Rights," or TDR's.
+
+Of all the terms used in the Taking Clause, "just compensation" has the strictest meaning. The Fifth Amendment does not allow simply an approximate compensation, but requires "a full and perfect equivalent for the property taken." Monongahela Navigation Co. v. United States, 148 U.S. at 326.
+
+[I]f the adjective "just" had been omitted, and the provision was simply that property should not be taken without compensation, the natural import of the language would be that the compensation should be the equivalent of the property. And this is made emphatic by the adjective "just." There can, in view of the combination of those two words, be no doubt that the compensation must be a full and perfect equivalent for the property taken.
+
+Ibid. See also United States v. Lynah, supra at 465; United States v. Pewee Coal Co., 341 U.S. 114, 117 (1951). And the determination of whether a "full and perfect equivalent" has been awarded is a "judicial function." United States v. New River Collieries Co., 262 U.S. 341, 343-344 (1923). The fact [p151] that appellees may believe that TDR's provide full compensation is irrelevant.
+
+The legislature may determine what private property is needed for public purposes -- that is a question of a political and legislative character; but when the taking has been ordered, then the question of compensation is judicial. It does not rest with the public, taking the property, through Congress or the legislature, its representative, to say what compensation shall be paid, or even what shall be the rule of compensation. The Constitution has declared that just compensation shall be paid, and the ascertainment of that is a judicial inquiry.
+
+Monongahela Navigation Co. v. United States, supra at 327.
+
+Appellees contend that, even if they have "taken" appellants' property, TDR's constitute "just compensation." Appellants, of course, argue that TDR's are highly imperfect compensation. Because the lower courts held that there was no "taking," they did not have to reach the question of whether or not just compensation has already been awarded. The New York Court of Appeals' discussion of TDR's gives some support to appellants:
+
+The many defects in New York City's program for development rights transfers have been detailed elsewhere. . . . The area to which transfer is permitted is severely limited, [and] complex procedures are required to obtain a transfer permit.
+
+42 N.Y.2d 324, 334 335, 366 N.E.2d 1271, 1277 (1977). And in other cases, the Court of Appeals has noted that TDR's have an "uncertain and contingent market value," and do "not adequately preserve" the value lost when a building is declared to be a landmark. French Investing Co. v. City of New York, 39 N.Y.2d 587, 591, 350 N.E.2d 381, 383, appeal dismissed, 429 U.S. 990 (1976). On the other hand, there is evidence in the record that Penn Central has been [p152] offered substantial amounts for its TDR's. Because the record on appeal is relatively slim, I would remand to the Court of Appeals for a determination of whether TDR's constitute a "full and perfect equivalent for the property taken." [n14]
+
+II
+
+Over 50 years ago, Mr. Justice Holmes, speaking for the Court, warned that the courts were
+
+in danger of forgetting that a strong public desire to improve the public condition is not enough to warrant achieving the desire by a shorter cut than the constitutional way of paying for the change.
+
+Pennsylvania Coal Co. v. Mahon, 260 U.S. at 416. The Court's opinion in this case demonstrates that the danger thus foreseen has not abated. The city of New York is in a precarious financial state, and some may believe that the costs of landmark preservation will be more easily borne by corporations such as Penn Central than the overburdened individual taxpayers [p153] of New York. But these concerns do not allow us to ignore past precedents construing the Eminent Domain Clause to the end that the desire to improve the public condition is, indeed, achieved by a shorter cut than the constitutional way of paying for the change.
+1.
+
+A large percentage of the designated landmarks are public structures (such as the Brooklyn Bridge, City Hall, the Statue of Liberty and the Municipal Asphalt Plant), and thus do not raise Fifth Amendment taking questions. See Landmarks Preservation Commission of the City of New York, Landmarks and Historic Districts (1977 and Jan. 10, 1978, Supplement). Although the Court refers to the New York ordinance as a comprehensive program to preserve historic landmarks, ante at 107, the ordinance is not limited to historic buildings, and gives little guidance to the Landmarks Preservation Commission in its selection of landmark sites. Section 207-1.0(n) of the Landmarks Preservation Law, as set forth in N.Y.C.Admin.Code, ch. 8-A (1976), requires only that the selected landmark be at least 30 years old and possess
+
+a special character or special historical or aesthetic interest or value as part of the development, heritage or cultural characteristics of the city, state or nation.
+2.
+
+Even the New York Court of Appeals conceded that
+
+[t]his is not a zoning case. . . . Zoning restrictions operate to advance a comprehensive community plan for the common good. Each property owner in the zone is both benefited and restricted from exploitation, presumably without discrimination, except for permitted continuing nonconforming uses. The restrictions may be designed to maintain the general character of the area, or to assure orderly development, objectives inuring to the benefit of all, which property owners acting individually would find difficult or impossible to achieve. . . .
+
+Nor does this case involve landmark regulation of a historic district. . . . [In historic districting, as in traditional zoning,] owners, although burdened by the restrictions, also benefit, to some extent, from the furtherance of a general community plan.
+
+* * * *
+
+Restrictions on alteration of individual landmarks are not designed to further a general community plan. Landmark restrictions are designed to prevent alteration or demolition of a single piece of property. To this extent, such restrictions resemble "discriminatory" zoning restrictions, properly condemned. . . .
+
+42 N.Y.2d 324, 329-330, 366 N.E.2d 1271, 1274 (1977).
+3.
+
+The guarantee that private property shall not be taken for public use without just compensation is applicable to the States through the Fourteenth Amendment. Although the state
+
+legislature may prescribe a form of procedure to be observed in the taking of private property for public use, . . . it is not due process of law if provision be not made for compensation.
+
+Chicago, B. & Q. R. Co. v. Chicago, 166 U.S. 226, 236 (1897).
+4.
+
+The Court's opinion touches base with, or at least attempts to touch base with, most of the major eminent domain cases decided by this Court. Its use of them, however, is anything but meticulous. In citing to United State v. Caltex, Inc., 344 U.S. 149, 156 (1952), for example, ante at 124, the only language remotely applicable to eminent domain is stated in terms of "the destruction of respondents' terminals by a trained team of engineers in the face of their impending seizure by the enemy." 344 U.S. at 156.
+5.
+
+In particular, Penn Central cannot increase the height of the Terminal. This Court has previously held that the "air rights" over an area of land are "property" for purposes of the Fifth Amendment. See United States v. Causby, 328 U.S. 256 (1946) ("air rights" taken by low-flying airplanes); Griggs v. Allegheny County, 369 U.S. 84 (1962) (same); Portsmouth Harbor Land & Hotel Co. v. United States, 260 U.S. 327 (1922) (firing of projectiles over summer resort can constitute taking). See also Butler v. Frontier Telephone Co., 186 N.Y. 486, 79 N.E. 716 (190) (stringing of telephone wire across property constitutes a taking).
+6.
+
+It is, of course, irrelevant that appellees interfered with or destroyed property rights that Penn Central had not yet physically used. The Fifth Amendment must be applied with
+
+reference to the uses for which the property is suitable, having regard to the existing business or wants of the community, or such as may be reasonably expected in the immediate future.
+
+Boom Co. v. Patterson, 98 U.S. 403, 408 (1879) (emphasis added).
+7.
+
+Such a construction would pervert the constitutional provision into a restriction upon the rights of the citizen, as those rights stood at the common law, instead of the government, and make it an authority for invasion of private right under the pretext of the public good, which had no warrant in the laws or practices of our ancestors.
+
+188 U.S. at 470.
+8.
+
+Each of the cases cited by the Court for the proposition that legislation which severely affects some landowners but not others does not effect a "taking" involved noxious uses of property. See Hadacheck; Miller v. Schoene, 276 U.S. 272 (1928); Goldblatt. See ante at 125-127, 133.
+9.
+
+In Monongahela Navigation Co. v. United States, 148 U.S. 312 (1893), the Monongahela company had expended large sums of money in improving the Monongahela River by means of locks and dams. When the United States condemned this property for its own use, the Court held that full compensation had to be awarded.
+
+Suppose, in the improvement of a navigable stream, it was deemed essential to construct a canal with locks, in order to pass around rapids or falls. Of the power of Congress to condemn whatever land may be necessary for such canal, there can be no question; and of the equal necessity of paying full compensation for all private property taken there can be as little doubt.
+
+Id. at 337. Under the Court's rationale, however, where the Government wishes to preserve a preexisting canal system for public use, it need not condemn the property, but need merely order that it be preserved in its present form and be kept "in good repair."
+10.
+
+Appellants concede that the preservation of buildings of historical or aesthetic importance is a permissible objective of state action. Brief for Appellants 12. Cf. Berman v. Parker, 348 U.S. 26 (1954); United States v. Gettysburg Electric R. Co., 160 U.S. 668 (1896).
+
+For the reasons noted in the text, historic zoning, as has been undertaken by cities such as New Orleans, may well not require compensation under the Fifth Amendment.
+11.
+
+It is true that the police power embraces regulations designed to promote public convenience or the general welfare, and not merely those in the interest of public health, safety and morals. . . . But when particular individuals are singled out to bear the cost of advancing the public convenience, that imposition must bear some reasonable relation to the evils to be eradicated or the advantages to be secured. . . . While moneys raised by general taxation may constitutionally be applied to purposes from which the individual taxed may receive no benefit, and indeed, suffer serious detriment, . . . so-called assessments for public improvements laid upon particular property owners are ordinarily constitutional only if based on benefits received by them.
+
+294 U.S. at 429-430.
+12.
+
+The fact that the Landmarks Preservation Commission may have allowed additions to a relatively few landmarks is of no comfort to appellants. Ante at 118 n. 18. Nor is it of any comfort that the Commission refuses to allow appellants to construct any additional stories because of their belief that such construction would not be aesthetic. Ante at 117-118.
+13.
+
+Difficult conceptual and legal problems are posed by a rule that a taking only occurs where the property owner is denied all reasonable return on his property. Not only must the Court define "reasonable return" for a variety of types of property (farmlands, residential properties, commercial and industrial areas), but the Court must define the particular property unit that should be examined. For example, in this case, if appellees are viewed as having restricted Penn Central's use of its "air rights," all return has been denied. See Pennsylvania Coal Co. v. Mahon, 260 U.S. 393 (1922). The Court does little to resolve these questions in its opinion. Thus, at one point, the Court implies that the question is whether the restrictions have "an unduly harsh impact upon the owner's use of the property," ante at 127; at another point, the question is phrased as whether Penn Central can obtain "a ‘reasonable return' on its investment," ante at 136; and, at yet another point, the question becomes whether the landmark is "economically viable," ante at 138 n. 36.
+14.
+
+The Court suggests, ante at 131, that, if appellees are held to have "taken" property rights of landmark owners, not only the New York City Landmarks Preservation Law, but "all comparable landmark legislation in the Nation," must fall. This assumes, of course, that TDR's are not "just compensation" for the property rights destroyed. It also ignores the fact that many States and cities in the Nation have chosen to preserve landmarks by purchasing or condemning restrictive easements over the facades of the landmarks, and are apparently quite satisfied with the results. See, e.g., Ore.Rev.Stat. §§ 271.710, 271.720 (1977); Md.Ann.Code, Art 41, § 181A (1978); Va.Code §§ 10-145.1 and 10-138(e) (1978); Richmond, Va., City Code § 17-23 et seq. (1975). The British National Trust has effectively used restrictive easements to preserve landmarks since 1937. See National Trust Act, 1937, 1 Edw. 8 and 1 Geo. 6 ch. lvii, §§ 4 and 8. Other States and cities have found that tax incentives are also an effective means of encouraging the private preservation of landmark sites. See, e.g., Conn.Gen.Stat. § 12-127a (1977); Ill.Rev.Stat., ch. 24, § 11-48.2-6 (1976); Va.Code § 10-139 (1978). The New York City Landmarks Preservation Law departs drastically from these traditional, and constitutional, means of preserving landmarks.

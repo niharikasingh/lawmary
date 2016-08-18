@@ -8,13 +8,17 @@ import logging, sys
 #set up logging
 logging.basicConfig(stream=sys.stderr, level=logging.ERROR)
 
-stopwords = set(stopwords.words('english'))
+sw = set(stopwords.words('english'))
+for i in range(97, 123):
+    sw.add(chr(i))
 
 def calculateDistance(firstString, secondString):
-    fs = firstString.split(" ")
-    ss = secondString.split(" ")
-    fs = [e for e in fs if e not in stopwords]
-    ss = [e for e in ss if e not in stopwords]
+    fs = firstString.replace('.', '')
+    ss = secondString.replace('.', '')
+    fs = fs.split(" ")
+    ss = ss.split(" ")
+    fs = [e for e in fs if e not in sw]
+    ss = [e for e in ss if e not in sw]
     stemmer = PorterStemmer()
     fs = [stemmer.stem(e) for e in fs]
     ss = [stemmer.stem(e) for e in ss]

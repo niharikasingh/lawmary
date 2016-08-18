@@ -1,0 +1,18 @@
+I agree with the majority that a mortgagee, in its role as seller at a foreclosure sale, has a fiduciary duty to the mortgagor. I also agree with the majority's more specific analysis of that duty, including its references to the commissioners' comment to the Uniform Land Transactions Act, as well as those to Wheeler and other decisions of this court.
+
+On the record presently before us, however, I cannot see any support for the master's finding that the lenders here failed to exercise due diligence as we have defined that term. I would remand the case to the superior court for further findings of fact.
+
+Specifically, the master made no findings regarding what an "owner . . . voluntarily selling his land" would have done that the lenders here did not do, in order to obtain a fair price. The master's report stated that the lenders "did not establish an upset price or minimum bid," and that they "did not cause the property to be reappraised," but there is nothing in the record to show that an owner conducting a voluntary sale would have done these things.
+
+Nor is there anything to indicate what an appropriate upset price would have been under the conditions present here. The master correctly noted that "[a] foreclosure sale . . . usually produces a price less than the property's fair market value," so it is virtually certain that any upset price would have been less than that amount.
+
+I also cannot accept the majority's statement that the lenders' offer to sell the house for $40,000 constitutes support for a finding that they "should have taken more measures to ensure receiving a fair price at the sale." The offer was certainly relevant to the question of what the lenders knew about the house's value. Standing alone, however, it says nothing about what a reasonable person in the lenders' position would have done to ensure a fair price under the circumstances of this particular sale.
+
+The master, in fact, found that the lenders "did not mislead or
+deal unfairly with the plaintiffs" until the sale itself. He did not find, as the majority appears to assume, that the lenders should have adjourned the sale a second time. Although the report nowhere states specifically what the lenders should have done, its clear implication is that they should have made a higher bid at the foreclosure sale.
+
+There is no authority for such a conclusion. The mortgagee's fiduciary duty extends only to its role as a seller. Once the mortgagee has exerted every reasonable effort to obtain a fair price (which may sometimes include setting an upset price and adjourning the sale if no bidder meets that price), it has no further obligation in its role as a potential buyer. See generally 1 GLENN ON MORTGAGES § 108.1, at 652-53 (1943).
+
+As the majority notes, a low price is not of itself sufficient to invalidate a foreclosure sale, unless the price is "so low as to shock the judicial conscience." The price here was clearly not that low. Cf. Shipp Corp., Inc. v. Charpilloz, 414 So. 2d 1122, 1124 (Fla. Dist. Ct. App. 1982) (bid of $1.1 million was not grossly inadequate compared to a market value of between $2.8 and $3.2 million).
+
+Because it is unclear whether the master applied the correct standard regarding the mortgagees' duty, and because the record as presently constituted cannot support a determination that the lenders violated that standard, I respectfully dissent.

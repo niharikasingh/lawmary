@@ -1,0 +1,488 @@
+Given the novel scientific setting in which this case
+arises and the considerable interest this litigation has
+engendered within the medical research community and
+the public generally, it is easy to lose sight of the fact
+that the specific allegations on which the complaint in
+this case rests are quite unusual, setting this matter apart
+from the great majority of instances in which donated
+organs or cells provide the raw materials for the
+advancement of medical science and the development of
+new and beneficial medical products. Ordinarily, when a
+patient consents to the use of a body part for scientific
+purposes, the potential value of the excised organ or cell
+is discovered only through subsequent experimentation
+or research, often months or years after the removal of
+the organ. In this case, however, the complaint alleges
+that plaintiff's doctor recognized the peculiar research
+and commercial value of plaintiff's cells before their
+removal from plaintiff's body. Despite this knowledge,
+the doctor allegedly failed to disclose these facts or his
+interest in the cells to plaintiff, either before plaintiff's
+initial surgery or throughout the ensuing seven-year
+period during which the doctor continued to obtain
+additional cells from plaintiff's body in the course of
+periodic medical examinations.
+The majority opinion, of course, is not oblivious to the
+significance of these unusual allegations. It relies on
+those allegations in concluding that the complaint states
+a cause of action for breach of fiduciary duty. I concur
+fully in that holding.
+[51 Cal.3d 151]
+ When it turns to the conversion cause of
+action, however, the majority opinion fails to maintain
+its focus on the specific allegations before us. Concerned
+that the imposition of liability for conversion will
+impede medical research by innocent scientists who use
+the resources of existing cell repositories — a factual
+setting not presented here — the majority opinion rests
+its holding, that a conversion action cannot be
+maintained, largely on the proposition that a patient
+generally possesses no right in a body part that has
+already been removed from his body. Here, however,
+plaintiff has alleged that defendants interfered with his
+legal rights before his body part was removed. Although
+a patient may not retain any legal interest in a body part
+after its removal when he has properly consented to its
+removal and use for scientific purposes, it is clear under
+California law that before a body part is removed it is
+the patient, rather than his doctor or hospital, who
+possesses the right to determine the use to which the
+body part will be put after removal. If, as alleged in this
+case, plaintiff's doctor improperly interfered with
+plaintiff's right to control the use of a body part by
+wrongfully withholding material information from him
+before its removal, under traditional common law
+principles plaintiff may maintain a conversion action to
+recover the economic value of the right to control the
+use of his body part. Accordingly, I dissent from the
+majority opinion insofar as it rejects plaintiff's
+conversion cause of action.
+I
+To begin with, I concur fully in the majority's
+conclusion that the facts alleged in the complaint state a
+cause of action for breach of fiduciary duty against Dr.
+Golde. As the majority persuasively explains, because a
+physician's research activities and related commercial
+ventures may potentially affect his or her professional
+judgment, a physician has an obligation to disclose such
+personal interests to his patient. In this case, the
+complaint clearly alleges that Dr. Golde failed to fulfill
+this duty.
+With respect to the additional defendants — the Regents
+of the University of California (hereafter Regents),
+Shirley G. Quan, Genetics Institute, Inc. (hereafter
+Genetics Institute), and Sandoz Pharmaceuticals
+Corporation (hereafter Sandoz) — I cannot fully join in
+the majority's conclusion. Although I agree that the trial
+court erred in sustaining these defendants' demurrers to
+the breach of fiduciary duty cause of action without
+leave to amend, in my view the majority's ruling with
+respect to these defendants is more equivocal than is
+warranted. (See maj. opn., ante, pp. 133-134.) As the
+majority recognizes, the breach of fiduciary duty alleged
+in the complaint encompasses postoperative conduct —
+for example, the periodic withdrawal of blood, blood
+serum, bone marrow aspirate and sperm samples from
+plaintiff, requiring plaintiff to travel from Seattle to the
+Medical Center of 
+[51 Cal.3d 152]
+ the University of
+California at Los Angeles (hereafter UCLA Medical
+Center) — which continued until September 1983. By
+that date, according to the complaint, all of the
+defendants, including Genetics Institute and Sandoz,
+were already involved in the commercial venture.
+Despite the "boilerplate" nature of some of the agency
+allegations in the complaint (see maj. opn., ante, p. 134,
+fn. 12), the complaint's allegations, viewed in their
+entirety,
+1 
+ charge sufficient complicity on the part of all
+defendants in the allegedly improper postoperative
+conduct to survive a demurrer. If, after discovery, it
+becomes clear that the additional defendants bear no
+responsibility for either the original or continuing
+breach of fiduciary duty, those defendants can, of course,
+move for summary judgment on this count. At the
+present pleading stage, however, it is premature to
+absolve any of the defendants of liability for breach of
+fiduciary duty.
+I disagree, however, with the suggestion in the
+dissenting opinion that defendants will be able to avoid
+all liability under the breach-of-fiduciary-duty theory
+simply by showing that plaintiff would have proceeded
+with the surgical removal of his diseased spleen even if
+defendants had disclosed their research and commercial
+interest in his cells. (See dis. opn., post, pp. 179-180.) In
+the first place, because the alleged breach of fiduciary
+duty encompasses the postoperative conduct of
+defendants as well as the presurgical failure to disclose,
+plaintiff will clearly be entitled to recover under a
+breach-of-fiduciary-duty theory by establishing that he
+would not have consented to some or all of the
+extensive postoperative medical procedures if he had
+been fully aware of defendants' research and economic
+interests and motivations. Second, and more generally,
+in this context — unlike in the traditional "informed
+consent" context of Cobbs v. Grant (1972) 8 Cal.3d 229
+[104 Cal.Rptr. 505, 502 P.2d 1] — a plaintiff should not
+be required to establish that he would not have
+proceeded with the medical treatment in question if his
+physician had made full disclosure, but only that the
+doctor's wrongful failure to disclose information
+proximately caused the plaintiff some type of
+compensable damage. The majority does not attempt to
+identify in advance of trial the various kinds of damage
+or injury for which 
+[51 Cal.3d 153]
+ plaintiff may properly
+recover in his breach-of-fiduciary-duty action, and that
+may be understandable. Nonetheless, it is worth noting
+that, in appropriate circumstances, punitive as well as
+compensatory damages would clearly be recoverable in
+such an action. Accordingly, the dissent underestimates
+the potential efficacy of the breach-of-fiduciary-duty
+cause of action in dismissing the action as a "paper
+tiger." (Dis. opn., post, p. 180.)
+II
+With respect to the conversion cause of action, I dissent
+from the majority's conclusion that the facts alleged in
+this case do not state a cause of action for conversion.
+If this were a typical case in which a patient consented to
+the use of his removed organ for general research
+purposes and the patient's doctor had no prior
+knowledge of the scientific or commercial value of the
+patient's organ or cells, I would agree that the patient
+could not maintain a conversion action. In that common
+scenario, the patient has abandoned any interest in the
+removed organ and is not entitled to demand
+compensation if it should later be discovered that the
+organ or cells have some unanticipated value. I cannot
+agree, however, with the majority that a patient may
+never maintain a conversion action for the unauthorized
+use of his excised organ or cells, even against a party
+who knew of the value of the organ or cells before they
+were removed and breached a duty to disclose that value
+to the patient. Because plaintiff alleges that defendants
+wrongfully interfered with his right to determine, prior
+to the removal of his body parts, how those parts would
+be used after removal, I conclude that the complaint
+states a cause of action under traditional, common law
+conversion principles.
+In analyzing the conversion issue, the majority properly
+begins with the established requirements of a common
+law conversion action, explaining that a plaintiff is
+required to demonstrate an actual interference with his
+"ownership or right of possession" in the property in
+question. (Maj. opn., ante, p. 136.) Although the
+majority opinion, at several points, appears to suggest
+that a removed body part, by its nature, may never
+constitute "property" for purposes of a conversion
+action (see maj. opn., ante, pp. 138, 140), there is no
+reason to think that the majority opinion actually
+intends to embrace such a broad or dubious proposition.
+If, for example, another medical center or drug company
+had stolen all of the cells in question from the UCLA
+Medical Center laboratory and had used them for its
+own benefit, there would be no question but that a cause
+of action for conversion would properly lie against the
+thief, and the majority opinion does not suggest
+otherwise. Thus, the majority's analysis cannot rest on
+the broad proposition that a removed body part is not
+property, but rather rests on the 
+[51 Cal.3d 154]
+proposition that a patient retains no ownership interest
+in a body part once the body part has been removed
+from his or her body.
+The majority opinion fails to recognize, however, that,
+in light of the allegations of the present complaint, the
+pertinent inquiry is not whether a patient generally
+retains an ownership interest in a body part after its
+removal from his body, but rather whether a patient has
+a right to determine, before a body part is removed, the
+use to which the part will be put after removal.
+Although the majority opinion suggests that there are
+"reasons to doubt" that a patient retains "any" ownership
+interest in his organs or cells after removal (maj. opn.,
+ante, p. 137), the opinion fails to identify any statutory
+provision or common law authority that indicates that a
+patient does not generally have the right, before a body
+part is removed, to choose among the permissible uses
+to which the part may be put after removal. On the
+contrary, the most closely related statutory scheme —
+the Uniform Anatomical Gift Act (Health & Saf. Code, 
+§
+7150 et seq.)
+2 
+ — makes it quite clear that a patient does
+have this right.
+The Uniform Anatomical Gift Act is a comprehensive
+statutory scheme that was initially adopted in California
+in 1970 and most recently revised in 1988. Although
+that legislation, by its terms, applies only to a donation
+of all or part of a human body which is "to take effect
+upon or after [the] death [of the donor]" (
+§
+ 7150.1,
+subd. (a)) — and thus is not directly applicable to the
+present case which involves a living donor — the act is
+nonetheless instructive with regard to this state's
+general policy concerning an individual's authority to
+control the use of a donated body part. The act, which
+authorizes an anatomical gift to be made, inter alia, to
+"[a] hospital [or a] physician[,] ... for transplantation,
+therapy, medical or dental education, research or
+advancement of medical or dental science" (
+§
+ 7153,
+subd. (a)(1)), expressly provides that such a gift "may be
+made to a designated donee or without designating a
+donee" (
+§
+ 7153, subd. (b)) and also that the donor may
+make such a gift "for any of the purposes [specified in
+the statute or may] limit an anatomical gift to one or
+more of those purposes...." (
+§
+ 7150.5, subd. (a).) Thus,
+the act clearly recognizes that it is the donor of the body
+part, rather than the hospital or physician who receives
+the part, who has the authority to designate, within the
+parameters of the statutorily authorized uses, the
+particular use to which the part may be put.
+Although, as noted, the Uniform Anatomical Gift Act
+applies only to anatomical gifts that take effect on or
+after the death of the donor, the general principle of
+"donor control" which the act embodies is clearly not
+limited to that setting. In the transplantation context,
+for example, it is 
+[51 Cal.3d 155]
+ common for a living
+donor to designate the specific donee — often a relative
+— who is to receive a donated organ. If a hospital, after
+removing an organ from such a donor, decided on its
+own to give the organ to a different donee, no one
+would deny that the hospital had violated the legal right
+of the donor by its unauthorized use of the donated
+organ. Accordingly, it is clear under California law that
+a patient has the right, prior to the removal of an organ,
+to control the use to which the organ will be put after
+removal.
+It is also clear, under traditional common law principles,
+that this right of a patient to control the future use of his
+organ is protected by the law of conversion. As a general
+matter, the tort of conversion protects an individual not
+only against improper interference with the right of
+possession of his property but also against unauthorized
+use of his property or improper interference with his
+right to control the use of his property. Sections 227 and
+228 of the Restatement Second of Torts specifically
+provide in this regard that "[o]ne who uses a chattel in a
+manner which is a serious violation of the right of
+another to control its use is subject to liability to the
+other for conversion" and that "[o]ne who is authorized
+to make a particular use of a chattel, and uses it in a
+manner exceeding the authorization, is subject to
+liability for conversion to another whose right to
+control the use of the chattel is thereby seriously
+violated." California cases have also long recognized that
+"unauthorized use" of property can give rise to a
+conversion action. (See Hollywood M.P. Equipment Co.
+v. Furer (1940) 16 Cal.2d 184, 189 [105 P.2d 299]. See
+generally 5 Witkin, Summary of Cal. Law (9th ed. 1988)
+Torts, 
+§
+ 622, p. 716.)
+The application of these principles to the present case is
+evident. If defendants had informed plaintiff, prior to
+removal, of the possible uses to which his body part
+could be put and plaintiff had authorized one particular
+use, it is clear under the foregoing authorities that
+defendants would be liable for conversion if they
+disregarded plaintiff's decision and used the body part in
+an unauthorized manner for their own economic
+benefit. Although in this case defendants did not
+disregard a specific directive from plaintiff with regard
+to the future use of his body part, the complaint alleges
+that, before the body part was removed, defendants
+intentionally withheld material information that they
+were under an obligation to disclose to plaintiff and that
+was necessary for his exercise of control over the body
+part; the complaint also alleges that defendants withheld
+such information in order to appropriate the control
+over the future use of such body part for their own
+economic benefit. If these allegations are true,
+defendants clearly improperly interfered with plaintiff's
+right in his body part at a time when he had the
+authority to determine the future use of such part,
+thereby misappropriating plaintiff's right of control for
+their own advantage. Under 
+[51 Cal.3d 156]
+ these
+circumstances, the complaint fully satisfies the
+established requirements of a conversion cause of
+action.
+As already noted, the majority maintains that there are a
+number of "reasons to doubt" that a patient retains any
+legally protectible interest in his organs after removal
+(maj. opn., ante, p. 137), but none of these reasons
+withstands scrutiny. The majority first relies on the fact
+that "no reported judicial decision supports Moore's
+claim, either directly or by close analogy." (Maj. opn.,
+ante, p. 137.) By the same token, however, there is no
+reported judicial decision that rejects such a claim. This
+is simply a case of first impression. And while the
+majority goes on to emphasize that it is the "specialized
+statutes" dealing with human biological materials to
+which the court should look for guidance in
+determining whether a patient has any legal rights with
+respect to an organ after removal (maj. opn., ante, p.
+137), the majority fails to recognize that the Uniform
+Anatomical Gift Act, as we have seen, expressly
+confirms a patient's right to designate, prior to removal,
+the use to which a body part will be put. (See ante, pp.
+154-155.)
+The majority next relies on the provisions of section
+7054.4,
+3 
+ a statute that addresses the potential health
+hazards posed by the improper disposal of human body
+parts, reasoning that this statute "drastically limits a
+patient's control over excised cells." (Maj. opn., ante, p.
+140.) While I agree with the majority that section
+7054.4 should reasonably be interpreted to apply to body
+parts removed from a living patient as well as from dead
+bodies, the statute nonetheless provides absolutely no
+support for the majority's conclusion. Although section
+7054.4 limits a patient's control over an excised body
+part in the sense that it prohibits him from taking the
+removed part to his home and keeping it on his mantel,
+the statute certainly does not suggest that a patient does
+not have the right to choose among the legally
+permissible uses of his organ. Similarly, there is nothing
+in section 7054.4 which indicates that a doctor or
+the cells after removal and used them in an
+unauthorized manner for its own economic gain, no
+breach-of-fiduciary-duty cause of action would be
+available and a conversion action would be necessary to
+vindicate the patient's rights. Under the majority's
+holding, however, the patient would have no right to
+bring a conversion action, even against such a thief. As
+this hypothetical illustrates, even if there were
+compelling policy reasons to limit the potential liability
+of innocent researchers who use cells obtained from an
+existing cell bank, those policy considerations would not
+justify the majority's broad abrogation of all conversion
+liability for the unauthorized use of body parts.
+Second, even with respect to those persons who are not
+involved in the initial conversion, the majority's policy
+arguments are less than compelling. To begin with, the
+majority's fear that the availability of a conversion
+remedy will restrict access to existing cell lines is
+unrealistic. In the vast majority of instances the tissues
+and cells in existing repositories will not represent a
+potential source of liability because they will have come
+from patients who consented to their organ's use for
+scientific purposes under circumstances in which such
+consent was not tainted by a failure to disclose the
+known valuable nature of the cells. Because potential
+liability under a conversion theory will exist in only the
+exceedingly rare instance in which a doctor knowingly
+concealed from the patient the value of his body part or
+[51 Cal.3d 159]
+ the patient's specific directive with
+regard to the use of the body part was disregarded, there
+is no reason to think that application of settled
+conversion law will have any negative effect on the
+primary conduct of medical researchers who use tissue
+and cell banks.
+Furthermore, even in the rare instance — like the
+present case — in which a conversion action might be
+successfully pursued, the potential liability is not likely
+"to destroy the economic incentive to conduct
+important medical research," as the majority asserts.
+(Maj. opn., ante, p. 146.) If, as the majority suggests, the
+great bulk of the value of a cell line patent and derivative
+products is attributable to the efforts of medical
+researchers and drug companies, rather than to the "raw
+materials" taken from a patient (maj. opn., ante, pp. 141-
+142), the patient's damages will be correspondingly
+limited, and innocent medical researchers and drug
+manufacturers will retain the considerable economic
+benefits resulting from their own work. Under
+established conversion law, a "subsequent innocent
+converter" does not forfeit the proceeds of his own
+creative efforts, but rather "is entitled to the benefit of
+any work or labor that he has expended on the
+[property]...." (1 Harper et al., The Law of Torts (2d ed.
+1986) 
+§
+ 2.34, p. 234. See generally Rest.2d Torts, 
+§
+ 927,
+coms. f, g.)
+Finally, the majority's analysis of the relevant policy
+considerations tellingly omits a most pertinent
+consideration. In identifying the interests of the patient
+that are implicated by the decision whether to recognize
+a conversion cause of action, the opinion speaks only of
+the "patient's right to make autonomous medical
+decisions" (maj. opn., ante, p. 143) and fails even to
+mention the patient's interest in obtaining the economic
+value, if any, that may adhere in the subsequent use of
+his own body parts. Although such economic value may
+constitute a fortuitous "windfall" to the patient (maj.
+opn., ante, p. 147), the fortuitous nature of the
+economic value does not justify the creation of a novel
+exception from conversion liability which sanctions the
+intentional misappropriation of that value from the
+patient.
+This last point reveals perhaps the most serious flaw in
+the majority's public policy analysis in this case. It is
+certainly arguable that, as a matter of policy or morality,
+it would be wiser to prohibit any private individual or
+entity from profiting from the fortuitous value that
+adheres in a part of a human body, and instead to
+require all valuable excised body parts to be deposited in
+a public repository which would make such materials
+freely available to all scientists for the betterment of
+society as a whole. The Legislature, if it wished, could
+create such a system, as it has done with respect to
+organs that are donated for transplantation. (See 
+§
+ 7155,
+subd. (a); Pen. Code, 
+§
+ 367f. See also 42 U.S.C. 
+§
+ 274e.)
+To date, however, the Legislature has not adopted such
+a system for organs that are to be used for 
+[51 Cal.3d
+160]
+ research or commercial purposes,
+5 
+ and the majority
+opinion, despite some oblique suggestions to the
+contrary (see maj. opn., ante, pp. 144-145), emphatically
+does not do so by its holding in this case. Justice
+Arabian's concurring opinion suggests that the
+majority's conclusion is informed by the precept that it
+is immoral to sell human body parts for profit. (See
+conc. opn., ante, p. 149.) But the majority's rejection of
+plaintiff's conversion cause of action does not mean that
+body parts may not be bought or sold for research or
+commercial purposes or that no private individual or
+entity may benefit economically from the fortuitous
+value of plaintiff's diseased cells. Far from elevating
+these biological materials above the marketplace, the
+majority's holding simply bars plaintiff, the source of the
+cells, from obtaining the benefit of the cells' value, but
+permits defendants, who allegedly obtained the cells
+from plaintiff by improper means, to retain and exploit
+the full economic value of their ill-gotten gains free of
+their ordinary common law liability for conversion.
+Because I conclude that plaintiff's complaint states a
+cause of action for conversion under traditional
+common law principles, I dissent from the majority
+opinion insofar as it rejects such a claim.

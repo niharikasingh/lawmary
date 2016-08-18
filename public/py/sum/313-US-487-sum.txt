@@ -1,6 +1,6 @@
-The Circuit Court of Appeals affirmed, 115 F.2d 268, and we granted certiorari, limited to the question whether § 480 of the New York Civil Practice Act is applicable to an action in the federal court in Delaware.
+The principal question in this case is whether in diversity cases the federal courts must follow conflict of laws rules prevailing in the states in which they sit.
+The Circuit Court of Appeals affirmed, 115 F.2d 268, and we granted certiorari, limited to the question whether § 480 of the New York Civil Practice Act is applicable to an action in the federal court in Delaware. 312 U.S. 674.
 The Circuit Court of Appeals was of the view that under New York law the right to interest before verdict under § 480 went to the substance of the obligation, and that proper construction of the contract in suit fixed New York as the place of performance.
 The conflict of laws rules to be applied by the federal court in Delaware must conform to those prevailing in Delaware's state courts. Otherwise, the accident of diversity of citizenship would constantly disturb equal administration of justice in coordinate state and federal courts sitting side by side.
-In Massachusetts Benefit Association v. Miles, 137 U.S. 689, this Court held that § 966 did not exclude the allowance of interest on verdicts as well as judgments, and the opinion observed that "the courts of the state and the federal courts sitting within the state should be in harmony upon this point" (p. 691).
-Looking then to the Delaware cases, petitioner relies on one group to support his contention that the Delaware state courts would refuse to apply § 480 of the New York Civil Practice Act, and respondent on another to prove the contrary.
-Reverse 
+The argument rests mainly on the decision of this Court in John Hancock Mutual Life Ins. Co. v. Yates, 299 U.S. 178, where a New York statute was held such an integral part of a contract of insurance, that Georgia was compelled to sustain the contract under the full faith and credit clause.
+Accordingly, the judgment is reversed and the case remanded to the Circuit Court of Appeals for decision in conformity with the law of Delaware. Reverse 

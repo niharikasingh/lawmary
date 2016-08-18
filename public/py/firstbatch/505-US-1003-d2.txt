@@ -1,0 +1,201 @@
+Today the Court launches a missile to kill a mouse.
+
+The State of South Carolina prohibited petitioner Lucas from building a permanent structure on his property from 1988 to 1990. Relying on an unreviewed (and implausible) state trial court finding that this restriction left Lucas' property valueless, this Court granted review to determine whether compensation must be paid in cases where the State prohibits all economic use of real estate. According to the Court, such an occasion never has arisen in any of our prior cases, and the Court imagines that it will arise "relatively rarely" or only in "extraordinary circumstances." Almost certainly, it did not happen in this case.
+
+Nonetheless, the Court presses on to decide the issue, and as it does, it ignores its jurisdictional limits, remakes its traditional rules of review, and creates simultaneously a new categorical rule and an exception (neither of which is rooted in our prior case law, common law, or common sense). I protest not only the Court's decision, but each step taken to reach it. More fundamentally, I question the Court's wisdom in issuing sweeping new rules to decide such a narrow case. Surely, as JUSTICE KENNEDY demonstrates, the Court could have reached the result it wanted without inflicting this damage upon our Takings Clause jurisprudence.
+
+My fear is that the Court's new policies will spread beyond the narrow confines of the present case. For that reason, I, like the Court, will give far greater attention to this case than its narrow scope suggests -- not because I can intercept [p1037] the Court's missile, or save the targeted mouse, but because I hope perhaps to limit the collateral damage.
+
+I
+
+A
+
+In 1972, Congress passed the Coastal Zone Management Act. 16 U.S.C. § 1451 et seq. The Act was designed to provide States with money and incentives to carry out Congress' goal of protecting the public from shoreline erosion and coastal hazards. In the 1980 Amendments to the Act, Congress directed States to enhance their coastal programs by
+
+[p]reventing or significantly reducing threats to life and the destruction of property by eliminating development and redevelopment in high-hazard areas. [n1]
+
+16 U.S.C. § 1456b(a)(2) (1988 ed., Supp. II).
+
+South Carolina began implementing the congressional directive by enacting the South Carolina Coastal Zone Management Act of 1977. Under the 1977 Act, any construction activity in what was designated the "critical area" required a permit from the Council, and the construction of any habitable structure was prohibited. The 1977 critical area was relatively narrow.
+
+This effort did not stop the loss of shoreline. In October, 1986, the Council appointed a "Blue Ribbon Committee on Beachfront Management" to investigate beach erosion and [p1038] propose possible solutions. In March, 1987, the Committee found that South Carolina's beaches were "critically eroding," and proposed land use restrictions. Report of the South Carolina Blue Ribbon Committee on Beachfront Management i, 6-10 (March 1987). In response, South Carolina enacted the Beachfront Management Act on July 1, 1988. S.C.Code § 48-39-250 et seq. (Supp.1990). The 1988 Act did not change the uses permitted within the designated critical areas. Rather, it enlarged those areas to encompass the distance from the mean high water mark to a setback line established on the basis of "the best scientific and historical data" available. [n2] S.C.Code § 48-39-280 (Supp.1991).
+
+B
+
+Petitioner Lucas is a contractor, manager, and part owner of the Wild Dune development on the Isle of Palms. He has lived there since 1978. In December, 1986, he purchased two of the last four pieces of vacant property in the development. [n3] The area is notoriously unstable. In roughly half of the last 40 years, all of part of petitioner's property was part of the beach or flooded twice daily by the ebb and flow of the tide. Tr. 84. Between 1957 and 1963, petitioner's property was under water. Id. at 79, 81-82. Between 1963 and 1973, the shoreline was 100 to 150 feet onto petitioner's property. Ibid. In 1973, the first line of stable vegetation was about half-way through the property. Id. at 80. Between 1981 and 1983, the Isle of Palms issued 12 emergency orders for [p1039] sandbagging to protect property in the Wild Dune development. Id. at 99. Determining that local habitable structures were in imminent danger of collapse, the Council issued permits for two rock revetments to protect condominium developments near petitioner's property from erosion; one of the revetments extends more than half-way onto one of his lots. Id. at 102.
+
+C
+
+The South Carolina Supreme Court found that the Beachfront Management Act did not take petitioner's property without compensation. The decision rested on two premises that, until today, were unassailable -- that the State has the power to prevent any use of property it finds to be harmful to its citizens, and that a state statute is entitled to a presumption of constitutionality.
+
+The Beachfront Management Act includes a finding by the South Carolina General Assembly that the beach/dune system serves the purpose of
+
+protect[ing] life and property by serving as a storm barrier which dissipates wave energy and contributes to shoreline stability in an economical and effective manner.
+
+§ 48-39-250(1)(a). The General Assembly also found that
+
+development unwisely has been sited too close to the [beach/dune] system. This type of development has jeopardized the stability of the beach/dune system, accelerated erosion, and endangered adjacent property.
+
+§ 48-39-250(4); see also § 4839-250(6) (discussing the need to "afford the beach/dune system space to accrete and erode").
+
+If the state legislature is correct that the prohibition on building in front of the setback line prevents serious harm, then, under this Court's prior cases, the Act is constitutional.
+
+Long ago it was recognized that all property in this country is held under the implied obligation that the owner's use of it shall not be injurious to the community, and the Takings Clause did not transform that principle to one that requires compensation whenever the State asserts its power to enforce [p1040] it.
+
+Keystone Bituminous Coal Assn. v. DeBenedictis, 480 U.S. 470, 491-492 (1987) (internal quotations omitted); see also id. at 488-489, and n. 18. The Court consistently has upheld regulations imposed to arrest a significant threat to the common welfare, whatever their economic effect on the owner. See e.g., Goldblatt v. Hempstead, 369 U.S. 590, 592-593 (1962); Euclid v. Ambler Realty Co., 272 U.S. 365 (1926); Gorieb v. Fox, 274 U.S. 603, 608 (1927); Mugler v. Kansas, 123 U.S. 623 (1887).
+
+Petitioner never challenged the legislature's findings that a building ban was necessary to protect property and life. Nor did he contend that the threatened harm was not sufficiently serious to make building a house in a particular location a "harmful" use, that the legislature had not made sufficient findings, or that the legislature was motivated by anything other than a desire to minimize damage to coastal areas. Indeed, petitioner objected at trial that evidence as to the purposes of the setback requirement was irrelevant. Tr. 68. The South Carolina Supreme Court accordingly understood petitioner not to contest the State's position that "discouraging new construction in close proximity to the beach/dune area is necessary to prevent a great public harm," 304 S.C. 376, 383, 404 S.E.2d 895, 898 (1991), and "to prevent serious injury to the community." Id. at 387, 404 S.E.2d at 901. The court considered itself "bound by these uncontested legislative findings . . . [in the absence of] any attack whatsoever on the statutory scheme." Id. at 383, 404 S.E.2d at 898.
+
+Nothing in the record undermines the General Assembly's assessment that prohibitions on building in front of the setback line are necessary to protect people and property from storms, high tides, and beach erosion. Because that legislative determination cannot be disregarded in the absence of such evidence, see, e.g., Euclid, 272 U.S. at 388; O'Gorman & Young v. Hartford Fire Ins. Co., 282 U.S. 251, 257-258 (1931) (Brandeis, J.), and because its determination [p1041] of harm to life and property from building is sufficient to prohibit that use under this Court's cases, the South Carolina Supreme Court correctly found no taking.
+
+II
+
+My disagreement with the Court begins with its decision to review this case. This Court has held consistently that a land use challenge is not ripe for review until there is a final decision about what uses of the property will be permitted. The ripeness requirement is not simply a gesture of good-will to land use planners. In the absence of
+
+a final and authoritative determination of the type and intensity of development legally permitted on the subject property,
+
+MacDonald, Sommer & Frates v. Yolo County, 477 U.S. 340, 348 (1986), and the utilization of state procedures for just compensation, there is no final judgment, and, in the absence of a final judgment, there is no jurisdiction. See San Diego Gas & Electric Co. v. San Diego, 450 U.S. 621, 633 (1981); Agins v. Tiburon, 447 U.S. 255, 260 (1980).
+
+This rule is "compelled by the very nature of the inquiry required by the Just Compensation Clause," because the factors applied in deciding a takings claim
+
+simply cannot be evaluated until the administrative agency has arrived at a final, definitive position regarding how it will apply the regulations at issue to the particular land in question.
+
+Williamson County Regional Planning Comm'n v. Hamilton Bank of Johnson City, 473 U.S. 172, 190, 191 (1985). See also MacDonald, Sommer & Frates, 477 U.S. at 348 ("A court cannot determine whether a regulation has gone ‘too far' unless it knows how far the regulation goes") (citation omitted).
+
+The Court admits that the 1990 amendments to the Beachfront Management Act allowing special permits preclude Lucas from asserting that his property has been permanently taken. See ante at 1011-1012. The Court agrees that such a claim would not be ripe, because there has been no final decision by respondent on what uses will be permitted. [p1042] The Court, however, will not be denied: it determines that petitioner's "temporary takings" claim for the period from July 1, 1988, to June 25, 1990, is ripe. But this claim also is not justiciable. [n4]
+
+From the very beginning of this litigation, respondent has argued that the courts:
+
+"lac[k] jurisdiction in this matter because the Plaintiff has sought no authorization from Council for use of his property, has not challenged the location of the baseline or setback line as alleged in the Complaint, and because no final agency decision has been rendered concerning use of his property or location of said baseline or setback line.
+
+Tr. 10 (answer, as amended). Although the Council's plea has been ignored by every court, it is undoubtedly correct.
+
+Under the Beachfront Management Act, petitioner was entitled to challenge the setback line or the baseline or erosion rate applied to his property in formal administrative, followed by judicial, proceedings. S.C.Code § 48-39-280(E) (Supp.1991). Because Lucas failed to pursue this administrative remedy, the Council never finally decided whether Lucas' particular piece of property was correctly categorized as a critical area in which building would not be permitted. This is all the more crucial because Lucas argued strenuously in the trial court that his land was perfectly safe to build on, and that his company had studies to prove it. Tr. 20, 25, 36. If he was correct, the Council's [p1043] final decision would have been to alter the setback line, eliminating the construction ban on Lucas' property.
+
+That petitioner's property fell within the critical area as initially interpreted by the Council does not excuse petitioner's failure to challenge the Act's application to his property in the administrative process. The claim is not ripe until petitioner seeks a variance from that status.
+
+[W]e have made it quite clear that the mere assertion of regulatory jurisdiction by a governmental body does not constitute a regulatory taking.
+
+United States v. Riverside Bayview Homes, Inc., 474 U.S. 121, 126 (1985). See also Williamson County, 473 U.S. at 188 (claim not ripe because respondent did not seek variances that would have allowed it to develop the property, notwithstanding the Commission's finding that the plan did not comply with the zoning ordinance and subdivision regulations). [n5]
+
+Even if I agreed with the Court that there were no jurisdictional barriers to deciding this case, I still would not try to decide it. The Court creates its new taking jurisprudence based on the trial court's finding that the property [p1044] had lost all economic value. [n6] This finding is almost certainly erroneous. Petitioner still can enjoy other attributes of ownership, such as the right to exclude others, "one of the most essential sticks in the bundle of rights that are commonly characterized as property." Kaiser Aetna v. United States, 444 U.S. 164, 176 (1979). Petitioner can picnic, swim, camp in a tent, or live on the property in a movable trailer. State courts frequently have recognized that land has economic value where the only residual economic uses are recreation or camping. See, e.g., Turnpike Realty Co. v. Dedham, 362 Mass. 221, 284 N.E.2d 891 (1972) cert. denied, 409 U.S. 1108 (1973); Turner v. County of Del Norte, 24 Cal.App.3d 311, 101 Cal.Rptr. 93 (19721; Hall v. Board of Environmental Protection, 528 A.2d 453 (Me.1987). Petitioner also retains the right to alienate the land, which would have value for neighbors and for those prepared to enjoy proximity to the ocean without a house.
+
+Yet the trial court, apparently believing that "less value" and "valueless" could be used interchangeably, found the property "valueless." The court accepted no evidence from the State on the property's value without a home, and petitioner's appraiser testified that he never had considered what the value would be absent a residence. Tr. 54-55. The appraiser's value was based on the fact that the "highest and best use of these lots . . . [is] luxury single family detached dwellings." Id. at 48. The trial court appeared to believe that the property could be considered "valueless" if it was not available for its most profitable use. Absent that erroneous assumption, see Goldblatt, 369 U.S. at 592, I find no evidence in the record supporting the trial court's conclusion that the damage to the lots by virtue of the restrictions [p1045] was "total." Record 128 (findings of fact). I agree with the Court, ante at 1020, n. 9, that it has the power to decide a case that turns on an erroneous finding, but I question the wisdom of deciding an issue based on a factual premise that does not exist in this case, and in the judgment of the Court will exist in the future only in "extraordinary circumstance[s]." Ante at 1017.
+
+Clearly, the Court was eager to decide this case. [n7] But eagerness, in the absence of proper jurisdiction, must -- and in this case should have been -- met with restraint.
+
+III
+
+The Court's willingness to dispense with precedent in its haste to reach a result is not limited to its initial jurisdictional decision. The Court also alters the long-settled rules of review.
+
+The South Carolina Supreme Court's decision to defer to legislative judgments in the absence of a challenge from petitioner comports with one of this Court's oldest maxims: "the existence of facts supporting the legislative judgment is to be presumed." United States v. Carolene Products Co., 304 U.S. 144, 152 (1938). Indeed, we have said the legislature's judgment is "well-nigh conclusive." Berman v. [p1046] Parker, 348 U.S. 26, 32 (1954). See also Sweet v. Rechel, 159 U.S. 380, 392 (1895); Euclid, 272 U.S. at 388 ("If the validity of the legislative classification for zoning purposes be fairly debatable, the legislative judgment must be allowed to control").
+
+Accordingly, this Court always has required plaintiffs challenging the constitutionality of an ordinance to provide "some factual foundation of record" that contravenes the legislative findings. O'Gorman & Young, 282 U.S. at 258. In the absence of such proof, "the presumption of constitutionality must prevail." Id. at 257. We only recently have reaffirmed that claimants have the burden of showing a state law constitutes a taking. See Keystone Bituminous Coal, 480 U.S. at 485. See also Goldblatt, 369 U.S. at 594 (citing "the usual presumption of constitutionality" that applies to statutes attacked as takings).
+
+Rather than invoking these traditional rules, the Court decides the State has the burden to convince the courts that its legislative judgments are correct. Despite Lucas' complete failure to contest the legislature's findings of serious harm to life and property if a permanent structure is built, the Court decides that the legislative findings are not sufficient to justify the use prohibition. Instead, the Court "emphasize[s]" the State must do more than merely proffer its legislative judgments to avoid invalidating its law. Ante at 1031. In this case, apparently, the State now has the burden of showing the regulation is not a taking. The Court offers no justification for its sudden hostility toward state legislators, and I doubt that it could.
+
+IV
+
+The Court does not reject the South Carolina Supreme Court's decision simply on the basis of its disbelief and distrust of the legislature's findings. It also takes the opportunity to create a new scheme for regulations that eliminate all economic value. From now on, there is a categorical rule finding these regulations to be a taking unless the use they [p1047] prohibit is a background common law nuisance or property principle. See ante at 1028-1031.
+
+A
+
+I first question the Court's rationale in creating a category that obviates a "case-specific inquiry into the public interest advanced," ante at 1015, if all economic value has been lost. If one fact about the Court's taking jurisprudence can be stated without contradiction, it is that "the particular circumstances of each case" determine whether a specific restriction will be rendered invalid by the government's failure to pay compensation. United States v. Central Eureka Mining Co., 357 U.S. 155, 168 (1958). This is so because, although we have articulated certain factors to be considered, including the economic impact on the property owner, the ultimate conclusion "necessarily requires a weighing of private and public interests." Agins, 447 U.S. at 261. When the government regulation prevents the owner from any economically valuable use of his property, the private interest is unquestionably substantial, but we have never before held that no public interest can outweigh it. Instead the Court's prior decisions "uniformly reject the proposition that diminution in property value, standing alone, can establish a ‘taking.'" Penn Central Transp. Co. v. New York City, 438 U.S. 104, 131 (1978).
+
+This Court repeatedly has recognized the ability of government, in certain circumstances, to regulate property without compensation, no matter how adverse the financial effect on the owner may be. More than a century ago, the Court explicitly upheld the right of States to prohibit uses of property injurious to public health, safety, or welfare without paying compensation:
+
+A prohibition simply upon the use of property for purposes that are declared, by valid legislation, to be injurious to the health, morals, or safety of the community, cannot, in any just sense, be deemed a taking or an appropriation of property.
+
+Mugler v. Kansas, 123 U.S. [p1048] at 668-669 (1887). On this basis, the Court upheld an ordinance effectively prohibiting operation of a previously lawful brewery, although the "establishments will become of no value as property." Id. at 664; see also id. at 668.
+
+Mugler was only the beginning in a long line of cases. [n8] In Powell v. Pennsylvania, 127 U.S. 678 (1888), the Court upheld legislation prohibiting the manufacture of oleomargarine, despite the owner's allegation that,
+
+if prevented from continuing it, the value of his property employed therein would be entirely lost, and he be deprived of the means of livelihood.
+
+Id. at 682. In Hadacheck v. Sebastian, 239 U.S. 394 (1915), the Court upheld an ordinance prohibiting a brickyard, although the owner had made excavations on the land that prevented it from being utilized for any purpose but a brickyard. Id. at 405. In Miller v. Schoene, 276 U.S. 272 (1928), the Court held that the Fifth Amendment did not require Virginia to pay compensation to the owner of cedar trees ordered destroyed to prevent a disease from spreading to nearby apple orchards. The
+
+preferment of [the public interest] over the property interest of the individual, to the extent even of its destruction, is one of the distinguishing characteristics of every exercise of the police power which affects property.
+
+Id. at 280. Again, in Omnia Commercial Co. v. United States, 261 U.S. 502 (1923), the Court stated that "destruction of, or injury to, property is frequently accomplished without a 'taking' in the constitutional sense." Id. at 508.
+
+More recently, in Goldblatt, the Court upheld a town regulation that barred continued operation of an existing sand and gravel operation in order to protect public safety. 369 [p1049] U.S. at 596. "Although a comparison of values before and after is relevant," the Court stated, "it is by no means conclusive." [n9] Id. at 594. In 1978, the Court declared that,
+
+in instances in which a state tribunal reasonably concluded that "the health, safety, morals, or general welfare" would be promoted by prohibiting particular contemplated uses of land, this Court has upheld land use regulation that destroyed . . . recognized real property interests.
+
+Penn Central Transp. Co., 438 U.S. at 125. In First Lutheran Church v. Los Angeles County, 482 U.S. 304 (1987), the owner alleged that a floodplain ordinance had deprived it of "all use" of the property. Id. at 312. The Court remanded the case for consideration whether, even if the ordinance denied the owner all use, it could be justified as a safety measure. [n10] Id. at 313. And in Keystone Bituminous Coal, the Court summarized over 100 years of precedent: "the Court has repeatedly upheld regulations that destroy or adversely affect real property interests." [n11] 480 U.S. at 489, n. 18. [p1050]
+
+The Court recognizes that
+
+our prior opinions have suggested that "harmful or noxious uses" of property may be proscribed by government regulation without the requirement of compensation,
+
+ante at 1022, but seeks to reconcile them with its categorical rule by claiming that the Court never has upheld a regulation when the owner alleged the loss of all economic value. Even if the Court's factual premise were correct, its understanding of the Court's cases is distorted. In none of the cases did the Court suggest that the right of a State to prohibit certain activities without paying compensation turned on the availability of some residual valuable use. [n12] Instead, the cases depended on whether the [p1051] government interest was sufficient to prohibit the activity, given the significant private cost. [n13]
+
+These cases rest on the principle that the State has full power to prohibit an owner's use of property if it is harmful to the public.
+
+[S]ince no individual has a right to use his property so as to create a nuisance or otherwise harm others, the State has not "taken" anything when it asserts its power to enjoin the nuisance-like activity.
+
+Keystone Bituminous Coal, 480 U.S. at 491, n. 20. It would make no sense under this theory to suggest that an owner has a constitutionally protected right to harm others, if only he makes the proper showing of economic loss. [n14] See Pennsylvania Coal Co. v. Mahon, 260 U.S. 393, 418, 43 S.Ct. 158, 161 (1922) (Brandeis, J., dissenting) ("Restriction upon [harmful] use does not become inappropriate as a means, merely because it deprives the owner of the only use to which the property can then be profitably put"). [p1052]
+
+B
+
+Ultimately even the Court cannot embrace the full implications of its per se rule: it eventually agrees that there cannot be a categorical rule for a taking based on economic value that wholly disregards the public need asserted. Instead, the Court decides that it will permit a State to regulate all economic value only if the State prohibits uses that would not be permitted under "background principles of nuisance and property law." [n15] Ante at 1031.
+
+Until today, the Court explicitly had rejected the contention that the government's power to act without paying compensation turns on whether the prohibited activity is a common law nuisance. [n16] The brewery closed in Mugler itself was not a common law nuisance, and the Court specifically stated that it was the role of the legislature to determine [p1053] what measures would be appropriate for the protection of public health and safety. See 123 U.S. at 661. In upholding the state action in Miller, the Court found it unnecessary to
+
+weigh with nicety the question whether the infected cedars constitute a nuisance according to common law; or whether they may be so declared by statute.
+
+276 U.S. at 280. See also Goldblatt, 369 U.S. at 593; Hadacheck, 239 U.S. at 411. Instead the Court has relied in the past, as the South Carolina Court has done here, on legislative judgments of what constitutes a harm. [n17]
+
+The Court rejects the notion that the State always can prohibit uses it deems a harm to the public without granting compensation because "the distinction between ‘harm-preventing' and ‘benefit-conferring' regulation is often in the eye of the beholder." Ante at 1024. Since the characterization will depend "primarily upon one's evaluation of the worth of competing uses of real estate," ante at 1025, the Court decides a legislative judgment of this kind no longer can provide the desired "objective, value-free basis" for upholding a regulation. Ante at 1026. The Court, however, fails to explain how its proposed common law alternative escapes the same trap. [p1054]
+
+The threshold inquiry for imposition of the Court's new rule, "deprivation of all economically valuable use," itself cannot be determined objectively. As the Court admits, whether the owner has been deprived of all economic value of his property will depend on how "property" is defined. The "composition of the denominator in our ‘deprivation' fraction," ante at 1017, n. 7, is the dispositive inquiry. Yet there is no "objective" way to define what that denominator should be.
+
+We have long understood that any land use regulation can be characterized as the "total" deprivation of an aptly defined entitlement. . . . Alternatively, the same regulation can always be characterized as a mere "partial" withdrawal from full, unencumbered ownership of the landholding affected by the regulation. . . . [n18]
+
+Michelman, Takings, 1987, 88 Colum.L.Rev. 1600, 1614 (1988).
+
+The Court's decision in Keystone Bituminous Coal illustrates this principle perfectly. In Keystone, the Court determined that the "support estate" was "merely a part of the entire bundle of rights possessed by the owner." 480 U.S. at 501. Thus, the Court concluded that the support estate's destruction merely eliminated one segment of the total property. Ibid. The dissent, however, characterized the support estate as a distinct property interest that was wholly destroyed. Id. at 519. The Court could agree on no "value-free basis" to resolve this dispute.
+
+Even more perplexing, however, is the Court's reliance on common law principles of nuisance in its quest for a value-free taking jurisprudence. In determining what is a nuisance at common law, state courts make exactly the decision that the Court finds so troubling when made by the South Carolina General Assembly today: they determine whether the use is harmful. Common law public and private nuisance [p1055] law is simply a determination whether a particular use causes harm. See Prosser, Private Action for Public Nuisance, 52 Va.L.Rev. 997, 997 (1966) ("Nuisance is a French word which means nothing more than harm"). There is nothing magical in the reasoning of judges long dead. They determined a harm in the same way as state judges and legislatures do today. If judges in the 18th and 19th centuries can distinguish a harm from a benefit, why not judges in the 20th century, and if judges can, why not legislators? There simply is no reason to believe that new interpretations of the hoary common law nuisance doctrine will be particularly "objective" or "value-free." [n19] Once one abandons the level of generality of sic utere tuo ut alienum non laedas, ante at 1031, one searches in vain, I think, for anything resembling a principle in the common law of nuisance.
+
+C
+
+Finally, the Court justifies its new rule that the legislature may not deprive a property owner of the only economically valuable use of his land, even if the legislature finds it to be a harmful use, because such action is not part of the "long recognized" "understandings of our citizens." Ante at 1027. These "understandings" permit such regulation only if the use is a nuisance under the common law. Any other course is "inconsistent with the historical compact recorded in the Takings Clause." Ante at 1028. It is not clear from the Court's [p1056] opinion where our "historical compact" or "citizens' understanding" comes from, but it does not appear to be history.
+
+The principle that the State should compensate individuals for property taken for public use was not widely established in America at the time of the Revolution.
+
+The colonists . . . inherited . . . a concept of property which permitted extensive regulation of the use of that property for the public benefit -- regulation that could even go so far as to deny all productive use of the property to the owner if, as Coke himself stated, the regulation "extends to the public benefit . . . for this is for the public, and every one hath benefit by it."
+
+F. Bosselman, D. Callies & J. Banta, The Taking Issue 80-81 (1973), quoting The Case of the King's Prerogative in Saltpetre, 12 Co.Rep. 12-13 (1606) (hereinafter Bosselman). See also Treanor, The Origins and Original Significance of the Just Compensation Clause of the Fifth Amendment, 94 Yale L.J. 694, 697, n. 9 (1985). [n20]
+
+Even into the 19th century, state governments often felt free to take property for roads and other public projects without paying compensation to the owners. [n21] See M. Horwitz, The Transformation of American Law, 1780-1860, pp. 63-64 (1977) (hereinafter Horwitz); Treanor, 94 Yale L.J. at 695. As one court declared in 1802, citizens "were bound [p1057] to contribute as much of [land], as by the laws of the country, were deemed necessary for the public convenience." M'Clenachan v. Curwin, 3 Yeates 362, 373 (Pa.1802). There was an obvious movement toward establishing the just compensation principle during the 19th century, but
+
+there continued to be a strong current in American legal thought that regarded compensation simply as a "bounty given . . . by the State" out of "kindness," and not out of justice.
+
+Horwitz 65 (quoting Commonwealth v. Fisher, 1 Pen. & W. 462, 465 (Pa.1830)). See also State v. Dawson, 3 Hill 100, 103 (S.C.1836)). [n22]
+
+Although, prior to the adoption of the Bill of Rights, America was replete with land use regulations describing which activities were considered noxious and forbidden, see Bender, The Takings Clause: Principles or Politics?, 34 Buffalo L.Rev. 735, 751 (1985); L. Friedman, A History of American Law 66-68 (1973), the Fifth Amendment's Takings Clause originally did not extend to regulations of property, whatever the effect. [n23] See ante at 1014. Most state courts agreed with this narrow interpretation of a taking. "Until the end of the nineteenth century . . . , jurists held that [p1058] the constitution protected possession only, and not value." Siegel, Understanding the Nineteenth Century Contract Clause: The Role of the Property-Privilege Distinction and "Takings" Clause Jurisprudence, 60 S.Cal.L.Rev. 1, 76 (1986); Bosselman 106. Even indirect and consequential injuries to property resulting from regulations were excluded from the definition of a taking. See Bosselman 106; Callender v. Marsh, 1 Pick. 418, 430 (Mass.1823).
+
+Even when courts began to consider that regulation in some situations could constitute a taking, they continued to uphold bans on particular uses without paying compensation, notwithstanding the economic impact, under the rationale that no one can obtain a vested right to injure or endanger the public. [n24] In the Coates cases, for example, the Supreme Court of New York found no taking in New York's ban on the interment of the dead within the city, although "no other use can be made of these lands." Coates v. City of New York, 7 Cow. 585, 592 (N.Y.1827). See also Brick Presbyterian Church v. City of New York, 5 Cow. 538 (N.Y.1826); Commonwealth v. Alger, 7 Cush. 53, 59, 104 (Mass.1851); St. Louis Gunning Advertisement Co. v. St. Louis, 235 Mo. 99, 145-146, 137 S.W. 929, 942 (1911), appeal dism'd, 231 U.S. 761 (1913). More recent cases reach the same result. See Consolidated Rock Products Co. v. Los Angeles, 57 Cal.2d 515, 20 Cal.Rptr. 638, 370 P.2d 342, appeal dism'd, 371 U.S. 36 (1962); Nassr v. [p1059] Commonwealth, 394 Mass. 767, 477 N.E.2d 987 (1985); Eno v. Burlington, 125 Vt. 8, 209 A.2d 499 (1965); Turner v. County of Del Norte, 24 Cal.App.3d 311, 101 Cal.Rptr. 93 (1972).
+
+In addition, state courts historically have been less likely to find that a government action constitutes a taking when the affected land is undeveloped. According to the South Carolina court, the power of the legislature to take unimproved land without providing compensation was sanctioned by "ancient rights and principles." Lindsay v. Commissioners, 2 S.C.L. 38, 57 (1796).
+
+Except for Massachusetts, no colony appears to have paid compensation when it built a state-owned road across unimproved land. Legislatures provided compensation only for enclosed or improved land.
+
+Treanor, 94 Yale L.J. at 695 (footnotes omitted). This rule was followed by some States into the 1800s. See Horwitz 635.
+
+With similar result, the common agrarian conception of property limited owners to "natural" uses of their land prior to and during much of the 18th century. See id. at 32. Thus, for example, the owner could build nothing on his land that would alter the natural flow of water. See id. at 44; see also, e.g., Merritt v. Parker, 1 Coxe 460, 463 (N.J.1795). Some more recent state courts still follow this reasoning. See, e.g., Just v. Marinette County, 56 Wis.2d 7, 201 N.W.2d 761, 768 (1972).
+
+Nor does history indicate any common law limit on the State's power to regulate harmful uses even to the point of destroying all economic value. Nothing in the discussions in Congress concerning the Takings Clause indicates that the Clause was limited by the common law nuisance doctrine. Common law courts themselves rejected such an understanding. They regularly recognized that it is
+
+for the legislature to interpose, and by positive enactment to prohibit a use of property which would be injurious to the public. [p1060]
+
+Tewksbury, 11 Metc. at 57. [n25] Chief JUSTICE Shaw explained, in upholding a regulation prohibiting construction of wharves, the existence of a taking did not depend on "whether a certain erection in tidewater is a nuisance at common law or not." Alger, 7 Cush. at 104; see also State v. Paul, 5 R.I. 185, 193 (1858); Commonwealth v. Parks, 155 Mass. 531, 532, 30 N.E. 174 (1892) (Holmes, J.) ("[T]he legislature may change the common law as to nuisances, and may move the line either way, so as to make things nuisances which were not so, or to make things lawful which were nuisances").
+
+In short, I find no clear and accepted "historical compact" or "understanding of our citizens" justifying the Court's new taking doctrine. Instead, the Court seems to treat history as a grab-bag of principles, to be adopted where they support the Court's theory and ignored where they do not. If the Court decided that the early common law provides the background principles for interpreting the Taking Clause, then regulation, as opposed to physical confiscation, would not be compensable. If the Court decided that the law of a later period provides the background principles, then regulation might be compensable, but the Court would have to confront the fact that legislatures regularly determined which uses were prohibited, independent of the common law, and independent of whether the uses were lawful when the owner purchased. What makes the Court's analysis unworkable is its attempt to package the law of two incompatible eras and peddle it as historical fact. [n26] [p1061]
+
+V
+
+The Court makes sweeping and, in my view, misguided and unsupported changes in our taking doctrine. While it limits these changes to the most narrow subset of government regulation -- those that eliminate all economic value from land -- these changes go far beyond what is necessary to secure petitioner Lucas' private benefit. One hopes they do not go beyond the narrow confines the Court assigns them to today.
+
+I dissent.

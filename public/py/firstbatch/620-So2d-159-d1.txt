@@ -1,0 +1,5 @@
+I would answer the certified question of the Eleventh Circuit in the negative. Although a tax certificate is a lien, it is not an independent interest in land. Contrary to the conclusion drawn by the majority, the official comment to the Uniform Commercial Code, see Majority Op. at 160 n. 5, provides the proper analysis.
+
+Initially, when Elliott held the tax certificate, his interest was not subject to article 9 because it was a lien on real property. Had Elliott transferred the tax certificate to the Dores and Brauns outright, then their interest also would not have been subject to article 9 for the reasons stated by the majority. However, Elliott's transfer served as collateral for a loan. A tax certificate used as collateral for a loan holds no greater real property interest than does a mortgage pledged as security on a debt.[6] In this case, a security interest in an instrument was created. Section 679.102(3), Fla. Stat. (1985).
+
+For this reason, I dissent.

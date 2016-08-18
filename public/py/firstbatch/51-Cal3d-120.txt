@@ -1,0 +1,944 @@
+I. INTRODUCTION
+We granted review in this case to determine whether
+plaintiff has stated a cause of action against his physician
+and other defendants for using his cells 
+[51 Cal.3d 125]
+in
+potentially lucrative medical research without his
+permission. Plaintiff alleges that his physician failed to
+disclose preexisting research and economic interests in
+the cells before obtaining consent to the medical
+procedures by which they were extracted. The superior
+court sustained all defendants' demurrers to the third
+amended complaint, and the Court of Appeal reversed.
+We hold that the complaint states a cause of action for
+breach of the physician's disclosure obligations, but not
+for conversion.
+II. FACTS
+(1) Our only task in reviewing a ruling on a demurrer is
+to determine whether the complaint states a cause of
+action. Accordingly, we assume that the complaint's
+properly pleaded material allegations are true and give
+the complaint a reasonable interpretation by reading it
+as a whole and all its parts in their context. (Phillips v.
+Desert Hospital Dist. (1989) 49 Cal.3d 699, 702 [263
+Cal.Rptr. 119, 780 P.2d 349]; Blank v. Kirwan (1985) 39
+Cal.3d 311, 318 [216 Cal.Rptr. 718, 703 P.2d 58];
+Tameny v. Atlantic Richfield Co. (1980) 27 Cal.3d 167,
+170 [164 Cal.Rptr. 839, 610 P.2d 1330, 9 A.L.R.4th
+314].) We do not, however, assume the truth of
+contentions, deductions, or conclusions of fact or law.
+(Daar v. Yellow Cab Co. (1967) 67 Cal.2d 695, 713 [63
+Cal.Rptr. 724, 433 P.2d 732].) For these purposes we
+briefly summarize the pertinent factual allegations of the
+50-page complaint.
+The plaintiff is John Moore (Moore), who underwent
+treatment for hairy-cell leukemia at the Medical Center
+of the University of California at Los Angeles (UCLA
+Medical Center). The five defendants are: (1) Dr. David
+W. Golde (Golde), a physician who attended Moore at
+UCLA Medical Center; (2) the Regents of the University
+of California (Regents), who own and operate the
+university; (3) Shirley G. Quan, a researcher employed
+by the Regents; (4) Genetics Institute, Inc. (Genetics
+Institute); and (5) Sandoz Pharmaceuticals Corporation
+and related entities (collectively Sandoz).
+Moore first visited UCLA Medical Center on October 5,
+1976, shortly after he learned that he had hairy-cell
+leukemia. After hospitalizing Moore and
+"withdr[awing] extensive amounts of blood, bone
+marrow aspirate, and other bodily substances," Golde
+1
+confirmed that diagnosis. At this time all 
+[51 Cal.3d 126]
+defendants, including Golde, were aware that "certain
+blood products and blood components were of great
+value in a number of commercial and scientific efforts"
+and that access to a patient whose blood contained these
+substances would provide "competitive, commercial,
+and scientific advantages."
+On October 8, 1976, Golde recommended that Moore's
+spleen be removed. Golde informed Moore "that he had
+reason to fear for his life, and that the proposed
+splenectomy operation ... was necessary to slow down
+the progress of his disease." Based upon Golde's
+representations, Moore signed a written consent form
+authorizing the splenectomy.
+Before the operation, Golde and Quan "formed the
+intent and made arrangements to obtain portions of
+[Moore's] spleen following its removal" and to take
+them to a separate research unit. Golde gave written
+instructions to this effect on October 18 and 19, 1976.
+These research activities "were not intended to have ...
+any relation to [Moore's] medical ... care." However,
+neither Golde nor Quan informed Moore of their plans
+to conduct this research or requested his permission.
+Surgeons at UCLA Medical Center, whom the
+complaint does not name as defendants, removed
+Moore's spleen on October 20, 1976.
+Moore returned to the UCLA Medical Center several
+times between November 1976 and September 1983. He
+did so at Golde's direction and based upon
+representations "that such visits were necessary and
+required for his health and well-being, and based upon
+the trust inherent in and by virtue of the physician-
+patient relationship...." On each of these visits Golde
+withdrew additional samples of "blood, blood serum,
+skin, bone marrow aspirate, and sperm." On each
+occasion Moore travelled to the UCLA Medical Center
+from his home in Seattle because he had been told that
+the procedures were to be performed only there and
+only under Golde's direction.
+"In fact, [however,] throughout the period of time that
+[Moore] was under [Golde's] care and treatment, ... the
+defendants were actively involved in a number of
+activities which they concealed from [Moore]...."
+Specifically, defendants were conducting research on
+Moore's cells and planned to "benefit financially and
+competitively ... [by exploiting the cells] and [their]
+exclusive access to [the cells] by virtue of [Golde's]
+ongoing physician-patient relationship...."
+[51 Cal.3d 127]
+ Sometime before August 1979, Golde
+established a cell line from Moore's T-lymphocytes.
+2 
+ On
+January 30, 1981, the Regents applied for a patent on the
+cell line, listing Golde and Quan as inventors. "[B]y
+virtue of an established policy ..., [the] Regents, Golde,
+and Quan would share in any royalties or profits...
+arising out of [the] patent." The patent issued on March
+20, 1984, naming Golde and Quan as the inventors of
+the cell line and the Regents as the assignee of the
+patent. (U.S. Patent No. 4,438,032 (Mar. 20, 1984).)
+The Regent's patent also covers various methods for
+using the cell line to produce lymphokines.
+3 
+ Moore
+admits in his complaint that "the true clinical potential
+of each of the lymphokines ... [is] difficult to predict,
+[but] ... competing commercial firms in these relevant
+fields have published reports in biotechnology industry
+periodicals predicting a potential market of
+approximately $3.01 Billion Dollars by the year 1990 for
+a whole range of [such lymphokines]...."
+With the Regents' assistance, Golde negotiated
+agreements for commercial development of the cell line
+and products to be derived from it. Under an agreement
+with Genetics Institute, Golde "became a paid
+consultant" and "acquired the rights to 75,000 shares of
+common stock." Genetics Institute also agreed to pay
+Golde and the Regents "at least $330,000 over three
+years, including a pro-rata share of [Golde's] salary and
+fringe benefits, in exchange for ... exclusive access to the
+materials and research performed" on the cell line and
+products derived from it. On June 4, 1982, 
+[51 Cal.3d
+128]
+ Sandoz "was added to the agreement," and
+compensation payable to Golde and the Regents was
+increased by $110,000. "[T]hroughout this period, ...
+Quan spent as much as 70 [percent] of her time working
+for [the] Regents on research" related to the cell line.
+Based upon these allegations, Moore attempted to state
+13 causes of action.
+4 
+ Each defendant demurred to each
+purported cause of action. The superior court, however,
+expressly considered the validity of only the first cause
+of action, conversion.
+5 
+ Reasoning that the remaining
+causes of action incorporated the earlier, defective
+allegations, the superior court sustained a general
+demurrer to the entire complaint with leave to amend.
+In a subsequent proceeding, the superior court sustained
+Genetics Institute's and Sandoz's demurrers without
+leave to amend on the grounds that Moore had not
+stated a cause of action for conversion and that the
+complaint's allegations about the entities' secondary
+liability were too conclusory. In accordance with its
+earlier ruling that the defective allegations about
+conversion rendered the entire complaint insufficient,
+the superior court took the remaining demurrers off its
+calendar.
+With one justice dissenting, the Court of Appeal
+reversed, holding that the complaint did state a cause of
+action for conversion. The Court of Appeal agreed with
+the superior court that the allegations against Genetics
+Institute and Sandoz were insufficient, but directed the
+superior court to give Moore leave to amend. The Court
+of Appeal also directed the superior court to decide "the
+remaining causes of action, which [had] never been
+expressly ruled upon."
+III. DISCUSSION
+A. Breach of Fiduciary Duty and Lack of
+Informed Consent
+(2a) Moore repeatedly alleges that Golde failed to
+disclose the extent of his research and economic
+interests in Moore's cells
+6 
+ before obtaining consent to
+the medical procedures by which the cells were
+extracted. These allegations, in our view, state a cause of
+action against Golde for invading a 
+[51 Cal.3d 129]
+legally protected interest of his patient. This cause of
+action can properly be characterized either as the breach
+of a fiduciary duty to disclose facts material to the
+patient's consent or, alternatively, as the performance of
+medical procedures without first having obtained the
+patient's informed consent.
+(3) Our analysis begins with three well-established
+principles. First, "a person of adult years and in sound
+mind has the right, in the exercise of control over his
+own body, to determine whether or not to submit to
+lawful medical treatment." (Cobbs v. Grant (1972) 8
+Cal.3d 229, 242 [104 Cal.Rptr. 505, 502 P.2d 1]; cf.
+Schloendorff v. New York Hospital (1914) 211 N.Y. 125
+[105 N.E. 92, 93].) Second, "the patient's consent to
+treatment, to be effective, must be an informed
+consent." (Cobbs v. Grant, supra, 8 Cal.3d at p. 242.)
+Third, in soliciting the patient's consent, a physician has
+a fiduciary duty to disclose all information material to
+the patient's decision. (Id., at pp. 242, 246; see also
+Stafford v. Schultz (1954) 42 Cal.2d 767, 777 [270 P.2d
+1]; Nelson v. Gaunt (1981) 125 Cal.App.3d 623, 635
+[178 Cal.Rptr. 167]; Berkey v. Anderson (1969) 1
+Cal.App.3d 790, 805 [82 Cal.Rptr. 67]; Bowman v.
+McPheeters (1947) 77 Cal.App.2d 795, 800 [176 P.2d
+745].)
+These principles lead to the following conclusions: (1) a
+physician must disclose personal interests unrelated to
+the patient's health, whether research or economic, that
+may affect the physician's professional judgment; and (2)
+a physician's failure to disclose such interests may give
+rise to a cause of action for performing medical
+procedures without informed consent or breach of
+fiduciary duty.
+To be sure, questions about the validity of a patient's
+consent to a procedure typically arise when the patient
+alleges that the physician failed to disclose medical risks,
+as in malpractice cases, and not when the patient alleges
+that the physician had a personal interest, as in this case.
+The concept of informed consent, however, is broad
+enough to encompass the latter. "The scope of the
+physician's communication to the patient ... must be
+measured by the patient's need, and that need is
+whatever information is material to the decision."
+(Cobbs v. Grant, supra, 8 Cal.3d at p. 245.)
+Indeed, the law already recognizes that a reasonable
+patient would want to know whether a physician has an
+economic interest that might affect the physician's
+professional judgment. As the Court of Appeal has said,
+"[c]ertainly a sick patient deserves to be free of any
+reasonable suspicion that his doctor's judgment is
+influenced by a profit motive." (Magan Medical Clinic v.
+Cal. State Bd. of Medical Examiners (1967) 249
+Cal.App.2d 124, 132 [57 Cal.Rptr. 256].) The desire to
+protect patients from possible conflicts of interest has
+also motivated legislative enactments. Among these is
+Business and Professions Code section 654.2. Under that
+section, a physician 
+[51 Cal.3d 130]
+ may not charge a
+patient on behalf of, or refer a patient to, any
+organization in which the physician has a "significant
+beneficial interest, unless [the physician] first discloses
+in writing to the patient, that there is such an interest
+and advises the patient that the patient may choose any
+organization for the purposes of obtaining the services
+ordered or requested by [the physician]." (Bus. & Prof.
+Code, 
+§
+ 654.2, subd. (a). See also Bus. & Prof. Code, 
+§
+654.1 [referrals to clinical laboratories].) Similarly,
+under Health and Safety Code section 24173, a physician
+who plans to conduct a medical experiment on a patient
+must, among other things, inform the patient of "[t]he
+name of the sponsor or funding source, if any, ... and the
+organization, if any, under whose general aegis the
+experiment is being conducted."
+7 
+ (Health & Saf. Code, 
+§
+24173, subd. (c)(9).)
+It is important to note that no law prohibits a physician
+from conducting research in the same area in which he
+practices. Progress in medicine often depends upon
+physicians, such as those practicing at the university
+hospital where Moore received treatment, who conduct
+research while caring for their patients.
+Yet a physician who treats a patient in whom he also has
+a research interest has potentially conflicting loyalties.
+This is because medical treatment decisions are made on
+the basis of proportionality — weighing the benefits to
+the patient against the risks to the patient. As another
+court has said, "the determination as to whether the
+burdens of treatment are worth enduring for any
+individual patient depends upon the facts unique in each
+case," and "the patient's interests and desires are the key
+ingredients of the decision-making process." (Barber v.
+Superior Court (1983) 147 Cal.App.3d 1006, 1018-1019
+[195 Cal.Rptr. 484, 47 A.L.R.4th 1].) A physician who
+adds his own research interests to this balance may be
+tempted to order a scientifically useful procedure or test
+that offers marginal, or no, benefits to the patient.
+8 
+ The
+possibility that an interest extraneous to the patient's
+health has affected the physician's judgment is
+something that a reasonable patient would want to
+know in deciding whether to consent to a proposed
+course of treatment. It is material to the patient's
+decision and, thus, a prerequisite to informed consent.
+(See Cobbs v. Grant, supra, 8 Cal.3d at p. 245.)
+[51 Cal.3d 131]
+ Golde argues that the scientific use of
+cells that have already been removed cannot possibly
+affect the patient's medical interests. The argument is
+correct in one instance but not in another. If a physician
+has no plans to conduct research on a patient's cells at
+the time he recommends the medical procedure by
+which they are taken, then the patient's medical interests
+have not been impaired. In that instance the argument is
+correct. On the other hand, a physician who does have a
+preexisting research interest might, consciously or
+unconsciously, take that into consideration in
+recommending the procedure. In that instance the
+argument is incorrect: the physician's extraneous
+motivation may affect his judgment and is, thus,
+material to the patient's consent.
+We acknowledge that there is a competing
+consideration. To require disclosure of research and
+economic interests may corrupt the patient's own
+judgment by distracting him from the requirements of
+his health.
+9 
+ But California law does not grant physicians
+unlimited discretion to decide what to disclose. Instead,
+"it is the prerogative of the patient, not the physician, to
+determine for himself the direction in which he believes
+his interests lie." (Cobbs v. Grant, supra, 8 Cal.3d at p.
+242.) "Unlimited discretion in the physician is
+irreconcilable with the basic right of the patient to make
+the ultimate informed decision...." (Id., at p. 243.)
+Accordingly, we hold that a physician who is seeking a
+patient's consent for a medical procedure must, in order
+to satisfy his fiduciary duty
+10 
+ and to obtain the patient's
+informed consent, disclose personal interests unrelated
+[51 Cal.3d 132]
+ to the patient's health, whether research
+or economic, that may affect his medical judgment.
+1. Dr. Golde
+(2b) We turn now to the allegations of Moore's third
+amended complaint to determine whether he has stated
+such a cause of action. We first discuss the adequacy of
+Moore's allegations against Golde, based upon the
+physician's disclosures prior to the splenectomy.
+Moore alleges that, prior to the surgical removal of his
+spleen, Golde "formed the intent and made
+arrangements to obtain portions of his spleen following
+its removal from [Moore] in connection with [his]
+desire to have regular and continuous access to, and
+possession of, [Moore's] unique and rare Blood and
+Bodily Substances." Moore was never informed prior to
+the splenectomy of Golde's "prior formed intent" to
+obtain a portion of his spleen. In our view, these
+allegations adequately show that Golde had an
+undisclosed research interest in Moore's cells at the time
+he sought Moore's consent to the splenectomy.
+Accordingly, Moore has stated a cause of action for
+breach of fiduciary duty, or lack of informed consent,
+based upon the disclosures accompanying that medical
+procedure.
+We next discuss the adequacy of Golde's alleged
+disclosures regarding the postoperative takings of blood
+and other samples. In this context, Moore alleges that
+Golde "expressly, affirmatively and impliedly
+represented ... that these withdrawals of his Blood and
+Bodily Substances were necessary and required for his
+health and well-being." However, Moore also alleges
+that Golde actively concealed his economic interest in
+Moore's cells during this time period. "[D]uring each of
+these visits ..., and even when [Moore] inquired as to
+whether there was any possible or potential commercial
+or financial value or significance of his Blood and Bodily
+Substances, or whether the defendants had discovered
+anything ... which was or might be ... related to any
+scientific activity resulting in commercial or financial
+benefits ..., the defendants repeatedly and affirmatively
+represented to [Moore] that there was no commercial
+or financial value to his Blood and Bodily Substances ...
+and in fact actively discouraged such inquiries."
+Moore admits in his complaint that defendants disclosed
+they "were engaged in strictly academic and purely
+scientific medical research...." However, Golde's
+representation that he had no financial interest in this
+research became false, based upon the allegations, at
+least by May 1979, when he "began to investigate and
+initiate the procedures ... for [obtaining] a patent" on
+the cell line developed from Moore's cells.
+In these allegations, Moore plainly asserts that Golde
+concealed an economic interest in the postoperative
+procedures. Therefore, applying the 
+[51 Cal.3d 133]
+principles already discussed, the allegations state a cause
+of action for breach of fiduciary duty or lack of informed
+consent.
+We thus disagree with the superior court's ruling that
+Moore had not stated a cause of action because essential
+allegations were lacking. We discuss each such
+allegation. First, in the superior court's view, Moore
+needed but failed to allege that defendants knew his cells
+had potential commercial value on October 5, 1976 (the
+time blood tests were first performed at UCLA Medical
+Center) and had at that time already formed the intent
+to exploit the cells. We agree with the superior court
+that the absence of such allegations precludes Moore
+from stating a cause of action based upon the procedures
+undertaken on October 5, 1976. But, as already
+discussed, Moore clearly alleges that Golde had
+developed a research interest in his cells by October 20,
+1976, when the splenectomy was performed. Thus,
+Moore can state a cause of action based upon Golde's
+alleged failure to disclose that interest before the
+splenectomy.
+The superior court also held that the lack of essential
+allegations prevented Moore from stating a cause of
+action based on the splenectomy. According to the
+superior court, Moore failed to allege that the operation
+lacked a therapeutic purpose or that the procedure was
+totally unrelated to therapeutic purposes. In our view,
+however, neither allegation is essential. Even if the
+splenectomy had a therapeutic purpose,
+11 
+ it does not
+follow that Golde had no duty to disclose his additional
+research and economic interests. As we have already
+discussed, the existence of a motivation for a medical
+procedure unrelated to the patient's health is a potential
+conflict of interest and a fact material to the patient's
+decision.
+2. The Remaining Defendants
+The Regents, Quan, Genetics Institute, and Sandoz are
+not physicians. In contrast to Golde, none of these
+defendants stood in a fiduciary relationship with Moore
+or had the duty to obtain Moore's informed consent to
+medical procedures. If any of these defendants is to be
+liable for breach of fiduciary duty or performing medical
+procedures without informed consent, it can only be on
+account of Golde's acts and on the basis of a recognized
+theory of secondary liability, such as respondeat
+superior. The procedural posture of this case, however,
+makes it unnecessary for us to address the sufficiency of
+Moore's secondary-liability allegations.
+As already mentioned, the superior court addressed only
+the purported cause of action for conversion. Because
+the superior court found that Moore 
+[51 Cal.3d 134]
+ had
+not stated such a cause of action, it had no occasion to
+address the sufficiency of Moore's allegation that the
+Regents and Quan were acting as Golde's "agent[s]" and
+"joint venturer[s]."
+12 
+ In a later proceeding, however, the
+superior court did find that the same allegations were
+too conclusory to state a cause of action against Genetics
+Institute and Sandoz.
+The Court of Appeal did not hold, explicitly or
+implicitly, that Moore's secondary-liability allegations
+were sufficient as against any defendant. The court did
+hold that Moore had stated a cause of action against the
+Regents and Quan. However, the court did not reach
+that conclusion on the basis of secondary liability.
+Instead, drawing no distinctions between the
+defendants, the court held simply that each defendant
+was primarily liable for conversion.
+13 
+ Because no court
+has yet addressed the Regents' and Quan's secondary
+liability and because the superior court will need to
+consider other issues on remand, there is no need to
+address these issues at this time.
+14
+With respect to Genetics Institute and Sandoz, the
+situation is slightly different. The Court of Appeal
+mentioned Moore's secondary-liability allegations
+against these defendants but expressed no opinion as to
+their sufficiency. Instead, as to these defendants the
+court merely reversed the superior court's order "for
+failure to grant leave to amend." Our affirmance of this
+part of the Court of Appeal's decision will leave Moore
+free to attempt, once again, to allege that Genetics
+Institute and Sandoz are secondarily liable for Golde's
+torts.
+B. Conversion
+(4a) Moore also attempts to characterize the invasion of
+his rights as a conversion — a tort that protects against
+interference with possessory and ownership interests in
+personal property. He theorizes that he continued to
+own his cells following their removal from his body, at
+least for the purpose of directing their use, and that he
+never consented to their use in potentially 
+[51 Cal.3d
+135]
+ lucrative medical research. Thus, to complete
+Moore's argument, defendants' unauthorized use of his
+cells constitutes a conversion. As a result of the alleged
+conversion, Moore claims a proprietary interest in each
+of the products that any of the defendants might ever
+create from his cells or the patented cell line.
+No court, however, has ever in a reported decision
+imposed conversion liability for the use of human cells
+in medical research.
+15 
+ While that fact does not end our
+inquiry, it raises a flag of caution. (5) (See fn. 16.) In
+effect, what Moore is asking us to do is to impose a tort
+duty on scientists to investigate the consensual pedigree
+of each human cell sample used in research.
+16 
+ To impose
+such a duty, which would affect medical research of
+importance to all of society, implicates policy concerns
+far removed from the traditional, two-party ownership
+disputes in which the law of conversion arose.
+17
+Invoking a tort theory originally used to determine
+whether the loser or the finder of a horse had the better
+title, Moore claims ownership of the results of socially
+important medical research, including the genetic code
+for chemicals that regulate the functions of every human
+being's immune system.
+18
+(6) We have recognized that, when the proposed
+application of a very general theory of liability in a new
+context raises important policy concerns, it is especially
+important to face those concerns and address them
+openly. (Cf. Nally v. Grace Community Church, supra,
+47 Cal.3d 278, 291-300 [declining to expand negligence
+law to encompass theory of "clergyman malpractice"];
+Foley v. Interactive Data Corp. (1988) 47 Cal.3d 654,
+694-700 [254 Cal.Rptr. 211, 765 P.2d 373]
+[51 Cal.3d
+136]
+  [declining to apply tort remedies for breach of the
+covenant of good faith in the employment context];
+Brown v. Superior Court (1988) 44 Cal.3d 1049, 1061-
+1066 [245 Cal.Rptr. 412, 751 P.2d 470] [declining to
+apply strict products liability to pharmaceutical
+manufacturers].) Moreover, we should be hesitant to
+"impose [new tort duties] when to do so would involve
+complex policy decisions" (Nally v. Grace Community
+Church, supra, 47 Cal.3d at p. 299), especially when such
+decisions are more appropriately the subject of
+legislative deliberation and resolution. (See Foley v.
+Interactive Data Corp., supra, 47 Cal.3d at p. 694 & fn.
+31.) This certainly is not to say that the applicability of
+common law torts is limited to the historical or factual
+contexts of existing cases. But on occasions when we
+have opened or sanctioned new areas of tort liability, we
+"have noted that the `wrongs and injuries involved were
+both comprehensible and assessable within the existing
+judicial framework.'" (Nally v. Grace Community
+Church, supra, 47 Cal.3d at p. 298, quoting Peter W. v.
+San Francisco Unified Sch. Dist. (1976) 60 Cal.App.3d
+814, 824 [131 Cal.Rptr. 854].)
+(4b) Accordingly, we first consider whether the tort of
+conversion clearly gives Moore a cause of action under
+existing law. We do not believe it does. Because of the
+novelty of Moore's claim to own the biological materials
+at issue, to apply the theory of conversion in this context
+would frankly have to be recognized as an extension of
+the theory. Therefore, we consider next whether it is
+advisable to extend the tort to this context.
+1. Moore's Claim Under Existing Law
+(7) "To establish a conversion, plaintiff must establish an
+actual interference with his ownership or right of
+possession. ... Where plaintiff neither has title to the
+property alleged to have been converted, nor possession
+thereof, he cannot maintain an action for conversion."
+19
+(Del E. Webb Corp. v. Structural Materials Co. (1981)
+123 Cal.App.3d 593, 610-611 [176 Cal.Rptr. 824], italics
+added. See also General Motors A. Corp. v. Dallas
+(1926) 198 Cal. 365, 370 [245 P. 184].)
+(4c) Since Moore clearly did not expect to retain
+possession of his cells following their removal,
+20 
+ to sue
+for their conversion he must have retained 
+[51 Cal.3d
+137]
+ an ownership interest in them. But there are several
+reasons to doubt that he did retain any such interest.
+First, no reported judicial decision supports Moore's
+claim, either directly or by close analogy. Second,
+California statutory law drastically limits any continuing
+interest of a patient in excised cells. Third, the subject
+matters of the Regents' patent — the patented cell line
+and the products derived from it — cannot be Moore's
+property.
+Neither the Court of Appeal's opinion, the parties'
+briefs, nor our research discloses a case holding that a
+person retains a sufficient interest in excised cells to
+support a cause of action for conversion. We do not find
+this surprising, since the laws governing such things as
+human tissues,
+21 
+ transplantable organs,
+22 
+ blood,
+23
+fetuses,
+24 
+ pituitary glands,
+25 
+ corneal tissue,
+26 
+ and dead
+bodies
+27 
+ deal with human biological materials as objects
+sui generis, regulating their disposition to achieve policy
+goals rather than abandoning them to the general law of
+personal property. It is these specialized statutes, not the
+law of conversion, to which courts ordinarily should
+and do look for guidance on the disposition of human
+biological materials.
+Lacking direct authority for importing the law of
+conversion into this context, Moore relies, as did the
+Court of Appeal, primarily on decisions 
+[51 Cal.3d 138]
+addressing privacy rights.
+28 
+ One line of cases involves
+unwanted publicity. (Lugosi v. Universal Pictures (1979)
+25 Cal.3d 813 [160 Cal.Rptr. 323, 603 P.2d 425, 10
+A.L.R.4th 1150]; Motschenbacher v. R.J. Reynolds
+Tobacco Company (9th Cir.1974) 498 F.2d 821
+[interpreting Cal. law].) These opinions hold that every
+person has a proprietary interest in his own likeness and
+that unauthorized, business use of a likeness is
+redressible as a tort. But in neither opinion did the
+authoring court expressly base its holding on property
+law. (Lugosi v. Universal Pictures, supra, 25 Cal.3d at
+pp. 819, 823-826; Motschenbacher v. R.J. Reynolds
+Tobacco Company, supra, 498 F.2d at pp. 825-826.)
+Each court stated, following Prosser, that it was
+"pointless" to debate the proper characterization of the
+proprietary interest in a likeness. (Motschenbacher v.
+R.J. Reynolds Tobacco Company, supra, 498 F.2d at p.
+825, quoting Prosser, Law of Torts (4th ed. 1971) at p.
+807; Lugosi v. Universal Pictures, supra, 25 Cal.3d at pp.
+819, 824.) For purposes of determining whether the tort
+of conversion lies, however, the characterization of the
+right in question is far from pointless. Only property can
+be converted.
+Not only are the wrongful-publicity cases irrelevant to
+the issue of conversion, but the analogy to them
+seriously misconceives the nature of the genetic
+materials and research involved in this case. Moore,
+adopting the analogy originally advanced by the Court
+of Appeal, argues that "[i]f the courts have found a
+sufficient proprietary interest in one's persona, how
+could one not have a right in one's own genetic material,
+something far more profoundly the essence of one's
+human uniqueness than a name or a face?" However, as
+the defendants' patent makes clear — and the complaint,
+too, if read with an understanding of the scientific terms
+which it has borrowed from the patent — the goal and
+result of defendants' efforts has been to manufacture
+lymphokines.
+29 
+ Lymphokines, unlike a name or a face,
+[51 Cal.3d 139]
+ have the same molecular structure in
+every human being and the same, important functions
+in every human being's immune system. Moreover, the
+particular genetic material which is responsible for the
+natural production of lymphokines, and which
+defendants use to manufacture lymphokines in the
+laboratory, is also the same in every person; it is no
+more unique to Moore than the number of vertebrae in
+the spine or the chemical formula of hemoglobin.
+30
+Another privacy case offered by analogy to support
+Moore's claim establishes only that patients have a right
+to refuse medical treatment. (Bouvia v. Superior Court
+(1986) 179 Cal.App.3d 1127 [225 Cal.Rptr. 297].) In this
+context the court in Bouvia wrote that "`[e]very human
+being of adult years and sound mind has a right to
+determine what shall be done with his own body....'"
+(Id., at p. 1139, quoting from Schloendorff v. New York
+Hospital, supra, 211 N.Y. 125 [105 N.E. 92, 93].)
+31
+Relying on this language to support the proposition that
+a patient has a continuing right to control the use of
+excised cells, the Court of Appeal in this case concluded
+that "[a] patient must have the ultimate power to
+control what becomes of his or her 
+[51 Cal.3d 140]
+tissues. To hold otherwise would open the door to a
+massive invasion of human privacy and dignity in the
+name of medical progress." Yet one may earnestly wish
+to protect privacy and dignity without accepting the
+extremely problematic conclusion that interference with
+those interests amounts to a conversion of personal
+property. Nor is it necessary to force the round pegs of
+"privacy" and "dignity" into the square hole of
+"property" in order to protect the patient, since the
+fiduciary-duty and informed-consent theories protect
+these interests directly by requiring full disclosure.
+The next consideration that makes Moore's claim of
+ownership problematic is California statutory law,
+which drastically limits a patient's control over excised
+cells. Pursuant to Health and Safety Code section 7054.4,
+"[n]otwithstanding any other provision of law,
+recognizable anatomical parts, human tissues,
+anatomical human remains, or infectious waste
+following conclusion of scientific use shall be disposed
+of by interment, incineration, or any other method
+determined by the state department [of health services]
+to protect the public health and safety."
+32 
+ Clearly the
+Legislature did not specifically intend this statute to
+resolve the question of whether a patient is entitled to
+compensation for the nonconsensual use of excised cells.
+A primary object of the statute is to ensure the safe
+handling of potentially hazardous biological waste
+materials.
+33 
+ Yet one cannot escape the conclusion that
+the statute's practical effect is to limit, drastically, a
+who have no reason to believe that their use of a
+particular cell sample is, or may be, against a donor's
+wishes.
+To reach an appropriate balance of these policy
+considerations is extremely important. In its report to
+Congress (see fn. 2, ante), the Office of Technology
+Assessment emphasized that "[u]ncertainty about how
+courts will resolve disputes between specimen sources
+and specimen users could be detrimental to both
+academic researchers and the infant biotechnology
+industry, particularly when the rights are asserted long
+after the specimen was obtained. The assertion of rights
+by sources would affect not only the researcher who
+obtained the original specimen, but perhaps other
+researchers as well.
+"Biological materials are routinely distributed to other
+researchers for experimental purposes, and scientists
+who obtain cell lines or other specimen-derived
+products, such as gene clones, from the original
+researcher could also be sued under certain legal theories
+[such as conversion]. Furthermore, the uncertainty
+could affect product developments as well as research.
+Since inventions containing human tissues and cells may
+be patented and licensed for commercial use, companies
+are unlikely to invest heavily in developing,
+manufacturing, or marketing a product when
+uncertainty about clear title exists." (OTA Rep., supra, at
+p. 27.)
+Indeed, so significant is the potential obstacle to
+research stemming from uncertainty about legal title to
+biological materials that the Office of Technology
+Assessment reached this striking conclusion:
+"[R]egardless of the merit of claims by the different
+interested parties, resolving the current uncertainty may
+be more important to the future of biotechnology than
+resolving it in any particular way." (OTA Rep., supra, at
+p. 27.)
+We need not, however, make an arbitrary choice
+between liability and nonliability. Instead, an
+examination of the relevant policy considerations 
+[51
+Cal.3d 144]
+ suggests an appropriate balance: Liability
+based upon existing disclosure obligations, rather than
+an unprecedented extension of the conversion theory,
+protects patients' rights of privacy and autonomy
+without unnecessarily hindering research.
+To be sure, the threat of liability for conversion might
+help to enforce patients' rights indirectly. This is because
+physicians might be able to avoid liability by obtaining
+patients' consent, in the broadest possible terms, to any
+conceivable subsequent research use of excised cells.
+Unfortunately, to extend the conversion theory would
+utterly sacrifice the other goal of protecting innocent
+parties. (8) (See fn. 38.), (4d) Since conversion is a strict
+liability tort,
+38 
+ it would impose liability on all those into
+whose hands the cells come, whether or not the
+particular defendant participated in, or knew of, the
+inadequate disclosures that violated the patient's right to
+make an informed decision. In contrast to the
+conversion theory, the fiduciary-duty and informed-
+consent theories protect the patient directly, without
+punishing innocent parties or creating disincentives to
+the conduct of socially beneficial research.
+Research on human cells plays a critical role in medical
+research. This is so because researchers are increasingly
+able to isolate naturally occurring, medically useful
+biological substances and to produce useful quantities of
+such substances through genetic engineering. These
+efforts are beginning to bear fruit. Products developed
+through biotechnology that have already been approved
+for marketing in this country include treatments and
+tests for leukemia, cancer, diabetes, dwarfism, hepatitis-
+B, kidney transplant rejection, emphysema,
+osteoporosis, ulcers, anemia, infertility, and
+gynecological tumors, to name but a few. (Note, Source
+Compensation for Tissues and Cells Used in
+Biotechnical Research: Why a Source Shouldn't Share in
+the Profits (1989) 64 Notre Dame L. Rev. 628 & fn. 1
+(hereafter Note, Source Compensation); see also OTA
+Rep., supra, at pp. 58-59.)
+The extension of conversion law into this area will
+hinder research by restricting access to the necessary
+raw materials. Thousands of human cell lines already
+exist in tissue repositories, such as the American Type
+Culture Collection and those operated by the National
+Institutes of Health and the American Cancer Society.
+These repositories respond to tens of thousands 
+[51
+Cal.3d 145]
+ of requests for samples annually. Since the
+patent office requires the holders of patents on cell lines
+to make samples available to anyone, many patent
+holders place their cell lines in repositories to avoid the
+administrative burden of responding to requests. (OTA
+Rep., supra, at p. 53.) At present, human cell lines are
+routinely copied and distributed to other researchers for
+experimental purposes, usually free of charge.
+39 
+ This
+exchange of scientific materials, which still is relatively
+free and efficient, will surely be compromised if each cell
+sample becomes the potential subject matter of a
+lawsuit. (OTA Rep., supra, at p. 52.)
+40
+To expand liability by extending conversion law into
+this area would have a broad impact. The House
+Committee on Science and Technology of the United
+States Congress found that "49 percent of the
+researchers at medical institutions surveyed used human
+tissues or cells in their research." Many receive grants
+from the National Institute of Health for this work.
+(OTA Rep., supra, at p. 52.) In addition, "there are
+nearly 350 commercial biotechnology firms in the
+United States actively engaged in biotechnology
+research and commercial product development and
+approximately 25 to 30 percent appear to be engaged in
+research to develop a human therapeutic or diagnostic
+reagent.... Most, but not all, of the human therapeutic
+products are derived from human tissues and cells, or
+human cell lines or cloned genes." (Id., at p. 56.)
+In deciding whether to create new tort duties we have in
+the past considered the impact that expanded liability
+would have on activities that are important to society,
+such as research. For example, in Brown v. Superior
+Court, supra, 44 Cal.3d 1049, the fear that strict product
+liability would frustrate pharmaceutical research led us
+to hold that a drug manufacturer's liability should not be
+measured by those standards. We wrote that, "[i]f drug
+manufacturers were subject to strict liability, they might
+be reluctant to undertake research programs to develop
+some pharmaceuticals that would prove beneficial or to
+distribute others that are available to be marketed,
+because of the fear of large adverse monetary
+judgments." (Id., at p. 1063.)
+As in Brown, the theory of liability that Moore urges us
+to endorse threatens to destroy the economic incentive
+to conduct important medical research. If the use of cells
+in research is a conversion, then with every cell sample a
+researcher purchases a ticket in a litigation lottery.
+Because liability for conversion is predicated on a
+continuing ownership interest, "companies are unlikely
+to invest heavily in developing, manufacturing, or
+marketing a product when uncertainty about clear title
+exists." (OTA Rep., supra, at p. 27.)
+41 
+ In our view,
+borrowing again from Brown, "[i]t is not unreasonable
+to conclude in these circumstances that the imposition
+of a harsher test for liability would not further the public
+interest in the development and availability of these
+important products." (Brown v. Superior Court, supra,
+44 Cal.3d at p. 1065.)
+42
+[51 Cal.3d 147]
+ Indeed, this is a far more compelling case
+for limiting the expansion of tort liability than Brown.
+In Brown, eliminating strict liability made it more
+difficult for plaintiffs to recover actual damages for
+serious physical injuries resulting from their mothers'
+prenatal use of the drug diethylstilbestrol (DES). (Brown
+v. Superior Court, supra, 44 Cal.3d at pp. 1054-1055.) In
+this case, by comparison, limiting the expansion of
+liability under a conversion theory will only make it
+more difficult for Moore to recover a highly theoretical
+windfall. Any injury to his right to make an informed
+decision remains actionable through the fiduciary-duty
+and informed-consent theories.
+If the scientific users of human cells are to be held liable
+for failing to investigate the consensual pedigree of their
+raw materials, we believe the Legislature should make
+that decision. Complex policy choices affecting all
+society are involved, and "[l]egislatures, in making such
+policy decisions, have the ability to gather empirical
+evidence, solicit the advice of experts, and hold hearings
+at which all interested parties present evidence and
+express their views...." (Foley v. Interactive Data Corp.,
+supra, 47 Cal.3d at p. 694, fn. 31.) Legislative
+competence to act in this area is demonstrated by the
+existing statutes governing the use and disposition of
+human biological materials.
+43 
+ Legislative interest is
+demonstrated by the extensive study recently
+commissioned by the United States Congress. (OTA
+Rep., supra.) Commentators are also recommending
+legislative solutions. (See Danforth, Cells, Sales, and
+Royalties: The Patient's Right to a Portion of the Profits
+(1988) 6 Yale L. & Pol'y Rev. 179, 198-201; Note, Source
+Compensation, supra, 64 Notre Dame L. Rev. at pp.
+643-645.)
+Finally, there is no pressing need to impose a judicially
+created rule of strict liability, since enforcement of
+physicians' disclosure obligations will protect patients
+against the very type of harm with which Moore was
+threatened. So long as a physician discloses research and
+economic interests that may affect his judgment, the
+patient is protected from conflicts of interest. Aware of
+any conflicts, the patient can make an informed decision
+to consent to treatment, or to withhold consent and
+look elsewhere for medical assistance. As already
+discussed, enforcement of physicians' disclosure
+obligations protects patients directly, without hindering
+the socially useful activities of innocent researchers.
+For these reasons, we hold that the allegations of
+Moore's third amended complaint state a cause of action
+for breach of fiduciary duty or lack of informed consent,
+but not conversion.
+44
+[51 Cal.3d 148]
+ IV. DISPOSITION
+The decision of the Court of Appeal is affirmed in part
+and reversed in part. The case is remanded to the Court
+of Appeal, which shall direct the superior court to: (1)
+overrule Golde's demurrers to the causes of action for
+breach of fiduciary duty and lack of informed consent;
+(2) sustain, with leave to amend, the demurrers of the
+Regents, Quan, Sandoz, and Genetics Institute to the
+purported causes of action for breach of fiduciary duty
+and lack of informed consent; (3) sustain, without leave
+to amend, all defendants' demurrers to the purported
+cause of action for conversion; and (4) hear and
+determine all defendants' remaining demurrers.

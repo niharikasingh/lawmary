@@ -1,0 +1,1241 @@
+Contrary to the principal holding of the Court of
+Appeal, the majority conclude that the complaint does
+not — in fact cannot — state a cause of action for
+conversion. I disagree with this conclusion for all the
+reasons 
+[51 Cal.3d 161]
+ stated by the Court of Appeal,
+and for additional reasons that I shall explain. For
+convenience I shall discuss the six premises of the
+majority's conclusion in the order in which they appear.
+1.
+The majority first take the position that Moore has no
+cause of action for conversion under existing law
+because he retained no "ownership interest" in his cells
+after they were removed from his body. (Maj. opn., ante,
+p. 137.) To state a conversion cause of action a plaintiff
+must allege his "ownership or right to possession of the
+property at the time of the conversion" (Baldwin v.
+Marina City Properties, Inc. (1978) 79 Cal.App.3d 393,
+410). Here the complaint defines Moore's "Blood and
+Bodily Substances" to include inter alia his blood, his
+bodily tissues, his cells, and the cell lines derived
+therefrom.
+1 
+ Moore thereafter alleges that "he is the
+owner of his Blood and Bodily Substances and of the by-
+products produced therefrom...." And he further alleges
+that such blood and bodily substances "are his tangible
+personal property, and the activities of the defendants as
+set forth herein constitute a substantial interference
+with plaintiff's possession or right thereto, as well as
+defendants' wrongful exercise of dominion over
+plaintiff's personal property rights in his Blood and
+Bodily Substances."
+The majority impliedly hold these allegations
+insufficient as a matter of law, finding three "reasons to
+doubt" that Moore retained a sufficient ownership
+interest in his cells, after their excision, to support a
+conversion cause of action. (Maj. opn., ante, p. 137.) In
+my view the majority's three reasons, taken singly or
+together, are inadequate to the task.
+The majority's first reason is that "no reported judicial
+decision supports Moore's claim, either directly or by
+close analogy." (Maj. opn., ante, p. 137.) Neither,
+however, is there any reported decision rejecting such a
+claim. The issue is as new as its source — the recent
+explosive growth in the commercialization of
+biotechnology.
+The majority next cite several statutes regulating aspects
+of the commerce in or disposition of certain parts of the
+human body, and conclude in effect that in the present
+case we should also "look for guidance" to the
+Legislature rather than to the law of conversion. (Id. at
+p. 137.) Surely this argument is out of place in an
+opinion of the highest court of this state. As the
+majority acknowledge, the law of conversion is a
+creature of the common law. "`The inherent capacity of
+the common law for growth and change is 
+[51 Cal.3d
+162]
+ its most significant feature. Its development has
+been determined by the social needs of the community
+which it serves. It is constantly expanding and
+developing in keeping with advancing civilization and
+the new conditions and progress of society, and adapting
+itself to the gradual change of trade, commerce, arts,
+inventions, and the needs of the country.' [Citation.] [
+¶
+]
+In short, as the United States Supreme Court has aptly
+said, `This flexibility and capacity for growth and
+adaptation is the peculiar boast and excellence of the
+common law.' [Citation.] ... Although the Legislature
+may of course speak to the subject, in the common law
+system the primary instruments of this evolution are the
+courts, adjudicating on a regular basis the rich variety of
+individual cases brought before them." (Rodriguez v.
+Bethlehem Steel Corp. (1974) 12 Cal.3d 382, 394 [115
+Cal.Rptr. 765, 525 P.2d 669].)
+Especially is this true in the field of torts. I need not
+review the many instances in which this court has
+broken fresh ground by announcing new rules of tort
+law: time and again when a new rule was needed we did
+not stay our hand merely because the matter was one of
+first impression.
+2 
+ For example, in Sindell v. Abbott
+Laboratories (1980) 26 Cal.3d 588 [163 Cal.Rptr. 132,
+607 P.2d 924, 2 A.L.R.4th 1061], we adopted a "market
+share" theory of liability for injury resulting from
+administration of a prescription drug and suffered by a
+plaintiff who without fault cannot trace the particular
+manufacturer of the drug that caused the harm. Like the
+opinion in the case at bar, the dissent in Sindell objected
+that market share liability was "a wholly new theory"
+and an "unprecedented extension of liability" (Id. at pp.
+614-615), and urged that in view of the economic,
+social, and medical effects of this new rule the decision
+to adopt it should rest with the Legislature (Id. at p.
+621). We nevertheless declared the new rule for sound
+policy reasons, explaining that "In our contemporary
+complex industrialized society, advances in science and
+technology create fungible goods which may harm
+consumers and which cannot be traced to any specific
+producer. The response of the courts can be either to
+adhere rigidly to prior doctrine, denying recovery to
+those injured by such products, or to fashion remedies
+to meet these changing needs." (Id. at p. 610.) We took
+the latter course.
+3
+The case at bar, of course, does not involve a drug-
+induced injury. Yet it does present a claim arising, like
+Sindell's, from "advances in science and technology" that
+could not have been foreseen when traditional tort
+doctrine 
+[51 Cal.3d 163]
+ — here, the law of conversion —
+was formulated. My point is that if the cause of action
+for conversion is otherwise an appropriate remedy on
+these facts, we should not refrain from fashioning it
+simply because another court has not yet so held or
+because the Legislature has not yet addressed the
+question. We need not wait on either event, because
+neither is a precondition to an exercise of our long-
+standing "power to insure the just and rational
+development of the common law in our state"
+(Rodriguez v. Bethlehem Steel Corp., supra, 12 Cal.3d
+382, 394).
+4
+2.
+The majority's second reason for doubting that Moore
+retained an ownership interest in his cells after their
+excision is that "California statutory law ... drastically
+limits a patient's control over excised cells." (Maj. opn.,
+ante, p. 140.) For this proposition the majority rely on
+Health and Safety Code section 7054.4 (hereafter section
+7054.4), set forth in the margin.
+5 
+ The majority concede
+that the statute was not meant to directly resolve the
+question whether a person in Moore's position has a
+cause of action for conversion, but reason that it
+indirectly resolves the question by limiting the patient's
+control over the fate of his excised cells: "By restricting
+how excised cells may be used and requiring their
+eventual destruction, the statute eliminates so many of
+the rights ordinarily attached to property that one
+cannot simply assume that what is left amounts to
+`property' or `ownership' for purposes of conversion
+law." (Maj. opn., ante, pp. 140-141.) As will appear, I do
+not believe section 7054.4 supports the just quoted
+conclusion of the majority.
+First, in my view the statute does not authorize the
+principal use that defendants claim the right to make of
+Moore's tissue, i.e., its commercial exploitation. In
+construing section 7054.4, of course, "we look first to
+the words of the statute themselves" (Long Beach Police
+Officers Assn. v. City of Long Beach (1988) 46 Cal.3d
+736, 741 [250 Cal.Rptr. 869, 759 P.2d 504]
+[51 Cal.3d
+164]
+ ), and give those words their usual and ordinary
+meaning (California Teachers Assn. v. San Diego
+Community College Dist. (1981) 28 Cal.3d 692, 698
+[170 Cal.Rptr. 817, 621 P.2d 856]).
+By its terms, section 7054.4 permits only "scientific use"
+of excised body parts and tissue before they must be
+destroyed. We must therefore determine the usual and
+ordinary meaning of that phrase. I would agree that
+"scientific use" at least includes routine postoperative
+examination of excised tissue conducted by a pathologist
+for diagnostic or prognostic reasons (e.g., to verify
+preoperative diagnosis or to assist in determining
+postoperative treatment). I might further agree that
+"scientific use" could be extended to include purely
+scientific study of the tissue by a disinterested researcher
+for the purpose of advancing medical knowledge —
+provided of course that the patient gave timely and
+informed consent to that use. It would stretch the
+English language beyond recognition, however, to say
+that commercial exploitation of the kind and degree
+alleged here is also a usual and ordinary meaning of the
+phrase "scientific use."
+The majority dismiss this difficulty by asserting that I
+read the statute to define "scientific use" as "not-for-
+profit scientific use," and by finding "no reason to
+believe that the Legislature intended to make such a
+distinction." (Maj. opn., ante, p. 141, fn. 34.) The
+objection misses my point. I do not stress the concept of
+profit, but the concept of science: the distinction I draw
+is not between nonprofit scientific use and scientific use
+that happens to lead to a marketable by-product; it is
+between a truly scientific use and the blatant commercial
+exploitation of Moore's tissue that the present complaint
+alleges. Under those allegations, defendants Dr. David
+W. Golde and Shirley G. Quan were not only scientists,
+they were also full-fledged entrepreneurs: the complaint
+repeatedly declares that they appropriated Moore's
+tissue in order "to further defendants' independent
+research and commercial activities and promote their
+economic, financial and competitive interests." The
+complaint also alleges that defendant Regents of the
+University of California (hereafter Regents) actively
+assisted the individual defendants in applying for patent
+rights and in negotiating with bioengineering and
+pharmaceutical companies to exploit the commercial
+potential of Moore's tissue. Finally, the complaint
+alleges in detail the contractual arrangements between
+the foregoing defendants and defendants Genetics
+Institute, Inc., and Sandoz Pharmaceuticals Corporation,
+giving the latter companies exclusive rights to exploit
+that commercial potential while providing substantial
+financial benefits to the individual defendants in the
+form of cash, stock options, consulting fees, and fringe
+benefits. To exclude such traditionally commercial
+activities from the phrase "scientific use," as I do here,
+does not 
+[51 Cal.3d 165]
+ give it a restrictive definition;
+rather, it gives the phrase its usual and ordinary
+meaning, as settled law requires.
+Secondly, even if section 7054.4 does permit defendants'
+commercial exploitation of Moore's tissue under the
+guise of "scientific use," it does not follow that — as the
+majority conclude — the statute "eliminates so many of
+the rights ordinarily attached to property" that what
+remains does not amount to "property" or "ownership"
+for purposes of the law of conversion. (Maj. opn., ante,
+p. 141.)
+The concepts of property and ownership in our law are
+extremely broad. (See Civ. Code, 
+§§
+ 654, 655.) A leading
+decision of this court approved the following definition:
+"`The term "property" is sufficiently comprehensive to
+include every species of estate, real and personal, and
+everything which one person can own and transfer to
+another. It extends to every species of right and interest
+capable of being enjoyed as such upon which it is
+practicable to place a money value.'" (Yuba River Power
+Co. v. Nevada Irr. Dist. (1929) 207 Cal. 521, 523 [279 P.
+128].)
+Being broad, the concept of property is also abstract:
+rather than referring directly to a material object such as
+a parcel of land or the tractor that cultivates it, the
+concept of property is often said to refer to a "bundle of
+rights" that may be exercised with respect to that object
+— principally the rights to possess the property, to use
+the property, to exclude others from the property, and
+to dispose of the property by sale or by gift. "Ownership
+is not a single concrete entity but a bundle of rights and
+privileges as well as of obligations." (Union Oil Co. v.
+State Bd. of Equal. (1963) 60 Cal.2d 441, 447 [34
+Cal.Rptr. 872, 386 P.2d 496].) But the same bundle of
+rights does not attach to all forms of property. For a
+variety of policy reasons, the law limits or even forbids
+the exercise of certain rights over certain forms of
+property. For example, both law and contract may limit
+the right of an owner of real property to use his parcel
+as he sees fit.
+6 
+ Owners of various forms of personal
+property may likewise be subject to restrictions on the
+time, place, and manner of their use.
+7 
+ Limitations on the
+disposition of real 
+[51 Cal.3d 166]
+ property, while less
+common, may also be imposed.
+8 
+ Finally, some types of
+personal property may be sold but not given away,
+9
+while others may be given away but not sold,
+10 
+ and still
+others may neither be given away nor sold.
+11
+In each of the foregoing instances, the limitation or
+prohibition diminishes the bundle of rights that would
+otherwise attach to the property, yet what remains is
+still deemed in law to be a protectible property interest.
+"Since property or title is a complex bundle of rights,
+duties, powers and immunities, the pruning away of
+some or a great many of these elements does not entirely
+destroy the title...." (People v. Walker (1939) 33
+Cal.App.2d 18, 20 [90 P.2d 854] [even the possessor of
+contraband has certain property rights in it against
+anyone other than the state].) The same rule applies to
+Moore's interest in his own body tissue: even if we
+assume that section 7054.4 limited the use and
+disposition of his excised tissue in the manner claimed
+by the majority, Moore nevertheless retained valuable
+rights in that tissue. Above all, at the time of its excision
+he at least had the right to do with his own tissue
+whatever the defendants did with it: i.e., he could have
+contracted with researchers and pharmaceutical
+companies to develop and exploit the vast commercial
+potential of his tissue and its products. Defendants
+certainly believe that their right to do the foregoing is
+not barred by section 7054.4 and is a significant
+property right, as they have demonstrated by their
+deliberate concealment from Moore of the true value of
+his tissue, their efforts to obtain a patent on the Mo cell
+line, their contractual agreements to exploit this
+material, their exclusion of Moore from any
+participation in the profits, and their vigorous defense
+of this lawsuit. The Court of Appeal summed up the
+point by observing that "Defendants' position that
+plaintiff cannot own his tissue, but that they can, is
+fraught with irony." It is also legally untenable. As noted
+above, the majority cite no case holding that an
+individual's right to develop and exploit the commercial
+potential of his own tissue is not a right of sufficient
+worth or dignity to be deemed a protectible property
+interest. In the absence of such authority — or of
+legislation to the same effect — the right falls within the
+traditionally broad concept of property in our law.
+[51 Cal.3d 167]
+ 3.
+The majority's third and last reason for their conclusion
+that Moore has no cause of action for conversion under
+existing law is that "the subject matter of the Regents'
+patent — the patented cell line and the products derived
+from it — cannot be Moore's property." (Maj. opn., ante,
+p. 141.) The majority then offer a dual explanation:
+"This is because the patented cell line is both factually
+and legally distinct from the cells taken from Moore's
+body." (Ibid., italics added.) Neither branch of the
+explanation withstands analysis.
+First, in support of their statement that the Mo cell line
+is "factually distinct" from Moore's cells, the majority
+assert that "Cells change while being developed into a
+cell line and continue to change over time," and in
+particular may acquire an abnormal number of
+chromosomes. (Maj. opn., ante, p. 141, fn. 35.) No one
+disputes these assertions, but they are nonetheless
+irrelevant. For present purposes no distinction can be
+drawn between Moore's cells and the Mo cell line. It
+appears that the principal reason for establishing a cell
+line is not to "improve" the quality of the parent cells
+but simply to extend their life indefinitely, in order to
+permit long-term study and/or exploitation of the
+qualities already present in such cells. The complaint
+alleges that Moore's cells naturally produced certain
+valuable proteins in larger than normal quantities;
+indeed, that was why defendants were eager to culture
+them in the first place. Defendants do not claim that the
+cells of the Mo cell line are in any degree more
+productive of such proteins than were Moore's own
+cells. Even if the cells of the Mo cell line in fact have an
+abnormal number of chromosomes, at the present stage
+of this case we do not know if that fact has any bearing
+whatever on their capacity to produce proteins; yet it is
+in the commercial exploitation of that capacity — not
+simply in their number of chromosomes — that Moore
+seeks to assert an interest. For all that appears,
+therefore, the emphasized fact is a distinction without a
+difference.
+Second, the majority assert in effect that Moore cannot
+have an ownership interest in the Mo cell line because
+defendants patented it.
+12 
+ The majority's point wholly
+fails to meet Moore's claim that he is entitled to
+compensation for defendants' unauthorized use of his
+bodily tissues before defendants 
+[51 Cal.3d 168]
+ patented
+the Mo cell line: defendants undertook such use
+immediately after the splenectomy on October 20, 1976,
+and continued to extract and use Moore's cells and tissue
+at least until September 20, 1983; the patent, however,
+did not issue until March 20, 1984, more than seven
+years after the unauthorized use began. Whatever the
+legal consequences of that event, it did not operate
+retroactively to immunize defendants from
+accountability for conduct occurring long before the
+patent was granted.
+Nor did the issuance of the patent in 1984 necessarily
+have the drastic effect that the majority contend. To be
+sure, the patent granted defendants the exclusive right
+to make, use, or sell the invention for a period of 17
+years. (35 U.S.C. 
+§
+ 154.) But Moore does not assert any
+such right for himself. Rather, he seeks to show that he
+is entitled, in fairness and equity, to some share in the
+profits that defendants have made and will make from
+their commercial exploitation of the Mo cell line. I do
+not question that the cell line is primarily the product of
+defendants' inventive effort. Yet likewise no one can
+question Moore's crucial contribution to the invention
+— an invention named, ironically, after him: but for the
+cells of Moore's body taken by defendants, there would
+have been no Mo cell line. Thus the complaint alleges
+that Moore's "Blood and Bodily Substances were
+absolutely essential to defendants' research and
+commercial activities with regard to his cells, cell lines,
+[and] the Mo cell-line, ... and that defendants could not
+have applied for and had issued to them the Mo cell-line
+patent and other patents described herein without
+obtaining and culturing specimens of plaintiff's Blood
+and Bodily Substances." Defendants admit this allegation
+by their demurrers, as well they should: for all their
+expertise, defendants do not claim they could have
+extracted the Mo cell line out of thin air.
+Nevertheless the majority conclude that the patent
+somehow cut off all Moore's rights — past, present, and
+future — to share in the proceeds of defendants'
+commercial exploitation of the cell line derived from his
+own body tissue. The majority cite no authority for this
+unfair result, and I cannot believe it is compelled by the
+general law of patents: a patent is not a license to
+defraud.
+13 
+ Perhaps the answer lies in an analogy to the
+concept of "joint inventor." I am aware that "patients
+and research subjects who contribute cells to research
+will not be considered inventors." (OTA Rep., supra, at
+p. 71.) Nor is such a person, strictly speaking, a "joint
+inventor" within the 
+[51 Cal.3d 169]
+ meaning of the
+term in federal law. (35 U.S.C. 
+§
+ 116.) But he does fall
+within the spirit of that law: "The joint invention
+provision guarantees that all who contribute in a
+substantial way to a product's development benefit from
+the reward that the product brings. Thus, the protection
+of joint inventors encourages scientists to cooperate
+with each other and ensures that each contributor is
+rewarded fairly.
+"Although a patient who donates cells does not fit
+squarely within the definition of a joint inventor, the
+policy reasons that inform joint inventor patents should
+also apply to cell donors. Neither John Moore nor any
+other patient whose cells become the basis for a
+patentable cell line qualifies as a `joint inventor' because
+he or she did not further the development of the
+product in any intellectual or conceptual sense. Nor does
+the status of patients as sole owners of a component part
+make them deserving of joint inventorship status. What
+the patients did do, knowingly or unknowingly, is
+collaborate with the researchers by donating their body
+tissue.... By providing the researchers with unique raw
+materials, without which the resulting product could
+not exist, the donors become necessary contributors to
+the product. Concededly, the patent is not granted for
+the cell as it is found in nature, but for the modified
+biogenetic product. However, the uniqueness of the
+product that gives rise to its patentability stems from the
+uniqueness of the original cell. A patient's claim to share
+in the profits flowing from a patent would be analogous
+to that of an inventor whose collaboration was essential
+to the success of a resulting product. The patient was
+not a coequal, but was a necessary contributor to the cell
+line." (Danforth, Cells, Sales, & Royalties: The Patient's
+Right to a Portion of the Profits (1988) 6 Yale L. & Pol'y
+Rev. 179, 197, fns. omitted, italics added (hereafter
+Danforth).)
+Under this reasoning, which I find persuasive, the law of
+patents would not be a bar to Moore's assertion of an
+ownership interest in his cells and their products
+sufficient to warrant his sharing in the proceeds of their
+commercial exploitation.
+4.
+Having concluded — mistakenly, in my view — that
+Moore has no cause of action for conversion under
+existing law, the majority next consider whether to
+"extend" the conversion cause of action to this context.
+Again the majority find three reasons not to do so, and
+again I respectfully disagree with each.
+The majority's first reason is that a balancing of the
+"relevant policy considerations" counsels against
+recognizing a conversion cause of action in 
+[51 Cal.3d
+170]
+ these circumstances. (Maj. opn., ante, p. 143.) The
+memo identifies two such policies, but concedes that
+one of them — "protection of a competent patient's right
+to make autonomous medical decisions" (id. at p. 143) —
+would in fact be promoted, even though "indirectly," by
+recognizing a conversion cause of action. (Id. at p. 144.)
+The majority focus instead on a second policy
+consideration, i.e., their concern "that we not threaten
+with disabling civil liability innocent parties who are
+engaged in socially useful activities, such as researchers
+who have no reason to believe that their use of a
+particular cell sample is, or may be, against a donor's
+wishes." (Maj. opn., ante, p. 143.) As will appear, in my
+view this concern is both overstated and outweighed by
+contrary considerations.
+14
+The majority begin their analysis by stressing the
+obvious facts that research on human cells plays an
+increasingly important role in the progress of medicine,
+and that the manipulation of those cells by the methods
+of biotechnology has resulted in numerous beneficial
+products and treatments. Yet it does not necessarily
+follow that, as the majority claim, application of the law
+of conversion to this area "will hinder research by
+restricting access to the necessary raw materials," i.e., to
+cells, cell cultures, and cell lines. (Maj. opn., ante, p.
+144.) The majority observe that many researchers obtain
+their tissue samples, routinely and at little or no cost,
+from cell-culture repositories. The majority then
+speculate that "This exchange of scientific materials,
+which is still relatively free and efficient, will surely be
+compromised if each cell sample becomes the potential
+subject matter of a lawsuit." (Maj. opn., ante, p. 145.)
+There are two grounds to doubt that this prophecy will
+be fulfilled.
+To begin with, if the relevant exchange of scientific
+materials was ever "free and efficient," it is much less so
+today. Since biological products of genetic engineering
+became patentable in 1980 (Diamond v. Chakrabarty
+(1980) 447 U.S. 303 [65 L.Ed.2d 144, 100 S.Ct. 2204]
+[51
+Cal.3d 171]
+ ), human cell lines have been amenable to
+patent protection and, as the Court of Appeal observed
+in its opinion below, "The rush to patent for exclusive
+use has been rampant." Among those who have taken
+advantage of this development, of course, are the
+defendants herein: as we have seen, defendants Golde
+and Quan obtained a patent on the Mo cell line in 1984
+and assigned it to defendant Regents. With such
+patentability has come a drastic reduction in the
+formerly free access of researchers to new cell lines and
+their products: the "novelty" requirement for
+patentability prohibits public disclosure of the invention
+at all times up to one year before the filing of the patent
+application. (35 U.S.C. 
+§
+ 102(b).) Thus defendants
+herein recited in their patent specification, "At no time
+has the Mo cell line been available to other than the
+investigators involved with its initial discovery and only
+the conditioned medium from the cell line has been
+made available to a limited number of investigators for
+collaborative work with the original discoverers of the
+Mo cell line."
+An even greater force for restricting the free exchange
+of new cell lines and their products has been the rise of
+the biotechnology industry and the increasing
+involvement of academic researchers in that industry.
+15
+When scientists became entrepreneurs and negotiated
+with biotechnological and pharmaceutical companies to
+develop and exploit the commercial potential of their
+discoveries — as did defendants in the case at bar —
+layers of contractual restrictions were added to the
+protections of the patent law.
+16
+In their turn, the biotechnological and pharmaceutical
+companies demanded and received exclusive rights in
+the scientists' discoveries, and frequently placed those
+discoveries under trade secret protection. Trade secret
+protection is popular among biotechnology companies
+because, among other reasons, the invention need not
+meet the strict standards of 
+[51 Cal.3d 172]
+ patentability
+and the protection is both quickly acquired and
+unlimited in duration. (Note, Patent and Trade Secret
+Protection in University-Industry Research
+Relationships in Biotechnology (1987) 24 Harv. J. on
+Legis. 191, 218-219.)
+17 
+ Secrecy as a normal business
+practice is also taking hold in university research
+laboratories, often because of industry pressure (id. at
+pp. 204-208): "One of the most serious fears associated
+with university-industry cooperative research concerns
+keeping work private and not disclosing it to the
+researcher's peers. [Citation.] ... Economic
+arrangements between industry and universities inhibit
+open communication between researchers, especially for
+those who are financially tied to smaller biotechnology
+firms." (Howard, supra, 44 Food Drug Cosm. L.J. at p.
+339, fn. 72.)
+Secondly, to the extent that cell cultures and cell lines
+may still be "freely exchanged," e.g., for purely research
+purposes, it does not follow that the researcher who
+obtains such material must necessarily remain ignorant
+of any limitations on its use: by means of appropriate
+recordkeeping, the researcher can be assured that the
+source of the material has consented to his proposed use
+of it, and hence that such use is not a conversion. To
+achieve this end the originator of the tissue sample first
+determines the extent of the source's informed consent
+to its use — e.g., for research only, or for public but
+academic use, or for specific or general commercial
+purposes; he then enters this information in the record
+of the tissue sample, and the record accompanies the
+sample into the hands of any researcher who thereafter
+undertakes to work with it. "Record keeping would not
+be overly burdensome because researchers generally
+keep accurate records of tissue sources for other reasons:
+to trace anomalies to the medical history of the patient,
+to maintain title for other researchers and for
+themselves, and to insure reproducibility of the
+experiment." (Toward the Right of Commerciality,
+supra, 34 UCLA L.Rev. at p. 241.) As the Court of
+Appeal correctly observed, any claim to the contrary "is
+dubious in light of the meticulous care and planning
+necessary in serious modern medical research."
+The majority rely on Brown v. Superior Court, supra,
+44 Cal.3d 1049 (hereafter Brown), but the case is plainly
+distinguishable. In a unanimous opinion that I authored
+for the court, we considered inter alia whether
+pharmaceutical manufacturers should be held strictly
+liable for injuries caused by "defectively designed"
+prescription drugs. We declined to so hold for several
+policy reasons. (Id. at pp. 1063-1065.) One of those
+reasons was our concern that "the fear of large adverse
+monetary judgments" might dissuade such
+manufacturers from developing or distributing
+potentially beneficial new drugs. (Id. at p. 1063.) The
+majority now seek to draw an 
+[51 Cal.3d 173]
+ analogy
+between Brown and the case at bar, but the analogy fails
+because liability exposure in the Brown context is
+qualitatively far greater. As we acknowledged in Brown,
+"unlike other important medical products ... harm to
+some users from prescription drugs is unavoidable."
+(Ibid., italics added.) On an industry-wide basis,
+therefore, the imposition of strict liability for defective
+prescription drugs would inevitably result in hundreds,
+if not thousands, of meritorious claims by often
+seriously harmed plaintiffs, most of them likely to be
+seeking exemplary as well as compensatory damages.
+18
+Given the innocence and vulnerability of the typical
+plaintiff in such cases, sympathetic juries might well
+return substantial verdicts again and again, and the
+industry's total liability could reach intimidating
+proportions. Indeed, in Brown we chronicled actual
+instances in which the mere threat of such liability did
+cause the industry to refuse to supply new prescription
+drugs. (Id. at p. 1064.)
+None of the foregoing is true in the case at bar. The
+majority claim that a conversion cause of action
+threatens to "destroy the economic incentive" to
+conduct the type of research here in issue (maj. opn.,
+ante, p. 146), but it is difficult to take this hyperbole
+seriously. First, the majority reason that with every cell
+sample a researcher "purchases a ticket in a litigation
+lottery." (Id. at p. 146.) This is a colorful image, but it
+does not necessarily reflect reality: as explained above,
+with proper recordkeeping the researcher acquires not a
+litigation-lottery ticket but the information he needs
+precisely in order to avoid litigation. In contrast to
+Brown, therefore, here the harm is by no means
+"unavoidable." Second, the risk at hand is not of a
+multiplicity of actions: in Brown the harm would be
+suffered by many members of the public — the users of
+the end product of the process of developing the new
+drug — while here it can be suffered by only one person
+— the original source of the research material that began
+that process. Third, the harm to the latter will be
+primarily economic, rather than the potentially grave
+physical injuries at issue in Brown.
+In any event, in my view whatever merit the majority's
+single policy consideration may have is outweighed by
+two contrary considerations, i.e., policies that are
+promoted by recognizing that every individual has a
+legally protectible property interest in his own body and
+its products. First, our society acknowledges a profound
+ethical imperative to respect the human body as the
+physical and temporal expression of the unique human
+persona. One manifestation of that respect is our
+prohibition against direct abuse of the body by torture
+or other forms of cruel or unusual punishment. Another
+is our prohibition against indirect abuse of the body by
+its economic exploitation 
+[51 Cal.3d 174]
+ for the sole
+benefit of another person. The most abhorrent form of
+such exploitation, of course, was the institution of
+slavery. Lesser forms, such as indentured servitude or
+even debtor's prison, have also disappeared. Yet their
+specter haunts the laboratories and boardrooms of
+today's biotechnological research-industrial complex. It
+arises wherever scientists or industrialists claim, as
+defendants claim here, the right to appropriate and
+exploit a patient's tissue for their sole economic benefit
+— the right, in other words, to freely mine or harvest
+valuable physical properties of the patient's body:
+"Research with human cells that results in significant
+economic gain for the researcher and no gain for the
+patient offends the traditional mores of our society in a
+manner impossible to quantify. Such research tends to
+treat the human body as a commodity — a means to a
+profitable end. The dignity and sanctity with which we
+regard the human whole, body as well as mind and soul,
+are absent when we allow researchers to further their
+own interests without the patient's participation by
+using a patient's cells as the basis for a marketable
+product." (Danforth, supra, 6 Yale L. & Pol'y Rev. at p.
+190, fn. omitted.)
+A second policy consideration adds notions of equity to
+those of ethics. Our society values fundamental fairness
+in dealings between its members, and condemns the
+unjust enrichment of any member at the expense of
+another. This is particularly true when, as here, the
+parties are not in equal bargaining positions. We are
+repeatedly told that the commercial products of the
+biotechnological revolution "hold the promise of
+tremendous profit." (Toward the Right of
+Commerciality, supra, 34 UCLA L.Rev. at p. 211.)
+19 
+ In
+the case at bar, for example, the complaint alleges that
+the market for the kinds of proteins produced by the Mo
+cell line was predicted to exceed $3 billion by 1990.
+These profits are currently shared exclusively between
+the biotechnology industry and the universities that
+support that industry. The profits are shared in a wide
+variety of ways, including "direct entrepreneurial ties to
+genetic-engineering firms" and "an equity interest in
+fledgling biotechnology firms" (Howard, supra, 44 Food
+Drug Cosm. L.J. at p. 338). Thus the complaint alleges
+that because of his development of the Mo cell line
+defendant Golde became a paid consultant of defendant
+Genetics Institute and acquired the rights to 75,000
+shares of that firm's stock at a cost of 1 cent each; that
+Genetics Institute further contracted to pay Golde and
+the Regents at least $330,000 over 3 years, including a
+pro rata share of Golde's salary and fringe benefits; and
+that defendant Sandoz Pharmaceuticals Corporation
+subsequently contracted to increase that compensation
+by a further $110,000.
+[51 Cal.3d 175]
+ There is, however, a third party to the
+biotechnology enterprise — the patient who is the
+source of the blood or tissue from which all these profits
+are derived. While he may be a silent partner, his
+contribution to the venture is absolutely crucial: as
+pointed out above (pt. 3, ante), but for the cells of
+Moore's body taken by defendants there would have
+been no Mo cell line at all.
+20 
+ Yet defendants deny that
+Moore is entitled to any share whatever in the proceeds
+of this cell line. This is both inequitable and immoral. As
+Dr. Thomas H. Murray, a respected professor of ethics
+and public policy, testified before Congress, "the person
+[who furnishes the tissue] should be justly
+compensated.... If biotechnologists fail to make
+provision for a just sharing of profits with the person
+whose gift made it possible, the public's sense of justice
+will be offended and no one will be the winner."
+(Murray, Who Owns the Body? On the Ethics of Using
+Human Tissue for Commercial Purposes (Jan.-Feb.
+1986) IRB: A Review of Human Subjects Research, at p.
+5.)
+21
+There will be such equitable sharing if the courts
+recognize that the patient has a legally protected
+property interest in his own body and its products:
+"property rights in one's own tissue would provide a
+morally acceptable result by giving effect to notions of
+fairness and preventing unjust enrichment.... [
+¶
+]
+Societal notions of equity and fairness demand
+recognition of property rights. There are bountiful
+benefits, monetary and otherwise, to be derived from
+human biologics. To deny the person contributing the
+raw material a fair share of these ample benefits is both
+unfair and morally wrong." (Toward the Right of
+Commerciality, supra, 34 UCLA L.Rev. at p. 229.)
+"Recognizing a donor's property rights would prevent
+unjust enrichment by giving monetary rewards to the
+donor and researcher proportionate to the value of their
+respective contributions. Biotechnology depends upon
+the contributions of both patients and researchers. If not
+for the patient's contribution of cells with unique
+attributes, the medical value of the bioengineered cells
+would be negligible. But for the physician's contribution
+of knowledge and skill in developing the cell product,
+the commercial value of the patient's cells would also be
+negligible. Failing to compensate the patient unjustly
+enriches the researcher because only the researcher's
+contribution is recognized." (Id. at p. 230.) In short, as
+the 
+[51 Cal.3d 176]
+ Court of Appeal succinctly put it, "If
+this science has become science for profit, then we fail to
+see any justification for excluding the patient from
+participation in those profits."
+5.
+The majority's second reason for declining to extend the
+conversion cause of action to the present context is that
+"the Legislature should make that decision." (Maj. opn.,
+ante, p. 147.) I do not doubt that the Legislature is
+competent to act on this topic. The fact that the
+Legislature may intervene if and when it chooses,
+however, does not in the meanwhile relieve the courts
+of their duty of enforcing — or if need be, fashioning —
+an effective judicial remedy for the wrong here alleged.
+As I observed above (pt. 1, ante), if a conversion cause of
+action is otherwise an appropriate remedy on these facts
+we should not refrain from recognizing it merely
+because the Legislature has not yet addressed the
+question. To do so would be to abdicate pro tanto our
+responsibility over a body of law — torts — that is
+particularly a creature of the common law. And such
+reluctance to act would be especially unfortunate at the
+present time, when the rapid expansion of
+biotechnological science and industry makes resolution
+of these issues an increasingly pressing need.
+The inference I draw from the current statutory
+regulation of human biological materials, moreover, is
+the opposite of that drawn by the majority. By selective
+quotation of the statutes (maj. opn., ante, p. 137, fns. 22
+& 23) the majority seem to suggest that human organs
+and blood cannot legally be sold on the open market —
+thereby implying that if the Legislature were to act here
+it would impose a similar ban on monetary
+compensation for the use of human tissue in
+biotechnological research and development. But if that
+is the argument, the premise is unsound: contrary to
+popular misconception, it is not true that human organs
+and blood cannot legally be sold.
+As to organs, the majority rely on the Uniform
+Anatomical Gift Act (Health & Saf. Code, 
+§
+ 7150 et seq.;
+hereafter the UAGA) for the proposition that a
+competent adult may make a post mortem gift of any
+part of his body but may not receive "valuable
+consideration" for the transfer. But the prohibition of
+the UAGA against the sale of a body part is much more
+limited than the majority recognize: by its terms (Health
+& Saf. Code, 
+§
+ 7155, subd. (a)) the prohibition applies
+only to sales for "transplantation" or "therapy."
+22 
+ Yet a
+different section of the UAGA authorizes the transfer
+[51 Cal.3d 177]
+ and receipt of body parts for such
+additional purposes as "medical or dental education,
+research, or advancement of medical or dental science."
+(Health & Saf. Code, 
+§
+ 7153, subd. (a)(1).) No section of
+the UAGA prohibits anyone from selling body parts for
+any of those additional purposes; by clear implication,
+therefore, such sales are legal.
+23 
+ Indeed, the fact that the
+UAGA prohibits no sales of organs other than sales for
+"transplantation" or "therapy" raises a further
+implication that it is also legal for anyone to sell human
+tissue to a biotechnology company for research and
+development purposes.
+With respect to the sale of human blood the matter is
+much simpler: there is in fact no prohibition against
+such sales. The majority rely (maj. opn., ante, p. 137, fn.
+23) on Health and Safety Code section 1606, which
+provides in relevant part that the procurement and use
+of blood for transfusion "shall be construed to be, and is
+declared to be ... the rendition of a service ... and shall
+not be construed to be, and is declared not to be, a
+sale...." There is less here, however, than meets the eye:
+the statute does not mean that a person cannot sell his
+blood or, by implication, that his blood is not his
+property. "While many jurisdictions have classified the
+transfer of blood or other human tissue as a service
+rather than a sale, this position does not conflict with
+the notion that human tissue is property." (Columbia
+Note, supra, 90 Colum. L.Rev. at p. 544, fn. 76.) The
+reason is plain: "No State or Federal statute prohibits the
+sale of blood, plasma, semen, or other replenishing
+tissues if taken in nonvital amounts. Nevertheless, State
+laws usually characterize these paid transfers as the
+provision of services rather than the sale of a
+commodity.... [
+¶
+] The primary legal reason for
+characterizing these transactions as involving services
+rather than goods is to avoid liability for contaminated
+blood products under either general product liability
+principles or the [Uniform Commercial Code's] implied
+warranty provisions." (OTA Rep., supra, at p. 76, fn.
+omitted.) The courts have repeatedly recognized that the
+foregoing is the real purpose of this harmless legal
+fiction. (See, e.g., Hyland Therapeutics v. Superior
+Court (1985) 175 Cal.App.3d 509 [220 Cal.Rptr. 590];
+Cramer v. Queen of Angels Hosp. (1976) 62 Cal.App.3d
+812 [133 Cal.Rptr. 339]; Shepard v. Alexian Brothers
+Hosp. (1973) 33 Cal.App.3d 606 [109 Cal.Rptr. 132].)
+Thus despite the statute relied on by the majority, it is
+perfectly legal in this state for a person to sell his blood
+for transfusion or for any other 
+[51 Cal.3d 178]
+ purpose
+— indeed, such sales are commonplace, particularly in
+the market for plasma. (See OTA Rep., supra, at p. 121.)
+It follows that the statutes regulating the transfers of
+human organs and blood do not support the majority's
+refusal to recognize a conversion cause of action for
+commercial exploitation of human blood cells without
+consent. On the contrary, because such statutes treat
+both organs and blood as property that can legally be
+sold in a variety of circumstances, they impliedly
+support Moore's contention that his blood cells are
+likewise property for which he can and should receive
+compensation, and hence are protected by the law of
+conversion.
+6.
+The majority's final reason for refusing to recognize a
+conversion cause of action on these facts is that "there is
+no pressing need" to do so because the complaint also
+states another cause of action that is assertedly adequate
+to the task (maj. opn., ante, p. 147); that cause of action
+is "the breach of a fiduciary duty to disclose facts
+material to the patient's consent or, alternatively, ... the
+performance of medical procedures without first having
+obtained the patient's informed consent" (id. at p. 129).
+24
+Although last, this reason is not the majority's least; in
+fact, it underlies much of the opinion's discussion of the
+conversion cause of action, recurring like a leitmotiv
+throughout that discussion.
+The majority hold that a physician who intends to treat
+a patient in whom he has either a research interest or an
+economic interest is under a fiduciary duty to disclose
+such interest to the patient before treatment, that his
+failure to do so may give rise to a nondisclosure cause of
+action, and that the complaint herein states such a cause
+of action at least against defendant Golde. I agree with
+that holding as far as it goes.
+I disagree, however, with the majority's further
+conclusion that in the present context a nondisclosure
+cause of action is an adequate — in fact, a superior —
+substitute for a conversion cause of action. In my view
+the nondisclosure cause of action falls short on at least
+three grounds.
+First, the majority reason that "enforcement of
+physicians' disclosure obligations" will ensure patients'
+freedom of choice. (Maj. opn., ante, p. 
+[51 Cal.3d 179]
+147.) The majority do not spell out how those
+obligations will be "enforced"; but because they arise
+from judicial decision (the majority opinion herein)
+rather than from legislative or administrative
+enactment, we may infer that the obligations will
+primarily be enforced by the traditional judicial remedy
+of an action for damages for their breach. Thus the
+majority's theory apparently is that the threat of such an
+action will have a prophylactic effect: it will give
+physician-researchers incentive to disclose any conflicts
+of interest before treatment, and will thereby protect
+their patients' right to make an informed decision about
+what may be done with their body parts.
+The remedy is largely illusory. "[A]n action based on the
+physician's failure to disclose material information
+sounds in negligence. As a practical matter, however, it
+may be difficult to recover on this kind of negligence
+theory because the patient must prove a causal
+connection between his or her injury and the physician's
+failure to inform." (Martin & Lagod, Biotechnology and
+the Commercial Use of Human Cells: Toward an
+Organic View of Life and Technology (1989) 5 Santa
+Clara Computer & High Tech L.J. 211, 222, fn. omitted,
+italics added.) There are two barriers to recovery. First,
+"the patient must show that if he or she had been
+informed of all pertinent information, he or she would
+have declined to consent to the procedure in question."
+(Ibid.) As we explained in the seminal case of Cobbs v.
+Grant (1972) 8 Cal.3d 229, 245 [104 Cal.Rptr. 505, 502
+P.2d 1], "There must be a causal relationship between
+the physician's failure to inform and the injury to the
+plaintiff. Such a causal connection arises only if it is
+established that had revelation been made consent to
+treatment would not have been given."
+25
+The second barrier to recovery is still higher, and is
+erected on the first: it is not even enough for the
+plaintiff to prove that he personally would have refused
+consent to the proposed treatment if he had been fully
+informed; he must also prove that in the same
+circumstances no reasonably prudent person would
+have given such consent. The purpose of this "objective"
+standard is evident: "Since at the time of trial the
+uncommunicated hazard has materialized, it would be
+surprising if the patient-plaintiff did not claim that had
+he been informed of the dangers he would have declined
+treatment. Subjectively he may believe so, with the
+20/20 vision of hindsight, but we doubt that justice will
+be served by placing the physician in jeopardy of the 
+[51
+Cal.3d 180]
+ patient's bitterness and disillusionment.
+Thus an objective test is preferable: i.e., what would a
+prudent person in the patient's position have decided if
+adequately informed of all significant perils." (Cobbs v.
+Grant, supra, 8 Cal.3d 229, 245.)
+26
+Even in an ordinary Cobbs-type action it may be
+difficult for a plaintiff to prove that no reasonably
+prudent person would have consented to the proposed
+treatment if the doctor had disclosed the particular risk
+of physical harm that ultimately caused the injury. (See,
+e.g., Morganroth v. Pacific Medical Center, Inc. (1976)
+54 Cal.App.3d 521, 534 [126 Cal.Rptr. 681] [affirming
+nonsuit in Cobbs-type action on ground, inter alia, of
+lack of proof that plaintiff would have refused coronary
+arteriogram if he had been told of risk of stroke].) This
+is because in many cases the potential benefits of the
+treatment to the plaintiff clearly outweigh the
+undisclosed risk of harm. But that imbalance will be
+even greater in the kind of nondisclosure action that the
+majority now contemplate: here we deal not with a risk
+of physical injuries such as a stroke, but with the
+possibility that the doctor might later use some of the
+patient's cast-off tissue for scientific research or the
+development of commercial products. Few if any judges
+or juries are likely to believe that disclosure of such a
+possibility of research or development would dissuade a
+reasonably prudent person from consenting to the
+treatment. For example, in the case at bar no trier of fact
+is likely to believe that if defendants had disclosed their
+plans for using Moore's cells, no reasonably prudent
+person in Moore's position — i.e., a leukemia patient
+suffering from a grossly enlarged spleen — would have
+consented to the routine operation that saved or at least
+prolonged his life. Here, as in Morganroth (ibid.), a
+motion for nonsuit for failure to prove proximate cause
+will end the matter. In this context, accordingly, the
+threat of suit on a nondisclosure cause of action is
+largely a paper tiger.
+The second reason why the nondisclosure cause of
+action is inadequate for the task that the majority assign
+to it is that it fails to solve half the problem before us: it
+gives the patient only the right to refuse consent, i.e.,
+the right to prohibit the commercialization of his tissue;
+it does not give him the right to grant consent to that
+commercialization on the condition that he share in its
+proceeds. "Even though good reasons exist to support
+informed 
+[51 Cal.3d 181]
+ consent with tissue
+commercialization, a disclosure requirement is only the
+first step toward full recognition of a patient's right to
+participate fully. Informed consent to
+commercialization, absent a right to share in the profits
+from such commercial development, would only give
+patients a veto over their own exploitation. But
+recognition that the patient[s] [have] an ownership
+interest in their own tissues would give patients an
+affirmative right of participation. Then patients would
+be able to assume the role of equal partners with their
+physicians in commercial biotechnology research."
+(Howard, supra, 44 Food Drug Cosm. L.J. at p. 344.)
+Reversing the words of the old song, the nondisclosure
+cause of action thus accentuates the negative and
+eliminates the positive: the patient can say no, but he
+cannot say yes and expect to share in the proceeds of his
+contribution. Yet as explained above (pt. 4, ante), there
+are sound reasons of ethics and equity to recognize the
+patient's right to participate in such benefits. The
+nondisclosure cause of action does not protect that
+right; to that extent, it is therefore not an adequate
+substitute for the conversion remedy, which does
+protect the right.
+Third, the nondisclosure cause of action fails to reach a
+major class of potential defendants: all those who are
+outside the strict physician-patient relationship with the
+plaintiff. Thus the majority concede that here only
+defendant Golde, the treating physician, can be directly
+liable to Moore on a nondisclosure cause of action: "The
+Regents, Quan, Genetics Institute, and Sandoz are not
+physicians. In contrast to Golde, none of these
+defendants stood in a fiduciary relationship with Moore
+or had the duty to obtain Moore's informed consent to
+medical procedures." (Maj. opn., ante, p. 133.) As to
+these defendants, the majority can offer Moore only a
+slim hope of recovery: if they are to be liable on a
+nondisclosure cause of action, say the majority, "it can
+only be on account of Golde's acts and on the basis of a
+recognized theory of secondary liability, such as
+respondeat superior." (Maj. opn., ante, p. 133.) Although
+the majority decline to decide the question whether the
+secondary-liability allegations of the complaint are
+sufficient, they strongly imply disapproval of those
+allegations.
+27 
+ And the 
+[51 Cal.3d 182]
+ majority further
+note that the trial court has already ruled insufficient the
+allegations of agency as to the corporate defendants.
+(Maj. opn., ante, p. 134.)
+To the extent that a plaintiff such as Moore is unable to
+plead or prove a satisfactory theory of secondary
+liability, the nondisclosure cause of action will thus be
+inadequate to reach a number of parties to the
+commercial exploitation of his tissue. Such parties
+include, for example, any physician-researcher who is
+not personally treating the patient, any other researcher
+who is not a physician, any employer of the foregoing
+(or even of the treating physician), and any person or
+corporation thereafter participating in the commercial
+exploitation of the tissue. Yet some or all of those parties
+may well have participated more in, and profited more
+from, such exploitation than the particular physician
+with whom the plaintiff happened to have a formal
+doctor-patient relationship at the time.
+In sum, the nondisclosure cause of action (1) is unlikely
+to be successful in most cases, (2) fails to protect
+patients' rights to share in the proceeds of the
+commercial exploitation of their tissue, and (3) may
+allow the true exploiters to escape liability. It is thus not
+an adequate substitute, in my view, for the conversion
+cause of action.
+7.
+My respect for this court as an institution compels me to
+make one last point: I dissociate myself completely from
+the amateur biology lecture that the majority impose on
+us throughout their opinion. (Maj. opn., ante, fns. 2, 29,
+30, 33 and 35, and text at pp. 138-139.) For several
+reasons, the inclusion of most of that material in an
+opinion of this court is improper.
+First, with the exception of defendants' patent none of
+the material in question is part of the record on appeal
+as defined by the California Rules of Court. Because this
+appeal is taken from a judgment of dismissal entered
+after the sustaining of general and special demurrers,
+there is virtually no record other than the pleadings.
+The case has never been tried, and hence there is no
+evidence whatever on the obscure medical topics on
+which the majority presume to instruct us. Instead, all
+the documents that the majority rely on for their
+medical explanations appear in an appendix to
+defendant 
+[51 Cal.3d 183]
+ Golde's opening brief on the
+merits. Such an appendix, however, is no more a part of
+the record than the brief itself, because the record
+comprises only the materials before the trial court when
+it made its ruling. (See Cal. Rules of Court, rules 4
+through 5.2.) Nor could Golde have moved to augment
+the record to include any of these documents, because
+none was "part of the original superior court file," a
+prerequisite to such augmentation. (Cal. Rules of Court,
+rule 12(a).) "As a general rule, documents not before the
+trial court cannot be included as a part of the record on
+appeal." (Doers v. Golden Gate Bridge etc. Dist. (1979)
+23 Cal.3d 180, 184, fn. 1 [151 Cal.Rptr. 837, 588 P.2d
+1261].)
+Second, most of these documents bear solely or
+primarily on the majority's discussion of whether
+Moore's "genetic material" was or was not "unique" (see
+maj. opn., ante, p. 139), but that entire discussion is
+legally irrelevant to the present appeal. As Justice
+Broussard correctly observes in his separate opinion,
+"the question of uniqueness has no proper bearing on
+plaintiff's basic right to maintain a conversion action;
+ordinary property, as well as unique property, is, of
+course, protected against conversion." (Conc. and dis.
+opn. of Broussard, J., ante, p. 157.)
+Third, this nonissue is also a noncontention. The
+majority claim that "Moore relies ... primarily" on an
+analogy to certain right-of-privacy decisions (maj. opn.,
+ante, pp. 137-138), but this is not accurate. Under our
+rules, as in appellate practice generally, the parties to an
+appeal are confined to the contentions raised in their
+briefs (see Cal. Rules of Court, rule 29.3). In his brief on
+the merits in this court Moore does not even cite, less
+still "rely primarily," on the right-of-privacy decisions
+discussed by the majority, nor does he draw any analogy
+to the rule of those decisions. It is true that in the course
+of oral argument before this court, counsel for Moore
+briefly paraphrased the analogy argument that the
+majority now attribute to him; but a party may not, of
+course, raise a new contention for the first time in oral
+argument.
+Fourth, much of the material that the majority rely on in
+this regard is written in highly technical scientific jargon
+by and for specialists in the field of contemporary
+molecular biology. (See, e.g., articles cited in maj. opn.,
+ante, fn. 30, 2d par., & fn. 35, 2d par.) As far as I know,
+no member of this court is trained as a molecular
+biologist, or even as a physician; without expert
+testimony in the record, therefore, the majority are not
+competent to explain these arcane points of medical
+science any more than a doctor would be competent to
+explain esoteric questions of the law of negotiable 
+[51
+Cal.3d 184]
+ instruments or federal income taxation, or
+the rule against perpetuities.
+28 
+ In attempting to expound
+this science the majority run two serious risks. First,
+because they have no background in molecular biology
+the majority may simply misunderstand what they are
+reading, much as a layman might misunderstand a
+highly technical article in a professional legal journal.
+Indeed, I suggest the majority have already fallen into
+this very trap, since some of their explanations appear
+either mistaken, confused, or incomplete (e.g., maj.
+opn., ante, fn. 29).
+The second risk is that of omission. The majority have
+access to most of the legal literature published in this
+country; but even if the majority could understand the
+medical literature, as a practical matter they have access
+to virtually none of it. This is demonstrated by the fact
+that every one of the medical articles now relied on by
+the majority came into their possession as reprints
+furnished to this court by one of the parties to this
+lawsuit — obviously not an unbiased source. Because the
+majority are thus not equipped to independently
+research the medical points they seek to make, they risk
+presenting only one side of the story; it may well be that
+other researchers have reached different or even
+contrary results, reported in publications that
+defendants, acting in self-interest, have not furnished to
+the court. I leave it 
+[51 Cal.3d 185]
+ to professionals in
+molecular biology to say whether the majority's
+explanations on this topic are both correct and balanced.
+Because I fear they may be neither, I cannot subscribe to
+any of them.
+I would affirm the decision of the Court of Appeal to
+direct the trial court to overrule the demurrers to the
+cause of action for conversion.
+Respondents' petition for a rehearing was denied
+August 30, 1990. Mosk, J., and Broussard, J., were of the
+opinion that the petition should be granted.

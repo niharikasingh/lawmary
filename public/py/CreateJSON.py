@@ -35,7 +35,9 @@ with open("index.txt", "r") as readfile, open("../js/casedict.json", "w") as wri
             docketNumber = docketNumber.split(' ')
             fileName = docketNumber[:-1]
             logging.debug("fileName = {}".format(fileName))
-            fileName[1] = re.sub(r'\.', '', fileName[1])
+            if (len(fileName) > 1):
+                fileName[1] = re.sub(r'\.', '', fileName[1])
+            fileName[0] = re.sub(r':', '', fileName[0])
             fileName = '-'.join(fileName)
             fileName += "-sum.txt"
             fileName = "py/sum/" + fileName

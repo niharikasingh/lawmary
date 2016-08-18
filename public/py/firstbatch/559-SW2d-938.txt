@@ -1,0 +1,54 @@
+This is a suit for the construction of a will. The Chancellor held that the will passed a life estate, but not the remainder, in certain realty, leaving the remainder to pass by inheritance to the testatrix's heirs at law. The Court of Appeals affirmed.
+
+Mrs. Jessie Lide died on February 15, 1973, leaving a holographic will which, in its entirety, reads as follows:
+"April 19, 1972
+
+    "I, Jessie Lide, being in sound mind declare this to be my last will and testament. I appoint my niece Sandra White Perry to be the executrix of my estate. I wish Evelyn White to have my home to live in and not to be sold.
+
+    "I also leave my personal property to Sandra White Perry. My house is not to be sold.
+
+Jessie Lide" (Underscoring by testatrix).
+
+Mrs. Lide was a widow and had no children. Although she had nine brothers and
+ sisters, only two sisters residing in Ohio survived her. These two sisters quitclaimed any interest they might have in the residence to Mrs. White. The nieces and nephews of the testatrix, her heirs at law, are defendants in this action.
+
+Mrs. White, her husband, who was the testatrix's brother, and her daughter, Sandra White Perry, lived with Mrs. Lide as a family for some twenty-five years. After Sandra married in 1969 and Mrs. White's husband died in 1971, Evelyn White continued to live with Mrs. Lide until Mrs. Lide's death in 1973 at age 88.
+
+Mrs. White, joined by her daughter as executrix, filed this action to obtain construction of the will, alleging that she is vested with a fee simple title to the home. The defendants contend that the will conveyed only a life estate to Mrs. White, leaving the remainder to go to them under our laws of intestate succession. The Chancellor held that the will unambiguously conveyed only a life interest in the home to Mrs. White and refused to consider extrinsic evidence concerning Mrs. Lide's relationship with her surviving relatives. Due to the debilitated condition of the property and in accordance with the desire of all parties, the Chancellor ordered the property sold with the proceeds distributed in designated shares among the beneficiaries.
+
+I.
+
+Our cases have repeatedly acknowledged that the intention of the testator is to be ascertained from the language of the entire instrument when read in the light of surrounding circumstances. See, e.g., Harris v. Bittikofer, 541 S.W.2d 372, 384 (Tenn. 1976); Martin v. Taylor, 521 S.W.2d 581, 584 (Tenn. 1975); Hoggatt v. Clopton, 142 Tenn. 184, 192, 217 S.W. 657, 659 (1919). But, the practical difficulty in this case, as in so many other cases involving wills drafted by lay persons, is that the words chosen by the testatrix are not specific enough to clearly state her intent. Thus, in our opinion, it is not clear whether Mrs. Lide intended to convey a life estate in the home to Mrs. White, leaving the remainder interest to descend by operation of law, or a fee interest with a restraint on alienation. Moreover, the will might even be read as conveying a fee interest subject to a condition subsequent (Mrs. White's failure to live in the home).
+
+In such ambiguous cases it is obvious that rules of construction, always yielding to the cardinal rule of the testator's intent, must be employed as auxiliary aids in the courts' endeavor to ascertain the testator's intent.
+
+In 1851 our General Assembly enacted two such statutes of construction, thereby creating a statutory presumption against partial intestacy.
+
+Chapter 33 of the Public Acts of 1851 (now codified as T.C.A. §§ 64-101 and 64-501) reversed the common law presumption[1] that a life estate was intended unless the intent to pass a fee simple was clearly expressed in the instrument. T.C.A. § 64-501 provides:
+
+    "Every grant or devise of real estate, or any interest therein, shall pass all the estate or interest of the grantor or devisor, unless the intent to pass a less estate or interest shall appear by express terms, or be necessarily implied in the terms of the instrument."
+
+Chapter 180, Section 2 of the Public Acts of 1851 (now codified as T.C.A. § 32-301) was specifically directed to the operation of a devise. In relevant part, T.C.A. § 32-301 provides:
+
+    "A will ... shall convey all the real estate belonging to [the testator] or in which he had any interest at his decease, unless a contrary intention appear by its words and context."
+
+Thus, under our law, unless the "words and context" of Mrs. Lide's will clearly evidence her intention to convey only a life estate to Mrs. White, the will should be construed as passing the home to Mrs. White in fee. "`If the expression in the will is doubtful, the doubt is resolved against the limitation and in favor of the absolute estate.'" Meacham v. Graham, 98 Tenn. 190, 206, 39 S.W. 12, 15 (1897) (quoting Washbon v. Cope, 144 N.Y. 287, 39 N.E. 388); Weiss v. Broadway Nat'l Bank, 204 Tenn. 563, 322 S.W.2d 427 (1959); Cannon v. Cannon, 182 Tenn. 1, 184 S.W.2d 35 (1945).
+
+Several of our cases demonstrate the effect of these statutory presumptions against intestacy by construing language which might seem to convey an estate for life, without provision for a gift over after the termination of such life estate, as passing a fee simple instead. In Green v. Young, 163 Tenn. 16, 40 S.W.2d 793 (1931), the testatrix's disposition of all of her property to her husband "to be used by him for his support and comfort during his life" was held to pass a fee estate. Similarly, in Williams v. Williams, 167 Tenn. 26, 65 S.W.2d 561 (1933), the testator's devise of real property to his children "for and during their natural lives" without provision for a gift over was held to convey a fee. And, in Webb v. Webb, 53 Tenn. App. 609, 385 S.W.2d 295 (1964), a devise of personal property to the testator's wife "for her maintenance, support and comfort, for the full period of her natural life" with complete powers of alienation but without provision for the remainder passed absolute title to the widow.
+
+II.
+
+Thus, if the sole question for our determination were whether the will's conveyance of the home to Mrs. White "to live in" gave her a life interest or a fee in the home, a conclusion favoring the absolute estate would be clearly required. The question, however, is complicated somewhat by the caveat contained in the will that the home is "not to be sold" — a restriction conflicting with the free alienation of property, one of the most significant incidents of fee ownership. We must determine, therefore, whether Mrs. Lide's will, when taken as a whole, clearly evidences her intent to convey only a life estate in her home to Mrs. White.
+
+Under ordinary circumstances a person makes a will to dispose of his or her entire estate. If, therefore, a will is susceptible of two constructions, by one of which the testator disposes of the whole of his estate and by the other of which he disposes of only a part of his estate, dying intestate as to the remainder, this Court has always preferred that construction which disposes of the whole of the testator's estate if that construction is reasonable and consistent with the general scope and provisions of the will. See Ledbetter v. Ledbetter, 188 Tenn. 44, 216 S.W.2d 718 (1949); Cannon v. Cannon, supra; Williams v. Williams, supra; Jarnagin v. Conway, 21 Tenn. 50 (1840); 4 Page, Wills § 30.14 (3d ed. 1961). A construction which results in partial intestacy will not be adopted unless such intention clearly appears. Bedford v. Bedford, 38 Tenn. App. 370, 274 S.W.2d 528 (1954); Martin v. Hale, 167 Tenn. 438, 71 S.W.2d 211 (1934). It has been said that the courts will prefer any reasonable construction or any construction which does not do violence to a testator's language, to a construction which results in partial intestacy. Ledbetter, supra.
+
+The intent to create a fee simple or other absolute interest and, at the same time to impose a restraint upon its alienation can be clearly expressed. If the testator specifically declares that he devises land to A "in fee simple" or to A "and his heirs" but that A shall not have the power to alienate the land, there is but one tenable construction, viz., the testator's intent is to impose a restraint upon a fee simple. To construe such language to create a life estate would
+ conflict with the express specification of a fee simple as well as with the presumption of intent to make a complete testamentary disposition of all of a testator's property. By extension, as noted by Professor Casner in his treatise on the law of real property:
+
+    "Since it is now generally presumed that a conveyor intends to transfer his whole interest in the property, it may be reasonable to adopt the same construction, [conveyance of a fee simple] even in the absence of words of inheritance, if there is no language that can be construed to create a remainder." 6 American Law of Property § 26.58 (A.J. Casner ed. 1952).
+
+In our opinion, testatrix's apparent testamentary restraint on the alienation of the home devised to Mrs. White does not evidence such a clear intent to pass only a life estate as is sufficient to overcome the law's strong presumption that a fee simple interest was conveyed.
+
+Accordingly, we conclude that Mrs. Lide's will passed a fee simple absolute in the home to Mrs. White. Her attempted restraint on alienation must be declared void as inconsistent with the incidents and nature of the estate devised and contrary to public policy. Nashville C & S.L. Ry. v. Bell, 162 Tenn. 661, 39 S.W.2d 1026 (1931).
+
+The decrees of the Court of Appeals and the trial court are reversed and the cause is remanded to the chancery court for such further proceedings as may be necessary, consistent with this opinion. Costs are taxed against appellees.

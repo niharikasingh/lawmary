@@ -1,0 +1,90 @@
+This is an appeal on both liability and quantum from a judgment which awarded Willie Edwards damages resulting from injuries he sustained in an automobile accident.
+
+The daytime accident occurred near the intersection of North Robertson and France Streets in New Orleans. Robertson was a one-way, two-lane major artery for traffic heading across the Seeber bridge. France was a narrow residential street, wide enough for only one car when vehicles were parked on both sides of the street.
+
+Edwards testified that he was driving 25 to 30 miles per hour in the left lane on Robertson, about three car lengths behind a car, which suddenly made an abrupt, unsignaled turn onto France; that he braked his panel truck to a quick stop without skidding; and that he was then struck from the rear by another panel truck.
+
+Callis Sims, driver of the other truck, verified the fact that Edwards stopped to avoid striking the turning car and testified that he slammed on his brakes but could not avoid striking Edwards slightly. Another motorist, traveling on Robertson Street in the right lane, observed in his rear view mirror that Sims was approaching rapidly in the right lane, then saw Sims move into the left lane and finally saw Edwards' truck lurch forward upon being struck.
+
+Defendants first contend Sims should be exonerated, inasmuch as he was confronted with a sudden emergency and was not required to assume the preceding motorist would stop suddently. We disagree. The sudden emergency doctrine applies only to a motorist who, while driving prudently, is confronted with an emergency created by someone else's negligence, and then only serves to excuse the otherwise prudent motorist for emergency conduct which, on sufficient reflection, was not the most prudent course of action. If Sims had maintained a proper lookout with his vehicle under control and had changed lanes properly and cautiously, he could have avoided the accident when Edwards was required to make an emergency stop.
+
+Defendants next contend Edwards contributed to the accident by following the preceding car too closely, necessitating the abrupt stop which otherwise would have been unnecessary. Again we
+disagree. Contributory negligence is conduct on the part of the plaintiff which falls below the standard to which he should conform for his own safety, the standard being that of a reasonable man under like circumstances. Smolinski v. Taulli, La., 276 So.2d 286 (1973). Driving at 25 miles per hour three car lengths behind a car traveling at approximately the same speed was reasonable behavior, as was Edwards' conduct when the preceding car made an abrupt, unsignaled turn. We conclude defendants have failed to prove contributory negligence and that Sims' behavior, rather than Edwards', violated standards of reasonable driving and turned the sudden emergency into a casualty.
+
+QUANTUM
+
+After the April 30, 1969 collision, which caused only minor damage to his truck, Edwards sustained momentary dizziness, but later resumed his duties as a bakery truck driver. Edwards attempted to continue work, but sought medical attention after two weeks because of persistent pain in his neck and shoulders. He underwent treatment by a general practitioner for several weeks, and then was referred to a neurosurgeon, who preliminarily diagnosed a cervical sprain and possible prolapsed disc. This doctor hospitalized Edwards for 16 days of physical therapy and traction. Through another physician Edwards was then administered physical therapy as an outpatient.
+
+The neurosurgeon reevaluated Edwards in early August and again hospitalized him for further traction and possible myelography and surgery. When Edwards' suffering continued, the doctor administered two myelograms and eventually performed a lumbar laminectomy. The total period of this hospitalization was 32 days.
+
+Unfortunately, a surgical infection set in, and Edwards was hospitalized two more times, for 13 and 6 day periods, for reopening of the wound and packing with gauze impregnated by antibiotics. During the last hospitalization the doctor reopened the wound under general anesthesia and scraped granulation tissue from the subcutaneous layer. The doctor testified that he was unable to successfully close the wound, but that he had to keep reopening the wound and packing it until it healed by itself.
+
+On February 26, 1970 the doctor released Edwards to return to work, but recommended against heavy lifting and activities which required sudden and deliberate movement or long periods of sitting or standing. Edwards attempted to return to work as a bakery truck driver (which included delivering packages weighing up to 60 pounds), but was forced to return to the doctor, who administered further physical therapy. The doctor then advised him to seek other employment, as his physical condition was not suitable for the demands of his former occupation.
+
+After several unsuccessful applications, Edwards obtained work as a plainclothes detective in a food store. However, three months later he had to give up the job because of the required standing on a protracted basis.
+
+Then followed more physical therapy and more job applications. Finally, in 1971 Edwards obtained employment as a guard in an office building, which allowed him to sit whenever he became tired. He was still working in this job at the time of trial in June, 1973.
+
+Edwards had no prior history of back trouble and had previously enjoyed steady employment. He had worked at the bakery for seven years prior to the accident and had become the senior of 13 drivers.
+
+The trial judge made the following award:
+
+Pain, suffering and disability       $60,000.00
+Loss of wages through 1972            20,232.09
+Impairment of earning capacity
+  (anticipated future loss of wages)  26,443.00
+Medical expenses (stipulated)          7,930.90
+                                     __________
+                            Total   $114,605.99
+
+ Loss of Wages Through 1972
+
+At the time of the 1969 accident Edwards was earning $1.60 per hour and as senior driver had first chance for any overtime work at time and a half. In 1970 the man who replaced Edwards as senior driver earned $7,532.00, and in 1972 earned $8,525.72.[1]
+
+In determining Edwards' loss of wages in 1969, the trial judge calculated Edwards' average monthly earnings in the months prior to the accident and multiplied that figure by eight, the number of months remaining after the accident. For the loss of wages in 1970, 1971 and 1972, the judge used the amount of wages earned by Edwards' replacement and subtracted the amount of wages Edwards actually earned in those years.
+
+We believe this to be a reasonable method of ascertaining Edwards' loss of wages through 1972. It is reasonably probable that if Edwards had not been injured, he would have continued working in the same position and furthermore would have earned approximately the amount of wages earned by his replacement as senior driver.[2] A party's proof is sufficient to constitute a preponderance of the evidence if, when the evidence is taken as a whole, that proof shows that the fact sought to be proved is more probable than not. Jordan v. Travelers Ins. Co., 257 La. 995, 245 So. 2d 151 (1971). Moreover, loss of wages can properly be computed on the amount the plaintiff would in reasonable probability have been earning at time of trial, although he was earning less at the time of the accident. James v. State, 154 So.2d 497 (La.App. 4th Cir. 1963).
+
+However, inasmuch as the replacement driver earned $1,000.00 less in 1972 than the figure used by the trial judge in his calculations for that year, we accordingly reduce the award for this item of damages to $19,232.09.[3]
+
+Loss of Future Wages
+
+The case was tried in June, 1973. To prove his loss of wages in 1973 and future years, Edwards presented an expert in the field of actuarial mathematics. The expert assumed that Edwards' earnings for 1973 as a security guard (based on an extension of his wages earned through the date of trial) would be $6,329.00, and further assumed that if Edwards had not been injured, he would have earned $8,725.00, the amount he was informed Edwards' replacement earned in 1972. The difference between these two amounts, $2,396.00, the expert assumed to be Edwards' annual loss of earnings attributable to the accident.[4]
+
+On the basis of these assumptions and of the statistic that a person of Edwards' age had a work life expectancy in 1973 of 15.6 years, the actuary calculated that Edwards would require a fund of $26,443.00 at time of trial to provide him with $2,396.00 per year over the next 15.6 years (at a 4½% discount rate.) With some principal and some interest drawn from the fund each year, the entire fund would be exhausted
+ at the end of the period of work life expectancy.
+
+On the basis of this calculation, the trial judge awarded $26,443.00 for loss of future wages, or more accurately, for impairment of earning capacity.
+
+The actuary also testified that the purchasing power of the dollar had decreased an average of 2% per year over the last 20 years and that another $3,613.00 would be required in the fund to offset this decrease if it continued at the same rate over the next 15.6 years. The trial judge disregarded this consideration as speculative. Upon specific questioning, the actuary stated he did not include any consideration of possible progress in job status or promotion, or, on the other hand, of the fact that income is taxable while personal injury awards are not.
+
+At the threshold we observe that an award of damages for loss of future wages or for impairment of earning capacity cannot be calculated with mathematical certainty, but that sound judicial discretion should be exercised after all proper considerations are weighed. McFarland v. Illinois Central Railroad Co., 241 La. 15, 127 So.2d 183 (1961). When a judge or jury determines the measure of this item of damages, proper factors to be considered include plaintiff's physical condition prior to the accident, his work record, the amount of his earnings in previous years, and the probability or improbability that he would have earned similar amounts during the remainder of his work life if he had not sustained the pertinent injury. Viator v. Gilbert, 253 La. 81, 216 So.2d 821 (1968).
+
+In the present case the trial judge properly considered that prior to the accident Edwards was in good physical condition, had an excellent work record, and had earned the highest wages of the 13 company drivers. On these considerations he properly concluded Edwards would have earned top driver's wages over his future work life expectancy except for the negligently inflicted injury.
+
+As to the other factors argued, the fact that the purchasing power of the dollar has maintained a consistent down ward trend in past years is a proper factor for consideration. Jakubec v. Southern Bus Lines, 31 So.2d 282 (La.App.2nd Cir. 1947). Dollars awarded today to compensate a tort victim for partial wages he would otherwise have earned in the future will probably have a decreased purchasing power at the time of the theoretical use in the future. But, again for emphasis, this and other factors are only considerations in the discretionary fixing of an award not determinable with mathematical certainty.
+
+The probability of promotion or progress in job status may also be considered when supported by adequate competent evidence, but there was none offered in this case. The factor of a rising income trend, alluded to in the questioning, is another proper consideration (when supported by evidence not present in this case), but this factor is woven integrally with the factor of decreasing purchasing power.
+
+The fact that damages resulting from personal injuries are not subject to income taxation (26 U.S.C. § 104) is interrelated with the question of whether the previous earnings factor should be based on wages before or wages after taxes.[5] Any consideration of damages for loss of wages (past or future) should be based on net income after taxes, since a plaintiff's gross earnings before taxes are never truly
+ available to him. As long as only net income figures are considered, the fact that damages received on account of personal injuries are excluded from gross income for income tax purposes is irrelevant. In the present case, however, the actuary did not really employ either gross or net income for his computation, but utilized the difference between the wages Edwards probably would have earned in 1973 had he not been injured and the wages he actually earned in 1973. Under those circumstances any consideration as to tax consequences of an award is relatively immaterial.
+
+The trial judge based his award on the actuarial calculation, which was in error because of incorrect information provided to the expert. The correct computation would have yielded a figure of $24,243.00, instead of $26,443.00. However, the trial judge should have considered the established probable decrease in the purchasing power of the dollar, which would have added $3,613.00 to the fund computed by the actuarial calculation.
+
+After considering all of the pertinent factors, and again observing that damages for loss of future wages must be based on sound judicial discretion rather than on absolute mathematical formulas, we conclude the amount awarded by the trial judge does not constitute an abuse of the "much discretion" vested in him by C. C. art. 1934(3).
+
+Pain, Suffering and Disability
+
+Edwards, 48 years old at the time of trial, underwent considerably more suffering than the ordinary ruptured disc victim, according to the neurosurgeon, who stated that Edwards would have permanent disability and limitation of activities and would have associated residual pain, more pronounced after certain activities or in certain weather conditions.
+
+The doctor characterized Edwards as "always very straight forward" and "very honest." Furthermore, the trial judge noted Edwards was "in obvious pain" during the trial, and did not believe he was exaggerating the situation. The trial judge also commented that Edwards would "not be a whole man for the rest of his life", particularly noting that Edwards' family and recreational activities with his three young children would be permanently curtailed and that he was forced to transfer from a job he "obviously enjoyed" to one as "a bland security guard," because he was concerned primarily with supporting his family in any type of employment he could obtain in his physical condition.
+
+Defendants cite numerous cases in which ruptured disc victims have received awards substantially less than that granted to Edwards. Nevertheless, all disc injuries are not the same, and a comparison of Edwards' four periods of hospitalization plus extensive outpatient treatment to the usual post-operative recovery period of seven days emphasizes this need to consider the facts and circumstances of each individual case. Furthermore, the doctor pointed out that while many disc victims return to full activity with little residual discomfort, others such as Edwards suffer permanent limitation of employment, family and recreational activities and are faced with a lifetime of suffering residual pain from the injury.
+
+After reviewing all of the evidence, we cannot conclude the award is so excessive as to constitute an abuse of the trial judge's "much discretion." C.C. art. 1934(3).
+
+DECREE
+
+Accordingly, the judgment of the trial court is amended to reduce the total award by $1,000.00, and as amended, the judgment is affirmed.
+
+Amended and affirmed.

@@ -1,3 +1,9 @@
-In Union & Planters' Bank v. Memphis, 189 U.S. 71, 75 (1903), this Court held that a federal court "can accord [a state judgment] no greater efficacy" than would the judgment-rendering State.
+In Union & Planters' Bank v. Memphis, 189 U.S. 71, 75 (1903), this Court held that a federal court "can accord [a state judgment] no greater efficacy" than would the judgment-rendering State. That holding has been adhered to on at least three occasions since that time.
+Oklahoma Packing Co. v. Oklahoma Gas & Electric Co., 309 U.S. 4, 7-8 (1940); Wright v. Georgia Railroad & Banking Co., 216 U.S. 420, 429 (1910); City of Covington v. First National Bank, 198 U.S. 100, 107-109 (1905).
+The Court has also indicated that the States are bound by a similar rule under the Full Faith and Credit Clause. Public Works v. Columbia College, 17 Wall. 521, 529 (1873).
 The Court is thus justified in this case to rule that preclusion must be determined under state law, even if there would be preclusion under federal standards.
+This construction of 28 U. S. C.   1738 and its predecessors is unfortunate.
+In terms of the purpose of that section, which is to require federal courts to give effect to state-court judgments, there is no reason to hold that a federal court may not give preclusive effect to a state judgment simply because the judgment would not bar relitigation in the state courts.
+If the federal courts have developed rules of res judicata and collateral estoppel that prevent relitigation in circumstances that would not be preclusive in state courts, the federal courts should be free to apply them, the parties then being free to relitigate in the state courts.
+The contrary construction of   1738 is nevertheless one of long standing, and Congress has not seen fit to disturb it, however justified such an action might have been.
 Accordingly, I join the opinion of the Court 

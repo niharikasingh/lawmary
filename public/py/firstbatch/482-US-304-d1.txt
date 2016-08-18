@@ -1,0 +1,177 @@
+One thing is certain. The Court's decision today will generate a great deal of litigation. Most of it, I believe, will be unproductive. But the mere duty to defend the actions that today's decision will spawn will undoubtedly have a significant adverse impact on the land use regulatory process. The Court has reached out to address an issue not actually presented in this case, and has then answered that self-imposed question in a superficial and, I believe, dangerous way.
+
+Four flaws in the Court's analysis merit special comment. First, the Court unnecessarily and imprudently assumes that appellant's complaint alleges an unconstitutional taking of Lutherglen. Second, the Court distorts our precedents in the area of regulatory takings when it concludes that all ordinances which would constitute takings if allowed to remain in effect permanently, necessarily also constitute takings if they are in effect for only a limited period of time. Third, the Court incorrectly assumes that the California Supreme Court has already decided that it will never allow a state court to grant monetary relief for a temporary regulatory taking, and
+
+
+
+then uses that conclusion to reverse a judgment which is correct under the Court's own theories. Finally, the Court errs in concluding that it is the Takings Clause, rather than the Due Process Clause, which is the primary constraint on the use of unfair and dilatory procedures in the land use area.
+
+I
+
+In the relevant portion of its complaint for inverse condemnation, appellant alleged:
+
+"16"
+
+"On January 11, 1979, the County adopted Ordinance No. 11,855, which provides:"
+
+"Section 1. A person shall not construct, reconstruct, place or enlarge any building or structure, any portion of which is, or will be, located within the outer boundary lines of the interim flood protection area located in Mill Creek Canyon, vicinity of Hidden Springs, as shown on Map No. 63 ML 52, attached hereto and incorporated herein by reference as though fully set forth."
+
+"17"
+
+"Lutherglen is within the flood protection area created by Ordinance No. 11,855."
+
+"18"
+
+"Ordinance No. 11,855 denies First Church all use of Lutherglen."
+
+App. 49.
+
+Because the Church sought only compensation, and did not request invalidation of the ordinance, the Superior Court granted a motion to strike those three paragraphs, and consequently never decided whether they alleged a "taking." [Footnote 2/1]
+
+
+
+The Superior Court granted the motion to strike on the basis of the rule announced in Agins v. Tiburon, 24 Cal.3d 266, 598 P.2d 25 (1979). Under the rule of that case, a property owner who claims that a land use restriction has taken property for public use without compensation must file an action seeking invalidation of the regulation, and may not simply demand compensation. The Court of Appeal affirmed on the authority of Agins alone, [Footnote 2/2] also without holding that the complaint had alleged a violation of either the California Constitution or the Federal Constitution. At most, it assumed, arguendo, that a constitutional violation had been alleged.
+
+This Court clearly has the authority to decide this case by ruling that the complaint did not allege a taking under the Federal Constitution, [Footnote 2/3] and therefore to avoid the novel constitutional
+
+
+
+issue that it addresses. Even though I believe the Court's lack of self-restraint is imprudent, it is imperative to stress that the Court does not hold that appellant is entitled to compensation as a result of the flood protection regulation that the county enacted. No matter whether the regulation is treated as one that deprives appellant of its property on a permanent or temporary basis, this Court's precedents demonstrate that the type of regulatory program at issue here cannot constitute a taking.
+
+"Long ago it was recognized that 'all property in this country is held under the implied obligation that the owner's use of it shall not be injurious to the community.'"
+
+Keystone Bituminous Coal Assn. v. DeBenedictis, 480 U. S. 470, 480 U. S. 491-492 (1987), quoting Mugler v. Kansas, 123 U. S. 623, 123 U. S. 665 (1887). Thus, in order to protect the health and safety of the community, [Footnote 2/4] government may condemn unsafe structures,
+
+
+
+may close unlawful business operations, may destroy infected trees, and surely may restrict access to hazardous areas -- for example, land on which radioactive materials have been discharged, land in the path of a lava flow from an erupting volcano, or land in the path of a potentially life-threatening flood. [Footnote 2/5] When a governmental entity imposes these types of health and safety regulations, it may not be
+
+"burdened with the condition that [it] must compensate such individual owners for pecuniary losses they may sustain, by reason of their not being permitted, by a noxious use of their property, to inflict injury upon the community."
+
+Mugler, supra, at 123 U. S. 668-669; see generally Keystone Bituminous, supra, at 480 U. S. 485-493.
+
+In this case, the legitimacy of the county's interest in the enactment of Ordinance No. 11,855 is apparent from the face of the ordinance, and has never been challenged. [Footnote 2/6] It was enacted
+
+
+
+as an "interim" measure "temporarily prohibiting" certain construction in a specified area because the County Board believed the prohibition was "urgently required for the immediate preservation of the public health and safety." Even if that were not true, the strong presumption of constitutionality that applies to legislative enactments certainly requires one challenging the constitutionality of an ordinance of this kind to allege some sort of improper purpose or insufficient justification in order to state a colorable federal claim for relief. A presumption of validity is particularly appropriate in this case, because the complaint did not even allege that the ordinance is invalid, or pray for a declaration of invalidity or an injunction against its enforcement. [Footnote 2/7] Nor did it allege any facts indicating how the ordinance interfered with any future use of the property contemplated or planned by appellant. In light of the tragic flood and the loss of life that precipitated
+
+
+
+the safety regulations here, it is hard to understand how appellant ever expected to rebuild on Lutherglen.
+
+Thus, although the Court uses the allegations of this complaint as a springboard for its discussion of a discrete legal issue, it does not, and could not under our precedents, hold that the allegations sufficiently alleged a taking or that the county's effort to preserve life and property could ever constitute a taking. As far as the United States Constitution is concerned, the claim that the ordinance was a taking of Lutherglen should be summarily rejected on its merits.
+
+II
+
+There is no dispute about the proposition that a regulation which goes "too far" must be deemed a taking. See Pennsylvania Coal Co. v. Mahon, 260 U. S. 393, 260 U. S. 415 (1922). When that happens, the government has a choice: it may abandon the regulation or it may continue to regulate and compensate those whose property it takes. In the usual case, either of these options is wholly satisfactory. Paying compensation for the property is, of course, a constitutional prerogative of the sovereign. Alternatively, if the sovereign chooses not to retain the regulation, repeal will, in virtually all cases, mitigate the overall effect of the regulation so substantially that the slight diminution in value that the regulation caused while in effect cannot be classified as a taking of property. We may assume, however, that this may not always be the case. There may be some situations in which even the temporary existence of a regulation has such severe consequences that invalidation or repeal will not mitigate the damage enough to remove the "taking" label. This hypothetical situation is what the Court calls a "temporary taking." But, contrary to the Court's implications, the fact that a regulation would constitute a taking if allowed to remain in effect permanently is by no means dispositive of the question whether the effect that the regulation has already had on the
+
+
+
+property is so severe that a taking occurred during the period before the regulation was invalidated.
+
+A temporary interference with an owner's use of his property may constitute a taking for which the Constitution requires that compensation be paid. At least with respect to physical takings, the Court has so held. See ante at 482 U. S. 318 (citing cases). Thus, if the government appropriates a leasehold interest and uses it for a public purpose, the return of the premises at the expiration of the lease would obviously not erase the fact of the government's temporary occupation. Or if the government destroys a chicken farm by building a road through it or flying planes over it, removing the road or terminating the flights would not palliate the physical damage that had already occurred. These examples are consistent with the rule that even minimal physical occupations constitute takings which give rise to a duty to compensate. See Loretto v. Teleprompter Manhattan CATV Corp., 458 U. S. 419 (1982).
+
+But our cases also make it clear that regulatory takings and physical takings are very different in this, as well as other, respects. While virtually all physical invasions are deemed takings, see, e.g., Loretto, supra; United States v. Causby, 328 U. S. 256 (1946), a regulatory program that adversely affects property values does not constitute a taking unless it destroys a major portion of the property's value. See Keystone Bituminous, 480 U.S. at 480 U. S. 493-502; Hodel v. Virginia Surface Mining & Reclamation Assn., Inc., 452 U. S. 264, 452 U. S. 296 (1981); Agins v. Tiburon, 447 U. S. 255, 447 U. S. 260 (1980). This diminution of value inquiry is unique to regulatory takings. Unlike physical invasions, which are relatively rare and easily identifiable without making any economic analysis, regulatory programs constantly affect property values in countless ways, and only the most extreme regulations can constitute takings. Some dividing line must be established between everyday regulatory inconveniences and those so severe that they constitute takings. The diminution of value
+
+
+
+inquiry has long been used in identifying that line. As Justice Holmes put it:
+
+"Government hardly could go on if, to some extent, values incident to property could not be diminished without paying for every such change in the general law."
+
+Pennsylvania Coal, supra, at 260 U. S. 413. It is this basic distinction between regulatory and physical takings that the Court ignores today.
+
+Regulations are three-dimensional; they have depth, width, and length. As for depth, regulations define the extent to which the owner may not use the property in question. With respect to width, regulations define the amount of property encompassed by the restrictions. Finally, and for purposes of this case, essentially, regulations set forth the duration of the restrictions. It is obvious that no one of these elements can be analyzed alone to evaluate the impact of a regulation, and hence to determine whether a taking has occurred. For example, in Keystone Bituminous we declined to focus in on any discrete segment of the coal in the petitioners' mines, but rather looked to the effect that the restriction had on their entire mining project. See 480 U.S. at 480 U. S. 493-502; see also Penn Central Transportation Co. v. New York City, 438 U. S. 104, 438 U. S. 137 (1978) (looking at owner's other buildings). Similarly, in Penn Central, the Court concluded that it was error to focus on the nature of the uses which were prohibited without also examining the many profitable uses to which the property could still be put. Id. at 438 U. S. 130-131; see also Agins, supra, at 447 U. S. 262-263; Andrus v. Allard, 444 U. S. 51, 444 U. S. 64-67 (1979). Both of these factors are essential to a meaningful analysis of the economic effect that regulations have on the value of property and on an owner's reasonable investment-based expectations with respect to the property.
+
+Just as it would be senseless to ignore these first two factors in assessing the economic effect of a regulation, one cannot conduct the inquiry without considering the duration of the restriction. See generally Williams, Smith, Siemon,
+
+
+
+Mandelker, & Babcock, The White River Junction Manifesto, 9 Vt.L.Rev.193, 215-218 (1984). For example, while I agreed with the Chief Justice's view that the permanent restriction on building involved in Penn Central constituted a taking, I assume that no one would have suggested that a temporary freeze on building would have also constituted a taking. Similarly, I am confident that even the dissenters in Keystone Bituminous would not have concluded that the restriction on bituminous coal mining would have constituted a taking had it simply required the mining companies to delay their operations until an appropriate safety inspection could be made.
+
+On the other hand, I am willing to assume that some cases may arise in which a property owner can show that prospective invalidation of the regulation cannot cure the taking -- that the temporary operation of a regulation has caused such a significant diminution in the property's value that compensation must be afforded for the taking that has already occurred. For this ever to happen, the restriction on the use of the property would not only have to be a substantial one, but it would also have to remain in effect for a significant percentage of the property's useful life. In such a case, an application of our test for regulatory takings would obviously require an inquiry into the duration of the restriction, as well as its scope and severity. See Williamson County Regional Planning Comm'n v. Hamilton Bank, 473 U. S. 172, 473 U. S. 190-191 (1985) (refusing to evaluate taking claim when the long-term economic effects were uncertain because it was not clear that restrictions would remain in effect permanently).
+
+The cases that the Court relies upon for the proposition that there is no distinction between temporary and permanent takings, see ante at 482 U. S. 318, are inapposite, for they all deal with physical takings -- where the diminution of value test is inapplicable. [Footnote 2/8] None of those cases is controversial; the state
+
+
+
+certainly may not occupy an individual's home for a month and then escape compensation by leaving and declaring the occupation "temporary." But what does that have to do with the proper inquiry for regulatory takings? Why should there be a constitutional distinction between a permanent restriction that only reduces the economic value of the property by a fraction -- perhaps one-third -- and a restriction that merely postpones the development of a property for a fraction of its useful life -- presumably far less than a third? In the former instance, no taking has occurred; in the latter case, the Court now proclaims that compensation for a taking must be provided. The Court makes no effort to explain these irreconcilable results. Instead, without any attempt to fit its proclamation into our regulatory takings cases, the Court boldly announces that, once a property owner makes out a claim that a regulation would constitute a taking if allowed to stand, then he or she is entitled to damages for the period of time between its enactment and its invalidation.
+
+Until today, we have repeatedly rejected the notion that all temporary diminutions in the value of property automatically activate the compensation requirement of the Takings Clause. In Agins, we held:
+
+"The State Supreme Court correctly rejected the contention that the municipality's good faith planning activities, which did not result in successful prosecution of an eminent domain claim, so burdened the appellants' enjoyment of their property as to constitute a taking. . . . Even if the appellants' ability to sell their property was
+
+
+
+limited during the pendency of the condemnation proceeding, the appellants were free to sell or develop their property when the proceedings ended. Mere fluctuations in value during the process of governmental decisionmaking, absent extraordinary delay, are "incidents of ownership. They cannot be considered as a taking' in the constitutional sense.""
+
+447 U.S. at 447 U. S. 263, n. 9, quoting Danforth v. United States, 308 U. S. 271, 308 U. S. 285 (1939). [Footnote 2/9]
+
+Our more recent takings cases also cut against the approach the Court now takes. In Williamson, supra, and MacDonald, Sommer & Frates v. Yolo County, 477 U. S. 340 (1986), we held that we could not review a taking claim as long as the property owner had an opportunity to obtain a variance or some other form of relief from the zoning authorities that would permit the development of the property to go forward. See Williamson, supra, at 473 U. S. 190-191; Yolo County, supra, at 477 U. S. 348-353. Implicit in those holdings was the assumption that the temporary deprivation of all use of the property would not constitute a taking if it would be adequately remedied by a belated grant of approval of the developer's plans. See Sallet, Regulatory "Takings" and Just Compensation: The Supreme Court's Search for a Solution Continues, 18 Urb.Law. 635, 653 (1986).
+
+
+
+The Court's reasoning also suffers from severe internal inconsistency. Although it purports to put to one side "normal delays in obtaining building permits, changes in zoning ordinances, variances and the like," ante at 482 U. S. 321, the Court does not explain why there is a constitutional distinction between a total denial of all use of property during such "normal delays" and an equally total denial for the same length of time in order to determine whether a regulation has "gone too far" to be sustained unless the government is prepared to condemn the property. Precisely the same interference with a real estate developer's plans may be occasioned by protracted proceedings which terminate with a zoning board's decision that the public interest would be served by modification of its regulation and equally protracted litigation which ends with a judicial determination that the existing zoning restraint has "gone too far," and that the board must therefore grant the developer a variance. The Court's analysis takes no cognizance of these realities. Instead, it appears to erect an artificial distinction between "normal delays" and the delays involved in obtaining a court declaration that the regulation constitutes a taking. [Footnote 2/10]
+
+In my opinion, the question whether a "temporary taking" has occurred should not be answered by simply looking at the reason a temporary interference with an owner's use of his property is terminated. [Footnote 2/11] Litigation challenging the validity of a land use restriction gives rise to a delay that is just as "normal" as an administrative procedure seeking a variance
+
+
+
+or an approval of a controversial plan. [Footnote 2/12] Just because a plaintiff can prove that a land use restriction would constitute a taking if allowed to remain in effect permanently does not mean that he or she can also prove that its temporary application rose to the level of a constitutional taking.
+
+III
+
+The Court recognizes that the California courts have the right to adopt invalidation of an excessive regulation as the appropriate remedy for the permanent effects of overburdensome regulations, rather than allowing the regulation to stand and ordering the government to afford compensation for the permanent taking. See ante at 482 U. S. 319; see also Yolo County, supra, at 477 U. S. 362-363, and n. 4 (WHITE, J., dissenting); San Diego Gas & Electric Co. v. San Diego, 450 U. S. 621, 450 U. S. 657 (1981) (BRENNAN, J., dissenting). The difference between these two remedies is less substantial than one might assume. When a court invalidates a regulation, the Legislative or Executive Branch must then decide whether to condemn the property in order to proceed with the regulatory scheme. On the other hand, if the court requires compensation for a permanent taking, the Executive or Legislative Branch may still repeal the regulation, and thus prevent the permanent taking. The difference, therefore, is only in what will happen in the case of Legislative or Executive inertia. Many scholars have debated the respective merits of the alternative approaches in light of separation of powers concerns, [Footnote 2/13] but our only concern is with a state court's decision on
+
+
+
+which procedure it considers more appropriate. California is fully competent to decide how it wishes to deal with the separation of powers implications of the remedy it routinely uses. [Footnote 2/14]
+
+Once it is recognized that California may deal with the permanent taking problem by invalidating objectionable regulations, it becomes clear that the California Court of Appeal's decision in this case should be affirmed. Even if this Court is correct in stating that one who makes out a claim for a permanent taking is automatically entitled to some compensation for the temporary aspect of the taking as well, the States still have the right to deal with the permanent aspect of a taking by invalidating the regulation. That is all that the California courts have done in this case. They have refused to proceed upon a complaint which sought only damages, and which did not contain a request for a declaratory invalidation of the regulation, as clearly required by California precedent.
+
+The Court seriously errs, therefore, when it claims that the California court held that
+
+"a landowner who claims that his property has been 'taken' by a land use regulation may not recover damages for the time before it is finally determined that the regulation constitutes a 'taking' of his property."
+
+Ante at 482 U. S. 306-307. Perhaps the Court discerns such a practice from some of the California Supreme Court's earlier decisions, but that is surely no reason for reversing a procedural judgment in a case in which the dismissal of the complaint was entirely consistent with an approach that the
+
+
+
+Court endorses. Indeed, I am not all that sure how the California courts would deal with a landowner who seeks both invalidation of the regulation and damages for the temporary taking that occurred prior to the requested invalidation.
+
+As a matter of regulating the procedure in its own state courts, the California Supreme Court has decided that mandamus or declaratory relief, rather than inverse condemnation, provides "the appropriate relief" for one who challenges a regulation as a taking. Agins v. Tiburon, 24 Cal.3d at 277, 598 P.2d at 31. This statement in Agins can be interpreted in two quite different ways. First, it may merely require the property owner to exhaust his equitable remedies before asserting any claim for damages. Under that reading, a postponement of any consideration of monetary relief, or even a requirement that a "temporary regulatory taking" claim be asserted in a separate proceeding after the temporary interference has ended, would not violate the Federal Constitution. Second, the Agins opinion may be read to indicate that California courts will never award damages for a temporary regulatory taking. [Footnote 2/15] Even if we assume that such a rigid rule would bar recovery in the California courts in a few meritorious cases, we should not allow a litigant to challenge the rule unless his complaint contains allegations explaining why declaratory relief would not provide him with an adequate remedy, and unless his complaint at least complies with the California rule of procedure to the extent that the rule is clearly legitimate. Since the First Amendment is not implicated, the fact that California's rule may be somewhat "overbroad" is no reason for permitting a party to complain about the impact of the rule on other property owners
+
+
+
+who actually file complaints that call California's rule into question.
+
+In any event, the Court has no business speculating on how the California courts will deal with this problem when it is presented to them. Despite the many cases in which the California courts have applied the Agins rule, the Court can point to no case in which application of the rule has deprived a property owner of his rightful compensation.
+
+In criminal litigation, we have steadfastly adhered to the practice of requiring the defendant to exhaust his or her state remedies before collaterally attacking a conviction based on a claimed violation of the Federal Constitution. That requirement is supported by our respect for the sovereignty of the several States and by our interest in having federal judges decide federal constitutional issues only on the basis of fully developed records. See generally Rose v. Lundy, 455 U. S. 509 (1982). The States' interest in controlling land use development and in exploring all the ramifications of a challenge to a zoning restriction should command the same deference from the federal judiciary. See Williamson, 473 U.S. at 473 U. S. 194-197. And our interest in avoiding the decision of federal constitutional questions on anything less than a fully informed basis counsels against trying to decide whether equitable relief has forestalled a temporary taking until after we know what the relief is. In short, even if the California courts adhere to a rule of never granting monetary relief for a temporary regulatory taking, I believe we should require the property owner to exhaust his state remedies before confronting the question whether the net result of the state proceedings has amounted to a temporary taking of property without just compensation. In this case, the Church should be required to pursue an action demanding invalidation of the ordinance prior to seeking this Court's review of California's procedures. [Footnote 2/16]
+
+
+
+The appellant should not be permitted to circumvent that requirement by omitting any prayer for equitable relief from its complaint. I believe the California Supreme Court is justified in insisting that the owner recover as much of its property as possible before foisting any of it on an unwilling governmental purchaser. The Court apparently agrees with this proposition. Thus, even on the Court's own radical view of temporary regulatory takings announced today, the California courts had the right to strike this complaint.
+
+IV
+
+There is, of course, a possibility that land use planning, like other forms of regulation, will unfairly deprive a citizen of the right to develop his property at the time and in the manner that will best serve his economic interests. The "regulatory taking" doctrine announced in Pennsylvania Coal places a limit on the permissible scope of land use restrictions. In my opinion, however, it is the Due Process Clause, rather than that doctrine, that protects the property owner from improperly motivated, unfairly conducted, or unnecessarily protracted governmental decisionmaking. Violation of the procedural safeguards mandated by the Due Process Clause will give rise to actions for damages under 42 U.S.C. § 1983, but I am not persuaded that delays in the development of property that are occasioned by fairly conducted administrative or judicial proceedings are compensable, except perhaps in the most unusual circumstances. On the contrary, I am convinced that the public interest in having important governmental decisions made in an orderly, fully informed way amply justifies the temporary burden on the citizen that is the inevitable by-product of democratic government.
+
+
+
+As I recently wrote:
+
+"The Due Process Clause of the Fourteenth Amendment requires a State to employ fair procedures in the administration and enforcement of all kinds of regulations. It does not, however, impose the utopian requirement that enforcement action may not impose any cost upon the citizen unless the government's position is completely vindicated. We must presume that regulatory bodies such as zoning boards, school boards, and health boards, generally make a good faith effort to advance the public interest when they are performing their official duties, but we must also recognize that they will often become involved in controversies that they will ultimately lose. Even though these controversies are costly and temporarily harmful to the private citizen, as long as fair procedures are followed, I do not believe there is any basis in the Constitution for characterizing the inevitable byproduct of every such dispute as a 'taking' of private property."
+
+Williamson, supra, at 473 U. S. 205 (opinion concurring in judgment).
+
+The policy implications of today's decision are obvious and, I fear, far-reaching. Cautious local officials and land use
+
+planners may avoid taking any action that might later be challenged and thus give rise to a damages action. Much important regulation will never be enacted, [Footnote 2/17] even perhaps in
+
+
+
+the health and safety area. Were this result mandated by the Constitution, these serious implications would have to be ignored. But the loose cannon the Court fires today is not only unattached to the Constitution, but it also takes aim at a long line of precedents in the regulatory takings area. It would be the better part of valor simply to decide the case at hand, instead of igniting the kind of litigation explosion that this decision will undoubtedly touch off.
+
+I respectfully dissent.

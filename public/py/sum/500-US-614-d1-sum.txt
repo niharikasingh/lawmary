@@ -1,23 +1,21 @@
 The Court concludes that the action of a private attorney exercising a peremptory challenge is attributable to the government and therefore may compose a constitutional violation.
-Second, that the use of a peremptory challenge by a private party "involves the performance of a traditional function of the government."
 The peremptory challenge "allow[s] parties," in this case private parties, to exclude potential jurors.
-The peremptory is, by design,  an enclave of private action in a government-managed proceeding.
-The government "normally can be held responsible for a private decision only when it has exercised coercive power or has provided such significant encouragement,  either overt or covert, that the choice must in law be deemed to be that of the State."
-The alleged state action here is a far cry from that which the Court found, for example, in Shelley v. Kraemer, 334 U.S. 1 (1948).
+The government "normally can be held responsible for a private decision only when it has exercised coercive power or has provided such significant encouragement,  either overt or covert, that the choice must in law be deemed to be that of the State." Blum, supra, at 1004.
+The Court's "overt, significant" government participation amounts to the fact that the government provides the mechanism whereby a litigant can choose to exercise a peremptory challenge.
 B The Court errs also when it concludes that the exercise of a peremptory challenge is a traditional government function.
 The government otherwise establishes its requirements for jury service, leaving to the private litigant the unfettered discretion to use the strike for any reason.
-For this reason, the Court is incorrect, and inconsistent with its own definition of the peremptory challenge, when it says that "[i]n the jury selection process [in a civil trial], the government and private litigants work for the same end."
 The Court is also incorrect when it says that a litigant exercising a peremptory challenge is performing "a traditional function of the government."
+The Court may be correct that "[w]ere it not for peremptory challenges, ... the entire process of determining who will serve on the jury [would] constitut[e] state action."
 A peremptory challenge by a private litigant does not meet the Court's standard; it is not a traditional government function.
-The Court cites Terry v. Adams, 345 U.S. 461 (1953), and Marsh v. Alabama, 326 U.S. 501 (1946), for the proposition that state action may be imputed to one who carries out a "traditional governmental function."
  In Flagg Bros., supra, the Court reviewed these and other cases that found state action in the exercise of certain public functions by private parties.
+Even if one could fairly characterize the use of a peremptory strike as the performance of the traditional government function of jury selection, it has never been exclusively the function of the government to select juries; peremptory strikes are older than the Republic. West v. Atkins, 487 U.S. 42 (1988), is not to the contrary.
 The Court seeks to derive from that case a rule that one who "serve[s] an important function within the government," even if not a government employee, is thereby a state actor.
 The exercise of a peremptory challenge is not an important government function; it is not a government function at all.
+The present case is closer to Jackson, supra, and Rendell-Baker v. Kohn, 457 U.S. 830 (1982), than to Terry, Marsh,  or West. In the former cases, the alleged state activities were those of stateregulated private actors performing what might be considered traditional public functions.
 In each case, the Court held that the performance of such a function, even if state regulated or state funded, was not state action unless the function had been one exclusively the prerogative of the State, or the State had provided such significant encouragement to the challenged action that the State could be held responsible for it.
 The use of a peremptory challenge by a private litigant meets neither criterion.
 The Court does not challenge the rule of Dodson, yet concludes that private attorneys performing this adversarial function are state actors.
 At a minimum then, the Court must concede that Dodson stands for the proposition that a criminal defense attorney is not a state actor when using peremptory strikes on behalf of a client, nor is an attorney representing a private litigant in a civil suit against the government.
-The Court is plainly wrong when it asserts that "[i]n the jury selection process, the government and private litigants work for the same end."
 The government is simply not "responsible" for the use of peremptory strikes by private litigants.
 II Beyond "significant participation" and "traditional function," the Court's final argument is that the exercise of a peremptory challenge by a private litigant is state action because it takes place in a courtroom.
 The Government is not responsible for a peremptory challenge by a private litigant.

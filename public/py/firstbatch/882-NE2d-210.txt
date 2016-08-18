@@ -1,0 +1,140 @@
+STATEMENT OF THE CASE
+
+Appellants-Plaintiffs, Village Commons, LLC and Rynalco, Inc. (collectively, Landlord), appeals the trial court's judgment in favor of the Appellees-Defendants, Marion County Prosecutor's Office and Carl Brizzi, in his official capacity as Marion County Prosecutor (collectively, MCPO).
+
+We affirm.
+
+ISSUES
+
+Landlord raises three issues for our review, which we restate as:
+
+    (1) Whether the exclusive-remedy provision of the lease between Landlord and the MCPO barred the MCPO from asserting that it was evicted by acts or omissions of the Landlord;
+
+    (2) Whether the trial court's findings that the MCPO was both actually evicted and constructively evicted were clearly erroneous; and
+
+    (3) Whether a provision limiting the MCPO's time to sue barred the MCPO's defenses and counterclaims.
+
+FACTS AND PROCEDURAL HISTORY
+
+On June 2, 1999, then Marion County Prosecutor Scott C. Newman, executed a lease on behalf of the MCPO with Lombard Associate Limited Partnership (Lombard) to lease the basement of the Victoria Centre in Indianapolis, Indiana (the Lease). Sometime thereafter, Lombard sold the Victoria Centre to Landlord and assigned the Lease to Landlord. The MCPO's Grand Jury Division used the leased premises as its office and evidence storage space.
+
+Pursuant to the provisions of the Lease, the MCPO was to rent 9,356 square feet of lower level space in the Victoria Centre for a period of seven years and five months, commencing on August 1, 1999. The payment obligations increased over time, beginning with zero dollars owed per month for the first five months, increasing to $8,576.33 per month for months seventy-eight through eighty-nine of the lease term.
+
+Under the Lease provisions, Landlord was required to maintain all equipment used in common with other tenants — such as elevators, plumbing, heating and similar equipment — and to maintain the premises in good order, condition and repair. In the event of breach by Landlord, the lease provided that the MCPO could "sue for injunctive relief or to recover damages for any loss resulting from the breach, but [it] shall not be entitled to terminate this Lease or withhold, setoff or abate any rent due thereunder." (Appellant's Addendum to Brief, tab 1).
+
+Beginning in 2001, there was a series of water intrusions from the outside and leaks from building equipment, which damaged property secured by the MCPO and affected the areas that the MCPO occupied or used. On March 11, 2001, there was a leak in the restroom area. On June 25, 2001, there was a leak in the MCPO's evidence room. On August 2, 2001, there was leak in what the MCPO refers to as its war room, a room that extends out from the building underneath a sidewalk adjacent to the building. On August 16, 2001, there was leak in the electrical conduit. On August 24 and 28, 2001, Landlord took an inventory of water spots on ceiling tiles and other water damage throughout the MCPO's leased area and noted several spots and other damage that had been caused by sweating pipes or leaks. On August 28 and September 10, 2001, leaks were again noted in the war room, which were either caused by cracks in the sidewalk
+or steam from Indianapolis Power and Light's underground pipes.
+
+As a result of repeated water intrusions in the war room, Landlord hired Indoor Air Management (IAM) to conduct microbiological sampling and visual inspections. IAM reported visual signs of water damage in the war room and along dry wall. Landlord caulked and sprayed sealant on the sidewalk above the war room on several occasions, but these actions did not stop the leaking. The drywall was scheduled to be repaired, but another leak delayed the work. Landlord sought an estimate to remove and re-pour the concrete sidewalk above the war room on October 11, 2001. However, Landlord elected not to perform this work due to the estimated costs.
+
+Another leak was discovered outside of an office on January 22, 2002, and was noticeably worse on January 29, 2002. On Memorial Day 2002, the main water supply pipe in the building's air conditioning system broke causing a leak in the evidence room. Approximately seventy boxes of evidence were damaged. The MCPO had to dedicate several person-hours to attend to the damaged evidence. On June 10, 2002, Mold Remediation Services (MRS) inspected the damaged evidence room and detected mold spores. MRS provided Landlord a quoted price for recommended work to address the microbial contamination. However, due to the estimated cost of the remediation services, Landlord did not hire MRS, but rather permitted its maintenance man to perform demolition and replace drywall. Landlord's maintenance man did not perform several of the tasks recommended by MRS.
+
+On July 17, 2002, nearly one year after the original leak in the war room, Landlord's maintenance man again replaced ceiling tiles that showed signs of water damage. On July 19, 2002, IAM performed microbiological testing in the main evidence room, hallway, conference room and office of the Chief Deputy Prosecutor of the Grand Jury Division, Mark Hollingsworth (Hollingsworth). IAM informed the MCPO that additional demolition was necessary and that the boxes that were damaged should be discarded because of microbiological contamination.
+
+On July 31, 2002, a new leak caused by the HVAC system was discovered in the break room. On August 2, 2002, IAM reported that moisture readings collected from drywall in the closet area were elevated. A wall in the war room had visible signs of water damage. Also, different types of mold spores were present inside the premises than those found outdoors. Surface testing reported excessive fungal growth. IAM recommended several actions to deal with the moisture and microbiological problems, many of which were previously recommended by MRS.
+
+Landlord spoke with IAM and was advised regarding the possibility of allergic reactions for certain people to mold contamination. However, after this meeting Landlord advised the MCPO there were no health risks presented by the building conditions. At least one of the MCPO employees complained of suffering from unusual coughing and sneezing for a prolonged period of time. Another of the MCPO employees experienced headaches while working at the leased premises. The employee reported his symptoms to a physician, was reassigned outside of the leased premises, and the symptoms subsided. On August 13, 2002, Landlord and the MCPO met with an IAM employee to discuss IAM's report. IAM's employee explained to the MCPO there was an elevated mold count, but not the type of mold that requires a building to be quarantined.
+
+On October 10, 2002, Hollingsworth instructed an employee to make daily inspections. The employee reported to
+Hollingsworth that there were moisture problems in three of the four rooms the MCPO Grand Jury Division used to store evidence. Landlord sent a letter to the MCPO on October 14, 2002, suggesting the MCPO move evidence that it was storing and other materials away from parts of the premises that were vulnerable to water damage. On November 25, 2002, there was a sewage leak in Hollingsworth's office. On January 9, 2003, a water intrusion was discovered in the women's restroom, causing it to be closed for approximately three weeks. The phone system for the MCPO Grand Jury Division went out on January 27, 2003, and MCPO employees took photographs of water damage on the phone board. On January 28, 2003, a major water intrusion was discovered in the main evidence room. An employee photographed a stream of water pouring from the ceiling.
+
+On January 30, 2003, the MCPO elected to vacate the leased premises, and moved to a location where another of the MCPO's divisions was located. Also, January 2003, was the last month that the MCPO paid rent to Landlord, leaving three years and eleven months, or $380,477.37, unpaid according to the terms of the Lease.
+
+On February 23, 2004, Landlord filed a Complaint against the MCPO, alleging that the MCPO breached the Lease, and sought the damages provided under the Lease. The MCPO filed its answer on April 14, 2004, asserting affirmative defenses and a counterclaim premised on a wrongful eviction theory. In its counterclaim, MCPO initially alleged that it had been constructively evicted in January 2003. On July 18, 2005, the MCPO sought leave to amend its counterclaim, stating that the January 2003 allegation had been an error in dates. To correct that error in the amended counterclaim, the MCPO changed an allegation that it was constructively evicted in August 2002.
+
+On January 9 through 11, 2007, the trial court held a bench trial. Thereafter, the parties submitted proposed findings of fact and conclusions of law pursuant to Ind. Trial Rule 52(C). The trial court's judgment held that: (1) the MCPO's defenses and counterclaim were not barred by the Lease's exclusive-remedy provisions; (2) the MCPO was "actually" evicted in October 2002 and then "constructively" evicted in January 2003; and (3) assuming the Landlord could recover against the MCPO, the Landlord did not mitigate its damages reasonably. MCPO was awarded $7,664 and costs on its wrongful eviction counterclaim.
+
+Landlord now appeals. Additional facts will be provided as necessary.
+
+DISCUSSION AND DECISION
+
+I. Standard of Review
+
+The trial court entered findings of fact and conclusions of law pursuant to T.R. 52. Thus, we apply a two-tiered standard of review considering whether the evidence supports the findings and whether the findings support the judgment. Todd Heller, Inc. v. Indiana Dep't of Transp., 819 N.E.2d 140, 146 (Ind.Ct.App.2004), trans. denied. The trial court's findings and conclusions will be set aside only if they are clearly erroneous, that is, if the record contains no facts or inferences supporting them. Id. A judgment is clearly erroneous when a review of the record leaves us with a firm conviction that a mistake has been made. Id. We neither reweigh the evidence nor assess the credibility of witnesses, but consider only the evidence most favorable to the judgment. Id.
+
+Where, as here, the party who had the burden of proof at trial appeals, he appeals from a negative judgment and will prevail
+only if he establishes that the judgment is contrary to law. Id. A judgment is contrary to law when the evidence is without conflict and all reasonable inferences to be drawn from the evidence lead to only one conclusion, but the trial court reached a different conclusion. Id.
+
+II. Exclusive-Remedy Provision
+
+Landlord argues that the trial court's judgment is clearly erroneous because it ignored the exclusive-remedy provision of the Lease by concluding that the MCPO had been constructively evicted. Specifically, Landlord argues that the exclusive-remedy provision is permissible under Indiana law and the trial court erred by granting MCPO a remedy prohibited by that provision.
+
+Indiana courts have recognized the contractual nature of leases and the applicability of the law of contracts to leases. See Sigsbee v. Swathwood, 419 N.E.2d 789, 796 (Ind.Ct.App.1981). The construction of a written contract is a question of law. Boonville Convalescent Ctr., Inc. v. Cloverleaf Healthcare Servs., 834 N.E.2d 1116, 1121 (Ind.Ct.App.2005), reh'g denied, trans. denied. When interpreting a contract, our paramount goal is to ascertain and effectuate the intent of the parties. Id. This requires the contract to be read as a whole, and the language construed so as not to render any words, phrases, or terms ineffective or meaningless. Id. Where the terms of a contract are clear and unambiguous, we will not construe the contract or look at extrinsic evidence, but will apply the contractual provisions. Coates v. Jaye, 633 N.E.2d 334, 337 (Ind.Ct.App.1994), reh'g denied, trans. denied.
+
+The provision of the Lease which Landlord refers to as the exclusive-remedy provision, provides as follows:
+
+    Section 15.04. Default by Landlord and Remedies by Tenant. It shall be a default under and breach of this Lease by Landlord if it shall fail to perform or observe any term, condition, covenant or obligation required to be performed or observed by it under this Lease for a period of thirty (30) days after notice thereof from Tenant; provided, however, that if the term, condition, covenant or obligation to be performed by Landlord is of such nature that the same cannot reasonably be performed within such thirty-day period, such default shall be deemed to have been cured if Landlord commences such performance within said thirty-day period and thereafter diligently undertakes to complete the same, and further failure to perform or observe any term, condition, covenant or obligation under this Lease is due to causes beyond the reasonable control of Landlord. Upon the occurrence of any such default, Tenant may sue for injunctive relief or to recover damages for any loss resulting from the breach, but Tenant shall not be entitled to terminate this Lease or withhold, setoff or abate any rent due thereunder.
+
+(Appellant's Addendum to Br., tab 1) (emphasis added).
+
+Landlord encourages us to apply Simon Property Group, L.P. v. Michigan Sporting Goods Distributors, Inc., 837 N.E.2d 1058 (Ind.Ct.App.2005), trans. denied, and conclude that the remedy provision of the Lease is exclusive and bars any other remedy, such as the one utilized by the trial court. In Simon Property Group, tenant MC Sports claimed that Simon breached a term of its lease by allowing Dick's Sporting Goods to open a competing site at the Tippecanoe Mall. Id. at 1062. The lease provision at issue provided that in the event of breach, "Tenant shall have the right to pay [reduced rent]." Id. at 1074. Relying on the contract interpretation principles that require us to read contracts as a whole without conflict, and noting that
+no other remedy was articulated in the section, we declined to read the availability of additional remedies into the lease. Id. Our then-Chief Judge Kirsch, dissented from the majority on the issue of available remedies. Id. at 1075. He noted that the section made "no statement that reduced rent is the `only,' the `sole' or the `exclusive' remedy for such breach. Nothing in the section, nor elsewhere in the lease, limits the rights or remedies of [MC Sports] regarding such a breach in any way." Id.
+
+The Lease before us here announced available remedies and additionally proscribed certain rights or remedies typically available to tenants such as the MCPO. As a result, section 15.04 of the Lease would restrict the remedies available to the MCPO according to either the holding of the majority or the rationale of the dissent in Simon Property Group. Moreover, "Indiana courts recognize the freedom of parties to enter into contracts and, indeed, presume that contracts represent the freely bargained agreement of the parties. This reflects the principle that it is in the best interest of the public not to restrict unnecessarily persons' freedom of contract." Fresh Cut v. Fazli, 650 N.E.2d 1126, 1129 (Ind.1995). Thus, we conclude from the unambiguous language of the Lease that the MCPO did not have the right to terminate the Lease or withhold, setoff, or abate any rent due. However, this determination is not dispositive of the dispute before us.
+
+III. Eviction
+
+A. The Effects of Eviction on Obligations Under the Lease
+
+The trial court found that the MCPO was actually evicted from the leased premises beginning in October of 2002, and was then constructively evicted as of January 28, 2003, due to repeated and un-remedied water intrusions. In explaining the theories of eviction, our supreme court stated the following:
+
+    Eviction is either actual or constructive, [] actual when the tenant is deprived of the occupancy of some part of the demised premises, and constructive when the lessor, without intending to oust the lessee, does an act by which the latter is deprived of the beneficial enjoyment of some part of the premises, in which case the tenant has his right of election, to quit, and avoid the lease and rent, or abide the wrong and seek his remedy in an action for the trespass. But in every case of constructive eviction the tenant must quit the premises if he would relieve himself from liability to pay rent; and whether or not he is justifiable in so quitting is a question for the jury.
+
+Talbott v. English, 156 Ind. 299, 307-08, 59 N.E. 857, 860 (1901).
+
+In further explaining the nature of actual eviction and the effects thereof on the obligations of a tenant, the Talbott court stated:
+
+    It may be said that in every lease there is an implied covenant that the tenant shall have the right of possession, occupancy, and beneficial use of every portion of the leased premises. The tenant is regarded as having hired the use of the property as an entirety, and therefore if the landlord, after the grant, deprives the tenant of the possession and enjoyment of any part of the premises, the landlord shall not be entitled to any part of the rent during the time he thus deprives the tenant of this rights. The landlord may not apportion the rent by his own wrong.
+
+Id. at 859. We have more recently articulated this concept by stating:
+
+    The general rule is that a tenant will be relieved of any obligation to pay further
+    rent if the landlord deprives the tenant of possession and beneficial use and enjoyment of any part of the demised premises by actual eviction. [] Stated differently, after termination the lease and all liability under it for future rent are extinguished.
+
+Gigax v. Boone Village Ltd. Partnership, 656 N.E.2d 854, 858 (Ind.Ct.App.1995) (internal citations and quotation marks omitted) (emphasis in original).
+
+In Sigsbee, we summarized the theory of constructive eviction by explaining:
+
+    If an act or omission by the lessor materially deprives the lessee of the beneficial use or enjoyment of the lease property, the lessee may elect to abandon the property and avoid further obligations under the lease. If the lessee so elects, the abandonment of the property must occur within a reasonable time after the act or omission.
+
+Sigsbee, 419 N.E.2d at 795. Thus, if a landlord commits acts or omissions sufficient to actually evict the tenant, the tenant is no longer obligated to pay rent. And likewise, if a landlord commits acts or omissions sufficient to constructively evict the tenant, and the tenant leaves within a reasonable period, the tenant is no longer obligated to pay rent under the lease.
+
+Here, the trial court concluded that "it would be contrary to public policy to permit a landlord to completely eliminate a Tenant's remedy of constructive eviction if conditions are such that the leased property is unusable." (Appellant's Br. p. 88). However, we find that it is unnecessary to resort to a consideration of public policy to determine this dispute since the unambiguous terms of the exclusive-remedy provision did not prohibit Landlord from evicting the MCPO. The exclusive-remedy provision limited only the MCPO's ability to "terminate this Lease or withhold, setoff or abate any rent due thereunder." (Appellant's Addendum to Br. tab 1). Upon the occurrence of eviction, either actual or constructive, it is the lessor's act or omission that ends the obligation to pay rent, not the lessee. See Sigsbee, 419 N.E.2d at 795. Therefore, since we conclude below that the trial court's findings that the MCPO had been wrongfully evicted were not clearly erroneously, we hold that it was the Landlord's own act or omission that resulted in extinguishing MCPO's future rent payment obligations.
+
+II. MCPO Was Wrongfully Evicted
+
+Landlord contends that the trial court erred when it found that the MCPO had been evicted. Specifically, Landlord argues that the uncontroverted testimony, largely by the MCPO's own witnesses, contradict the findings and conclusions entered by the trial court, and therefore are clearly erroneous and should be reversed.
+
+In reviewing the record, we observe that the trial court concluded that Landlord actually evicted the MCPO in October of 2002 when "Landlord informed the [MCPO] to refrain from using those portions of the leased space `most vulnerable to water.'" (Appellant's App. p. 8). We also observe the trial court concluded the MCPO was "constructively evicted as of January 28, 2003, due to repeated unremedied water intrusions." (Appellant's Br. p. 49).
+
+As we stated above, actual eviction occurs when a tenant is deprived of a material part of the leased premises, and constructive eviction occurs when an interference with possession so serious that it deprives the lessee of the beneficial enjoyment of the leased premises. Talbott, 156 Ind. at 307-08, 59 N.E. at 860. When a transitory and fleeting interference by the lessor with the lessee's possession occurs, there is no eviction, but a mere trespass, for which the lessee is entitled to damages.
+Talbot v. Citizens Nat. Bank of Evansville, 389 F.2d 207, 210 (7th Cir.1968).
+
+In challenging the trial court's conclusion of eviction, Landlord first urges us to discredit those findings because the trial court adopted its findings of fact nearly verbatim from the proposed findings of the MCPO. In support of his argument, Landlord cites to Prowell v. State, 741 N.E.2d 704, 708-09 (Ind.2001), in which our supreme court stated:
+
+    It is not uncommon for a trial court to enter findings that are verbatim reproductions of submissions by the prevailing party. The trial courts of this state are faced with an enormous volume of cases and few have the law clerks and other resources that would be available in a more perfect world to help craft more elegant trial court findings and legal reasoning. We recognize that the need to keep the docket moving is properly a high priority of our trial bench. For this reason, we do not prohibit the practice of adopting a party's proposed findings. But when this occurs, there is an inevitable erosion of the confidence of an appellate court that the findings reflect the considered judgment of the trial court. This is particularly true when the issues in the case turn less on the credibility of witnesses than on the inferences to be drawn from the facts and the legal effect of essentially unchallenged testimony.
+
+Prowell v. State, 741 N.E.2d 704, 708-09 (Ind.2001). While we share our supreme court's concern regarding findings that are verbatim reproductions, the fact that a trial court adopted the proposed findings of one party does not necessarily make those findings clearly erroneous.
+
+Further, Landlord argues that testimony by employees or agents of the MCPO, stating that each incident of water intrusions and related problems were temporary or eventually fixed, is uncontroverted evidence which shows that the trial court's findings of both actual and constructive eviction are clearly erroneous. To the contrary, when reviewing the record, we find substantial evidence supporting the trial court's findings that the water intrusions were recurring, which in turn supports a finding that they were not transitory or fleeting. See Talbot, 389 F.2d at 210. Moreover, it was Landlord who suggested to the MCPO that it should move evidence and materials out of areas of the leased premises that were vulnerable to water, showing the Landlord's acknowledgement that water leaks would recur. Additionally, this evidence supports the trial court's findings that the MCPO was deprived of a material part of the leased premises by these water intrusions and related problems. Essentially, Landlord is asking us to reweigh evidence, which is something we cannot do. See City of Evansville, v. Conley, 661 N.E.2d 570, 578 (Ind.Ct.App. 1996), trans. denied. We are not firmly convinced that a mistake has been made and thus cannot say that the trial court's findings are clearly erroneous. Id.
+
+IV. Was the MCPO's Defense and Counterclaim Untimely
+
+Finally, Landlord argues that the MCPO's defense asserting that it had been evicted and its counterclaim were untimely. The Lease provided a limitation on the MCPO's time to bring claims:
+
+    Section 15.05. Tenant's Time to Sue.
+
+    A. Any claim, demand, right or defense by Tenant that arises out of this lease or the negotiations that precede this Lease shall be barred unless Tenant commences an action thereon, or interposes a defense by reason thereof, within one (1) year after the date of the inaction, omission, event, or action that gave rise
+    to such claim, demand, right or defense.
+
+    B. Tenant acknowledges and understands, after having consulted with its legal counsel, that the purpose of Paragraph A is to shorten the period within which Tenant would otherwise have to raise such claims, demands, rights or defenses under applicable laws.
+
+(Appellant's Add., tab 2).
+
+Landlord argues that this language required the MCPO to bring its defenses and/or claims within one year of January 28, 2003, the date of the last water intrusion, even though Landlord did not file suit until February 2004. However, since we have concluded that the trial court did not commit clear error when it found that the MCPO had been evicted, and that such eviction ended the MCPO's obligation to pay rent, we cannot say that the MCPO could be barred from asserting such a legal defense. If so, the Landlord would have the authority to intentionally dispossess the MCPO of the leased premises at the onset of the lease, wait one year to sue the MCPO for the entirety of the rent owed under the Lease, and the MCPO would be defenseless. To prevent this scenario, the MCPO is forced to sue the Landlord although they have been wrongfully evicted though no fault of their own. This would be an absurd result that we cannot endorse. See USA Life One Ins. Co. of Indiana v. Nuckolls, 682 N.E.2d 534, 539 (Ind.1997) ("[I]f the plain and ordinary meaning `would lead to some absurdity, or some repugnance or inconsistency with the rest of the instrument,' then `the grammatical and ordinary sense of the words may be modified, so as to avoid that absurdity and inconsistency'"). Therefore, we interpret this provision defining "Tenant's Time to Sue" as barring the MCPO from initiating an action more than one year after an alleged action or omission by the Landlord. Thus, we conclude since it was the Landlord who brought this action, the MCPO's defense and counterclaim were not barred by the Lease.
+
+CONCLUSION
+
+For the foregoing reasons we conclude that (1) the exclusive-remedy provision of the Lease did not bar the MCPO from asserting a wrongful eviction defense; (2) the trial court's findings that the MCPO had been both constructively evicted and actually evicted were not clearly erroneous; and (3) the provision of the Lease defining the MCPO's time to sue did not bar the MCPO from asserting wrongful eviction as a defense or bringing counterclaims when the Landlord initiated the action.
+
+Affirmed.

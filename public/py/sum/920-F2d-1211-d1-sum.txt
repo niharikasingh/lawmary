@@ -1,4 +1,2 @@
-I concur in the majority opinion, except to note that Owen Equipment & Erection Co. v. Kroger, 437 U.S. 365, 98 S.Ct.
-2396, 57 L.Ed.2d 274 (1978) does not entirely resolve the issue of the applicability of Finley v. United States, 490 U.S. 545, 109 S.Ct.
-In speaking with approval of ancillary jurisdiction in cases of third party actions, Owen was referring to impleader under Rule 14.
-Finley should not be read so broadly as to upset a flexible approach to ancillary jurisdiction in a case such as the one at hand 
+The case at bar differs from the impleader described in Owen in that 417 Fifth's alleged liability to Towers,  which is to be asserted pursuant to a Rule 13(h) joinder to a counterclaim, does not logically depend upon Towers' alleged liability to Associated. Nonetheless, if not a logical dependency, there is a logical relationship and an intertwining between Towers' proposed claim against 417 Fifth and the underlying action.
+denied 434 U.S. 1035, 98 S.Ct. 769, 54 L.Ed.2d 782 (1978); United Artists Corp. v. Masterpiece Prods. Inc., 221 F.2d 213 (2d Cir.1955). Finley should not be read so broadly as to upset a flexible approach to ancillary jurisdiction in a case such as the one at hand 

@@ -1,0 +1,88 @@
+Per Curiam:
+
+In this action the circuit court issued a declaratory judgment that Buyers Service Company, Inc. (Buyers Service) has illegally engaged in the practice of law. Additionally, Buyers Service was enjoined from performing future acts *428 deemed to constitute the practice of law. We affirm in part and reverse in part.
+FACTS
+
+Buyers Service is a commercial title company which also assists homeowners in purchasing residential real estate. Its principal place of business is Hilton Head Island.
+
+The State brought this action alleging Buyers Service has engaged in the unauthorized practice of law by: (1) providing reports, opinions or certificates as to the status of titles to real estate and mortgage liens; (2) preparing documents affecting title to real property; (3) handling real estate closings; (4) recording legal documents at the courthouse; and (5) advertising to the public that it may handle conveyancing and real estate closings.
+
+Buyers Service's clients are usually prospective home purchasers referred by local real estate agents. Its general procedures for handling a real estate transaction are as follows:
+
+After a client is referred, Buyers, Service receives an executed contract of sale from the realtor. If the sale involves a mortgage, the buyer makes an application to a local lender. If the lender approves the loan, it notifies Buyers Service and sends a letter of commitment to the buyer stating the terms. Buyers Service then orders the loan package from the lender. This consists of a set of instructions, a note and mortgage, truth in lending statement, HUD-1 Statement, miscellaneous affidavits regarding employment, and other forms. The documents arrive in various degrees of completion depending upon the particular lender. Buyers Service fills in the mortgagor-mortgagee on the mortgage, the grantor-grantee on the deed, consideration, the legal description and other blank spaces.
+
+Buyers Service sends the completed forms to the purchaser for his examination and signature. Thereafter, the lender examines the loan package and funds the loan. Buyers Service deposits the loan proceeds check in its escrow account and disburses the funds according to the HUD-1 Statement and the closing instructions. Buyers Service also prepares settlement statements after loans are closed.
+
+When a title search is necessary, Buyers Service sends an *429 employee to the courthouse to abstract the title. The purchaser pays $50 for this service. The abstract is reviewed by a non-attorney employee who determines if the seller has fee simple title to the property. Buyers Service gives purchasers a fact sheet describing three ways to hold fee simple in South Carolina. If a purchaser has questions, an employee of Buyers Service elaborates. The purchasers then tell Buyers Service how they wish to hold title.
+
+Subsequent to the commencement of the litigation, Buyers Service retained an attorney to review its closing documents. The attorney, whose name and charges appear on the settlement sheet, receives $35 for this service. Buyers Service pays this fee and passes it on to the purchaser. There is no direct contact between the attorney and the purchaser.
+
+Buyers Service conducts closings without any attorney present. The majority are handled by mail. For these, Buyers Service sends written instructions to the parties as to the manner of signing the legal documents. When the purchaser comes to Buyers Service's office for the closing, an employee supervises the signing of the legal documents. If the purchaser has any questions, the employee answers them or refers the purchaser to the mortgage lender.
+
+Buyers Service has legal instruments hand-carried or mailed to the courthouse for recording. It sends a form instruction letter with each set of documents but does not take responsibility for ensuring proper recording, which it maintains is the responsibility of the clerk of court.
+
+The circuit court's order enjoins Buyers Service from the following activities:
+
+"1. Providing reports, opinions or certificates as to the status of real estate titles to persons other than attorneys licensed to practice law in the State of South Carolina and seeking separate compensation for performing title work in connection with [Buyers Service's] title insurance business.
+
+2. Preparing deeds, mortgages, notes and other legal instruments related to transfer of real property or mortgage loans.
+
+3. Giving legal advice during the closing of real estate transfers or real estate mortgage loan transactions.
+
+4. Advertising to the general public that the Defendant is *430 a full-service closing company and may handle complete real estate closings, practice law, or perform any activity constituting the practice of law."
+
+Both Buyers Service and the State have appealed.
+DISCUSSION
+
+This court in In re Duncan, 83 S.C. 186, 189, 65 S.E. 210, 211 (1909) held the practice of law includes "... conveyancing, the preparation of legal instruments of all kinds, and, in general, all advice to clients, and all action for them in matters connected with the law." See also State v. Wells, 191 S.C. 468, 5 S.E. (2d) 181 (1939); Matter of Easler, 275 S.C. 400, 272 S.E. (2d) 32 (1980). Additionally, S.C. Code Ann. § 40-5-320 (1986) strictly prohibits corporations from the practice of law.
+A. Preparation of Instruments
+
+Buyers Service contends the circuit court erred in holding it may not prepare deeds, notes and other instruments related to mortgage loans and transfers of real property. It argues the forms are standard and require no creative drafting. The State counters that preparation of instruments falls within the definition of the practice of law of In re Duncan, and that Buyers Service acts as more than a mere scrivener in the process. We agree.
+
+The practice of law is not confined to litigation, but extends to activities in other fields which entail specialized legal knowledge and ability. Often, the line between such activities and permissible business conduct by non-attorneys is unclear. However, courts of other jurisdictions considering the issue of whether preparation of instruments involves the practice of law have held that it does.
+
+In Pioneer Title Ins. & Trust Co. v. State Bar of Nev., 74 Nev. 186, 326 P. (2d) 408 (1958) escrow agents were enjoined from preparation of instruments necessary to effectuate real estate sales transactions. The court reasoned that preparation of instruments, even with preprinted forms, involves more than a mere scrivener's duties. By necessity, the agents pass upon the legal sufficiency of the instruments to accomplish the contractual agreement of the parties. See also Arkansas Bar Ass'n v. Block, 230 Ark. 430, 323 S.W. (2d) 912, *431 cert. denied, 361 U.S. 836, 80 S. Ct. 87, 4 L.Ed. (2d) 76 (1959).
+
+The reason preparation of instruments by lay persons must be held to constitute the unauthorized practice of law is not for the economic protection of the legal profession. Rather, it is for the protection of the public from the potentially severe economic and emotional consequences which may flow from erroneous advice given by persons untrained in the law. This principle was stated by the Supreme Court of Washington in Bennion, Van Camp, Hagen & Ruhl v. Kassler Escrow, Inc., 96 Wash. (2d) 443, 635 P. (2d) 730 (1981). There, the legislature had enacted a statute authorizing escrow agents to perform services such as selection, preparation and completion of instruments in real estate transactions. The court previously had held these activities to constitute the unauthorized practice of law. See Washington State Bar Ass'n v. Great W. Union Fed. Sav. & Loan Ass'n, 91 Wash. (2d) 48, 586 P. (2d) 870 (1978). The statute was held unconstitutional on the ground it violated the court's exclusive power to regulate the practice of law:
+The statute fails to consider who is to determine whether such agents and employees of banks, etc., are possessed of the requisite skill, competence and ethics. Only the Supreme court has the power to make that determination through a bar examination, yearly Continuing Legal Education requirements, and the Code of Professional Responsibility. The public is also protected against unethical attorneys by a client's security fund maintained by the Washington State Bar Association.
+
+635 P. (2d) at 734.
+
+Similar protections are afforded to the public in South Carolina through this Court's regulation of attorney's competency and conduct.
+
+As noted in the statement of facts, Buyers Service has retained attorneys to review the closing documents. This does not save its activities from constituting the unauthorized practice of law. In State Bar of Ariz. v. Arizona Land Title & Trust Co., 90 Ariz. 76, 366 P. (2d) 1, reheard, 91 Ariz. 293, 371, P. (2d) 1020 (1962), a title company employed staff counsel to prepare legal instruments. The *432 court cited the Arizona prohibition against a corporation's practice of law similar to that in S.C. Code Ann. § 40-5-320 (1986). The court then noted the conflicts of interest inherent in such an arrangement, reasoning that the adverse interests in real estate transactions make it extremely difficult for the attorney to maintain a proper professional posture toward each party.
+
+We agree and hold the circuit court properly enjoined Buyers Service from the preparation of deeds, mortgages, notes and other legal instruments related to mortgage loans and transfers of real property.
+B. Title Abstracts
+
+Buyers Service next contends the circuit court erred in holding that preparation of title abstracts for persons other than attorneys constitutes the unauthorized practice of law. As noted in the statement of facts, the buyer pays Buyers Service $50 for title searches. However, the resulting title abstract is furnished not to the buyer, but to the mortgagee to certify that fee simple title will be vested in the buyer.
+
+The State argues that even though the buyer does not see the title abstract, he nevertheless relies upon it to determine if he receives good, marketable title. That is, because the buyer knows a title search has been conducted, he reasonably assumes title is good if nothing adverse is reported. We agree.
+
+The same principles which render the preparation of instruments the practice of law apply equally to the preparation of title abstracts. In Beach Abstract & Guar. Co. v. Bar Ass'n of Ark., 230 Ark. 494, 326 S.W. (2d) 900 (1959), the court relied upon its earlier holding in Arkansas Bar Ass'n v. Block, supra, in holding that title examination, when done for another, constitutes the practice of law. The court rejected the title insurance company's arguments that the examinations were performed only incidentally to its own business and that no separate fee was charged.
+
+We affirm the circuit court's injunction which provides Buyers Service may conduct title examinations and prepare abstracts only for the benefit of attorneys. The examination of titles required expert legal knowledge and skill. For the protection of the public such activities, if conducted by lay *433 persons, must be under the supervision of a licensed attorney.
+C. Real Estate Closings
+
+The terms of the circuit court's injunction permit Buyers Service to continue its practice of handling real estate and mortgage loan closings with the restriction that no legal advice be given to the parties during the closing sessions.
+
+The State contends instructing clients in the manner in which to execute legal documents is itself practice of law and requires a legal knowledge of statutes and case law. See, e.g., S.C. Code Ann. §§ 27-7-10 and 30-5-30 (1976). We agree.
+
+Courts of other jurisdictions have recognized dangers in allowing lay persons to handle real estate closings. See, e.g., Bowers v. Transamerica Title Ins. Co., 100 Wash. (2d) 581, 675 P. (2d) 193 (1983); Coffee County Abstract and Title Co. v. State ex rel. Norwood, 445 So. (2d) 852 (Ala. 1984); ConwayBogue Realty Inv. Co. v. Denver Bar Ass'n, 135 Colo. 398, 312 P. (2d) 998 (1957); Oregon State Bar v. Security Escrows, Inc., 233 Or. 80, 377 P. (2d) 334 (1962); New Jersey State Bar Ass'n v. Northern N.J. Mortgage Assocs., 32 N.J. 430, 161 A. (2d) 257 (1960).
+
+While some of these cases hold that lay persons may conduct closings, they note that giving advice as to the effect of the various instruments required to be executed constitutes the unauthorized practice of law. Thus, in Coffee County Abstract and Title Co., supra, the title company was permitted to conduct real estate closings with the restriction that no legal advice or opinions be given. Chief Justice Torbert, concurring, gave instructions as to how such a closing should be handled: "If the parties to the transaction raise a legal question at the closing, the title company should stop the proceeding and instruct them to consult their attorneys." 445 So. (2d) at 857.
+
+We agree this approach, in theory, would protect the public from receiving improper legal advice. However, there is in practice no way of assuring that lay persons conducting a closing will adhere to the restrictions. One handling a closing might easily be tempted to offer a few words of *434 explanation, however innocent, rather than risk losing a fee for his or her employer.
+
+We are convinced that real estate and mortgage loan closings should be conducted only under the supervision of attorneys, who have the ability to furnish their clients legal advice should the need arise and fall under the regulatory rules of this court. Again, protection of the public is of paramount concern.
+D. Recording Instruments
+
+The circuit court's order permits Buyers Service to continue its practice of mailing or hand-carrying instruments to the courthouse for recording. The State contends this activity is the practice of law. We agree.
+
+We do not consider the physical transportation or mailing of documents to the courthouse to be the practice of law. However, when this step takes place as part of a real estate transfer it falls under the definition of the practice of law as formulated by this court in In re Duncan, supra. It is an aspect of conveyancing and affects legal rights. The appropriate sequence of recording is critical in order to protect a purchaser's title to property.
+
+We conclude that instructions to the Clerk of Court or Register of Mesne Conveyances as to the manner of recording, if given by a lay person for the benefit of another, must be given under the supervision of an attorney.
+
+Both parties' remaining exceptions relating to evidentiary rulings are without merit, and we affirm pursuant to Supreme Court Rule 23.
+
+Affirmed in part and reversed in part.
