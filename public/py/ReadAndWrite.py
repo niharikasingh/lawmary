@@ -15,7 +15,7 @@ logging.basicConfig(stream=sys.stderr, level=logging.ERROR)
 def isHeading(testUnic):
     logging.debug('isHeading Function:\t testing string:\t {}'.format(testUnic.encode("utf8")))
     #remove material in square brackets
-    testUnic = re.sub(r'\[\d.*?\]', '', testUnic)
+    testUnic = re.sub(r'\[[0-9a-zA-Z_\.\s]*\d[0-9a-zA-Z_\.\s]*\]', '', testUnic)
     #if line has any characters except [A-Z \. \* 0-9] it is not a heading
     testUnic = re.sub(r'[A-Z\.\*0-9 ]', '', testUnic)
     if (len(testUnic) == 0):
@@ -60,6 +60,9 @@ def process(filename):
             except:
                 print filename
                 print line
+            #pass on empty lines
+            if (len(lineStripped) <= 0):
+                pass
             #join words split on different lines by '-'
             if (len(lineStripped) >= 1):
                 if (lineStripped[-1] == u"-"):
@@ -73,7 +76,6 @@ def process(filename):
                 text += lineStripped
     #ellipses should not be three separate sentences
     fixEllipses = u' . . . '
-    #fixEllipses = u'Foreign'
     text = text.replace(fixEllipses, u'...')
     #split into sentences
     tokenizer = nltk.data.load('tokenizers/punkt/english.pickle')

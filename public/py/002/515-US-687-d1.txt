@@ -1,0 +1,763 @@
+I think it unmistakably clear that the legislation at issue
+here (1) forbade the hunting and killing of endangered
+animals, and (2) provided federal lands and federal funds
+for the acquisition of private lands, to preserve the
+habitat of endangered animals. The Court's holding that
+the hunting and killing prohibition incidentally
+preserves habitat on private lands imposes unfairness to
+the point of financial ruin—not just upon the rich, but
+upon the simplest farmer who finds his land conscripted
+to national zoological use. I respectfully dissent.
+[515 U.S. 715] I
+The Endangered Species Act of 1973 (Act), 16 U. S. C. §
+1531 et seq. (1988 ed. and Supp. V), provides that "it is
+unlawful for any person subject to the jurisdiction of the
+United States to—. . . take any [protected] species within
+the United States." § 1538(a)(1)(B). The term "take" is
+defined as "to harass, harm, pursue, hunt, shoot, wound,
+kill, trap, capture, or collect, or to attempt to engage in
+any such conduct." § 1532(19) (emphasis added). The
+challenged regulation defines "harm" thus:
+"Harm in the definition of `take' in the Act means an act
+which actually kills or injures wildlife. Such act may
+include significant habitat modification or degradation
+where it actually kills or injures wildlife by significantly
+impairing essential behavioral patterns, including
+breeding, feeding or sheltering." 50 CFR § 17.3 (1994).
+In my view petitioners must lose—the regulation must
+fall— even under the test of Chevron U. S. A. Inc. v.
+Natural Resources Defense Council, Inc., 467 U.S. 837,
+843 (1984), so I shall assume that the Court is correct to
+apply Chevron. See ante, at 703-704, and n. 18.
+The regulation has three features which, for reasons I
+shall discuss at length below, do not comport with the
+statute. First, it interprets the statute to prohibit habitat
+modification that is no more than the cause-in-fact of
+death or injury to wildlife. Any "significant habitat
+modification" that in fact produces that result by
+"impairing essential behavioral patterns" is made
+unlawful, regardless of whether that result is intended
+or even foreseeable, and no matter how long the chain
+of causality between modification and injury. See, e. g.,
+Palila v. Hawaii Dept. of Land and Natural Resources,
+852 F.2d 1106, 1108-1109 (CA9 1988) (Palila II) (sheep
+grazing constituted "taking" of palila birds, since
+although sheep do not destroy full-grown mamane
+trees, they do destroy mamane seedlings, which will not
+grow to [515 U.S. 716] full-grown trees, on which the
+palila feeds and nests). See also Davison, Alteration of
+Wildlife Habitat as a Prohibited Taking under the
+Endangered Species Act, 10 J. Land Use & Envtl. L. 155,
+190 (1995) (regulation requires only causation-in-fact).
+Second, the regulation does not require an "act": The
+Secretary's officially stated position is that an omission
+will do. The previous version of the regulation made
+this explicit. See 40 Fed. Reg. 44412, 44416 (1975)
+("`Harm' in the definition of `take' in the Act means an
+act or omission which actually kills or injures wildlife . .
+."). When the regulation was modified in 1981 the
+phrase "or omission" was taken out, but only because (as
+the final publication of the rule advised) "the [Fish and
+Wildlife] Service feels that `act' is inclusive of either
+commissions or omissions which would be prohibited
+by section [1538(a)(1)(B)]." 46 Fed. Reg. 54748, 54750
+(1981). In their brief here petitioners agree that the
+regulation covers omissions, see Brief for Petitioners 47
+(although they argue that "[a]n `omission' constitutes an
+`act' . . . only if there is a legal duty to act"), ibid.
+The third and most important unlawful feature of the
+regulation is that it encompasses injury inflicted, not
+only upon individual animals, but upon populations of
+the protected species. "Injury" in the regulation includes
+"significantly impairing essential behavioral patterns,
+including breeding, " 50 CFR § 17.3 (1994) (emphasis
+added). Impairment of breeding does not "injure" living
+creatures; it prevents them from propagating, thus
+"injuring" a population of animals which would
+otherwise have maintained or increased its numbers.
+What the face of the regulation shows, the Secretary's
+official pronouncements confirm. The Final
+Redefinition of "Harm" accompanying publication of the
+regulation said that "harm" is not limited to "direct
+physical injury to an individual member of the wildlife
+species," 46 Fed. Reg. 54748 (1981), and refers to "injury
+to a population, " id., at 54749 (emphasis added). See
+also Palila II, supra, at 1108; [515 U.S. 717] Davison,
+supra, at 190, and n. 177, 195; M. Bean, The Evolution
+of National Wildlife Law 344 (1983).1
+None of these three features of the regulation can be
+found in the statutory provisions supposed to authorize
+it. The term "harm" in § 1532(19) has no legal force of
+its own. An indictment or civil complaint that charged
+the defendant with "harming" an animal protected
+under the Act would be dismissed as defective, for the
+only operative term in the statute is to "take." If "take"
+were not elsewhere defined in the Act, none could
+dispute what it means, for the term is as old as the law
+itself. To "take," when applied to wild animals, means to
+reduce those animals, by killing or capturing, to human
+control. See, e. g., 11 Oxford English Dictionary (1933)
+("Take . . . To catch, capture (a wild beast, bird, fish,
+etc.)"); Webster's New International Dictionary of the
+English Language (2d ed. 1949) (take defined as "to catch
+or capture by trapping, snaring, etc., or as prey"); Geer
+v. Connecticut, 161 U.S. 519, 523 (1896) ("`[A]ll the
+animals which can be taken upon the earth, in the sea,
+or in the air, that is to say, wild animals, belong to those
+who take them' ") (quoting the Digest of Justinian); 2
+W. Blackstone, Commentaries 411 (1766) ("Every man .
+. . has an equal right of pursuing and taking to his own
+use all such creatures as are ferae naturae "). This is just
+the sense in which "take" is used elsewhere in federal
+legislation and treaty. See, e. g., Migratory Bird Treaty
+Act, 16 U. S. C. § 703 (1988 ed., Supp. V) (no person
+may "pursue, hunt, take, capture, kill, [or] attempt to
+take, capture, or kill" any migratory bird); Agreement
+on the Conservation of Polar Bears, Nov. 15, 1973, Art.
+I, 27 U. S. T. 3918, 3921, T. I. A. S. No. 8409 (defining
+"taking" as "hunting, killing and capturing"). And that
+meaning fits neatly with the rest of § 1538(a)(1), which
+makes it unlawful not only to take protected species, but
+also to import or export them, [515 U.S. 718] §
+1538(a)(1)(A); to possess, sell, deliver, carry, transport,
+or ship any taken species, § 1538(a)(1)(D); and to
+transport, sell, or offer to sell them in interstate or
+foreign commerce, §§ 1538(a)(1)(E), (F). The taking
+prohibition, in other words, is only part of the
+regulatory plan of § 1538(a)(1), which covers all the
+stages of the process by which protected wildlife is
+reduced to man's dominion and made the object of
+profit. It is obvious that "take" in this sense—a term of
+art deeply embedded in the statutory and common law
+concerning wildlife—describes a class of acts (not
+omissions) done directly and intentionally (not
+indirectly and by accident) to particular animals (not
+populations of animals).
+The Act's definition of "take" does expand the word
+slightly (and not unusually), so as to make clear that it
+includes not just a completed taking, but the process of
+taking, and all of the acts that are customarily identified
+with or accompany that process ("to harass, harm,
+pursue, hunt, shoot, wound, kill, trap, capture, or
+collect"); and so as to include attempts. § 1532(19). The
+tempting fallacy—which the Court commits with
+abandon, see ante, at 697-698, n. 10—is to assume that
+once defined, "take" loses any significance, and it is only
+the definition that matters. The Court treats the statute
+as though Congress had directly enacted the § 1532(19)
+definition as a self-executing prohibition, and had not
+enacted § 1538(a)(1)(B) at all. But § 1538(a)(1)(B) is
+there, and if the terms contained in the definitional
+section are susceptible of two readings, one of which
+comports with the standard meaning of "take" as used in
+application to wildlife, and one of which does not, an
+agency regulation that adopts the latter reading is
+necessarily unreasonable, for it reads the defined term
+"take"—the only operative term—out of the statute
+altogether.2
+[515 U.S. 719] That is what has occurred here. The verb
+"harm" has a range of meaning: "to cause injury" at its
+broadest, "to do hurt or damage" in a narrower and
+more direct sense. See, e. g., 1 N. Webster, An American
+Dictionary of the English Language (1828) ("Harm, v.t.
+To hurt; to injure; to damage; to impair soundness of
+body, either animal or vegetable") (emphasis added);
+American College Dictionary 551 (1970) ("harm . . . n.
+injury; damage; hurt: to do him bodily harm "). In fact
+the more directed sense of "harm" is a somewhat more
+common and preferred usage; "harm has in it a little of
+the idea of specially focused hurt or injury, as if a
+personal injury has been anticipated and intended." J.
+Opdycke, Mark My Words: A Guide to Modern Usage
+and Expression 330 (1949). See also American Heritage
+Dictionary 662 (1985) ("Injure has the widest range. . . .
+Harm and hurt refer principally to what causes physical
+or mental distress to living things"). To define "harm" as
+an act or omission that, however remotely, "actually kills
+or injures" a population of wildlife through habitat
+modification is to choose a meaning that makes
+nonsense of the word that "harm" defines—requiring us
+to accept that a farmer who tills his field and causes
+erosion that makes silt run into a nearby river which
+depletes oxygen and thereby "impairs [the] breeding" of
+protected fish has "taken" or "attempted to take" the fish.
+It should take the strongest evidence to make us believe
+that Congress has defined a term in a manner repugnant
+to its ordinary and traditional sense.
+Here the evidence shows the opposite. "Harm" is merely
+one of 10 prohibitory words in § 1532(19), and the
+other 9 fit the ordinary meaning of "take" perfectly. To
+"harass, pursue, hunt, shoot, wound, kill, trap, capture,
+or collect" are [515 U.S. 720] all affirmative acts (the
+provision itself describes them as "conduct," see §
+1532(19)) which are directed immediately and
+intentionally against a particular animal—not acts or
+omissions that indirectly and accidentally cause injury to
+a population of animals. The Court points out that
+several of the words ("harass," "pursue," "wound," and
+"kill") "refer to actions or effects that do not require
+direct applications of force. " Ante, at 701 (emphasis
+added). That is true enough, but force is not the point.
+Even "taking" activities in the narrowest sense, activities
+traditionally engaged in by hunters and trappers, do not
+all consist of direct applications of force; pursuit and
+harassment are part of the business of "taking" the prey
+even before it has been touched. What the nine other
+words in § 1532(19) have in common—and share with
+the narrower meaning of "harm" described above, but
+not with the Secretary's ruthless dilation of the word—
+is the sense of affirmative conduct intentionally directed
+against a particular animal or animals.
+I am not the first to notice this fact, or to draw the
+conclusion that it compels. In 1981 the Solicitor of the
+Fish and Wildlife Service delivered a legal opinion on §
+1532(19) that is in complete agreement with my
+reading:
+"The Act's definition of `take' contains a list of actions
+that illustrate the intended scope of the term . . . . With
+the possible exception of `harm,' these terms all
+represent forms of conduct that are directed against and
+likely to injure or kill individual wildlife. Under the
+principle of statutory construction, ejusdem generis, . . .
+the term `harm' should be interpreted to include only
+those actions that are directed against, and likely to
+injure or kill, individual wildlife." Memorandum of Apr.
+17, reprinted in 46 Fed. Reg. 29490, 29491 (1981)
+(emphasis in original).
+I would call it noscitur a sociis, but the principle is much
+the same: The fact that "several items in a list share an
+attribute [515 U.S. 721] counsels in favor of interpreting
+the other items as possessing that attribute as well,"
+Beecham v. United States, 511 U.S. 368, 371 (1994). The
+Court contends that the canon cannot be applied to
+deprive a word of all its "independent meaning," ante, at
+702. That proposition is questionable to begin with,
+especially as applied to long lawyers' listings such as this.
+If it were true, we ought to give the word "trap" in the
+definition its rare meaning of "to clothe" (whence
+"trappings")—since otherwise it adds nothing to the
+word "capture." See Moskal v. United States, 498 U.S.
+103, 120 (1990) (Scalia, J., dissenting). In any event, the
+Court's contention that "harm" in the narrow sense adds
+nothing to the other words underestimates the
+ingenuity of our own species in a way that Congress did
+not. To feed an animal poison, to spray it with mace, to
+chop down the very tree in which it is nesting, or even
+to destroy its entire habitat in order to take it (as by
+draining a pond to get at a turtle), might neither wound
+nor kill, but would directly and intentionally harm.
+The penalty provisions of the Act counsel this
+interpretation as well. Any person who "knowingly"
+violates § 1538(a)(1)(B) is subject to criminal penalties
+under § 1540(b)(1) and civil penalties under §
+1540(a)(1); moreover, under the latter section, any
+person "who otherwise violates" the taking prohibition
+(i. e., violates it un knowingly) may be assessed a civil
+penalty of $500 for each violation, with the stricture that
+"[e]ach such violation shall be a separate offense." This
+last provision should be clear warning that the
+regulation is in error, for when combined with the
+regulation it produces a result that no legislature could
+reasonably be thought to have intended: A large number
+of routine private activities—for example, farming,
+ranching, roadbuilding, construction and logging—are
+subjected to strict-liability penalties when they
+fortuitously injure protected wildlife, no matter how
+remote the chain of causation and no matter how
+difficult to foresee (or to disprove) the "injury" may be
+(e. g., [515 U.S. 722] an "impairment" of breeding). The
+Court says that "[the strict-liability provision] is
+potentially sweeping, but it would be so with or without
+the Secretary's `harm' regulation." Ante, at 696, n. 9.
+That is not correct. Without the regulation, the routine
+"habitat modifying" activities that people conduct to
+make a daily living would not carry exposure to strict
+penalties; only acts directed at animals, like those
+described by the other words in § 1532(19), would risk
+liability.
+The Court says that "[to] read a requirement of intent or
+purpose into the words used to define `take' . . .
+ignore[s] [§ 1540's] express provision that a `knowin[g]'
+action is enough to violate the Act." Ante, at 701-702.
+This presumably means that because the reading of §
+1532(19) advanced here ascribes an element of
+purposeful injury to the prohibited acts, it makes
+superfluous (or inexplicable) the more severe penalties
+provided for a "knowing" violation. That conclusion
+does not follow, for it is quite possible to take protected
+wildlife purposefully without doing so knowingly. A
+requirement that a violation be "knowing" means that
+the defendant must "know the facts that make his
+conduct illegal," Staples v. United States, 511 U.S. 600,
+606 (1994). The hunter who shoots an elk in the
+mistaken belief that it is a mule deer has not knowingly
+violated § 1538(a)(1)(B)—not because he does not know
+that elk are legally protected (that would be knowledge
+of the law, which is not a requirement, see ante, at 696-
+697, n. 9), but because he does not know what sort of
+animal he is shooting. The hunter has nonetheless
+committed a purposeful taking of protected wildlife, and
+would therefore be subject to the (lower) strict-liability
+penalties for the violation.
+So far I have discussed only the immediate statutory text
+bearing on the regulation. But the definition of "take" in
+§ 1532(19) applies "[f]or the purposes of this chapter,"
+that is, it governs the meaning of the word as used
+everywhere in the Act. Thus, the Secretary's
+interpretation of "harm" is wrong if it does not fit with
+the use of "take" throughout [515 U.S. 723] the Act. And
+it does not. In § 1540(e)(4)(B), for example, Congress
+provided for the forfeiture of "[a]ll guns, traps, nets, and
+other equipment . . . used to aid the taking, possessing,
+selling, [etc.]" of protected animals. This listing plainly
+relates to "taking" in the ordinary sense. If
+environmental modification were part (and necessarily a
+major part) of taking, as the Secretary maintains, one
+would have expected the list to include "plows,
+bulldozers, and backhoes." As another example, §
+1539(e)(1) exempts "the taking of any endangered
+species" by Alaskan Indians and Eskimos "if such taking
+is primarily for subsistence purposes"; and provides that
+"[n]on-edible byproducts of species taken pursuant to
+this section may be sold . . . when made into authentic
+native articles of handicrafts and clothing." Surely these
+provisions apply to taking only in the ordinary sense,
+and are meaningless as applied to species injured by
+environmental modification. The Act is full of like
+examples. See, e. g., § 1538(a)(1)(D) (prohibiting
+possession, sale, and transport of "species taken in
+violation" of the Act). "[I]f the Act is to be interpreted as
+a symmetrical and coherent regulatory scheme, one in
+which the operative words have a consistent meaning
+throughout," Gustafson v. Alloyd Co., 513 U.S. 561, 569
+(1995), the regulation must fall.
+The broader structure of the Act confirms the
+unreasonableness of the regulation. Section 1536
+provides:
+"Each Federal agency shall . . . insure that any action
+authorized, funded, or carried out by such agency . . . is
+not likely to jeopardize the continued existence of any
+endangered species or threatened species or result inthe
+destruction or adverse modification of habitat of such
+species which is determined by the Secretary . . . to be
+critical." 16 U. S. C. § 1536(a)(2) (emphasis added).
+The Act defines "critical habitat" as habitat that is
+"essential to the conservation of the species," §§
+1532(5)(A)(i), (A)(ii), with "conservation" in turn
+defined as the use of methods [515 U.S. 724] necessary to
+bring listed species "to the point at which the measures
+provided pursuant to this chapter are no longer
+necessary," § 1532(3).
+These provisions have a double significance. Even if §§
+1536(a)(2) and 1538(a)(1)(B) were totally independent
+prohibitions—the former applying only to federal
+agencies and their licensees, the latter only to private
+parties—Congress's explicit prohibition of habitat
+modification in the one section would bar the inference
+of an implicit prohibition of habitat modification in the
+other section. "[W]here Congress includes particular
+language in one section of a statute but omits it in
+another . . . , it is generally presumed that Congress acts
+intentionally and purposely in the disparate inclusion or
+exclusion." Keene Corp. v. United States, 508 U.S. 200,
+208 (1993) (internal quotation marks omitted). And that
+presumption against implicit prohibition would be even
+stronger where the one section which uses the language
+carefully defines and limits its application. That is to say,
+it would be passing strange for Congress carefully to
+define "critical habitat" as used in § 1536(a)(2), but leave
+it to the Secretary to evaluate, willy-nilly, impermissible
+"habitat modification" (under the guise of "harm") in §
+1538(a)(1)(B).
+In fact, however, §§ 1536(a)(2) and 1538(a)(1)(B) do not
+operate in separate realms; federal agencies are subject
+to both, because the "person[s]" forbidden to take
+protected species under § 1538 include agencies and
+departments of the Federal Government. See §
+1532(13). This means that the "harm" regulation also
+contradicts another principle of interpretation: that
+statutes should be read so far as possible to give
+independent effect to all their provisions. See Ratzlaf v.
+United States, 510 U.S. 135, 140-141 (1994). By defining
+"harm" in the definition of "take" in § 1538(a)(1)(B) to
+include significant habitat modification that injures
+populations of wildlife, the regulation makes the
+habitat-modification restriction in § 1536(a)(2) almost
+wholly superfluous. As "critical habitat" is habitat
+"essential to the conservation of the [515 U.S. 725]
+species," adverse modification of "critical" habitat by a
+federal agency would also constitute habitat
+modification that injures a population of wildlife.
+Petitioners try to salvage some independent scope for §
+1536(a)(2) by the following contortion: Because the
+definition of critical habitat includes not only "the
+specific areas within the geographical area occupied by
+the species [that are] essential to the conservation of the
+species," § 1532(5)(A)(i), but also "specific areas outside
+the geographical area occupied by the species at the time
+it is listed [as a protected species] . . . [that are] essential
+to the conservation of the species," § 1532A(5)(ii), there
+may be some agency modifications of critical habitat
+which do not injure a population of wildlife. See Brief
+for Petitioners 41, and n. 27. This is dubious to begin
+with. A principal way to injure wildlife under the
+Secretary's own regulation is to "significantly impai[r] . .
+. breeding," 50 CFR § 17.3 (1994). To prevent the
+natural increase of a species by adverse modification of
+habitat suitable for expansion assuredly impairs
+breeding. But even if true, the argument only narrows
+the scope of the superfluity, leaving as so many wasted
+words the § 1532(a)(5)(i) definition of critical habitat to
+include currently occupied habitat essential to the
+species' conservation. If the Secretary's definition of
+"harm" under § 1538(a)(1)(B) is to be upheld, we must
+believe that Congress enacted § 1536(a)(2) solely
+because in its absence federal agencies would be able to
+modify habitat in currently unoccupied areas. It is more
+rational to believe that the Secretary's expansion of §
+1538(a)(1)(B) carves out the heart of one of the central
+provisions of the Act.
+II
+The Court makes four other arguments. First, "the
+broad purpose of the [Act] supports the Secretary's
+decision to extend protection against activities that
+cause the precise harms Congress enacted the statute to
+avoid." Ante, at 698. [515 U.S. 726] I thought we had
+renounced the vice of "simplistically .. . assum[ing] that
+whatever furthers the statute's primary objective must
+be the law." Rodriguez v. United States, 480 U.S. 522,
+526 (1987) (per curiam) (emphasis in original).
+Deduction from the "broad purpose" of a statute begs
+the question if it is used to decide by what means (and
+hence to what length ) Congress pursued that purpose;
+to get the right answer to that question there is no
+substitute for the hard job (or, in this case, the quite
+simple one) of reading the whole text. "The Act must do
+everything necessary to achieve its broad purpose" is the
+slogan of the enthusiast, not the analytical tool of the
+arbiter.3
+Second, the Court maintains that the legislative history
+of the 1973 Act supports the Secretary's definition. See
+ante, at 704-706. Even if legislative history were a
+legitimate and reliable tool of interpretation (which I
+shall assume in order to rebut the Court's claim); and
+even if it could appropriately be resorted to when the
+enacted text is as clear as this, but see Chicago v.
+Environmental Defense Fund, 511 U.S. 328, 337 (1994);
+here it shows quite the opposite of what the Court says.
+I shall not pause to discuss the Court's reliance on such
+statements in the Committee Reports as "`[t]ake' is
+defined . . . in the broadest possible manner to include
+every conceivable way in which a person can `take' or
+attempt to `take' any fish or wildlife.' " S. Rep. No. 93-
+307, p. 7 (1973) (quoted ante, at 704). This sort of empty
+flourish—to the effect that "this statute means what it
+means all the way"— [515 U.S. 727] counts for little even
+when enacted into the law itself. See Reves v. Ernst &
+Young, 507 U.S. 170, 183-184 (1993).
+Much of the Court's discussion of legislative history is
+devoted to two items: first, the Senate floor manager's
+introduction of an amendment that added the word
+"harm" to the definition of "take," with the observation
+that (along with other amendments) it would "`help to
+achieve the purposes of the bill' "; second, the relevant
+Committee's removal from the definition of a provision
+stating that "take" includes "`the destruction,
+modification or curtailment of [the] habitat or range' "
+of fish and wildlife. See ante, at 705. The Court inflates
+the first and belittles the second, even though the second
+is on its face far more pertinent. But this elaborate
+inference from various pre-enactment actions and
+inactions is quite unnecessary, since we have direct
+evidence of what those who brought the legislation to
+the floor thought it meant—evidence as solid as any ever
+to be found in legislative history, but which the Court
+banishes to a footnote. See ante, at 706-707, n. 19.
+Both the Senate and House floor managers of the bill
+explained it in terms which leave no doubt that the
+problem of habitat destruction on private lands was to
+be solved principally by the land acquisition program of
+§ 1534, while § 1538 solved a different problem
+altogether—the problem of takings. Senator Tunney
+stated:
+"Through [the] land acquisition provisions, we will
+beable to conserve habitats necessary to protect fish
+andwildlife from further destruction.
+"Although most endangered species are threatened
+primarily by the destruction of their natural habitats, a
+significant portion of these animals are subject to predation
+by man for commercial, sport, consumption,
+orother purposes. The provisions of [the bill] would
+prohibit the commerce in or the importation,
+exportation, or taking of endangered species . . . ." 119
+Cong. Rec. 25669 (1973) (emphasis added).
+[515 U.S. 728] The House floor manager, Representative
+Sullivan, put the same thought in this way:
+"[T]he principal threat to animals stems from
+destruction of their habitat. . . .[The bill] will meet this
+prob-lem by providing funds for acquisition of
+criticalhabitat. . . . It will also enable the Department of
+Agriculture to cooperate with willing landowners who
+desire to assist in the protection of endangered species,
+butwho are understandably unwilling to do so at
+excessivecost to themselves.
+"Another hazard to endangered species arises from those
+who would capture or kill them for pleasure orprofit.
+There is no way that the Congress can make it less
+pleasurable for a person to take an animal, but we can
+certainly make it less profitable for them to do so." Id., at
+30162 (emphasis added).
+Habitat modification and takings, in other words, were
+viewed as different problems, addressed by different
+provisions of the Act. The Court really has no
+explanation for these statements. All it can say is that
+"[n]either statement even suggested that [the habitat
+acquisition funding provision in § 1534] would be the
+Act's exclusive remedy for habitat modification by
+private landowners or that habitat modification by
+private landowners stood outside the ambit of [§ 1538]."
+Ante, at 707, n. 19. That is to say, the statements are not
+as bad as they might have been. Little in life is. They are,
+however, quite bad enough to destroy the Court's
+legislative-history case, since they display the clear
+understanding (1) that habitat modification is separate
+from "taking," and (2) that habitat destruction on
+private lands is to be remedied by public acquisition, and
+not by making particular unlucky landowners incur
+"excessive cost to themselves." The Court points out
+triumphantly that they do not display the understanding
+(3) that the land acquisition program is "the [Act's] only
+response to habitat modification." [515 U.S. 729] Ibid. Of
+course not, since that is not so (all public lands are
+subject to habitat-modification restrictions); but (1) and
+(2) are quite enough to exclude the Court's
+interpretation. They identify the land acquisition
+program as the Act's only response to habitat
+modification by private landowners, and thus do not in
+the least "contradic[t]," ibid., the fact that § 1536
+prohibits habitat modification by federal agencies.
+Third, the Court seeks support from a provision that
+was added to the Act in 1982, the year after the
+Secretary promulgated the current regulation. The
+provision states:
+"[T]he Secretary may permit, under such terms and
+conditions as he shall prescribe—
+. . . . .
+"any taking otherwise prohibited by section 1538
+(a)(1)(B) . . . if such taking is incidental to, and not the
+purpose of, the carrying out of an otherwise lawful
+activity." 16 U. S. C. § 1539(a)(1)(B).
+This provision does not, of course, implicate our
+doctrine that reenactment of a statutory provision
+ratifies an extant judicial or administrative
+interpretation, for neither the taking prohibition in §
+1538(a)(1)(B) nor the definition in § 1532(19) was
+reenacted. See Central Bank of Denver, N. A. v. First
+Interstate Bank of Denver, N. A., 511 U.S. 164, 185
+(1994). The Court claims, however, that the provision
+"strongly suggests that Congress understood [§
+1538(a)(1)(B)] to prohibit indirect as well as deliberate
+takings." Ante, at 700. That would be a valid inference if
+habitat modification were the only substantial
+"otherwise lawful activity" that might incidentally and
+nonpurposefully cause a prohibited "taking." Of course
+it is not. This provision applies to the many otherwise
+lawful takings that incidentally take a protected
+species—as when fishing for unprotected salmon also
+takes an endangered species of salmon, see Pacific
+Northwest Generating Cooperative v. Brown, 38 F.3d
+1058, 1067 (CA9 1994). [515 U.S. 730] Congress has
+referred to such "incidental takings" in other statutes as
+well—for example, a statute referring to "the incidental
+taking of . . . seaturtles in the course of . . .harvesting
+[shrimp]" and to the "rate of incidental taking of sea
+turtles by United States vessels in the course of such
+harvesting," 103 Stat. 1038, § 609(b)(2), note following
+16 U. S. C. § 1537 (1988 ed., Supp. V); and a statute
+referring to "the incidental taking of marine mammals
+in the course of commercial fishing operations," 108
+Stat. 546, § 118(a). The Court shows that it
+misunderstands the question when it says that "[n]o one
+could seriously request an `incidental' take permit to
+avert . . . liability for direct, deliberate action against a
+member of an endangered or threatened species. " Ante,
+at 700-701 (emphasis added). That is not an incidental
+take at all.4
+This is enough to show, in my view, that the 1982
+permit provision does not support the regulation. I must
+acknowledge that the Senate Committee Report on this
+provision, and the House Conference Committee
+Report, clearly contemplate that it will enable the
+Secretary to permit environmental modification. See S.
+Rep. No. 97-418, p. 10 (1982); H. R. Conf. Rep. No. 97-
+835, pp. 30-32 (1982). But the text of the amendment
+cannot possibly bear that asserted meaning, when placed
+within the context of an Act that must be interpreted (as
+we have seen) not to prohibit private environmental
+modification. The neutral language of the amendment
+cannot possibly alter that interpretation, nor can its
+legislative history be summoned forth to contradict,
+rather than clarify, what is in its totality an
+unambiguous statutory text. See Chicago v.
+Environmental Defense Fund, 511 U.S. 328 (1994).
+There is little fear, of course, [515 U.S. 731] that giving
+no effect to the relevant portions of the Committee
+Reports will frustrate the real-life expectations of a
+majority of the Members of Congress. If they read and
+relied on such tedious detail on such an obscure point (it
+was not, after all, presented as a revision of the statute's
+prohibitory scope, but as a discretionary-waiver
+provision) the Republic would be in grave peril.
+Fourth and lastly, the Court seeks to avoid the evident
+shortcomings of the regulation on the ground that the
+respondents are challenging it on its face rather than as
+applied. See ante, at 699; see also ante, at 709
+(O'Connor, J., concurring). The Court seems to say that
+even if the regulation dispenses with the foreseeability
+of harm that it acknowledges the statute to require, that
+does not matter because this is a facial challenge: So long
+as habitat modification that would foreseeably cause
+harm is prohibited by the statute, the regulation must be
+sustained. Presumably it would apply the same
+reasoning to all the other defects of the regulation: The
+regulation's failure to require injury to particular
+animals survives the present challenge, because at least
+some environmental modifications kill particular
+animals. This evisceration of the facial challenge is
+unprecedented. It is one thing to say that a facial
+challenge to a regulation that omits statutory element x
+must be rejected if there is any set of facts on which the
+statute does not require x. It is something quite
+different—and unlike any doctrine of "facial challenge" I
+have ever encountered—to say that the challenge must
+be rejected if the regulation could be applied to a state of
+facts in which element x happens to be present. On this
+analysis, the only regulation susceptible to facial attack is
+one that not only is invalid in all its applications, but
+also does not sweep up any person who could have been
+held liable under a proper application of the statute.
+That is not the law. Suppose a statute that prohibits
+"premeditated killing of a human being," and an
+implementing regulation that prohibits "killing a human
+[515 U.S. 732] being." A facial challenge to the regulation
+would not be rejected on the ground that, after all, it
+could be applied to a killing that happened to be
+premeditated. It could not be applied to such a killing,
+because it does not require the factfinder to find
+premeditation, as the statute requires. In other words, to
+simplify its task the Court today confuses lawful
+application of the challenged regulation with lawful
+application of a different regulation, i. e., one requiring
+the various elements of liability that this regulation
+omits.
+III
+In response to the points made in this dissent, the
+Court's opinion stresses two points, neither of which is
+supported by the regulation, and so cannot validly be
+used to uphold it. First, the Court and the concurrence
+suggest that the regulation should be read to contain a
+requirement of proximate causation or foreseeability,
+principally because the statute does —and "[n]othing in
+the regulation purports to weaken those requirements
+[of the statute]." See ante, at 696-697, n. 9; 700, n. 13;
+see also ante, at 711-713 (O'Connor, J., concurring). I
+quite agree that the statute contains such a limitation,
+because the verbs of purpose in § 1538(a)(1)(B) denote
+action directed at animals. But the Court has rejected
+that reading. The critical premise on which it has upheld
+the regulation is that, despite the weight of the other
+words in § 1538(a)(1)(B), "the statutory term `harm'
+encompasses indirect as well as direct injuries," ante, at
+697-698. See also ante, at 698, n. 11 (describing "the
+sense of indirect causation that `harm' adds to the
+statute"); ante, at 702 (stating that the Secretary
+permissibly interprets "`harm' " to include "indirectly
+injuring endangered animals"). Consequently, unless
+there is some strange category of causation that is
+indirect and yet also proximate, the Court has already
+rejected its own basis for finding a proximate-cause
+limitation in the regulation. In fact "proximate"
+causation simply means "direct" causation. See, e. g.,
+Black's Law Dictionary 1103 [515 U.S. 733] (5th ed.
+1979) (defining "[p]roximate" as "Immediate; nearest;
+direct ") (emphasis added); Webster's New International
+Dictionary 1995 (2d ed. 1949) ("[P]roximate cause. A
+cause which directly, or with no mediate agency,
+produces an effect") (emphasis added).
+The only other reason given for finding a proximatecause
+limitation in the regulation is that "by use of the
+word `actually,' the regulation clearly rejects speculative
+or conjectural effects, and thus itself invokes principles
+of proximate causation." Ante, at 712 (O'Connor, J.,
+concurring); see also ante, at 700, n. 13 (majority
+opinion). Non sequitur, of course. That the injury must
+be "actual" as opposed to "potential" simply says nothing
+at all about the length or foreseeability of the causal
+chain between the habitat modification and the "actual"
+injury. It is thus true and irrelevant that "[t]he Secretary
+did not need to include `actually' to connote `but for'
+causation," ibid.; "actually" defines the requisite injury,
+not the requisite causality.
+The regulation says (it is worth repeating) that "harm"
+means (1) an act that (2) actually kills or injures wildlife.
+If that does not dispense with a proximate-cause
+requirement, I do not know what language would. And
+changing the regulation by judicial invention, even to
+achieve compliance with the statute, is not permissible.
+Perhaps the agency itself would prefer to achieve
+compliance in some other fashion. We defer to
+reasonable agency interpretations of ambiguous statutes
+precisely in order that agencies, rather than courts, may
+exercise policymaking discretion in the interstices of
+statutes. See Chevron, 467 U. S., at 843-845. Just as
+courts may not exercise an agency's power to adjudicate,
+and so may not affirm an agency order on discretionary
+grounds the agency has not advanced, see SEC v.
+Chenery Corp., 318 U.S. 80 (1943), so also this Court
+may not exercise the Secretary's power to regulate, and
+so may not uphold a regulation by adding to it even the
+most reasonable of elements it does not contain.
+[515 U.S. 734] The second point the Court stresses in its
+response seems to me a belated mending of its holding.
+It apparently concedes that the statute requires injury to
+particular animals rather than merely to populations of
+animals. See ante, at 700, n. 13; ante, at 696 (referring to
+killing or injuring "members of [listed] species"
+(emphasis added)). The Court then rejects my
+contention that the regulation ignores this requirement,
+since, it says, "every term in the regulation's definition
+of `harm' is subservient to the phrase `an act which
+actually kills or injures wildlife.' " Ante, at 700, n. 13. As
+I have pointed out, see supra, at 716-717, this reading is
+incompatible with the regulation's specification of
+impairment of "breeding" as one of the modes of
+"kill[ing] or injur[ing] wildlife."5
+[515 U.S. 735] But since the Court is reading the
+regulation and the statute incorrectly in other respects,
+it may as well introduce this novelty as well—law à la
+carte. As I understand the regulation that the Court has
+created and held consistent with the statute that it has
+also created, habitat modification can constitute a
+"taking," but only if it results in the killing or harming of
+individual animals, and only if that consequence is the
+direct result of the modification. This means that the
+destruction of privately owned habitat that is essential,
+not for the feeding or nesting, but for the breeding, of
+butterflies, would not violate the Act, since it would not
+harm or kill any living butterfly. I, too, think it would
+not violate the Act—not for the utterly unsupported
+reason that habitat modifications fall outside the
+regulation if they happen not to kill or injure a living
+animal, but for the textual reason that only action
+directed at living animals constitutes a "take."
+* * *
+The Endangered Species Act is a carefully considered
+piece of legislation that forbids all persons to hunt or
+harm endangered animals, but places upon the public at
+large, [515 U.S. 736] rather than upon fortuitously
+accountable individual landowners, the cost of
+preserving the habitat of endangered species. There is
+neither textual support for, nor even evidence of
+congressional consideration of, the radically different
+disposition contained in the regulation that the Court
+sustains. For these reasons, I respectfully dissent.

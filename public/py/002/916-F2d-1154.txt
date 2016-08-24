@@ -1,0 +1,401 @@
+Would a company whose customer paid 50.1% of the
+bill think it had received "substantially all" of the price?
+Not likely. Nonetheless, Continental Can Company
+insists that when a majority of a pension fund's assets
+come from firms engaged in the trucking business,
+contributing employers qualify for a treatment that is
+available only if "substantially all of the contributions
+required under the plan are made by employers
+primarily engaged in the long and short haul trucking
+industry", 29 U.S.C. § 1383(d)(2).
+When Continental Can employed truck drivers to
+transport some of its goods in the Chicago area it made
+pension contributions to the Chicago Truck Drivers
+Pension Fund. Continental closed its trucking operation
+in July 1985 and withdrew from the Pension Fund,
+which demanded that it make good its share of the
+Fund's under-fundedness — as it must, 29 U.S.C. §§
+1381, 1391, unless "substantially all" of the Fund's assets
+come from "employers primarily engaged in the long
+and short haul trucking industry". An arbitrator
+determined that 61.6% of the Fund's assets are
+attributable to such employers and that "substantially
+all" means 85%; he ordered Continental to make
+withdrawal payments exceeding $700,000. Continental
+asked the district court to set this award aside; the court
+enforced the award, 1989 U.S.Dist. LEXIS 13997
+(N.D.Ill.), concluding (in line with several other courts)
+that less than 85% cannot be "substantially all". Republic
+Industries, Inc. v. Teamsters Joint Council, 718 F.2d
+628, 643 n. 19 (4th Cir.1983) (dictum); Central States
+Pension Fund v. Bellmont Trucking Co., 610 F.Supp.
+1505 (N.D.Ind.1985), affirmed on other grounds, 788
+F.2d 428 (7th Cir.1986); Peick v. PBGC, 539 F.Supp.
+1025, 1060 (N.D.Ill.1982), affirmed on other grounds,
+724 F.2d 1247 (7th Cir.1983).
+"Substantially all" sounds like "less than all, but not
+much less". Arbitrators and courts must convert this
+phrase to a percentage in order to make it work, which
+raises the question why Congress did not enact a
+percentage in the first place. It is as easy to write "a
+majority" or "two thirds" or "three quarters" or 85% or
+e-0.162 as it is to write "substantially all" — and any of
+the former choices would have prevented disputes of
+this kind. Perhaps, however, "substantially all" is an
+attractive [916 F.2d 1156] standard because it enables
+Members of Congress to say different things to different
+interest groups. The genesis of § 1383(d)(2), which was
+§ 4203(d)(2) of the Multiemployer Pension Plan
+Amendments Act of 1980, suggests something of this
+kind — although it is also consistent with the possibility
+that the sponsor pulled the wrong language out of his
+pocket.
+On May 22, 1980, the House unanimously passed H.R.
+3904, its bill to establish a system of withdrawal liability
+for under-funded pension plans. This bill lacked an
+exclusion for the trucking industry. Many of that
+industry's plans are chronically under-funded. The
+business also is characterized by frequent entry and exit
+(many firms are small). Exit does not necessarily
+threaten pension plans, because when one firm leaves
+another picks up the slack. Continental's departure had
+exactly this effect: although Continental closed its
+trucking operations, it still needs to move its goods.
+When the Senate's Labor and Human Resources and
+Finance Committees reported the Senate equivalent of
+H.R. 3904 to the floor on July 24, 1980, the bill had a
+special rule for the trucking business, in exactly the
+language that became § 4203(d)(2). The report
+accompanying the bill did not discuss the meaning of
+"substantially all".
+The House accepted most of the Senate's amendments to
+H.R. 3904. Representative Thompson, the floor
+manager, commented on this particular change:
+The [Senate] bill also contains a special withdrawal liability rule for
+certain trucking industry plans where substantially all of the
+contributions are made by employers primarily engaged in the long
+and short haul trucking industry, the household goods moving
+industry or the public warehousing industry. The phrase
+"substantially all" appears in several provisions of the tax laws —
+including the industrial development bond and the private
+foundation rules — where the Internal Revenue Service has
+interpreted the phrase to mean at least 85 percent. It is our intent
+that, as used in this special trucking industry withdrawal liability
+rule, the substantially all requirement would only be satisfied where
+at least 85 percent of the contributions to the plan are made by
+employers who are primarily engaged in the specified industries.
+126 Cong.Rec. 23040 (Aug. 25, 1980). The House passed
+the legislation unanimously the same day.
+One day later the Senate also passed H.R. 3904, making
+a few changes in the House's latest version, amendments
+irrelevant to § 4203(d)(2) — which the House accepted
+verbatim. In a text sandwiched between two "speeches"
+marked by a • (indicating that the remarks were inserted
+after the debate rather than delivered on the floor) Sen.
+Durenberger explained why special treatment for the
+trucking industry is appropriate and added:
+[I]t should be observed that if the majority of the contributions to
+any pension plan are made by employers engaged in over the road
+(long) and short haul trucking ... this withdrawal liability procedure
+will apply to all employers who contribute to such a plan.
+126 Cong.Rec. 23286-87 (Aug. 26, 1980). This remark,
+coming after both House and Senate had agreed to the
+language of § 4203(d)(2), is the first time anyone
+implied that "substantially all" means "majority".
+Because the House was unwilling to accept all of the
+Senate's further amendments, the chambers held a
+conference. Section 4203(d)(2), language common to the
+two versions, was not mentioned in the Conference
+Committee's report. On September 26, 1980, President
+Carter signed the bill into law. That was not, however,
+the end of Senator Durenberger's efforts to explain his
+amendment. On November 19, 1980, the Senator
+inserted into the Congressional Record still another
+bulleted statement:
+Recently ... I found out that on the very day that I clarified the
+intent of this special withdrawal liability procedure for the trucking
+industry, Mr. Thompson told the House of Representatives that
+this special rule would only apply if at least [916 F.2d 1157] 85
+percent of the contributions to the plan were made by employers
+previously engaged in the specified industries. Mr. Thompson
+based his statement upon unrelated interpretations of the phrase
+"substantially all."
+Since this amendment originated in the Senate without Mr.
+Thompson's participation, I am amazed that he would undertake an
+interpretation of the intent of the language.
+My interpretation was based on information supplied to me as to
+the diversity of Teamster representation, and I am convinced that
+an 85-percent contribution requirement would emasculate the
+special withdrawal procedure.
+Therefore, as a final clarification, I will reiterate that the
+withdrawal liability procedure will apply to any multiemployer
+pension plan in the trucking industry if the majority (50.1 percent)
+of contributions to the plan are made by employers who are
+primarily engaged in the long- and short-haul trucking industry,
+the household goods moving industry, or the public warehousing
+industry. •
+126 Cong.Rec. 30203 (Nov. 19, 1980). Representative
+Thompson did not file a surrebuttal, perhaps thinking
+that the race is to the swift — for he had gotten his
+thoughts into the record before the House voted, while
+Senator Durenberger's two statements came after the
+Senate first adopted § 4203(d)(2), and the Senator's
+second statement came nearly two months after the bill
+became law.
+Although Senator Durenberger was "amazed" that
+anyone would dare to interpret language he had not
+written, we do not view Representative Thompson's
+speech as an exercise in temerity. The Senate amended
+H.R. 3904 and wanted the House to accept its revisions.
+Members of the House were entitled to form their own
+understanding of the language before deciding whether
+to enact it. Words do not have meanings given by
+natural law. You don't have to be Ludwig Wittgenstein
+or Hans-Georg Gadamer to know that successful
+communication depends on meanings shared by
+interpretive communities. See In re Erickson, 815 F.2d
+1090 (7th Cir.1987). Texts are addressed to readers, in
+this case initially to the Representatives. Authors'
+private meanings — meanings subjectively held but not
+communicated — do not influence the readers' beliefs.
+The Senate, and then the House, and the Senate once
+again, passed § 4203(d)(2) without knowing Senator
+Durenberger's belief that "substantially all" means 50.1%.
+At the time the President signed the bill, Rep.
+Thompson's specific statement of August 25 and Sen.
+Durenberger's vague one of August 26 were the only
+ones on paper. Representative Thompson's was in line
+with a frequent meaning of the phrase and must have
+supplied the meaning for the bulk of Members and the
+President, if the phrase was ever present to their minds.
+That is why statements after enactment do not count;
+the legislative history of a bill is valuable only to the
+extent it shows genesis and evolution, making
+"subsequent legislative history" an oxymoron. Pierce v.
+Underwood, 487 U.S. 552, 566-68, 108 S.Ct. 2541, 2550,
+101 L.Ed.2d 490 (1988); Regional Rail Reorganization
+Act Cases, 419 U.S. 102, 132, 95 S.Ct. 335, 353, 42
+L.Ed.2d 320 (1974); United States v. Marshall, 908 F.2d
+1312, 1318 (7th Cir.1990) (in banc); Covalt v. Carey
+Canada Inc., 860 F.2d 1434, 1438-39 (7th Cir.1988).
+Continental Can presses on us an extreme version of the
+belief that the "real" law lies in the "intent" of Congress,
+of which the words of the statute are just evidence. It is
+an extreme version because here the only intent is the
+author's; Continental Can wants us to disregard the
+intent of all the other Members of Congress and the
+President, even though their assent was necessary to put
+Sen. Durenberger's text into force. But we need not
+worry about whether the argument is modest or
+extreme, because its premise is wrong. The text of the
+statute, and not the private intent of the legislators, is
+the law. Only the text survived the complex process for
+proposing, amending, adopting, and obtaining the
+President's signature (or two-thirds of each house). It is
+easy to announce intents and hard to enact laws; the
+Constitution gives force only to what is enacted. [916
+F.2d 1158] So the text is law and legislative intent a clue
+to the meaning of the text, rather than the text being a
+clue to legislative intent. In re Sinclair, 870 F.2d 1340
+(7th Cir.1989).
+"Substantially all" may have a special meaning. Statutes
+contain words of art, whose meaning may appear
+strange to a lay reader. Country Mutual Insurance Co. v.
+American Farm Bureau Federation, 876 F.2d 599 (7th
+Cir.1989). Cf. Rose v. Locke, 423 U.S. 48, 96 S.Ct. 243,
+46 L.Ed.2d 185 (1975). "Substantially all" is one of those
+phrases with a special legal meaning. Congress uses it all
+the time in tax statutes, and the Internal Revenue
+Service decodes it as meaning 85%. Here are a few
+examples, well short of "substantially all": (1) 26 U.S.C. §
+4071 imposes a tax on tires used for highway vehicles,
+unless the vehicles will be used "substantially all" of the
+time as school busses, 26 U.S.C. § 4221(e)(3); 26 C.F.R.
+§ 48.4221-11(b)(3) provides that "substantially all" in §
+4221(d)(7)(C) means 85% or more; (2) 26 U.S.C. §
+4942(a) imposes a tax on a charitable foundation's
+undistributed income, but 26 U.S.C. § 4942(a)(1) and
+(j)(3)(A) exempt foundations that distribute
+"substantially all" of their income; 26 C.F.R. §
+53.4942(b)-1(c) defines "substantially all" as "85 percent
+or more"; (3) 26 U.S.C. § 951(a) imposes a tax on
+Americans holding shares of certain foreign
+corporations but excludes from the corporations'
+income gains from the sale of commodities if
+"substantially all" of its business is as an active producer,
+§ 954(c)(1)(C)(ii); 26 C.F.R. § 1.954-2T(f)(3)(iv) defines
+"substantially all" as "85 percent of the taxable income of
+the controlled foreign corporation." There are many
+more. All of the regulations we could find, not just
+substantially all, quantify this phrase as 85% or more.
+The only departure from 85% was on the high side.
+Rev.Proc. 77-37, § 3.01, 1977-2 C.B. 568, provides that
+the Internal Revenue Service will not issue letter rulings
+finding that corporate reorganizations satisfy the
+"substantially all" requirements in, e.g., 26 U.S.C. §§
+354(b)(1)(A) and 368(a), unless the transferred assets
+represent at least 90% of the fair market value of the net
+assets.
+Because language is an exercise in shared understanding,
+one Senator's idiosyncratic meaning does not count.
+This was the point of the exchange between Alice and
+Humpty Dumpty. If everyone accepts a new meaning
+for a word, then the language has changed; if one
+speaker chooses a private meaning, we have babble
+rather than communication.
+The question, then, is whether anyone other than
+Senator Durenberger used "substantially all" to signify
+50.1% rather than 85%. Nothing in the debates suggests
+that they did. Representative Thompson's statement, the
+only one delivered on the floor in advance of passage,
+shows that he at least (and likely the House) used the
+phrase in the customary way. Senator Durenberger's
+two comments, inserted in the Congressional Record
+after the fact, could not have influenced anyone in the
+House and probably did not come to the attention of
+anyone in the Senate; anyway it was too late. Efforts of
+this kind to change the meaning of a text without
+bothering to change the text itself demonstrate why the
+use of legislative history has come under such vigorous
+attack, even by former Senators. E.g., Electrical
+Workers v. NLRB, 814 F.2d 697, 715-20 (D.C.Cir.1987)
+(Buckley, J., concurring). See also, e.g., Iron Workers
+Pension Trust v. Allied Products Corp., 872 F.2d 208,
+213 (7th Cir.1989). If Senator Durenberger wanted to
+see whether his colleagues would agree to an
+amendment exempting funds the majority of which
+came from the trucking industry, he had only to propose
+words such as "majority" or "50.1%" or "more than half"
+or "most". Instead he chose a formula with a known
+meaning and tipped into the Congressional Record a
+novel interpretation. Perhaps he believed that language
+expressly using a preponderance-of-the-assets standard
+would not have been enacted but he expected the federal
+courts to accept the legislative "history". Perhaps instead
+he meant to propose an amendment saying "majority"
+but slipped, and did the best he could later on to convey
+what he had meant to propose. Either way, what
+Congress [916 F.2d 1159] enacted, as opposed to what
+Sen. Durenberger wishes it had enacted, means 85%.
+Continental Can has one last hope. Pointing to Sen.
+Durenberger's warning that an 85% threshold would
+"emasculate the special withdrawal procedure", it asks us
+to interpret the exception so that it has some effect. A
+study prepared by the Comptroller General bears out
+Sen. Durenberger's concern; it concludes that the 85%
+threshold
+has in effect negated the trucking rule at most trucking plans. Of
+the nine trucking plans in our sample, only one has determined that
+85 percent of its contributing employers are in the trucking
+industry. This plan ... is also relatively small, with fewer than 400
+participants and 15 contributing employers.
+Assessment of Special Rules Exempting Employers
+Withdrawing from Multiemployer Pension Plans from
+Withdrawal Liability 25 (1984). Congress does not
+legislate in vain, Continental Can reminds us, and it
+concludes that we must therefore choose a figure under
+85% — preferably under 62%. To this the Fund replies
+that § 4203(d)(2) is a mere exception, that the
+multiemployer amendments are remedial legislation to
+be liberally construed, and that if we emasculate the
+exception we will be doing just what Congress wanted.
+Debating whether to give liberal or stingy
+interpretations to exceptions is a bootless exercise.
+"Exceptions" are artifacts of language. If English
+contained a word (say, "pepti") meaning "multiemployer
+pension plans other than those to which firms
+in the trucking industry make 85% of the contributions",
+Congress could have said: "Any employer withdrawing
+from an under-funded pepti must make up its share of
+the shortfall." We would not see this as an "exception";
+it would be a rule made intricate by the complex term
+"pepti". English does not contain many such
+comprehensive words, so statutes are written using
+rules and exceptions. Necessary adaptations to the
+language should not cause us to read rules broadly, or
+narrowly, or somewhere in between. We must instead
+ascertain the meaning of the full law as best we can,
+without a thumb on the scales.
+Whether to shade the meaning of a term in order to
+achieve a particular effect (such as "more coverage of the
+exemption") also is not a question to which there is a
+general answer. Continental Can tells us that Congress'
+purpose was exclusion in the trucking industry and it
+wants more of this; the Fund tells us that Congress'
+purpose was imposition of withdrawal liability for
+under-funded plans, and it wants more of that. Of
+course Congress' purpose was both of these things, to a
+degree, and the question is: what degree? We cannot
+divine the balance between objectives by pointing to
+their existence. "[N]o legislation pursues its purposes at
+all costs. Deciding what competing values will or will
+not be sacrificed to the achievement of a particular
+objective is the very essence of legislative choice — and
+it frustrates rather than effectuates legislative intent
+simplistically to assume that whatever furthers the
+statute's primary objective must be the law." Rodriguez
+v. United States, 480 U.S. 522, 525-26, 107 S.Ct. 1391,
+1393, 94 L.Ed.2d 533 (1987) (emphasis in original);
+Pension Benefit Guaranty Corp. v. LTV Corp., ___ U.S.
+___, 110 S.Ct. 2668, 2676, 110 L.Ed.2d 579 (1990). See
+also Board of Governors v. Dimension Financial Corp.,
+474 U.S. 361, 374, 106 S.Ct. 681, 689, 88 L.Ed.2d 691
+(1986).
+Congress had a choice: it could legislate a means, or it
+could legislate a result. It could say that firms
+participating in pension plans that have such-and-such
+attributes are exempt from withdrawal liability, or it
+could say, for example, that the 50% of the pension plans
+having the largest share of contributions from the
+trucking industry are exempt. It chose the former
+method. It (at least Sen. Durenberger and the interest
+groups for which he spoke) might have anticipated that
+the rule would exempt a large fraction of the industry,
+but anticipations and goals are not themselves law. See
+Premier Electrical Construction Co. v. National
+Electrical Contractors Ass'n, Inc., 814 F.2d 358, 364-65
+(7th Cir.1987). Statutory rules frequently differ from the
+goals animating their promoters. [916 F.2d 1160]
+Prussner v. CIR, 896 F.2d 218, 226 (7th Cir.1990) (in
+banc); Railway Labor Executives' Ass'n v. ICC, 894 F.2d
+915, 918 (7th Cir.1990).
+To see this, suppose that Congress had created an
+exclusion if "85% of the contributions required under
+the plan are made by employers primarily engaged in
+the long and short haul trucking industry", and the
+committee reports contained a prediction that this
+would exclude two-thirds of the industry. Now suppose
+the prediction is wrong, that only 10% of the plans in
+the trucking industry get more than 85% of their
+contributions from truckers, and a withdrawing firm
+convincingly demonstrates that the only way to exclude
+2/3 of the plans is to reduce the threshold from 85% to
+60%. Would it follow that a plan with 62% of its assets
+from the trucking business is exempt? Certainly not.
+Congress enacted the percentage and not the
+expectation. Disappointment with the results may
+supply a good reason for Congress to change the law; it
+does not provide a reason for a court to change the law.
+From what we can see, the reason § 4203(d)(2) fails to
+cover many plans — the parties tell us that with an 85%
+threshold it would apply to none of the large plans —
+lies principally in another feature of the law.
+Contributions count toward the 85% (or the 50.1%) only
+if the employer is "primarily engaged" in the trucking
+business. Many firms employing truck drivers, and
+making large volumes of contributions to the multiemployer
+plans in the trucking industry, are not
+"primarily engaged" in transportation. Continental Can
+is an example. Its contributions to this plan were on
+behalf of truck drivers, but none counted toward the
+85%. If § 4203(d)(2) applied when "substantially all of
+the contributions required under the plan are made [on
+behalf of employees] primarily engaged in the long and
+short haul trucking industry" (altered language in
+brackets), then the Chicago Truck Drivers Pension
+Fund would qualify for the exception, as would many
+other plans. All of this just goes to show, however, that
+if you choose different language, you get a different
+result. The language Congress chose excludes the
+Chicago Truck Drivers Pension Fund.
+AFFIRMED.

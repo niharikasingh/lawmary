@@ -1,0 +1,309 @@
+I respectfully dissent. Applying the usual mode of
+analysis used in this circuit for determining whether a
+statute allows assignment of claims, I would conclude
+that Nancey Silvers, as the original creator [402 F.3d
+891] of "The Other Woman," should be allowed to
+pursue the accrued causes of action that Frank & Bob
+Films II assigned to her.
+Section 501(b) of the 1976 Copyright Act establishes the
+standing requirement for infringement actions:
+The legal or beneficial owner of an exclusive right under a
+copyright is entitled, subject to the requirements of section 411, to
+institute an action for any infringement of that particular right
+committed while he or she is the owner of it.
+17 U.S.C. § 501(b). The majority relies on the notion
+that "[t]he meaning of that provision appears clear,"
+ante at 884, to conclude that the assignment to Silvers is
+invalid because she does not own an exclusive right
+under the copyright. Ante at 890.
+The majority opinion, however, is internally
+inconsistent, provides inadequate support for its
+conclusion, and ignores our analogous precedents.
+1. The inconsistency turns on the majority's citation of §
+501(b)'s durational limitation, i.e., that the owner is not
+entitled to sue unless the alleged infringement occurred
+"while he or she [was] the owner of [the copyright
+right]," as evidence of Congress's tight circumscription
+of persons who have standing to sue. Ante at 885-86.
+The majority maintains that "Congress' explicit listing of
+who may sue for copyright infringement should be
+understood as an exclusion of others from suing for
+infringement." Ante at 885.
+As the majority later acknowledges, however, the
+durational limitation is hardly airtight. After a copyright
+holder sells a copyright, in whole or in part, the new
+owner may pursue a cause of action that accrued before
+purchase, as long as the cause of action is transferred
+along with the copyright. Ante at 890, fn. 1. The
+majority maintains that this "makes perfect sense,"
+because "[w]hen one acquires a copyright that has been
+infringed, one is acquiring a copyright whose value has
+been impaired," and "[c]onsequently, to receive
+maximum value for the impaired copyright, one must
+also convey the right to recover the value of the
+impairment by instituting a copyright action." Ante at
+890, fn. 1.
+However practical this analysis, the fact remains that it
+cannot be squared with a literal reading of section
+501(b), on which the majority otherwise rests. And, as
+the language of section 501(b) is not necessarily
+determinative in deciding the viability of assignments of
+accrued rights to sue for copyright infringement, section
+501(b) cannot, absent further analysis, dictate the
+majority's conclusion that no assignment of accrued
+causes of action without transfer of the underlying
+copyright is permissible.
+2. If the language of § 501(b) is not determinative, then
+what is? I agree with Judge Bea that the assumption that
+background common law principles apply with regard
+to assignment of accrued causes of action applies to the
+Copyright Act as to other federal statutes. Post at 901-
+03. I part company with Judge Bea, however, at the
+point at which he suggests that an entirely free market
+for accrued causes of action in copyright is the proper
+antidote to the majority's preclusion of effective transfer
+of such accrued causes of action. Post at 905. Instead, I
+would hold that Silvers, given her status as the original
+creator of the contested "work-for-hire," may pursue the
+accrued claims assigned by Frank & Bob Films, while a
+complete stranger to the creative process could not.
+Contrary to the majority's strict statutory approach, the
+question of valid assignment "is appropriate for the
+development [402 F.3d 892] of interstitial federal
+common law [to ensure] harmony with the overall
+purposes of the [Copyright Act]." Gulfstream III Assocs.
+v. Gulfstream Aerospace Corp., 995 F.2d 425, 438 (3d
+Cir.1993). Our circuit's precedents support approach to
+the general question of whether claims created by
+federal statute are assignable. In particular, this circuit's
+cases deciding whether to enforce assignments of
+Employee Retirement Income Security Act ("ERISA")
+claims, which focus on whether "the general goal of the
+statute would be served by prohibiting the type of
+assignments involved in th[e] case," Misic v. Bldg. Serv.
+Employees Health & Welfare Trust, 789 F.2d 1374, 1377
+(9th Cir.1986) (per curiam), provide a helpful analog for
+consideration of Silvers' case.
+Misic decided that a health care provider, assigned
+accrued causes of action for health welfare benefits by
+his patients, could pursue his ERISA lawsuit. Our
+analysis proceeded in two steps. First, we reviewed the
+statutory text to decide whether ERISA permitted
+assignment of the claims for reimbursement of welfare
+benefits. Id. at 1376-77. The statute specifically
+precludes assignment or alienation of pension benefits,
+but is silent as to assignment of welfare benefits.1 We
+interpreted ERISA's silence on assignment in the
+welfare benefit plan context, in light of the explicit antiassignment
+provision for pension claims, to allow
+assignment of welfare claims, because "[n]either the
+specific purpose of the anti-assignment provision nor
+the general goal of the statute would be served by
+prohibiting the type of assignment involved in [the]
+case." Id. at 1377 (emphases added).
+Second, we decided that the assignee, Misic, had
+standing to sue, even though the statutory provision
+authorizing suit identified only "participants,
+beneficiaries, fiduciaries, and the Secretary of Labor" as
+the parties with standing bring suit.2 Id. at 1378 (citing
+29 U.S.C. § 1132(a)). Unlike the majority in this case, we
+did not consider the statutory language determinative
+on the question of assignability of accrued causes of
+action. Instead, we looked to the relevant statute to
+determine whether the assignors had standing, not to
+decide whether to honor the assignment. We concluded
+that the assignment was permissible because "Dr. Misic
+`st[ood] in the shoes of the [b]eneficiaries;' and Dr.
+Misic's assignors, beneficiaries under the Act [were]
+expressly authorized by[the statute] to sue to recover
+benefits due under a plan." Id. (emphasis added, second
+alteration in original).
+We took the same general approach, albeit with the
+opposite result, in Simon v. Value Behavioral Health,
+Inc., 208 F.3d 1073 (9th Cir.2000). Although we read
+Misic to allow assignment to healthcare providers, we
+refused in Simon to honor the assignment of claims
+from "health care providers to whom the beneficiaries
+originally [402 F.3d 893] assigned their claims." Id. at
+1081. Simon explains that in Misic,
+we granted derivative standing to health care providers not because
+we believed that federal common law on derivative standing
+trumps the plain language of [the statute]. We granted it because
+permitting health care providers to sue in place of the beneficiaries
+they had treated was consistent with Congressional intent in
+enacting ERISA.
+Id. Our decision to disallow assignment of claims by
+health care providers was related to underlying public
+policy concerns, as "grant[ing] Simon standing
+would[have] be[en] tantamount to transforming health
+benefit claims into a freely tradable commodity." Id.
+Predicting that the opposite result "would allow third
+parties with no relationship to the beneficiary to acquire
+claims solely for the purpose of litigating them," we
+declined to recognize the assignment as it was unclear
+"how such a result would further ERISA's purpose." Id.
+Both this circuit and others have used similar policybased
+analyses in deciding whether assignments of other
+federal statutory claims were valid. See, e.g., Simon, 208
+F.3d at 1082-83 (antitrust claim under the Clayton act);
+Klamath Lake Pharm. Ass'n v. Klamath Med. Serv.
+Bureau, 701 F.2d 1276 (9th Cir.1983) (considering the
+background rule that only a real party in interest may
+prosecute claims in federal court to hold that an
+assignment was valid); Pac. Coast Agric. Export Ass'n v.
+Sunkist Growers, Inc., 526 F.2d 1196 (9th Cir.1975); see
+also Tex. Life, Accident, Health & Hosp. Serv. Ins. Guar.
+Ass'n v. Gaylord Entm't Group, 105 F.3d 210, 215 (5th
+Cir.1997) (using Misic's approach to consider whether
+"derivative standing to assignees of breach of fiduciary
+duty claims ... [would] frustrate ERISA's purpose"). I
+would do so here as well.
+3. I turn, therefore, to whether Frank & Bob Films'
+assignment of the accrued cause of action to Silvers, the
+original creator of "The Other Woman," should be
+permitted under 17 U.S.C. § 501(b).
+As the majority makes clear, Silvers is not the owner of
+the copyright and therefore would not ordinarily be
+permitted to pursue a copyright infringement claim.
+Following our approach in the ERISA cases discussed
+above, the relevant inquiry is whether recognition of the
+assignment to Silvers is consistent with Congress'
+overall intent in enacting the 1976 Copyright Act.
+The basic purpose of copyright is "to promote the
+creation and publication of free expression." Eldred v.
+Ashcroft, 537 U.S. 186, 219, 123 S.Ct. 769, 154 L.Ed.2d
+683 (2003). Congress has struck "a difficult balance
+between the interests of authors and inventors in the
+control and exploitation of their writings and
+discoveries on the one hand, and society's competing
+interest in the free flow of ideas, information, and
+commerce on the other hand." Sony Corp. v. Universal
+City Studios, Inc., 464 U.S. 417, 429, 104 S.Ct. 774, 78
+L.Ed.2d 574 (1984). To achieve that balance, embedded
+in "the traditional contours of copyright protection,"
+Eldred, 537 U.S. at 221, 123 S.Ct. 769, are two major
+First Amendment protections: (1) as "between ideas and
+expression ... only the latter [is] eligible for copyright
+protection," id. at 219, 123 S.Ct. 769; and (2) "the `fair
+use' defense allows the public to use not only facts and
+ideas contained in a copyrighted work, but also
+expression itself in certain circumstances." Id. (citing 17
+U.S.C. § 107).
+I see nothing in the assignment of accrued claims of
+Frank & Bob Films for infringement of a work created
+by Silvers to Silvers that violates these background
+principles. Silvers has a significant interest [402 F.3d
+894] in the infringement of "The Other Woman," as she
+was the original creator. She might well herself have
+held the copyright had she not contracted with Frank &
+Bob Films to create a work-for-hire. Although she
+relinquished the right to the copyright through her
+contract with Frank & Bob Films, she maintained an
+interest in how her work was used. More importantly,
+Silvers, as the creator, is the person for whom the
+copyright system is designed to provide incentives for
+more creations.
+In addition, allowing this assignment is consistent with
+"the need for free alienability and divisibility" of
+copyright. Gardner v. Nike, Inc., 279 F.3d 774, 781 (9th
+Cir.2002). It also conforms with "the necessity [of]
+preserv[ing] the rights and control of ... owners and
+creators." Id.
+Supporting this result is the consideration, discussed
+above, that section 501(b)'s limitations have not been
+and should not be read as narrowly as possible. As
+noted, the majority makes clear that allowing a
+copyright owner to pursue claims that accrued before he
+held the copyright, once assigned along with the
+copyright, is eminently sensible. Ante at 890, fn. 1. I see
+no reason why allowing assignment to original creators
+of copyrighted works without the copyright would any
+more undermine the delicate balance that Congress has
+struck. Moreover, as Judge Bea notes, post at 900-01,
+Congress is perfectly capable of including antiassignment
+provisions in federal statutory schemes, but
+declined to so in the 1976 Act.
+I would hold, therefore, that Frank & Bob Films, for
+whom Silvers completed her work-for-hire, may assign
+its accrued causes of action related to that work-for-hire
+to Silvers.
+4. The majority places significant weight on Crown Die
+& Tool Co. v. Nye Tool & Machine Works, 261 U.S. 24,
+43 S.Ct. 254, 67 L.Ed. 516 (1923), dealing with a
+somewhat similar question under patent law. The
+differences between copyright and patent law, and
+between the nature of the assignment in Crown Die and
+this case, are significant enough to warrant a different
+result.
+In general, "patents and copyrights do not entail the
+same exchange." Eldred, 537 U.S. at 216, 123 S.Ct. 769.
+"The disclosure required by the Patent Act is `the quid
+pro quo of the right to exclude.'" J.E.M. Ag Supply, Inc.
+v. Pioneer Hi-Bred Int'l, Inc., 534 U.S. 124, 142, 122
+S.Ct. 593, 151 L.Ed.2d 508 (2001) (quoting Kewanee Oil
+Co. v. Bicron Corp., 416 U.S. 470, 484, 94 S.Ct. 1879, 40
+L.Ed.2d 315 (1974)). "For the author seeking copyright
+protection, in contrast, disclosure is the desired
+objective, not something exacted from the author in
+exchange for the copyright." Eldred, 537 U.S. at 216-17,
+123 S.Ct. 769.
+These distinctions are reflected in the rules governing
+suits for infringements of copyrights and patents.
+Patentees, for example, "should be joined, either
+voluntarily or involuntarily, in any infringement suit
+brought by an exclusive licensee." Prima Tek II, L.L.C.
+v. A-Roo Co., 222 F.3d 1372, 1377 (Fed.Cir.2000)
+(emphasis added). This scheme differs markedly from
+that of copyright infringement suits, as a copyright
+holder may transfer the "`exclusive' rights to use and to
+authorize the use of his work in five qualified ways."3
+Sony Corp., 464 U.S. at 433, 104 S.Ct. 774 (citing 17
+U.S.C. § 106). Once he does so, "[t]he [402 F.3d 895]
+owner of any particular exclusive right is entitled, to the
+extent of that right, to all of the protection and remedies
+accorded to the copyright owner." 17 U.S.C. § 201(d)(2).
+With these differences in mind, I do not find the
+majority's reliance on Crown Die, 261 U.S. 24, 43 S.Ct.
+254 (1923), persuasive in the current circumstances. The
+majority states that "Crown Die effectively creates a
+presumption that, when we consider standing under a
+statutory scheme involving intellectual property,
+common law doctrine does not apply." Ante at 889-90. I
+find no support for such a broad statement, given the
+significant changes to copyright law since Crown Die
+was decided. Issuance of a copyright no longer "vest[s]
+an exclusive right in an author," Wheaton v. Peters, 33
+U.S. (8 Pet.) 591, 663, 8 L.Ed. 1055 (1834) (emphasis
+added), but several exclusive rights that the copyright
+holder may then divide infinitely. Furthermore, unlike
+an inventor who holds a patent, the original copyright
+holder need not remain involved in every infringement
+action brought under a copyright.
+In addition, and critically, Crown Die dealt with a very
+different factual scenario than the one we have here.
+Reed Manufacturing, the patentee of a screw-thread
+cutting device invented by Wright and Hubbard,
+assigned its infringement claims against Crown Die &
+Tool Company to Nye Tool & Machine Works, a
+competitor of Crown Die. Crown Die, 261 U.S. at 25-
+26, 43 S.Ct. 254. The assignment would have been
+analogous to the one before us if Reed had assigned its
+claims to Wright and Hubbard, rather than to a
+competitor of Crown Die. Crown Die did not,
+therefore, decide the precise question we have before us.
+A different result in Crown Die would not only have
+created significant tension with the nature of the
+monopoly that a patentee holds, but it would have made
+an accrued cause of action a commodity on an open
+market, permitting assignees without connection to the
+patented invention to pursue infringement claims, "with
+the sole motive of harassing [infringers]." Id at 39, 43
+S.Ct. 254. That Nye and Crown Die were competitors
+could only have reinforced this concern.
+The 1976 Act ushered in a new era of copyright law,
+while leaving in place the general principal goal of
+copyright: "to promote the creation and publication of
+free expression." Eldred, 537 U.S. at 219, 123 S.Ct. 769. I
+find no reason why Frank & Bob's Films' assignment of
+accrued claims against Sony to Nancey Silvers does not
+comport with that goal. I respectfully dissent.

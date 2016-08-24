@@ -1,0 +1,214 @@
+My agreement with the Court is founded on two
+understandings. First, the challenged regulation is
+limited to significant habitat modification that causes
+actual, as opposed [515 U.S. 709] to hypothetical or
+speculative, death or injury to identifiable protected
+animals. Second, even setting aside difficult questions of
+scienter, the regulation's application is limited by
+ordinary principles of proximate causation, which
+introduce notions of foreseeability. These limitations, in
+my view, call into question Palila v. Hawaii Dept. of
+Land and Natural Resources, 852 F.2d 1106 (CA9 1988)
+(Palila II), and with it, many of the applications derided
+by the dissent. Because there is no need to strike a
+regulation on a facial challenge out of concern that it is
+susceptible of erroneous application, however, and
+because there are many habitat-related circumstances in
+which the regulation might validly apply, I join the
+opinion of the Court.
+In my view, the regulation is limited by its terms to
+actions that actually kill or injure individual animals.
+Justice Scalia disagrees, arguing that the harm regulation
+"encompasses injury inflicted, not only upon individual
+animals, but upon populations of the protected species."
+Post, at 716. At one level, I could not reasonably quarrel
+with this observation; death to an individual animal
+always reduces the size of the population in which it
+lives, and in that sense, "injures" that population. But by
+its insight, the dissent means something else. Building
+upon the regulation's use of the word "breeding," Justice
+Scalia suggests that the regulation facially bars
+significant habitat modification that actually kills or
+injures hypothetical animals (or, perhaps more aptly,
+causes potential additions to the population not to come
+into being). Because "[i]mpairment of breeding does not
+`injure' living creatures," Justice Scalia reasons, the
+regulation must contemplate application to "a
+population of animals which would otherwise have
+maintained or increased its numbers." Post, at 716, 734.
+I disagree. As an initial matter, I do not find it as easy as
+Justice Scalia does to dismiss the notion that significant
+impairment of breeding injures living creatures. To raze
+the last remaining ground on which the piping plover
+currently [515 U.S. 710] breeds, thereby making it
+impossible for any piping plovers to reproduce, would
+obviously injure the population (causing the species'
+extinction in a generation). But by completely
+preventing breeding, it would also injure the individual
+living bird, in the same way that sterilizing the creature
+injures the individual living bird. To "injure" is, among
+other things, "to impair." Webster's Ninth New
+Collegiate Dictionary 623 (1983). One need not
+subscribe to theories of "psychic harm," cf. post, at 734-
+735, n. 5, to recognize that to make it impossible for an
+animal to reproduce is to impair its most essential
+physical functions and to render that animal, and its
+genetic material, biologically obsolete. This, in my view,
+is actual injury.
+In any event, even if impairing an animal's ability to
+breed were not, in and of itself, an injury to that animal,
+interference with breeding can cause an animal to suffer
+other, perhaps more obvious, kinds of injury. The
+regulation has clear application, for example, to
+significant habitat modification that kills or physically
+injures animals which, because they are in a vulnerable
+breeding state, do not or cannot flee or defend
+themselves, or to environmental pollutants that cause an
+animal to suffer physical complications during gestation.
+Breeding, feeding, and sheltering are what animals do. If
+significant habitat modification, by interfering with
+these essential behaviors, actually kills or injures an
+animal protected by the Act, it causes "harm" within the
+meaning of the regulation. In contrast to Justice Scalia, I
+do not read the regulation's "breeding" reference to
+vitiate or somehow to qualify the clear actual death or
+injury requirement, or to suggest that the regulation
+contemplates extension to nonexistent animals.
+There is no inconsistency, I should add, between this
+interpretation and the commentary that accompanied
+the amendment of the regulation to include the actual
+death or injury requirement. See 46 Fed. Reg. 54748
+(1981). Quite the contrary. It is true, as Justice Scalia
+observes, post, at 716, [515 U.S. 711] that the Fish and
+Wildlife Service states at one point that "harm" is not
+limited to "direct physical injury to an individual
+member of the wildlife species," see 46 Fed. Reg. 54748
+(1981). But one could just as easily emphasize the word
+"direct" in this sentence as the word "individual."*
+Elsewhere in the commentary, the Service makes clear
+that "section 9's threshold does focus on individual
+members of a protected species." Id., at 54749.
+Moreover, the Service says that the regulation has no
+application to speculative harm, explaining that its
+insertion of the word "actually" was intended "to
+bulwark the need for proven injury to a species due to a
+party's actions." Ibid.; see also ibid. (approving language
+that "[h]arm covers actions . . . which actually (as
+opposed to potentially), cause injury"). That a protected
+animal could have eaten the leaves of a fallen tree or
+could, perhaps, have fruitfully multiplied in its branches
+is not sufficient under the regulation. Instead, as the
+commentary reflects, the regulation requires
+demonstrable effect (i. e., actual injury or death) on
+actual, individual members of the protected species.
+By the dissent's reckoning, the regulation at issue here,
+in conjunction with 16 U. S. C. § 1540(a)(1), imposes
+liability for any habitat-modifying conduct that
+ultimately results in the death of a protected animal,
+"regardless of whether that result is intended or even
+foreseeable, and no matter how long [515 U.S. 712] the
+chain of causality between modification and injury."
+Post, at 715; see also post, at 719. Even if § 1540(a)(1)
+does create a strict liability regime (a question we need
+not decide at this juncture), I see no indication that
+Congress, in enacting that section, intended to dispense
+with ordinary principles of proximate causation. Strict
+liability means liability without regard to fault; it does
+not normally mean liability for every consequence,
+however remote, of one's conduct. See generally W.
+Keeton, D. Dobbs, R. Keeton, & D. Owen, Prosser and
+Keeton on Law of Torts 559-560 (5th ed. 1984)
+(describing "practical necessity for the restriction of
+liability within some reasonable bounds" in the strict
+liability context). I would not lightly assume that
+Congress, in enacting a strict liability statute that is
+silent on the causation question, has dispensed with this
+well-entrenched principle. In the absence of
+congressional abrogation of traditional principles of
+causation, then, private parties should be held liable
+under § 1540(a)(1) only if their habitat-modifying
+actions proximately cause death or injury to protected
+animals. Cf. Benefiel v. Exxon Corp., 959 F.2d 805, 807-
+808 (CA9 1992) (in enacting the Trans-Alaska Pipeline
+Authorization Act, which provides for strict liability for
+damages that are the result of discharges, Congress did
+not intend to abrogate common-law principles of
+proximate cause to reach "remote and derivative"
+consequences); New York v. Shore Realty Corp., 759
+F.2d 1032, 1044, and n. 17 (CA2 1985) (noting that
+"[t]raditional tort law has often imposed strict liability
+while recognizing a causation defense," but that, in
+enacting the Comprehensive Environmental Response,
+Compensation, and Liability Act of 1980, Congress
+"specifically rejected including a causation
+requirement"). The regulation, of course, does not
+contradict the presumption or notion that ordinary
+principles of causation apply here. Indeed, by use of the
+word "actually," the regulation clearly rejects speculative
+or conjectural effects, and thus itself invokes principles
+of proximate causation.
+[515 U.S. 713] Proximate causation is not a concept
+susceptible of precise definition. See Keeton, supra, at
+280-281. It is easy enough, of course, to identify the
+extremes. The farmer whose fertilizer is lifted by a
+tornado from tilled fields and deposited miles away in a
+wildlife refuge cannot, by any stretch of the term, be
+considered the proximate cause of death or injury to
+protected species occasioned thereby. At the same time,
+the landowner who drains a pond on his property,
+killing endangered fish in the process, would likely
+satisfy any formulation of the principle. We have
+recently said that proximate causation "normally
+eliminates the bizarre," Jerome B. Grubart, Inc. v. Great
+Lakes Dredge & Dock Co., 513 U.S. 527, 536 (1995), and
+have noted its "functionally equivalent" alternative
+characterizations in terms of foreseeability, see
+Milwaukee & St. Paul R. Co. v. Kellogg, 94 U.S. 469, 475
+(1877) ("natural and probable consequence"), and duty,
+see Palsgraf v. Long Island R. Co., 248 N.Y. 339, 162 N.
+E. 99 (1928). Consolidated Rail Corporation v. Gottshall,
+512 U.S. 532, 546 (1994). Proximate causation
+depends to a great extent on considerations of the
+fairness of imposing liability for remote consequences.
+The task of determining whether proximate causation
+exists in the limitless fact patterns sure to arise is best
+left to lower courts. But I note, at the least, that
+proximate cause principles inject a foreseeability
+element into the statute, and hence, the regulation, that
+would appear to alleviate some of the problems noted by
+the dissent. See, e. g., post, at 719 (describing "a farmer
+who tills his field and causes erosion that makes silt run
+into a nearby river which depletes oxygen and thereby
+[injures] protected fish").
+In my view, then, the "harm" regulation applies where
+significant habitat modification, by impairing essential
+behaviors, proximately (foreseeably) causes actual death
+or injury to identifiable animals that are protected under
+the Endangered Species Act. Pursuant to my
+interpretation, Palila II —-under which the Court of
+Appeals held that a state [515 U.S. 714] agency
+committed a "taking" by permitting mouflon sheep to
+eat mamane-naio seedlings that, when full grown, might
+have fed and sheltered endangered palila—was wrongly
+decided according to the regulation's own terms.
+Destruction of the seedlings did not proximately cause
+actual death or injury to identifiable birds; it merely
+prevented the regeneration of forest land not currently
+sustaining actual birds.
+This case, of course, comes to us as a facial challenge.
+We are charged with deciding whether the regulation
+on its face exceeds the agency's statutory mandate. I
+have identified at least one application of the regulation
+(Palila II) that is, in my view, inconsistent with the
+regulation's own limitations. That misapplication does
+not, however, call into question the validity of the
+regulation itself. One can doubtless imagine
+questionable applications of the regulation that test the
+limits of the agency's authority. However, it seems to me
+clear that the regulation does not on its terms exceed the
+agency's mandate, and that the regulation has
+innumerable valid habitat-related applications. Congress
+may, of course, see fit to revisit this issue. And nothing
+the Court says today prevents the agency itself from
+narrowing the scope of its regulation at a later date.
+With this understanding, I join the Court's opinion

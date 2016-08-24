@@ -1,0 +1,741 @@
+We plumb the depths of the immunity provided by
+section 230 of the Communications Decency Act of
+1996 ("CDA").
+Facts 1
+Defendant Roommate.com, LLC ("Roommate")
+operates a website designed to match people renting out
+spare rooms with people looking for a place to live.2 At
+the time of the district court's disposition, Roommate's
+website featured approximately 150,000 active listings
+and received around a million page views a day.
+Roommate seeks to profit by collecting revenue from
+advertisers and subscribers.
+Before subscribers can search listings or post3 housing
+opportunities on Roommate's website, they must create
+profiles, a process that requires them to answer a series
+of questions. In addition to requesting basic information
+— such as name, location and email address —
+Roommate requires each subscriber to disclose his sex,
+sexual orientation and whether he would bring children
+to a household. Each subscriber must also describe his
+preferences in roommates with respect to the same
+three criteria: sex, sexual orientation and whether they
+will bring children to the household. The site also
+encourages subscribers to provide "Additional
+Comments" describing themselves and their desired
+roommate in an open-ended essay. After a new
+subscriber completes the application, Roommate
+assembles his answers into a "profile page." The profile
+page [521 F.3d 1162] displays the subscriber's pseudonym,
+his description and his preferences, as divulged through
+answers to Roommate's questions.
+Subscribers can choose between two levels of service:
+Those using the site's free service level can create their
+own personal profile page, search the profiles of others
+and send personal email messages. They can also receive
+periodic emails from Roommate, informing them of
+available housing opportunities matching their
+preferences. Subscribers who pay a monthly fee also
+gain the ability to read emails from other users, and to
+view other subscribers' "Additional Comments."
+The Fair Housing Councils of the San Fernando Valley
+and San Diego ("Councils") sued Roommate in federal
+court, alleging that Roommate's business violates the
+federal Fair Housing Act ("FHA"), 42 U.S.C. § 3601 et
+seq., and California housing discrimination laws.4
+Councils claim that Roommate is effectively a housing
+broker doing online what it may not lawfully do offline.
+The district court held that Roommate is immune
+under section 230 of the CDA, 47 U.S.C. § 230(c), and
+dismissed the federal claims without considering
+whether Roommate's actions violated the FHA. The
+court then declined to exercise supplemental jurisdiction
+over the state law claims. Councils appeal the dismissal
+of the FHA claim and Roommate cross-appeals the
+denial of attorneys' fees.
+Analysis
+Section 230 of the CDA5 immunizes providers of
+interactive computer services6 against liability arising
+from content created by third parties: "No provider . . .
+of an interactive computer service shall be treated as the
+publisher or speaker of any information provided by
+another information content provider." 47 U.S.C. §
+230(c).7 This grant of immunity applies only if the
+interactive computer service provider is not also an
+"information content provider," which is defined as
+someone who is "responsible, in whole or in part, for
+the creation or development of the offending content.
+Id. § 230(f)(3).
+A website operator can be both a service provider and a
+content provider: If it passively displays content that is
+created entirely by third parties, then it is only a service
+provider with respect to that content. But as to content
+that it creates itself, or is "responsible, in whole or in
+part" for creating or developing, the website is also a
+content provider. Thus, a website may be immune from
+liability for [521 F.3d 1163] some of the content it
+displays to the public but be subject to liability for other
+content.8
+Section 230 was prompted by a state court case holding
+Prodigy9 responsible for a libelous message posted on
+one of its financial message boards.10 See Stratton
+Oakmont, Inc. v. Prodigy Servs. Co., 1995 WL 323710
+(N.Y.Sup.Ct. May 24, 1995) (unpublished). The court
+there found that Prodigy had become a "publisher"
+under state law because it voluntarily deleted some
+messages from its message boards "on the basis of
+offensiveness and `bad taste,'" and was therefore legally
+responsible for the content of defamatory messages that
+it failed to delete. Id. at *4. The Stratton Oakmont court
+reasoned that Prodigy's decision to perform some
+voluntary self-policing made it akin to a newspaper
+publisher, and thus responsible for messages on its
+bulletin board that defamed third parties. The court
+distinguished Prodigy from CompuServe,11 which had
+been released from liability in a similar defamation case
+because CompuServe "had no opportunity to review the
+contents of the publication at issue before it was
+uploaded into CompuServe's computer banks." Id.; see
+Cubby, Inc. v. CompuServe, Inc., 776 F.Supp. 135, 140
+(S.D.N.Y.1991). Under the reasoning of Stratton
+Oakmont, online service providers that voluntarily filter
+some messages become liable for all messages
+transmitted, whereas providers that bury their heads in
+the sand and ignore problematic posts altogether escape
+liability. Prodigy claimed that the "sheer volume" of
+message board postings it received — at the time, over
+60,000 a day — made manual review of every message
+impossible; thus, if it were forced to choose between
+taking responsibility for all messages and deleting no
+messages at all, it would have to choose the latter course.
+Stratton Oakmont, 1995 WL 323710 at *3.
+In passing section 230, Congress sought to spare
+interactive computer services this grim choice by
+allowing them to perform some editing on usergenerated
+content without thereby becoming liable for
+all defamatory or otherwise unlawful messages that they
+didn't edit or delete. In other words, Congress sought to
+immunize the removal of user-generated content, not
+the creation of content: "[S]ection [230] provides `Good
+Samaritan' protections from civil liability for providers .
+. . of an interactive computer service for actions to
+restrict . . . access to objectionable online material. One
+of the specific purposes of this section is to overrule
+Stratton-Oakmont [sic] v. Prodigy and any other similar
+decisions which have treated such providers . . . as
+publishers or speakers of content that is not their own
+because they have restricted access to objectionable
+material." H.R.Rep. No. 104-458 (1996) (Conf.Rep.), as
+reprinted in 1996 U.S.C.C.A.N. 10 (emphasis added).12
+Indeed, the section is titled "Protection for `good
+Samaritan' blocking and [521 F.3d 1164] screening of
+offensive material" and, as the Seventh Circuit recently
+held, the substance of section 230(c) can and should be
+interpreted consistent with its caption. Chicago
+Lawyers' Committee for Civil Rights Under Law, Inc. v.
+craigslist, Inc., 516 F.3d 666, ____ (7th Cir.2008)
+(quoting Doe v. GTE Corp., 347 F.3d 655, 659-60 (7th
+Cir.2003)).
+With this backdrop in mind, we examine three specific
+functions performed by Roommate that are alleged to
+violate the Fair Housing Act and California law.
+1. Councils first argue that the questions Roommate
+poses to prospective subscribers during the registration
+process violate the Fair Housing Act and the analogous
+California law. Councils allege that requiring subscribers
+to disclose their sex, family status and sexual orientation
+"indicates" an intent to discriminate against them, and
+thus runs afoul of both the FHA and state law.13
+Roommate created the questions and choice of answers,
+and designed its website registration process around
+them. Therefore, Roommate is undoubtedly the
+"information content provider" as to the questions and
+can claim no immunity for posting them on its website,
+or for forcing subscribers to answer them as a condition
+of using its services.
+Here, we must determine whether Roommate has
+immunity under the CDA because Councils have at least
+a plausible claim that Roommate violated state and
+federal law by merely posing the questions. We need
+not decide whether any of Roommate's questions
+actually violate the Fair' Housing Act or California law,
+or whether they are protected by the First Amendment
+or other constitutional guarantees, see craigslist, at
+1166-67; we leave those issues for the district court on
+remand. Rather, we examine the scope of plaintiffs'
+substantive claims only insofar as necessary to
+determine whether section 230 immunity applies.
+However, we note that asking questions certainly can
+violate the Fair Housing Act and analogous laws in the
+physical world.14 For example, a real estate broker may
+not inquire as to the race of a prospective buyer, and an
+employer may not inquire as to the religion of a
+prospective employee. If such questions are unlawful
+when posed face-to-face or by telephone, they don't
+magically become lawful when asked electronically
+online. The Communications Decency Act was not
+meant to create a lawless noman's-land on the
+Internet.15
+[521 F.3d 1165] Councils also claim that requiring
+subscribers to answer the questions as a condition of
+using Roommate's services unlawfully "cause[s]"
+subscribers to make a "statement . . . with respect to the
+sale or rental of a dwelling that indicates [a] preference,
+limitation, or discrimination," in violation of 42 U.S.C. §
+3604(c). The CDA does not grant immunity for
+inducing third parties to express illegal preferences.
+Roommate's own acts — posting the questionnaire and
+requiring answers to it — are entirely its doing and thus
+section 230 of the CDA does not apply to them.
+Roommate is entitled to no immunity.16
+2. Councils also charge that Roommate's development
+and display of subscribers' discriminatory preferences is
+unlawful. Roommate publishes a "profile page" for each
+subscriber on its website. The page describes the client's
+personal information — such as his sex, sexual
+orientation and whether he has children — as well as the
+attributes of the housing situation he seeks. The content
+of these pages is drawn directly from the registration
+process: For example, Roommate requires subscribers to
+specify, using a drop-down menu17 provided by
+Roommate, whether they are "Male" or "Female" and
+then displays that information on the profile page.
+Roommate also requires subscribers who are listing
+available housing to disclose whether there are currently
+"Straight male(s)," "Gay male(s)," "Straight female(s)" or
+"Lesbian(s)" living in the dwelling. Subscribers who are
+seeking housing must make a selection from a dropdown
+menu, again provided by Roommate, to indicate
+whether they are willing to live with "Straight or gay"
+males, only with "Straight" males, only with "Gay" males
+or, with "No males." Similarly, Roommate requires
+subscribers listing housing to disclose whether there are
+"Children present" or "Children not present" and
+requires housing seekers to say "I will live with children"
+or "I will not live with children." Roommate then
+displays these answers, along with other information,
+on the subscriber's profile page. This information is
+obviously included to help subscribers decide which
+housing opportunities to pursue and which to bypass. In
+addition, Roommate itself uses this information to
+channel subscribers away from listings where the
+individual offering housing has expressed preferences
+that aren't compatible with the subscriber's answers.
+The dissent tilts at windmills when it shows, quite
+convincingly, that Roommate's subscribers are
+information content providers who create the profiles
+by picking among options and providing their own
+answers. Dissent at 1180-82. There is no disagreement
+on this point. But, the fact that users are information
+content providers does not preclude Roommate from
+also being an information content provider by helping
+"develop" at least "in part" the information in the
+profiles. As we explained in Batzel, the party responsible
+for putting information online may be subject to
+liability, even if the information originated with a user.
+See Batzel v. Smith, 333 F.3d 1018, 1033 (9th
+Cir.2003).18
+[521 F.3d 1166] Here, the part of the profile that is alleged
+to offend the Fair Housing Act and state housing
+discrimination laws — the information about sex, family
+status and sexual orientation — is provided by
+subscribers in response to Roommate's questions, which
+they cannot refuse to answer if they want to use
+defendant's services. By requiring subscribers to provide
+the information as a condition of accessing its service,
+and by providing a limited set of pre-populated answers,
+Roommate becomes much more than a passive
+transmitter of information provided by others; it
+becomes the developer, at least in part, of that
+information. And section 230 provides immunity only if
+the interactive computer service does not "creat[e] or
+develop[]" the information "in whole or in part." See 47
+U.S.C. § 230(f)(3).
+Our dissenting colleague takes a much narrower view of
+what it means to "develop" information online, and
+concludes that Roommate does not develop the
+information because "[a]ll Roommate does is to provide
+a form with options for standardized answers." Dissent
+at 1182. But Roommate does much more than provide
+options. To begin with, it asks discriminatory questions
+that even the dissent grudgingly admits are not entitled
+to CDA immunity. Dissent at 1177 n. 5. The FHA
+makes it unlawful to ask certain discriminatory
+questions for a very good reason: Unlawful questions
+solicit (a.k.a."develop") unlawful answers. Not only does
+Roommate ask these questions, Roommate makes
+answering the discriminatory questions a condition of
+doing business. This is no different from a real estate
+broker in real life saying, "Tell me whether you're
+Jewish or you can find yourself another broker." When
+a business enterprise extracts such information from
+potential customers as a condition of accepting them as
+clients, it is no stretch to say that the enterprise is
+responsible, at least in part, for developing that
+information. For the dissent to claim that the
+information in such circumstances is "created solely by"
+the customer, and that the business has not helped in the
+least to develop it, Dissent at 1181-82, strains both
+credulity and English.19
+Roommate also argues that it is not responsible for the
+information on the profile page because it is each
+subscriber's action that leads to publication of his
+particular profile — in other words, the user pushes the
+last button or takes the last act before publication. We
+are not convinced that this is even true,20 but don't see
+why it matters anyway. The projectionist in the theater
+may push the last button before a film is displayed on
+the screen, but surely this doesn't make him the sole
+producer of [521 F.3d 1167] the movie. By any reasonable
+use of the English language, Roommate is "responsible"
+at least "in part" for each subscriber's profile page,
+because every such page is a collaborative effort between
+Roommate and the subscriber.
+Similarly, Roommate is not entitled to CDA immunity
+for the operation of its search system, which filters
+listings, or of its email notification system, which directs
+emails to subscribers according to discriminatory
+criteria.21 Roommate designed its search system so it
+would steer users based on the preferences and personal
+characteristics that Roommate itself forces subscribers
+to disclose. If Roommate has no immunity for asking
+the discriminatory questions, as we concluded above, see
+pp. 1163-65 supra, it can certainly have no immunity for
+using the answers to the unlawful questions to limit
+who has access to housing.
+For example, a subscriber who self-identifies as a "Gay
+male" will not receive email notifications of new
+housing opportunities supplied by owners who limit the
+universe of acceptable tenants to "Straight male(s),"
+"Straight female(s)" and "Lesbian(s)." Similarly,
+subscribers with children will not be notified of new
+listings where the owner specifies "no children."
+Councils charge that limiting the information a
+subscriber can access based on that subscriber's
+protected status violates the Fair Housing Act and state
+housing discrimination laws. It is, Councils allege, no
+different from a real estate broker saying to a client:
+"Sorry, sir, but I can't show you any listings on this
+block because you are [gay/female/black/a parent]." If
+such screening is prohibited when practiced in person
+or by telephone, we see no reason why Congress would
+have wanted to make it lawful to profit from it online.
+Roommate's search function is similarly designed to
+steer users based on discriminatory criteria. Roommate's
+search engine thus differs materially from generic search
+engines such as Google, Yahoo! and MSN Live Search,
+in that Roommate designed its system to use allegedly
+unlawful criteria so as to limit the results of each search,
+and to force users to participate in its discriminatory
+process. In other words, Councils allege that
+Roommate's search is designed to make it more difficult
+or impossible for individuals with certain protected
+characteristics to find housing — something the law
+prohibits. By contrast, ordinary search engines do not
+use unlawful criteria to limit the scope of searches
+conducted on them, nor are they designed to achieve
+illegal ends — as Roommate's search function is alleged
+to do here. Therefore, such search engines play no part
+in the "development" of any unlawful searches. See 47
+U.S.C. § 230(f)(3).
+It's true that the broadest sense of the term "develop"
+could include the functions of an ordinary search engine
+— indeed, just about any function performed by a
+website. But to read the term so broadly would defeat
+the purposes of section 230 by swallowing up every bit
+of the immunity that the section otherwise provides. At
+the same time, reading the exception for co-developers
+as applying only to content that originates entirely with
+the website — as the dissent would seem to suggest —
+ignores the words "development . . . in part" in the
+statutory passage "creation or development in whole or
+in part." 47 U.S.C. § 230(f)(3) (emphasis added). We
+believe that both the immunity for passive conduits and
+the exception for co-developers must be given their
+proper scope and, to that end, we interpret the term
+"development" as referring not merely [521 F.3d 1168] to
+augmenting the content generally, but to materially
+contributing to its alleged unlawfulness. In other words,
+a website helps to develop unlawful content, and thus
+falls within the exception to section 230, if it contributes
+materially to the alleged illegality of the conduct.
+The dissent accuses us of "rac[ing] past the plain
+language of the statute," dissent at 1185, but we clearly
+do pay close attention to the statutory language,
+particularly the word "develop;" which we spend many
+pages exploring. The dissent may disagree with our
+definition of the term, which is entirely fair, but surely
+our dissenting colleague is mistaken in suggesting we
+ignore the term. Nor is the statutory language quite as
+plain as the dissent would have it. Dissent at 1183-85.
+Quoting selectively from the dictionary, the dissent
+comes up with an exceedingly narrow definition of this
+rather complex and multi faceted term.22 Dissent at 1184
+(defining development as "gradual advance or growth
+through progressive changes") (quoting Webster's
+Third New International Dictionary 618 (2002)). The
+dissent does not pause to consider how such a definition
+could apply to website content at all, as it excludes the
+kinds of swift and disorderly changes that are the
+hallmark of growth on the Internet. Had our dissenting
+colleague looked just a few lines lower on the same page
+of the same edition of the same dictionary, she would
+have found another definition of "development" that is
+far more suitable to the context in which we operate:
+"making usable or available." Id. The dissent does not
+explain why the definition it has chosen reflects the
+statute's "plain meaning," while the ones it bypasses do
+not.
+More fundamentally, the dissent does nothing at all to
+grapple with the difficult statutory problem posed by the
+fact that section 230(c) uses both "create" and "develop"
+as separate bases for loss of immunity. Everything that
+the dissent includes within its cramped definition of
+"development" fits just as easily within the definition of
+"creation" — which renders the term "development"
+superfluous. The dissent makes no attempt to explain or
+offer examples as to how its interpretation of the statute
+leaves room for "development" as a separate basis for a
+website to lose its immunity, yet we are advised by the
+Supreme Court that we must give meaning to all
+statutory terms, avoiding redundancy or duplication
+wherever possible. See Park `N Fly, Inc. v. Dollar Park &
+Fly, Inc., 469 U.S. 189, 197, 105 S.Ct. 658, 83 L.Ed.2d
+582 (1985).
+While content to pluck the "plain meaning" of the
+statute from a dictionary definition that predates the
+Internet by decades, compare Webster's Third New
+International Dictionary 618 (1963) with Webster's
+Third New International Dictionary 618 (2002) (both
+containing "gradual advance or growth through
+progressive changes"), the dissent overlooks the far
+more relevant definition of "[web] content
+development" in Wikipedia: "the process of researching,
+writing, gathering, organizing and editing information
+for publication on web sites." Wikipedia, Content
+Development (Web), http://en.wikipedia.
+org/w/index.php?title=Content — development — web.
+& oldid=188219503 (last visited Mar. 19, 2008). Our
+interpretation of "development" is entirely in line with
+the context-appropriate meaning of the term, [521 F.3d
+1169] and easily fits the activities Roommate engages in.
+In an abundance of caution, and to avoid the kind of
+misunderstanding the dissent seems to encourage, we
+offer a few examples to elucidate what does and does not
+amount to "development" under section 230 of the
+Communications Decency Act: If an individual uses an
+ordinary search engine to query for a "white roommate,"
+the search engine has not contributed to i any alleged
+unlawfulness in the individual's conduct; providing
+neutral tools to carry out what may be unlawful or illicit
+searches does not amount to "development" for
+purposes of the immunity exception. A dating website
+that requires users to enter their sex, race, religion and
+marital status through drop-down menus, and that
+provides means for users to search along the same lines,
+retains its CDA immunity insofar as it does not
+contribute to any alleged illegality;23 this immunity is
+retained even if the website is sued for libel based on
+these characteristics because the website would not have
+contributed materially to any alleged defamation.
+Similarly, a housing website that allows users to specify
+whether they will or will not receive emails by means of
+user-defined criteria might help some users exclude
+email from other users of a particular race or sex.
+However, that website would be immune, so long as it
+does not require the use of discriminatory criteria. A
+website operator who edits user-created content — such
+as by correcting spelling, removing obscenity or
+trimming for length — retains his "immunity for any
+illegality in the user-created content, provided that the
+edits are unrelated to the illegality. However, a website
+operator who edits in a manner that contributes to the
+alleged illegality — such as by removing the word "not"
+from a user's message reading "[Name] did not steal the
+artwork" in order to transform an innocent message
+into a libelous one — is directly involved in the alleged
+illegality and thus not immune.24
+Here, Roommate's connection to the discriminatory
+filtering process is direct and palpable: Roommate
+designed its search and email systems to limit the listings
+available to subscribers based on sex, sexual orientation
+and presence of children.25 Roommate selected the
+criteria used to hide listings, and Councils allege that the
+act of hiding certain listings is itself unlawful under the
+Fair Housing Act, which prohibits brokers from steering
+clients in accordance with discriminatory [521 F.3d 1170]
+preferences.26 We need not decide the merits of
+Councils' claim to hold that Roommate is sufficiently
+involved with the design and operation of the search
+and email systems — which are engineered to limit
+access to housing on the basis of the protected
+characteristics elicited by the registration process — so
+as to forfeit any immunity to which it was otherwise
+entitled under section 230.
+Roommate's situation stands in stark contrast to
+Stratton Oakmont, the case Congress sought to reverse
+through passage of section 230. There, defendant
+Prodigy was held liable for a user's unsolicited message
+because it attempted to remove some problematic
+content from its website, but didn't remove enough.
+Here, Roommate is not being sued for removing some
+harmful messages while failing to remove others;
+instead, it is being sued for the predictable consequences
+of creating a website designed to solicit and enforce
+housing preferences that are alleged to be illegal.
+We take this opportunity to clarify two of our previous
+rulings regarding the scope of section 230 immunity.
+Today's holding sheds additional light on Batzel v.
+Smith, 333 F.3d 1018 (9th Cir.2003). There, the editor
+of an email newsletter received a tip about some
+artwork, which the tipster falsely alleged to be stolen.
+The newsletter editor incorporated the tipster's email
+into the next issue of his newsletter and added a short
+headnote, which he then emailed to his subscribers.27
+The art owner sued for libel and a split panel held the
+newsletter editor to be immune under section 230 of the
+CDA.28
+Our opinion is entirely consistent with that part of
+Batzel which holds that an editor's minor changes to the
+spelling, grammar and length of third-party content do
+not strip him of section 230 immunity. None of those
+changes contributed to the libelousness of the message,
+so they do not add up to "development" as we interpret
+the term. See pp. 1167-69 supra. Batzel went on to hold
+that the editor could be liable for selecting the tipster's
+email for inclusion in the newsletter, depending on
+whether or not the tipster had tendered the piece to the
+editor for posting online, and remanded for a
+determination of that issue. Batzel, 333 F.3d at 1035.
+The distinction drawn by Batzel anticipated the
+approach we take today. As Batzel explained, if the
+tipster tendered the material for posting online, then the
+editor's job was, essentially, to determine whether or
+not to prevent its posting — precisely the kind of activity
+for which section 230 was meant to provide immunity.29
+And any activity that can be boiled [521 F.3d 1171] down
+to deciding whether to exclude material that third
+parties seek to post online is perforce immune under
+section 230. See p. 1171-72 & n. 32 infra. But if the
+editor publishes material that he does not believe was
+tendered to him for posting online, then he is the one
+making the affirmative decision to publish, and so he
+contributes materially to its allegedly unlawful
+dissemination. He is thus properly deemed a developer
+and not entitled to CDA immunity. See Batzel, 333 F.3d
+at 1033.30
+We must also clarify the reasoning undergirding our
+holding in Carafano v. Metrosplash.com, Inc., 339 F.3d
+1119 (9th Cir.2003), as we used language there that was
+unduly broad. In Carafano, an unknown prankster
+impersonating actress Christianne Carafano created a
+profile for her on an online dating site. The profile
+included Carafano's home address and suggested that
+she was looking for an unconventional liaison. When
+Carafano received threatening phone calls, she sued the
+dating site for publishing the unauthorized profile. The
+site asserted immunity under section 230. We correctly
+held that the website was immune, but incorrectly
+suggested that it could never be liable because "no
+[dating] profile has any content until a user actively
+creates it." Id. at 1124. As we explain above, see pp.
+1165-69 supra, even if the data are supplied by third
+parties, a website operator may still contribute to the
+content's illegality and thus be liable as a developer.31
+Providing immunity every time a website uses data
+initially obtained from third parties would eviscerate the
+exception to section 230 for "develop[ing]" unlawful
+content "in whole or in part." 47 U.S.C. § 230(f)(3).
+We believe a more plausible rationale for the
+unquestionably correct result in Carafano is this: The
+allegedly libelous content there — the false implication
+that Carafano was unchaste — was created and
+developed entirely by the malevolent user, without
+prompting or help from the website operator. To be
+sure, the website provided neutral tools, which the
+anonymous dastard used to publish the libel, but the
+website did absolutely nothing to encourage the posting
+of defamatory content — indeed, the defamatory posting
+was contrary to the website's express policies. The claim
+against the website was, in effect, that it failed to review
+each user-created profile to ensure that it wasn't
+defamatory. That is precisely the kind of [521 F.3d 1172]
+activity for which Congress intended to grant absolution
+with the passage of section 230. With respect to the
+defamatory content, the website operator was merely a
+passive conduit and thus could not be held liable for
+failing to detect and remove it.32
+By contrast, Roommate both elicits the allegedly illegal
+content and makes aggressive use of it in conducting its
+business. Roommate does not merely provide a
+framework that could be utilized for proper or improper
+purposes; rather, Roommate's work in developing the
+discriminatory questions, discriminatory answers and
+discriminatory search mechanism is directly related to
+the alleged illegality of the site. Unlike Carafano, where
+the website operator had nothing to do with the user's
+decision to enter a celebrity's name and personal
+information in an otherwise licit dating service, here,
+Roommate is directly involved with developing and
+enforcing a system that subjects subscribers to allegedly
+discriminatory housing practices.
+Our ruling today also dovetails with another facet of
+Carafano: The mere fact that an interactive computer
+service "classifies user characteristics . . . does not
+transform [it] into a `developer' of the `underlying
+misinformation.'" Carafano, 339 F.3d at 1124. Carafano,
+like Batzel, correctly anticipated our common-sense
+interpretation of the term "develop[]" in section 230. Of
+course, any classification of information, like the sorting
+of dating profiles by the type of relationship sought in
+Carafano, could be construed as "develop[ment]" under
+an unduly broad reading of the term. But, once again,
+such a broad reading would sap section 230 of all
+meaning.
+The salient fact in Carafano was that the website's
+classifications of user characteristics did absolutely
+nothing to enhance the defamatory sting of the message,
+to encourage defamation or to make defamation easier:
+The site provided neutral tools specifically designed to
+match romantic partners depending on their voluntary
+inputs. By sharp contrast, Roommate's website is
+designed to force subscribers to divulge protected
+characteristics and discriminatory preferences, and to
+match those who have rooms with those who are
+looking for rooms based on criteria that appear to be
+prohibited by the FHA.33
+[521 F.3d 1173] 3. Councils finally argue that Roommate
+should be held liable for the discriminatory statements
+displayed in the "Additional Comments" section of
+profile pages. At the end of the registration process, on a
+separate page from the other registration steps,
+Roommate prompts subscribers to "tak[e] a moment to
+personalize your profile by writing a paragraph or two
+describing yourself and what you are looking for in a
+roommate." The subscriber is presented with a blank
+text box, in which he can type as much or as little about
+himself as he wishes. Such essays are visible only to
+paying subscribers.
+Subscribers provide a variety of provocative, and often
+very revealing, answers. The contents range from
+subscribers who "[p]ref[er] white Male roommates" or
+require that "[t]he person applying for the room MUST
+be a BLACK GAY MALE" to those who are "NOT
+looking for black muslims." Some common themes are a
+desire to live without "drugs, kids or animals" or
+"smokers, kids or druggies," while a few subscribers
+express more particular preferences, such as preferring
+to live in a home free of "psychos or anyone on mental
+medication." Some subscribers are just looking for
+someone who will get along with their significant
+other34 or with their most significant Other.35
+Roommate publishes these comments as written.36 It
+does not provide any specific guidance as to what the
+essay should contain, nor does it urge subscribers to
+input [521 F.3d 1174] discriminatory preferences.
+Roommate is not responsible, in whole or in part, for
+the development of this content, which comes entirely
+from subscribers and is passively displayed by
+Roommate. Without reviewing every essay, Roommate
+would have no way to distinguish unlawful
+discriminatory preferences from perfectly legitimate
+statements. Nor can there be any doubt that this
+information was tendered to Roommate for publication
+online. See pp. 1170-71 supra. This is precisely the kind
+of situation for which section 230 was designed to
+provide immunity. See pp. 1162-64 supra.
+The fact that Roommate encourages subscribers to
+provide something in response to the prompt is not
+enough to make it a "develop[er]" of the information
+under the common-sense interpretation of the term we
+adopt today. It is entirely consistent with Roommate's
+business model to have subscribers disclose as much
+about themselves and their preferences as they are
+willing to provide. But Roommate does not tell
+subscribers what kind of information they should or
+must include as "Additional Comments," and certainly
+does not encourage or enhance any discriminatory
+content created by users. Its simple, generic prompt does
+not make it a developer of the information posted.37
+Councils argue that — given the context of the
+discriminatory questions presented earlier in the
+registration process — the "Additional Comments"
+prompt impliedly suggests that subscribers should make
+statements expressing a desire to discriminate on the
+basis of protected classifications; in other words,
+Councils allege that, by encouraging some
+discriminatory preferences, Roommate encourages
+other discriminatory preferences when it gives
+subscribers a chance to describe themselves. But the
+encouragement that bleeds over from one part of the
+registration process to another is extremely weak, if it
+exists at all. Such weak encouragement cannot strip a
+website of its section 230 immunity, lest that immunity
+be rendered meaningless as a practical matter.38
+We must keep firmly in mind that this is an immunity
+statute we are expounding, a provision enacted to
+protect websites against the evil of liability for failure to
+remove offensive content. See pp. 1162-64 supra.
+Websites are complicated enterprises, and there will
+always be close cases where a clever lawyer could argue
+that something the website operator did encouraged the
+illegality. Such close cases, we believe, must be resolved
+in favor of immunity, lest we cut the heart out of section
+230 by forcing websites to face death by ten thousand
+duck-bites, fighting off claims that they promoted or
+encouraged — or at least tacitly assented to — the
+illegality of third parties. Where it is very clear that the
+website directly participates in developing the alleged
+illegality — as it is clear here with respect to Roommate's
+questions, answers and the resulting profile pages —
+immunity will be lost. But in cases of enhancement by
+implication or [521 F.3d 1175] development by inference
+— such as with respect to the "Additional Comments"
+here — section 230 must be interpreted to protect
+websites not merely from ultimate liability, but from
+having to fight costly and protracted legal battles.
+The dissent prophesies doom and gloom for countless
+Internet services, Dissent at 1183-84, but fails to
+recognize that we hold part of Roommate's service
+entirely immune from liability. The search engines the
+dissent worries about, id., closely resemble the
+"Additional Comments" section of Roommate's website.
+Both involve a generic text prompt with no direct
+encouragement to perform illegal searches or to publish
+illegal content. We hold Roommate immune and there
+is no reason to believe that future courts will have any
+difficulty applying this principle.39 The message to
+website operators is clear: If you don't encourage illegal
+content, or design your website to require users to input
+illegal content, you will be immune.
+We believe that this distinction is consistent with the
+intent of Congress to preserve the free-flowing nature
+of Internet speech and commerce without unduly
+prejudicing the enforcement of other important state
+and federal laws. When Congress passed section 230 it
+didn't' intend to prevent the enforcement of all laws
+online; rather, it sought to encourage interactive
+computer services that provide users neutral tools to
+post content online to police that content without fear
+that through their "good Samaritan . . . screening of
+offensive material," 47 U.S.C. § 230(c), they would
+become liable for every single message posted by third
+parties on their website.
+* * *
+In light of our determination that the CDA does not
+provide immunity to Roommate for all of the content of
+its website and email newsletters, we remand for the
+district court to determine in the first instance whether
+the alleged actions for which Roommate is not immune
+violate the Fair Housing Act, 42 U.S.C. § 3604(c).40 We
+vacate the dismissal of the state law claims so that the
+district court may reconsider whether to exercise its
+supplemental jurisdiction in light of our ruling on the
+federal claims. Fredenburg v. Contra Costa County
+Dep't of Health Servs., 172 F.3d 1176, 1183 (9th
+Cir.1999). We deny Roommate's [521 F.3d 1176] crossappeal
+of the denial of attorneys' fees and costs; Councils
+prevail on some of their arguments before us so their
+case is perforce not frivolous.
+REVERSED in part, VACATED in part, AFFIRMED in
+part and REMANDED. 

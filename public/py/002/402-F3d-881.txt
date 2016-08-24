@@ -1,0 +1,518 @@
+May an assignee who holds an accrued claim for
+copyright infringement, but who has no legal or
+beneficial interest in the copyright itself, institute an
+action for infringement? After analyzing the 1976
+Copyright Act and its history, as well as the scant,
+although persuasive, precedent that is available in
+analogous situations, we answer that question "no."
+Accordingly, we reverse the ruling of the district court,
+which allowed this action by the assignee to proceed.
+FACTUAL AND PROCEDURAL
+BACKGROUND
+Nancey Silvers wrote the script of a made-for-television
+movie called "The Other Woman." Although Silvers
+wrote "The Other Woman" script, she did not hold the
+copyright, because "The Other Woman" was a workfor-hire
+that Silvers completed for Frank & Bob Films II,
+aka Von Zerneck/Sertner Films ("Frank & Bob Films").
+Frank & Bob Films was the original owner of the
+copyright to "The Other Woman," and remains so
+today.
+About three years after "The Other Woman" aired on a
+broadcast network, Sony Pictures Entertainment, Inc.,
+released the motion picture "Stepmom." After the
+release of "Stepmom," Frank & Bob Films executed an
+"Assignment of Claims and Causes of Action" in favor of
+Silvers. Frank & Bob Films retained ownership of the
+underlying copyright to "The Other Woman" script, but
+assigned to Silvers "all right, title and interest in and to
+any claims and causes of action against Sony Pictures
+Entertainment, Inc., Columbia TriStar, and any other
+appropriate persons or entities, with respect to the
+screenplay `The Other Woman' ... and the motion
+picture `Stepmom.'"
+Silvers then filed a complaint against Sony for copyright
+infringement, alleging that the movie "Stepmom" was
+substantially similar to the script for "The Other
+Woman." Sony moved to dismiss on the ground that
+Silvers lacked standing to bring an action for copyright
+infringement in the absence of some legal or beneficial
+ownership in the underlying copyright. The district
+court denied the motion and certified the issue for
+interlocutory appeal. See 28 U.S.C. § 1292(b) (providing
+procedure).
+A panel of this court affirmed the district court's
+decision. Silvers v. Sony Pictures Entm't, Inc., 330 F.3d
+1204 (9th Cir.2003). The court then voted to take this
+case en banc, 370 F.3d 1252 (9th Cir.2004), withdrawing
+that opinion.
+STANDARD OF REVIEW
+We review de novo the district court's denial of Sony's
+motion to dismiss. Glen Holly Entm't v. Tektronix Inc.,
+352 F.3d 367, 368 (9th Cir.2003). Likewise, we review
+de novo the district court's resolution of legal issues. Cal.
+Satellite Sys. v. Seimon, 767 F.2d 1364, 1366 (9th
+Cir.1985).
+DISCUSSION
+A. The Statute
+Article I, section 8, clause 8, of the Constitution states:
+"The Congress shall have Power ... To promote the
+Progress of Science and useful Arts by securing for
+limited Times to Authors ... the exclusive Right to their
+... Writings...." As is clear from its text, that clause of the
+Constitution grants no substantive protections to
+authors. Rather, Congress is empowered to provide
+copyright protection.
+Copyright, therefore, is a creature of statute, and the
+only rights that exist under copyright law are those
+granted by [402 F.3d 884] statute. As the Supreme Court
+wrote 170 years ago:
+This right [in copyright] ... does not exist at common law-it
+originated, if at all, under the acts of congress. No one can deny that
+when the legislature are about to vest an exclusive right in an
+author or an inventor, they have the power to prescribe the
+conditions on which such right shall be enjoyed....
+Wheaton v. Peters, 33 U.S. (8 Pet.) 591, 663-64, 8 L.Ed.
+1055 (1834); see also Stewart v. Abend, 495 U.S. 207,
+251, 110 S.Ct. 1750, 109 L.Ed.2d 184 (1990) (Stevens, J.,
+dissenting) (stating that copyright is statutorily created);
+M. Kramer Mfg. Co. v. Andrews, 783 F.2d 421, 432 (4th
+Cir.1986) ("The right of copyright is a creature of
+federal statute, with its constitutional base in Article I, §
+8, cl. 8."); Russell v. Price, 612 F.2d 1123, 1129 n. 17 (9th
+Cir.1979) ("Common-law copyright is no longer
+recognized under the [1976] Act...."); Microsoft Corp. v.
+Grey Computer, 910 F.Supp. 1077, 1084 (D.Md.1995)
+("Unlike contracts, copyrights and the rights flowing
+therefrom are entirely creatures of statute....").
+Accordingly, our starting point is the statute.
+Section 501(b) of the 1976 Copyright Act establishes
+who is legally authorized to sue for infringement of a
+copyright:
+The legal or beneficial owner of an exclusive right under a
+copyright is entitled, subject to the requirements of section 411, to
+institute an action for any infringement of that particular right
+committed while he or she is the owner of it.
+17 U.S.C. § 501(b) (emphasis added). The meaning of
+that provision appears clear. To be entitled to sue for
+copyright infringement, the plaintiff must be the "legal
+or beneficial owner of an exclusive right under a
+copyright." See 4 Business and Commercial Litigation in
+Federal Courts, at 1062, § 65.3(a)(4) (Robert L. Haig ed.)
+(West Group & ABA 1998) ("If a claimant is not a
+proper owner of copyright rights, then it cannot invoke
+copyright protection stemming from the exclusive rights
+belonging to the owner, including infringement of the
+copyright.").
+Section 106 of the 1976 Copyright Act, in turn, defines
+"exclusive rights":
+(1) to reproduce the copyrighted work in copies or phonorecords;
+(2) to prepare derivative works based upon the copyrighted work;
+(3) to distribute copies or phonorecords of the copyrighted work to
+the public by sale or other transfer of ownership, or by rental, lease,
+or lending;
+(4) in the case of literary, musical, dramatic, and choreographic
+works, pantomimes, and motion pictures and other audiovisual
+works, to perform the copyrighted work publicly;
+(5) in the case of literary, musical, dramatic, and choreographic
+works, pantomimes, and pictorial, graphic, or sculptural works,
+including the individual images of a motion picture or other
+audiovisual work, to display the copyrighted work publicly; and
+(6) in the case of sound recordings, to perform the copyrighted
+work publicly by means of a digital audio transmission.
+17 U.S.C. § 106. The right to sue for an accrued claim
+for infringement is not an exclusive right under § 106.
+Section 201(d) refers to exclusive rights and provides:
+(1) The ownership of a copyright may be transferred in whole or in
+part by any means of conveyance or by operation of law, and may
+be bequeathed by will or pass as personal property by the applicable
+laws of intestate succession.
+(2) Any of the exclusive rights comprised in a copyright, including
+any subdivision [402 F.3d 885] of any of the rights specified by
+section 106, may be transferred as provided by clause (1) and owned
+separately. The owner of any particular exclusive right is entitled,
+to the extent of that right, to all of the protection and remedies
+accorded to the copyright owner by this title.
+17 U.S.C. § 201(d). Exclusive rights in a copyright may
+be transferred and owned separately, but § 201(d)
+creates no exclusive rights other than those listed in §
+106, nor does it create an exception to § 501(b).
+Section 501(b) must also be read in conjunction with §
+501(a), which provides that one who "violates any of the
+exclusive rights of the copyright owner as provided by
+sections 106 through 122 ... is an infringer." The
+definition of an infringer in subsection (a) is parallel to
+the definition of a proper plaintiff in subsection (b).
+Common to both subsections is an exclusive copyright
+interest.
+In addition, when a copyright interest is transferred it
+must be recorded to protect the copyright holder's right
+to bring an infringement suit. 17 U.S.C. § 205(d); see
+H.R.Rep. No. 94-1476, at 129 (1976), reprinted in 1976
+U.S.C.C.A.N. 5659, 5744 ("The provisions of subsection
+(d)[ ] requir[e] recordation of transfers as a prerequisite
+to the institution of an infringement suit...."). This
+requirement ensures that prospective buyers or
+transferees have notice of the copyright interests owned
+by others. See H.R.Rep. No. 94-1476, at 128, reprinted
+in 1976 U.S.C.C.A.N. at 5744 (stating that a copyright
+recorded in compliance with subsection (c) provides
+constructive notice of its contents). By contrast, the
+recording statute does not contemplate a transfer of
+anything other than an ownership interest in the
+copyright, along with the concomitant exclusive rights.
+Returning to the operative section, under § 501(b) the
+plaintiff must have a legal or beneficial interest in at
+least one of the exclusive rights described in § 106.
+Additionally, in order for a plaintiff to be "entitled ... to
+institute an action" for infringement, the infringement
+must be "committed while he or she is the owner of" the
+particular exclusive right allegedly infringed. 17 U.S.C. §
+501(b).
+The statute does not say expressly that only a legal or
+beneficial owner of an exclusive right is entitled to sue.
+But, under traditional principles of statutory
+interpretation, Congress' explicit listing of who may sue
+for copyright infringement should be understood as an
+exclusion of others from suing for infringement. The
+doctrine of expressio unius est exclusio alterius"as
+applied to statutory interpretation creates a
+presumption that when a statute designates certain
+persons, things, or manners of operation, all omissions
+should be understood as exclusions." Boudette v.
+Barnette, 923 F.2d 754, 756-57 (9th Cir.1991).
+There are two particularly important reasons to apply
+such a presumption here. First, we are mindful of the
+principle with which we began our discussion:
+Copyright is a creature of statute, so we will not lightly
+insert common law principles that Congress has left out.
+Second, the durational limitation in § 501(b) shows that
+Congress restricted even the legal or beneficial owner of
+a copyright; the owner is not entitled to sue unless the
+alleged infringement occurred "while he or she [was]
+the owner of it." In other words, Congress' grant of the
+right to sue was carefully circumscribed.
+We think the meaning of § 501(b) is clear, but we
+recognize that its omission explicitly to address the
+present question may create an ambiguity. Therefore,
+we consult legislative history. See United States v. Daas,
+198 F.3d 1167, 1174 (9th Cir.1999) [402 F.3d 886] ("The
+first step in ascertaining congressional intent is to look
+to the plain language of the statute.... If the statute is
+ambiguous ... courts may look to its legislative history
+for evidence of congressional intent.").
+B. Legislative History
+The 1976 Copyright Act was the result of 15 years of
+drafting, deliberations, and compromise. See H.R.Rep.
+No. 94-1476. The House Report suggests strongly that
+Congress intended to limit the class of persons who may
+sue for infringement:
+Subsection (b) of section 501 enables the owner of a particular right
+to bring an infringement action in that owner's name alone, while
+at the same time insuring to the extent possible that the other
+owners whose rights may be affected are notified and given a
+chance to join the action.
+The first sentence of subsection (b) empowers the "legal or
+beneficial owner of an exclusive right" to bring suit for "any
+infringement of that particular right committed while he or she is
+the owner of it." A "beneficial owner" for this purpose would
+include, for example, an author who had parted with legal title to
+the copyright in exchange for percentage royalties based on sales or
+license fees.
+H.R.Rep. No. 94-1476, at 159, reprinted in 1976
+U.S.C.C.A.N. at 5775 (emphasis added). Non-owners
+claiming a bare right to sue, such as Silvers, are not
+entitled to notice or joinder, which suggests that
+Congress did not envision their existence, or that the
+right to sue was a right severable from ownership of one
+of the authorized exclusive rights.
+In other words, Congress wanted to ensure that an
+owner of any exclusive right in the copyright was
+entitled to bring a suit for infringement. Congress
+foresaw a permissible division of exclusive rights; the
+owner of any one of those exclusive rights may sue, with
+other owners being entitled to notice and joinder. In
+this sense, Congress intended to "unbundle" the
+exclusive rights.
+Under the 1909 Copyright Act, which was the
+predecessor of the Copyright Act of 1976, a copyright
+"proprietor" was the only individual who had standing
+to sue for an infringement. 17 U.S.C. § 101(b) (1952);
+Gardner v. Nike, Inc., 279 F.3d 774, 777-78 (9th
+Cir.2002). Courts interpreted the 1909 statute as
+providing a proprietor with an indivisible bundle of
+rights arising from a copyright — rights that could not
+be assigned piecemeal. Id. at 778. This enforced unity of
+rights created serious hardships for copyright holders
+who were interested in assigning the various property
+rights arising from a copyright separately, for instance
+selling the motion picture rights in a novel separately
+from the right to print the novel in book form. See
+Roger D. Blair & Thomas F. Cotter, The Elusive Logic
+of Standing Doctrine in Intellectual Property Law, 74
+Tul. L.Rev. 1323, 1366-67 (2000) (discussing history).
+Congress, aware of these constraints on commercial
+dealings, largely dispensed with the doctrine of
+indivisibility in the Copyright Act of 1976. Id.; see also
+H.R.Rep. No. 94-1476, at 123, reprinted in 1976
+U.S.C.C.A.N. at 5738-39 (noting that the right to assign
+separate property interests in a copyright had "long been
+sought by authors and their representatives" and had
+"attracted wide support from other groups"). Although
+Congress allowed for divisibility of ownership interests
+under a copyright, it did not alter the requirement that
+only owners of an exclusive right in the copyright could
+bring suit.
+The legislative history makes clear, too, that the list of
+exclusive rights found in [402 F.3d 887] § 106 is
+exhaustive. The House Report states:
+The exclusive rights accorded to a copyright owner under section
+106 are "to do and to authorize" any of the activities specified in the
+five numbered clauses.
+H.R.Rep. No. 94-1476, at 61, reprinted in 1976
+U.S.C.C.A.N. at 5674. If a right is not "specified," then it
+is not one of the exclusive rights granted by Congress.
+The House Report that deals with the exclusive rights
+provided in § 106 also explains that "[e]ach of the five
+enumerated rights may be subdivided indefinitely and, ...
+in connection with section 201 [governing transfer of
+rights], each subdivision of an exclusive right may be
+owned and enforced separately." Id. (emphasis added).
+In other words, exclusive rights may be chopped up and
+owned separately, and each separate owner of a
+subdivided exclusive right may sue to enforce that
+owned portion of an exclusive right, no matter how
+small. For instance, A may own the copyright in a book,
+while B may own the right to develop the book into a
+screenplay. A may sue an infringer of the book; B may
+sue an infringer of the screenplay. But only owners of an
+exclusive right in a copyright may sue. For instance,
+neither A nor B in the example above could assign an
+accrued claim for copyright infringement to C if C had
+no legal or beneficial interest in the copyright.
+C. Patent Law
+We have long noted the strong connection between
+copyright and patent law: "Where precedent in
+copyright cases is lacking, it is appropriate to look for
+guidance to patent law `because of the historic kinship
+between patent law and copyright law.'" Harris v. Emus
+Records Corp., 734 F.2d 1329, 1333 (9th Cir.1984)
+(quoting Sony Corp. of Am. v. Universal City Studios,
+464 U.S. 417, 439, 104 S.Ct. 774, 78 L.Ed.2d 574 (1984));
+see also Gardner, 279 F.3d at 780-81 (relying in part on
+patent law to hold that rights under an exclusive
+copyright license could not be assigned without the
+original licensor's consent and holding that assignee
+lacked standing to sue). Although the Supreme Court
+has not addressed the issue at hand, it has addressed the
+question whether a bare assignment can give rise to a
+cause of action in the context of patent law.
+The Patent Act of 1952 provides that "[a] patentee shall
+have remedy by civil action for infringement of his
+patent." 35 U.S.C. § 281 (1988). Like the 1976 Copyright
+Act, the Patent Act does not explicitly forbid an
+assignment of causes of action separate from an
+assignment of substantive rights in the protected work.
+Nonetheless, the Supreme Court has interpreted the
+Patent Act to provide that only a holder of patent rights
+may sue.
+In Crown Die & Tool Co. v. Nye Tool & Machine
+Works, 261 U.S. 24, 26, 33-35, 43 S.Ct. 254, 67 L.Ed.
+516 (1923), the Supreme Court considered whether a
+patent holder could assign its claims for infringement to
+another party without also transferring rights in the
+patent. Like the 1976 Copyright Act, the Patent Act that
+was in force at the time the Supreme Court decided
+Crown Die did not explicitly forbid the assignment of
+bare causes of action for infringement:
+Every patent or any interest therein shall be assignable in law by an
+instrument in writing, and the patentee or his assigns or legal
+representatives may in like manner grant and convey an exclusive
+right under his patent to the whole or any specified part of the
+United States.
+Pub.L. No. 147, § 6, 42 Stat. 389, 391 (1922) (amending
+R.S. § 4849). Nevertheless, the Supreme Court held that
+a bare [402 F.3d 888] assignment cannot give rise to a
+cause of action for infringement. The Court expressed
+its holding in durational terms that echo 17 U.S.C. §
+501(b): "If the owner of the patent when the
+infringements took place has assigned his patent to one,
+and his claims for damages for infringement to another,
+then the latter cannot sue at law at all but must compel
+his assignor of the claims to sue for him." Id. at 44, 43
+S.Ct. 254. The Court reasoned:
+"The [patent] monopoly did not exist at common law, and the
+rights, therefore, which may be exercised under it cannot be
+regulated by the rules of the common law. It is created by the act of
+Congress; and no rights can be acquired in it unless authorized by
+statute, and in the manner the statute prescribes."
+Id. at 40, 43 S.Ct. 254 (quoting Gayler v. Wilder, 51 U.S.
+(10 How.) 477, 494, 13 L.Ed. 504 (1850)). That text is
+substantively identical to the Court's expression of the
+nature of copyright in Wheaton, 33 U.S. at 663-64:
+This right [in copyright] ... does not exist at common law — it
+originated, if at all, under the acts of congress. No one can deny that
+when the legislature are about to vest an exclusive right in an
+author or an inventor, they have the power to prescribe the
+conditions on which such right shall be enjoyed....
+Crown Die effectively creates a presumption that, when
+we consider standing under a statutory scheme
+involving intellectual property, common law doctrine
+does not apply.
+Courts continue to read the patent statute to mean that,
+in general, only a patentee (or an exclusive licensee who
+possesses all substantial rights in the patent) may
+institute an action for infringement. See Prima Tek II,
+L.L.C. v. A-Roo Co., 222 F.3d 1372, 1381 (Fed.Cir.2000)
+("Standing to sue for infringement depends entirely on
+the putative plaintiff's proprietary interest in the patent,
+not on any contractual arrangements among the parties
+regarding who may sue and who will be bound by
+judgments.... [A]'right to sue' clause cannot confer
+standing on a bare licensee...."); Ortho Pharm. Corp. v.
+Genetics Inst., Inc., 52 F.3d 1026, 1030 (Fed.Cir.1995)
+("Thus, the statute requires that the parties to an
+infringement suit will have the patentee on one side and
+the accused infringer on the other. Without the
+patentee as plaintiff, the remedies provided in the patent
+statute are unavailable except in extraordinary
+circumstances as where the patentee is the infringer, and
+cannot sue himself." (internal quotation marks
+omitted)).
+We should interpret the Copyright Act consistently
+with the requirement of the Patent Act. Despite the
+differences between patents and copyrights, and
+between the statutes governing them, the common
+question is whether a substantive, exclusive right to
+intellectual property may be divorced from a cause of
+action for infringement of that substantive right. Under
+both copyright and patent law, substantive rights are
+assignable; the question whether those rights are
+severable from the entitlement to sue someone for
+infringing those rights requires a similar analysis.
+Crown Die rejected the centerpiece of the district court's
+reasoning here, viz.: that because Congress did not
+expressly proscribe the right to assign a cause of action
+alone, such a right must exist. Instead, the Court used
+the same logic that we have applied: No rights exist with
+respect to patents unless they are created affirmatively
+by Congress, and courts may recognize only those rights
+that appear in the statute.
+D. Cases From Other Circuits
+Last but not least, we turn for guidance to the case law
+of other courts. Two other [402 F.3d 889] circuits have
+faced questions somewhat similar to the one we
+confront here. We find the Fifth Circuit's decision
+under the 1909 Copyright Act to be less persuasive than
+the Second Circuit's more recent opinion under the
+1976 Copyright Act.
+In Prather v. Neva Paperbacks, Inc., 410 F.2d 698, 699
+(5th Cir.1969), an author's publisher assigned to the
+author both the copyright to the author's work and the
+accrued causes of action related to the work. When the
+author sued the publisher for copyright infringement,
+the publisher claimed that the author lacked standing to
+sue. Id. The Fifth Circuit disagreed and held that the
+publisher clearly had transferred the right to sue to the
+author; the author, therefore, could maintain an action
+for infringement. Id. at 700.
+Prather is unhelpful authority for two reasons. First, it
+was decided before the 1976 Copyright Act was enacted
+and thus does not bear on how we should interpret §
+501(b). The predecessor to the 1976 Act, the 1909 Act,
+simply afforded the "proprietor" of a copyright the right
+to sue for infringement. 17 U.S.C. § 101(b) (1952); see
+also Melville B. Nimmer & David Nimmer, Nimmer on
+Copyright § 132 (1976). The 1909 Act did not define
+"proprietor" or "exclusive rights," nor did it provide that
+"legal or beneficial owners" of exclusive rights were
+entitled to sue for infringement. 17 U.S.C. § 101(b)
+(1952). Those features, missing in the 1909 Act, but
+present in the 1976 Act, are central to a decision on the
+present question.
+Second, the assignment in Prather involved both
+accrued causes of action and some of what we now
+would call exclusive rights. The contract included an
+assignment of "all ... right, title and interest in and to the
+copyright" of the book involved. Prather, 410 F.2d at
+699 n. 1. Therefore, the Prather court was not faced, as
+we are, with a situation in which the owner of all the
+exclusive rights and the owner of the accrued causes of
+action are two different people.
+The Second Circuit came to a different conclusion under
+the 1976 Copyright Act. In Eden Toys, Inc. v. Florelee
+Undergarment Co., 697 F.2d 27 (2d Cir.1982),
+superseded by rule and statute on other grounds, the
+court held that one who owns no exclusive right in a
+copyright may not sue for infringement. The court
+explained:
+Eden apparently believed that a third basis for standing under the
+Copyright Act existed, namely authorization by the copyright
+holder of suit by a person other than an exclusive licensee. Clause 9
+of the 1975 Eden/Paddington agreement ... contemplates such an
+arrangement. We do not believe that the Copyright Act permits
+holders of rights under copyrights to choose third parties to bring
+suits on their behalf. While F.R. Civ. P. 17(a) ordinarily permits the
+real party in interest to ratify a suit brought by another party, the
+Copyright Law is quite specific in stating that only the "owner of an
+exclusive right under a copyright" may bring suit.
+Id. at 32 n. 3 (citations omitted).
+It is not entirely clear whether the copyright holder in
+Eden Toys had granted to Eden the right to sue on
+accrued causes of action, as is the case here, or only the
+right to sue prospectively. Whether the assignment was
+prospective or retrospective, however, the court made
+plain the basic principle, which we also have derived
+from § 501(b) and its context and history, that only the
+owner of an exclusive right under the copyright is
+entitled to sue for infringement.
+A few years later, the Second Circuit decided ABKCO
+Music, Inc. v. Harrisongs Music, Ltd., 944 F.2d 971, 980
+(2d Cir.1991),[402 F.3d 890] a copyright case in which
+ABKCO had bought both the copyright to a song
+and"any and all rights assertable under copyright against
+the Infringing Composition in any part of the world
+which may have heretofore arisen or which may
+hereafter arise." (Internal quotation marks omitted.)
+Although the infringement in question had occurred
+before ABKCO bought the copyright, the court held
+that ABKCO could sue the infringer "not out of its
+ownership of the copyright, but from its ownership of
+the claims themselves which it purchased, along with
+the copyright, in 1978." Id. at 981. The Second Circuit
+made clear that its decision was limited to the situation
+in which the same entity purchased both the copyright
+and accrued claims;1 the only issue was one of timing,
+whether ownership of the copyright and occurrence of
+the infringement had to coincide. The court reaffirmed
+the principle of Eden Toys that a party that has no
+ownership interest has no standing to sue; "the
+Copyright Act does not permit copyright holders to
+choose third parties to bring suits on their behalf." Id. at
+980.
+We think it important to parallel the Second Circuit for
+two reasons. First, and more importantly, our
+independent analysis leads us to the same conclusion.
+Second, the creation of a circuit split would be
+particularly troublesome in the realm of copyright.2 The
+Supreme Court has noted "Congress' paramount goal in
+revising the 1976 Act of enhancing predictability and
+certainty of copyright ownership." Cmty. for Creative
+Non-Violence v. Reid, 490 U.S. 730, 749, 109 S.Ct.
+2166, 104 L.Ed.2d 811 (1989). As we have phrased it,
+"[c]ongressional intent to have national uniformity in
+copyright laws is clear." Syntek Semiconductor Co. v.
+Microchip Tech. Inc., 307 F.3d 775, 781 (9th Cir.2002).
+That admonition makes sense, given the nature of
+intellectual property. Inconsistent rules among the
+circuits would lead to different levels of protection in
+different areas of the country, even if the same alleged
+infringement is occurring nationwide.
+CONCLUSION
+The bare assignment of an accrued cause of action is
+impermissible under 17 U.S.C. § 501(b). Because that is
+all Frank & Bob Films conveyed to Silvers, Silvers was
+not entitled to institute and may not maintain this
+action against Sony for alleged infringement of the
+copyright in "The Other Woman."
+REVERSED

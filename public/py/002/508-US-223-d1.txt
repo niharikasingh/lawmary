@@ -1,0 +1,154 @@
+Section 924(c)(1) mandates a sentence enhancement for
+any defendant who "during and in relation to any crime
+of violence or drug trafficking crime . . . uses . . . a
+firearm." 18 U. S. C. § 924(c)(1). The Court begins its
+analysis by focusing upon the word "use" in this passage,
+and explaining that the dictionary definitions of that
+word are very broad. See ante, at 228-229. It is,
+however, a "fundamental principle of statutory
+construction (and, indeed, of language itself) that the
+meaning of a word cannot be determined in isolation,
+but must be drawn from the context in which it is used."
+Deal v. United States, ante, at 132. That is particularly
+true of a word as elastic as "use," whose meanings range
+all the way [508 U.S. 242] from "to partake of" (as in "he
+uses tobacco") to "to be wont or accustomed" (as in "he
+used to smoke tobacco"). See Webster's New
+International Dictionary 2806 (2d ed. 1950).
+In the search for statutory meaning, we give
+nontechnical words and phrases their ordinary meaning.
+See Chapman v. United States, 500 U.S. 453, 462 (1991);
+Perrin v. United States, 444 U.S. 37, 42 (1979); Minor v.
+Mechanics Bank of Alexandria, 1 Pet. 46, 64 (1828). To
+use an instrumentality ordinarily means to use it for its
+intended purpose. When someone asks, "Do you use a
+cane?," he is not inquiring whether you have your
+grandfather's silver-handled walking stick on display in
+the hall; he wants to know whether you walk with a
+cane. Similarly, to speak of "using a firearm" is to speak
+of using it for its distinctive purpose, i. e., as a weapon.
+To be sure, "one can use a firearm in a number of ways,"
+ante, at 230, including as an article of exchange, just as
+one can "use" a cane as a hall decoration—but that is not
+the ordinary meaning of "using" the one or the other.1
+The Court does not appear to grasp the distinction
+between how a word can be used and how it ordinarily
+is used. It would, indeed, be "both reasonable and
+normal to say that petitioner `used' his MAC-10 in his
+drug trafficking offense by trading it for cocaine." Ibid. It
+would also be reasonable and normal to say that he
+"used" it to scratch his head. When one wishes to
+describe the action of employing the instrument of a
+firearm for such unusual purposes, "use" is assuredly a
+[508 U.S. 243] verb one could select. But that says
+nothing about whether the ordinary meaning of the
+phrase "uses a firearm" embraces such extraordinary
+employments. It is unquestionably not reasonable and
+normal, I think, to say simply "do not use firearms"
+when one means to prohibit selling or scratching with
+them.
+The normal usage is reflected, for example, in the
+United States Sentencing Guidelines, which provide for
+enhanced sentences when firearms are "discharged,"
+"brandished, displayed, or possessed," or "otherwise
+used." See, e. g., United States Sentencing Commission,
+Guidelines Manual § 2B3.1(b)(2) (Nov. 1992). As to the
+latter term, the Guidelines say: "`Otherwise used' with
+reference to a dangerous weapon (including a firearm)
+means that the conduct did not amount to the discharge
+of a firearm but was more than brandishing, displaying,
+or possessing a firearm or other dangerous weapon."
+USSG § 1B1.1, comment., n. 1(g) (definitions).
+"Otherwise used" in this provision obviously means
+"otherwise used as a weapon."2
+[508 U.S. 244] Given our rule that ordinary meaning
+governs, and given the ordinary meaning of "uses a
+firearm," it seems to me inconsequential that "the words
+`as a weapon' appear nowhere in the statute," ante, at
+229; they are reasonably implicit. Petitioner is not, I
+think, seeking to introduce an "additional requirement"
+into the text, ibid., but is simply construing the text
+according to its normal import.
+The Court seeks to avoid this conclusion by referring to
+the next subsection of the statute, § 924(d), which does
+not employ the phrase "uses a firearm," but provides for
+the confiscation of firearms that are "used in" referenced
+offenses which include the crimes of transferring,
+selling, or transporting firearms in interstate commerce.
+The Court concludes from this that whenever the term
+appears in this statute, "use" of a firearm must include
+nonweapon use. See ante, at 233-236. I do not agree.
+We are dealing here not with a technical word or an
+"artfully defined" legal term, [508 U.S. 245] cf. Dewsnup
+v. Timm, 502 U.S. 410, 423 (1992) (Scalia, J.,
+dissenting), but with common words that are, as I have
+suggested, inordinately sensitive to context. Just as
+adding the direct object "a firearm" to the verb "use"
+narrows the meaning of that verb (it can no longer
+mean "partake of"), so also adding the modifier "in the
+offense of transferring, selling, or transporting firearms"
+to the phrase "use a firearm" expands the meaning of
+that phrase (it then includes, as it previously would not,
+nonweapon use). But neither the narrowing nor the
+expansion should logically be thought to apply to all
+appearances of the affected word or phrase. Just as every
+appearance of the word "use" in the statute need not be
+given the narrow meaning that word acquires in the
+phrase "use a firearm," so also every appearance of the
+phrase "use a firearm" need not be given the expansive
+connotation that phrase acquires in the broader context
+"use a firearm in crimes such as unlawful sale of
+firearms." When, for example, the statute provides that
+its prohibition on certain transactions in firearms "shall
+not apply to the loan or rental of a firearm to any person
+for temporary use for lawful sporting purposes," 18 U. S.
+C. §§ 922(a)(5)(B), (b)(3)(B), I have no doubt that the
+"use" referred to is only use as a sporting weapon, and
+not the use of pawning the firearm to pay for a ski trip.
+Likewise when, in § 924(c)(1), the phrase "uses . . . a
+firearm" is not employed in a context that necessarily
+envisions the unusual "use" of a firearm as a commodity,
+the normally understood meaning of the phrase should
+prevail.
+Another consideration leads to the same conclusion: §
+924(c)(1) provides increased penalties not only for one
+who "uses" a firearm during and in relation to any crime
+of violence or drug trafficking crime, but also for one
+who "carries" a firearm in those circumstances. The
+interpretation I would give the language produces an
+eminently reasonable dichotomy between "using a
+firearm" (as a weapon) and "carrying a firearm" (which
+in the context "uses or carries a firearm" [508 U.S. 246]
+means carrying it in such manner as to be ready for use
+as a weapon). The Court's interpretation, by contrast,
+produces a strange dichotomy between "using a firearm
+for any purpose whatever, including barter," and
+"carrying a firearm."3
+Finally, although the present prosecution was brought
+under the portion of § 924(c)(1) pertaining to use of a
+firearm "during and in relation to any . . . drug
+trafficking crime," I think it significant that that portion
+is affiliated with the preexisting provision pertaining to
+use of a firearm "during and in relation to any crime of
+violence," rather than with the firearm trafficking
+offenses defined in § 922 and referenced in § 924(d).
+The word "use" in the "crime of violence" context has
+the unmistakable import of use as a weapon, and that
+import carries over, in my view, to the subsequently
+added phrase "or drug trafficking crime." Surely the
+word "use" means the same thing as to both, and surely
+the 1986 addition of "drug trafficking crime" would have
+been a peculiar way to expand its meaning (beyond "use
+as a weapon") for crimes of violence.
+Even if the reader does not consider the issue to be as
+clear as I do, he must at least acknowledge, I think, that
+it is eminently debatable—and that is enough, under the
+rule of lenity, to require finding for the petitioner here.
+"At the very least, it may be said that the issue is subject
+to some doubt. Under these circumstances, we adhere to
+the familiar rule that, `where there is ambiguity in a
+criminal statute, doubts are resolved in favor of the
+defendant.' " Adamo Wrecking Co. v. United States, 434
+U.S. 275, 284-285 (1978),[508 U.S. 247] quoting United
+States v. Bass, 404 U.S. 336, 348 (1971).4
+For the foregoing reasons, I respectfully dissent.

@@ -1,0 +1,824 @@
+The ubiquity of the Internet is undisputed. With more
+than 1.3 billion Internet users and over 158 million
+websites in existence,1 a vast number of them
+interactive like Google, Yahoo!, Craigslist, MySpace,
+YouTube, and Facebook, the question of webhost
+liability is a significant one. On a daily basis, we rely on
+the tools of cyberspace to help us make, maintain, and
+rekindle friendships; find places to live, work, eat, and
+travel; exchange views on topics ranging from terrorism
+to patriotism; and enlighten ourselves on subjects from
+"aardvarks to Zoroastrianism."2
+The majority's unprecedented expansion of liability for
+Internet service providers threatens to chill the robust
+development of the Internet that Congress envisioned.
+The majority condemns Roommate's "search system," a
+function that is the heart of interactive service
+providers. My concern is not an empty Chicken Little
+"sky is falling" alert. By exposing every interactive
+service provider to liability for sorting, searching, and
+utilizing the all too familiar drop-down menus, the
+majority has dramatically altered the landscape of
+Internet liability. Instead of the "robust"3 immunity
+envisioned by Congress, interactive service providers
+are left scratching their heads and wondering where
+immunity ends and liability begins.
+To promote the unfettered development of the Internet,
+Congress adopted the Communications Decency Act of
+1996 ("CDA"), which provides that interactive computer
+service providers will not be held legally responsible for
+publishing information provided by third parties. 47
+U.S.C. § 230(c)(1). Even though traditional publishers
+retain liability for performing essentially equivalent acts
+in the "non-virtual world," Congress chose to treat
+interactive service providers differently by immunizing
+them from liability stemming from sorting, searching,
+and publishing third-party information. As we
+explained in Batzel v. Smith:
+[Section] 230(c)(1)[] overrides the traditional treatment of
+publishers, distributors, and speakers under statutory and common
+law. As a matter of policy, "Congress decided not to treat providers
+of interactive computer services like other information providers
+such as newspapers, magazines or television and radio stations. . . ."
+Congress . . . has chosen to treat cyberspace differently.
+333 F.3d 1018, 1026-1027 (9th Cir.2003) (quoting
+Blumenthal v. Drudge, 992 F.Supp. 44, 49 (D.D.C.1998)
+(footnote omitted)).
+Now, with the stroke of a pen or, more accurately, a few
+strokes of the keyboard, the majority upends the settled
+view that interactive service providers enjoy broad
+immunity when publishing information provided by
+third parties. Instead, interactive [521 F.3d 1177] service
+providers are now joined at the hip with third-party
+users, and they rise and fall together in liability for
+Internet sortings and postings.
+To be sure, the statute, which was adopted just as the
+Internet was beginning a surge of popular currency,4 is
+not a perfect match against today's technology. The
+Web 2.0 version is a far cry from web technology in the
+mid-1990s. Nonetheless, the basic message from
+Congress has retained its traction, and there should be a
+high bar to liability for organizing and searching third-
+party information. The bipartisan view in Congress was
+that the Internet, as a new form of communication,
+should not be impeded by the transference of
+regulations and principles developed from traditional
+modes of communication. The majority repeatedly
+harps that if something is prohibited in the physical
+world, Congress could not have intended it to be legal in
+cyberspace. Yet that is precisely the path Congress took
+with the CDA: the anomaly that a webhost may be
+immunized for conducting activities in cyberspace that
+would traditionally be cause for liability is exactly what
+Congress intended by enacting the CDA.
+In the end, the majority offers interactive computer
+service providers no bright lines and little comfort in
+finding a home within § 230(c)(1). The result in this
+case is driven by the distaste for housing discrimination,
+a laudable endgame were housing the real focus of this
+appeal. But it is not. I share the majority's view that
+housing discrimination is a troubling issue.
+Nevertheless, we should be looking at the housing issue
+through the lens of the Internet, not from the
+perspective of traditional publisher liability. Whether §
+230(c)(1) trumps the Fair Housing Act ("FHA") is a
+policy decision for Congress, not us. Congress has
+spoken: third-party content on the Internet should not
+be burdened with the traditional legal framework.
+I respectfully part company with the majority as to Part
+2
+5 of the opinion because the majority has misconstrued
+the statutory protection under the CDA for Roommate's
+publishing and sorting of user profiles. The plain
+language and structure of the CDA unambiguously
+demonstrate that Congress intended these activities —
+the collection, organizing, analyzing, searching, and
+transmitting of third-party content — to be beyond the
+scope of traditional publisher liability. The majority's
+decision, which sets us apart from five circuits,
+contravenes congressional intent and violates the spirit
+and serendipity of the Internet.
+Specifically, the majority's analysis is flawed for three
+reasons: (1) the opinion conflates the questions of
+liability under the FHA and immunity under the CDA;
+(2) the majority rewrites the statute with its definition
+of "information content provider," labels the search
+function "information development," and strips
+interactive service providers of immunity; and (3) the
+majority's approach undermines the purpose [521 F.3d
+1178] of § 230(c)(1) and has far-reaching practical
+consequences in the Internet world.
+To begin, it is important to recognize what this appeal is
+not about. At this stage, there has been no
+determination of liability under the FHA, nor has there
+been any determination that the questions, answers or
+even the existence of Roommate's website violate the
+FHA. The FHA is a complicated statute and there may
+well be room for potential roommates to select who
+they want to live with, e.g., a tidy accountant wanting a
+tidy professional roommate, a collegiate male requesting
+a male roommate, an observant Jew needing a house
+with a kosher kitchen, or a devout, single, religious
+female preferring not to have a male housemate. It also
+bears noting that even if Roommate is immune under
+the CDA, the issue of user liability for allegedly
+discriminatory preferences is a separate question. See
+Zeran v. Am. Online, Inc., 129 F.3d 327, 330 (4th Cir.
+1997) (stating that "the"original culpable party" does not
+"escape accountability").
+By offering up inflammatory examples, the majority's
+opinion screams "discrimination." The hazard is, of
+course, that the question of discrimination has not yet
+been litigated. In dissenting, I do not condone housing
+discrimination or endorse unlawful discriminatory
+roommate selection practices; I simply underscore that
+the merits of the FHA claim are not before us. However,
+one would not divine this posture from the majority's
+opinion, which is infused with condemnation of
+Roommate's users' practices. To mix and match, as does
+the majority, the alleged unlawfulness of the
+information with the question of webhost immunity is
+to rewrite the statute.
+Examples from the opinion highlight that the majority's
+conclusion rests on the premise that Roommate's
+questions and matching function violate the FHA:
+• "Unlawful questions solicit (a.k.a. `develop') unlawful answers."
+Maj. Op. at 1166.
+• "If such questions are unlawful when posed face-to-face or by
+telephone, they don't magically become lawful when asked
+electronically online." Id. at 1164.
+• "If such screening is prohibited when practiced in person or by
+telephone, we see no reason why Congress would have wanted to
+make it lawful to profit from it online." Id. at 1167.
+• "Roommate's search function thus differs materially from generic
+search engines such as Google, Yahoo! and MSN Live Search, in
+that Roommate designed its system to use allegedly unlawful
+criteria so as to limit the results of each search, and to force users to
+participate in its discriminatory process." Id.
+• "By contrast, ordinary search engines do not use unlawful criteria
+to limit the scope of searches conducted on them, nor are they
+designed to achieve illegal ends — as Roommate's search function is
+alleged to do here." Id.
+• "Roommate's website is designed to force subscribers to divulge
+protected characteristics and discriminatory preferences." Id. at
+1172.
+The entire opinion links Roommate's ostensibly
+reprehensible conduct (and that of its users) with an
+unprecedented interpretation of the CDA's immunity
+provision. The majority condemns Roommate for
+soliciting illegal content, but there has been no
+determination that Roommate's questions or
+standardized answers are illegal. Instead of
+foreshadowing a ruling on the FHA, the opinion should
+be confined to the issue before us — application of §
+230(c)(1) to Roommate. The district court has not yet
+ruled on the merits of the FHA claim and neither should
+we.
+[521 F.3d 1179] The Statute
+With this background in mind, I first turn to the text of
+the statute. Section 230 begins with a detailed recitation
+of findings and policy reasons for the statute. Congress
+expressly found that the "Internet and other interactive
+computer services offer a forum for a true diversity of
+political discourse, unique opportunities for cultural
+development, and myriad avenues for intellectual
+activity," and that "[i]ncreasingly Americans are relying
+on interactive media for a variety of political,
+educational, cultural, and entertainment services." 47
+U.S.C. § 230(a)(3), (5). Congress declared that "[i]t is the
+policy of the United States to . . . promote the continued
+development of the Internet and other interactive
+computer services and other interactive media." §
+230(b)(1).6
+Unlike some statutes, subsections (a) and (b) set out in
+clear terms the congressional findings and policies
+underlying the statute. For this reason, it strikes me as
+odd that the majority begins, not with the statute and
+these express findings, but with legislative history.
+Granted, Congress was prompted by several cases,
+particularly the Prodigy case, to take action to protect
+interactive service providers. See Stratton Oakmont,
+Inc. v. Prodigy Servs. Co., 1995 WL 323710, 1995 N.Y.
+Misc. LEXIS 229 (N.Y.Sup.Ct. May 24, 1995). But that
+case does not cabin the scope of the statute, and the
+background leading up to enactment of the CDA is no
+substitute for the language of the statute itself. See
+Chicago Lawyers' Comm. for Civil Rights Under the
+Law, Inc. v. Craigslist, Inc., 519 F.3d 666, ____ (7th Cir.
+2008) (concluding that, as enacted, "Section 230(c)(1) is
+general[,]" despite its "genesis" in Prodigy).
+Section 230(c), the heart of this case, is entitled
+"Protection for `good Samaritan' blocking and screening
+of offensive material[.]" The substantive language of the
+statute itself is not so limited. Section 230(c)(1)
+provides:
+(1) Treatment of publisher or speaker
+No provider or user of an interactive computer service shall be
+treated as the publisher or speaker of any information provided by
+another information content provider.
+§ 230(c)(1). Since it was first addressed in 1997 in Zeran,
+this section has been interpreted by the courts as
+providing webhost "immunity," although to be more
+precise, it provides a safe haven for interactive computer
+service providers by removing them from the traditional
+liabilities attached to speakers and publishers.7 See
+Zeran, 129 F.3d at 330 ("By its plain language, § 230
+creates a federal immunity to any cause of action that
+would make service providers liable for information
+originating with a third-party user of the service.").
+We have characterized this immunity under § 230(c)(1)
+as "quite robust." Carafano, 339 F.3d at 1123. Five of our
+sister circuits have similarly embraced this robust view
+of immunity by providing differential treatment to
+interactive service providers. Chicago Lawyers' Comm.
+for Civil Rights Under the Law, Inc. v. Craigslist, Inc.,
+519 F.3d 666, ___ _ ___ (7th Cir. 2008); Universal
+Commc'n Sys. v. Lycos, Inc., 478 F.3d 413, 415 (1st
+Cir.2007);[521 F.3d 1180] Green v. Am. Online, 318 F.3d
+465, 470 (3d Cir.2003); Ben Ezra, Weinstein, & Co., Inc.
+v. Am. Online Inc., 206 F.3d 980, 986 (10th Cir.2000);
+Zeran, 129 F.3d at 330; see also Whitney Info. Network,
+Inc. v. Xcentric Ventures, LLC, No. 2:04-cv-47-FtM-
+34SPC, 2008 WL 450095, 2008 U.S. Dist. LEXIS 11632
+(M.D.Fla. Feb. 15, 2008); Doe v. MySpace, Inc., 474
+F.Supp.2d 843, 849 (W.D.Tex.2007); Corbis Corp. v.
+Amazon.com, Inc., 351 F.Supp.2d 1090, 1118
+(W.D.Wash.2004); Blumenthal, 992 F.Supp. at 50-53;
+Barrett v. Rosenthal, 40 Cal.4th 33, 51 Cal.Rptr.3d 55,
+146 P.3d 510, 529 (2006); Gentry v. eBay, Inc., 99
+Cal.App.4th 816, 121 Cal.Rptr.2d 703, 717-18 (2002);
+Schneider v. Amazon.com, Inc., 108 Wn.App. 454, 31
+P.3d 37, 42-43 (2001).
+Key to this immunity provision are the terms
+"interactive computer service" provider and
+"information content provider." The CDA defines an
+"interactive computer service" as any "information
+service, system, or access software provider that
+provides or enables computer access by multiple users to
+a computer server." § 230(f)(2). An interactive computer
+service provider is not liable as a "publisher" or
+"speaker" of information if the "information" is
+"provided by another information content provider." §
+230(c)(1). The statute then defines an "information
+content provider" as a "person or entity that is
+responsible, in whole or in part, for the creation or
+development of information provided through the
+Internet or any other interactive computer service." §
+230(f)(3). If the provider of an interactive computer
+service is an information content provider of the
+information at issue, it cannot claim immunity as a
+publisher or speaker. Carafano, 339 F.3d at 1123.
+Courts deciding the question of § 230(c)(1) immunity
+"do not write on a blank slate." Universal Commc'n, 478
+F.3d at 418. Even though rapid developments in
+technology have made webhosts increasingly adept at
+searching and displaying third-party information,
+reviewing' courts have, in the twelve years since the
+CDA's enactment, "adopt[ed] a relatively expansive
+definition of `interactive computer service' and a
+relatively restrictive definition of `information content
+provider.'" See Carafano, 339 F.3d at 1123 (footnotes
+omitted). As long as information is provided by a third
+party, webhosts are immune from liability for
+publishing "ads for housing, auctions of paintings that
+may have been stolen by Nazis, biting comments about
+steroids in baseball, efforts to verify the truth of
+politicians' promises, and everything else that third
+parties may post on a web site." Craigslist, 519 F.3d at
+____. We have underscored that this broad grant of
+webhost immunity gives effect to Congress's stated goals
+"to promote the continued development of the Internet
+and other interactive computer services" and "to
+preserve the vibrant and competitive free market that
+presently exists for the Internet and other interactive
+computer services." Carafano, 339 F.3d at 1123
+(discussing § 230(b)(1), (2)).
+Application of § 230(c)(1) to Roommate's Website
+Because our focus is on the term "information content
+provider," and what it means to create or develop
+information, it is worth detailing exactly how the
+website operates, what information is at issue and who
+provides it. The roommate matching process involves
+three categories of data: About Me or Household
+Description; Roommate Preferences; and Comments.
+To become a member of Roommates.com, a user must
+complete a personal profile by selecting answers from
+drop-down menus or checking off boxes on the screen.
+The profile includes "location" information [521 F.3d
+1181] (e.g., city and state, region of the city, and data
+about the surrounding neighborhood); details about the
+residence (e.g., the total number of bedrooms and
+bathrooms in the home, and amenities such as air
+conditioning, wheelchair access, high-speed Internet, or
+parking), and the "rental details" (e.g., monthly rent
+charged, lease period, and availability). The last section
+of the profile is the "Household Description" section,8
+which includes the total number of occupants in the
+home, their age range, gender, occupation, level of
+cleanliness, whether they are smokers, and whether
+children or pets are present.
+The remaining sections of the registration process are
+completely optional; a user who skips them has created a
+profile based on the information already provided. At
+his option, the user may select an emoticon to describe
+the "household character," and may upload images of the
+room or residence. Next, users may, at their option,
+specify characteristics desired in a potential roommate,
+such as a preferred age range, gender, and level of
+cleanliness. If nothing is selected, all options are
+included.9 The final step in the registration process,
+which is also optional, is the "Comments" section, in
+which users are presented with a blank text box in
+which they may write whatever they like, to be
+published with their member profiles.
+Users may choose an optional "custom search" of user
+profiles based on criteria that they specify, like the
+amount of monthly rent or distance from a preferred
+city. Based on the information provided by users during
+the registration process, Roommate's automated system
+then searches and matches potential roommates.
+Roommate's Terms of Service provide in part, "You
+understand that we do not provide the information on
+the site and that all publicly posted or privately
+transmitted information, data, text, photographs,
+graphics, messages, or other materials (`Content') are
+the sole responsibility of the person from which such
+Content originated."
+Roommate's users are "information content providers"
+because they are responsible for creating the
+information in their user profiles and, at their option —
+not the website's choice — in expressing preferences as
+to roommate characteristics. § 230(f)(3). The critical
+question is whether Roommate is itself an "information
+content provider," such that it cannot claim that the
+information at issue was "provided [521 F.3d 1182] by
+another information content provider." A close reading
+of the statute leads to the conclusion that Roommate is
+not an information content provider for two reasons:
+(1) providing a drop-down menu does not constitute
+"creating" or "developing" information; and (2) the
+structure and text of the statute make plain that
+Congress intended to immunize Roommate's sorting,
+displaying, and transmitting of third-party information.
+Roommate neither "creates" nor "develops" the
+information that is challenged by the Councils, i.e., the
+information provided by the users as to their protected
+characteristics and the preferences expressed as to
+roommate characteristics. All Roommate does is to
+provide a form with options for standardized answers.
+Listing categories such as geographic location,
+cleanliness, gender and number of occupants, and
+transmitting to users profiles of other users whose
+expressed information matches their expressed
+preferences, can hardly be said to be creating or
+developing information. Even adding standardized
+options does not "develop" information. Roommate,
+with its prompts, is merely "selecting material for
+publication," which we have stated does not constitute
+the "development" of information. Batzel, 333 F.3d at
+1031. The profile is created solely by the user, not the
+provider of the interactive website. Indeed, without user
+participation, there is no information at all. The dropdown
+menu is simply a precategorization of user
+information before the electronic sorting and displaying
+that takes place via an algorithm. If a user has identified
+herself as a non-smoker and another has expressed a
+preference for a non-smoking roommate, Roommate's
+sorting and matching of user information are no
+different than that performed by a generic search
+engine.
+Displaying the prompt "Gender" and offering the list of
+choices, "Straight male; Gay male; Straight female; Gay
+female" does not develop the information, "I am a Gay
+male." The user has identified himself as such and
+provided that information to Roommate to publish.
+Thus, the user is the sole creator of that information; no
+"development" has occurred. In the same vein,
+presenting the user with a "Preferences" section and
+drop-down menus of options does not "develop" a user's
+preference for a non-smoking roommate. As we stated
+in Carafano, the "actual profile `information' consist[s]
+of the particular options chosen" by the user, such that
+Roommate is not "responsible, even in part, for
+associating certain multiple choice responses with a set
+of [] characteristics." 339 F.3d at 1124.
+The thrust of the majority's proclamation that
+Roommate is "developing" the information that it
+publishes, sorts, and transmits is as follows: "[W]e
+interpret the term `development' as referring not merely
+to augmenting the content generally, but to materially
+contributing to its unlawfulness." Maj. Op. at 1168. This
+definition is original to say the least and springs forth
+untethered to anything in the statute.
+The majority's definition of "development" epitomizes
+its consistent collapse of substantive liability with the
+issue of immunity. Where in the statute does Congress
+say anything about unlawfulness? Whether Roommate
+is entitled to immunity for publishing and sorting
+profiles is wholly distinct from whether Roommate may
+be liable for violations of the FHA. Immunity has
+meaning only when there is something to be immune
+from, whether a disease or the violation of a law. It
+would be nonsense to claim to be immune only from the
+innocuous. But the majority's immunity analysis is built
+on substantive liability: to the majority, CDA immunity
+depends on whether a webhost materially [521 F.3d 1183]
+contributed to the unlawfulness of the information.
+Whether the information at issue is unlawful and
+whether the webhost has contributed to its unlawfulness
+are issues analytically independent of the determination
+of immunity. Grasping at straws to distinguish
+Roommate from other interactive websites such as
+Google and Yahoo!, the majority repeatedly gestures to
+Roommate's potential substantive liability as sufficient
+reason to disturb its immunity. But our task is to
+determine whether the question of substantive liability
+may be reached in the first place.
+Keep in mind that "unlawfulness" would include not
+only purported statutory violations but also potential
+defamatory statements. The irony is that the majority
+would have us determine "guilt" or liability in order to
+decide whether immunity is available. This upside-down
+approach would knock out even the narrowest
+immunity offered under § 230(c) — immunity for
+defamation as a publisher or speaker.
+Another flaw in the majority's approach is that it fails to
+account for all of the other information allegedly
+developed by the webhost. For purposes of determining
+whether Roommate is an information content provider
+vis-a-vis the profiles, the inquiry about geography and
+the inquiry about gender should stand on the same
+footing. Both are single word prompts followed by a
+drop-down menu of options. If a prompt about gender
+constitutes development, then so too does, the prompt
+about geography. And therein lies the rub.
+Millions of websites use prompts and drop-down
+menus. Inquiries range from what credit card you want
+to use and consumer satisfaction surveys asking about
+age; sex and household income, to dating sites, e.g.,
+match.com, sites lambasting corporate practices, e.g.,
+ripoffreports.com, and sites that allow truckers to link
+up with available loads, e.g., getloaded.com. Some of
+these sites are innocuous while others may not be. Some
+may solicit illegal information; others may not. But that
+is not the point. The majority's definition of
+"development" would transform every interactive site
+into an information content provider and the result
+would render illusory any immunity under § 230(c).
+Virtually every site could be responsible in part for
+developing content.
+For example, the majority purports to carve out a place
+for Google and other search engines. Maj. Op. at 1167.
+But the modern Google is more than a match engine: it
+ranks search results, provides prompts beyond what the
+user enters, and answers questions. In contrast,
+Roommate is a straight match service that searches
+information and criteria provided by the user, not
+Roommate. It should be afforded no less protection than
+Google, Yahoo!, or other search engines.
+The majority then argues that "providing neutral tools
+to carry out what may be unlawful or illicit searches
+does not amount to `development.'" Maj. Op. at 1169.
+But this effort to distinguish Google, Yahoo!, and other
+search engines from Roommate is unavailing. Under the
+majority's definition of "development," these search
+engines are equivalent to Roommate. Google
+"encourages" or "contributes" (the majority's catch
+phrases) to the unlawfulness by offering search tools
+that allow the user to perform an allegedly unlawful
+match. If a user types into Google's search box, "looking
+for a single, Christian, female roommate," and Google
+displays responsive listings, Google is surely "materially
+contributing to the alleged unlawfulness" of information
+created by third parties, by publishing their intention to
+discriminate on the basis of protected characteristics. In
+the defamation arena, a webhost's publication of a
+defamatory statement "materially contributes" to its [521
+F.3d 1184] unlawfulness, as publication to third parties is
+an element of the offense. At bottom, the majority's
+definition of "development" can be tucked in, let out, or
+hemmed up to fit almost any search engine, creating
+tremendous uncertainty in an area where Congress
+expected predictability.
+"Development" is not without meaning. In Batzel, we
+hinted that the "development of information" that
+transforms one into an "information content provider"
+is "something more substantial than merely editing
+portions of an email and selecting material for
+publication." 333 F.3d at 1031. We did not flesh out
+further the meaning of "development" because the
+editor's alterations of an email message and decision to
+publish it did not constitute "development." Id.
+Because the statute does not define "development," we
+should give the term its ordinary meaning. See San Jose
+Christian Coll. v. City of Morgan Hill, 360 F.3d 1024,
+1034 (9th Cir.2004) (stating that dictionaries may be
+used to determine the "`plain meaning' of a term
+undefined by a statute"). "Development" is defined in
+Webster's Dictionary as a "gradual advance or growth
+through progressive changes." Webster's Third New
+International Dictionary 618 (2002). The multiple uses
+of "development" and "develop" in other provisions of §
+230 give texture to the definition of "development," and
+further expose the folly of the majority's ungrounded
+definition. See, e.g., § 230(b)(3) (stating that "[i]t is the
+policy of the United States to encourage the
+development of technologies which maximize user
+control over what information is received by
+individuals, families, and' schools") (emphasis added).10
+Defining "development" in this way keeps intact the
+settled rule that the CDA immunizes a webhost who
+exercises a publisher's "traditional editorial functions —
+such as deciding whether to publish, withdraw, postpone,
+or alter content." Batzel, 333 F.3d at 1031 n. 18.11
+Applying the plain meaning of "development" to
+Roommate's sorting and transmitting of third-party
+information demonstrates [521 F.3d 1185] that it was not
+transformed into an "information content provider." In
+searching, sorting, and transmitting information,
+Roommate made no changes to the information
+provided to it by users. Even having notice that users
+may be using its site to make discriminatory statements
+is not sufficient to invade Roommate's immunity. See
+Zeran, 129 F.3d at 333 (stating that "liability upon notice
+has a chilling effect on the freedom of Internet speech.").
+The majority blusters that Roommate develops
+information, because it "requir[es] subscribers to
+provide the information as a condition of accessing its
+services," and "designed its search system so it would
+steer users based on the preferences and personal
+characteristics that Roommate itself forces subscribers
+to disclose." Maj. Op. at 1165, 1167.12 But the majority,
+without looking back, races past the plain language of
+the statute. That Roommate requires users to answer a
+set of prompts to identify characteristics about
+themselves does not change the fact that the users have
+furnished this information to Roommate for Roommate
+to publish in their profiles. Nor do Roommate's prompts
+alter the fact that users have chosen to select
+characteristics that they find desirable in potential
+roommates, and have directed Roommate to search and
+compile results responsive to their requests. Moreover,
+tagging Roommate with liability for the design of its
+search system is dangerous precedent for analyzing
+future Internet cases.
+Even if Roommate's prompts and drop-down menus
+could be construed to seek out, or encourage,
+information from users, the CDA does not withhold
+immunity for the encouragement or solicitation of
+information.13 See Blumenthal, 992 F.Supp. at 52
+(stating that "Congress has made a different policy
+choice by providing immunity even where the
+interactive service provider has an active, even
+aggressive role in making available content prepared by
+others.") (emphasis added); Gentry, 121 Cal.Rptr.2d at
+718 (noting that "enforcing appellants' negligence claim
+would place liability on eBay for simply compiling false
+and/or misleading content created by the individual
+defendants and other coconspirators."). The CDA does
+not countenance an exception for the solicitation or
+encouragement of information provided by users.
+A number of district courts have recently encountered
+the claim that an interactive website's solicitation of
+information, by requiring user selection of content from
+drop-down menus, transformed it into an information
+content provider. Unsurprisingly, these courts reached
+the same commonsense solution that I reach here: §
+230(c)(1) immunizes the interactive service provider.
+See Whitney Info. Network, Inc. v. Xcentric Ventures,
+LLC, No. 2:04-cv-47-FtM-34SPC, 2008 WL 450095, at
+*10, 2008 U.S. Dist. LEXIS 11632, at *36 (M.D.Fla. Feb.
+15, 2008) (stating that the "mere fact that Xcentric
+provides categories from which a poster must make a
+selection in order to submit a report on the [] website is
+not sufficient to treat Defendants as information
+content providers of the reports"); Global Royalties, Ltd.
+v. Xcentric Ventures, LLC, No. 07-956-PHX-FJM, 2007
+WL 2949002, 2007 U.S. Dist. LEXIS 77551 (D.Ariz. Oct.
+10, 2007).[521 F.3d 1186] Simply supplying a list of
+options from which a user must select options "is minor
+and passive participation" that does not defeat CDA
+immunity. Global Royalties, 2007 WL 2949002, at *3,
+2007 U.S. Dist. LEXIS 77551, at *9; see also Corbis, 351
+F.Supp.2d at 1118 (holding that even though
+Amazon.com "may have encouraged third parties to use
+the Zshops platform and provided the tools to assist
+them, that does not disqualify it from immunity under §
+230 because the Zshops vendor ultimately decided what
+information to put on its site.").
+Carafano presented circumstances virtually
+indistinguishable from those before us, yet the majority
+comes to the exact opposite conclusion here in denying
+immunity for sorting and matching third-party
+information provided in response to webhost prompts.
+The website in Carafano, an online dating service
+named Matchmaker.com, asked its users sixty-two
+detailed questions and matched users according to their
+responses. We held that § 230(c)(1) immunized the
+dating service, and flatly rejected the proposition that
+matching, sorting, and publishing user information in
+response to webhost prompts abrogated CDA
+immunity. Carafano, 339 F.3d at 1124-25. A provider's
+"decision to structure the information provided by
+users," which enables the provider to "offer additional
+features, such as `matching' profiles with similar
+characteristics or highly structured searches based on
+combinations of multiple choice questions," ultimately
+"promotes the expressed Congressional policy `to
+promote the continued development of the Internet and
+other interactive computer services.'" Id. (quoting §
+230(b)(1)). Now the majority narrows Carafano on the
+basis that Matchmaker did not prompt the allegedly
+libelous information that was provided by a third party.
+Maj. Op. at 1171. But the majority makes this distinction
+without any language in the statute supporting the
+consideration of the webhost's prompting or
+solicitation.
+The structure of the statute also supports my view that
+Congress intended to immunize Roommate's sorting
+and publishing of user profiles. An "interactive
+computer service" is defined to include an "access
+software provider." § 230(f)(2). The statute defines an
+"access software provider" as one that provides
+"enabling tools" to "filter," "screen," "pick," "choose,"
+"analyze," "digest," "search," "forward," "organize," and
+"reorganize" content. § 230(f)(4)(A)-(C).
+By providing a definition for "access software provider"
+that is distinct from the definition of an "information
+content provider," and withholding immunity for
+"information content providers," the statute makes
+resoundingly clear that packaging, sorting, or publishing
+third-party information are not the kind of activities
+that Congress associated with "information content
+providers." Yet these activities describe exactly what
+Roommate does through the publication and
+distribution of user profiles: Roommate "receives,"
+"filters," "digests," and "analyzes" the information
+provided by users in response to its registration
+prompts, and then "transmits," "organizes," and
+"forwards" that information to users in the form of
+uniformly organized profiles. Roommate is performing
+tasks that Congress recognized as typical of entities that
+it intended to immunize.
+Finally, consider the logical disconnect of the majority's
+opinion. The majority writes — and I agree — that the
+openended Comments section contains only third-party
+content. Maj. Op. at 1173-75. But if Roommate's search
+function permits sorting by key words such as children
+or gender, the majority would label Roommate's use of
+such criteria as a "discriminatory filtering process." Id. at
+1169-70.
+[521 F.3d 1187] At a minimum, the CDA protects the
+search criteria employed by websites and does not
+equate tools that "filter," "screen," "pick," "choose,"
+"analyze," "digest," "search," "forward," "organize," and
+"reorganize" with the "creation or development" of
+information. § 230(f)(4)(A)-(C).
+Ramifications of the Majority Opinion
+I am troubled by the consequences that the majority's
+conclusion poses for the ever-expanding Internet
+community. The unwise narrowing of our precedent,
+coupled with the mixing and matching of CDA
+immunity with substantive liability, make it exceedingly
+difficult for website providers to know whether their
+activities will be considered immune under the CDA.
+We got it right in Carafano, that "[u]nder § 230(c) . . .
+so long as a third party willingly provides the essential
+published content, the interactive service provider
+receives full immunity regardless of the specific editing
+or selection process." 339 F.3d at 1124 (quoted in Doe,
+474 F.Supp.2d at 847; Chicago Lawyers' Comm. for
+Civil Rights Under the Law, Inc. v. Craigslist, Inc., 461
+F.Supp.2d 681, 690 n. 7 (N.D.Ill.2006); Dimeo v. Max,
+433 F.Supp.2d 523, 530 n. 12 (E.D.Pa.2006); Prickett v.
+Infousa, Inc., No. 04:05-CV-10, 2006 WL 887431, at *2,
+2006 U.S. Dist. LEXIS 21867, at *4 (E.D.Tex. Mar. 30,
+2006)).
+Significantly, § 230(e) expressly exempts from its scope
+certain areas of law, such as intellectual property law
+and federal criminal laws. § 230(e)(1) ("Nothing in this
+section shall be construed to impair the enforcement of
+[selected obscenity statutes] or any other Federal
+criminal statute."); § 230(e)(2) ("Nothing in this section
+shall be construed to limit or expand any law pertaining
+to intellectual property."). See also Perfect 10, Inc. v.
+CCBill LLC, 488 F.3d 1102, 1118 (9th Cir. 2007). Thus,
+for example, a webhost may still be liable as a publisher
+or speaker of third-party information that is alleged to
+infringe a copyright. Notably, the CDA does not exempt
+the FHA and a host of other federal statutes from its
+scope. See § 230(e). The FHA existed at the time of the
+CDA's enactment, yet Congress did not add it to the list
+of specifically enumerated laws for which publisher and
+speaker liability was left intact. The absence of a
+statutory exemption suggests that Congress did not
+intend to provide special case status to the FHA in
+connection with immunity under the CDA. See TRW
+Inc. v. Andrews, 534 U.S. 19, 28, 122 S.Ct. 441, 151
+L.Ed.2d 339 (2001) (stating that "[w]here Congress
+explicitly enumerates certain exceptions to a general
+prohibition, additional exceptions are not to be implied,
+in the absence of evidence of a contrary legislative
+intent.") (citation omitted); see also Craigslist, 519 F.3d
+at ____ (stating that "[t]he question is not whether
+Congress gave any thought to the Fair Housing Act, but
+whether it excluded § 3604(c) from the reach of §
+230(c)(1)").
+Anticipating the morphing of the Internet and the limits
+of creative genius and entrepreneurship that fuel its
+development is virtually impossible. However, Congress
+explicitly drafted the law to permit this unfettered
+development of the Internet. Had Congress discovered
+that, over time, courts across the country have created
+more expansive immunity than it originally envisioned
+under the CDA, Congress could have amended the law.
+But it has not. In fact, just six years ago, Congress
+approved of the broad immunity that courts have
+uniformly accorded interactive webhosts under § 230(c).
+In 2002, Congress passed the "Dot Kids Implementation
+and Efficiency Act," which established a new "kids.us"
+domain for material that is safe for children. Pub.L. No.
+107-317, 116 Stat. 2766. Congress stated that the
+statutory protections of [521 F.3d 1188] § 230(c) were
+extended to certain entities that operated within the
+new domain. 47 U.S.C. § 941 (stating that certain
+entities "are deemed to be interactive computer services
+for purposes of § 230(c)"). The Committee Report that
+accompanied the statute declared:
+The Committee notes that ISPs have successfully defended many
+lawsuits using section 230(c). The courts have correctly interpreted
+section 230(c), which was aimed at protecting against liability for
+such claims as negligence (See, e.g., Doe v. America Online, 783
+So.2d 1010 (Fla.2001)) and defamation (Ben Ezra, Weinstein, and
+Co. v. America Online, 206 F.3d 980 (2000); Zeran v. America
+Online, 129 F.3d 327 (1997)). The Committee intends these
+interpretations of section 230(c) to be equally applicable to those
+entities covered by H.R. 3833.
+H.R. REP. No. 107-449, 2002 U.S.C.C.A.N. 1741, 1749
+(emphasis added). These statements "reflect the
+Committee's intent that the existing statutory
+construction," i.e., broad immunity for interactive
+webhosts, "be maintained in a new legislative context."
+Barrett, 146 P.3d at 523 n. 17 (discussing H.R.Rep. No.
+107-449); see also Heckler v. Turner, 470 U.S. 184, 209,
+105 S.Ct. 1138, 84 L.Ed.2d 138 (1985) (noting that
+subsequent legislative history can shed useful light on
+Congressional intent). This express Congressional
+approval of the courts' interpretation of § 230(c)(1), six
+years after its enactment, advises us to stay the course of
+"robust" webhost immunity.
+The consequences of the majority's interpretation are
+far-reaching. Its position will chill speech on the
+Internet and impede "the continued development of the
+Internet and other interactive computer services and
+other interactive media." § 230(b)(1). To the extent the
+majority strips immunity because of sorting, channeling,
+and categorizing functions, it guts the heart of §
+230(c)(1) immunity. Countless websites operate just like
+Roommate: they organize information provided by their
+users into a standardized format, and provide structured
+searches to help users find information. These sites, and
+their attendant display, search, and inquiry tools, are an
+indispensable part of the Internet tool box. Putting a lid
+on the sorting and searching functions of interactive
+websites stifles the core of their services.
+To the extent the majority strips immunity because the
+information or query may be illegal under some statute
+or federal law, this circumstance puts the webhost in the
+role of a policeman for the laws of the fifty states and the
+federal system. There are not enough Net Nannies in
+cyberspace to implement this restriction, and the burden
+of filtering content would be unfathomable.
+To the extent the majority strips immunity because a
+site solicits or actively encourages content, the result is a
+direct restriction on the free exchange of ideas and
+information on the Internet. As noted in the amici
+curiae brief of the news organizations, online news
+organization routinely solicit third-party information.
+Were the websites to face host liability for this content,
+they "would have no choice but to severely limit its use"
+and "[s]heer economics would dictate that vast
+quantities of valuable information be eliminated from
+websites." Brief of Amici Curiae News Organizations in
+Support of Roommate.com, LLC 22.
+To the extent the majority strips immunity because a
+website "materially contributed" to the content or
+output of a website by "specialization" of content, this
+approach would essentially swallow the immunity
+provision. The combination of solicitation, sorting, and
+potential for liability would put virtually every
+interactive website in this category. Having a website
+directed to Christians, Muslims, gays, disabled [521 F.3d
+1189] veterans, or childless couples could land the
+website provider in hot water.14
+Because the statute itself is cumbersome to interpret in
+light of today's Internet architecture, and because the
+decision today will ripple through the billions of web
+pages already online, and the countless pages to come in
+the future, I would take a cautious, careful, and precise
+approach to the restriction of immunity, not the broad
+swath cut by the majority. I respectfully dissent and
+would affirm the district court's judgment that
+Roommate is entitled to immunity under § 230(c)(1) of
+the CDA, subject to examination of whether the bare
+inquiry itself is unlawful.

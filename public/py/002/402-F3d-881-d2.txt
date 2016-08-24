@@ -1,0 +1,929 @@
+The question presented in this case is whether an
+assignee of an accrued cause of action for copyright
+infringement, who has no legal or beneficial interest in
+the copyright itself, has standing to sue for copyright
+infringement. Sony Pictures Entertainment Inc. ("Sony")
+appeals the district court's order denying its motion to
+dismiss Nancey Silvers's ("Silvers") claim for copyright
+infringement under 17 U.S.C. § 501(b) for lack of
+standing under Fed.R.Civ.P. 12(b)(1). After rehearing en
+banc, the Majority now holds such assignees do not have
+standing to sue for copyright infringement and reverses
+the district court's order denying Sony's motion to
+dismiss.
+I believe that the text, purpose and history of the 1976
+Copyright Act ("1976 Act") allow such assignees of an
+accrued copyright claim to sue for infringement.
+Accordingly, I respectfully dissent.
+[402 F.3d 896] I.
+I quite agree with the Majority that the starting point in
+this case is necessarily the statute under which Silvers
+brought suit. See op. at 884. Section 501(b) of the 1976
+Act provides, in pertinent part:
+The legal or beneficial owner of an exclusive right under a
+copyright is entitled, subject to the requirements of section 411,1 to
+institute an action for any infringement of that particular right
+committed while he or she is the owner of it.
+17 U.S.C. § 501(b) (1976).
+Turning to first principles, then, it is well-established
+that courts should interpret a statute according to its
+plain meaning. See United States v. Robinson, 94 F.3d
+1325, 1328 (9th Cir.1996) ("If the language of a statute is
+unambiguous, the plain meaning controls."). However,
+where a statute is ambiguous, courts should consult a
+statute's legislative history to discern Congressional
+intent. See United States v. Daas, 198 F.3d 1167, 1174
+(9th Cir.1999). Here, as the Majority acknowledges, the
+statute does not address the present question and is
+therefore ambiguous.2 See op. at 885-86 ("[w]e
+recognize that [Section 501(b)'s] omission explicitly to
+address the present question may create an ambiguity.").
+The key to understanding the legislative history of the
+1976 Act, then, is an understanding of the history of
+standing to sue under copyright law as it existed prior to
+the 1976 Act. When read in context with copyright law
+that existed before the 1976 Act, and the portions of the
+law that were not changed by such Act, a conclusion
+different from the Majority's reading emerges.
+A. History of the 1909 Copyright Act
+Under the Copyright Act of 1909 ("1909 Act")
+(codifying copyright law before the enactment of the
+1976 Act), the "proprietor" of a copyright was afforded
+the right to sue for copyright infringement.3 17 U.S.C. §
+101(b) (1909). While the 1909 Act did not define the
+term "proprietor," courts interpreted that term to mean
+the "sole owner" of the copyright. See, e.g., Gardner v.
+Nike, Inc., 279 F.3d 774, 777-778 (9th Cir.2002)
+(discussing the general history of the 1909 Act and
+holding that a sublicensee of a copyright lacked standing
+to sue under the 1976 Act).
+The 1909 Act was predicated on the "doctrine of
+indivisibility." Id. at 778. That is, under the Act, a
+copyright owner possessed an indivisible "bundle of
+rights" which were "incapable of assignment in part." Id.
+Accordingly, assignment under the 1909 Act included
+"the totality of rights commanded by copyright." Id. [402
+F.3d 897] Transfer of "[a]nything less than an
+assignment was considered a license." Id. Regardless the
+particular use of the copyright, "only the copyright
+proprietor (which would include an assignee but not a
+licensee) had standing to bring an infringement action."
+Id. (emphasis added).
+Even though the statute granted standing solely to the
+"proprietor" of the entire copyright, courts nevertheless
+allowed assignees of an accrued cause of action for
+copyright infringement to sue for infringement of their
+property rights.4 See Prather v. Neva Paperbacks, Inc.,
+410 F.2d 698, 700 (5th Cir.1969) (assignee of accrued
+cause of action had standing to sue for copyright
+infringement); see also Moran v. London Records, Ltd.,
+827 F.2d 180, 183 (7th Cir.1987) (noting that courts
+applying the 1909 Act held that assignees had standing
+to sue for copyright infringement). The infringement
+claim, like any other contingent asset,5 could be sold,
+much like the copyright holder's claim against a trade
+debtor or a coupon clipped from the copyright holder's
+bond portfolio.
+Moreover, all defenses against the assignor were valid
+against the assignee, who "stood in the shoes" of the
+assignor. See T.B. Harms & Francis, Day & Hunter v.
+Stern, 231 F. 645, 647 (2d Cir.1916) (holding that
+plaintiffs, as assignees of composer's rights under the
+contract, "stand in [the] shoes" of the assignor and could
+assert the defense of lack of mutuality of contract). See
+also 17 U.S.C. § 201(d)(2) (1976) ("[t]he owner of any
+particular exclusive right is entitled, to the extent of that
+right, to all the protection and remedies accorded to the
+copyright owner.").
+B. History of the 1976 Copyright Act
+The 1976 Act was the result of 15 years of debate on
+proposed legislation and was precipitated by Congress's
+recognition that the nature of copyrighted works had
+changed. Congress noted that, during the half-century
+since the passage of the 1909 Act, "a wide range of new
+techniques for capturing and communicating printed
+matter, visual images, and recorded sounds have come
+into use." H.R.Rep. No. 94-1476 at 159, reprinted in
+1976 U.S.C.C.A.N. 5659 at 5775. For example, no longer
+was an opera performed only in a theater, but such a
+work could be performed in movies, television, videos,
+records, and other forms. Such technical advances
+"generated new industries and new methods for the
+production and dissemination of copyrighted works,
+and the business relations between authors and users
+have evolved new patterns." Id.
+Toward that end, Congress recognized the commercial
+need to divide and "infinitely subdivide" copyright uses
+in recognition of increasing technologically driven
+varieties of means of reproduction and distribution.
+Thus, one main purpose of the 1976 Act was, for the
+first time, to recognize the principle of "divisibility" of
+uses of a copyright, and the ability to convey the rights
+to uses separately to various reproducers, which
+divisible rights did not exist under the 1909 Act. See
+H.R.Rep. No. 94-1476 at 159, reprinted in 1976
+U.S.C.C.A.N. 5659 at 5775, infra.
+[402 F.3d 898] Congress further recognized that
+allowing for "divisibility" of the copyright required a
+mechanism whereby heretofore barred owners of
+exclusive licenses could now sue for copyright
+infringement. Accordingly, Congress enacted Section
+501 of the 1976 Act to provide access to the courts for
+the owner of one or more rights to exclusive use, but did
+not mention the right of the owner of the overall
+copyright to sue. See 17 U.S.C. § 501(b).
+Indeed, in providing for the right of exclusive licensees
+to sue, the drafters of the 1976 Act stated:
+The principle of the divisibility of copyright ownership, established
+by section 201(d), carries with it the need in infringement actions to
+safeguard the rights of all copyright owners and to avoid a
+multiplicity of suits. Subsection (b) of section 501 enables the
+owner of a particular right to bring an infringement action in that
+owner's name alone, while at the same time insuring to the extent
+possible that the other owners whose rights may be affected are
+notified and given a chance to join the action.
+H.R.Rep. No. 94-1476 at 159, reprinted in 1976
+U.S.C.C.A.N. 5659 at 5775 (emphasis added).6
+Far from "suggest[ing] strongly that Congress intended
+to limit the class of persons who may sue for
+infringement," op. at 886 (emphasis added), the
+statement above in italics — and omitted from the
+Majority Opinion — demonstrates that Congress
+intended to enlarge the ability to bring suit to the
+owners of exclusive rights.7
+Read in context with provisions of the 1909 Act (to the
+extent the acts are not inconsistent), and contrary to the
+Majority's conclusion, the 1976 Act's Section 501(b) was
+an enlargement of infringement action rights.
+Henceforth, standing was not limited only to the
+"proprietor"8 of the original copyright; a legal or
+beneficial owner of exclusive rights severed by
+assignment from the original copyright also had
+standing to sue for infringement. However, nothing in
+the 1976 Act eliminated [402 F.3d 899] the rights of
+copyright owners under Section 101 of the 1909 Act to
+their remedies, nor the right of property owners to
+enjoy the property rights granted by the statute,
+including the assignment and enforcement of accrued
+causes of action.
+That, I believe, is the way — and the only way — to read
+Section 501(b).
+II.
+The Majority concludes that because the statute does
+not expressly grant standing to assignees of an accrued
+cause of action, such persons do not have standing. See
+op. at 885-86. Rather, the Majority reasons that,
+applying the maxim of statutory construction expressio
+unius exclusio alterius est, "Congress' explicit listing of
+who may sue for copyright infringement should be
+understood as an exclusion of others from suing for
+infringement." Op. at 885 (emphasis in original). In my
+view, the Majority misapplies this maxim of statutory
+construction.
+First, such maxims of statutory construction are to be
+used only when Congressional intent cannot be
+discerned. Indeed, we have noted:
+Most strongly put, the expressio unius, or inclusiounius, principle is
+that `[w]hen a statute limits a thing to be done in a particular mode,
+it includes a negative of any other mode.' This is a rule of
+interpretation, not a rule of law. The maxim is `a product of logic
+and common sense,' properly applied only when it makes sense as a
+matter of legislative purpose.... [T]he expressio unius principle
+describes what we usually mean by a particular manner of
+expression, but does not prescribe how we must interpret a phrase
+once written. Understood as a descriptive generalization about
+language rather than a prescriptive rule of construction, the maxim
+usefully describes a common syntactical implication. `My children
+are Jonathan, Rebecca and Seth' means `none of my children are
+Samuel.' Sometimes there is no negative pregnant: `get milk, bread,
+peanut butter and eggs at the grocery' probably does not mean `do
+not get ice cream.'"
+Longview Fibre Co. v. Rasmussen, 980 F.2d 1307, 1313
+(9th Cir.1992) (internal citations omitted). See also Nat'l
+R.R. Passenger Corp. v. Nat'l Ass'n of R.R. Passengers,
+414 U.S. 453, 458, 94 S.Ct. 690, 38 L.Ed.2d 646 (1974)
+("This principle of statutory construction reflects an
+ancient maxim — expressio unius est exclusion alterius
+... But even the most basic general principles of statutory
+construction must yield to clear contrary evidence of
+legislative intent."). Here, Congressional intent is readily
+discernible, and, as demonstrated above, contrary to the
+Majority's application of the maxim.
+Second, commentators have noted that the use of
+maxims of statutory construction such as "expressio
+unius" are problematic insofar as there is no hierarchy of
+maxims of statutory interpretation. Why choose
+expressio unius rather than another maxim, indeed, the
+exact opposite: that listing some cases may include
+others? (see fn. 9, infra). In his recent book, A Matter of
+Interpretation, Justice Scalia wrote, "[t]he hard truth of
+the matter is that American courts have no intelligible,
+generally accepted, and consistently applied theory of
+statutory interpretation."9 Antonin [402 F.3d 900]
+Scalia, A Matter of Interpretation, 14 (1997) (quoting
+Henry M. Hart, Jr. & Albert M. Sacks, The Legal Process
+1169 (William N. Eskridge, Jr. & Philip P. Frickey eds.,
+1994)).
+Third, while maxims of statutory construction may,
+indeed, be helpful in interpreting statutes, they are not
+binding. The Founders, including Alexander Hamilton,
+recognized as much. See Alexander Hamilton, The
+Federalist Papers, No. 83 at 464 (Clinton Rossiter ed.,
+1961) ("The rules of legal interpretation are rules of
+common sense, adopted by the courts in the
+construction of laws. The true test of a just application
+of them is its conformity with the source from which
+they are derived.").
+Hence, rather than be guided by a Latin maxim nowhere
+mentioned by the 1976 Act or our jurisprudence as
+hierarchically preferable to other means of statutory
+interpretation, we should be guided by plain legislative
+intent, which, as our Supreme Court reminds us, trumps
+the ancient Latin maxim underpinning the Majority
+Opinion's conclusion. See Nat'l R.R. Passenger Corp.,
+414 U.S. at 459, 94 S.Ct. 690.
+Indeed, it should be noted that where Congress chooses
+to expressly prohibit assignment, it knows how to do so
+explicitly. See, e.g., Federal Anti-Assignment Act of
+1862, 41 U.S.C. § 15 (expressly prohibiting public
+contract claims against the U.S. government from being
+assigned); Federal Assignment of Claims Act of 1940, 31
+U.S.C. § 3727 (expressly prohibiting assignment of
+federal claims against the U.S. government from being
+assigned); Employee Retirement Income Security Act of
+1974 ("ERISA"), 29 U.S.C. § 1056 (expressly prohibiting
+the assignment of pension benefits). Here, that Congress
+did not prohibit assignment of infringement claims may
+well carry a negative pregnant that it intended not to
+prohibit assignment.
+A second consideration in statutory interpretation is
+practicality, or put another way, the avoidance of an
+absurd result. See Royal Foods Co., Inc. v. RJR Holdings
+Inc., 252 F.3d 1102 (9th Cir.2001) (courts will not
+interpret a statute in a way that results in an absurd or
+unreasonable result). Here, were the statute to be read
+literally, it would result in absurd or unreasonable
+results.
+It has long been recognized that assignment of the
+copyright does not automatically include assignment of
+accrued causes of action for earlier infringements of the
+copyright. See Prather, 410 F.2d at 700 ("`a mere
+assignment of a copyright does not itself transfer to the
+assignee any cause of action for infringements that
+occurred prior to the assignment. Unless the assignment
+of copyright contains language explicitly transferring
+causes of action for prior infringements, the assignee
+cannot maintain a suit for infringements which
+happened before the effective date of the assignment.'")
+(internal citations omitted). See also DeSilva
+Construction Corp. v. Herrald, 213 F.Supp. 184, 192
+(M.D.Fla.1962) (holding that the assignment of
+copyright under 1909 Act does not include the right to
+sue for "infringements antedating the assignment" and
+since the assignment as written failed to contain such a
+grant, "no such right is conferred by the assignment").
+The recognition that the right to an accrued cause of
+action did not (in the absence of an express contractual
+assignment [402 F.3d 901] of such rights) automatically
+follow the assignment of the copyright is necessarily a
+recognition that the two rights should be capable of
+being separate assets. As separate assets, like any other
+property right, the two rights can be separately
+alienated. That much was squarely decided in Prather,
+supra.
+Similar to the 1909 Act, courts have interpreted the
+1976 Act to mean that an assignment of a copyright does
+not automatically carry with it accrued claims unless
+such claims are specifically named in the contract of
+assignment. For example, in Infodek, Inc. v. MeredithWebb
+Printing Co., Inc., 830 F.Supp. 614
+(N.D.Ga.1993), in interpreting the 1976 Act, the court
+held "the case law clearly states that a transfer of interest
+for accrued damages must be stated in no uncertain
+terms. It follows that the transfer of interest to past
+infringements did not pass from [assignor] to [plaintiff
+assignee] in the first assignment despite the alleged
+intent to transfer any and all accrued damages." Infodek,
+830 F.Supp. at 620 (citing Prather, 410 F.2d at 700).
+The recognition under both the 1909 and 1976 Acts that
+an accrued cause of action for copyright infringement is
+an asset separate from the copyright or the exclusive
+uses of the copyright saves 501(b) from some absurd
+results.
+Read as the Majority does, Section 501 of the 1976 Act
+converts a claim for relief for infringement into a life
+estate, by providing a cause of action for copyright
+infringement but only for the person who owned the
+exclusive right at the time of the infringement. The
+statute would preclude an assignee of the copyright and
+accrued causes of action from suing on an accrued cause
+of action — which infringement, by definition was not
+"committed while he or she was the owner of it."
+The following result would obtain: if a copyright owner
+instituted suit for copyright infringement ("while he was
+the owner"), and then assigned the copyright after
+instituting such suit, the assignee of the copyright and
+the accrued cause of action could not maintain such suit,
+for the assignee was not the owner when the
+infringement occurred. In addition, the text would have
+to be read such that when the "he" or "she" who owned
+the exclusive right at the time of the infringement of the
+copyright dies, "his" or "her" heirs cannot institute the
+infringement action, for the same reason.
+Luckily, Section 501(b) has not been so interpreted. See
+17 U.S.C. § 501(b). Rather, the section has been
+interpreted to allow the post-1976 assignee of the
+accrued cause of action to maintain the suit for accrued
+causes of action. Indeed, courts have recognized that
+assignees of a copyright may maintain an action
+instituted by the previous owner during which such
+previous ownership the infringement claim arose. See,
+e.g., ABKCO Music, Inc. v. Harrisongs Music, Ltd., 944
+F.2d 971 (2d Cir.1991) (allowing plaintiff to bring suit
+for copyright infringement that had occurred prior to
+plaintiff's owning any copyright interest where plaintiff
+was assigned the right to accrued causes of action); see
+also 17 U.S.C. § 201(d)(2) (1976) ("[t]he owner of any
+particular exclusive right is entitled, to the extent of that
+right, to all the protection and remedies accorded to the
+copyright owner.").
+Accordingly, if individuals can bring suit on an accrued
+infringement claim that did not accrue while he or she
+was the owner, there is no reason the accrued cause of
+action cannot be assigned here.
+Other fundamental principles lead to the conclusion that
+Congress did not intend to preclude owners of a bare
+assignment of [402 F.3d 902] accrued causes of action
+from having standing to bring suit.
+First, it is well-established that contract rights are
+assignable at common law. See Restatement (Second)
+Contracts § 317(2)(b) (1979) (contract rights assignable
+unless the assignment is "forbidden by statute"). See also
+TransWorld Airlines, Inc. v. American Coupon
+Exchange, 913 F.2d 676, 685 (9th Cir.1990) (noting that
+"the presumption is in favor of assignment [of
+contract]"). Here, the assignment of an accrued cause of
+action for copyright infringement to an assignee is
+nothing more than "simple assignment of a chose in
+action." See Prather, 410 F.2d at 699-700.
+As a general matter, common law rights existing prior
+to the enactment of a statute remain in vigor unless
+expressly abrogated by statute. "[S]tatutes which invade
+the common law ... are to be read with a presumption
+favoring the retention of long-established and familiar
+principles, except when a statutory purpose to the
+contrary is evident." United States v. Texas, 507 U.S.
+529, 534, 113 S.Ct. 1631, 123 L.Ed.2d 245 (1993)
+(holding that states remain subject to common-law
+prejudgment interest liability where the federal debt
+collection legislation did not directly speak to the
+common law right of the federal government to collect
+prejudgment interest on debts owed to it by the states)
+(internal quotation marks and citation omitted). Indeed,
+the Supreme Court recognized that "in such cases,
+Congress does not write upon a clean slate." Id. Rather,
+"to abrogate a common-law principle, the statute must
+`speak directly' to the question addressed by the
+common law." Id. (internal quotation marks and citation
+omitted).
+That is, courts will not construe a statute "in derogation
+of common law" unless there is express Congressional
+intent:
+The courts have consistently held legislation derogative of the
+common law accountable to an exactness of expression, and have
+not allowed the effects of such legislation to be extended beyond the
+necessary and unavoidable meaning of its terms. The presumption
+runs against such innovation.
+Scharfeld v. Richardson, 133 F.2d 340, 341
+(D.C.Cir.1942). See also In re Chateaugay Corp., 94 F.3d
+772, 779 (2d Cir.1996) ("there is nothing, either in the
+language of the statute or in its legislative history, that
+would lead us to believe that Congress meant the statute
+to abrogate common law rights of setoff against
+refunds...."); Attorney General of Canada v. R.J.
+Reynolds Tobacco Holdings, Inc., 268 F.3d 103, 128 (2d
+Cir.2001) (construing civil RICO statute to preserve the
+common-law doctrine known as the "revenue rule,"
+which prohibits one sovereign from enforcing tax
+judgments or claims of another sovereign, "absent clear
+evidence of congressional intent to abrogate it.").
+In the case at bar, there is nothing in the 1976 Act which
+expressly forbids the assignment of the basic contract
+right at issue here.
+Accordingly, the Majority errs in reasoning that
+copyright "is a creature of statute, and the only rights
+that exist under copyright law are those granted by
+statute." Op. at 883-84. See also op. at 885. ("Copyright
+is a creature of statute, so we will not lightly insert
+common law principles that Congress has left out.").
+This conclusion is in tension with the principle that
+common law rights will be deemed to be retained except
+where there is statutory language and purpose to the
+contrary. This principle militates in favor of the court's
+retention of the common law right to assignment of
+contract. Accordingly, the Majority's reluctance to
+"insert common law principles" is unfounded here [402
+F.3d 903] and it errs in abrogating the right to assign
+contract rights.10
+Second, courts have interpreted other federal statutes
+which expressly confer standing on certain persons also
+to grant standing to assignees of the rights. For example,
+courts have held that assignees of antitrust claims that
+accrue under the Clayton Antitrust Act, 15 U.S.C. § 15,
+have standing to sue for antitrust violations. The act
+provides that "any person who shall be injured" can sue
+and yet courts have interpreted the statute to confer
+standing on assignees of antitrust claims. See, e.g.,
+Gulfstream III Associates, Inc. v. Gulfstream Aerospace
+Corp., 995 F.2d 425, 438-40 (3d Cir.1993) (Though the
+Clayton Antitrust Act, 15 U.S.C. § 15, provides that "any
+person who shall be injured" can sue, antitrust claims
+are assignable).
+Other federal statutes have been similarly interpreted.
+See, e.g., Lerman v. Joyce Int'l, Inc., 10 F.3d 106, 112-
+113 (3d Cir.1993) (RICO statute provides that "any
+person injured in his business or property" may sue;
+court held that RICO claims are assignable); see also
+Misic v. The Building Service Employees Health and
+Welfare Trust, 789 F.2d 1374, 1377-78 (9th Cir.1986)
+(per curiam) (ERISA statute, 29 U.S.C. § 1056(d),
+prohibited the assignment of pension benefits, but did
+not expressly prohibit the assignment of health and
+welfare benefits; though the statute, 29 U.S.C. § 1132(a),
+provides that: "A civil action may be brought by a
+participant or beneficiary ... to recover benefits due to
+him under the terms of his plan," (emphasis added),
+health and welfare claims are assignable).
+III.
+Next, the Majority argues that the case law that has
+developed in the area of patent law is analogous here.
+With respect, it is not. In particular, the Majority asserts
+that the U.S. Supreme Court's 1923 decision in Crown
+Die & Tool Co. v. Nye Tool & Machine Works, 261 U.S.
+24, 43 S.Ct. 254, 67 L.Ed. 516 (1923) (per Taft, C.J.),
+dealing with the question of whether an accrued cause
+of action for patent infringement, is analogous and,
+indeed, controls here. I respectfully disagree.
+In Crown Die, inventors Wright & Hubbard invented a
+machine for forming a screw-thread cutting device. Id.
+at 25, 43 S.Ct. 254. Wright & Hubbard assigned the
+patent to the Reed Manufacturing Company ("Reed").
+Id. Thereafter, Nye Tool & Machine Works ("Nye
+Tool"), first obtained from Reed "all claims recoverable
+in law or in equity, whether for damages, profits,
+savings, or any other kind or description which the
+Reed Manufacturing Company has against the Crown
+Die & Tool Company arising out of the infringement by
+the Crown Die & Tool Company." Id. at 26, 43 S.Ct.
+254. Nye Tool then brought suit to prevent Crown Die
+& Tool Company ("Crown Die"), a tool company and
+competitor, from using the screw-thread cutting device.
+Id. at 24, 43 S.Ct. 254. While not stated in the opinion,
+it stands to reason that plaintiff Nye Tool brought suit
+under the Patent Act of 1874, which provided that a
+"patentee, assignee, or grantee" could bring suit for
+patent infringement.11
+[402 F.3d 904] Crown Die moved to dismiss the
+complaint on the grounds that Nye Tool did not have
+standing to bring suit, for Reed owned the patent and
+had only granted Nye Tool a portion of its rights
+thereunder. Id. at 27, 43 S.Ct. 254. The court of appeals
+reversed the district court's order granting defendant's
+motion to dismiss and the U.S. Supreme Court reversed
+the court of appeals. Id. at 36, 43 S.Ct. 254. In reversing
+the court of appeals and affirming the district court's
+dismissal of the complaint, Chief Justice Taft reasoned
+that the common law doctrine of assignment of a cause
+of action does not apply to patent law because patent
+law is a creation of statute. Id. More specifically, Chief
+Justice Taft reasoned that the patent right was "created
+by the act of Congress; and no rights can be acquired in
+it unless authorized by statute, and in the manner the
+statute prescribes." Id. at 40, 43 S.Ct. 254 (quoting
+Gayler v. Wilder, 51 U.S. 477, 494, 10 How. 477, 13
+L.Ed. 504 (1850)).
+In so holding, the court reasoned that there was no
+legislative intent to permit splitting of the claim from
+the underlying right because to do so would result in an
+aftermarket in patent claims.12 The court reasoned that:
+[I]t was obviously not the intention of the Legislature to permit
+several monopolies to be made out of one, and divided among
+different persons within the same limits. Such a division would
+inevitably lead to fraudulent impositions upon persons who desired
+to purchase the use of the improvement, and would subject a party
+who, under a mistake as to his rights, used the invention without
+authority, to be harassed by a multiplicity of suits instead of one,
+and to successive recoveries of damages by different persons in the
+same place.
+Id. at 38, 43 S.Ct. 254 (quoting Gayler v. Wilder, 51 U.S.
+477, 494, 10 How. 477, 13 L.Ed. 504 (1850)) (internal
+quotation marks omitted) (emphasis added).
+First, in contrast to the Chief Justice's 1923 reading of
+an 1874 Patent Law, it clearly was the intent of the 1976
+Legislature to "permit several monopolies to be made of
+one," insofar as the six individual [402 F.3d 905] and
+separate uses of a single copyright (Section 201(d)) could
+not only be "divided among different persons," but
+subdivided infinitely. See 17 U.S.C. § 201(d).
+Second, avoidance of fraud upon purchasers of "several"
+copyright uses was to be avoided by regulation:
+copyright registration. See 1909 Act, Section 12 (1909)
+("no action or proceeding shall be maintained for
+infringement of copyright in any work until the
+provisions of this Act with respect to the deposit of
+copies and registration of such work shall have been
+complied with").13 Accord, 17 U.S.C. § 411(a) (1976)
+("[n]o action for infringement of the copyright in any
+work shall be instituted until registration of the
+copyright claim has been made in accordance with this
+title.").
+Third, the concern of multiplicity of suits14 because of
+several owners of copyright uses seems expressly
+overcome by allowing suit by the owner of "an" (not
+"all") exclusive right (§ 501(b)) to bring suit.
+Moreover, while the notion of severability of the
+incidents of ownership of property was in its infancy in
+1923 at the time Crown Die was decided, such is not the
+case today. Indeed, the underlying premise upon which
+the Majority relies is that there should not be an
+aftermarket in causes of action for copyright
+infringement. Given the growth of an aftermarket in
+derivative rights such as puts, calls and credit insurance
+against bankruptcy risks on corporate debt, the notion
+that an aftermarket in accrued causes of action for
+copyright infringement is to be prohibited is at best
+passe and at worst an unwarranted restraint on
+alienation. See Bank of America, N.A. v. Moglia, 330
+F.3d 942, 947 (7th Cir.2003) (Posner, J.) ("restraint[s] on
+alienation are traditionally disfavored."). Indeed, such
+limitations, on those able to bring suit, harken back to
+the Tudor Kings of England who limited inheritance to
+primogeniture and descent by fee tail.
+Here, the market will account for the fact that a
+copyright holder is selling accrued causes of action and
+not the underlying copyright. To be sure, prices will
+fluctuate depending on whether the copyright itself is
+included.
+Finally, while courts have recognized that "[w]here
+precedent in copyright cases is lacking, it is appropriate
+to look for guidance to patent law `because of the
+historic kinship between patent law and copyright law,'"
+(see op. at 887) (internal citation omitted), courts have
+also recognized that "[these] two areas of the law,
+naturally, are not identical twins, and we exercise the
+caution which we have expressed in the past in applying
+doctrine formulated in one area to the other." Sony
+Corp. of America v. Universal City Studios, Inc., 464
+U.S. 417, 439 n. 19, 104 S.Ct. 774, 78 L.Ed.2d 574
+(1984). See also Mazer v. Stein, 347 U.S. 201, 217-218,
+74 S.Ct. 460, 98 L.Ed. 630 (1954) (declining to apply
+patent law to copyright law due to differences in bodies
+of law). For these reasons, Crown Die does not compel a
+contrary result here.15
+[402 F.3d 906] IV.
+Unlike circumstances in which the proliferation of
+lawsuits has been restrained on the basis of public
+policy, such as the prohibition on assignment of
+personal injury claims in tort, here there is no reason to
+prevent the assignment of a copyright claim. Indeed, the
+court in Prather expressly held there was no such public
+policy. See Prather, 410 F.2d at 700 ("[t]here is no public
+policy against such assignments.").
+Courts have upheld restrictions on the assignment of
+claims where such assignment has been deemed to be in
+violation of public policy. This anti-assignment policy
+was rooted in the common law prohibition on
+champerty.16 See, e.g., United Food & Commercial
+Workers & Employers Arizona Health & Welfare Trust
+v. Pacyga, 801 F.2d 1157, 1159 (9th Cir.1986) (noting
+that assignment of personal injury claims is prohibited
+by common law in Arizona); See also DeSenne v.
+Jamestown Boat Yard, Inc., 968 F.2d 1388, 1390 (1st
+Cir.1992) (noting that anti-assignment of personal
+injury claims rooted in prohibition on champerty).
+Similarly, courts have held that legal malpractice claims
+are not assignable for public policy reasons. See, e.g.,
+Forgione v. Dennis Pirtle Agency, Inc., 93 F.3d 758, 760
+(11th Cir.1996) ("[a] majority of jurisdictions prohibit
+the assignment of [legal malpractice] actions because the
+personal nature of legal services which involve highly
+confidential relationships") (internal quotation and
+citation omitted). Moreover, courts have upheld
+restrictions on in-person attorney solicitation, enacted
+to prevent the public's perception of attorneys from
+falling in further disrepute, as rooted in the common
+law doctrine of barratry.17 See Florida Bar v. Went For
+It, Inc., 515 U.S. 618, 626, 115 S.Ct. 2371, 132 L.Ed.2d
+541 (1995). See also Bailey v. Morales, 190 F.3d 320, 323
+(5th Cir.1999) (legal profession barred from soliciting
+under ancient doctrine prohibiting barratry).
+In addition, courts have upheld restrictions on
+assignment of certain federal claims where assignment
+of such claims would result in nuisance suits. For
+example, in Smith v. Ayres, 977 F.2d 946, 950 (5th
+Cir.1992), the plaintiff shareholder brought suit under
+section 10(b) of the Securities Exchange Act of 1934,
+which provides that "purchasers or sellers" of securities
+may bring suit. The plaintiff had been granted an
+express assignment of the claim. The defendant moved
+to dismiss on the ground that plaintiff lacked standing
+and the district court granted the motion. The Fifth
+Circuit affirmed, concluding that such a result was
+warranted by (1) the fact that "Congress was concerned
+with blackmail, nuisance, and strike suits, and drafted
+the act to circumscribe the class of plaintiffs who may
+sue under the Act for the very purpose of eliminating
+such suits" and (2) "the evidentiary problems inherent
+[402 F.3d 907] in allowing a non-purchaser or nonseller
+to bring a Rule 10b-5 action." Id. at 950 (internal
+citations omitted).
+None of such policy concerns underlie the Majority's
+opinion. Nor indeed is there a reasoned policy
+consideration given for prohibiting suit upon an accrued
+cause of action for infringement.18
+V.
+In reaching its conclusion, the Majority argues that this
+circuit should follow the Second Circuit's decision in
+Eden Toys, Inc. v. Florelee Undergarment Co., Inc., 697
+F.2d 27 (2d Cir.1982) to avoid the creation of a circuit
+split. See op. at 889-90. In my view, Eden Toys is
+inapposite. To avoid the creation of a circuit split, this
+circuit should rather follow the rationale of Prather.
+A. Prather v. Neva Paperbacks, Inc.
+In Prather v. Neva Paperbacks, Inc., 410 F.2d 698
+(1969), the Fifth Circuit squarely held that an assignee of
+an accrued cause of action is a proper party to bring suit
+for copyright infringement. In my view, this case
+provides persuasive authority that this circuit should
+follow.
+Plaintiff Prather ("Prather") was the author of several
+books. Prather held the copyright on one of the books
+and the copyright to the remaining books was held by
+Prather's publisher, Fawcett Publications. Prather
+discovered that the copyright on one of the books (the
+rights to which were owned by Fawcett) had been
+infringed by book publisher Neva Paperbacks, Inc.
+("Neva"). After discovering the infringement, Prather
+obtained some of the copyright rights and an
+assignment of all present, past and future causes of
+action.19 Significantly, however, Fawcett
+"simultaneously" with assigning the copyright to
+Prather, retained an exclusive license to the English
+language rights for books throughout the world. Id. at
+699 n. 1.
+Prather brought suit against Neva for copyright
+infringement. Neva moved to dismiss, arguing that
+plaintiff Prather did not have standing to bring suit
+because Prather was not the "proprietor" of the
+copyright as required under the 1909 Act. See 17 U.S.C.
+§ 101(a) (1952). Rather, Neva argued that because the
+copyright rights had been "split," Prather was a mere
+"licensee" and not the sole "proprietor" under Section
+101.
+The Fifth Circuit affirmed the trial court's denial of the
+defendant's motion to dismiss and held that Prather did,
+in fact, have standing to sue. In so holding, the Fifth
+Circuit reasoned that the assignment was simply a
+"simple assignment of a chose in action" — a contract —
+that contained express language of assignment. See
+Prather, 410 F.2d at 699-700. The court concluded:
+As an assignee of the causes of action for infringement damages
+past, present and future, Prather has the right to maintain the
+action under 17 U.S.C.A. [§] § 101 et seq. For infringement. There
+is no public policy against such assignments and under
+F[ED].R.CIV.P. 17 such assignee of all choses in action for
+infringement, whether a `proprietor' or not, has standing to sue and
+the court [402 F.3d 908] has effective power to avoid altogether the
+risk of double suit or double recovery.
+Id. at 700 (emphasis added).
+Under Prather, then, courts will not require plaintiff to
+hold ownership of one or more of the exclusive rights of
+a copyright owner to have standing.
+The Majority states that Prather is "unhelpful" authority
+for two reasons: (1) it was decided under the 1909 Act,
+and not the 1976 Act; and (2) "the assignment in Prather
+involved both accrued causes of action and some of what
+we now call exclusive rights." Op. at 889 (emphasis in
+original). The Majority argues "the Prather court was
+not faced, as we are, with a situation in which the owner
+of all the exclusive rights and the owner of the accrued
+causes of action are two different people." Op. at 889.
+Neither distinction is persuasive.
+First, the Majority's attempt to distinguish Prather as
+predicated on the 1909 Act is unpersuasive, given that
+courts have recognized that "[i]n enacting § 501(b)'s
+standing provision, Congress `merely codified the case
+law that had developed [under the 1909 Act] with
+respect to the beneficial owner's standing to sue.'"20
+Moran v. London Records, Ltd., 827 F.2d 180, 183 (7th
+Cir.1987) (internal citation omitted). See also Gardner,
+279 F.3d at 778 (9th Cir.2002) (holding that a
+sublicensee of a copyright lacked standing to sue under
+the 1976 Act on the ground that the pre-1976 law so
+prohibited).21 Accord, H.R. 94-1476 at 47, reprinted in
+1976 U.S.C.C.A.N. 5659, 5660 ("[t]he present copyright
+law, title 17 of the United States Code, is basically the
+same as the act of 1909.").
+Second, that Prather owned rights to the books (other
+than the English language rights), Neva argued, made
+Prather a licensee of book rights — not the owner of
+what we would now call "exclusive rights." An assignee
+could not be the owner of book rights because the
+"exclusive right" to republish could not be split away
+from the copyright under the 1909 Act; that is precisely
+what the 1976 Act changed. Licensees did not have
+standing to bring suit under the 1909 Act. Therefore,
+Prather, as a (mere) licensee, could not have had
+standing to sue but for his standing as the assignee of an
+"accrued cause of action for infringement." See, e.g.,
+Gardner, 279 F.3d at 778 ("only the copyright proprietor
+(which would include an assignee but not a licensee) had
+standing to bring an infringement action.").
+Moreover, the assignment to Prather of "some rights"
+did not help Prather establish his right to sue; just the
+opposite. The fact that he got "some" but not "all" rights
+of copyright was used by the defendants to undermine
+his standing and was in no sense a grounds used by the
+Prather court to validate the assignment. Indeed, [402
+F.3d 909] the court rejected this argument and refused
+to get into the "metaphysical dialectic" of the "button
+game" of determining who had the copyright. Prather,
+410 F.2d at 699.
+In my view, to interpret Prather as holding that an
+assignee of an accrued cause of action was required to be
+an assignee of some rights under the copyright would be
+a profound misreading of the case. Rather than essential
+to establish standing, having (only) some rights made
+out what defendant Neva urged as an affirmative
+defense.
+B. Eden Toys, Inc. v. Florelee Undergarment Co., Inc.
+By contrast, the Second Circuit's decision in Eden Toys,
+Inc. v. Florelee Undergarment Co., Inc., 697 F.2d 27 (2d
+Cir.1982) involves a different factual situation and thus
+is entitled to little weight here.
+In Eden Toys, Paddington Bear & Company, Ltd.
+("Paddington Bear") held the copyright to children's
+books which featured the fictional character Paddington
+Bear. Id. at 29. In 1975, Paddington Bear entered into an
+agreement with Eden Toys, Inc. ("Eden Toys"), an
+American corporation, whereby Eden Toys was granted
+an exclusive license to use licensor Paddington Bear's
+copyright and characters in North America. Id. In 1980,
+that agreement was amended to grant Eden Toys
+exclusive North American rights to all Paddington
+products except books, tapes, records, stage plays,
+motion pictures, radio and television productions. Id. at
+30. Under the agreement, Paddington Bear retained the
+right to sue for copyright infringement on Eden Toys'
+license. Id. In particular, the agreement allowed
+Paddington Bear to sue, or choose not to, but let Eden
+Toys bring suits on Paddington's behalf.22 Id. at 30 n. 2.
+Eden Toys brought suit against Florelee Undergarment
+Co. ("Florelee"), alleging copyright infringement, and
+seeking to enjoin Florelee's use of the Paddington Bear
+image. Id. at 31. Florelee moved to dismiss the
+complaint on the ground that Eden Toys lacked
+standing to sue under 17 U.S.C. § 501(b) (1976). Id. The
+Second Circuit affirmed the district court's dismissal of
+the claim, holding that "[the court] do[es] not believe
+that the [1976] Copyright Act permits holders of rights
+under copyrights to choose third parties to bring suits
+on their behalf." Id. at 32 n. 3.
+The Majority contends that the court in Eden Toys
+"made plain the basic principle, which we also have
+derived from § 501(b) and its context and history, that
+only the owner of an exclusive right under the copyright
+is entitled to sue for infringement." Op. at 889.
+I respectfully disagree. In my view, the holding of Eden
+Toys is far more narrow. The court in Eden Toys held
+that a copyright holder who maintains ownership of the
+exclusive right to reproduce cannot assign to a third
+party the bare right to sue should the copyright holder
+choose not to do so. It does not hold that a copyright
+holder may not assign the accrued cause of action, on
+which a new owner can sue.
+[402 F.3d 910] Indeed, the specific contractual
+agreement between Eden Toys and Paddington Bear did
+not (as it does here) assign all rights to any claims, but
+merely assigned the right to sue where Eden Toys or its
+licensees was "exposed to competition, direct or indirect,
+from infringers of the copyright or trademark rights
+which are licensed hereunder." Id. at 30 n. 2. There was
+no assignment to Eden Toys of pre-existing accrued
+causes of action. Accordingly, there was no real
+"assignment" of any accrued cause of action. Rather, the
+Eden-Paddington Bear agreement was interpreted as an
+agreement merely designating Eden as the agent for
+purposes of suit. Thus, Eden Toys merely holds that the
+proper party plaintiff, the "real party in interest," is the
+owner of the cause of action for infringement, not some
+hand-picked stand-in.
+C. ABKCO Music, Inc. v. Harrisongs Music, Ltd.
+Finally, I respectfully disagree with the Majority's
+reading of the Second Circuit's decision in ABKCO
+Music, Inc. v. Harrisongs Music, Ltd., 944 F.2d 971 (2d
+Cir.1990). Far from "reaffirm[ing] the principle of Eden
+Toys that a party that has no ownership interest has no
+standing to sue," as the Majority asserts (op. at 889-90),
+in my view, the decision clearly holds that copyright
+ownership is not the sine qua non of standing, but that
+assignees of accrued causes of action may sue for
+copyright infringement.
+In 1971, Bright Tunes Music Corporation, which owned
+the copyright to a song entitled "He's So Fine," sued
+musician (and Beatles band member) George Harrison
+and Harrisongs Music claiming that Harrison's tune "My
+Sweet Lord" infringed Bright Tunes' copyright. The
+trial court agreed and ruled in favor of Bright Tunes, but
+reserved judgment on the issue of damages. Id. at 975.
+In 1971, at the time Bright Tunes sued Harrison,
+ABKCO Music, Inc. and its president served as business
+manager for the Beatles. Id. at 975. In 1978, ABKCO
+purchased all of Bright Tunes' interest in "He's So Fine"
+including the copyright and "any and all rights assertable
+under copyright against the infringing composition
+("My Sweet Lord") in any part of the world which may
+have heretofore arisen or which may arise hereafter." Id.
+at 980. Accordingly, ABKCO was substituted as the sole
+party plaintiff in the action against Harrisongs Music. Id.
+at 975. However, Harrison had claims against ABKCO
+and its principal Klein which required ABKCO to
+convey the old Bright Tunes copyright to "He's So Fine"
+to Harrison on the payment of a sum.
+On appeal, ABKCO claimed that if it conveyed the old
+Bright Tunes "He's So Fine" copyright to Harrison, it
+could not participate in the 1980 foreign settlements and
+it would lose its pre-1970 infringement claims.
+As concerns us, the dispositive question was a
+determination of what rights were at issue in the 1980
+foreign settlements: ABKCO's possession of the
+copyright to "He's So Fine" or merely its ownership of
+the infringement claims. The Second Circuit held it was
+merely the ownership of the infringement claims, and
+held that ABKCO's right to bring the claims derived
+from its ownership of the accrued infringement claims.
+In so holding, the Second Circuit noted that although
+ABKCO now owned the copyright and the accrued
+infringement claims, it need not continue to own the
+copyright to enforce its accrued-in-1970 causes of action
+for copyright infringement arising from the 1980
+settlement. The court reasoned:
+[402 F.3d 911] Hence, the claims had already accrued when ABKCO
+purchased all of Bright Tunes' rights in "He's So Fine." As a
+consequence, ABKCO's right to bring the claims arises not out of its
+ownership of the copyright, but from its ownership of the claims
+themselves which it purchased, along with the copyright, in 1978.
+We therefore conclude that ABKCO's ownership of the "He's So
+Fine" copyrights was not a necessary predicate to its participation in
+the 1980 settlements. ABKCO could participate in the 1980
+settlements because it owned the infringement claims accrued in
+1970, not because it owned the copyright. Thus, ABKCO's
+ownership of the copyright was not affected by the 1980
+settlements, and ABKCO must surrender the copyright to the
+Harrison Interests upon proper payment.
+Id. at 980-981 (emphasis added).
+Thus, under the holding in ABKCO, ownership of the
+copyright is not a requirement for the enforcement of
+accrued claims assigned to the assignee (ABKCO) so
+long as the claims arose during the period when the
+assignor (Bright Tunes) was the owner of the copyright.
+Moreover, ABKCO could continue to assert such
+accrued copyright infringement claims even though it
+would be forced to give up the copyright.
+According to the Majority, "[t]he Second Circuit [in
+ABKCO] made clear that its decision was limited to the
+situation in which the same entity purchased both the
+copyright and accrued claims; the only issue was one of
+timing, whether ownership of the copyright and
+occurrence of the infringement had to coincide." Op. at
+___. I respectfully disagree. In ABKCO, ownership of
+both the copyright and the accrued causes of action was
+merely coincident — not required — for ABKCO to have
+standing to sue.
+Indeed, ABKCO, like Silvers, did not own the copyright
+to "He's So Fine" when George Harrison and the Beatles
+plagiarized it into "My Sweet Lord." The copyright to
+"He's So Fine" was owned by Bright Tunes; the
+infringements took place before 1970.
+In the case at bar, there is no dispute that Frank & Bob
+Films II owned the copyright when the alleged Sony
+infringement took place and that they, like Bright
+Tunes, assigned those accrued infringement claims to
+Silvers. Thus, like ABKCO, Silvers has standing to
+pursue those accrued infringement claims.
+Accordingly, I respectfully disagree with the Majority: to
+avoid the creation of a circuit-split, op. at 889-90, this
+court should follow the Fifth Circuit's decision in
+Prather, rather than the Second Circuit's decision in
+Eden Toys, as the facts in Eden Toys are clearly
+distinguishable. In addition, in ABKCO, a more recent
+decision, the Second Circuit expressly held that
+ownership of both the copyright and the accrued causes
+of action is not necessary for the owner of those claims
+to bring suit.
+VI.
+For the foregoing reasons, I would affirm the district
+court's denial of Sony's motion to dismiss Silvers'
+complaint against Sony for the alleged infringement of
+the copyright of her script, "The Other Woman." I
+respectfully dissent.

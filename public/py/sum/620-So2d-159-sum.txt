@@ -1,0 +1,5 @@
+Art. V, § 3(b)(6), Fla. Const. The Eleventh Circuit certified the question:     Does a Florida tax certificate represent an interest in land for purposes of the Florida Uniform Commercial Code, so that Article 9 does not govern the creation of a security interest therein by virtue of § 679.104(10)[, Florida Statutes (1991)?]
+" Because section 197.102(3) clearly defines a tax certificate as a first lien on real property, the plain language of sections 679.104(10) and 679.102(2) expressly excludes tax certificates (a lien on real property and a statutory lien) from the chapter governing secured transactions.
+The appellee nevertheless argues that a tax certificate comes within the scope of article 9 when the certificate is offered as security for a loan.
+If the question presented to us had been whether a note secured by a tax certificate is a transaction within the scope of article 9, our answer would be governed by this statutory provision.
+Having answered the certified question, we return this case to the United States Court of Appeals for the Eleventh Circuit for disposition.
