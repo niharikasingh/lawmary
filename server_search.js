@@ -2,6 +2,31 @@ var express = require('express');
 var mongoose = require('mongoose');
 var bodyParser = require('body-parser');
 
+// INITIALIZE DATABASE
+
+mongoose.connect('mongodb://ruler:hotpics@ds139715.mlab.com:39715/lawmary');
+var db = mongoose.connection;
+db.on( 'error', console.error.bind( console, 'connection error:' ) );
+
+// once the connection is established we define our schemas
+db.once( 'open', function callback() {
+
+    // independent schema
+    var CaseSchema = new mongoose.Schema( {
+        name: String,
+        link: String,
+        tags: [String],
+        visited: Number,
+        examMode: [Number]
+    }, {
+        versionKey: false 
+    });
+
+    // create Mongoose models from our schemas
+    var CaseCollection = mongoose.model('casedict', CaseSchema);
+
+});
+
 var app = express();
 app.use(express.static(__dirname + "/public"));
 //app.use(bodyParser.urlencoded({ extended: false }));
@@ -40,32 +65,6 @@ app.get('/nodesearch', function (req, res) {
     res.send(respstr);
     console.log("ENDING SEARCH: " + respstr);
   });
-});
-
-
-// INITIALIZE DATABASE
-
-mongoose.connect('mongodb://lawmaryruler:hotpics9@ds139715.mlab.com:39715/lawmary');
-var db = mongoose.connection;
-db.on( 'error', console.error.bind( console, 'connection error:' ) );
-
-// once the connection is established we define our schemas
-db.once( 'open', function callback() {
-
-    // independent schema
-    var CaseSchema = new mongoose.Schema( {
-        name: String,
-        link: String,
-        tags: [String],
-        visited: Number,
-        examMode: [Number]
-    }, {
-        versionKey: false 
-    });
-
-    // create Mongoose models from our schemas
-    var CaseCollection = mongoose.model('casedict', CaseSchema);
-
 });
 
 // CREATE

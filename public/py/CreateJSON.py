@@ -5,7 +5,7 @@ import logging, sys
 #set up logging
 logging.basicConfig(stream=sys.stderr, level=logging.ERROR)
 
-casedict = {}
+casedict = []
 
 i = 0
 #format: var CaseSchema = new Schema( {
@@ -15,7 +15,7 @@ i = 0
 #        visited: Number,
 #        examMode: [Number]
 #    });
-with open("index.txt", "r") as readfile, open("../js/casedict.json", "w") as writefile:
+with open("001/index.txt", "r") as readfile, open("../js/casedict001.json", "w") as writefile:
     allLines = readfile.readlines()
     for j in range(0, len(allLines)): 
         line = allLines[j]
