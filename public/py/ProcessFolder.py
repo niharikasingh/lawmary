@@ -7,7 +7,7 @@ for subdir, dirs, files in os.walk("sum"):
         filename = file[:-8] + ".txt"
         completedFiles.append(filename)
 
-for subdir, dirs, files in os.walk("001"):
+for subdir, dirs, files in os.walk("002"):
     for file in files:
         if (file not in completedFiles):
             filepath = subdir + os.sep + file

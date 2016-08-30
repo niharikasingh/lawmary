@@ -15,7 +15,7 @@ i = 0
 #        visited: Number,
 #        examMode: [Number]
 #    });
-with open("001/index.txt", "r") as readfile, open("../js/casedict001.json", "w") as writefile:
+with open("002/index.txt", "r") as readfile, open("../js/casedict002.json", "w") as writefile:
     allLines = readfile.readlines()
     for j in range(0, len(allLines)): 
         line = allLines[j]
