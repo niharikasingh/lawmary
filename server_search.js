@@ -145,7 +145,8 @@ app.get('/test', function(req, res) {
             console.log(error);
         } else {
             console.log(response.statusCode, body);
-            res.send(body);
+            var id = body["results"]["id"];
+            res.send(id);
         }
     });
 });
