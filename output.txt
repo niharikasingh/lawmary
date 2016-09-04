@@ -1,24 +1,11 @@
-HTTP/1.1 503 Service Unavailable
-Connection: keep-alive
+HTTP/1.1 500 Internal Server Error
 Server: Cowboy
-Date: Sun, 04 Sep 2016 20:32:41 GMT
-Content-Length: 484
+Connection: keep-alive
+X-Powered-By: Express
+X-Content-Type-Options: nosniff
 Content-Type: text/html; charset=utf-8
-Cache-Control: no-cache, no-store
+Content-Length: 22
+Date: Sun, 04 Sep 2016 20:55:05 GMT
+Via: 1.1 vegur
 
-<!DOCTYPE html>
-    <html>
-    <head>
-      <meta name="viewport" content="width=device-width, initial-scale=1">
-      <style type="text/css">
-        html, body, iframe { margin: 0; padding: 0; height: 100%; }
-        iframe { display: block; width: 100%; border: none; }
-      </style>
-    <title>Application Error</title>
-    </head>
-    <body>
-      <iframe src="//s3.amazonaws.com/heroku_pages/error.html">
-        <p>Application Error</p>
-      </iframe>
-    </body>
-    </html>
+Internal Server Error

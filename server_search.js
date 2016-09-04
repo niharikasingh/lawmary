@@ -132,7 +132,6 @@ app.post('/casedict', function(req, res) {
 // TEST SECTION
 app.get('/test', function(req, res) {
     for (var i=0; i<queryFields.length; i++) {
-        var currQuery = queryFields[i];
         // Send request to CourtListener
         request({
             url: 'https://www.courtlistener.com/api/rest/v3/search/', 
