@@ -147,7 +147,7 @@ app.get('/test', function(req, res) {
         } else {
             console.log(response.statusCode, body);
             var id = body["results"][0]["id"];
-            res.send(id);
+            res.send(id.toString());
         }
     });
 });
