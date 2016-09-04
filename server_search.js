@@ -136,6 +136,7 @@ app.get('/test', function(req, res) {
         url: 'https://www.courtlistener.com/api/rest/v3/search/', 
         qs: {"citation": "477 U.S. 242"}, 
         method: 'GET', 
+        json: true;
         headers: { 
             'Authorization': 'Token 1725c13be1d7607d790ce749ca23a368fce0388e',
             'Accept': 'application/json'
