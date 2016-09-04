@@ -130,14 +130,13 @@ app.post('/casedict', function(req, res) {
 // not yet implemented
 
 // TEST SECTION
-const queryFields = ["federal_cite_one", "federal_cite_two", "federal_cite_three", "state_cite_one", "state_cite_two", "state_cite_three", "state_cite_regional", "specialty_cite_one", "scotus_early_cite", "lexis_cite", "westlaw_cite", "neutral_cite"];
 app.get('/test', function(req, res) {
     for (var i=0; i<queryFields.length; i++) {
         var currQuery = queryFields[i];
         // Send request to CourtListener
         request({
-            url: 'https://www.courtlistener.com/api/rest/v3/clusters/', 
-            qs: {currQuery: "477 U.S. 242"}, 
+            url: 'https://www.courtlistener.com/api/rest/v3/search/', 
+            qs: {"citation": "477 U.S. 242"}, 
             method: 'GET', 
             headers: { 
                 'Authorization': 'Token 1725c13be1d7607d790ce749ca23a368fce0388e',
