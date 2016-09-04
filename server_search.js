@@ -131,25 +131,23 @@ app.post('/casedict', function(req, res) {
 
 // TEST SECTION
 app.get('/test', function(req, res) {
-    for (var i=0; i<queryFields.length; i++) {
-        // Send request to CourtListener
-        request({
-            url: 'https://www.courtlistener.com/api/rest/v3/search/', 
-            qs: {"citation": "477 U.S. 242"}, 
-            method: 'GET', 
-            headers: { 
-                'Authorization': 'Token 1725c13be1d7607d790ce749ca23a368fce0388e',
-                'Accept': 'application/json'
-            }
-        }, function(error, response, body){
-            if(error) {
-                console.log(error);
-            } else {
-                console.log(response.statusCode, body);
-                res.send(body);
-            }
-        });
-    }
+    // Send request to CourtListener
+    request({
+        url: 'https://www.courtlistener.com/api/rest/v3/search/', 
+        qs: {"citation": "477 U.S. 242"}, 
+        method: 'GET', 
+        headers: { 
+            'Authorization': 'Token 1725c13be1d7607d790ce749ca23a368fce0388e',
+            'Accept': 'application/json'
+        }
+    }, function(error, response, body){
+        if(error) {
+            console.log(error);
+        } else {
+            console.log(response.statusCode, body);
+            res.send(body);
+        }
+    });
 });
 
 app.listen(process.env.PORT || 8080);
