@@ -129,9 +129,17 @@ app.post('/casedict', function(req, res) {
 // DELETE
 // not yet implemented
 
+var cleanText = function(text) {
+    // replace all html tags
+    text = text.replace(/<.*?>/g, "");
+    // replace newline characters
+    text = text.replace(/\\n/g, "");
+    return text;
+}
+
 // TEST SECTION
 app.get('/test', function(req, res) {
-    // Send request to CourtListener
+    // Send request to CourtListener for case ID number
     request({
         url: 'https://www.courtlistener.com/api/rest/v3/search/', 
         qs: {"citation": "477 U.S. 242"}, 
@@ -147,7 +155,27 @@ app.get('/test', function(req, res) {
         } else {
             console.log(response.statusCode, body);
             var id = body["results"][0]["id"];
-            res.send(id.toString());
+            if (Number(id) != NaN) {
+                // Send request to CourtListener for case ID number
+                request({
+                    url: 'https://www.courtlistener.com/api/rest/v3/opinions/', 
+                    qs: {"id": id}, 
+                    method: 'GET', 
+                    json: true,
+                    headers: { 
+                        'Authorization': 'Token 1725c13be1d7607d790ce749ca23a368fce0388e',
+                        'Accept': 'application/json'
+                    }
+                }, function(error2, response2, body2){
+                    var text = "";
+                    if ((body2["results"][0]["plain_text"] != null) && (body2["results"][0]["plain_text"].length > 0)) text = body2["results"][0]["plain_text"];
+                    else if ((body2["results"][0]["html"] != null) && (body2["results"][0]["html"].length > 0)) text = body2["results"][0]["html"];
+                    else if ((body2["results"][0]["html_lawbox"] != null) && (body2["results"][0]["html_lawbox"].length > 0)) text = body2["results"][0]["html_lawbox"];
+                    else if ((body2["results"][0]["html_columbia"] != null) && (body2["results"][0]["html_columbia"].length > 0)) text = body2["results"][0]["html_columbia"];
+                    text = cleanText(text);
+                    res.send(text);
+                });
+            }
         }
     });
 });
