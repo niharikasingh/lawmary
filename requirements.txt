@@ -2,3 +2,4 @@ networkx==1.11
 nltk==3.2
 summa==0.0.7
 scikit_learn==0.17.1
+numpy==1.10.4
