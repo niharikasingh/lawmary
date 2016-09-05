@@ -1,5 +1,4 @@
 from nltk.stem.porter import *
-from nltk.corpus import stopwords
 import nltk.data
 import networkx as nx
 import math
@@ -9,7 +8,11 @@ import logging, sys
 #set up logging
 logging.basicConfig(stream=sys.stderr, level=logging.ERROR)
 
-sw = set(stopwords.words('english'))
+#get stopwords
+sw = set()
+with open('english', 'r') as stopfile:
+    for line in stopfile:
+        sw.add(line[:-1])
 for i in range(97, 123):
     sw.add(chr(i))
 
@@ -50,7 +53,7 @@ def clean(text):
     #remove newlines
     re.sub(r'\n', '', text)
     #split into sentences
-    tokenizer = nltk.data.load('tokenizers/punkt/english.pickle')
+    tokenizer = nltk.data.load('english.pickle')
     sentences = tokenizer.tokenize(text)
     for i in range(len(sentences)-1, -1, -1):
         currS = sentences[i]
