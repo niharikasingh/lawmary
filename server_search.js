@@ -2,6 +2,7 @@ var express = require('express');
 var mongoose = require('mongoose');
 var bodyParser = require('body-parser');
 var request = require('request');
+var pythonShell = require('python-shell');
 
 // INITIALIZE DATABASE
 
@@ -139,6 +140,7 @@ var cleanText = function(text) {
 
 // TEST SECTION
 app.get('/test', function(req, res) {
+    var caseName = "";
     // Send request to CourtListener for case ID number
     request({
         url: 'https://www.courtlistener.com/api/rest/v3/search/', 
@@ -152,9 +154,10 @@ app.get('/test', function(req, res) {
     }, function(error, response, body){
         if(error) {
             console.log(error);
-        } else {
+        } else if (body["results"].length > 0) {
             console.log(response.statusCode, body);
             var id = body["results"][0]["id"];
+            caseName = body["results"][0]["caseName"];
             if (Number(id) != NaN) {
                 // Send request to CourtListener for case ID number
                 request({
@@ -167,13 +170,24 @@ app.get('/test', function(req, res) {
                         'Accept': 'application/json'
                     }
                 }, function(error2, response2, body2){
+                    // extract text
                     var text = "";
                     if ((body2["results"][0]["plain_text"] != null) && (body2["results"][0]["plain_text"].length > 0)) text = body2["results"][0]["plain_text"];
                     else if ((body2["results"][0]["html"] != null) && (body2["results"][0]["html"].length > 0)) text = body2["results"][0]["html"];
                     else if ((body2["results"][0]["html_lawbox"] != null) && (body2["results"][0]["html_lawbox"].length > 0)) text = body2["results"][0]["html_lawbox"];
                     else if ((body2["results"][0]["html_columbia"] != null) && (body2["results"][0]["html_columbia"].length > 0)) text = body2["results"][0]["html_columbia"];
                     text = cleanText(text);
-                    res.send(text);
+                    // send to Python
+                    var pythonOptions = {
+                      mode: 'text',
+                      args: [text, 0.5]
+                    };
+                    pythonShell.run('public/py/CleanAndExtract.py', options, function (err, results) {
+                      if (err) throw err;
+                      console.log('PYTHONSHELL results: %j', results);
+                      text = results;
+                      res.send(text);
+                    });
                 });
             }
         }
