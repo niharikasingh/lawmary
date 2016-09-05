@@ -4,6 +4,7 @@ import networkx as nx
 import math
 import itertools
 import logging, sys
+import warnings
 
 #set up logging
 logging.basicConfig(stream=sys.stderr, level=logging.ERROR)
@@ -35,19 +36,20 @@ def calculateDistance(firstString, secondString):
     return 0.00000000001
 
 def buildGraph(nodes):
-    "nodes - list of hashables that represents the nodes of the graph"
-    gr = nx.Graph() #initialize an undirected graph
-    gr.add_nodes_from(nodes)
-    nodePairs = list(itertools.combinations(nodes, 2))
+    with warnings.catch_warnings():
+        warnings.simplefilter("ignore")
+        gr = nx.Graph() #initialize an undirected graph
+        gr.add_nodes_from(nodes)
+        nodePairs = list(itertools.combinations(nodes, 2))
 
-    #add edges to the graph (weighted by Levenshtein distance)
-    for pair in nodePairs:
-        firstString = pair[0]
-        secondString = pair[1]
-        distance = calculateDistance(firstString, secondString)
-        gr.add_edge(firstString, secondString, weight=distance)
+        #add edges to the graph (weighted by Levenshtein distance)
+        for pair in nodePairs:
+            firstString = pair[0]
+            secondString = pair[1]
+            distance = calculateDistance(firstString, secondString)
+            gr.add_edge(firstString, secondString, weight=distance)
 
-    return gr
+        return gr
 
 def clean(text):
     #remove newlines
@@ -110,7 +112,7 @@ def extractSentences(text, ratio):
 
 #main function runs script
 def main(args):
-    logging.error('Arguments are: {} {}'.format(args[1], args[2]))
+    logging.debug('Arguments are: {} {}'.format(args[1], args[2]))
     return extractSentences(args[1], args[2])
 
 if __name__ == "__main__":
