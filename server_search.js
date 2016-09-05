@@ -182,7 +182,7 @@ app.get('/test', function(req, res) {
                       mode: 'text',
                       args: [text, 0.5]
                     };
-                    pythonShell.run('public/py/CleanAndExtract.py', options, function (err, results) {
+                    pythonShell.run('public/py/CleanAndExtract.py', pythonOptions, function (err, results) {
                       if (err) throw err;
                       console.log('PYTHONSHELL results: %j', results);
                       text = results;
