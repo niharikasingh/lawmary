@@ -104,6 +104,7 @@ def extractSentences(text, ratio):
 
     return summary
 
+#main function runs script
 def main(args):
     return extractSentences(args[1], args[2])
 
