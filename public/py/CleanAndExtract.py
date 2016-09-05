@@ -89,6 +89,7 @@ def soOrdered(impSentences, sentences):
         summary += (u'\n' + sentences[-2])
 
 def extractSentences(text, ratio):
+    ratio = float(ratio)
     sentences = clean(text)
     if (len(sentences) <= 10):
         return sentences
@@ -109,6 +110,7 @@ def extractSentences(text, ratio):
 
 #main function runs script
 def main(args):
+    logging.error('Arguments are: {} {}'.format(args[1], args[2]))
     return extractSentences(args[1], args[2])
 
 if __name__ == "__main__":
