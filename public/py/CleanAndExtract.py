@@ -10,7 +10,7 @@ logging.basicConfig(stream=sys.stderr, level=logging.ERROR)
 
 #get stopwords
 sw = set()
-with open('english', 'r') as stopfile:
+with open('public/py/english', 'r') as stopfile:
     for line in stopfile:
         sw.add(line[:-1])
 for i in range(97, 123):
@@ -53,7 +53,7 @@ def clean(text):
     #remove newlines
     re.sub(r'\n', '', text)
     #split into sentences
-    tokenizer = nltk.data.load('english.pickle')
+    tokenizer = nltk.data.load('public/py/english.pickle')
     sentences = tokenizer.tokenize(text)
     for i in range(len(sentences)-1, -1, -1):
         currS = sentences[i]
