@@ -2,13 +2,19 @@ var express = require('express');
 var mongoose = require('mongoose');
 var bodyParser = require('body-parser');
 var request = require('request');
-var pythonShell = require('python-shell');
+var kue = require('kue');
+var redis = require('kue/node_modules/redis');
 
 // INITIALIZE DATABASE
 
 mongoose.connect('mongodb://ruler:hotpics@ds139715.mlab.com:39715/lawmary');
 var db = mongoose.connection;
 db.on( 'error', console.error.bind( console, 'connection error:' ) );
+
+// INITIALIZE KUE
+
+kue.redis.createClient = redis.createClient(process.env.REDIS_URL);
+var jobs = kue.createQueue();
 
 // once the connection is established we define our schemas
 db.once( 'open', function callback() {
@@ -33,6 +39,7 @@ var app = express();
 app.use(express.static(__dirname + "/public"));
 //app.use(bodyParser.urlencoded({ extended: false }));
 app.use(bodyParser.json());
+app.use(kue.app);
 
 // SEARCH FUNCTION
 
@@ -177,17 +184,17 @@ app.get('/test', function(req, res) {
                     else if ((body2["results"][0]["html_lawbox"] != null) && (body2["results"][0]["html_lawbox"].length > 0)) text = body2["results"][0]["html_lawbox"];
                     else if ((body2["results"][0]["html_columbia"] != null) && (body2["results"][0]["html_columbia"].length > 0)) text = body2["results"][0]["html_columbia"];
                     text = cleanText(text);
-                    // send to Python
-                    var pythonOptions = {
-                      mode: 'text',
-                      args: [text, 0.5]
-                    };
-                    pythonShell.run('public/py/CleanAndExtract.py', pythonOptions, function (err, results) {
-                      if (err) console.log(err);
-                      console.log('PYTHONSHELL results: %j', results);
-                      text = results;
-                      res.send(text);
+                    // create job to summarize
+                    var job = jobs.create('summarize', {
+                        textToSummarize: text,
+                        amount: 0.5
                     });
+                    job.on('complete', function(){
+                        res.send(job.result);
+                    }).on('failed', function(){
+                        res.send("Job failed");
+                    });
+                    job.save();
                 });
             }
         }
