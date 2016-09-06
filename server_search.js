@@ -13,9 +13,9 @@ var db = mongoose.connection;
 db.on( 'error', console.error.bind( console, 'connection error:' ) );
 
 // INITIALIZE KUE
-
+consule.log("REDIS_URL: " + process.env.REDIS_URL);
 kue.redis.createClient = function() {
-    consule.log("REDIS_URL: " + process.env.REDIS_URL);
+    console.log("Inside kue redis function");
     var redisUrl = url.parse(process.env.REDIS_URL)
       , client = redis.createClient(redisUrl.port, redisUrl.hostname);
     if (redisUrl.auth) {
