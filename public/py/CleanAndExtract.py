@@ -33,7 +33,7 @@ def calculateDistance(firstString, secondString):
     normalize = math.ceil(math.log(len(fs)) + math.log(len(ss)))
     if (normalize > 0):
         return commonWords/normalize
-    return 0.00000000001
+    return 0
 
 def buildGraph(nodes):
     with warnings.catch_warnings():
