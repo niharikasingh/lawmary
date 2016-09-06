@@ -1,8 +1,16 @@
 var kue = require('kue');
 var redis = require('kue/node_modules/redis');
 var pythonShell = require('python-shell');
+var url = require('url');
 
-kue.redis.createClient = redis.createClient(process.env.REDIS_URL);
+kue.redis.createClient = function() {
+    var redisUrl = url.parse(process.env.REDIS_URL)
+      , client = redis.createClient(redisUrl.port, redisUrl.hostname);
+    if (redisUrl.auth) {
+        client.auth(redisUrl.auth.split(":")[1]);
+    }
+    return client;
+};
 var jobs = kue.createQueue();
 
 jobs.process('summarize', function(job, done) {

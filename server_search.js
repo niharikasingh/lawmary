@@ -4,6 +4,7 @@ var bodyParser = require('body-parser');
 var request = require('request');
 var kue = require('kue');
 var redis = require('kue/node_modules/redis');
+var url = require('url');
 
 // INITIALIZE DATABASE
 
@@ -13,7 +14,14 @@ db.on( 'error', console.error.bind( console, 'connection error:' ) );
 
 // INITIALIZE KUE
 
-kue.redis.createClient = redis.createClient(process.env.REDIS_URL);
+kue.redis.createClient = function() {
+    var redisUrl = url.parse(process.env.REDIS_URL)
+      , client = redis.createClient(redisUrl.port, redisUrl.hostname);
+    if (redisUrl.auth) {
+        client.auth(redisUrl.auth.split(":")[1]);
+    }
+    return client;
+};
 var jobs = kue.createQueue();
 
 // once the connection is established we define our schemas
