@@ -1,9 +1,7 @@
 from nltk.stem.porter import *
 import nltk.data
 import warnings
-with warnings.catch_warnings():
-    warnings.simplefilter("ignore")
-    import networkx as nx
+import networkx as nx
 import math
 import itertools
 import logging, sys
@@ -11,6 +9,9 @@ import warnings
 
 #set up logging
 logging.basicConfig(stream=sys.stderr, level=logging.ERROR)
+
+#silence warnings
+warnings.filterwarnings("ignore")
 
 #get stopwords
 sw = set()
@@ -39,20 +40,18 @@ def calculateDistance(firstString, secondString):
     return 0
 
 def buildGraph(nodes):
-    with warnings.catch_warnings():
-        warnings.simplefilter("ignore")
-        gr = nx.Graph() #initialize an undirected graph
-        gr.add_nodes_from(nodes)
-        nodePairs = list(itertools.combinations(nodes, 2))
+    gr = nx.Graph() #initialize an undirected graph
+    gr.add_nodes_from(nodes)
+    nodePairs = list(itertools.combinations(nodes, 2))
 
-        #add edges to the graph (weighted by Levenshtein distance)
-        for pair in nodePairs:
-            firstString = pair[0]
-            secondString = pair[1]
-            distance = calculateDistance(firstString, secondString)
-            gr.add_edge(firstString, secondString, weight=distance)
+    #add edges to the graph (weighted by Levenshtein distance)
+    for pair in nodePairs:
+        firstString = pair[0]
+        secondString = pair[1]
+        distance = calculateDistance(firstString, secondString)
+        gr.add_edge(firstString, secondString, weight=distance)
 
-        return gr
+    return gr
 
 def clean(text):
     #remove newlines
