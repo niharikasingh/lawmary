@@ -5,6 +5,7 @@ var request = require('request');
 var kue = require('kue');
 var redis = require('kue/node_modules/redis');
 var url = require('url');
+var pythonShell = require('python-shell');
 
 // INITIALIZE DATABASE
 
@@ -12,22 +13,27 @@ mongoose.connect('mongodb://ruler:hotpics@ds139715.mlab.com:39715/lawmary');
 var db = mongoose.connection;
 db.on( 'error', console.error.bind( console, 'connection error:' ) );
 
-// INITIALIZE KUE
+// INITIALIZE REDIS
 console.log("REDIS_URL: " + process.env.REDIS_URL);
-
 var client = redis.createClient(process.env.REDIS_URL);
-/*    function() {
-    var redisUrl = url.parse(process.env.REDIS_URL);
-    var client = redis.createClient(redisUrl, {port: redisUrl.port}, {host: redisUrl.hostname});
-    if (redisUrl.auth) {
-        client.auth(redisUrl.auth.split(":")[1]);
-    }
-    return client;
-};*/
+// INITIALIZE KUE
 var redisConfig = {
     redis: process.env.REDIS_URL
 };
 var jobs = kue.createQueue(redisConfig);
+jobs.process('summarize', function(job, done) {
+    var text = "";
+    var pythonOptions = {
+      mode: 'text',
+      args: [job.data.textToSummarize, job.data.amount]
+    };
+    pythonShell.run('public/py/CleanAndExtract.py', pythonOptions, function (err, results) {
+      if (err) console.log(err);
+      console.log('PYTHONSHELL results: %j', results);
+      text = results;
+    });
+    done(null, text);
+});
 
 // once the connection is established we define our schemas
 db.once( 'open', function callback() {
@@ -175,9 +181,9 @@ app.get('/test', function(req, res) {
         if(error) {
             console.log(error);
         } else if (body["results"].length > 0) {
-            console.log(response.statusCode, body);
             var id = body["results"][0]["id"];
             caseName = body["results"][0]["caseName"];
+            console.log("Received case metadata: ", caseName);
             if (Number(id) != NaN) {
                 // Send request to CourtListener for case ID number
                 request({
@@ -190,6 +196,7 @@ app.get('/test', function(req, res) {
                         'Accept': 'application/json'
                     }
                 }, function(error2, response2, body2){
+                    console.log("Received case raw text.");
                     // extract text
                     var text = "";
                     if ((body2["results"][0]["plain_text"] != null) && (body2["results"][0]["plain_text"].length > 0)) text = body2["results"][0]["plain_text"];
@@ -198,6 +205,7 @@ app.get('/test', function(req, res) {
                     else if ((body2["results"][0]["html_columbia"] != null) && (body2["results"][0]["html_columbia"].length > 0)) text = body2["results"][0]["html_columbia"];
                     text = cleanText(text);
                     // create job to summarize
+                    console.log("Sending to job.");
                     var job = jobs.create('summarize', {
                         textToSummarize: text,
                         amount: 0.5
