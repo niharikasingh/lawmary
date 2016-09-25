@@ -1,6 +1,8 @@
 from nltk.stem.porter import *
 import nltk.data
-import networkx as nx
+with warnings.catch_warnings():
+    warnings.simplefilter("ignore")
+    import networkx as nx
 import math
 import itertools
 import logging, sys
