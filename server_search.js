@@ -14,18 +14,18 @@ db.on( 'error', console.error.bind( console, 'connection error:' ) );
 
 // INITIALIZE KUE
 console.log("REDIS_URL: " + process.env.REDIS_URL);
-var redisConfig = {
-    redis: process.env.REDIS_URL
-};
 
-redis.createClient = function() {
-    console.log("Inside kue redis function");
+var client = redis.createClient(process.env.REDIS_URL);
+/*    function() {
     var redisUrl = url.parse(process.env.REDIS_URL);
     var client = redis.createClient(redisUrl, {port: redisUrl.port}, {host: redisUrl.hostname});
     if (redisUrl.auth) {
         client.auth(redisUrl.auth.split(":")[1]);
     }
     return client;
+};*/
+var redisConfig = {
+    redis: process.env.REDIS_URL
 };
 var jobs = kue.createQueue(redisConfig);
 
