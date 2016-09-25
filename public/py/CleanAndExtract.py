@@ -11,7 +11,7 @@ import warnings
 logging.basicConfig(stream=sys.stderr, level=logging.ERROR)
 
 #silence warnings
-warnings.filterwarnings("ignore", "UserWarning")
+warnings.filterwarnings("ignore", "zero out")
 
 #get stopwords
 sw = set()
