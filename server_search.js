@@ -14,7 +14,11 @@ db.on( 'error', console.error.bind( console, 'connection error:' ) );
 
 // INITIALIZE KUE
 console.log("REDIS_URL: " + process.env.REDIS_URL);
-kue.redis.createClient = function() {
+var redisConfig = {
+    redis: process.env.REDIS_URL
+};
+
+redis.createClient = function() {
     console.log("Inside kue redis function");
     var redisUrl = url.parse(process.env.REDIS_URL);
     var client = redis.createClient(redisUrl, {port: redisUrl.port}, {host: redisUrl.hostname});
@@ -23,7 +27,7 @@ kue.redis.createClient = function() {
     }
     return client;
 };
-var jobs = kue.createQueue();
+var jobs = kue.createQueue(redisConfig);
 
 // once the connection is established we define our schemas
 db.once( 'open', function callback() {
