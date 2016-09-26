@@ -21,18 +21,22 @@ var redisConfig = {
     redis: process.env.REDIS_URL
 };
 var jobs = kue.createQueue(redisConfig);
+// INITIALIZE PYTHON
 jobs.process('summarize', function(job, done) {
     var text = "";
     var pythonOptions = {
-      mode: 'text',
       args: [job.data.textToSummarize, job.data.amount]
     };
     pythonShell.run('public/py/CleanAndExtract.py', pythonOptions, function (err, results) {
       if (err) console.log(err);
-      console.log('PYTHONSHELL results: %j', results);
+      console.log('PYTHONSHELL results: %s', results);
       text = results;
     });
     done(null, text);
+    var pyFunction = new pythonShell('public/py/CleanAndExtract.py');
+    pyFunction.on('message', function (message) {
+      console.log('Python Function says: %s', message);
+    });
 });
 
 // once the connection is established we define our schemas
