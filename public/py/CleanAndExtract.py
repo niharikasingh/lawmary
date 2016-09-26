@@ -118,7 +118,7 @@ def extractSentences(text, ratio):
 
 #main function runs script
 def main(args):
-    logging.debug('Arguments are: {} {}'.format(args[1], args[2]))
+    logging.debug('Arguments are: {} {}'.format(args[2], args[3]))
     return extractSentences(args[1], args[2])
 
 if __name__ == "__main__":
