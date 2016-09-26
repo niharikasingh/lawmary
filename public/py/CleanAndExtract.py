@@ -94,7 +94,7 @@ def soOrdered(impSentences, sentences):
     return summary
 
 def extractSentences(text, ratio):
-    summary = text + "\n\n\n\n\n" + ratio + "\n\n\n\n\n"
+    summary = ratio + "\n\n\n\n\n"
     
     ratio = float(ratio)
     sentences = clean(text)
