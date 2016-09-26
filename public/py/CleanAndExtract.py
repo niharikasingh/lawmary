@@ -91,6 +91,7 @@ def soOrdered(impSentences, sentences):
         summary += (u'\n' + sentences[-1])
     if (len(sentences) >= 2) and (sentences[-2] not in summary) and ("order" in sentences[-1].lower()):
         summary += (u'\n' + sentences[-2])
+    return summary
 
 def extractSentences(text, ratio):
     ratio = float(ratio)
