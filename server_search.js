@@ -32,11 +32,7 @@ jobs.process('summarize', function(job, done) {
       console.log('PYTHONSHELL results: %s', results);
       text = results;
     });
-    done(null, text);
-    var pyFunction = new pythonShell('public/py/CleanAndExtract.py');
-    pyFunction.on('message', function (message) {
-      console.log('Python Function says: %s', message);
-    });
+    return done(null, text);
 });
 
 // once the connection is established we define our schemas
