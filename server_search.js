@@ -25,13 +25,16 @@ var jobs = kue.createQueue(redisConfig);
 jobs.process('summarize', function(job, done) {
     var text = "";
     var pythonOptions = {
-      mode: 'binary',
+      mode: 'text',
       args: [job.data.textToSummarize, job.data.amount]
     };
-    pythonShell.run('public/py/CleanAndExtract.py', pythonOptions, function (err, results) {
+    var summaryFunction = new pythonShell('public/py/CleanAndExtract.py', pythonOptions, function (err, results) {
       if (err) console.log(err);
       console.log('PYTHONSHELL results: %s', results);
       text = results;
+    });
+    summaryFunction.on('message', function (message) {
+        console.log("PYTHONSHELL message: %s", message)
     });
     return done(null, text);
 });

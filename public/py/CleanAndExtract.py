@@ -111,8 +111,9 @@ def extractSentences(text, ratio):
     #most important sentences in ascending order of appearance in original
     sortedImportantSentences = [s for s in sentences if s in importantSentences]
     
-    summary = soOrdered(sortedImportantSentences, sentences)
+    summary += soOrdered(sortedImportantSentences, sentences)
 
+    print(summary)
     return summary
 
 #main function runs script
