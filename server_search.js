@@ -30,13 +30,13 @@ jobs.process('summarize', function(job, done) {
     };
     var summaryFunction = new pythonShell('public/py/CleanAndExtract.py', pythonOptions, function (err, results) {
       if (err) console.log(err);
-      console.log('PYTHONSHELL results: %s', results);
+      console.log('PYTHONSHELL results: %j', results);
       text = results;
+      return done(null, text);
     });
     summaryFunction.on('message', function (message) {
         console.log("PYTHONSHELL message: %s", message)
-    });
-    return done(null, text);
+    }); 
 });
 
 // once the connection is established we define our schemas
@@ -212,9 +212,10 @@ app.get('/test', function(req, res) {
                     console.log("Sending to job.");
                     var job = jobs.create('summarize', {
                         textToSummarize: text,
-                        amount: 0.5
+                        amount: 0.05
                     });
                     job.on('complete', function(){
+                        console.log("Job completed: %s", job.result);
                         res.send(job.result);
                     }).on('failed', function(){
                         res.send("Job failed");
