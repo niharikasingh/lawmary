@@ -199,7 +199,7 @@ app.get('/test', function(req, res) {
             console.log("Received case metadata: ", caseName);
             if (Number(id) != NaN) {
                 // Send id to user for polling
-                res.send(id);
+                res.send(''+id);
                 // Send request to CourtListener for case ID number
                 request({
                     url: 'https://www.courtlistener.com/api/rest/v3/opinions/', 
