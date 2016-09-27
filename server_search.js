@@ -180,7 +180,7 @@ var cleanText = function(text) {
 app.get('/test', function(req, res) {
     // Send error message to user
     setInterval(function() {
-        res.status(400).send('No case could be found.');
+        res.send('No case could be found.');
     },5000);
     var caseName = "";
     // Send request to CourtListener for case ID number
@@ -231,7 +231,7 @@ app.get('/test', function(req, res) {
                     job.on('complete', function(){
                         console.log("Job completed: %s", job.result);
                     }).on('failed', function(){
-                        console.log("Job failed");
+                        console.log("Job failed.");
                     });
                     job.save();
                 });
