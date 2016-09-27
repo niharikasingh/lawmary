@@ -178,10 +178,6 @@ var cleanText = function(text) {
 
 // TEST SECTION
 app.get('/test', function(req, res) {
-    // Send error message to user
-    setInterval(function() {
-        res.send('No case could be found.');
-    },5000);
     var caseName = "";
     // Send request to CourtListener for case ID number
     request({
@@ -196,6 +192,7 @@ app.get('/test', function(req, res) {
     }, function(error, response, body){
         if(error) {
             console.log(error);
+            res.send('No case could be found.');
         } else if (body["results"].length > 0) {
             var id = body["results"][0]["id"];
             caseName = body["results"][0]["caseName"];
@@ -235,6 +232,9 @@ app.get('/test', function(req, res) {
                     });
                     job.save();
                 });
+            }
+            else {
+                res.send('No case could be found.');
             }
         }
     });
