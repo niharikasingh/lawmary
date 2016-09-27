@@ -43,6 +43,8 @@ jobs.process('summarize', function(job, done) {
         console.log("PYTHONSHELL ending function");
         if (err) console.log(err);
         text = output.join('\n');
+        responses[job.data.res_id].send(text);
+        delete responses[job.data.res_id];
         return done(null, text);
     }); 
 });
@@ -177,6 +179,7 @@ var cleanText = function(text) {
 }
 
 // TEST SECTION
+var responses = {};
 app.get('/test', function(req, res) {
     var caseName = "";
     // Send request to CourtListener for case ID number
@@ -218,10 +221,13 @@ app.get('/test', function(req, res) {
                     text = cleanText(text);
                     // create job to summarize
                     console.log("Sending to job.");
+                    var res_id = ''+Math.random();
                     var job = jobs.create('summarize', {
                         textToSummarize: text,
-                        amount: 0.05
+                        amount: 0.05, 
+                        res_id: res_id
                     });
+                    responses[res_id] = res;
                     job.on('complete', function(){
                         console.log("Job completed: %s", job.result);
                         res.send(job.result);
