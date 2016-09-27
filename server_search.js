@@ -43,8 +43,6 @@ jobs.process('summarize', function(job, done) {
         console.log("PYTHONSHELL ending function");
         if (err) console.log(err);
         text = output.join('\n');
-        responses[job.data.res_id].send(text);
-        delete responses[job.data.res_id];
         return done(null, text);
     }); 
 });
@@ -179,8 +177,11 @@ var cleanText = function(text) {
 }
 
 // TEST SECTION
-var responses = {};
 app.get('/test', function(req, res) {
+    // Send error message to user
+    setInterval(function() {
+        res.status(400).send('No case could be found.');
+    },5000);
     var caseName = "";
     // Send request to CourtListener for case ID number
     request({
@@ -200,6 +201,8 @@ app.get('/test', function(req, res) {
             caseName = body["results"][0]["caseName"];
             console.log("Received case metadata: ", caseName);
             if (Number(id) != NaN) {
+                // Send id to user for polling
+                res.send(id);
                 // Send request to CourtListener for case ID number
                 request({
                     url: 'https://www.courtlistener.com/api/rest/v3/opinions/', 
@@ -221,18 +224,14 @@ app.get('/test', function(req, res) {
                     text = cleanText(text);
                     // create job to summarize
                     console.log("Sending to job.");
-                    var res_id = ''+Math.random();
                     var job = jobs.create('summarize', {
                         textToSummarize: text,
-                        amount: 0.05, 
-                        res_id: res_id
+                        amount: 0.05
                     });
-                    responses[res_id] = res;
                     job.on('complete', function(){
                         console.log("Job completed: %s", job.result);
-                        res.send(job.result);
                     }).on('failed', function(){
-                        res.send("Job failed");
+                        console.log("Job failed");
                     });
                     job.save();
                 });
