@@ -34,8 +34,16 @@ jobs.process('summarize', function(job, done) {
       text = results;
       return done(null, text);
     });
+    
+    var output = [];
     summaryFunction.on('message', function (message) {
-        console.log("PYTHONSHELL message: %s", message)
+        console.log("PYTHONSHELL message: %s", message);
+        output.push(message);
+    }).end(function (err) {
+        console.log("PYTHONSHELL ending function");
+        if (err) console.log(err);
+        text = output.join('\n');
+        return done(null, text);
     }); 
 });
 
