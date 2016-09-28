@@ -37,7 +37,7 @@ jobs.process('summarize', function(job, done) {
     
     var output = [];
     summaryFunction.on('message', function (message) {
-        console.log("PYTHONSHELL message: %s", message);
+        //console.log("PYTHONSHELL message: %s", message);
         output.push(message);
     }).end(function (err) {
         console.log("PYTHONSHELL ending function");
@@ -45,7 +45,9 @@ jobs.process('summarize', function(job, done) {
         text = output.join('\n');
         // expire after 5 minutes
         client.set(""+job.data.req_id, text, 'NX', 'EX', 300);
-        console.log("PYTHONSHELL - in Redis: ", client.get(""+job.data.req_id));
+        client.get(""+job.data.req_id, function (err, reply) {
+            console.log("PYTHONSHELL saved:\n", reply.toString()); 
+        });
         return done(null, text);
     }); 
 });
