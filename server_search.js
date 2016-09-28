@@ -182,6 +182,13 @@ var cleanText = function(text) {
 }
 
 // TEST SECTION
+
+app.get('/gettest/:id', fuction(req, res) {
+    client.get(""+req.params.id, function (err, reply) {
+        res.send(reply.toString()); 
+    });
+});
+
 app.get('/test', function(req, res) {
     var caseName = "";
     // Send request to CourtListener for case ID number
