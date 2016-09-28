@@ -183,7 +183,7 @@ var cleanText = function(text) {
 
 // TEST SECTION
 
-app.get('/gettest/:id', fuction(req, res) {
+app.get('/gettest/:id', function(req, res) {
     client.get(""+req.params.id, function (err, reply) {
         res.send(reply.toString()); 
     });
