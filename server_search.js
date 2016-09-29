@@ -185,7 +185,8 @@ var cleanText = function(text) {
 
 app.get('/gettest/:id', function(req, res) {
     client.get(""+req.params.id, function (err, reply) {
-        res.send(reply.toString()); 
+        if (reply == null) res.send("W");
+        else res.send(reply.toString()); 
     });
 });
 
