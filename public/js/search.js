@@ -42,6 +42,7 @@ $(function() {
     var poll;
     
     function pollFunc(id) {
+        console.log("Sending polling function.")
         $.ajax({
             url: 'http://www.lawmary.com/getsum/'+id,
             type: 'GET',
@@ -52,17 +53,16 @@ $(function() {
                 //NONE
             }
         });
-        
     }
     
     showSum = function(data){
         var returnText = "";
-        returnText = data[0];
+        returnText = decodeURI(data[0]);
         if ((returnText != 'W') && (returnText.slice(0, 18) != "Looking for text: ")) {
             clearInterval(poll);
-        }
-        $("#results").empty();
-        $("#results").append(returnText);
+            $("#results").empty();
+            $("#results").append(returnText);
+        } 
     }
     
     showName = function(data){
@@ -71,7 +71,7 @@ $(function() {
         $("#results").empty();
         $("#results").append("Fetching case.  This may take a minute.");
         var returnText = "";
-        poll = setInterval(pollFunc(id), 5000);
+        poll = setInterval(function(){pollFunc(id)}, 5000);
     };
     
     callbackDisplay = function(data){
