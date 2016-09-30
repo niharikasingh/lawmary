@@ -186,8 +186,8 @@ var cleanText = function(text) {
 app.get('/getsum/:id', function(req, res) {
     client.get(""+req.params.id, function (err, reply) {
         console.log("Received request for id " + req.params.id);
-        if (reply == null) res.send('["W"]');
-        else res.send('["'+reply.toString()+'"]'); 
+        if (reply == null) res.send('showSum(["W"]);');
+        else res.send('showSum(["'+reply.toString()+'"]);'); 
     });
 });
 
