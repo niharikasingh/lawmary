@@ -19,7 +19,6 @@ $(function() {
         var q = $("#searchbox").val();
         //sanitize input
         q = q.replace(/[^a-z0-9áéíóúñü \.:,_-]/gim,"");
-        q = q.toLowerCase();
         //if enter key pressed
         if (e.which === 13) {
             $.ajax({

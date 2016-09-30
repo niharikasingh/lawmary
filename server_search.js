@@ -239,8 +239,6 @@ app.get('/startsum', function(req, res) {
                     text = cleanText(text);
                     // create job to summarize
                     console.log("Sending to job.");
-                    // expire after 5 minutes
-                    client.set(""+req_id, "Looking for case: " + caseName, 'NX', 'EX', 300);
                     var job = jobs.create('summarize', {
                         textToSummarize: text,
                         amount: 0.05,
