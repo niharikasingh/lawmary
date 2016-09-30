@@ -195,7 +195,7 @@ app.get('/startsum', function(req, res) {
     var caseName = "";
     console.log("STARTING SEARCH: " + JSON.stringify(req.query));
     // get query string, test with "477 U.S. 242"
-    var qs = JSON.parse(req.data)["query"];
+    var qs = req.data["query"];
     // Send request to CourtListener for case ID number
     request({
         url: 'https://www.courtlistener.com/api/rest/v3/search/', 
