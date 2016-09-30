@@ -183,19 +183,23 @@ var cleanText = function(text) {
 
 // TEST SECTION
 
-app.get('/gettest/:id', function(req, res) {
+app.get('/getsum/:id', function(req, res) {
     client.get(""+req.params.id, function (err, reply) {
-        if (reply == null) res.send("W");
-        else res.send(reply.toString()); 
+        console.log("Received request for id " + req.params.id);
+        if (reply == null) res.send("[W]");
+        else res.send('['+reply.toString()']'); 
     });
 });
 
-app.get('/test', function(req, res) {
+app.get('/startsum', function(req, res) {
     var caseName = "";
+    console.log("STARTING SEARCH: " + JSON.stringify(req.query));
+    // get query string, test with "477 U.S. 242"
+    var qs = JSON.parse(req.data)["query"];
     // Send request to CourtListener for case ID number
     request({
         url: 'https://www.courtlistener.com/api/rest/v3/search/', 
-        qs: {"citation": "477 U.S. 242"}, 
+        qs: {"citation": qs}, 
         method: 'GET', 
         json: true,
         headers: { 
@@ -211,8 +215,11 @@ app.get('/test', function(req, res) {
             caseName = body["results"][0]["caseName"];
             console.log("Received case metadata: ", caseName);
             if (Number(id) != NaN) {
-                // Send id to user for polling
-                res.send(''+id);
+                // Send id and name to user for polling: [id, name]
+                var respstr = 'showName({"id":' + id;
+                respstr += ', "name":"' + caseName + '"';
+                respstr += '});';
+                res.send(respstr);
                 // Send request to CourtListener for case ID number
                 request({
                     url: 'https://www.courtlistener.com/api/rest/v3/opinions/', 

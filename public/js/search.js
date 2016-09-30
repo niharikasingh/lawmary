@@ -20,10 +20,11 @@ $(function() {
         //sanitize input
         q = q.replace(/[^a-z0-9áéíóúñü \.:,_-]/gim,"");
         q = q.toLowerCase();
-        if (q.length >= 3) {
+        //if enter key pressed
+        if (e.which === 13) {
             $.ajax({
-                url: 'http://www.lawmary.com/nodesearch',
-                jsonp: 'callbackDisplay',
+                url: 'http://www.lawmary.com/startsum',
+                jsonp: 'showName',
                 type: 'GET',
                 dataType: "jsonp",
                 data: {
@@ -32,15 +33,38 @@ $(function() {
                 },
                 // Work with the response
                 success: function(response) {
-                    //console.log("SEARCH.JS SUCCESS"); 
+                    console.log("SEARCH.JS first ajax request success"); 
                 }
             });
             //console.log("SEARCH.JS: GET function completed");
         }
-        else {
-            $("#results").empty();
-        }
     }
+    
+    showName = function(data){
+        var id = data["id"];
+        var caseName = data["name"];
+        $("#results").empty();
+        $("#results").append("Fetching case " + caseName + ".  This may take a minute.");
+        var returnText = "";
+        var poll = setInterval(function(){ 
+            $.ajax({
+                url: 'http://www.lawmary.com/getsum/'+id,
+                type: 'GET',
+                dataType: "json",
+                jsonp: false,
+                // Work with the response
+                success: function(response) {
+                    console.log("showName got polling response: " + JSON.stringify(response));
+                    returnText = JSON.parse(response)[0];
+                }
+            });
+        }, 5000);
+        if (returnText != 'W') {
+            clearInterval(poll);
+        }
+        $("#results").empty();
+        $("#results").append(returnText);
+    };
     
     callbackDisplay = function(data){
         //console.log("SEARCH.JS starting callback function");
@@ -57,7 +81,7 @@ $(function() {
             //console.log("SEARCH.JS - sorted links: " + links);
             if (links.length == 1) {
                 $("#results").append("<li> <a id='resultlink' href ='summary.html?" + $.param({"txt":links[0], "exam":$('#examCheckbox').is(":checked")}) + "'>" + linkName + "</a></li>");
-                    }
+            }
             else if (links.length > 1){
                 appendStr = "<li> <a id='resultlink' href ='summary.html?" + $.param({"txt":links[0], "exam":$('#examCheckbox').is(":checked")}) + "'>" + linkName + "</a><ul>";
                 for(var j = 1; j < links.length; j++) {
