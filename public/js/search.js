@@ -42,18 +42,22 @@ $(function() {
     var poll;
     
     function pollFunc(id) {
-        var returnText = "";
         $.ajax({
             url: 'http://www.lawmary.com/getsum/'+id,
             type: 'GET',
-            dataType: "json",
-            jsonp: false,
+            dataType: "jsonp",
+            jsonp: 'showSum',
             // Work with the response
             success: function(response) {
-                console.log("showName got polling response: " + JSON.stringify(response));
-                returnText = JSON.parse(response)[0];
+                //NONE
             }
         });
+        
+    }
+    
+    showSum = function(data){
+        var returnText = "";
+        returnText = data[0];
         if ((returnText != 'W') && (returnText.slice(0, 18) != "Looking for text: ")) {
             clearInterval(poll);
         }
