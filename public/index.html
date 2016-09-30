@@ -51,9 +51,14 @@
   <div class="u-full-width">
     <div class="container">
       <div class="row">
-        <input class="u-full-width" type="text" id="searchbox" placeholder="Search for a case" alt="Search" />
-          <p class="search-text">Examples: "vitek", "jones"</p>
-        <label><input type=checkbox id="examCheckbox"> Open summary in exam mode, in which only the facts of the case are shown, so you can practice writing reasoned judgements</label><br/><br/>
+        <input class="u-full-width" type="text" id="searchbox" placeholder="Search for a case number" alt="Search" />
+        <p class="search-text">Examples: "477 U.S. 242", "183 Conn. 194"</p>
+        <div class="range-slider">
+          <input class="range-slider__range" type="range" value="25" min="5" max="50" step="5">
+          <span class="range-slider__value">25%</span>
+        </div><br/>
+        <input class="button-primary" id="searchButton" type="button" value="Search" />
+        <br/><br/>
       </div>
       <div class="row">
         <noscript>

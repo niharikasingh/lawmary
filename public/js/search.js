@@ -2,8 +2,8 @@ $(function() {
     
     //console.log("SEARCH.JS: JS started");
     $("#results").empty();
-    $("#searchbox").keyup(processInputs);
-    $("#examCheckbox").click(processInputs);
+    $("#searchbox").keyup(processInputsK);
+    $("#searchButton").click(processInputs);
     
     //onload - clear search bar
     if (window.location.hash) {
@@ -15,28 +15,32 @@ $(function() {
         $("#searchbox").val("");
     }
     
+    function processInputsK(e) {
+        //if enter key pressed
+        if (e.which === 13) {
+            processInputs(e);
+        }
+    }
+    
     function processInputs(e) {
         var q = $("#searchbox").val();
         //sanitize input
         q = q.replace(/[^a-z0-9áéíóúñü \.:,_-]/gim,"");
-        //if enter key pressed
-        if (e.which === 13) {
-            $.ajax({
-                url: 'http://www.lawmary.com/startsum',
-                jsonp: 'showName',
-                type: 'GET',
-                dataType: "jsonp",
-                data: {
-                    query: q,
-                    format: "json"
-                },
-                // Work with the response
-                success: function(response) {
-                    console.log("SEARCH.JS first ajax request success"); 
-                }
-            });
-            //console.log("SEARCH.JS: GET function completed");
-        }
+        $.ajax({
+            url: 'http://www.lawmary.com/startsum',
+            jsonp: 'showName',
+            type: 'GET',
+            dataType: "jsonp",
+            data: {
+                query: q,
+                format: "json"
+            },
+            // Work with the response
+            success: function(response) {
+                console.log("SEARCH.JS first ajax request success"); 
+            }
+        });
+        //console.log("SEARCH.JS: GET function completed");
     }
     
     var poll;
@@ -60,6 +64,7 @@ $(function() {
         returnText = decodeURI(data[0]);
         if ((returnText != 'W') && (returnText.slice(0, 18) != "Looking for text: ")) {
             clearInterval(poll);
+            poll = 0;
             $("#results").empty();
             $("#results").append(returnText);
         } 
@@ -113,5 +118,12 @@ $(function() {
             window.location.hash = $("#searchbox").val();
         });   
     };
+    
+    $(".range-slider__range").mousemove(function() {
+        $( ".range-slider__value" ).html(this.value+'%');
+    });
+    $(".range-slider__range").keyup(function() {
+        $( ".range-slider__value" ).html(this.value+'%');
+    });
 
 });
