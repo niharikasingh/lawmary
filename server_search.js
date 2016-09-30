@@ -192,14 +192,17 @@ app.get('/getsum/:id', function(req, res) {
 });
 
 app.get('/startsum', function(req, res) {
+    // send back id immediately
+    res.send(req.query["_"]);
+    var req_id = req.query["_"];
     var caseName = "";
     console.log("STARTING SEARCH: " + JSON.stringify(req.query));
     // get query string, test with "477 U.S. 242"
-    var qs = req.query["query"];
+    var q = req.query["query"];
     // Send request to CourtListener for case ID number
     request({
         url: 'https://www.courtlistener.com/api/rest/v3/search/', 
-        qs: {"citation": qs}, 
+        qs: {"citation": q}, 
         method: 'GET', 
         json: true,
         headers: { 
@@ -215,11 +218,6 @@ app.get('/startsum', function(req, res) {
             caseName = body["results"][0]["caseName"];
             console.log("Received case metadata: ", caseName);
             if (Number(id) != NaN) {
-                // Send id and name to user for polling: [id, name]
-                var respstr = 'showName({"id":' + id;
-                respstr += ', "name":"' + caseName + '"';
-                respstr += '});';
-                res.send(respstr);
                 // Send request to CourtListener for case ID number
                 request({
                     url: 'https://www.courtlistener.com/api/rest/v3/opinions/', 
@@ -241,10 +239,12 @@ app.get('/startsum', function(req, res) {
                     text = cleanText(text);
                     // create job to summarize
                     console.log("Sending to job.");
+                    // expire after 5 minutes
+                    client.set(""+job.data.req_id, "Looking for case: " + caseName, 'NX', 'EX', 300);
                     var job = jobs.create('summarize', {
                         textToSummarize: text,
                         amount: 0.05,
-                        req_id: id
+                        req_id: req_id
                     });
                     job.on('complete', function(){
                         console.log("Job completed: %s", job.result);

@@ -59,7 +59,7 @@ $(function() {
                 }
             });
         }, 5000);
-        if (returnText != 'W') {
+        if (returnText != 'W' and returnText.slice(0, 18) != "Looking for text: ") {
             clearInterval(poll);
         }
         $("#results").empty();
