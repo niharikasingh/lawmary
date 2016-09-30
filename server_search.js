@@ -192,9 +192,9 @@ app.get('/getsum/:id', function(req, res) {
 });
 
 app.get('/startsum', function(req, res) {
-    // send back id immediately
-    res.send(req.query["_"]);
     var req_id = req.query["_"];
+    // send back id immediately
+    res.send('showName({"id":'+req_id+'});');
     var caseName = "";
     console.log("STARTING SEARCH: " + JSON.stringify(req.query));
     // get query string, test with "477 U.S. 242"

@@ -41,7 +41,7 @@ $(function() {
     
     var poll;
     
-    function pollFunc() {
+    function pollFunc(id) {
         var returnText = "";
         $.ajax({
             url: 'http://www.lawmary.com/getsum/'+id,
@@ -62,10 +62,12 @@ $(function() {
     }
     
     showName = function(data){
+        console.log("showName got polling response: " + JSON.stringify(data));
+        var id = data["id"];
         $("#results").empty();
         $("#results").append("Fetching case.  This may take a minute.");
         var returnText = "";
-        poll = setInterval(pollFunc(), 5000);
+        poll = setInterval(pollFunc(id), 5000);
     };
     
     callbackDisplay = function(data){
