@@ -39,30 +39,33 @@ $(function() {
         }
     }
     
-    showName = function(data){
-        var id = data["id"];
-        var caseName = data["name"];
-        $("#results").empty();
-        $("#results").append("Fetching case " + caseName + ".  This may take a minute.");
+    var poll;
+    
+    function pollFunc() {
         var returnText = "";
-        var poll = setInterval(function(){ 
-            $.ajax({
-                url: 'http://www.lawmary.com/getsum/'+id,
-                type: 'GET',
-                dataType: "json",
-                jsonp: false,
-                // Work with the response
-                success: function(response) {
-                    console.log("showName got polling response: " + JSON.stringify(response));
-                    returnText = JSON.parse(response)[0];
-                }
-            });
-        }, 5000);
+        $.ajax({
+            url: 'http://www.lawmary.com/getsum/'+id,
+            type: 'GET',
+            dataType: "json",
+            jsonp: false,
+            // Work with the response
+            success: function(response) {
+                console.log("showName got polling response: " + JSON.stringify(response));
+                returnText = JSON.parse(response)[0];
+            }
+        });
         if ((returnText != 'W') && (returnText.slice(0, 18) != "Looking for text: ")) {
             clearInterval(poll);
         }
         $("#results").empty();
         $("#results").append(returnText);
+    }
+    
+    showName = function(data){
+        $("#results").empty();
+        $("#results").append("Fetching case.  This may take a minute.");
+        var returnText = "";
+        poll = setInterval(pollFunc(), 5000);
     };
     
     callbackDisplay = function(data){
