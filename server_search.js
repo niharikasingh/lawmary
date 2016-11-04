@@ -199,6 +199,7 @@ app.get('/startsum', function(req, res) {
     console.log("STARTING SEARCH: " + JSON.stringify(req.query));
     // get query string, test with "477 U.S. 242"
     var q = req.query["query"];
+    var amount = req.query["amount"];
     // Send request to CourtListener for case ID number
     request({
         url: 'https://www.courtlistener.com/api/rest/v3/search/', 
@@ -241,7 +242,7 @@ app.get('/startsum', function(req, res) {
                     console.log("Sending to job.");
                     var job = jobs.create('summarize', {
                         textToSummarize: text,
-                        amount: 0.05,
+                        amount: amount/100.0,
                         req_id: req_id
                     });
                     job.on('complete', function(){

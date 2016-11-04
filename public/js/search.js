@@ -26,6 +26,7 @@ $(function() {
         var q = $("#searchbox").val();
         //sanitize input
         q = q.replace(/[^a-z0-9áéíóúñü \.:,_-]/gim,"");
+        var slider = parseInt($("#slider").val(), 10);
         $.ajax({
             url: 'http://www.lawmary.com/startsum',
             jsonp: 'showName',
@@ -33,6 +34,7 @@ $(function() {
             dataType: "jsonp",
             data: {
                 query: q,
+                amount: slider;
                 format: "json"
             },
             // Work with the response

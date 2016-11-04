@@ -498,10 +498,8 @@ img{
 
 .range-slider {
   margin: 5px 0 0 0%;
-}
-
-.range-slider {
   width: 100%;
+  display: inline-block;
 }
 
 .range-slider__range {
@@ -578,4 +576,12 @@ img{
 input::-moz-focus-inner,
 input::-moz-focus-outer {
   border: 0;
+}
+
+input {
+    outline: none;
+}
+input:focus {
+    border-color: deepskyblue;
+    box-shadow: 0 0 10px deepskyblue;
 }
