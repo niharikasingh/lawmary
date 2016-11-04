@@ -90,7 +90,7 @@ def extractSentences(text, ratio):
         print "Starting function. Ratio = " + ratio
         
     ratio = float(ratio)
-    (sentences, ss) = clean(text)
+    (sentences, ss) = clean(text.decode("utf8"))
     if (len(sentences) <= 10):
         return sentences
     
@@ -117,7 +117,7 @@ def extractSentences(text, ratio):
 
     if (home):
         print summary
-    return summary
+    return summary.encode("utf8")
 
 #main function runs script
 def main(args):
