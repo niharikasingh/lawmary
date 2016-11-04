@@ -71,6 +71,12 @@ $(function() {
             $("#results").empty();
             $("#results").append(returnText);
         } 
+        if (pollCounter > 25) {
+            clearInterval(poll);
+            poll = 0;
+            $("#results").empty();
+        }
+        pollCounter += 1;
     }
     
     showName = function(data){
@@ -80,6 +86,7 @@ $(function() {
         $("#results").append("Fetching case.  This may take a minute.");
         var returnText = "";
         poll = setInterval(function(){pollFunc(id)}, 5000);
+        pollCounter = 0;
     };
     
     callbackDisplay = function(data){
