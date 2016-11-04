@@ -34,7 +34,7 @@ $(function() {
             dataType: "jsonp",
             data: {
                 query: q,
-                amount: slider;
+                amount: slider,
                 format: "json"
             },
             // Work with the response
@@ -46,6 +46,7 @@ $(function() {
     }
     
     var poll;
+    var pollCounter = 0;
     
     function pollFunc(id) {
         console.log("Sending polling function.")
