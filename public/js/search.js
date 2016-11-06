@@ -2,7 +2,7 @@ $(function() {
     
     //console.log("SEARCH.JS: JS started");
     $("#results").empty();
-    //$("#searchbox").keyup(processInputsK);
+    $("#searchbox").keyup(processInputsK);
     $("#searchButton").click(processInputs);
     
     //onload - clear search bar
@@ -17,7 +17,8 @@ $(function() {
     
     function processInputsK(e) {
         //if enter key pressed
-        if (e.which === 13) {
+        if (e.which == 13) {
+            e.preventDefault();
             processInputs(e);
         }
     }
