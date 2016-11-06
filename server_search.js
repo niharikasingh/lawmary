@@ -44,7 +44,7 @@ jobs.process('summarize', function(job, done) {
         if (err) console.log(err);
         text = output.join('\n');
         // expire after 5 minutes
-        client.set(""+job.data.req_id, text, 'NX', 'EX', 300);
+        client.set(""+job.data.req_id, text, 'EX', 300);
         client.get(""+job.data.req_id, function (err, reply) {
             console.log("PYTHONSHELL saved:\n", reply.toString()); 
         });
