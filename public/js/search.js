@@ -68,8 +68,13 @@ $(function() {
         if ((returnText != 'W') && (returnText.slice(0, 18) != "Looking for text: ")) {
             clearInterval(poll);
             poll = 0;
+            returnText = returnText.replace(/\*\*-\*\*/gim," </td></tr><tr><td>");
+            returnText = '<tr><td>' + returnText + '</td></tr>'
             $("#results").empty();
+            $("#results").append('<table class="u-full-width">');
+            $("#results").append('<tbody id="summaryText">');
             $("#results").append(returnText);
+            $("#results").append('</tbody></table>')
         } 
         if (pollCounter > 25) {
             clearInterval(poll);
