@@ -75,7 +75,11 @@ $(function() {
             $("#results").append('<tbody id="summaryText">');
             $("#results").append(returnText);
             $("#results").append('</tbody></table>')
-        } 
+        }
+        else if ((returnText != 'W') && (returnText.slice(0, 18) == "Looking for text: ")) {
+            $("#casetitle").empty();
+            $("#casetitle").append(returnText.slice(18));
+        }
         if (pollCounter > 25) {
             clearInterval(poll);
             poll = 0;
@@ -88,6 +92,7 @@ $(function() {
         console.log("showName got polling response: " + JSON.stringify(data));
         var id = data["id"];
         $("#results").empty();
+        $("#casetitle").empty();
         $("#results").append("Fetching case.  This may take a minute.");
         poll = setInterval(function(){pollFunc(id)}, 5000);
         pollCounter = 0;

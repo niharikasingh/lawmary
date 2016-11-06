@@ -218,6 +218,7 @@ app.get('/startsum', function(req, res) {
             var id = body["results"][0]["id"];
             caseName = body["results"][0]["caseName"];
             console.log("Received case metadata: ", caseName);
+            client.set(""+req_id, "Looking for text: "+caseName, 'NX', 'EX', 300);
             if (Number(id) != NaN) {
                 // Send request to CourtListener for case ID number
                 request({
