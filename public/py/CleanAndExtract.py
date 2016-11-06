@@ -115,8 +115,7 @@ def extractSentences(text, ratio):
     
     summary = soOrdered(sortedImportantSentences, sentences)
 
-    if (home):
-        print summary
+    print summary.encode("utf8")
     return summary.encode("utf8")
 
 #main function runs script
