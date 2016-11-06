@@ -45,7 +45,7 @@ $(function() {
         //console.log("SEARCH.JS: GET function completed");
     }
     
-    var poll;
+    var poll = 0;
     var pollCounter = 0;
     
     function pollFunc(id) {
@@ -84,6 +84,7 @@ $(function() {
             clearInterval(poll);
             poll = 0;
             $("#results").empty();
+            $("#casetitle").empty();
         }
         pollCounter += 1;
     }
@@ -94,6 +95,12 @@ $(function() {
         $("#results").empty();
         $("#casetitle").empty();
         $("#results").append("Fetching case.  This may take a minute.");
+        if (poll != 0) {
+            clearInterval(poll);
+            poll = 0;
+            $("#results").empty();
+            $("#casetitle").empty();
+        }
         poll = setInterval(function(){pollFunc(id)}, 5000);
         pollCounter = 0;
     };
