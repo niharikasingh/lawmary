@@ -2,7 +2,7 @@ $(function() {
     
     //console.log("SEARCH.JS: JS started");
     $("#results").empty();
-    $("#searchbox").keyup(processInputsK);
+    //$("#searchbox").keyup(processInputsK);
     $("#searchButton").click(processInputs);
     
     //onload - clear search bar
@@ -98,8 +98,6 @@ $(function() {
         if (poll != 0) {
             clearInterval(poll);
             poll = 0;
-            $("#results").empty();
-            $("#casetitle").empty();
         }
         poll = setInterval(function(){pollFunc(id)}, 5000);
         pollCounter = 0;
