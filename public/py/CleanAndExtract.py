@@ -8,7 +8,7 @@ import logging, sys
 import warnings
 
 #testing locally
-home = False
+home = True
 
 #set up logging
 logging.basicConfig(stream=sys.stderr, level=logging.ERROR)
@@ -63,7 +63,7 @@ def clean(text):
             sentences[i] = u''
         else:
             sentences[i] = currS
-    sentences = [s for s in sentences if len(s) > 0]
+    sentences = [s for s in sentences if s != '']
     sumsentences = [s.replace('.', '') for s in sentences]
     stemmer = PorterStemmer()
     for i in range(len(sumsentences)):
@@ -110,8 +110,14 @@ def extractSentences(text, ratio):
     #most important sentences in ascending order of appearance in original
     sortedImportantSentences = []
     for i in range(len(sentences)):
+        s = sentences[i]
+        #mark dissents and concurrences
+        if (s[0]=='J' and ', dissenting' in s):
+            sortedImportantSentences.append("x")
+        elif (s[0]=='J' and ', concurring' in s):
+            sortedImportantSentences.append("+")
         if i in importantSentences:
-            sortedImportantSentences.append(sentences[i])
+            sortedImportantSentences.append(s)
     
     summary = soOrdered(sortedImportantSentences, sentences)
 
@@ -123,7 +129,7 @@ def main(args):
     logging.debug('Arguments are: {} {}'.format(args[1], args[2]))
     if (home == True):
         with open(args[1], 'r') as readfile:
-            readdata = readfile.read().decode("utf8")
+            readdata = readfile.read()
         return extractSentences(readdata, args[2])
     else:
         return extractSentences(args[1], args[2])

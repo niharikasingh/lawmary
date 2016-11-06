@@ -69,6 +69,8 @@ $(function() {
         if ((returnText != 'W') && (returnText.slice(0, 18) != "Looking for text: ")) {
             clearInterval(poll);
             poll = 0;
+            returnText = returnText.replace(/\*\*-\*\*x\*\*-\*\*/gim," </td></tr></tbody><tbody id = 'dissent'><tr><td>");
+            returnText = returnText.replace(/\*\*-\*\*\+\*\*-\*\*/gim," </td></tr></tbody><tbody id = 'concur'><tr><td>");
             returnText = returnText.replace(/\*\*-\*\*/gim," </td></tr><tr><td>");
             returnText = '<tr><td>' + returnText + '</td></tr>'
             $("#results").empty();
